@@ -1,7 +1,15 @@
+export interface NearbyBusiness {
+  name: string;
+  type: string;
+  distance: string;
+  address: string;
+}
+
 export interface Ramp {
   id: string;
   name: string;
   description: string;
+  longDescription: string; // populated by merge
   latitude: number;
   longitude: number;
   address: string;
@@ -17,13 +25,15 @@ export interface Ramp {
   waterBody: string;
   nearbyLandmarks: string;
   tips: string;
+  nearbyBusinesses: NearbyBusiness[]; // populated by merge
 }
 
-export const ramps: Ramp[] = [
+export const ramps = [
   {
     id: "wolf-creek-park",
     name: "Wolf Creek Park",
     description: "The premier tournament launch on Grand Lake with six wide concrete ramps, massive parking, and full facilities. The go-to ramp for bass tournaments and weekend warriors alike.",
+    longDescription: "Wolf Creek Park is the undisputed king of Grand Lake boat ramps. With six wide concrete ramps spread across a massive facility, it can handle the heaviest launch traffic on the lake — and it regularly does. This is the primary launch site for bass tournaments, including major B.A.S.S. and FLW events that draw hundreds of boats.\n\nExpect a well-organized experience: paved parking that can hold 400+ vehicles with trailers, clean restroom facilities, a large pavilion, and courtesy docks that make launching solo manageable. The ramps are in excellent condition year-round, maintained by the City of Grove.\n\nThe catch? It gets packed. Tournament weekends (especially spring and fall) can see lines starting before dawn. If you're a casual angler, weekday mornings are your best bet. The park is also a great spectator spot — watching 200 bass boats blast off at sunrise is a Grand Lake experience in itself.",
     latitude: 36.5947,
     longitude: -94.7697,
     address: "963 Wolf Creek Park Rd",
@@ -482,8 +492,179 @@ export const ramps: Ramp[] = [
   },
 ];
 
+// Extended data — longDescription and nearbyBusinesses per ramp
+const extendedData: Record<string, { longDescription: string; nearbyBusinesses: NearbyBusiness[] }> = {
+  "wolf-creek-park": {
+    longDescription: "Wolf Creek Park is the undisputed king of Grand Lake boat ramps. With six wide concrete ramps spread across a massive facility, it can handle the heaviest launch traffic on the lake — and it regularly does. This is the primary launch site for bass tournaments, including major B.A.S.S. and FLW events that draw hundreds of boats.\n\nExpect a well-organized experience: paved parking that can hold 400+ vehicles with trailers, clean restroom facilities, a large pavilion, and courtesy docks that make launching solo manageable. The ramps are in excellent condition year-round, maintained by the City of Grove.\n\nThe catch? It gets packed. Tournament weekends (especially spring and fall) can see lines starting before dawn. If you're a casual angler, weekday mornings are your best bet. The park is also a great spectator spot — watching 200 bass boats blast off at sunrise is a Grand Lake experience in itself.",
+    nearbyBusinesses: [
+      { name: "Honey Creek Outdoors", type: "Bait & Tackle", distance: "2.1 miles", address: "Hwy 59, Grove OK" },
+      { name: "Cherokee Casino Grove", type: "Entertainment", distance: "3.5 miles", address: "19500 E Hwy 66, Grove OK" },
+      { name: "Grove Quick Stop", type: "Gas Station", distance: "1.8 miles", address: "Hwy 59, Grove OK" },
+    ],
+  },
+  "honey-creek-state-park": {
+    longDescription: "Honey Creek State Park offers a solid two-lane concrete ramp that serves as a quieter alternative to the often-packed Wolf Creek Park. Located just off Highway 59 south of Grove, it's easy to find and gets you on the water without the tournament-weekend chaos.\n\nThe ramps are well-maintained by Oklahoma State Parks with clean restroom facilities nearby. Parking is adequate for typical weekday and weekend use, though it can fill up on holiday weekends. The approach to the water is gentle, making it suitable for all boat sizes.\n\nThis is a favorite among locals who want a quick, no-drama launch. The surrounding area is scenic and the drive in through the park is pleasant. Best for bass boats and pontoons heading to the mid-lake area.",
+    nearbyBusinesses: [
+      { name: "Honey Creek Outdoors", type: "Bait & Tackle", distance: "1.5 miles", address: "Hwy 59, Grove OK" },
+      { name: "Casey's General Store", type: "Gas Station", distance: "2.0 miles", address: "Hwy 59, Grove OK" },
+    ],
+  },
+  "bernice-state-park": {
+    longDescription: "Bernice State Park is the go-to family launch on Grand Lake. Two wide concrete ramps, a playground for kids, picnic areas, and clean restrooms make this the most family-friendly boat ramp on the lake.\n\nThe park sits on the upper end of Grand Lake near the Sailboat Bridge, giving quick access to some excellent crappie fishing areas. Parking is generous and the approach is easy for larger rigs. The ramps handle pontoons and fishing boats equally well.\n\nPlan to make a day of it — launch in the morning, let the kids play at the playground while you load up, and use the picnic area for a lakeside lunch. The park is maintained by Oklahoma State Parks and the facilities are consistently clean.",
+    nearbyBusinesses: [
+      { name: "Southwinds Marina", type: "Marina", distance: "2.8 miles", address: "Bernice OK" },
+      { name: "Indian Hills Marina", type: "Marina", distance: "3.2 miles", address: "Bernice OK" },
+      { name: "Bernice General Store", type: "Gas Station", distance: "1.5 miles", address: "Hwy 85A, Bernice OK" },
+    ],
+  },
+  "disney-area-state-park": {
+    longDescription: "Disney Area State Park features one of the rare lighted boat ramps on Grand Lake, making it the go-to launch for pre-dawn fishing trips and night excursions. Located near the iconic Pensacola Dam on the south end of the lake, it offers access to some of Grand Lake's best structure fishing.\n\nThe single concrete ramp is in good condition and can handle boats of all sizes. Parking is sufficient for most days, though the lot is smaller than the big ramps up north. The lighting is the real draw — it makes 4 AM launches safe and easy when you're chasing those first-light bass bites.\n\nThe area around the dam itself is worth exploring. You're close to Disney, one of Grand Lake's original resort towns, and the spillway below the dam is a popular spot for catching stripers and white bass during the spring run.",
+    nearbyBusinesses: [
+      { name: "Blue Water Bait & Tackle", type: "Bait & Tackle", distance: "1.2 miles", address: "Hwy 28, Disney OK" },
+      { name: "Cedar Port Marina", type: "Marina", distance: "2.5 miles", address: "Disney OK" },
+    ],
+  },
+  "cherokee-area-state-park": {
+    longDescription: "Cherokee Area State Park sits below the Pensacola Dam, providing access to some of Grand Lake's best striper fishing. The tailwater area below the dam is legendary for big striped bass, especially during spring and fall generation schedules when GRDA releases water.\n\nThe single concrete ramp is straightforward and well-maintained. Restrooms are available on site. This area sees a different crowd than the main-lake ramps — it's mostly serious anglers who know the striper patterns and time their trips around dam generation.\n\nIf you're targeting stripers or hybrid bass, this is your launch point. The water below the dam can be swift during generation, so know your boat's capabilities and check GRDA's generation schedule before heading out.",
+    nearbyBusinesses: [
+      { name: "Pensacola Dam Visitor Center", type: "Attraction", distance: "0.5 miles", address: "Langley OK" },
+      { name: "Langley General Store", type: "Gas Station", distance: "2.0 miles", address: "Langley OK" },
+    ],
+  },
+  "cherokee-part-2": {
+    longDescription: "This secondary ramp on the east side of Pensacola Dam offers a quieter alternative to the main Cherokee launch. It's less known and less visited, which is exactly its appeal — on busy weekends when the main ramp has a line, this one is often empty.\n\nThe single concrete ramp is basic but functional. There are no restrooms at this specific location, so plan accordingly. The approach road is gravel but well-maintained. Parking is limited to maybe 15-20 vehicles with trailers.\n\nThis ramp puts you on the water near the dam's east side, which has some excellent rock structure for bass fishing. It's also a good launch point if you're heading to the mid-lake area and want to avoid the congestion near Grove.",
+    nearbyBusinesses: [
+      { name: "Pensacola Dam", type: "Attraction", distance: "0.3 miles", address: "Langley OK" },
+    ],
+  },
+  "twin-bridges-state-park": {
+    longDescription: "Twin Bridges State Park is as far north as you can go on Grand Lake and still be on the lake. Located at the confluence of the Neosho and Spring Rivers near Wyandotte, this park offers a unique launch experience with river and lake access.\n\nTwo concrete ramps serve the park, which also has camping, picnic areas, and clean restrooms. The water here is shallower and more river-like than the main lake body, making it ideal for kayaks, canoes, and shallow-draft fishing boats. Jon boats are king in this area.\n\nThe fishing is different up here too — think channel catfish, flatheads, and smallmouth bass rather than the largemouth tournament scene down south. It's a more relaxed, old-school fishing experience. The park itself is beautiful, with mature trees and scenic river views.",
+    nearbyBusinesses: [
+      { name: "Wyandotte Nation Casino", type: "Entertainment", distance: "3.0 miles", address: "Wyandotte OK" },
+      { name: "Wyandotte Food Mart", type: "Gas Station", distance: "2.5 miles", address: "Hwy 137, Wyandotte OK" },
+    ],
+  },
+  "310-road-boat-ramp": {
+    longDescription: "The 310 Road Boat Ramp is about as no-frills as it gets on Grand Lake — and that's exactly why some locals love it. No restrooms, no courtesy dock, no amenities of any kind. Just a concrete ramp, a patch of gravel parking, and the water.\n\nWhat you get in exchange is speed and solitude. On a weekday morning, you might be the only one here. The ramp is in decent condition and handles bass boats and smaller craft well. Larger pontoons can launch here but the approach is a bit tight.\n\nThis is a locals-know ramp. It won't show up in most guides, and the road in is easy to miss if you're not looking for it. But if you want to be on the water in five minutes with zero hassle, this is your spot.",
+    nearbyBusinesses: [
+      { name: "Ketchum Convenience", type: "Gas Station", distance: "3.0 miles", address: "Ketchum OK" },
+    ],
+  },
+  "ketchum-public-fishing-ramp": {
+    longDescription: "Ketchum's public fishing ramp is a solid local launch point with the bonus of excellent bank fishing access nearby. The single concrete ramp is maintained and gets you on the water efficiently.\n\nParking is modest — room for perhaps 20 vehicles with trailers. The ramp works best for smaller boats: bass boats, jon boats, and kayaks. The surrounding area offers good bank fishing for those who don't have a boat, making this a versatile spot for anglers of all kinds.\n\nThe town of Ketchum is small but has the basics — gas, snacks, and bait. The ramp puts you on the mid-lake section with easy access to some productive cove fishing.",
+    nearbyBusinesses: [
+      { name: "Ketchum Convenience", type: "Gas Station", distance: "0.5 miles", address: "Main St, Ketchum OK" },
+    ],
+  },
+  "hammerhead-ramp": {
+    longDescription: "Hammerhead Ramp is one of the most convenient launches on Grand Lake, combining a solid boat ramp with the amenities of Hammerhead Marina right next door. The concrete ramp has a courtesy dock, and fuel is available at the marina — so you can top off before heading out.\n\nThe real bonus is the food. Sharky's Bar and VIP Pizza are literally steps from the ramp. It's a Grand Lake tradition: launch your boat, fish all morning, pull back in, and walk straight to Sharky's for a cold beer and a burger. Some anglers plan their entire day around this ramp just for the convenience.\n\nThe ramp handles all boat sizes and the courtesy dock makes solo launches easy. Parking is adequate, though it shares the lot with marina customers on busy weekends.",
+    nearbyBusinesses: [
+      { name: "Sharky's Bar", type: "Restaurant", distance: "0.1 miles", address: "E 300 Rd, Ketchum OK" },
+      { name: "VIP Pizza", type: "Restaurant", distance: "0.1 miles", address: "E 300 Rd, Ketchum OK" },
+      { name: "Hammerhead Marina", type: "Marina", distance: "0.1 miles", address: "E 300 Rd, Ketchum OK" },
+    ],
+  },
+  "duck-creek-ramp": {
+    longDescription: "Duck Creek Ramp gives you access to one of Grand Lake's most famous coves — Duck Creek, home of the lake's legendary 4th of July fireworks show. Thousands of boats raft up in this cove every Independence Day for one of Oklahoma's biggest on-the-water celebrations.\n\nOutside of holiday madness, Duck Creek is a peaceful fishing area with good bass and crappie habitat along its banks and docks. The single concrete ramp is basic but functional, with gravel parking for about 15 trailers.\n\nThis ramp is best for bass boats and smaller craft. The cove itself is protected from the main lake wind, making it a good option on days when the main body is too rough to fish comfortably.",
+    nearbyBusinesses: [
+      { name: "Blue Water Bait & Tackle", type: "Bait & Tackle", distance: "3.0 miles", address: "Disney OK" },
+    ],
+  },
+  "connors-bridge-ramp": {
+    longDescription: "Connors Bridge Ramp is one of those quiet launches that locals keep to themselves. The single concrete ramp sees a fraction of the traffic that the bigger ramps get, making it ideal for a quick, no-wait launch.\n\nThe ramp is in fair condition and best suited for fishing boats and smaller craft. Parking is limited to about 10-12 vehicles with trailers. There are no facilities — no restrooms, no dock, just the ramp and the water.\n\nThe location puts you in a productive mid-lake area with access to several good fishing coves. If you're the type who'd rather spend your time fishing than waiting in a launch line, Connors Bridge is worth the drive.",
+    nearbyBusinesses: [
+      { name: "Ketchum Convenience", type: "Gas Station", distance: "2.5 miles", address: "Ketchum OK" },
+    ],
+  },
+  "miami-city-view-park": {
+    longDescription: "Miami City View Park Ramp sits at the far upper end of Grand Lake, where the lake transitions into the Neosho River. This is a different world from the main-lake ramps — quieter water, less boat traffic, and a more relaxed atmosphere.\n\nThe single concrete ramp is maintained by the City of Miami and has restrooms on site. Parking is adequate for the light traffic this area sees. The water here is shallower and more stained than the clear main lake, which means different fishing — think catfish, drum, and river-run species.\n\nThe town of Miami (pronounced My-AM-uh by locals — never Miami like Florida) is worth exploring, with the Coleman Theatre and a revitalized downtown. This ramp is a good option if you're staying in the Miami/Vinita area.",
+    nearbyBusinesses: [
+      { name: "QuikTrip", type: "Gas Station", distance: "1.5 miles", address: "Steve Owens Blvd, Miami OK" },
+      { name: "Montana Mike's Steakhouse", type: "Restaurant", distance: "2.0 miles", address: "Miami OK" },
+    ],
+  },
+  "shangri-la-ramp": {
+    longDescription: "The Shangri-La ramp is adjacent to the famous Shangri-La Resort on Monkey Island, one of Grand Lake's premiere destinations. Access to the ramp may require coordination with the resort, and a fee may apply — call ahead to confirm current rules.\n\nThe ramp is concrete and in good condition, consistent with the resort's standards. The location gives you quick access to the mid-lake area around Monkey Island, which has some of the lake's best deep-water structure fishing.\n\nIf you're staying at Shangri-La for golf, dining, or a lake vacation, having the ramp right there is incredibly convenient. The resort also has pontoon and boat rentals if you didn't bring your own.",
+    nearbyBusinesses: [
+      { name: "Shangri-La Resort", type: "Resort", distance: "0.1 miles", address: "57301 E Hwy 125, Afton OK" },
+      { name: "Shangri-La Golf Club", type: "Golf Course", distance: "0.2 miles", address: "Monkey Island, Afton OK" },
+    ],
+  },
+  "s-579-loop-ramp": {
+    longDescription: "This public ramp off S 579 Loop is one of Grand Lake's hidden gems — and by hidden, we mean literally hard to find. The gravel turnoff is easy to miss from the road, and there's minimal signage. But locals who know it use it regularly.\n\nThe single concrete ramp is basic but serviceable. Parking is a small gravel area that fits maybe 8-10 trailers. No facilities of any kind. It's a get-in-get-out kind of launch.\n\nThe location is east of Grove with good access to the main lake. Best for experienced boaters who know the area and don't need hand-holding. If you pass a locked gate, you've gone too far.",
+    nearbyBusinesses: [
+      { name: "Grove Quick Stop", type: "Gas Station", distance: "3.5 miles", address: "Grove OK" },
+    ],
+  },
+  "ok-125-ramp": {
+    longDescription: "This quiet public ramp along Highway 125 serves the south end of Grand Lake. It sees very little traffic compared to the popular ramps near Grove, making it a good option for anglers who value solitude over convenience.\n\nThe single concrete ramp is in fair condition. The approach is straightforward from the highway. Parking is limited gravel. No restrooms or other facilities.\n\nThe south end of the lake near Disney has excellent structure — submerged timber, rock points, and creek channels that hold bass year-round. If you know the south-end spots, this ramp gets you closer to them than driving all the way to Wolf Creek.",
+    nearbyBusinesses: [
+      { name: "Disney General Store", type: "Gas Station", distance: "2.0 miles", address: "Disney OK" },
+    ],
+  },
+  "cleora-ramp": {
+    longDescription: "The Cleora ramp stands out for one critical feature: 24-hour access with lighting. On a lake where most ramps don't have lights, this is a big deal. Pre-dawn launches, night fishing trips, and early-morning tournament prep are all possible here.\n\nThe single concrete ramp is public and free. Parking handles about 20 trailers. The area north of Grove near Cleora is a mix of residential and lake properties, and the ramp is well-known among early-rising locals.\n\nIf you're a serious angler who likes to be on the water before first light, bookmark this one. It's also a good take-out point if you find yourself fishing later than planned and need a lit ramp to load up safely.",
+    nearbyBusinesses: [
+      { name: "Casey's General Store", type: "Gas Station", distance: "2.5 miles", address: "Grove OK" },
+    ],
+  },
+  "grove-main-lake-ramp": {
+    longDescription: "This public ramp gives direct access to the main body of Grand Lake from the Grove area. The upside is open-water access to some of the lake's best fishing structure. The downside is exposure — on windy days, the main lake can get rough, and loading a boat in 2-foot chop isn't fun.\n\nThe single concrete ramp is in acceptable condition. Parking is a small gravel lot. No facilities. Best for experienced boaters who are comfortable in open water.\n\nCalm mornings are the move here. Launch early, fish the main-lake points and humps, and be back before the afternoon wind picks up. The area around Grove's main lake access has some trophy bass structure that the tournament guys target.",
+    nearbyBusinesses: [
+      { name: "Grove Quick Stop", type: "Gas Station", distance: "2.0 miles", address: "Grove OK" },
+    ],
+  },
+  "grove-restrooms-ramp": {
+    longDescription: "This Grove-area public ramp stands out from the other small public ramps because it actually has restroom facilities nearby — a small but significant comfort when you're spending all day on the water.\n\nThe single concrete ramp is in good condition and handles bass boats and pontoons well. Parking is better than most of the smaller public ramps, with room for perhaps 15-20 trailers on a paved lot.\n\nIt's a solid middle-ground option: more facilities than the bare-bones public ramps, but less crowded than Wolf Creek. Good for families who need restroom access but don't want the tournament-weekend crowds.",
+    nearbyBusinesses: [
+      { name: "Honey Creek Outdoors", type: "Bait & Tackle", distance: "2.5 miles", address: "Hwy 59, Grove OK" },
+      { name: "Casey's General Store", type: "Gas Station", distance: "1.8 miles", address: "Grove OK" },
+    ],
+  },
+  "safe-harbor-harbors-view": {
+    longDescription: "Safe Harbor Harbors View is a full-service marina facility near Afton that offers the most complete amenities of any launch point on Grand Lake. You'll find not just a boat ramp, but restrooms, showers, fuel, and courtesy docks — everything you need for a comfortable day on the water.\n\nThe concrete ramp is well-maintained and the marina staff are helpful. A fee may apply for ramp access if you're not a marina customer. The facilities — especially the restrooms and showers — are a cut above what you'll find at public ramps.\n\nThis is the civilized option. If you're introducing someone to Grand Lake boating, or you just want a clean, easy, no-hassle launch experience, Safe Harbor delivers. The location gives quick access to the main lake around the Monkey Island area.",
+    nearbyBusinesses: [
+      { name: "Safe Harbor Harbors View Marina Store", type: "Marina", distance: "0.0 miles", address: "451107 E 320 Rd, Afton OK" },
+      { name: "Shangri-La Resort", type: "Resort", distance: "2.0 miles", address: "Monkey Island, Afton OK" },
+    ],
+  },
+  "monkey-island-marina": {
+    longDescription: "Monkey Island Marina sits on Grand Lake's most famous landmark — Monkey Island, a real island connected to the mainland by a causeway. The marina offers 24-hour ramp access, which is rare on the lake.\n\nThe concrete ramp is maintained by the marina and handles all boat sizes. The island location gives you immediate access to deep main-lake water and some of the best structure fishing on Grand Lake. The area around Monkey Island has submerged road beds, rock piles, and deep channels that hold bass and stripers year-round.\n\nMonkey Island itself is worth exploring: restaurants, a resort, a golf course, and a unique community of lake houses. Many visitors make a weekend of it — launch from the marina, fish all day, and explore the island in the evening.",
+    nearbyBusinesses: [
+      { name: "Monkey Island Marina Store", type: "Marina", distance: "0.0 miles", address: "1 Dogwood Ln, Afton OK" },
+      { name: "Shangri-La Golf Club", type: "Golf Course", distance: "1.5 miles", address: "Monkey Island, Afton OK" },
+    ],
+  },
+  "paradise-cove-marine-resort": {
+    longDescription: "Paradise Cove Marine Resort sits in a protected cove near Langley, making it the smartest launch choice on windy days. When the main lake is churning with 3-foot whitecaps and other ramps are a nightmare, Paradise Cove is calm.\n\nThe marina ramp is concrete and in good condition. Restrooms are available. A fee may apply for non-marina customers. The protected cove environment makes this the easiest loading and unloading experience on the lake — no fighting wind and waves while trying to get your boat on the trailer.\n\nBeyond the wind protection, the cove itself has decent fishing along its docks and shoreline structure. It's also a short run to the main lake once you clear the cove mouth. Keep this one in your back pocket for rough weather days.",
+    nearbyBusinesses: [
+      { name: "Paradise Cove Marine Store", type: "Marina", distance: "0.0 miles", address: "30736 S 4539 Rd, Langley OK" },
+      { name: "Langley General Store", type: "Gas Station", distance: "3.0 miles", address: "Langley OK" },
+    ],
+  },
+  "red-arrow-marina": {
+    longDescription: "Red Arrow Marina near Ketchum is a practical choice for boaters who launch from the same spot regularly. The marina offers boat storage, so you can skip the trailer hassle entirely on return trips.\n\nThe concrete ramp is in good condition and handles all boat sizes. Restrooms are available at the marina. The location on the mid-lake section gives access to productive fishing areas without a long run.\n\nIf you're a seasonal visitor or a local who fishes weekly, the boat storage option here can save you hours of launching and loading over a season. It's not the fanciest marina on the lake, but it's reliable and the staff are familiar with the local waters.",
+    nearbyBusinesses: [
+      { name: "Red Arrow Marina Store", type: "Marina", distance: "0.0 miles", address: "E 305 Rd, Ketchum OK" },
+      { name: "Ketchum Convenience", type: "Gas Station", distance: "1.5 miles", address: "Ketchum OK" },
+    ],
+  },
+};
+
+// Merge extended data into ramps
+for (const r of ramps) {
+  const ext = extendedData[r.id];
+  if (ext) {
+    (r as Ramp).longDescription = ext.longDescription;
+    (r as Ramp).nearbyBusinesses = ext.nearbyBusinesses;
+  } else {
+    (r as Ramp).longDescription = r.description;
+    (r as Ramp).nearbyBusinesses = [];
+  }
+}
+
 export function getRampById(id: string): Ramp | undefined {
-  return ramps.find((r) => r.id === id);
+  return (ramps as Ramp[]).find((r) => r.id === id);
 }
 
 export const amenityLabels: Record<string, { label: string; icon: string }> = {

@@ -95,6 +95,73 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Ramps by Area */}
+      <section className="max-w-6xl mx-auto px-4 pb-12">
+        <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-4">Boat Ramps by Area</h2>
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
+          {(() => {
+            const areaMap: Record<string, typeof ramps> = {};
+            for (const r of ramps) { const c = r.city; if (!areaMap[c]) areaMap[c] = []; areaMap[c].push(r); }
+            return Object.entries(areaMap).sort((a, b) => b[1].length - a[1].length).map(([city, cityRamps]) => (
+              <button key={city} onClick={() => { setArea(city); document.getElementById("ramps")?.scrollIntoView({ behavior: "smooth" }); }}
+                className="bg-white border border-gray-200 rounded-lg p-3 text-left hover:border-water hover:shadow-sm transition">
+                <p className="font-bold text-charcoal text-sm">{city}</p>
+                <p className="text-gray-400 text-xs">{cityRamps.length} ramp{cityRamps.length > 1 ? "s" : ""}</p>
+              </button>
+            ));
+          })()}
+        </div>
+      </section>
+
+      {/* About Grand Lake */}
+      <section className="max-w-4xl mx-auto px-4 pb-16">
+        <div className="bg-white border border-gray-200 rounded-2xl p-8 shadow-sm">
+          <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-4">About Grand Lake O&apos; the Cherokees</h2>
+          <div className="space-y-4 text-gray-600 leading-relaxed text-sm">
+            <p>
+              Grand Lake O&apos; the Cherokees is a 46,000-acre reservoir in Northeast Oklahoma with over 1,300 miles of shoreline. Created by the Pensacola Dam in 1940, it&apos;s one of Oklahoma&apos;s most popular destinations for fishing, boating, and water sports, drawing over 3 million visitors annually.
+            </p>
+            <p>
+              The lake is renowned for its bass fishing — largemouth, smallmouth, and spotted bass all thrive here, along with crappie, catfish, white bass, striped bass, and paddlefish. Major bass tournament trails including B.A.S.S. and FLW regularly hold events on Grand Lake, with Wolf Creek Park in Grove serving as the primary tournament launch site.
+            </p>
+            <p>
+              Grand Lake stretches across multiple towns in Northeast Oklahoma including Grove, Vinita, Jay, Miami, Afton, Langley, Disney, Ketchum, Bernice, Wyandotte, and the famous Monkey Island. Each area offers different fishing opportunities and launch points, from the wide-open main lake to quiet river-fed coves.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      {/* Homepage FAQ */}
+      <section className="max-w-4xl mx-auto px-4 pb-16">
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          mainEntity: [
+            { "@type": "Question", name: "How many boat ramps are on Grand Lake?", acceptedAnswer: { "@type": "Answer", text: "There are 23 known public and marina boat ramps on Grand Lake O' the Cherokees, spread across Grove, Disney, Ketchum, Afton, Bernice, Langley, Wyandotte, and Miami." } },
+            { "@type": "Question", name: "Are Grand Lake boat ramps free?", acceptedAnswer: { "@type": "Answer", text: "Most public boat ramps on Grand Lake are free, including all state park ramps and city-operated ramps. Some marina ramps may charge a fee for non-customers." } },
+            { "@type": "Question", name: "What is the best boat ramp on Grand Lake?", acceptedAnswer: { "@type": "Answer", text: "Wolf Creek Park in Grove is the most popular, with 6 concrete ramps, parking for 400+ vehicles, and restrooms. It's the primary tournament launch site on Grand Lake." } },
+            { "@type": "Question", name: "Can I launch a boat at night on Grand Lake?", acceptedAnswer: { "@type": "Answer", text: "Disney Area State Park has a lighted boat ramp for night launches. The Cleora public ramp also offers 24-hour access. Most other ramps are not lit." } },
+          ],
+        }) }} />
+        <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-4">Frequently Asked Questions</h2>
+        <div className="space-y-2">
+          {[
+            { q: "How many boat ramps are on Grand Lake?", a: "There are 23 known public and marina boat ramps on Grand Lake O' the Cherokees, spread across Grove, Disney, Ketchum, Afton, Bernice, Langley, Wyandotte, and Miami." },
+            { q: "Are Grand Lake boat ramps free?", a: "Most public boat ramps on Grand Lake are free, including all state park ramps and city-operated ramps. Some marina ramps may charge a fee for non-customers." },
+            { q: "What is the best boat ramp on Grand Lake?", a: "Wolf Creek Park in Grove is the most popular, with 6 concrete ramps, parking for 400+ vehicles, and restrooms. It's the primary tournament launch site on Grand Lake." },
+            { q: "Can I launch a boat at night on Grand Lake?", a: "Disney Area State Park has a lighted boat ramp for night launches. The Cleora public ramp also offers 24-hour access. Most other ramps are not lit." },
+          ].map((f, i) => (
+            <details key={i} className="bg-white border border-gray-200 rounded-xl overflow-hidden shadow-sm group">
+              <summary className="px-5 py-4 cursor-pointer font-semibold text-charcoal text-sm hover:text-water transition list-none flex items-center justify-between">
+                {f.q}
+                <svg className="w-4 h-4 text-gray-400 group-open:rotate-180 transition-transform flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" /></svg>
+              </summary>
+              <div className="px-5 pb-4 text-gray-600 text-sm leading-relaxed">{f.a}</div>
+            </details>
+          ))}
+        </div>
+      </section>
+
       {/* Submit CTA */}
       <section id="submit" className="max-w-2xl mx-auto px-4 pb-20">
         <div className="bg-white border border-gray-200 rounded-2xl p-8 text-center shadow-sm">

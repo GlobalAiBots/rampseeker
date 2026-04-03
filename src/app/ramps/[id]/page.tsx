@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { ramps, getRampById, amenityLabels } from "@/data/ramps";
+import { ramps, getRampById, amenityLabels, type Ramp } from "@/data/ramps";
 import type { Metadata } from "next";
 
 export function generateStaticParams() {
@@ -16,7 +16,7 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
     description: `${ramp.name} boat ramp in ${ramp.city}, OK. ${ramp.rampCount} ramp${ramp.rampCount > 1 ? "s" : ""}, ${ramp.surface} surface, ${ramp.fee}. GPS: ${ramp.latitude}, ${ramp.longitude}. ${ramp.tips}`,
     openGraph: {
       title: `${ramp.name} — Grand Lake Boat Ramp`,
-      description: `${ramp.description}`,
+      description: ramp.description,
       url: `https://rampseeker.com/ramps/${ramp.id}`,
       siteName: "RampSeeker",
       type: "article",
@@ -25,39 +25,77 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   };
 }
 
+function buildFaqs(ramp: Ramp) {
+  const faqs = [
+    { q: `Is ${ramp.name} free to use?`, a: ramp.fee === "free" ? `Yes, ${ramp.name} is completely free to use with no launch fees.` : `${ramp.name} has the following fee structure: ${ramp.fee}. Check with the operator for current rates.` },
+    { q: `Does ${ramp.name} have restrooms?`, a: ramp.amenities.includes("restrooms") ? `Yes, ${ramp.name} has restroom facilities on site.` : `No, ${ramp.name} does not have restroom facilities. Plan accordingly.` },
+    { q: `How many boat ramps are at ${ramp.name}?`, a: `${ramp.name} has ${ramp.rampCount} concrete boat ramp${ramp.rampCount > 1 ? "s" : ""}.` },
+    { q: `What type of surface does ${ramp.name} have?`, a: `The boat ramp${ramp.rampCount > 1 ? "s" : ""} at ${ramp.name} ${ramp.rampCount > 1 ? "are" : "is"} ${ramp.surface}.` },
+    { q: `Who operates ${ramp.name}?`, a: `${ramp.name} is operated by ${ramp.operatedBy}.` },
+  ];
+  return faqs;
+}
+
 export default async function RampPage({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;
   const ramp = getRampById(id);
   if (!ramp) notFound();
 
-  const nearby = ramps.filter((r) => r.id !== ramp.id).sort((a, b) => {
+  const nearby = (ramps as Ramp[]).filter((r) => r.id !== ramp.id).sort((a, b) => {
     const distA = Math.abs(a.latitude - ramp.latitude) + Math.abs(a.longitude - ramp.longitude);
     const distB = Math.abs(b.latitude - ramp.latitude) + Math.abs(b.longitude - ramp.longitude);
     return distA - distB;
   }).slice(0, 4);
 
+  const faqs = buildFaqs(ramp);
   const mapsUrl = `https://www.google.com/maps/dir/?api=1&destination=${ramp.latitude},${ramp.longitude}`;
   const embedUrl = `https://www.google.com/maps?q=${ramp.latitude},${ramp.longitude}&z=14&output=embed`;
+  const isFree = ramp.fee === "free";
 
-  const jsonLd = {
+  const placeSchema = {
     "@context": "https://schema.org",
     "@type": "Place",
     name: ramp.name,
     description: ramp.description,
     geo: { "@type": "GeoCoordinates", latitude: ramp.latitude, longitude: ramp.longitude },
-    address: { "@type": "PostalAddress", streetAddress: ramp.address, addressLocality: ramp.city, addressRegion: ramp.state, postalCode: ramp.zip },
-    amenityFeature: ramp.amenities.map((a) => ({ "@type": "LocationFeatureSpecification", name: amenityLabels[a]?.label || a })),
+    address: { "@type": "PostalAddress", streetAddress: ramp.address, addressLocality: ramp.city, addressRegion: "OK", addressCountry: "US", postalCode: ramp.zip },
+    amenityFeature: ramp.amenities.map((a) => ({ "@type": "LocationFeatureSpecification", name: amenityLabels[a]?.label || a, value: true })),
+    isAccessibleForFree: isFree,
+    publicAccess: true,
+    containedInPlace: { "@type": "LakeBodyOfWater", name: "Grand Lake O' the Cherokees" },
+  };
+
+  const faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faqs.map((f) => ({
+      "@type": "Question",
+      name: f.q,
+      acceptedAnswer: { "@type": "Answer", text: f.a },
+    })),
+  };
+
+  const breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://rampseeker.com" },
+      { "@type": "ListItem", position: 2, name: "Grand Lake Boat Ramps", item: "https://rampseeker.com/#ramps" },
+      { "@type": "ListItem", position: 3, name: ramp.name, item: `https://rampseeker.com/ramps/${ramp.id}` },
+    ],
   };
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-10">
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(placeSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
 
       {/* Breadcrumbs */}
       <nav className="text-sm text-gray-400 mb-6 flex gap-2">
         <Link href="/" className="hover:text-water transition">Home</Link>
         <span>/</span>
-        <span className="text-gray-500">Grand Lake</span>
+        <Link href="/#ramps" className="hover:text-water transition">Grand Lake Boat Ramps</Link>
         <span>/</span>
         <span className="text-charcoal font-medium">{ramp.name}</span>
       </nav>
@@ -135,8 +173,52 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
         </div>
       )}
 
+      {/* Long Description */}
+      {ramp.longDescription && ramp.longDescription !== ramp.description && (
+        <div className="bg-white border border-gray-200 rounded-xl p-6 mb-8 shadow-sm">
+          <h3 className="font-[Cabin] font-bold text-charcoal mb-3">What to Know About {ramp.name}</h3>
+          {ramp.longDescription.split("\n\n").map((p, i) => (
+            <p key={i} className="text-gray-600 leading-relaxed mb-4 last:mb-0">{p}</p>
+          ))}
+        </div>
+      )}
+
+      {/* Nearby Businesses */}
+      {ramp.nearbyBusinesses && ramp.nearbyBusinesses.length > 0 && (
+        <div className="mb-8">
+          <h3 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Nearby</h3>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+            {ramp.nearbyBusinesses.map((b) => (
+              <div key={b.name} className="bg-white border border-gray-200 rounded-xl p-4 shadow-sm">
+                <div className="flex items-center justify-between mb-1">
+                  <p className="font-bold text-charcoal text-sm">{b.name}</p>
+                  <span className="text-xs font-semibold text-forest bg-forest/10 px-2 py-0.5 rounded-full">{b.type}</span>
+                </div>
+                <p className="text-gray-400 text-xs">{b.distance} &middot; {b.address}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {/* FAQ Section */}
+      <div className="mb-12">
+        <h3 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Frequently Asked Questions</h3>
+        <div className="space-y-2">
+          {faqs.map((f, i) => (
+            <details key={i} className="bg-white border border-gray-200 rounded-xl overflow-hidden shadow-sm group">
+              <summary className="px-5 py-4 cursor-pointer font-semibold text-charcoal text-sm hover:text-water transition list-none flex items-center justify-between">
+                {f.q}
+                <svg className="w-4 h-4 text-gray-400 group-open:rotate-180 transition-transform flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" /></svg>
+              </summary>
+              <div className="px-5 pb-4 text-gray-600 text-sm leading-relaxed">{f.a}</div>
+            </details>
+          ))}
+        </div>
+      </div>
+
       {/* Nearby Ramps */}
-      <div className="mt-12">
+      <div>
         <h3 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Nearby Ramps</h3>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
           {nearby.map((n) => (
