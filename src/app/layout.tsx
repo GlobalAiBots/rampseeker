@@ -22,6 +22,9 @@ export const metadata: Metadata = {
     description: "261+ boat ramps across 19 Oklahoma lakes. GPS coordinates, amenities, local tips.",
   },
   alternates: { canonical: "https://rampseeker.com" },
+  verification: {
+    google: "JWsw31t4naK4EN6UbytAGjUR7PuyS4e3i1lgEcjM-R4",
+  },
 };
 
 function Nav() {
