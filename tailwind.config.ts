@@ -9,12 +9,14 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        navy: "#0F172A",
-        "navy-light": "#1E293B",
-        water: "#0EA5E9",
-        "water-dark": "#0284C7",
-        sand: "#F5E6D3",
-        "sand-dark": "#E8D5BF",
+        cream: "#FAFAF5",
+        water: "#1E6091",
+        "water-light": "#2980B9",
+        forest: "#2D6A4F",
+        "forest-light": "#40916C",
+        sunset: "#E76F51",
+        "sunset-dark": "#D35F44",
+        charcoal: "#2B2B2B",
       },
     },
   },

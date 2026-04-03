@@ -19,17 +19,17 @@ export const metadata: Metadata = {
 
 function Nav() {
   return (
-    <nav className="sticky top-0 z-50 bg-navy/95 backdrop-blur border-b border-white/10">
+    <nav className="sticky top-0 z-50 bg-white/95 backdrop-blur border-b border-gray-200">
       <div className="max-w-6xl mx-auto px-4 h-14 flex items-center justify-between">
-        <Link href="/" className="flex items-center gap-2 font-bold text-lg">
+        <Link href="/" className="flex items-center gap-2 font-bold text-lg font-[Cabin]">
           <span className="text-2xl">&#9875;</span>
-          <span className="text-white">Ramp<span className="text-water">Seeker</span></span>
+          <span className="text-charcoal">Ramp<span className="text-water">Seeker</span></span>
         </Link>
-        <div className="flex items-center gap-6 text-sm">
-          <Link href="/" className="text-slate-400 hover:text-water transition hidden sm:block">Home</Link>
-          <Link href="/map" className="text-slate-400 hover:text-water transition">Map</Link>
-          <Link href="/about" className="text-slate-400 hover:text-water transition">About</Link>
-          <a href="#submit" className="text-water font-semibold hover:text-white transition">Submit a Ramp</a>
+        <div className="flex items-center gap-6 text-sm font-medium">
+          <Link href="/" className="text-gray-500 hover:text-water transition hidden sm:block">Home</Link>
+          <Link href="/map" className="text-gray-500 hover:text-water transition">Map</Link>
+          <Link href="/about" className="text-gray-500 hover:text-water transition">About</Link>
+          <a href="#submit" className="text-sunset font-bold hover:text-sunset-dark transition">Submit a Ramp</a>
         </div>
       </div>
     </nav>
@@ -38,15 +38,15 @@ function Nav() {
 
 function Footer() {
   return (
-    <footer className="border-t border-white/10 mt-20">
+    <footer className="bg-gray-100 border-t border-gray-200 mt-16">
       <div className="max-w-6xl mx-auto px-4 py-10">
-        <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 text-sm text-slate-500">
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 text-sm text-gray-500">
           <div>
-            <p className="font-bold text-slate-300 mb-2">&#9875; RampSeeker</p>
+            <p className="font-bold text-charcoal mb-2 font-[Cabin]">&#9875; RampSeeker</p>
             <p>The most complete boat ramp directory for Grand Lake O&apos; the Cherokees, Oklahoma.</p>
           </div>
           <div>
-            <p className="font-bold text-slate-300 mb-2">Links</p>
+            <p className="font-bold text-charcoal mb-2">Links</p>
             <div className="flex flex-col gap-1">
               <Link href="/" className="hover:text-water transition">All Ramps</Link>
               <Link href="/map" className="hover:text-water transition">Map</Link>
@@ -54,13 +54,13 @@ function Footer() {
             </div>
           </div>
           <div>
-            <p className="font-bold text-slate-300 mb-2">Know a ramp we missed?</p>
-            <a href="mailto:hello@rampseeker.com" className="text-water hover:text-white transition">hello@rampseeker.com</a>
+            <p className="font-bold text-charcoal mb-2">Know a ramp we missed?</p>
+            <a href="mailto:hello@rampseeker.com" className="text-water hover:text-water-light transition">hello@rampseeker.com</a>
           </div>
         </div>
-        <div className="mt-8 pt-6 border-t border-white/10 flex flex-wrap justify-between items-center text-xs text-slate-600 gap-4">
+        <div className="mt-8 pt-6 border-t border-gray-200 flex flex-wrap justify-between items-center text-xs text-gray-400 gap-4">
           <span>&copy; {new Date().getFullYear()} RampSeeker. All rights reserved.</span>
-          <span>A <a href="https://grandlakeai.com" target="_blank" className="text-water/60 hover:text-water transition">Grand Lake AI</a> project.</span>
+          <span>A <a href="https://grandlakeai.com" target="_blank" className="text-water/70 hover:text-water transition">Grand Lake AI</a> project.</span>
         </div>
       </div>
     </footer>
@@ -74,9 +74,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
         {/* eslint-disable-next-line @next/next/no-page-custom-font */}
-        <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet" />
       </head>
-      <body className="font-[Inter] antialiased min-h-screen flex flex-col">
+      <body className="font-['Source_Sans_3'] antialiased min-h-screen flex flex-col">
         <Nav />
         <main className="flex-1">{children}</main>
         <Footer />
