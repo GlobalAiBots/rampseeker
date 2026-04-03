@@ -1,0 +1,390 @@
+Birch Cove Boat Ramp
+Hominy Landing Boat Ramp
+Osage Park Boat Ramp
+Skiatook Point Boat Ramp
+Wichita Ridge Boat Ramp
+Chisholm Trail Ridge Boat Ramp
+Keystone Ramp
+Beaver Creek Boat Ramp
+Kiowa I Boat Ramp
+Kiowa II Boat Ramp
+Caney Creek Boat Ramp
+Burns Run East Boat Ramp
+Blue Creek Boat Ramp
+Platter Flats Boat Ramp
+Johnson Creek Boat Ramp
+Redbud Bay Boat Ramp
+Bull Creek Boat Ramp
+Sandy Park Boat Ramp
+Pioneer Boat Ramp
+Sardis Cove Boat Ramp
+Turkey Creek Boat Ramp
+Lost Rapids Boat Ramp
+Little River Boat Ramp
+Blackdog Park Boat Ramp
+Rocky Point Boat Ramp
+McFadden Cove Boat Ramp
+Bluff Landing Boat Ramp
+Wildwood Boat Ramp
+Coon Creek Boat Ramp
+Flat Rock Creek Boat Ramp
+TWIN COVE POINT
+New Mannford Ramp
+COPAN POINT
+The Point Campground (Chickasaw)
+POTATO HILLS SOUTH
+BURNS RUN WEST
+WASHINGTON IRVING SOUTH
+WASHUNGA BAY
+WASHINGTON COVE
+TURKEY CREEK
+TWIN POINTS
+VIRGIL POINT
+TALL CHIEF COVE
+TAYLOR FERRY
+STRAYHORN LANDING
+SUPPLY PARK
+SPENCER CREEK
+SNAKE CREEK
+SHEPPARD POINT
+SARGE CREEK
+SANDY COVE
+ROCKY POINT (FT GIBSON)
+PORUM LANDING
+POST OAK PARK
+PINE CREEK COVE
+PETTIT BAY
+OSAGE COVE
+LOST RAPIDS
+LONGDALE
+LITTLE RIVER PARK
+LAKESIDE (OK)
+KIOWA PARK I
+JOHNSON CREEK
+HEYBURN PARK
+HIGHWAY 9 LANDING
+HAWTHORN BLUFF
+FAIRVIEW
+FLAT ROCK CREEK
+GENTRY CREEK
+ELK CREEK LANDING
+DAM SITE (FORT GIBSON LAKE)
+LADYBIRD LANDING
+COON CREEK (OK)
+COOKSON BEND
+CHICKEN CREEK
+CHISHOLM TRAIL RIDGE
+BIRCH COVE
+BURNS RUN EAST
+CANADIAN
+CANEY CREEK
+BUNCOMBE CREEK
+BROOKEN COVE
+BLUE BILL POINT
+BLUE CREEK
+BIG BEND (OK)
+BELLE STARR
+BEAR CREEK COVE
+Wilson Point Pavilion
+VETERANS LAKE PAVILION
+BUCKHORN PAVILION
+CEDAR LAKE (OKLAHOMA)
+Mill Creek (OK)
+Appalachia Bay Recreation Area
+Blaine Park
+Tullahasse Loop
+Wahoo Bay
+Sandy Park
+Buckhorn Campground Loop D
+Buckhorn Campground Loop B
+Afton Landing
+Beaver Point
+McFadden Cove
+Buckhorn Campground Loop A
+Walnut Creek
+Snake Creek Cove
+Eufaula Lake
+Hulah Lake
+Red River – Addington Bend
+Eufaula Lake – Grave Creek
+Eufaula Lake – Dutchess Creek
+Little Buckhead Creek
+Heyburn Reservoir
+Kaw Lake – Little Beaver Creek
+Lake Texoma
+Lake Texoma
+Lake Texoma
+Hellroaring Creek
+Spring Creek
+Highway 99 Bridge
+Cedar Lake
+Optima Lake
+Optima Lake
+Lake Texoma
+Optima Lake
+East BIlls Creek
+East Bills Creek
+Kingfisher Creek
+Hog Creek
+Hulah Lake
+Broken Bow Lake
+Broken Bow Lake
+Dead Indian Creek
+Rush Creek
+Canadian RIver
+Eufaula Lake
+Lake Texoma
+Tom Sneed Lake
+Glen Creek
+Arkansas River
+Oologah Lake
+Oologah Lake
+Oologah Lake
+Oologah Lake
+Lake Texoma
+Poteau River
+Hugo Lake
+Wister Lake
+Hugo Lake
+Fort Cobb Reservoir
+Fort Cobb Reservoir
+Fort Cobb Reservoir
+Lagoon Creek
+Cimarron River
+Canton Lake
+Keystone Lake
+Canton Lake – Elm Tree
+Lake Humphreys
+Taylor Lake
+Lake Fuqua
+Clear Creek Lake
+Pauls Valley City Lake 2
+Guy Sandy
+Pauls Valley City Lake 1
+Buckhorn
+Lake Pawhuska
+Bluestem Lake
+Lake Konawa
+Twin Lakes 1
+Twin Lakes 2
+Lake Wes Watkins 1
+Lake Wes Watkins 2
+Lake Atoka Reservoir
+Buster Hight
+Potapo
+Lake McMurtry East
+Grassy Hollow
+Lake McMurtry West
+Lake Carl Blackwell 2
+Lake Carl Blackwell 1
+Pine Grove 1
+Pine Grove 2
+Sunset Bay
+Lake Chickasha Dam
+West Lakeview Road
+Lake Chickasha
+Lake Chickasha
+132nd Avenue
+108th Avenue
+North Sentinal
+Little Axe
+Little River State Park-Turkey Pass
+Post Oak
+Little River State Park
+Lake Thunderbird Boathouse
+Hog Creek
+Hick's Mountain Road
+Quartz Mountain State Park
+Lakeview
+Fisherman's Cove
+Collier's Landing
+Resort Road
+Edgewater Blvd
+Lake Lawtonka
+Sunken Bridge Yact Club
+Lawton City
+Robinson Landing
+Lake Frederick
+Bear Creek Landin
+Witchita Ridge
+Chisholm Trail Ridge Park
+Kiowa Park North
+Kiowa Park 2
+Waurika Lake Marina
+Newberry Creek
+Lakeside
+Little City
+Little Glasses Bay
+Catfish Bay 2
+Park Area 500
+Catfish Bay 1
+Willow Springs
+Burns Run East
+Burns Run Road
+Colbert Boat Club
+Willafa Woods
+Ramp Road
+Washita Point
+Caney Creek Yacht Club
+Leverich Road
+Rock Creek Road
+Cardinal Cove
+Buncombe Creek Marina
+University of Oklahoma Biological Station
+Brier Creek
+Lebanon
+Turkey Creek North
+Turkey Creek South
+Wah-Sha-She-South
+Wah-Sha-She
+Wah-Sha-She-East
+Quarry Cove 2
+Skull Creek South
+Quarry Cove 1
+Osage Plains Park
+Washington Cove Park
+Copan Point
+Twin Coves
+Birch Cove
+Unknown
+Cross Timbers Marina
+Tall Chief Cove
+Skiatook Point
+Osage Park
+Crystal Bay Marina
+Black Dog 2
+Eagle Creek
+Black Dog 1
+Hominy Landing
+Keystone State Park 2
+Keystone State Park 1
+Keystone
+Washington Irving South
+West Old Keystone Road
+Sailing Club
+E0530 Road
+Indian Station
+Osage Point Park
+Elk City Lake Park
+Cutberth
+Mouse Creek
+Northside
+Sandy Beach Road
+Sandy Beach
+Copper Cove
+N2460 Road
+Canadian
+Big Bend 3
+Big Bend 2
+Big Bend 1
+Longdale
+Lake Fort Supply
+Lake Fort Supply
+Lake Fort Supply
+Lake Fort Supply
+Lake Fort Supply
+Lake Fort Supply
+Lake Evans Chambers
+Hickory Point
+Dripping Springs Lake
+Red Oak
+Okmulgee Park
+Blackjack
+Deep Fork
+Gentry Creek
+Graves Creek
+Gentry Creek-North Eufaula
+Eufaula State Park-Dogwood
+Lake Eufaula Marina
+Belle Starr
+Indian Springs
+Route 9
+Lakeshore Drive
+Oak Ridge
+Peter's Point South
+Eufaula State Park-Lower Loop
+Crowder Point-Rock Creek
+Crowder Point-East
+Cardinal Point
+Crowder Point-West
+Potato Hill South
+Sardis Cove
+Lost Rapids Park
+Clayton Lake State Park
+Coyote Drive
+Beavers Bend 1
+Beavers Bend 2
+Carson Creek 2
+Carson Creek 1
+Lake Wister State Park
+Mayo Dam
+Vian Creek
+Stoney Point (Tuff)
+Horseshoe Bend
+Etta Bend
+Pettit Bay 2
+Dry Creek
+Pettit Bay 1
+Elk Creek Landing
+Standing Rock Landing
+Cherokee Landing State Park
+Sisemore Landing
+Cookson Bend 1
+Cookson Bend 2
+Cookson Bluff
+Chicken Creek
+Sixshooter Camp
+Snake Creek Cove
+Strayhorn Landing
+Blackgum Landing
+Hickory Flats at Tenkiller State Park
+Fishermans Point
+Sequoyah Bay Recreation Area
+Green Leaf State Park
+Jackson Bay Recreation Area
+Taylors Ferry
+Toppers
+Long Bay
+Whitehorn Cove
+Snug Harbor
+Blue Bill Point
+Rocky Point
+Flat Rock Creek
+Spencer Creek Cove
+Vada Point
+Hammerhead
+Redbud
+Arrowhead Yacht Club
+Bernice Area at Grand Lake State park
+Wolf Creek Park
+Neosho River -Grand Lake
+Honey Creek State Park
+Chimney Rock Lake
+Cherokee State Park
+Fairview Road
+Launch 1 Hudson Lake
+Upper Spavinaw Recreation Area
+Highway 10
+Fairfax City Lake
+Highway 15
+Ski Dock
+Pageant Area
+McFadden Cove
+Windmill Cove
+Osage Cove
+Bear Creek Cove
+Claremore Lake Park
+Spring Creek
+Central State Park
+Edmond Park – 2nd Street
+Tipps Point
+Martins Landing
+Elephant Rock
+Marrieta Landing
+Lake Murray – North
+Lake Murray State Park – Rock Tower
+Lake Murray Marina
+Exchange Avenue
+SW 15th Street and S. Portland Avenue
+Lake Stanley Draper Marina
+S. Lincoln Blvd
