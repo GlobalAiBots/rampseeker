@@ -256,6 +256,19 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
           ))}
         </div>
       </div>
+
+      {/* People Also Search For */}
+      <div className="mt-10 bg-gray-50 border border-gray-200 rounded-xl p-5">
+        <h3 className="font-[Cabin] font-bold text-charcoal mb-3 text-sm">People Also Search For</h3>
+        <div className="flex flex-wrap gap-2">
+          <Link href={`/find/${ramp.city.toLowerCase().replace(/\s+/g, "-")}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-water hover:border-water transition">Boat ramps near {ramp.city}</Link>
+          {lake && (
+            <Link href={lake.id === "grand-lake" ? "/grand-lake" : `/lakes/${lake.id}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-water hover:border-water transition">{lake.name} boat ramps</Link>
+          )}
+          <Link href="/best/free-boat-ramps-oklahoma" className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-water hover:border-water transition">Free boat ramps in Oklahoma</Link>
+          <Link href={`/find/${ramp.city.toLowerCase().replace(/\s+/g, "-")}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-water hover:border-water transition">Where to launch near {ramp.city} OK</Link>
+        </div>
+      </div>
     </div>
   );
 }

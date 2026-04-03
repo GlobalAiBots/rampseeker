@@ -4,12 +4,14 @@ import { useState } from "react";
 import Link from "next/link";
 import { unified, getAllCities, amenityLabels } from "@/data/all-ramps";
 import { lakes, getLakeForRamp } from "@/data/lakes";
+import { cities } from "@/data/cities";
 
 const filterAmenities = ["restrooms", "courtesy-dock", "lighting", "fuel-nearby"];
 
 export default function Home() {
   const featured = unified.filter((r) => r.featured);
   const allCities = getAllCities();
+  const [search, setSearch] = useState("");
   const [city, setCity] = useState("All");
   const [amenityFilter, setAmenityFilter] = useState<string[]>([]);
   const [showAll, setShowAll] = useState(false);
@@ -46,7 +48,26 @@ export default function Home() {
         <p className="text-gray-500 text-lg mt-6 max-w-xl mx-auto leading-relaxed">
           {unified.length}+ boat ramps across Oklahoma. Starting with the most complete guide to <span style={{ whiteSpace: "nowrap" }}>Grand Lake</span> O&apos; the Cherokees.
         </p>
-        <div className="flex gap-3 justify-center mt-8 flex-wrap">
+        {/* Near Me search */}
+        <div className="max-w-md mx-auto mt-8">
+          <div className="flex gap-2">
+            <div className="relative flex-1">
+              <input type="text" value={search} onChange={(e) => setSearch(e.target.value)} placeholder="Find ramps near a city..."
+                className="w-full px-4 py-3 rounded-lg bg-white border border-gray-200 text-charcoal text-sm outline-none focus:border-water focus:ring-2 focus:ring-water/20 transition shadow-sm font-['Source_Sans_3']" />
+              {search.length > 1 && (
+                <div className="absolute top-full left-0 right-0 mt-1 bg-white border border-gray-200 rounded-lg shadow-lg z-10 max-h-48 overflow-y-auto">
+                  {cities.filter((c) => c.name.toLowerCase().includes(search.toLowerCase())).slice(0, 8).map((c) => (
+                    <Link key={c.slug} href={`/find/${c.slug}`} className="block px-4 py-2 text-sm text-charcoal hover:bg-water/5 hover:text-water transition">
+                      Boat ramps near {c.name}, OK <span className="text-gray-400">({c.ramps.length})</span>
+                    </Link>
+                  ))}
+                </div>
+              )}
+            </div>
+          </div>
+        </div>
+
+        <div className="flex gap-3 justify-center mt-4 flex-wrap">
           <Link href="/grand-lake" className="bg-sunset hover:bg-sunset-dark text-white font-bold px-6 py-3 rounded-lg transition shadow-sm">Grand Lake Ramps</Link>
           <Link href="/oklahoma" className="border-2 border-water text-water hover:bg-water hover:text-white font-bold px-6 py-3 rounded-lg transition">All Oklahoma</Link>
           <Link href="/map" className="border-2 border-gray-300 text-gray-600 hover:border-water hover:text-water font-bold px-6 py-3 rounded-lg transition">View Map</Link>

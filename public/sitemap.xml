@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://rampseeker.com/</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://rampseeker.com/grand-lake</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://rampseeker.com/oklahoma</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://rampseeker.com/lakes</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://rampseeker.com/</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/grand-lake</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/oklahoma</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/lakes</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/map</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rampseeker.com/about</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://rampseeker.com/about</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/best</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/best/free-boat-ramps-oklahoma</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/best/boat-ramps-with-restrooms</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/best/lighted-boat-ramps</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/best/boat-ramps-with-courtesy-docks</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/best/boat-ramps-with-fuel</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/lakes/arcadia-lake</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/lakes/broken-bow-lake</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/lakes/fort-cobb-lake</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -188,4 +194,85 @@
   <url><loc>https://rampseeker.com/ramps/wolf-creek-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/ramps/wolf-creek-park-and-boating-facility</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/ramps/wolf-creek-park</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/find/afton</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/ardmore</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/bernice</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/broken-arrow</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/broken-bow</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/burbank</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/butler</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/canadian</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/carlton-landing</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/cartwright</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/chandler</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/chouteau</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/claremore</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/clayton</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/cleora</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/cleveland</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/clinton</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/comanche</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/cookson</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/copan</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/council-hill</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/disney</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/eagletown</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/edmond</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/elgin</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/eufaula</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/fairland</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/fort-cobb</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/glencoe</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/gore</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/grant</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/grove</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/henryetta</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/hugo</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/hydro</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/inola</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/jay</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/kaw-city</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/ketchum</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/kingston</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/langley</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/lawton</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/mannford</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/mcloud</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/mead</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/medicine-park</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/miami</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/mountain-park</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/muldrow</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/muskogee</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/newkirk</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/norman</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/nowata</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/oklahoma-74432</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/oklahoma-city</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/okmulgee</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/oologah</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/park-hill</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/ponca-city</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/poteau</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/pump-back</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/quinton</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/rocky-point</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/salina</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/sand-springs</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/sequoyah</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/shawnee</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/skiatook</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/sperry</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/spiro</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/springer</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/stigler</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/sulphur</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/talala</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/texanna</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/tullahassee</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/vian</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/wagoner</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/waurika</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/wewoka</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/wyandotte</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 </urlset>
