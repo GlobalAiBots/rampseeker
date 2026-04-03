@@ -33,7 +33,7 @@ export default function Home() {
       <section className="relative py-20 md:py-28 text-center px-4 bg-cream" style={{ backgroundImage: "radial-gradient(circle at 20% 80%, rgba(30,96,145,0.06) 0%, transparent 50%), radial-gradient(circle at 80% 20%, rgba(45,106,79,0.06) 0%, transparent 50%)" }}>
         <p className="text-forest text-sm font-bold tracking-wider uppercase mb-4 font-[Cabin]">Grand Lake O&apos; the Cherokees</p>
         <h1 className="font-[Cabin] text-4xl md:text-6xl font-bold text-charcoal leading-tight max-w-3xl mx-auto">
-          Every Boat Ramp on Grand Lake
+          Every Boat Ramp on{" "}<span style={{ whiteSpace: "nowrap" }}>Grand Lake</span>
         </h1>
         <p className="text-gray-500 text-lg mt-6 max-w-xl mx-auto leading-relaxed">
           {ramps.length} launch points. GPS coordinates. Local tips. The most complete boat ramp guide for Grand Lake O&apos; the Cherokees.
