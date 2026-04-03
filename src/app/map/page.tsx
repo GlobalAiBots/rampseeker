@@ -14,9 +14,7 @@ export const metadata: Metadata = {
 };
 
 export default function MapPage() {
-  // Build markers for a static Google Maps embed showing all ramps
   const center = "36.55,-94.85";
-  const markers = ramps.map((r) => `markers=color:blue|label:${r.name.charAt(0)}|${r.latitude},${r.longitude}`).join("&");
   const embedUrl = `https://www.google.com/maps?q=Grand+Lake+Oklahoma+boat+ramps&ll=${center}&z=10&output=embed`;
 
   return (

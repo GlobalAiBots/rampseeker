@@ -84,9 +84,9 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
         <a href={mapsUrl} target="_blank" rel="noopener noreferrer" className="bg-water hover:bg-water-dark text-white font-bold px-5 py-2.5 rounded-xl transition flex items-center gap-2">
           <span>&#128204;</span> Get Directions
         </a>
-        <button onClick={() => { if (typeof navigator !== "undefined") navigator.clipboard?.writeText(`${ramp.latitude}, ${ramp.longitude}`); }} className="bg-navy-light border border-white/10 hover:border-water/40 text-slate-300 font-semibold px-5 py-2.5 rounded-xl transition">
-          Copy GPS: {ramp.latitude}, {ramp.longitude}
-        </button>
+        <span className="bg-navy-light border border-white/10 text-slate-300 font-semibold px-5 py-2.5 rounded-xl select-all cursor-text font-mono text-sm">
+          {ramp.latitude}, {ramp.longitude}
+        </span>
       </div>
 
       {/* Description */}
