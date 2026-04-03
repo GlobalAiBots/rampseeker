@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Script from "next/script";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -69,7 +70,11 @@ function Footer() {
         </div>
         <div className="mt-8 pt-6 border-t border-gray-200 flex flex-wrap justify-between items-center text-xs text-gray-400 gap-4">
           <span>&copy; {new Date().getFullYear()} RampSeeker. All rights reserved.</span>
-          <span>A <a href="https://grandlakeai.com" target="_blank" className="text-water/70 hover:text-water transition">Grand Lake AI</a> project.</span>
+          <div className="flex gap-3">
+            <a href="mailto:hello@rampseeker.com?subject=Advertising%20Inquiry" className="hover:text-water transition">Advertise With Us</a>
+            <span>&middot;</span>
+            <span>A <a href="https://grandlakeai.com" target="_blank" className="text-water/70 hover:text-water transition">Grand Lake AI</a> project.</span>
+          </div>
         </div>
       </div>
     </footer>
@@ -89,6 +94,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Nav />
         <main className="flex-1">{children}</main>
         <Footer />
+        <Script src="https://www.globalaibots.com/widget-demo.js" strategy="afterInteractive" data-agent-name="RampSeeker Guide" data-color="#1E6091" />
       </body>
     </html>
   );

@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { counties, getCountyBySlug } from "@/data/counties";
 import { amenityLabels } from "@/data/all-ramps";
 import { getLakeForRamp } from "@/data/lakes";
+import AdSlot from "@/components/AdSlot";
 import type { Metadata } from "next";
 
 export function generateStaticParams() {
@@ -73,6 +74,7 @@ export default async function CountyPage({ params }: { params: Promise<{ county:
           );
         })}
       </div>
+      <AdSlot position="county-below-ramps" />
     </div>
   );
 }

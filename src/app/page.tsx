@@ -6,6 +6,8 @@ import { unified, amenityLabels } from "@/data/all-ramps";
 import { lakes, getLakeForRamp } from "@/data/lakes";
 import { cities } from "@/data/cities";
 import { counties } from "@/data/counties";
+import AdSlot from "@/components/AdSlot";
+import EmailCapture from "@/components/EmailCapture";
 
 const amenityKeys = ["restrooms", "courtesy-dock", "lighting", "fuel-nearby", "parking", "picnic-area"];
 
@@ -214,6 +216,8 @@ export default function Home() {
             </div>
           </section>
 
+          <AdSlot position="homepage-mid" />
+
           {/* Browse by County */}
           <section className="max-w-6xl mx-auto px-4 pb-8">
             <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Browse by County</h2>
@@ -263,6 +267,8 @@ export default function Home() {
         </>
       )}
 
+      <div className="max-w-4xl mx-auto px-4"><AdSlot position="homepage-pre-faq" /></div>
+
       {/* About Oklahoma */}
       <section className="max-w-4xl mx-auto px-4 py-12">
         <div className="bg-white border border-gray-200 rounded-2xl p-8 shadow-sm">
@@ -300,6 +306,8 @@ export default function Home() {
           ))}
         </div>
       </section>
+
+      <EmailCapture />
 
       {/* Submit */}
       <section id="submit" className="max-w-2xl mx-auto px-4 pb-20">

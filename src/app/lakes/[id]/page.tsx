@@ -2,6 +2,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { lakes, getLakeById, getLakeForRamp } from "@/data/lakes";
 import { unified, amenityLabels } from "@/data/all-ramps";
+import AdSlot from "@/components/AdSlot";
+import CletusPromo from "@/components/CletusPromo";
 import type { Metadata } from "next";
 
 export function generateStaticParams() {
@@ -123,6 +125,8 @@ export default async function LakePage({ params }: { params: Promise<{ id: strin
         {lakeRamps.length === 0 && <p className="text-gray-400 col-span-3">No ramps found for this lake yet. <a href="mailto:hello@rampseeker.com" className="text-water">Know one? Submit it.</a></p>}
       </div>
 
+      <AdSlot position="lake-below-ramps" />
+
       {/* About */}
       <div className="bg-white border border-gray-200 rounded-2xl p-6 mb-10 shadow-sm">
         <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-3">About {lake.name}</h2>
@@ -145,6 +149,8 @@ export default async function LakePage({ params }: { params: Promise<{ id: strin
           </details>
         ))}
       </div>
+
+      <CletusPromo />
 
       {/* Other Lakes */}
       <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Other Oklahoma Lakes</h2>

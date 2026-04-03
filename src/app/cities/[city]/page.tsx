@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { cities, getCityBySlug } from "@/data/cities";
 import { amenityLabels } from "@/data/all-ramps";
 import { getLakeForRamp } from "@/data/lakes";
+import AdSlot from "@/components/AdSlot";
 import { getCountyForCity } from "@/data/counties";
 import type { Metadata } from "next";
 
@@ -78,6 +79,7 @@ export default async function CityPage({ params }: { params: Promise<{ city: str
           );
         })}
       </div>
+      <AdSlot position="city-below-ramps" />
     </div>
   );
 }

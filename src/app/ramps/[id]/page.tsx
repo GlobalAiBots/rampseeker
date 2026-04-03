@@ -3,6 +3,9 @@ import { notFound } from "next/navigation";
 import { unified, getUnifiedRampById, amenityLabels, type UnifiedRamp } from "@/data/all-ramps";
 import { getLakeForRamp } from "@/data/lakes";
 import { getCountyForCity } from "@/data/counties";
+import AdSlot from "@/components/AdSlot";
+import CletusPromo from "@/components/CletusPromo";
+import GearRecommendation from "@/components/GearRecommendation";
 import type { Metadata } from "next";
 
 export function generateStaticParams() {
@@ -135,6 +138,8 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
         <iframe src={embedUrl} width="100%" height="100%" style={{ border: 0 }} loading="lazy" referrerPolicy="no-referrer-when-downgrade" title={`Map of ${ramp.name}`} />
       </div>
 
+      <AdSlot position="ramp-below-map" />
+
       {/* Actions */}
       <div className="flex flex-wrap gap-3 mb-8">
         <a href={mapsUrl} target="_blank" rel="noopener noreferrer" className="bg-sunset hover:bg-sunset-dark text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm">Get Directions</a>
@@ -215,9 +220,15 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
                     <p className="text-gray-400 text-xs">{b.distance} &middot; {b.address}</p>
                   </div>
                 ))}
+              <p className="text-gray-400 text-xs mt-3">
+                <a href="mailto:hello@rampseeker.com?subject=Premium%20Listing%20Inquiry" className="text-water hover:underline">Want your business listed here?</a>
+              </p>
               </div>
             </div>
           )}
+
+          {/* Gear for featured ramps */}
+          <GearRecommendation />
         </>
       )}
 
@@ -246,6 +257,9 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
           ))}
         </div>
       </div>
+
+      <AdSlot position="ramp-below-faq" />
+      <CletusPromo />
 
       {/* Nearby Ramps */}
       <div>
