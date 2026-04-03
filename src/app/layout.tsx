@@ -3,9 +3,9 @@ import Link from "next/link";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "RampSeeker | Every Boat Ramp in Oklahoma",
+  title: "RampSeeker | Every Boat Ramp in Oklahoma — 261+ Boat Ramps Across 19 Lakes",
   description:
-    "The most complete boat ramp directory for Oklahoma. 144+ ramps across Grand Lake, Tenkiller, Eufaula, Keystone, and more. GPS coordinates, amenities, local tips.",
+    "The most complete boat ramp directory in Oklahoma. 261+ ramps across 19 lakes including Grand Lake, Tenkiller, Eufaula, Keystone, Texoma, and more. GPS coordinates, amenities, local tips.",
   keywords:
     "Oklahoma boat ramp, boat ramp near me Oklahoma, Grand Lake boat ramp, boat launch Oklahoma, Oklahoma boat ramp directory",
   openGraph: {
@@ -43,7 +43,7 @@ function Footer() {
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 text-sm text-gray-500">
           <div>
             <p className="font-bold text-charcoal mb-2 font-[Cabin]">&#9875; RampSeeker</p>
-            <p>The most complete boat ramp directory for Grand Lake O&apos; the Cherokees, Oklahoma.</p>
+            <p>The most complete boat ramp directory in Oklahoma.</p>
           </div>
           <div>
             <p className="font-bold text-charcoal mb-2">Links</p>
