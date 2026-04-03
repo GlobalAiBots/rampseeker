@@ -27,25 +27,20 @@ function slugify(name: string): string {
     .substring(0, 60);
 }
 
-// Known Grand Lake name matches (fuzzy matching)
-const grandLakeNameMap: Record<string, string> = {};
-for (const r of grandLakeRamps as Ramp[]) {
-  grandLakeNameMap[r.name.toLowerCase()] = r.id;
-}
-
-function matchesGrandLake(name: string): string | null {
-  const lower = name.toLowerCase();
-  // Direct match
-  if (grandLakeNameMap[lower]) return grandLakeNameMap[lower];
-  // Partial matches
-  for (const [glName, glId] of Object.entries(grandLakeNameMap)) {
-    if (lower.includes(glName) || glName.includes(lower)) return glId;
-    // Match key words
-    const words = glName.split(/\s+/).filter((w) => w.length > 3);
-    const matchCount = words.filter((w) => lower.includes(w)).length;
-    if (matchCount >= 2 && words.length <= 4) return glId;
+/**
+ * Only consider an Oklahoma ramp a duplicate of a Grand Lake ramp if:
+ * 1. GPS coordinates are within 0.01 degrees (~1km), OR
+ * 2. Exact name match (case-insensitive)
+ */
+function isDuplicateOfGrandLake(name: string, lat: number, lng: number): boolean {
+  const lower = name.toLowerCase().trim();
+  for (const gl of grandLakeRamps as Ramp[]) {
+    // Exact name match
+    if (gl.name.toLowerCase() === lower) return true;
+    // GPS proximity match (within ~1km)
+    if (Math.abs(gl.latitude - lat) < 0.01 && Math.abs(gl.longitude - lng) < 0.01) return true;
   }
-  return null;
+  return false;
 }
 
 function generateDescription(raw: typeof oklahomaRampsRaw[0]): string {
@@ -89,51 +84,39 @@ for (const r of grandLakeRamps as Ramp[]) {
   });
 }
 
-// 2. Add Oklahoma ramps that don't duplicate Grand Lake ones
+// 2. Add Oklahoma ramps — only skip true duplicates
 for (const raw of oklahomaRampsRaw) {
-  const cleanName = raw.name.replace(/[^\w\s'-]/g, "").trim();
-  const slug = slugify(cleanName) || `ramp-${raw.place_id.substring(0, 8)}`;
+  const cleanName = raw.name.replace(/[^\w\s'-]/g, "").trim() || "Boat Ramp";
 
-  // Skip if matches a Grand Lake ramp
-  const glMatch = matchesGrandLake(raw.name);
-  if (glMatch) continue;
+  // Only skip if GPS or exact name matches a Grand Lake ramp
+  if (isDuplicateOfGrandLake(cleanName, raw.latitude, raw.longitude)) continue;
 
-  // Skip duplicate slugs
+  // Generate unique slug — append city if slug collides
+  let slug = slugify(cleanName) || "boat-ramp";
   if (seenSlugs.has(slug)) {
-    const deduped = `${slug}-${raw.city.toLowerCase().replace(/\s+/g, "-")}`;
-    if (seenSlugs.has(deduped)) continue;
-    seenSlugs.add(deduped);
-    allRamps.push({
-      id: deduped,
-      name: cleanName,
-      description: generateDescription(raw),
-      latitude: raw.latitude,
-      longitude: raw.longitude,
-      address: raw.formatted_address,
-      city: raw.city,
-      county: extractCounty(raw.formatted_address) || raw.county || "",
-      state: "OK",
-      rating: raw.rating || 0,
-      totalRatings: raw.total_ratings || 0,
-      featured: false,
-    });
-  } else {
-    seenSlugs.add(slug);
-    allRamps.push({
-      id: slug,
-      name: cleanName,
-      description: generateDescription(raw),
-      latitude: raw.latitude,
-      longitude: raw.longitude,
-      address: raw.formatted_address,
-      city: raw.city,
-      county: extractCounty(raw.formatted_address) || raw.county || "",
-      state: "OK",
-      rating: raw.rating || 0,
-      totalRatings: raw.total_ratings || 0,
-      featured: false,
-    });
+    slug = `${slug}-${slugify(raw.city)}`;
   }
+  // Still collides? append place_id fragment
+  if (seenSlugs.has(slug)) {
+    slug = `${slug}-${raw.place_id.substring(0, 6).toLowerCase()}`;
+  }
+  if (seenSlugs.has(slug)) continue; // truly identical — skip
+
+  seenSlugs.add(slug);
+  allRamps.push({
+    id: slug,
+    name: cleanName,
+    description: generateDescription(raw),
+    latitude: raw.latitude,
+    longitude: raw.longitude,
+    address: raw.formatted_address,
+    city: raw.city,
+    county: extractCounty(raw.formatted_address) || raw.county || "",
+    state: "OK",
+    rating: raw.rating || 0,
+    totalRatings: raw.total_ratings || 0,
+    featured: false,
+  });
 }
 
 export const unified = allRamps;
