@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import Script from "next/script";
+import CletusWidget from "@/components/CletusWidget";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -94,7 +94,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Nav />
         <main className="flex-1">{children}</main>
         <Footer />
-        <Script src="https://www.globalaibots.com/widget-demo.js" strategy="afterInteractive" data-agent-name="RampSeeker Guide" data-color="#1E6091" />
+        <CletusWidget />
       </body>
     </html>
   );
