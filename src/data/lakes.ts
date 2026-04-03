@@ -1,0 +1,260 @@
+export interface Lake {
+  id: string;
+  name: string;
+  description: string;
+  acres: number;
+  shorelineMiles: number;
+  maxDepth: number;
+  counties: string[];
+  fishSpecies: string[];
+  nearestTowns: string[];
+  /** GPS center for mapping */
+  lat: number;
+  lng: number;
+  /** Radius in degrees for matching ramps */
+  radius: number;
+}
+
+export const lakes: Lake[] = [
+  {
+    id: "grand-lake",
+    name: "Grand Lake O' the Cherokees",
+    description: "Grand Lake is Oklahoma's crown jewel — a 46,000-acre reservoir in the Ozark foothills of Northeast Oklahoma created by Pensacola Dam in 1940. With over 1,300 miles of shoreline, it's one of the most popular boating and fishing destinations in the central United States.\n\nThe lake is renowned for tournament bass fishing, with regular B.A.S.S. and FLW events drawing hundreds of professional anglers. Beyond largemouth bass, Grand Lake supports excellent populations of smallmouth bass, spotted bass, crappie, catfish, white bass, striped bass, and paddlefish.\n\nThe communities around Grand Lake — Grove, Vinita, Jay, Miami, Afton, Langley, Disney, Ketchum, Bernice, and the famous Monkey Island — offer a full resort experience with restaurants, marinas, golf courses, and entertainment.",
+    acres: 46500,
+    shorelineMiles: 1300,
+    maxDepth: 147,
+    counties: ["Delaware", "Ottawa", "Craig", "Mayes"],
+    fishSpecies: ["Largemouth Bass", "Smallmouth Bass", "Spotted Bass", "Crappie", "Catfish", "White Bass", "Striped Bass", "Paddlefish"],
+    nearestTowns: ["Grove", "Vinita", "Miami", "Afton", "Jay"],
+    lat: 36.55, lng: -94.85, radius: 0.25,
+  },
+  {
+    id: "lake-eufaula",
+    name: "Lake Eufaula",
+    description: "Lake Eufaula is one of the largest man-made lakes in the United States, sprawling across 102,000 surface acres in east-central Oklahoma. Created by the damming of the Canadian River, it stretches across parts of five counties and offers seemingly endless fishing opportunities.\n\nThe lake is famous for its largemouth bass, crappie, and catfish populations. The flooded timber and brush throughout the lake create ideal habitat for both bass and crappie anglers. Eufaula also hosts major fishing tournaments throughout the year.\n\nThe town of Eufaula on the lake's eastern shore serves as the main hub, with marinas, bait shops, and restaurants catering to anglers and boaters. Carlton Landing, a newer lakeside community on the western shore, has become a popular destination.",
+    acres: 102000,
+    shorelineMiles: 600,
+    maxDepth: 87,
+    counties: ["McIntosh", "Pittsburg", "Haskell", "Okmulgee", "Muskogee"],
+    fishSpecies: ["Largemouth Bass", "Crappie", "Catfish", "Hybrid Striper", "Saugeye"],
+    nearestTowns: ["Eufaula", "Stigler", "McAlester", "Checotah"],
+    lat: 35.35, lng: -95.55, radius: 0.20,
+  },
+  {
+    id: "keystone-lake",
+    name: "Keystone Lake",
+    description: "Keystone Lake sits just west of Tulsa, making it the most accessible major lake for the state's second-largest metro area. The 26,000-acre reservoir on the Arkansas and Cimarron Rivers offers solid fishing and easy weekend getaways for Tulsa-area residents.\n\nThe lake is known for good populations of largemouth and smallmouth bass, sand bass, crappie, and catfish. The Cimarron arm tends to be muddier while the Arkansas arm runs clearer — both have productive fishing areas.\n\nSand Springs, Cleveland, and Mannford are the main gateway towns. The Keystone Ancient Forest, a protected old-growth cross timbers forest on the lake's shores, is a unique natural attraction.",
+    acres: 26000,
+    shorelineMiles: 330,
+    maxDepth: 70,
+    counties: ["Tulsa", "Creek", "Osage", "Pawnee"],
+    fishSpecies: ["Largemouth Bass", "Smallmouth Bass", "Sand Bass", "Crappie", "Catfish"],
+    nearestTowns: ["Sand Springs", "Mannford", "Cleveland"],
+    lat: 36.18, lng: -96.30, radius: 0.15,
+  },
+  {
+    id: "lake-tenkiller",
+    name: "Lake Tenkiller",
+    description: "Lake Tenkiller is widely considered the clearest lake in Oklahoma, with visibility often reaching 15-20 feet. Nestled in the Cookson Hills of eastern Oklahoma, this 12,900-acre lake is a favorite for scuba diving, swimming, and fishing in crystal-clear water.\n\nThe lake holds excellent populations of largemouth and spotted bass, striped bass, and crappie. The clear water makes for exciting sight-fishing opportunities, especially along the rocky bluffs and points that characterize Tenkiller's rugged shoreline.\n\nThe surrounding area is heavily forested and scenic, with small towns like Vian, Gore, and Cookson serving as gateways. Several full-service marinas operate on the lake.",
+    acres: 12900,
+    shorelineMiles: 130,
+    maxDepth: 165,
+    counties: ["Cherokee", "Sequoyah"],
+    fishSpecies: ["Largemouth Bass", "Spotted Bass", "Striped Bass", "Crappie", "Catfish"],
+    nearestTowns: ["Vian", "Gore", "Tahlequah"],
+    lat: 35.65, lng: -94.95, radius: 0.15,
+  },
+  {
+    id: "kaw-lake",
+    name: "Kaw Lake",
+    description: "Kaw Lake is a 17,000-acre reservoir in north-central Oklahoma, popular for its excellent striped bass and white bass fishing. The lake sits in the tallgrass prairie region and offers a different feel from the forested eastern Oklahoma lakes.\n\nBesides stripers, Kaw Lake supports strong populations of largemouth bass, crappie, catfish, and walleye. The spring white bass run up the Arkansas River tributary is a major annual event that draws anglers from across the region.\n\nPonca City and Kaw City are the nearest towns. The Kaw Wildlife Management Area on the lake's western shore provides hunting and wildlife viewing opportunities.",
+    acres: 17000,
+    shorelineMiles: 168,
+    maxDepth: 80,
+    counties: ["Osage", "Kay"],
+    fishSpecies: ["Striped Bass", "White Bass", "Largemouth Bass", "Crappie", "Catfish", "Walleye"],
+    nearestTowns: ["Ponca City", "Kaw City", "Newkirk"],
+    lat: 36.72, lng: -96.87, radius: 0.15,
+  },
+  {
+    id: "fort-gibson-lake",
+    name: "Fort Gibson Lake",
+    description: "Fort Gibson Lake is a 19,900-acre reservoir on the Grand (Neosho) River in eastern Oklahoma. Known locally as a consistent crappie producer, it also offers good bass fishing along its numerous creek arms and timbered coves.\n\nThe lake benefits from relatively clear water for the region and diverse structure including standing timber, rocky points, and flooded brush. Wagoner is the primary gateway town with multiple marinas and launch facilities.\n\nFort Gibson Lake is connected to the McClellan-Kerr Arkansas River Navigation System, adding commercial barge traffic to the mix — something most Oklahoma lakes don't have.",
+    acres: 19900,
+    shorelineMiles: 225,
+    maxDepth: 61,
+    counties: ["Wagoner", "Cherokee", "Muskogee"],
+    fishSpecies: ["Crappie", "Largemouth Bass", "Catfish", "White Bass", "Hybrid Striper"],
+    nearestTowns: ["Wagoner", "Muskogee", "Tahlequah"],
+    lat: 35.85, lng: -95.20, radius: 0.15,
+  },
+  {
+    id: "skiatook-lake",
+    name: "Skiatook Lake",
+    description: "Skiatook Lake is a 10,500-acre reservoir north of Tulsa known for its trophy largemouth bass. The lake regularly produces double-digit fish and has become a bucket-list destination for serious bass anglers.\n\nBeyond bass, Skiatook offers good crappie and catfish populations. The lake's clear to moderately stained water and abundant shoreline cover make for excellent year-round fishing.\n\nThe town of Skiatook and the nearby Sperry area provide basic services. The lake is close enough to Tulsa for easy day trips.",
+    acres: 10500,
+    shorelineMiles: 80,
+    maxDepth: 85,
+    counties: ["Osage"],
+    fishSpecies: ["Largemouth Bass", "Crappie", "Catfish", "Bluegill"],
+    nearestTowns: ["Skiatook", "Sperry", "Owasso"],
+    lat: 36.39, lng: -96.20, radius: 0.10,
+  },
+  {
+    id: "oologah-lake",
+    name: "Oologah Lake",
+    description: "Oologah Lake is a 29,500-acre reservoir northeast of Tulsa on the Verdigris River. It's the birthplace of Will Rogers (the town of Oologah), and the lake bearing its name is one of the larger flood-control reservoirs in the state.\n\nFishing here targets largemouth bass, crappie, catfish, and saugeye. The lake can be turbid after heavy rains but clears up nicely during stable weather. Several well-maintained Corps of Engineers parks line the shores.\n\nClaremore, Oologah, and Nowata are nearby towns with services for anglers and boaters.",
+    acres: 29500,
+    shorelineMiles: 209,
+    maxDepth: 74,
+    counties: ["Rogers", "Nowata"],
+    fishSpecies: ["Largemouth Bass", "Crappie", "Catfish", "Saugeye"],
+    nearestTowns: ["Claremore", "Oologah", "Nowata"],
+    lat: 36.43, lng: -95.68, radius: 0.10,
+  },
+  {
+    id: "broken-bow-lake",
+    name: "Broken Bow Lake",
+    description: "Broken Bow Lake is a 14,000-acre mountain lake in the Ouachita Mountains of southeastern Oklahoma — arguably the most scenic lake in the state. Surrounded by pine-covered hills and the Beavers Bend State Park, it feels more like the Ozarks than Oklahoma.\n\nThe lake is famous for its trophy smallmouth bass, along with excellent largemouth bass, spotted bass, and catfish. The tailwater below the dam supports Oklahoma's premier trout fishery, stocked by the ODWC.\n\nBroken Bow and the Beavers Bend area have a thriving cabin rental and tourism industry. The lake draws visitors from Texas, Arkansas, and beyond.",
+    acres: 14000,
+    shorelineMiles: 180,
+    maxDepth: 187,
+    counties: ["McCurtain"],
+    fishSpecies: ["Smallmouth Bass", "Largemouth Bass", "Spotted Bass", "Catfish", "Trout (tailwater)"],
+    nearestTowns: ["Broken Bow", "Eagletown", "Hochatown"],
+    lat: 34.18, lng: -94.72, radius: 0.10,
+  },
+  {
+    id: "lake-texoma",
+    name: "Lake Texoma",
+    description: "Lake Texoma straddles the Oklahoma-Texas border and is one of the largest reservoirs in the United States at 89,000 acres. Fed by the Red and Washita Rivers, it's nationally famous for its striped bass fishery.\n\nTexoma's striper population is one of the few naturally reproducing landlocked populations in the country. Beyond stripers, the lake holds excellent populations of smallmouth bass, largemouth bass, catfish, and crappie.\n\nKingston, Madill, and Durant on the Oklahoma side offer full services. The lake draws anglers and boaters from both Dallas-Fort Worth and Oklahoma City.",
+    acres: 89000,
+    shorelineMiles: 580,
+    maxDepth: 110,
+    counties: ["Marshall", "Bryan", "Johnston", "Love"],
+    fishSpecies: ["Striped Bass", "Smallmouth Bass", "Largemouth Bass", "Catfish", "Crappie"],
+    nearestTowns: ["Kingston", "Madill", "Durant"],
+    lat: 33.99, lng: -96.63, radius: 0.15,
+  },
+  {
+    id: "fort-cobb-lake",
+    name: "Fort Cobb Lake",
+    description: "Fort Cobb Lake is a 4,100-acre reservoir in west-central Oklahoma known for producing quality largemouth bass and excellent catfish. The lake sits in agricultural country and benefits from nutrient-rich water that supports strong fish populations.\n\nFort Cobb State Park on the lake's shores offers camping, swimming, and full marina facilities. The relatively small size makes the lake easy to learn and fish effectively.\n\nThe town of Fort Cobb is small but provides basic services. Anadarko and Chickasha are nearby for more options.",
+    acres: 4100,
+    shorelineMiles: 36,
+    maxDepth: 55,
+    counties: ["Caddo"],
+    fishSpecies: ["Largemouth Bass", "Catfish", "Crappie", "Saugeye"],
+    nearestTowns: ["Fort Cobb", "Anadarko", "Chickasha"],
+    lat: 35.18, lng: -98.46, radius: 0.08,
+  },
+  {
+    id: "foss-reservoir",
+    name: "Foss Reservoir",
+    description: "Foss Reservoir is a 8,800-acre lake in western Oklahoma, one of the largest bodies of water in the western half of the state. The lake provides recreation for residents of Clinton, Weatherford, and the surrounding area.\n\nFishing targets walleye, sand bass, largemouth bass, and catfish. Foss State Park on the lake's shores offers camping, cabins, and a marina.",
+    acres: 8800,
+    shorelineMiles: 55,
+    maxDepth: 78,
+    counties: ["Custer", "Washita"],
+    fishSpecies: ["Walleye", "Sand Bass", "Largemouth Bass", "Catfish"],
+    nearestTowns: ["Clinton", "Butler", "Weatherford"],
+    lat: 35.55, lng: -99.20, radius: 0.10,
+  },
+  {
+    id: "lake-hudson",
+    name: "Lake Hudson",
+    description: "Lake Hudson (also known as Markham Ferry Reservoir) is a 10,900-acre lake on the Grand River in eastern Oklahoma, just downstream from Grand Lake. It offers a quieter alternative to its larger neighbor with good bass and crappie fishing.\n\nThe lake's flooded timber and brush provide excellent fish habitat. Salina and Pryor are the nearest towns with services.",
+    acres: 10900,
+    shorelineMiles: 200,
+    maxDepth: 80,
+    counties: ["Mayes"],
+    fishSpecies: ["Largemouth Bass", "Crappie", "Catfish", "White Bass"],
+    nearestTowns: ["Salina", "Pryor", "Chouteau"],
+    lat: 36.27, lng: -95.15, radius: 0.10,
+  },
+  {
+    id: "arcadia-lake",
+    name: "Arcadia Lake",
+    description: "Arcadia Lake is a 1,820-acre reservoir just east of Edmond in the Oklahoma City metro area. Despite its small size, it offers surprisingly good bass fishing and is the most accessible lake for Edmond and north OKC residents.\n\nThe lake prohibits gas-powered boats in some areas, making parts of it ideal for kayak fishing and paddleboarding. Central State Park provides launch facilities and trails.",
+    acres: 1820,
+    shorelineMiles: 29,
+    maxDepth: 45,
+    counties: ["Oklahoma"],
+    fishSpecies: ["Largemouth Bass", "Crappie", "Catfish", "Bluegill"],
+    nearestTowns: ["Edmond", "Arcadia", "Luther"],
+    lat: 35.65, lng: -97.38, radius: 0.05,
+  },
+  {
+    id: "lake-murray",
+    name: "Lake Murray",
+    description: "Lake Murray is a 5,700-acre lake in south-central Oklahoma, surrounded by Lake Murray State Park — Oklahoma's largest and oldest state park. The lake is popular for bass fishing, swimming, and camping.\n\nThe park offers extensive facilities including a lodge, cabins, golf course, and marina. Ardmore is the nearest city with full services.",
+    acres: 5700,
+    shorelineMiles: 67,
+    maxDepth: 110,
+    counties: ["Carter", "Love"],
+    fishSpecies: ["Largemouth Bass", "Crappie", "Catfish", "Sunfish"],
+    nearestTowns: ["Ardmore", "Marietta", "Davis"],
+    lat: 34.07, lng: -97.05, radius: 0.08,
+  },
+  {
+    id: "waurika-lake",
+    name: "Waurika Lake",
+    description: "Waurika Lake is a 10,100-acre reservoir in south-central Oklahoma known for consistent crappie and catfish action. The lake also supports bass and has a growing hybrid striper program.\n\nThe area around the lake is rolling prairie with a few developed recreation areas operated by the Corps of Engineers.",
+    acres: 10100,
+    shorelineMiles: 88,
+    maxDepth: 62,
+    counties: ["Jefferson", "Cotton", "Comanche"],
+    fishSpecies: ["Crappie", "Catfish", "Largemouth Bass", "Hybrid Striper"],
+    nearestTowns: ["Waurika", "Comanche", "Lawton"],
+    lat: 34.24, lng: -98.05, radius: 0.08,
+  },
+  {
+    id: "lake-of-the-arbuckles",
+    name: "Lake of the Arbuckles",
+    description: "Lake of the Arbuckles is a 2,350-acre lake in the Arbuckle Mountains of south-central Oklahoma, managed by the National Park Service as part of the Chickasaw National Recreation Area. The scenic rocky shoreline and clear water make it one of the most beautiful lakes in Oklahoma.\n\nFishing here targets smallmouth and largemouth bass, catfish, and sunfish. The Chickasaw NRA provides hiking, swimming, and nature programs.",
+    acres: 2350,
+    shorelineMiles: 36,
+    maxDepth: 100,
+    counties: ["Murray"],
+    fishSpecies: ["Smallmouth Bass", "Largemouth Bass", "Catfish", "Sunfish"],
+    nearestTowns: ["Sulphur", "Davis", "Ada"],
+    lat: 34.44, lng: -97.01, radius: 0.08,
+  },
+  {
+    id: "sardis-lake",
+    name: "Sardis Lake",
+    description: "Sardis Lake is a 14,200-acre reservoir in the Kiamichi Mountains of southeastern Oklahoma. The lake's clear water and forested surroundings make it a scenic destination for fishing and camping.\n\nLargemouth bass, crappie, and catfish are the primary species. The lake receives less fishing pressure than many Oklahoma lakes, offering a more solitary experience.",
+    acres: 14200,
+    shorelineMiles: 117,
+    maxDepth: 105,
+    counties: ["Pushmataha", "Latimer"],
+    fishSpecies: ["Largemouth Bass", "Crappie", "Catfish"],
+    nearestTowns: ["Clayton", "Talihina", "Wilburton"],
+    lat: 34.65, lng: -95.45, radius: 0.10,
+  },
+  {
+    id: "lake-lawtonka",
+    name: "Lake Lawtonka",
+    description: "Lake Lawtonka is a 2,375-acre lake in the Wichita Mountains near Lawton, Oklahoma. Surrounded by the scenic Wichita Mountains Wildlife Refuge, it offers a unique setting for fishing with bison and elk grazing in the background.\n\nThe lake holds largemouth bass, catfish, and panfish. Medicine Park, a charming cobblestone resort town, sits on the lake's shore.",
+    acres: 2375,
+    shorelineMiles: 27,
+    maxDepth: 70,
+    counties: ["Comanche"],
+    fishSpecies: ["Largemouth Bass", "Catfish", "Bluegill"],
+    nearestTowns: ["Lawton", "Medicine Park"],
+    lat: 34.74, lng: -98.49, radius: 0.05,
+  },
+];
+
+export function getLakeById(id: string): Lake | undefined {
+  return lakes.find((l) => l.id === id);
+}
+
+export function getLakeForRamp(lat: number, lng: number): Lake | undefined {
+  for (const l of lakes) {
+    if (Math.abs(lat - l.lat) < l.radius && Math.abs(lng - l.lng) < l.radius) {
+      return l;
+    }
+  }
+  return undefined;
+}

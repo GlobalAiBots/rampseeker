@@ -3,6 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import { unified, getAllCities, amenityLabels } from "@/data/all-ramps";
+import { lakes, getLakeForRamp } from "@/data/lakes";
 
 const filterAmenities = ["restrooms", "courtesy-dock", "lighting", "fuel-nearby"];
 
@@ -81,6 +82,28 @@ export default function Home() {
           })}
         </div>
         <Link href="/grand-lake" className="inline-block mt-4 text-sm font-semibold text-sunset hover:text-sunset-dark transition sm:hidden">View all {featured.length} Grand Lake ramps &rarr;</Link>
+      </section>
+
+      {/* Browse by Lake */}
+      <section className="max-w-6xl mx-auto px-4 pt-8 pb-8">
+        <div className="flex items-center justify-between mb-4">
+          <h2 className="font-[Cabin] text-2xl font-bold text-charcoal">Browse by Lake</h2>
+          <Link href="/lakes" className="text-sm font-semibold text-sunset hover:text-sunset-dark transition">All lakes &rarr;</Link>
+        </div>
+        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3">
+          {lakes.slice(0, 12).map((l) => {
+            const count = l.id === "grand-lake"
+              ? unified.filter((r) => r.featured).length
+              : unified.filter((r) => !r.featured && getLakeForRamp(r.latitude, r.longitude)?.id === l.id).length;
+            return (
+              <Link key={l.id} href={l.id === "grand-lake" ? "/grand-lake" : `/lakes/${l.id}`}
+                className="group bg-white border border-gray-200 rounded-lg p-3 hover:border-water hover:shadow-sm transition">
+                <p className="font-bold text-charcoal text-sm group-hover:text-water transition">{l.name}</p>
+                <p className="text-gray-400 text-xs">{count} ramp{count !== 1 ? "s" : ""} &middot; {l.acres.toLocaleString()} acres</p>
+              </Link>
+            );
+          })}
+        </div>
       </section>
 
       {/* All Oklahoma Ramps */}

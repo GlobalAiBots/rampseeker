@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { unified, getUnifiedRampById, amenityLabels, type UnifiedRamp } from "@/data/all-ramps";
+import { getLakeForRamp } from "@/data/lakes";
 import type { Metadata } from "next";
 
 export function generateStaticParams() {
@@ -51,6 +52,7 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
   if (!ramp) notFound();
 
   const gl = ramp.grandLakeData;
+  const lake = getLakeForRamp(ramp.latitude, ramp.longitude);
   const nearby = unified.filter((r) => r.id !== ramp.id).sort((a, b) => {
     const distA = Math.abs(a.latitude - ramp.latitude) + Math.abs(a.longitude - ramp.longitude);
     const distB = Math.abs(b.latitude - ramp.latitude) + Math.abs(b.longitude - ramp.longitude);
@@ -101,10 +103,17 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
         <span className="text-charcoal font-medium">{ramp.name}</span>
       </nav>
 
-      {/* Featured badge */}
-      {ramp.featured && (
-        <div className="inline-block bg-sunset/10 text-sunset text-xs font-bold px-3 py-1 rounded-full mb-3">Featured — Grand Lake</div>
-      )}
+      {/* Lake / Featured badge */}
+      <div className="flex flex-wrap gap-2 mb-3">
+        {ramp.featured && (
+          <span className="inline-block bg-sunset/10 text-sunset text-xs font-bold px-3 py-1 rounded-full">Featured — Grand Lake</span>
+        )}
+        {lake && !ramp.featured && (
+          <Link href={lake.id === "grand-lake" ? "/grand-lake" : `/lakes/${lake.id}`} className="inline-block bg-water/10 text-water text-xs font-bold px-3 py-1 rounded-full hover:bg-water/20 transition">
+            {lake.name}
+          </Link>
+        )}
+      </div>
 
       {/* Header */}
       <div className="mb-8">
