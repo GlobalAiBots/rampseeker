@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Script from "next/script";
 import CletusWidget from "@/components/CletusWidget";
 import CookieConsent from "@/components/CookieConsent";
 import "./globals.css";
@@ -96,6 +97,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <link href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet" />
       </head>
       <body className="font-['Source_Sans_3'] antialiased min-h-screen flex flex-col">
+        <Script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4822220549367368"
+          crossOrigin="anonymous"
+          strategy="afterInteractive"
+        />
         <Nav />
         <main className="flex-1">{children}</main>
         <Footer />
