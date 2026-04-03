@@ -3,11 +3,11 @@ import Link from "next/link";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "RampSeeker | Every Boat Ramp on Grand Lake Oklahoma",
+  title: "RampSeeker | Every Boat Ramp in Oklahoma",
   description:
-    "The most complete boat ramp directory for Grand Lake O' the Cherokees. GPS coordinates, amenities, local tips, and directions for 23+ boat ramps.",
+    "The most complete boat ramp directory for Oklahoma. 144+ ramps across Grand Lake, Tenkiller, Eufaula, Keystone, and more. GPS coordinates, amenities, local tips.",
   keywords:
-    "Grand Lake boat ramp, Grand Lake Oklahoma boat launch, where to launch boat Grand Lake, Grand Lake ramp directory, boat ramp near me Grand Lake",
+    "Oklahoma boat ramp, boat ramp near me Oklahoma, Grand Lake boat ramp, boat launch Oklahoma, Oklahoma boat ramp directory",
   openGraph: {
     title: "RampSeeker | Every Boat Ramp on Grand Lake Oklahoma",
     description: "Find every boat ramp on Grand Lake. GPS coordinates, amenities, local tips.",
@@ -25,10 +25,11 @@ function Nav() {
           <span className="text-2xl">&#9875;</span>
           <span className="text-charcoal">Ramp<span className="text-water">Seeker</span></span>
         </Link>
-        <div className="flex items-center gap-6 text-sm font-medium">
-          <Link href="/" className="text-gray-500 hover:text-water transition hidden sm:block">Home</Link>
+        <div className="flex items-center gap-4 sm:gap-6 text-sm font-medium">
+          <Link href="/grand-lake" className="text-gray-500 hover:text-water transition hidden sm:block">Grand Lake</Link>
+          <Link href="/oklahoma" className="text-gray-500 hover:text-water transition hidden sm:block">Oklahoma</Link>
           <Link href="/map" className="text-gray-500 hover:text-water transition">Map</Link>
-          <Link href="/about" className="text-gray-500 hover:text-water transition">About</Link>
+          <Link href="/about" className="text-gray-500 hover:text-water transition hidden sm:block">About</Link>
           <a href="#submit" className="text-sunset font-bold hover:text-sunset-dark transition">Submit a Ramp</a>
         </div>
       </div>

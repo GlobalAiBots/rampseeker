@@ -21,7 +21,7 @@ export default function AboutPage() {
           If you&apos;ve ever driven around Grand Lake looking for a boat ramp — and ended up at a locked gate, a dirt path, or someone&apos;s private dock — you know why we built RampSeeker.
         </p>
         <p>
-          <strong className="text-charcoal">RampSeeker is the most complete boat ramp directory for Grand Lake O&apos; the Cherokees.</strong> Every ramp. Real GPS coordinates. Amenities listed. Local tips from people who actually use them. No guessing, no outdated info, no dead ends.
+          <strong className="text-charcoal">RampSeeker is the most complete boat ramp directory for Oklahoma — starting with Grand Lake O&apos; the Cherokees.</strong> 144+ ramps across the state. Real GPS coordinates. Amenities listed. Local tips from people who actually use them. No guessing, no outdated info, no dead ends.
         </p>
         <p>
           We started with Grand Lake because it&apos;s home. We know which ramps get packed on tournament weekends, which ones have lights for pre-dawn launches, and which ones have Sharky&apos;s Bar next door for post-fishing nachos.
@@ -30,7 +30,7 @@ export default function AboutPage() {
         <div className="bg-blue-50 border border-blue-200 rounded-xl p-6 my-8">
           <h2 className="font-[Cabin] text-xl font-bold text-water mb-3">What&apos;s Next</h2>
           <p className="text-gray-600">
-            Grand Lake is just the beginning. We&apos;re expanding to cover every public boat ramp across Oklahoma — Tenkiller, Eufaula, Keystone, Fort Gibson, Skiatook, and beyond. Eventually, every lake in the region.
+            We already cover 144+ boat ramps across Oklahoma — from Grand Lake and Tenkiller in the east to Fort Cobb and Foss in the west. We&apos;re adding detailed guides with local tips for every major lake. Next up: Lake Tenkiller and Lake Eufaula.
           </p>
         </div>
 
