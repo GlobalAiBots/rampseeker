@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { unified, getUnifiedRampById, amenityLabels, type UnifiedRamp } from "@/data/all-ramps";
 import { getLakeForRamp } from "@/data/lakes";
+import { getCountyForCity } from "@/data/counties";
 import type { Metadata } from "next";
 
 export function generateStaticParams() {
@@ -53,6 +54,8 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
 
   const gl = ramp.grandLakeData;
   const lake = getLakeForRamp(ramp.latitude, ramp.longitude);
+  const county = getCountyForCity(ramp.city);
+  const citySlug = ramp.city.toLowerCase().replace(/\s+/g, "-");
   const nearby = unified.filter((r) => r.id !== ramp.id).sort((a, b) => {
     const distA = Math.abs(a.latitude - ramp.latitude) + Math.abs(a.longitude - ramp.longitude);
     const distB = Math.abs(b.latitude - ramp.latitude) + Math.abs(b.longitude - ramp.longitude);
@@ -261,12 +264,14 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
       <div className="mt-10 bg-gray-50 border border-gray-200 rounded-xl p-5">
         <h3 className="font-[Cabin] font-bold text-charcoal mb-3 text-sm">People Also Search For</h3>
         <div className="flex flex-wrap gap-2">
-          <Link href={`/find/${ramp.city.toLowerCase().replace(/\s+/g, "-")}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-water hover:border-water transition">Boat ramps near {ramp.city}</Link>
+          <Link href={`/find/${citySlug}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-water hover:border-water transition">Boat ramps near {ramp.city}</Link>
           {lake && (
             <Link href={lake.id === "grand-lake" ? "/grand-lake" : `/lakes/${lake.id}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-water hover:border-water transition">{lake.name} boat ramps</Link>
           )}
+          {county && (
+            <Link href={`/counties/${county.toLowerCase()}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-water hover:border-water transition">{county} County boat ramps</Link>
+          )}
           <Link href="/best/free-boat-ramps-oklahoma" className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-water hover:border-water transition">Free boat ramps in Oklahoma</Link>
-          <Link href={`/find/${ramp.city.toLowerCase().replace(/\s+/g, "-")}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-water hover:border-water transition">Where to launch near {ramp.city} OK</Link>
         </div>
       </div>
     </div>

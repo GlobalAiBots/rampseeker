@@ -5,6 +5,7 @@ import Link from "next/link";
 import { unified, getAllCities, amenityLabels } from "@/data/all-ramps";
 import { lakes, getLakeForRamp } from "@/data/lakes";
 import { cities } from "@/data/cities";
+import { counties } from "@/data/counties";
 
 const filterAmenities = ["restrooms", "courtesy-dock", "lighting", "fuel-nearby"];
 
@@ -124,6 +125,32 @@ export default function Home() {
               </Link>
             );
           })}
+        </div>
+      </section>
+
+      {/* Browse by County */}
+      <section className="max-w-6xl mx-auto px-4 pb-8">
+        <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Browse by County</h2>
+        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">
+          {counties.slice(0, 12).map((c) => (
+            <Link key={c.slug} href={`/counties/${c.slug}`} className="group bg-white border border-gray-200 rounded-lg p-2.5 hover:border-water hover:shadow-sm transition">
+              <p className="font-bold text-charcoal text-sm group-hover:text-water transition">{c.name} County</p>
+              <p className="text-gray-400 text-xs">{c.ramps.length} ramp{c.ramps.length !== 1 ? "s" : ""}</p>
+            </Link>
+          ))}
+        </div>
+      </section>
+
+      {/* Browse by City */}
+      <section className="max-w-6xl mx-auto px-4 pb-8">
+        <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Browse by City</h2>
+        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">
+          {cities.filter((c) => c.ramps.length >= 2).slice(0, 12).map((c) => (
+            <Link key={c.slug} href={`/cities/${c.slug}`} className="group bg-white border border-gray-200 rounded-lg p-2.5 hover:border-water hover:shadow-sm transition">
+              <p className="font-bold text-charcoal text-sm group-hover:text-water transition">{c.name}</p>
+              <p className="text-gray-400 text-xs">{c.ramps.length} ramp{c.ramps.length !== 1 ? "s" : ""}</p>
+            </Link>
+          ))}
         </div>
       </section>
 
