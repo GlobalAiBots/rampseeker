@@ -40,6 +40,13 @@ export default async function CityPage({ params }: { params: Promise<{ city: str
           { "@type": "ListItem", position: 3, name: city.name, item: `https://rampseeker.com/cities/${city.slug}` },
         ],
       }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org", "@type": "FAQPage",
+        mainEntity: [
+          { "@type": "Question", name: `How many boat ramps are near ${city.name}?`, acceptedAnswer: { "@type": "Answer", text: `There are ${city.ramps.length} boat ramps near ${city.name}, Oklahoma.` } },
+          { "@type": "Question", name: `Where can I launch a boat near ${city.name} OK?`, acceptedAnswer: { "@type": "Answer", text: `RampSeeker lists ${city.ramps.length} launch sites near ${city.name}. Visit rampseeker.com/cities/${city.slug} for GPS coordinates and directions.` } },
+        ],
+      }) }} />
 
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">
         <Link href="/" className="hover:text-water transition">Home</Link><span>/</span>

@@ -38,6 +38,14 @@ export default async function NearCityPage({ params }: { params: Promise<{ city:
         "@context": "https://schema.org", "@type": "FAQPage",
         mainEntity: faqs.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })),
       }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org", "@type": "BreadcrumbList",
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://rampseeker.com" },
+          { "@type": "ListItem", position: 2, name: "Oklahoma", item: "https://rampseeker.com/oklahoma" },
+          { "@type": "ListItem", position: 3, name: `Near ${city.name}`, item: `https://rampseeker.com/find/${city.slug}` },
+        ],
+      }) }} />
 
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">
         <Link href="/" className="hover:text-water transition">Home</Link><span>/</span>

@@ -6,6 +6,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Free Boat Ramps in Oklahoma — No Launch Fees | RampSeeker",
   description: "Complete list of free boat ramps in Oklahoma. Public launch sites with no fees across Grand Lake, Tenkiller, Eufaula, Keystone, and every major lake.",
+  openGraph: { title: "Free Boat Ramps in Oklahoma", url: "https://rampseeker.com/best/free-boat-ramps-oklahoma", siteName: "RampSeeker" },
   alternates: { canonical: "https://rampseeker.com/best/free-boat-ramps-oklahoma" },
 };
 

@@ -78,6 +78,11 @@ export default function Home() {
         description: `The most complete boat ramp directory for Oklahoma. ${unified.length}+ ramps across ${lakes.length} lakes.`,
         potentialAction: { "@type": "SearchAction", target: "https://rampseeker.com/?q={search_term_string}", "query-input": "required name=search_term_string" },
       }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org", "@type": "Organization", name: "RampSeeker", url: "https://rampseeker.com",
+        description: "The most complete boat ramp directory in Oklahoma.",
+        sameAs: [], contactPoint: { "@type": "ContactPoint", email: "hello@rampseeker.com", contactType: "customer service" },
+      }) }} />
 
       {/* Hero */}
       <section className="relative py-16 md:py-24 text-center px-4 bg-cream" style={{ backgroundImage: "radial-gradient(circle at 20% 80%, rgba(30,96,145,0.06) 0%, transparent 50%), radial-gradient(circle at 80% 20%, rgba(45,106,79,0.06) 0%, transparent 50%)" }}>

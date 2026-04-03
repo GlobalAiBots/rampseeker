@@ -9,12 +9,18 @@ export const metadata: Metadata = {
   keywords:
     "Oklahoma boat ramp, boat ramp near me Oklahoma, Grand Lake boat ramp, boat launch Oklahoma, Oklahoma boat ramp directory",
   openGraph: {
-    title: "RampSeeker | Every Boat Ramp on Grand Lake Oklahoma",
-    description: "Find every boat ramp on Grand Lake. GPS coordinates, amenities, local tips.",
+    title: "RampSeeker | Every Boat Ramp in Oklahoma",
+    description: "261+ boat ramps across 19 Oklahoma lakes. GPS coordinates, amenities, local tips.",
     url: "https://rampseeker.com",
     siteName: "RampSeeker",
     type: "website",
   },
+  twitter: {
+    card: "summary",
+    title: "RampSeeker | Every Boat Ramp in Oklahoma",
+    description: "261+ boat ramps across 19 Oklahoma lakes. GPS coordinates, amenities, local tips.",
+  },
+  alternates: { canonical: "https://rampseeker.com" },
 };
 
 function Nav() {
@@ -49,8 +55,11 @@ function Footer() {
             <p className="font-bold text-charcoal mb-2">Links</p>
             <div className="flex flex-col gap-1">
               <Link href="/" className="hover:text-water transition">All Ramps</Link>
+              <Link href="/lakes" className="hover:text-water transition">Lakes</Link>
               <Link href="/map" className="hover:text-water transition">Map</Link>
               <Link href="/about" className="hover:text-water transition">About</Link>
+              <Link href="/privacy" className="hover:text-water transition">Privacy</Link>
+              <Link href="/terms" className="hover:text-water transition">Terms</Link>
             </div>
           </div>
           <div>
