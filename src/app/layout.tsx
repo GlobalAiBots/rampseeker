@@ -27,7 +27,6 @@ function Nav() {
         </Link>
         <div className="flex items-center gap-4 sm:gap-6 text-sm font-medium">
           <Link href="/lakes" className="text-gray-500 hover:text-water transition">Lakes</Link>
-          <Link href="/grand-lake" className="text-gray-500 hover:text-water transition hidden sm:block">Grand Lake</Link>
           <Link href="/map" className="text-gray-500 hover:text-water transition">Map</Link>
           <Link href="/about" className="text-gray-500 hover:text-water transition hidden sm:block">About</Link>
           <a href="#submit" className="text-sunset font-bold hover:text-sunset-dark transition">Submit a Ramp</a>
