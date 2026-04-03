@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import CletusWidget from "@/components/CletusWidget";
+import CookieConsent from "@/components/CookieConsent";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -38,6 +39,7 @@ function Nav() {
         <div className="flex items-center gap-4 sm:gap-6 text-sm font-medium">
           <Link href="/lakes" className="text-gray-500 hover:text-water transition">Lakes</Link>
           <Link href="/map" className="text-gray-500 hover:text-water transition">Map</Link>
+          <Link href="/blog" className="text-gray-500 hover:text-water transition hidden sm:block">Blog</Link>
           <Link href="/about" className="text-gray-500 hover:text-water transition hidden sm:block">About</Link>
           <a href="#submit" className="text-sunset font-bold hover:text-sunset-dark transition">Submit a Ramp</a>
         </div>
@@ -98,6 +100,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <main className="flex-1">{children}</main>
         <Footer />
         <CletusWidget />
+        <CookieConsent />
       </body>
     </html>
   );

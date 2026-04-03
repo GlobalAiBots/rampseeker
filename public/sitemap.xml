@@ -5,6 +5,7 @@
   <url><loc>https://rampseeker.com/oklahoma</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://rampseeker.com/lakes</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://rampseeker.com/map</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://rampseeker.com/blog</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://rampseeker.com/lakes/arcadia-lake</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://rampseeker.com/lakes/broken-bow-lake</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://rampseeker.com/lakes/fort-cobb-lake</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
@@ -284,6 +285,15 @@
   <url><loc>https://rampseeker.com/ramps/windmill-cove-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/witchita-ridge-boat-ramp-dock</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/wolf-creek-park</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/blog/best-bass-fishing-lakes-oklahoma</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/blog/oklahoma-boating-rules-2026</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/blog/how-to-launch-boat-beginner-guide</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/best</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/best/free-boat-ramps-oklahoma</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/best/boat-ramps-with-restrooms</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/best/lighted-boat-ramps</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/best/boat-ramps-with-courtesy-docks</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/best/boat-ramps-with-fuel</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/counties/bryan</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/counties/caddo</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/counties/carter</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -381,12 +391,6 @@
   <url><loc>https://rampseeker.com/cities/vian</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/wagoner</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/waurika</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://rampseeker.com/best</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://rampseeker.com/best/free-boat-ramps-oklahoma</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://rampseeker.com/best/boat-ramps-with-restrooms</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://rampseeker.com/best/lighted-boat-ramps</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://rampseeker.com/best/boat-ramps-with-courtesy-docks</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://rampseeker.com/best/boat-ramps-with-fuel</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/find/afton</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/apache</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/ardmore</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
