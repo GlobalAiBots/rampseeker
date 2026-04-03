@@ -38,6 +38,13 @@ export default function AboutPage() {
           RampSeeker is a project by <a href="https://grandlakeai.com" target="_blank" className="text-water hover:text-water-light transition font-semibold">Grand Lake AI</a>, a division of Global AI Bots. We build tools for the Grand Lake community — and the ramp directory we always wished existed.
         </p>
 
+        <div className="bg-slate-50 border border-slate-200 rounded-xl p-6 my-8">
+          <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-3">Powered by CLETUS AI</h2>
+          <p className="text-gray-600">
+            The chatbot on this site is <strong className="text-charcoal">CLETUS</strong> — an AI chat and voice agent built for businesses. The same technology that helps you find boat ramps can answer your business customers&apos; questions 24/7. If you run a marina, bait shop, RV park, or any lake business, <a href="/for-businesses" className="text-water hover:underline font-semibold">learn how CLETUS can work for you</a>.
+          </p>
+        </div>
+
         <h2 className="font-[Cabin] text-xl font-bold text-charcoal mt-10 mb-3">Get in Touch</h2>
         <p>
           Know a ramp we missed? Have a correction? Just want to talk fishing?

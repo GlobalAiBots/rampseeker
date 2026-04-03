@@ -1,22 +1,24 @@
 export default function CletusPromo() {
   return (
-    <div className="bg-blue-50 border border-blue-200 rounded-xl p-6 my-10">
-      <div className="flex flex-col sm:flex-row sm:items-center gap-4">
-        <div className="flex-1">
-          <p className="font-[Cabin] font-bold text-water text-sm mb-1">Powered by CLETUS AI</p>
-          <p className="text-gray-600 text-sm leading-relaxed">
-            RampSeeker uses CLETUS AI to help you find boat ramps. Own a marina, bait shop, or lake business? Get CLETUS on your website — answer customer questions 24/7.
-          </p>
-        </div>
-        <a
-          href="https://grandlakeai.com"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="bg-water hover:bg-water-light text-white font-bold text-sm px-5 py-2.5 rounded-lg transition whitespace-nowrap flex-shrink-0"
-        >
-          Learn More &rarr;
-        </a>
+    <div className="bg-slate-50 border border-slate-200 rounded-xl p-6 my-10">
+      <p className="font-[Cabin] font-bold text-charcoal text-sm mb-2">This site is powered by CLETUS AI</p>
+      <p className="text-gray-600 text-sm leading-relaxed mb-4">
+        Own a marina, bait shop, RV park, or lake business? CLETUS answers your customers&apos; questions 24/7 — just like it does here on RampSeeker.
+      </p>
+      <div className="grid grid-cols-2 gap-x-4 gap-y-1 mb-4 text-sm text-gray-600">
+        <span>&#10003; AI chat widget on your website</span>
+        <span>&#10003; AI phone receptionist</span>
+        <span>&#10003; Costs less than $1/day</span>
+        <span>&#10003; Setup in 5 minutes</span>
       </div>
+      <a
+        href="https://grandlakeai.com"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="inline-block bg-water hover:bg-water-light text-white font-bold text-sm px-5 py-2.5 rounded-lg transition"
+      >
+        Get CLETUS for Your Business &rarr;
+      </a>
     </div>
   );
 }

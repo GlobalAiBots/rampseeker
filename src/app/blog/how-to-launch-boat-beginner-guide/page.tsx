@@ -1,4 +1,5 @@
 import Link from "next/link";
+import BlogCletusCallout from "@/components/BlogCletusCallout";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -100,6 +101,7 @@ export default function LaunchPost() {
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10">Find Your Ramp</h2>
         <p>Ready? <Link href="/" className="text-water hover:underline">Search 261+ Oklahoma boat ramps</Link> on RampSeeker. Filter by amenities like courtesy docks and restrooms to find the perfect launch for your first trip.</p>
+        <BlogCletusCallout />
       </div>
     </article>
   );

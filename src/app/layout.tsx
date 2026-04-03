@@ -45,7 +45,7 @@ function Nav() {
           <Link href="/map" className="text-gray-500 hover:text-water transition">Map</Link>
           <Link href="/blog" className="text-gray-500 hover:text-water transition hidden sm:block">Blog</Link>
           <Link href="/about" className="text-gray-500 hover:text-water transition hidden sm:block">About</Link>
-          <a href="#submit" className="text-sunset font-bold hover:text-sunset-dark transition">Submit a Ramp</a>
+          <Link href="/for-businesses" className="text-sunset font-bold hover:text-sunset-dark transition">For Businesses</Link>
         </div>
       </div>
     </nav>
@@ -68,6 +68,8 @@ function Footer() {
               <Link href="/lakes" className="hover:text-water transition">Lakes</Link>
               <Link href="/map" className="hover:text-water transition">Map</Link>
               <Link href="/about" className="hover:text-water transition">About</Link>
+              <Link href="/blog" className="hover:text-water transition">Blog</Link>
+              <Link href="/for-businesses" className="hover:text-water transition">For Businesses</Link>
               <Link href="/privacy" className="hover:text-water transition">Privacy</Link>
               <Link href="/terms" className="hover:text-water transition">Terms</Link>
             </div>
