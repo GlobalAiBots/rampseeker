@@ -1,0 +1,104 @@
+GPS Verification Report — 2026-04-03T19:58:23.309Z
+Total checked: 275
+Updated: 45
+Significant moves: 38
+No match: 0
+Suspicious: 7
+
+=== All Updates ===
+Wolf Creek Park: 36.5947,-94.7697 → 36.6044863,-94.7829812 (1.00mi, boat ramp OK)
+Honey Creek State Park: 36.5725,-94.7847 → 36.5761498,-94.78292479999999 (0.27mi, boat ramp OK)
+Bernice State Park: 36.6306,-94.8397 → 36.6261885,-94.9041577 (3.58mi, boat ramp OK)
+Disney Area State Park: 36.4756,-94.9856 → 36.4807198,-95.0056858 (1.17mi, boat ramp OK)
+Cherokee Area State Park: 36.4583,-94.9783 → 36.4810822,-95.0083275 (2.29mi, boat ramp OK)
+Cherokee Part 2: 36.4611,-94.9689 → 36.4810822,-95.0083275 (2.59mi, boat ramp OK)
+Twin Bridges State Park: 36.7678,-94.8803 → 36.8047289,-94.7579166 (7.23mi, boat ramp OK)
+310 Road Boat Ramp: 36.52,-94.81 → 36.4810822,-95.0083275 (11.32mi, name + OK)
+Ketchum Public Fishing Ramp: 36.5228,-94.8478 → 36.4810822,-95.0083275 (9.36mi, boat ramp OK)
+Hammerhead Ramp: 36.515,-94.835 → 36.5093174,-95.0305339 (10.85mi, boat ramp OK)
+Duck Creek Ramp: 36.49,-94.92 → 36.5497703,-94.9691543 (4.94mi, boat ramp OK)
+Connors Bridge Ramp: 36.55,-94.86 → 36.7992939,-94.81924219999999 (17.35mi, boat ramp OK)
+Miami City View Park Ramp: 36.8744,-94.8769 → 36.8633013,-94.87534959999999 (0.77mi, boat ramp OK)
+Shangri-La Ramp: 36.51,-94.82 → 36.6322631,-94.87294329999999 (8.93mi, boat ramp OK)
+Public Boat Ramp (S 579 Loop): 36.53,-94.8 → 36.6402687,-94.83709669999999 (7.88mi, boat ramp OK)
+Public Boat Ramp (OK-125): 36.48,-94.96 → 36.5600471,-94.8451595 (8.43mi, boat ramp OK)
+Public Boat Ramp (Cleora): 36.58,-94.79 → 36.58252969999999,-94.9180019 (7.09mi, boat ramp OK)
+Public Boat Ramp (Grove - Main Lake): 36.585,-94.775 → 36.6548552,-94.8029231 (5.06mi, boat ramp OK)
+Public Boat Ramp (Grove - Near Restrooms): 36.59,-94.78 → 36.6548552,-94.8029231 (4.65mi, boat ramp OK)
+Safe Harbor Harbors View: 36.505,-94.81 → 36.5498321,-94.9690818 (9.35mi, boat ramp OK)
+Monkey Island Marina: 36.5,-94.83 → 36.588932,-94.85980219999999 (6.36mi, boat ramp OK)
+Paradise Cove Marine Resort: 36.51,-94.86 → 36.5731618,-94.91628229999999 (5.36mi, boat ramp OK)
+Red Arrow Marina: 36.52,-94.84 → 36.5766897,-94.91774389999999 (5.82mi, boat ramp OK)
+Quarry Cove: 36.3217588,-96.1115272 → 36.3217588,-96.1115272 (42.57mi, boat ramp OK)
+Bear Creek Cove Boat Ramp: 36.7576599,-96.8567267 → 36.7576599,-96.8567267 (5.77mi, boat ramp OK)
+Public Boat Ramp: 36.5600471,-94.8451595 → 36.5600471,-94.8451595 (6.95mi, boat ramp OK)
+Public Boat Ramp: 36.5600471,-94.8451595 → 36.5600471,-94.8451595 (5.55mi, boat ramp OK)
+Public Boat Ramp: 36.5600471,-94.8451595 → 36.5600471,-94.8451595 (5.32mi, boat ramp OK)
+Public Boat Ramp: 36.5600471,-94.8451595 → 36.5600471,-94.8451595 (4.32mi, boat ramp OK)
+Public Boat Ramp: 36.5600471,-94.8451595 → 36.5600471,-94.8451595 (7.77mi, boat ramp OK)
+Twin Points Recreation Area: 36.3902831,-96.2189805 → 36.3902831,-96.2189805 (1.41mi, boat ramp OK)
+Claremore Lake: 36.3299116,-95.5822706 → 36.3299116,-95.5822706 (0.19mi, boat ramp OK)
+Lone Chimney Lake Boat Ramp: 36.2483748,-96.82696729999999 → 36.2483748,-96.82696729999999 (0.54mi, boat ramp OK)
+Rocky Point boat ramp: 36.0341377,-95.31871029999999 → 36.0341377,-95.31871029999999 (0.05mi, boat ramp OK)
+Rocky Point: 36.0341377,-95.31871029999999 → 36.0341377,-95.31871029999999 (0.44mi, boat ramp OK)
+Heyburn Lake: 35.951511,-96.3239365 → 35.951511,-96.3239365 (1.09mi, boat ramp OK)
+Sequoyah Bay State Park: 35.91637910000001,-95.2501602 → 35.91637910000001,-95.2501602 (2.45mi, boat ramp OK)
+Spring Creek Park: 35.642668,-97.3843139 → 35.642668,-97.3843139 (0.38mi, boat ramp OK)
+North Sentinel Campground: 35.23640750000001,-97.2518004 → 35.23640750000001,-97.2518004 (3.33mi, boat ramp OK)
+Oak Ridge Recreation Area: 35.3594519,-95.3894467 → 35.3594519,-95.3894467 (15.55mi, boat ramp OK)
+Carlton Landing Marina Store: 35.2039222,-95.5425415 → 35.2039222,-95.5425415 (0.33mi, boat ramp OK)
+Cedar Lake Recreation Site: 34.195698,-94.7397586 → 34.195698,-94.7397586 (40.53mi, boat ramp OK)
+Tom Steed Reservoir: 34.749904,-98.98039299999999 → 34.749904,-98.98039299999999 (1.45mi, boat ramp OK)
+Atoka Lake: 34.5414338,-96.0412935 → 34.5414338,-96.0412935 (3.69mi, boat ramp OK)
+Burns Run: 33.8469254,-96.5910625 → 33.8469254,-96.5910625 (0.38mi, boat ramp OK)
+
+=== Significant Moves ===
+Wolf Creek Park: moved 1.00mi — 36.5947,-94.7697 → 36.6044863,-94.7829812
+Bernice State Park: moved 3.58mi — 36.6306,-94.8397 → 36.6261885,-94.9041577
+Disney Area State Park: moved 1.17mi — 36.4756,-94.9856 → 36.4807198,-95.0056858
+Cherokee Area State Park: moved 2.29mi — 36.4583,-94.9783 → 36.4810822,-95.0083275
+Cherokee Part 2: moved 2.59mi — 36.4611,-94.9689 → 36.4810822,-95.0083275
+Twin Bridges State Park: moved 7.23mi — 36.7678,-94.8803 → 36.8047289,-94.7579166
+310 Road Boat Ramp: moved 11.32mi — 36.52,-94.81 → 36.4810822,-95.0083275
+Ketchum Public Fishing Ramp: moved 9.36mi — 36.5228,-94.8478 → 36.4810822,-95.0083275
+Hammerhead Ramp: moved 10.85mi — 36.515,-94.835 → 36.5093174,-95.0305339
+Duck Creek Ramp: moved 4.94mi — 36.49,-94.92 → 36.5497703,-94.9691543
+Connors Bridge Ramp: moved 17.35mi — 36.55,-94.86 → 36.7992939,-94.81924219999999
+Miami City View Park Ramp: moved 0.77mi — 36.8744,-94.8769 → 36.8633013,-94.87534959999999
+Shangri-La Ramp: moved 8.93mi — 36.51,-94.82 → 36.6322631,-94.87294329999999
+Public Boat Ramp (S 579 Loop): moved 7.88mi — 36.53,-94.8 → 36.6402687,-94.83709669999999
+Public Boat Ramp (OK-125): moved 8.43mi — 36.48,-94.96 → 36.5600471,-94.8451595
+Public Boat Ramp (Cleora): moved 7.09mi — 36.58,-94.79 → 36.58252969999999,-94.9180019
+Public Boat Ramp (Grove - Main Lake): moved 5.06mi — 36.585,-94.775 → 36.6548552,-94.8029231
+Public Boat Ramp (Grove - Near Restrooms): moved 4.65mi — 36.59,-94.78 → 36.6548552,-94.8029231
+Safe Harbor Harbors View: moved 9.35mi — 36.505,-94.81 → 36.5498321,-94.9690818
+Monkey Island Marina: moved 6.36mi — 36.5,-94.83 → 36.588932,-94.85980219999999
+Paradise Cove Marine Resort: moved 5.36mi — 36.51,-94.86 → 36.5731618,-94.91628229999999
+Red Arrow Marina: moved 5.82mi — 36.52,-94.84 → 36.5766897,-94.91774389999999
+Quarry Cove (Oklahoma): moved 42.57mi
+Bear Creek Cove Boat Ramp (Newkirk): moved 5.77mi
+Public Boat Ramp (Grove): moved 6.95mi
+Public Boat Ramp (Afton): moved 5.55mi
+Public Boat Ramp (Delaware County): moved 5.32mi
+Public Boat Ramp (Cleora): moved 4.32mi
+Public Boat Ramp (Cleora): moved 7.77mi
+Twin Points Recreation Area (Skiatook): moved 1.41mi
+Lone Chimney Lake Boat Ramp (Glencoe): moved 0.54mi
+Heyburn Lake (Kellyville): moved 1.09mi
+Sequoyah Bay State Park (Wagoner): moved 2.45mi
+North Sentinel Campground (Norman): moved 3.33mi
+Oak Ridge Recreation Area (Eufaula): moved 15.55mi
+Cedar Lake Recreation Site (Hodgen): moved 40.53mi
+Tom Steed Reservoir (Oklahoma): moved 1.45mi
+Atoka Lake (Atoka): moved 3.69mi
+
+=== No Match ===
+
+=== Suspicious ===
+Boat Ramp 2 (Fairland): 379.3mi away → Airport Park Boat Ramp #2 at 31.5952184, -97.2305871
+Boat Ramp (Nowata County): 282.5mi away → Marine Creek Public Boat Ramp at 32.8259771, -97.39062609999999
+Boat Ramp (Grove): 295.7mi away → Marine Creek Public Boat Ramp at 32.8259771, -97.39062609999999
+Boat Ramp (Hydro): 203.4mi away → Marine Creek Public Boat Ramp at 32.8259771, -97.39062609999999
+Boat Ramp (Eufaula): 197.7mi away → Marine Creek Public Boat Ramp at 32.8259771, -97.39062609999999
+Boat ramp (Eufaula): 197.2mi away → Marine Creek Public Boat Ramp at 32.8259771, -97.39062609999999
+Boat Ramp (Grant): 130.3mi away → Marine Creek Public Boat Ramp at 32.8259771, -97.39062609999999
