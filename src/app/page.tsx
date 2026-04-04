@@ -5,6 +5,7 @@ import Link from "next/link";
 import { unified } from "@/data/all-ramps";
 import { lakes } from "@/data/lakes";
 import { texasLakes } from "@/data/texas-lakes";
+import { missouriLakes } from "@/data/missouri-lakes";
 import AdSlot from "@/components/AdSlot";
 import EmailCapture from "@/components/EmailCapture";
 
@@ -18,6 +19,7 @@ export default function Home() {
   const [query, setQuery] = useState("");
   const okCount = useMemo(() => unified.filter((r) => r.state === "OK").length, []);
   const txCount = useMemo(() => unified.filter((r) => r.state === "TX").length, []);
+  const moCount = useMemo(() => unified.filter((r) => r.state === "MO").length, []);
 
   // Search suggestions
   const suggestions = useMemo(() => {
@@ -27,6 +29,11 @@ export default function Home() {
     // States
     if ("oklahoma".includes(q)) results.push({ type: "State", label: "Oklahoma", href: "/oklahoma" });
     if ("texas".includes(q)) results.push({ type: "State", label: "Texas", href: "/texas" });
+    if ("missouri".includes(q)) results.push({ type: "State", label: "Missouri", href: "/missouri" });
+    // MO lakes
+    missouriLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
+      results.push({ type: "Lake", label: `${l.name} (MO)`, href: `/missouri/lakes/${l.id}` });
+    });
     // OK lakes
     lakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
       results.push({ type: "Lake", label: l.name, href: l.id === "grand-lake" ? "/grand-lake" : `/lakes/${l.id}` });
@@ -87,6 +94,7 @@ export default function Home() {
         <div className="flex gap-3 justify-center mt-6 flex-wrap">
           <Link href="/oklahoma" className="bg-sunset hover:bg-sunset-dark text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm">Oklahoma ({okCount}+)</Link>
           <Link href="/texas" className="bg-water hover:bg-water-light text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm">Texas ({txCount})</Link>
+          <Link href="/missouri" className="bg-forest hover:bg-forest-light text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm">Missouri ({moCount})</Link>
           <span className="text-gray-400 font-medium px-5 py-2.5 text-sm">More states coming soon</span>
         </div>
       </section>
@@ -140,6 +148,15 @@ export default function Home() {
             </div>
             <span className="text-sm font-semibold text-water">Explore Texas &rarr;</span>
           </Link>
+          {/* Missouri */}
+          <Link href="/missouri" className="group bg-white border border-gray-200 rounded-xl p-6 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all border-l-4 border-l-forest md:col-span-2">
+            <div className="flex items-start justify-between mb-2">
+              <h3 className="font-[Cabin] text-xl font-bold text-charcoal group-hover:text-water transition">Missouri</h3>
+              <span className="text-xs font-bold text-forest bg-forest/10 px-2.5 py-1 rounded-full">{moCount} ramps</span>
+            </div>
+            <p className="text-gray-500 text-sm mb-3">Lake of the Ozarks, Table Rock, Stockton, Truman, Bull Shoals, and {missouriLakes.length - 5}+ more</p>
+            <span className="text-sm font-semibold text-forest">Explore Missouri &rarr;</span>
+          </Link>
         </div>
 
         {/* Coming Soon */}
@@ -147,7 +164,6 @@ export default function Home() {
           <p className="font-[Cabin] font-bold text-charcoal text-sm mb-3">Coming Soon</p>
           <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-2">
             {[
-              { state: "Missouri", count: 778 },
               { state: "Arkansas", count: 503 },
               { state: "Kansas", count: 386 },
               { state: "Colorado", count: 321 },

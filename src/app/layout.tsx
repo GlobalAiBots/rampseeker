@@ -43,6 +43,7 @@ function Nav() {
         <div className="flex items-center gap-4 sm:gap-6 text-sm font-medium">
           <Link href="/oklahoma" className="text-gray-500 hover:text-water transition hidden sm:block">Oklahoma</Link>
           <Link href="/texas" className="text-gray-500 hover:text-water transition hidden sm:block">Texas</Link>
+          <Link href="/missouri" className="text-gray-500 hover:text-water transition hidden lg:block">Missouri</Link>
           <Link href="/map" className="text-gray-500 hover:text-water transition">Map</Link>
           <Link href="/blog" className="text-gray-500 hover:text-water transition hidden sm:block">Blog</Link>
           <Link href="/about" className="text-gray-500 hover:text-water transition hidden sm:block">About</Link>
