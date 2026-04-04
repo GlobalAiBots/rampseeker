@@ -4,6 +4,7 @@ import { useState, useMemo } from "react";
 import Link from "next/link";
 import { unified, amenityLabels } from "@/data/all-ramps";
 import { arkansasLakes, getArkansasLakeForRamp } from "@/data/arkansas-lakes";
+import CletusAd from "@/components/CletusAd";
 
 function hasRealName(name: string): boolean {
   const n = (name || "").toLowerCase();
@@ -105,6 +106,7 @@ export default function ArkansasPage() {
           <button onClick={() => setShowAll(true)} className="mt-4 w-full py-3 bg-white border border-gray-200 rounded-lg text-sm font-semibold text-water hover:bg-water/5 transition">Show all {arRamps.length} ramps</button>
         )}
       </section>
+      <div className="max-w-6xl mx-auto px-4"><CletusAd /></div>
     </div>
   );
 }

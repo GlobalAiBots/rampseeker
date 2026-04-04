@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { arkansasLakes, getArkansasLakeById, getArkansasLakeForRamp } from "@/data/arkansas-lakes";
 import { unified } from "@/data/all-ramps";
+import CletusAd from "@/components/CletusAd";
 import type { Metadata } from "next";
 
 export function generateStaticParams() { return arkansasLakes.map((l) => ({ id: l.id })); }
@@ -84,6 +85,8 @@ export default async function ArkansasLakePage({ params }: { params: Promise<{ i
           </details>
         ))}
       </div>
+
+      <CletusAd />
 
       <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Other Arkansas Lakes</h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">

@@ -4,6 +4,7 @@ import { useState, useMemo } from "react";
 import Link from "next/link";
 import { unified, amenityLabels } from "@/data/all-ramps";
 import { lakes, getLakeForRamp } from "@/data/lakes";
+import CletusAd from "@/components/CletusAd";
 
 export default function OklahomaPage() {
   const okRamps = useMemo(() => unified.filter((r) => r.state === "OK"), []);
@@ -127,6 +128,8 @@ export default function OklahomaPage() {
           </button>
         )}
       </section>
+
+      <div className="max-w-6xl mx-auto px-4"><CletusAd /></div>
     </div>
   );
 }

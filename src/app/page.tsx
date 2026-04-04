@@ -9,6 +9,7 @@ import { missouriLakes } from "@/data/missouri-lakes";
 import { arkansasLakes } from "@/data/arkansas-lakes";
 import { kansasLakes } from "@/data/kansas-lakes";
 import AdSlot from "@/components/AdSlot";
+import CletusAd from "@/components/CletusAd";
 import EmailCapture from "@/components/EmailCapture";
 
 const blogPosts = [
@@ -260,6 +261,8 @@ export default function Home() {
       </section>
 
       <EmailCapture />
+
+      <div className="max-w-5xl mx-auto px-4"><CletusAd /></div>
 
       {/* Submit */}
       <section id="submit" className="max-w-2xl mx-auto px-4 pb-20">

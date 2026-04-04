@@ -8,7 +8,7 @@ import { getArkansasLakeForRamp } from "@/data/arkansas-lakes";
 import { getKansasLakeForRamp } from "@/data/kansas-lakes";
 import { getCountyForCity } from "@/data/counties";
 import AdSlot from "@/components/AdSlot";
-import CletusPromo from "@/components/CletusPromo";
+import CletusAd from "@/components/CletusAd";
 import GearRecommendation from "@/components/GearRecommendation";
 import type { Metadata } from "next";
 
@@ -263,7 +263,7 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
       </div>
 
       <AdSlot position="ramp-below-faq" />
-      <CletusPromo />
+      <CletusAd />
 
       {/* Nearby Ramps */}
       <div>

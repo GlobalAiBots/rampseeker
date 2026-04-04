@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 import { lakes, getLakeById, getLakeForRamp } from "@/data/lakes";
 import { unified, amenityLabels } from "@/data/all-ramps";
 import AdSlot from "@/components/AdSlot";
-import CletusPromo from "@/components/CletusPromo";
+import CletusAd from "@/components/CletusAd";
 import type { Metadata } from "next";
 
 export function generateStaticParams() {
@@ -150,7 +150,7 @@ export default async function LakePage({ params }: { params: Promise<{ id: strin
         ))}
       </div>
 
-      <CletusPromo />
+      <CletusAd />
 
       {/* Other Lakes */}
       <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Other Oklahoma Lakes</h2>
