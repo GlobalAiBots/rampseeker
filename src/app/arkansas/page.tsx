@@ -13,6 +13,9 @@ export default function ArkansasPage() {
     for (const l of arkansasLakes) map[l.id] = arRamps.filter((r) => getArkansasLakeForRamp(r.latitude, r.longitude)?.id === l.id).length;
     return map;
   }, [arRamps]);
+  const featuredLake = arkansasLakes.find((l) => l.id === "beaver-lake");
+  const featuredRamps = useMemo(() => featuredLake ? arRamps.filter((r) => getArkansasLakeForRamp(r.latitude, r.longitude)?.id === featuredLake.id) : [], [arRamps, featuredLake]);
+  const cityMap = useMemo(() => { const m: Record<string, number> = {}; for (const r of arRamps) { const c = r.city?.trim(); if (c && c.length > 1) m[c] = (m[c] || 0) + 1; } return Object.entries(m).sort((a, b) => b[1] - a[1]); }, [arRamps]);
   const display = showAll ? arRamps : arRamps.slice(0, 36);
 
   return (
@@ -23,7 +26,25 @@ export default function ArkansasPage() {
         <p className="text-gray-500 mt-4 max-w-lg mx-auto">{arRamps.length}+ boat ramps across {arkansasLakes.length} major lakes. GPS coordinates, amenities, directions.</p>
       </section>
 
-      <section className="max-w-6xl mx-auto px-4 pt-12 pb-8">
+      {featuredRamps.length > 0 && featuredLake && (
+        <section className="max-w-6xl mx-auto px-4 pt-12 pb-4">
+          <div className="flex items-center justify-between mb-4">
+            <div><h2 className="font-[Cabin] text-xl font-bold text-charcoal">Featured: {featuredLake.name}</h2><p className="text-gray-400 text-sm">{featuredRamps.length} ramps &middot; Crystal-clear Ozark water</p></div>
+            <Link href={`/arkansas/lakes/${featuredLake.id}`} className="text-sm font-semibold text-sunset hover:text-sunset-dark transition hidden sm:block">View all &rarr;</Link>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            {featuredRamps.slice(0, 6).map((r) => (
+              <Link key={r.id} href={`/ramps/${r.id}`} className="group block bg-white border border-gray-200 rounded-xl p-5 border-l-4 border-l-sunset shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all">
+                <h3 className="font-[Cabin] font-bold text-charcoal group-hover:text-water transition">{r.name}</h3>
+                <p className="text-gray-500 text-sm mt-1">{r.city || "Arkansas"}</p>
+                <span className="text-sm font-semibold text-sunset mt-2 inline-block">View Details &rarr;</span>
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <section className="max-w-6xl mx-auto px-4 pt-8 pb-8">
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-4">Arkansas Lakes</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
           {arkansasLakes.sort((a, b) => (lakeCounts[b.id] || 0) - (lakeCounts[a.id] || 0)).map((l) => (
@@ -42,7 +63,13 @@ export default function ArkansasPage() {
         </div>
       </section>
 
-      <section className="max-w-6xl mx-auto px-4 pt-8 pb-8">
+      {cityMap.length > 0 && (
+        <section className="max-w-6xl mx-auto px-4 pb-8"><h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Browse by City</h2>
+          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">{cityMap.slice(0, 16).map(([city, count]) => (<div key={city} className="bg-white border border-gray-200 rounded-lg p-3"><p className="font-bold text-charcoal text-sm">{city}</p><p className="text-gray-400 text-xs">{count} ramp{count !== 1 ? "s" : ""}</p></div>))}</div>
+        </section>
+      )}
+
+      <section className="max-w-6xl mx-auto px-4 pt-4 pb-8">
         <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">All {arRamps.length} Arkansas Boat Ramps</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
           {display.map((r) => {

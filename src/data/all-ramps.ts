@@ -47,6 +47,17 @@ function isDuplicateOfGrandLake(name: string, lat: number, lng: number): boolean
   return false;
 }
 
+/** Hide generic/unidentifiable ramps from display */
+function isVisibleRamp(name: string, city: string): boolean {
+  const n = (name || "").trim().toLowerCase();
+  const c = (city || "").trim();
+  // Hide if name is just "boat ramp" with no distinguishing city
+  if (!n || n === "boat ramp" || n === "boat ramp at" || n === "boat ramp near") {
+    if (!c || c.length < 2 || c === "Unknown") return false;
+  }
+  return true;
+}
+
 function generateDescription(raw: { name: string; city: string; rating: number | null; total_ratings: number; latitude: number; longitude: number }): string {
   const name = raw.name.replace(/[^\w\s'-]/g, "").trim();
   const city = raw.city || "the area";
@@ -94,6 +105,7 @@ for (const raw of oklahomaRampsRaw) {
 
   // Only skip if GPS or exact name matches a Grand Lake ramp
   if (isDuplicateOfGrandLake(cleanName, raw.latitude, raw.longitude)) continue;
+  if (!isVisibleRamp(cleanName, raw.city)) continue;
 
   // Generate unique slug — append city if slug collides
   let slug = slugify(cleanName) || "boat-ramp";
@@ -126,6 +138,7 @@ for (const raw of oklahomaRampsRaw) {
 // 3. Add Texas ramps
 for (const raw of texasRampsRaw) {
   const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  if (!isVisibleRamp(cleanName, raw.city || "")) continue;
   let slug = `tx-${slugify(cleanName) || "boat-ramp"}`;
   if (seenSlugs.has(slug)) {
     slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
@@ -151,6 +164,7 @@ for (const raw of texasRampsRaw) {
 // 4. Add Missouri ramps
 for (const raw of missouriRampsRaw) {
   const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  if (!isVisibleRamp(cleanName, raw.city || "")) continue;
   let slug = `mo-${slugify(cleanName) || "boat-ramp"}`;
   if (seenSlugs.has(slug)) {
     slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
@@ -176,6 +190,7 @@ for (const raw of missouriRampsRaw) {
 // 5. Add Arkansas ramps
 for (const raw of arkansasRampsRaw) {
   const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  if (!isVisibleRamp(cleanName, raw.city || "")) continue;
   let slug = `ar-${slugify(cleanName) || "boat-ramp"}`;
   if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
   if (seenSlugs.has(slug)) continue;
@@ -192,6 +207,7 @@ for (const raw of arkansasRampsRaw) {
 // 6. Add Kansas ramps
 for (const raw of kansasRampsRaw) {
   const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  if (!isVisibleRamp(cleanName, raw.city || "")) continue;
   let slug = `ks-${slugify(cleanName) || "boat-ramp"}`;
   if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
   if (seenSlugs.has(slug)) continue;

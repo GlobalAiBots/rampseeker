@@ -18,6 +18,8 @@ export default function KansasPage() {
     for (const r of ksRamps) { const c = r.city?.trim(); if (c && c.length > 1) m[c] = (m[c] || 0) + 1; }
     return Object.entries(m).sort((a, b) => b[1] - a[1]);
   }, [ksRamps]);
+  const featuredLake = kansasLakes.find((l) => l.id === "perry-lake");
+  const featuredRamps = useMemo(() => featuredLake ? ksRamps.filter((r) => getKansasLakeForRamp(r.latitude, r.longitude)?.id === featuredLake.id) : [], [ksRamps, featuredLake]);
   const display = showAll ? ksRamps : ksRamps.slice(0, 36);
 
   return (
@@ -28,7 +30,25 @@ export default function KansasPage() {
         <p className="text-gray-500 mt-4 max-w-lg mx-auto">{ksRamps.length}+ boat ramps across {kansasLakes.length} major lakes. GPS coordinates, amenities, directions.</p>
       </section>
 
-      <section className="max-w-6xl mx-auto px-4 pt-12 pb-8">
+      {featuredRamps.length > 0 && featuredLake && (
+        <section className="max-w-6xl mx-auto px-4 pt-12 pb-4">
+          <div className="flex items-center justify-between mb-4">
+            <div><h2 className="font-[Cabin] text-xl font-bold text-charcoal">Featured: {featuredLake.name}</h2><p className="text-gray-400 text-sm">{featuredRamps.length} ramps near Topeka</p></div>
+            <Link href={`/kansas/lakes/${featuredLake.id}`} className="text-sm font-semibold text-sunset hover:text-sunset-dark transition hidden sm:block">View all &rarr;</Link>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            {featuredRamps.slice(0, 6).map((r) => (
+              <Link key={r.id} href={`/ramps/${r.id}`} className="group block bg-white border border-gray-200 rounded-xl p-5 border-l-4 border-l-sunset shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all">
+                <h3 className="font-[Cabin] font-bold text-charcoal group-hover:text-water transition">{r.name}</h3>
+                <p className="text-gray-500 text-sm mt-1">{r.city || "Kansas"}</p>
+                <span className="text-sm font-semibold text-sunset mt-2 inline-block">View Details &rarr;</span>
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <section className="max-w-6xl mx-auto px-4 pt-8 pb-8">
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-4">Kansas Lakes</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
           {kansasLakes.sort((a, b) => (lakeCounts[b.id] || 0) - (lakeCounts[a.id] || 0)).map((l) => (
