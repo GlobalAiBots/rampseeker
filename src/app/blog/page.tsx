@@ -6,6 +6,7 @@ export const metadata: Metadata = {
   title: "RampSeeker Blog — Boating Tips & Lake Guides for Oklahoma, Texas & More",
   description: "Boating tips, fishing guides, lake information, and boat ramp advice for anglers across Oklahoma, Texas, Missouri, Arkansas, and Kansas.",
   openGraph: { title: "RampSeeker Blog", url: "https://rampseeker.com/blog", siteName: "RampSeeker" },
+  twitter: { card: "summary", title: "RampSeeker Blog" },
   alternates: { canonical: "https://rampseeker.com/blog" },
 };
 

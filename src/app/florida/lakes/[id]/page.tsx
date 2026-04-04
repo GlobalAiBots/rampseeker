@@ -34,6 +34,7 @@ export default async function FloridaLakePage({ params }: { params: Promise<{ id
     <div className="max-w-5xl mx-auto px-4 py-10">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "LakeBodyOfWater", name: lake.name, description: lake.description.split("\n\n")[0], geo: { "@type": "GeoCoordinates", latitude: lake.lat, longitude: lake.lng } }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faqs.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://rampseeker.com" }, { "@type": "ListItem", position: 2, name: "Florida", item: "https://rampseeker.com/florida" }, { "@type": "ListItem", position: 3, name: lake.name, item: `https://rampseeker.com/florida/lakes/${lake.id}` }] }) }} />
 
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">
         <Link href="/" className="hover:text-water transition">Home</Link><span>/</span>

@@ -3,6 +3,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Terms of Service — RampSeeker",
   description: "RampSeeker terms of service. Rules and guidelines for using our Oklahoma boat ramp directory.",
+  openGraph: { title: "Terms of Service — RampSeeker", url: "https://rampseeker.com/terms", siteName: "RampSeeker" },
+  twitter: { card: "summary", title: "Terms of Service — RampSeeker" },
   alternates: { canonical: "https://rampseeker.com/terms" },
 };
 

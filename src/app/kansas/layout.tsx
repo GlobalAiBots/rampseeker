@@ -4,6 +4,7 @@ export const metadata: Metadata = {
   title: "Every Boat Ramp in Kansas — 386+ Ramps Across 15 Lakes | RampSeeker",
   description: "The most complete boat ramp directory for Kansas. 386+ ramps across Milford, Tuttle Creek, Clinton, Perry, Cheney, Wilson, and more. GPS coordinates, amenities, directions.",
   openGraph: { title: "Kansas Boat Ramps — RampSeeker", url: "https://rampseeker.com/kansas", siteName: "RampSeeker" },
+  twitter: { card: "summary", title: "RampSeeker" },
   alternates: { canonical: "https://rampseeker.com/kansas" },
 };
 

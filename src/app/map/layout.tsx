@@ -9,6 +9,7 @@ export const metadata: Metadata = {
     url: "https://rampseeker.com/map",
     siteName: "RampSeeker",
   },
+  twitter: { card: "summary", title: "RampSeeker" },
   alternates: { canonical: "https://rampseeker.com/map" },
 };
 
