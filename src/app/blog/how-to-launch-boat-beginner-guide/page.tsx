@@ -1,5 +1,6 @@
 import Link from "next/link";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import { blogPosts, getRelatedPosts } from "@/data/blog-posts";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -20,14 +21,18 @@ export default function LaunchPost() {
         publisher: { "@type": "Organization", name: "RampSeeker", url: "https://rampseeker.com" },
       }) }} />
 
-      <nav className="text-sm text-gray-400 mb-6 flex gap-2">
-        <Link href="/" className="hover:text-water transition">Home</Link><span>/</span>
-        <Link href="/blog" className="hover:text-water transition">Blog</Link><span>/</span>
-        <span className="text-charcoal font-medium">How to Launch a Boat</span>
-      </nav>
-
-      <p className="text-gray-400 text-xs mb-2">March 25, 2026 &middot; RampSeeker Team</p>
-      <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-6 leading-tight">How to Launch a Boat: Complete Beginner&apos;s Guide for Oklahoma Ramps</h1>
+      <div className="rounded-xl overflow-hidden mb-8" style={{ background: blogPosts[2].gradient }}>
+        <div className="px-6 py-10 md:py-14">
+          <nav className="text-sm text-white/60 mb-4 flex gap-2">
+            <Link href="/" className="hover:text-white transition">Home</Link><span>/</span>
+            <Link href="/blog" className="hover:text-white transition">Blog</Link><span>/</span>
+            <span className="text-white/80">Beginner Guide</span>
+          </nav>
+          <span className="text-[10px] font-bold text-white/80 bg-white/20 px-2.5 py-1 rounded-full">Beginner Guide</span>
+          <h1 className="font-[Cabin] text-2xl md:text-4xl font-bold text-white mt-3 leading-tight">How to Launch a Boat: Complete Beginner&apos;s Guide for Oklahoma Ramps</h1>
+          <p className="text-white/60 text-sm mt-3">March 25, 2026 &middot; 7 min read &middot; RampSeeker Team</p>
+        </div>
+      </div>
 
       <div className="space-y-6 text-gray-600 leading-relaxed">
         <p>Your first time launching a boat can be intimidating. There&apos;s a line of trucks behind you, the ramp is steeper than it looked, and you&apos;re pretty sure everyone is watching. Take a breath. Every experienced boater was a beginner once. This guide walks you through the entire process so your first launch goes smoothly.</p>
@@ -102,6 +107,21 @@ export default function LaunchPost() {
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10">Find Your Ramp</h2>
         <p>Ready? <Link href="/" className="text-water hover:underline">Search 261+ Oklahoma boat ramps</Link> on RampSeeker. Filter by amenities like courtesy docks and restrooms to find the perfect launch for your first trip.</p>
         <BlogCletusCallout />
+      </div>
+      <div className="mt-12 pt-8 border-t border-gray-200">
+        <h3 className="font-[Cabin] font-bold text-charcoal mb-4">More from the Blog</h3>
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          {getRelatedPosts("how-to-launch-boat-beginner-guide").map((p) => (
+            <Link key={p.slug} href={`/blog/${p.slug}`} className="group bg-white border border-gray-200 rounded-xl overflow-hidden shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all">
+              <div className="h-20" style={{ background: p.gradient }} />
+              <div className="p-4">
+                <span className="text-[10px] font-bold text-water bg-water/10 px-2 py-0.5 rounded-full">{p.category}</span>
+                <h4 className="font-[Cabin] font-bold text-charcoal group-hover:text-water transition text-sm mt-2 line-clamp-2">{p.title}</h4>
+                <p className="text-gray-400 text-xs mt-1">{p.readTime}</p>
+              </div>
+            </Link>
+          ))}
+        </div>
       </div>
     </article>
   );

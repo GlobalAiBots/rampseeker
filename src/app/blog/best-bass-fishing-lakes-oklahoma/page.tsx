@@ -1,5 +1,6 @@
 import Link from "next/link";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import { blogPosts, getRelatedPosts } from "@/data/blog-posts";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -20,14 +21,19 @@ export default function BassPost() {
         publisher: { "@type": "Organization", name: "RampSeeker", url: "https://rampseeker.com" },
       }) }} />
 
-      <nav className="text-sm text-gray-400 mb-6 flex gap-2">
-        <Link href="/" className="hover:text-water transition">Home</Link><span>/</span>
-        <Link href="/blog" className="hover:text-water transition">Blog</Link><span>/</span>
-        <span className="text-charcoal font-medium">Best Bass Fishing Lakes</span>
-      </nav>
-
-      <p className="text-gray-400 text-xs mb-2">April 1, 2026 &middot; RampSeeker Team</p>
-      <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-6 leading-tight">The 7 Best Bass Fishing Lakes in Oklahoma (2026 Guide)</h1>
+      {/* Hero Banner */}
+      <div className="rounded-xl overflow-hidden mb-8" style={{ background: blogPosts[0].gradient }}>
+        <div className="px-6 py-10 md:py-14">
+          <nav className="text-sm text-white/60 mb-4 flex gap-2">
+            <Link href="/" className="hover:text-white transition">Home</Link><span>/</span>
+            <Link href="/blog" className="hover:text-white transition">Blog</Link><span>/</span>
+            <span className="text-white/80">Best Bass Fishing Lakes</span>
+          </nav>
+          <span className="text-[10px] font-bold text-white/80 bg-white/20 px-2.5 py-1 rounded-full">Fishing</span>
+          <h1 className="font-[Cabin] text-2xl md:text-4xl font-bold text-white mt-3 leading-tight">The 7 Best Bass Fishing Lakes in Oklahoma (2026 Guide)</h1>
+          <p className="text-white/60 text-sm mt-3">April 1, 2026 &middot; 5 min read &middot; RampSeeker Team</p>
+        </div>
+      </div>
 
       <div className="space-y-6 text-gray-600 leading-relaxed">
         <p>Oklahoma is quietly one of the best bass fishing states in the country. With over 200 lakes, warm growing seasons, and diverse habitat from Ozark hills to Great Plains reservoirs, the state produces trophy largemouth, smallmouth, and spotted bass year-round. Here are the seven lakes every bass angler should know.</p>
@@ -70,6 +76,23 @@ export default function BassPost() {
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10">Find Your Launch Point</h2>
         <p>Every lake on this list has multiple boat ramps listed on <Link href="/" className="text-water hover:underline">RampSeeker</Link> with GPS coordinates, amenities, and local tips. <Link href="/lakes" className="text-water hover:underline">Browse all 19 Oklahoma lakes</Link> or use the <Link href="/map" className="text-water hover:underline">map</Link> to find the ramp closest to your fishing spot.</p>
         <BlogCletusCallout />
+      </div>
+
+      {/* Related Posts */}
+      <div className="mt-12 pt-8 border-t border-gray-200">
+        <h3 className="font-[Cabin] font-bold text-charcoal mb-4">More from the Blog</h3>
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          {getRelatedPosts("best-bass-fishing-lakes-oklahoma").map((p) => (
+            <Link key={p.slug} href={`/blog/${p.slug}`} className="group bg-white border border-gray-200 rounded-xl overflow-hidden shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all">
+              <div className="h-20" style={{ background: p.gradient }} />
+              <div className="p-4">
+                <span className="text-[10px] font-bold text-water bg-water/10 px-2 py-0.5 rounded-full">{p.category}</span>
+                <h4 className="font-[Cabin] font-bold text-charcoal group-hover:text-water transition text-sm mt-2 line-clamp-2">{p.title}</h4>
+                <p className="text-gray-400 text-xs mt-1">{p.readTime}</p>
+              </div>
+            </Link>
+          ))}
+        </div>
       </div>
     </article>
   );
