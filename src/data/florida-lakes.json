@@ -1,0 +1,421 @@
+[
+  {
+    "id": "lake-okeechobee",
+    "name": "Lake Okeechobee",
+    "lat": 26.95,
+    "lng": -80.8,
+    "radius": 0.3,
+    "acres": 730000,
+    "shorelineMiles": 135,
+    "maxDepth": 15,
+    "counties": [
+      "Palm Beach",
+      "Glades",
+      "Hendry",
+      "Martin",
+      "Okeechobee"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie (Speck)",
+      "Bluegill",
+      "Catfish",
+      "Bowfin"
+    ],
+    "nearestTowns": [
+      "Clewiston",
+      "Okeechobee",
+      "Belle Glade",
+      "Pahokee"
+    ],
+    "description": "Lake Okeechobee is the largest lake in the southeastern US at 730 square miles. Known as the Big O, it's one of the premier bass fishing destinations in the world. The shallow, fertile water grows trophy largemouth bass — fish over 10 pounds are caught regularly.\n\nThe lake's vast lily pad fields, bulrush, and Kissimmee grass create endless bass habitat. Crappie (called 'specks' in Florida) fishing is also outstanding, especially in winter.\n\nMultiple towns ring the lake with full marina facilities and guide services. The Herbert Hoover Dike provides levee-top access for bank fishing.",
+    "type": "freshwater",
+    "rampCount": 13
+  },
+  {
+    "id": "lake-toho",
+    "name": "Lake Tohopekaliga",
+    "lat": 28.22,
+    "lng": -81.4,
+    "radius": 0.12,
+    "acres": 22700,
+    "shorelineMiles": 57,
+    "maxDepth": 15,
+    "counties": [
+      "Osceola"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "Bluegill",
+      "Catfish",
+      "Gar"
+    ],
+    "nearestTowns": [
+      "Kissimmee",
+      "St. Cloud"
+    ],
+    "description": "Lake Toho is Central Florida's trophy bass factory. The 22,700-acre lake near Kissimmee consistently produces 10+ pound largemouth bass and has hosted major Bassmaster and FLW tournaments.\n\nThe lake's extensive hydrilla, lily pads, and bulrush beds create ideal bass habitat. It's just minutes from Walt Disney World, making it popular with visiting anglers.",
+    "type": "freshwater",
+    "rampCount": 12
+  },
+  {
+    "id": "lake-kissimmee",
+    "name": "Lake Kissimmee",
+    "lat": 27.95,
+    "lng": -81.28,
+    "radius": 0.1,
+    "acres": 34948,
+    "shorelineMiles": 60,
+    "maxDepth": 12,
+    "counties": [
+      "Osceola",
+      "Polk"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "Bluegill",
+      "Catfish"
+    ],
+    "nearestTowns": [
+      "Lake Wales",
+      "Kenansville"
+    ],
+    "description": "Lake Kissimmee is a 34,948-acre lake in the Kissimmee Chain of Lakes, famous for trophy bass. The lake's diverse habitat — hydrilla, kissimmee grass, buggy whips — supports world-class largemouth bass fishing year-round.",
+    "type": "freshwater",
+    "rampCount": 1
+  },
+  {
+    "id": "lake-george",
+    "name": "Lake George",
+    "lat": 29.28,
+    "lng": -81.58,
+    "radius": 0.1,
+    "acres": 46000,
+    "shorelineMiles": 60,
+    "maxDepth": 12,
+    "counties": [
+      "Volusia",
+      "Putnam"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "Striped Bass",
+      "Catfish",
+      "Bream"
+    ],
+    "nearestTowns": [
+      "DeLand",
+      "Crescent City",
+      "Georgetown"
+    ],
+    "description": "Lake George is the second largest lake in Florida at 46,000 acres. Located on the St. Johns River system, it offers excellent bass, crappie, and striped bass fishing in a scenic natural setting.",
+    "type": "freshwater",
+    "rampCount": 1
+  },
+  {
+    "id": "rodman-reservoir",
+    "name": "Rodman Reservoir",
+    "lat": 29.55,
+    "lng": -81.82,
+    "radius": 0.08,
+    "acres": 9500,
+    "shorelineMiles": 52,
+    "maxDepth": 22,
+    "counties": [
+      "Putnam",
+      "Marion"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "Bream",
+      "Catfish"
+    ],
+    "nearestTowns": [
+      "Palatka",
+      "Interlachen"
+    ],
+    "description": "Rodman Reservoir (Lake Ocklawaha) is a legendary bass lake in North Florida. The flooded timber and hydrilla create incredible habitat. It consistently ranks among the top bass fishing lakes in the state.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-seminole-fl",
+    "name": "Lake Seminole",
+    "lat": 30.75,
+    "lng": -84.82,
+    "radius": 0.12,
+    "acres": 37500,
+    "shorelineMiles": 253,
+    "maxDepth": 35,
+    "counties": [
+      "Gadsden",
+      "Jackson"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "Catfish",
+      "Striped Bass",
+      "Bream"
+    ],
+    "nearestTowns": [
+      "Sneads",
+      "Chattahoochee"
+    ],
+    "description": "Lake Seminole straddles the Florida-Georgia border with 37,500 acres of excellent bass and crappie fishing. The flooded timber in the Flint and Chattahoochee arms holds big fish year-round.",
+    "type": "freshwater",
+    "rampCount": 22
+  },
+  {
+    "id": "tampa-bay",
+    "name": "Tampa Bay",
+    "lat": 27.8,
+    "lng": -82.55,
+    "radius": 0.25,
+    "acres": 0,
+    "shorelineMiles": 200,
+    "maxDepth": 35,
+    "counties": [
+      "Hillsborough",
+      "Pinellas",
+      "Manatee"
+    ],
+    "fishSpecies": [
+      "Redfish",
+      "Snook",
+      "Spotted Seatrout",
+      "Tarpon",
+      "Sheepshead",
+      "Mangrove Snapper"
+    ],
+    "nearestTowns": [
+      "Tampa",
+      "St. Petersburg",
+      "Clearwater",
+      "Bradenton"
+    ],
+    "description": "Tampa Bay is one of Florida's premier inshore saltwater fishing destinations. The largest open-water estuary in Florida, it offers world-class fishing for redfish, snook, and spotted seatrout.\n\nThe bay's seagrass flats, mangrove shorelines, and bridges create diverse habitat. Tarpon fishing in late spring and summer draws anglers from around the world.\n\nDozens of public boat ramps ring the bay from Tampa and St. Pete to Bradenton and Clearwater.",
+    "type": "saltwater",
+    "rampCount": 99
+  },
+  {
+    "id": "charlotte-harbor",
+    "name": "Charlotte Harbor",
+    "lat": 26.9,
+    "lng": -82.1,
+    "radius": 0.15,
+    "acres": 0,
+    "shorelineMiles": 180,
+    "maxDepth": 12,
+    "counties": [
+      "Charlotte",
+      "Lee"
+    ],
+    "fishSpecies": [
+      "Tarpon",
+      "Snook",
+      "Redfish",
+      "Spotted Seatrout",
+      "Grouper",
+      "Cobia"
+    ],
+    "nearestTowns": [
+      "Punta Gorda",
+      "Port Charlotte",
+      "Cape Coral"
+    ],
+    "description": "Charlotte Harbor is a world-renowned tarpon fishing destination. The harbor and surrounding estuaries — Pine Island Sound, Matlacha Pass, and the Peace River — offer exceptional inshore fishing.\n\nThe area is famous for its spring tarpon migration, with fish over 100 pounds caught from boats and bridges.",
+    "type": "saltwater",
+    "rampCount": 18
+  },
+  {
+    "id": "biscayne-bay",
+    "name": "Biscayne Bay",
+    "lat": 25.6,
+    "lng": -80.2,
+    "radius": 0.15,
+    "acres": 0,
+    "shorelineMiles": 100,
+    "maxDepth": 15,
+    "counties": [
+      "Miami-Dade"
+    ],
+    "fishSpecies": [
+      "Bonefish",
+      "Tarpon",
+      "Permit",
+      "Snook",
+      "Redfish",
+      "Barracuda"
+    ],
+    "nearestTowns": [
+      "Miami",
+      "Key Biscayne",
+      "Homestead"
+    ],
+    "description": "Biscayne Bay is South Florida's premier flats fishing destination. It's one of the northernmost reliable bonefish habitats in the US, and the clear shallow water makes for incredible sight-fishing.\n\nBiscayne National Park protects much of the bay. Tarpon, permit, snook, and redfish round out the incredible diversity.",
+    "type": "saltwater",
+    "rampCount": 40
+  },
+  {
+    "id": "indian-river-lagoon",
+    "name": "Indian River Lagoon",
+    "lat": 27.8,
+    "lng": -80.5,
+    "radius": 0.2,
+    "acres": 0,
+    "shorelineMiles": 300,
+    "maxDepth": 6,
+    "counties": [
+      "Brevard",
+      "Indian River",
+      "St. Lucie",
+      "Martin"
+    ],
+    "fishSpecies": [
+      "Redfish",
+      "Spotted Seatrout",
+      "Snook",
+      "Tarpon",
+      "Flounder",
+      "Black Drum"
+    ],
+    "nearestTowns": [
+      "Melbourne",
+      "Vero Beach",
+      "Fort Pierce",
+      "Stuart"
+    ],
+    "description": "The Indian River Lagoon stretches 156 miles along Florida's east coast and is the most biologically diverse estuary in North America. The shallow lagoon offers outstanding redfish, seatrout, and snook fishing.\n\nThe Mosquito Lagoon at the north end is one of Florida's most famous sight-fishing destinations for redfish on the flats.",
+    "type": "saltwater",
+    "rampCount": 15
+  },
+  {
+    "id": "apalachicola-bay",
+    "name": "Apalachicola Bay",
+    "lat": 29.7,
+    "lng": -85,
+    "radius": 0.12,
+    "acres": 0,
+    "shorelineMiles": 100,
+    "maxDepth": 12,
+    "counties": [
+      "Franklin"
+    ],
+    "fishSpecies": [
+      "Redfish",
+      "Spotted Seatrout",
+      "Flounder",
+      "Sheepshead",
+      "Tripletail",
+      "Oysters"
+    ],
+    "nearestTowns": [
+      "Apalachicola",
+      "Eastpoint",
+      "Carrabelle"
+    ],
+    "description": "Apalachicola Bay is the crown jewel of Florida's Forgotten Coast. Famous for its oysters and pristine waters, the bay offers excellent inshore fishing for redfish, seatrout, and flounder in an uncrowded setting.",
+    "type": "saltwater",
+    "rampCount": 18
+  },
+  {
+    "id": "pensacola-bay-fl",
+    "name": "Pensacola Bay",
+    "lat": 30.38,
+    "lng": -87.18,
+    "radius": 0.1,
+    "acres": 0,
+    "shorelineMiles": 80,
+    "maxDepth": 30,
+    "counties": [
+      "Escambia",
+      "Santa Rosa"
+    ],
+    "fishSpecies": [
+      "Redfish",
+      "Spotted Seatrout",
+      "Flounder",
+      "Cobia",
+      "King Mackerel",
+      "Red Snapper"
+    ],
+    "nearestTowns": [
+      "Pensacola",
+      "Gulf Breeze",
+      "Navarre"
+    ],
+    "description": "Pensacola Bay and the connected Santa Rosa Sound offer diverse fishing from inshore flats to nearshore reefs. The bay system is home to excellent redfish and seatrout, while just offshore the Gulf waters hold cobia, king mackerel, and red snapper.",
+    "type": "saltwater",
+    "rampCount": 0
+  },
+  {
+    "id": "st-johns-river",
+    "name": "St. Johns River",
+    "lat": 29.9,
+    "lng": -81.6,
+    "radius": 0.25,
+    "acres": 0,
+    "shorelineMiles": 500,
+    "maxDepth": 35,
+    "counties": [
+      "Duval",
+      "Clay",
+      "St. Johns",
+      "Putnam",
+      "Volusia",
+      "Seminole",
+      "Brevard"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "Striped Bass",
+      "Redfish",
+      "Catfish",
+      "Bream"
+    ],
+    "nearestTowns": [
+      "Jacksonville",
+      "Palatka",
+      "Sanford",
+      "DeLand"
+    ],
+    "description": "The St. Johns River is one of the few rivers in North America that flows north. It stretches over 300 miles and offers both freshwater bass fishing in its upper reaches and saltwater fishing near Jacksonville.\n\nThe river connects multiple major lakes (George, Monroe, Harney) and supports an incredible diversity of fish species from largemouth bass to saltwater redfish.",
+    "type": "freshwater",
+    "rampCount": 14
+  },
+  {
+    "id": "crystal-river-fl",
+    "name": "Crystal River / Homosassa",
+    "lat": 28.9,
+    "lng": -82.6,
+    "radius": 0.08,
+    "acres": 0,
+    "shorelineMiles": 50,
+    "maxDepth": 6,
+    "counties": [
+      "Citrus"
+    ],
+    "fishSpecies": [
+      "Redfish",
+      "Spotted Seatrout",
+      "Snook",
+      "Cobia",
+      "Grouper",
+      "Tarpon"
+    ],
+    "nearestTowns": [
+      "Crystal River",
+      "Homosassa",
+      "Inverness"
+    ],
+    "description": "Crystal River and Homosassa are famous for crystal-clear spring-fed waters and world-class inshore fishing. The area is also the winter home of Florida manatees, making it a unique combination of fishing and wildlife viewing.",
+    "type": "saltwater",
+    "rampCount": 8
+  }
+]

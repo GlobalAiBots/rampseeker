@@ -4,6 +4,7 @@ import texasRampsRaw from "./texas-ramps.json";
 import missouriRampsRaw from "./missouri-ramps.json";
 import arkansasRampsRaw from "./arkansas-ramps.json";
 import kansasRampsRaw from "./kansas-ramps.json";
+import floridaRampsRaw from "./florida-ramps.json";
 
 export interface UnifiedRamp {
   id: string;
@@ -233,6 +234,26 @@ for (const raw of kansasRampsRaw) {
     description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }),
     latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "",
     city: raw.city || "", county: raw.county || "", state: "KS",
+    rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false,
+    amenities: (raw as Record<string, unknown>).amenities as string[] | undefined,
+    fee: (raw as Record<string, unknown>).fee as string | undefined,
+    rampCount: (raw as Record<string, unknown>).rampCount as number | undefined,
+  });
+}
+
+// 7. Add Florida ramps
+for (const raw of floridaRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  if (!isVisibleRamp(cleanName, raw.city || "")) continue;
+  let slug = `fl-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({
+    id: slug, name: cleanName,
+    description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }),
+    latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "",
+    city: raw.city || "", county: raw.county || "", state: "FL",
     rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false,
     amenities: (raw as Record<string, unknown>).amenities as string[] | undefined,
     fee: (raw as Record<string, unknown>).fee as string | undefined,

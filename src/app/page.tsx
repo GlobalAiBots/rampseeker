@@ -8,6 +8,7 @@ import { texasLakes } from "@/data/texas-lakes";
 import { missouriLakes } from "@/data/missouri-lakes";
 import { arkansasLakes } from "@/data/arkansas-lakes";
 import { kansasLakes } from "@/data/kansas-lakes";
+import { floridaLakes } from "@/data/florida-lakes";
 import AdSlot from "@/components/AdSlot";
 import CletusAd from "@/components/CletusAd";
 import EmailCapture from "@/components/EmailCapture";
@@ -25,6 +26,7 @@ export default function Home() {
   const moCount = useMemo(() => unified.filter((r) => r.state === "MO").length, []);
   const arCount = useMemo(() => unified.filter((r) => r.state === "AR").length, []);
   const ksCount = useMemo(() => unified.filter((r) => r.state === "KS").length, []);
+  const flCount = useMemo(() => unified.filter((r) => r.state === "FL").length, []);
 
   // Search suggestions
   const suggestions = useMemo(() => {
@@ -37,6 +39,10 @@ export default function Home() {
     if ("missouri".includes(q)) results.push({ type: "State", label: "Missouri", href: "/missouri" });
     if ("arkansas".includes(q)) results.push({ type: "State", label: "Arkansas", href: "/arkansas" });
     if ("kansas".includes(q)) results.push({ type: "State", label: "Kansas", href: "/kansas" });
+    if ("florida".includes(q)) results.push({ type: "State", label: "Florida", href: "/florida" });
+    floridaLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
+      results.push({ type: "Lake", label: `${l.name} (FL)`, href: `/florida/lakes/${l.id}` });
+    });
     arkansasLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
       results.push({ type: "Lake", label: `${l.name} (AR)`, href: `/arkansas/lakes/${l.id}` });
     });
@@ -110,6 +116,7 @@ export default function Home() {
           <Link href="/missouri" className="bg-forest hover:bg-forest-light text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm">Missouri ({moCount})</Link>
           <Link href="/arkansas" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#8B5E3C" }}>Arkansas ({arCount})</Link>
           <Link href="/kansas" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#B8860B" }}>Kansas ({ksCount})</Link>
+          <Link href="/florida" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#0077B6" }}>Florida ({flCount})</Link>
           <span className="text-gray-400 font-medium px-5 py-2.5 text-sm">More states coming</span>
         </div>
       </section>
@@ -141,6 +148,7 @@ export default function Home() {
             { name: "Missouri", href: "/missouri", count: moCount, suffix: "", lakes: `Lake of the Ozarks, Table Rock, Stockton, Truman, and ${missouriLakes.length - 4}+ more` },
             { name: "Arkansas", href: "/arkansas", count: arCount, suffix: "", lakes: `Beaver Lake, Bull Shoals, Greers Ferry, Ouachita, and ${arkansasLakes.length - 4}+ more` },
             { name: "Kansas", href: "/kansas", count: ksCount, suffix: "", lakes: `Milford, Tuttle Creek, Clinton, Perry, Cheney, and ${kansasLakes.length - 5}+ more` },
+            { name: "Florida", href: "/florida", count: flCount, suffix: "", lakes: `Tampa Bay, Lake Okeechobee, Biscayne Bay, Indian River, and ${floridaLakes.length - 4}+ more` },
           ].map((s) => (
             <Link key={s.name} href={s.href} className="group bg-white border border-gray-200 rounded-xl p-6 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all border-l-4 border-l-water">
               <div className="flex items-start justify-between mb-2">

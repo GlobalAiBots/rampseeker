@@ -6,6 +6,7 @@ import { getTexasLakeForRamp } from "@/data/texas-lakes";
 import { getMissouriLakeForRamp } from "@/data/missouri-lakes";
 import { getArkansasLakeForRamp } from "@/data/arkansas-lakes";
 import { getKansasLakeForRamp } from "@/data/kansas-lakes";
+import { getFloridaLakeForRamp } from "@/data/florida-lakes";
 import { getCountyForCity } from "@/data/counties";
 import AdSlot from "@/components/AdSlot";
 import CletusAd from "@/components/CletusAd";
@@ -60,7 +61,7 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
   if (!ramp) notFound();
 
   const gl = ramp.grandLakeData;
-  const lake = getLakeForRamp(ramp.latitude, ramp.longitude) || (ramp.state === "TX" ? getTexasLakeForRamp(ramp.latitude, ramp.longitude) : undefined) || (ramp.state === "MO" ? getMissouriLakeForRamp(ramp.latitude, ramp.longitude) : undefined) || (ramp.state === "AR" ? getArkansasLakeForRamp(ramp.latitude, ramp.longitude) : undefined) || (ramp.state === "KS" ? getKansasLakeForRamp(ramp.latitude, ramp.longitude) : undefined);
+  const lake = getLakeForRamp(ramp.latitude, ramp.longitude) || (ramp.state === "TX" ? getTexasLakeForRamp(ramp.latitude, ramp.longitude) : undefined) || (ramp.state === "MO" ? getMissouriLakeForRamp(ramp.latitude, ramp.longitude) : undefined) || (ramp.state === "AR" ? getArkansasLakeForRamp(ramp.latitude, ramp.longitude) : undefined) || (ramp.state === "KS" ? getKansasLakeForRamp(ramp.latitude, ramp.longitude) : undefined) || (ramp.state === "FL" ? getFloridaLakeForRamp(ramp.latitude, ramp.longitude) : undefined);
   const county = getCountyForCity(ramp.city);
   const citySlug = ramp.city.toLowerCase().replace(/\s+/g, "-");
   const nearby = unified.filter((r) => r.id !== ramp.id).sort((a, b) => {
