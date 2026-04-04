@@ -164,12 +164,16 @@ export default function Home() {
         {/* Coming Soon */}
         <div className="bg-gray-50 border border-gray-200 rounded-xl p-5">
           <p className="font-[Cabin] font-bold text-charcoal text-sm mb-3">Coming Soon</p>
-          <div className="grid grid-cols-3 sm:grid-cols-5 gap-2">
+          <div className="grid grid-cols-2 sm:grid-cols-4 gap-2">
             {[
-              { state: "Louisiana", count: 458 },
-              { state: "Colorado", count: 321 },
-              { state: "Florida", count: 1411 },
               { state: "Michigan", count: 3411 },
+              { state: "Minnesota", count: 1729 },
+              { state: "North Carolina", count: 1573 },
+              { state: "New York", count: 1564 },
+              { state: "Illinois", count: 1451 },
+              { state: "Washington", count: 1352 },
+              { state: "Maryland", count: 1010 },
+              { state: "California", count: 896 },
             ].map((s) => (
               <div key={s.state} className="bg-white border border-gray-200 rounded-lg p-2.5 text-center opacity-60">
                 <p className="font-bold text-charcoal text-sm">{s.state}</p>
