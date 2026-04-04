@@ -16,6 +16,7 @@ export async function generateMetadata({ params }: { params: Promise<{ city: str
     title: `Boat Ramps Near ${city.name}, Oklahoma — Find the Closest Launch | RampSeeker`,
     description: `Find the closest boat ramps near ${city.name}, OK. ${city.ramps.length} ramps in the area with GPS coordinates, directions, and amenities. Free and paid launch sites.`,
     openGraph: { title: `Boat Ramps Near ${city.name}, Oklahoma`, url: `https://rampseeker.com/find/${city.slug}` },
+    twitter: { card: "summary", title: `Boat Ramps Near ${city.name} | RampSeeker` },
     alternates: { canonical: `https://rampseeker.com/find/${city.slug}` },
   };
 }

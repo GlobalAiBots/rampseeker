@@ -32,6 +32,7 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
       siteName: "RampSeeker",
       type: "article",
     },
+    twitter: { card: "summary", title: `${ramp.name} Boat Ramp | RampSeeker` },
     alternates: { canonical: `https://rampseeker.com/ramps/${ramp.id}` },
   };
 }

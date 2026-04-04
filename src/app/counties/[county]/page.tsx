@@ -18,6 +18,7 @@ export async function generateMetadata({ params }: { params: Promise<{ county: s
     title: `Boat Ramps in ${county.name} County, Oklahoma | RampSeeker`,
     description: `Find all ${county.ramps.length} boat ramps in ${county.name} County, Oklahoma. GPS coordinates, amenities, directions, and local tips.`,
     openGraph: { title: `${county.name} County Boat Ramps`, url: `https://rampseeker.com/counties/${county.slug}` },
+    twitter: { card: "summary", title: `${county.name} County Boat Ramps | RampSeeker` },
     alternates: { canonical: `https://rampseeker.com/counties/${county.slug}` },
   };
 }

@@ -8,6 +8,7 @@ export const metadata: Metadata = {
     description: "Built by locals, for locals and visitors. The most complete boat ramp guide for Grand Lake.",
     url: "https://rampseeker.com/about",
   },
+  twitter: { card: "summary", title: "About RampSeeker" },
   alternates: { canonical: "https://rampseeker.com/about" },
 };
 

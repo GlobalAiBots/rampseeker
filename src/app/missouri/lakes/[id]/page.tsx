@@ -17,6 +17,7 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
     title: `${lake.name} Boat Ramps — Launch Sites & Access Points | RampSeeker`,
     description: `Every boat ramp on ${lake.name}, Missouri. ${lake.acres.toLocaleString()} acres. GPS coordinates, amenities, directions.`,
     openGraph: { title: `${lake.name} Boat Ramps`, url: `https://rampseeker.com/missouri/lakes/${lake.id}` },
+    twitter: { card: "summary", title: `${lake.name} Boat Ramps | RampSeeker` },
     alternates: { canonical: `https://rampseeker.com/missouri/lakes/${lake.id}` },
   };
 }
