@@ -5,13 +5,25 @@ import Link from "next/link";
 import { unified } from "@/data/all-ramps";
 import { texasLakes, getTexasLakeForRamp } from "@/data/texas-lakes";
 
+function hasRealName(name: string): boolean {
+  const n = (name || "").toLowerCase();
+  return n.length > 2 && !n.startsWith("boat ramp at") && !n.startsWith("boat ramp near") && n !== "boat ramp" && n !== "boat launch";
+}
+
 export default function TexasPage() {
   const txRamps = useMemo(() => unified.filter((r) => r.state === "TX"), []);
   const [showAll, setShowAll] = useState(false);
 
-  // Featured lake: Lake Travis (most ramps)
-  const featuredLake = texasLakes.find((l) => l.id === "lake-travis");
-  const featuredRamps = useMemo(() => featuredLake ? txRamps.filter((r) => getTexasLakeForRamp(r.latitude, r.longitude)?.id === featuredLake.id) : [], [txRamps, featuredLake]);
+  // Featured lake: pick the one with most NAMED ramps
+  const featuredLake = useMemo(() => {
+    let best = texasLakes.find((l) => l.id === "lake-travis") || texasLakes[0]; let bestCount = 0;
+    for (const l of texasLakes) {
+      const count = txRamps.filter((r) => getTexasLakeForRamp(r.latitude, r.longitude)?.id === l.id && hasRealName(r.name)).length;
+      if (count > bestCount) { best = l; bestCount = count; }
+    }
+    return best;
+  }, [txRamps]);
+  const featuredRamps = useMemo(() => featuredLake ? txRamps.filter((r) => getTexasLakeForRamp(r.latitude, r.longitude)?.id === featuredLake.id && hasRealName(r.name)) : [], [txRamps, featuredLake]);
 
   const lakeCounts = useMemo(() => {
     const map: Record<string, number> = {};

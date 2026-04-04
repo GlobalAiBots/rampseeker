@@ -5,6 +5,11 @@ import Link from "next/link";
 import { unified } from "@/data/all-ramps";
 import { kansasLakes, getKansasLakeForRamp } from "@/data/kansas-lakes";
 
+function hasRealName(name: string): boolean {
+  const n = (name || "").toLowerCase();
+  return n.length > 2 && !n.startsWith("boat ramp at") && !n.startsWith("boat ramp near") && n !== "boat ramp" && n !== "boat launch";
+}
+
 export default function KansasPage() {
   const ksRamps = useMemo(() => unified.filter((r) => r.state === "KS"), []);
   const [showAll, setShowAll] = useState(false);
@@ -18,8 +23,15 @@ export default function KansasPage() {
     for (const r of ksRamps) { const c = r.city?.trim(); if (c && c.length > 1) m[c] = (m[c] || 0) + 1; }
     return Object.entries(m).sort((a, b) => b[1] - a[1]);
   }, [ksRamps]);
-  const featuredLake = kansasLakes.find((l) => l.id === "perry-lake");
-  const featuredRamps = useMemo(() => featuredLake ? ksRamps.filter((r) => getKansasLakeForRamp(r.latitude, r.longitude)?.id === featuredLake.id) : [], [ksRamps, featuredLake]);
+  const featuredLake = useMemo(() => {
+    let best = kansasLakes.find((l) => l.id === "perry-lake") || kansasLakes[0]; let bestCount = 0;
+    for (const l of kansasLakes) {
+      const count = ksRamps.filter((r) => getKansasLakeForRamp(r.latitude, r.longitude)?.id === l.id && hasRealName(r.name)).length;
+      if (count > bestCount) { best = l; bestCount = count; }
+    }
+    return best;
+  }, [ksRamps]);
+  const featuredRamps = useMemo(() => featuredLake ? ksRamps.filter((r) => getKansasLakeForRamp(r.latitude, r.longitude)?.id === featuredLake.id && hasRealName(r.name)) : [], [ksRamps, featuredLake]);
   const display = showAll ? ksRamps : ksRamps.slice(0, 36);
 
   return (

@@ -5,6 +5,11 @@ import Link from "next/link";
 import { unified } from "@/data/all-ramps";
 import { arkansasLakes, getArkansasLakeForRamp } from "@/data/arkansas-lakes";
 
+function hasRealName(name: string): boolean {
+  const n = (name || "").toLowerCase();
+  return n.length > 2 && !n.startsWith("boat ramp at") && !n.startsWith("boat ramp near") && n !== "boat ramp" && n !== "boat launch";
+}
+
 export default function ArkansasPage() {
   const arRamps = useMemo(() => unified.filter((r) => r.state === "AR"), []);
   const [showAll, setShowAll] = useState(false);
@@ -13,8 +18,15 @@ export default function ArkansasPage() {
     for (const l of arkansasLakes) map[l.id] = arRamps.filter((r) => getArkansasLakeForRamp(r.latitude, r.longitude)?.id === l.id).length;
     return map;
   }, [arRamps]);
-  const featuredLake = arkansasLakes.find((l) => l.id === "beaver-lake");
-  const featuredRamps = useMemo(() => featuredLake ? arRamps.filter((r) => getArkansasLakeForRamp(r.latitude, r.longitude)?.id === featuredLake.id) : [], [arRamps, featuredLake]);
+  const featuredLake = useMemo(() => {
+    let best = arkansasLakes.find((l) => l.id === "beaver-lake") || arkansasLakes[0]; let bestCount = 0;
+    for (const l of arkansasLakes) {
+      const count = arRamps.filter((r) => getArkansasLakeForRamp(r.latitude, r.longitude)?.id === l.id && hasRealName(r.name)).length;
+      if (count > bestCount) { best = l; bestCount = count; }
+    }
+    return best;
+  }, [arRamps]);
+  const featuredRamps = useMemo(() => featuredLake ? arRamps.filter((r) => getArkansasLakeForRamp(r.latitude, r.longitude)?.id === featuredLake.id && hasRealName(r.name)) : [], [arRamps, featuredLake]);
   const cityMap = useMemo(() => { const m: Record<string, number> = {}; for (const r of arRamps) { const c = r.city?.trim(); if (c && c.length > 1) m[c] = (m[c] || 0) + 1; } return Object.entries(m).sort((a, b) => b[1] - a[1]); }, [arRamps]);
   const display = showAll ? arRamps : arRamps.slice(0, 36);
 

@@ -5,11 +5,24 @@ import Link from "next/link";
 import { unified } from "@/data/all-ramps";
 import { missouriLakes, getMissouriLakeForRamp } from "@/data/missouri-lakes";
 
+function hasRealName(name: string): boolean {
+  const n = (name || "").toLowerCase();
+  return n.length > 2 && !n.startsWith("boat ramp at") && !n.startsWith("boat ramp near") && n !== "boat ramp" && n !== "boat launch";
+}
+
 export default function MissouriPage() {
   const moRamps = useMemo(() => unified.filter((r) => r.state === "MO"), []);
   const [showAll, setShowAll] = useState(false);
-  const featuredLake = missouriLakes.find((l) => l.id === "lake-of-the-ozarks");
-  const featuredRamps = useMemo(() => featuredLake ? moRamps.filter((r) => getMissouriLakeForRamp(r.latitude, r.longitude)?.id === featuredLake.id) : [], [moRamps, featuredLake]);
+  // Pick featured lake: find the one with the most NAMED ramps
+  const featuredLake = useMemo(() => {
+    let best = missouriLakes[0]; let bestCount = 0;
+    for (const l of missouriLakes) {
+      const count = moRamps.filter((r) => getMissouriLakeForRamp(r.latitude, r.longitude)?.id === l.id && hasRealName(r.name)).length;
+      if (count > bestCount) { best = l; bestCount = count; }
+    }
+    return best;
+  }, [moRamps]);
+  const featuredRamps = useMemo(() => featuredLake ? moRamps.filter((r) => getMissouriLakeForRamp(r.latitude, r.longitude)?.id === featuredLake.id && hasRealName(r.name)) : [], [moRamps, featuredLake]);
   const lakeCounts = useMemo(() => { const m: Record<string, number> = {}; for (const l of missouriLakes) m[l.id] = moRamps.filter((r) => getMissouriLakeForRamp(r.latitude, r.longitude)?.id === l.id).length; return m; }, [moRamps]);
   const cityMap = useMemo(() => { const m: Record<string, number> = {}; for (const r of moRamps) { const c = r.city?.trim(); if (c && c.length > 1) m[c] = (m[c] || 0) + 1; } return Object.entries(m).sort((a, b) => b[1] - a[1]); }, [moRamps]);
   const display = showAll ? moRamps : moRamps.slice(0, 36);
