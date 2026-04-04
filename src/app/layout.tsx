@@ -41,9 +41,17 @@ function Nav() {
           <span className="text-charcoal">Ramp<span className="text-water">Seeker</span></span>
         </Link>
         <div className="flex items-center gap-4 sm:gap-6 text-sm font-medium">
-          <Link href="/oklahoma" className="text-gray-500 hover:text-water transition hidden sm:block">Oklahoma</Link>
-          <Link href="/texas" className="text-gray-500 hover:text-water transition hidden sm:block">Texas</Link>
-          <Link href="/missouri" className="text-gray-500 hover:text-water transition hidden lg:block">Missouri</Link>
+          <div className="relative group">
+            <button className="text-gray-500 hover:text-water transition flex items-center gap-1">
+              States <svg className="w-3 h-3" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" /></svg>
+            </button>
+            <div className="absolute top-full left-0 mt-1 bg-white border border-gray-200 rounded-lg shadow-lg z-50 py-1 w-36 hidden group-hover:block">
+              <Link href="/oklahoma" className="block px-4 py-2 text-sm text-gray-600 hover:bg-water/5 hover:text-water transition">Oklahoma</Link>
+              <Link href="/texas" className="block px-4 py-2 text-sm text-gray-600 hover:bg-water/5 hover:text-water transition">Texas</Link>
+              <Link href="/missouri" className="block px-4 py-2 text-sm text-gray-600 hover:bg-water/5 hover:text-water transition">Missouri</Link>
+              <Link href="/arkansas" className="block px-4 py-2 text-sm text-gray-600 hover:bg-water/5 hover:text-water transition">Arkansas</Link>
+            </div>
+          </div>
           <Link href="/map" className="text-gray-500 hover:text-water transition">Map</Link>
           <Link href="/blog" className="text-gray-500 hover:text-water transition hidden sm:block">Blog</Link>
           <Link href="/about" className="text-gray-500 hover:text-water transition hidden sm:block">About</Link>

@@ -126,67 +126,38 @@ export default function Home() {
       {/* BROWSE BY STATE */}
       <section className="max-w-5xl mx-auto px-4 pt-14 pb-8">
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-6">Browse by State</h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
-          {/* Oklahoma */}
-          <Link href="/oklahoma" className="group bg-white border border-gray-200 rounded-xl p-6 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all border-l-4 border-l-sunset">
-            <div className="flex items-start justify-between mb-2">
-              <h3 className="font-[Cabin] text-xl font-bold text-charcoal group-hover:text-water transition">Oklahoma</h3>
-              <span className="text-xs font-bold text-sunset bg-sunset/10 px-2.5 py-1 rounded-full">{okCount}+ ramps</span>
-            </div>
-            <p className="text-gray-500 text-sm mb-3">Grand Lake, Tenkiller, Eufaula, Keystone, Texoma, Broken Bow, and {lakes.length - 6}+ more lakes</p>
-            <div className="flex flex-wrap gap-1 mb-3">
-              {["Detailed guides", "Local tips", "Nearby businesses"].map((t) => (
-                <span key={t} className="text-[10px] bg-forest/10 text-forest px-2 py-0.5 rounded-full">{t}</span>
-              ))}
-            </div>
-            <span className="text-sm font-semibold text-sunset">Explore Oklahoma &rarr;</span>
-          </Link>
-          {/* Texas */}
-          <Link href="/texas" className="group bg-white border border-gray-200 rounded-xl p-6 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all border-l-4 border-l-water">
-            <div className="flex items-start justify-between mb-2">
-              <h3 className="font-[Cabin] text-xl font-bold text-charcoal group-hover:text-water transition">Texas</h3>
-              <span className="text-xs font-bold text-water bg-water/10 px-2.5 py-1 rounded-full">{txCount} ramps</span>
-            </div>
-            <p className="text-gray-500 text-sm mb-3">Lake Fork, Sam Rayburn, Lake Travis, Texoma, Canyon Lake, Possum Kingdom, and {texasLakes.length - 6}+ more</p>
-            <div className="flex flex-wrap gap-1 mb-3">
-              {["GPS coordinates", "Lake guides", "Directions"].map((t) => (
-                <span key={t} className="text-[10px] bg-water/10 text-water px-2 py-0.5 rounded-full">{t}</span>
-              ))}
-            </div>
-            <span className="text-sm font-semibold text-water">Explore Texas &rarr;</span>
-          </Link>
-          {/* Missouri */}
-          <Link href="/missouri" className="group bg-white border border-gray-200 rounded-xl p-6 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all border-l-4 border-l-forest md:col-span-2">
-            <div className="flex items-start justify-between mb-2">
-              <h3 className="font-[Cabin] text-xl font-bold text-charcoal group-hover:text-water transition">Missouri</h3>
-              <span className="text-xs font-bold text-forest bg-forest/10 px-2.5 py-1 rounded-full">{moCount} ramps</span>
-            </div>
-            <p className="text-gray-500 text-sm mb-3">Lake of the Ozarks, Table Rock, Stockton, Truman, Bull Shoals, and {missouriLakes.length - 5}+ more</p>
-            <span className="text-sm font-semibold text-forest">Explore Missouri &rarr;</span>
-          </Link>
-          {/* Arkansas */}
-          <Link href="/arkansas" className="group bg-white border border-gray-200 rounded-xl p-6 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all border-l-4 border-l-charcoal">
-            <div className="flex items-start justify-between mb-2">
-              <h3 className="font-[Cabin] text-xl font-bold text-charcoal group-hover:text-water transition">Arkansas</h3>
-              <span className="text-xs font-bold text-charcoal bg-gray-100 px-2.5 py-1 rounded-full">{arCount} ramps</span>
-            </div>
-            <p className="text-gray-500 text-sm mb-3">Beaver Lake, Bull Shoals, Greers Ferry, Lake Ouachita, Norfork, and {arkansasLakes.length - 5}+ more</p>
-            <span className="text-sm font-semibold text-charcoal">Explore Arkansas &rarr;</span>
-          </Link>
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
+          {[
+            { name: "Oklahoma", href: "/oklahoma", count: okCount, suffix: "+", lakes: `Grand Lake, Tenkiller, Eufaula, Keystone, and ${lakes.length - 4}+ more` },
+            { name: "Texas", href: "/texas", count: txCount, suffix: "", lakes: `Lake Fork, Sam Rayburn, Lake Travis, Texoma, and ${texasLakes.length - 4}+ more` },
+            { name: "Missouri", href: "/missouri", count: moCount, suffix: "", lakes: `Lake of the Ozarks, Table Rock, Stockton, Truman, and ${missouriLakes.length - 4}+ more` },
+            { name: "Arkansas", href: "/arkansas", count: arCount, suffix: "", lakes: `Beaver Lake, Bull Shoals, Greers Ferry, Ouachita, and ${arkansasLakes.length - 4}+ more` },
+          ].map((s) => (
+            <Link key={s.name} href={s.href} className="group bg-white border border-gray-200 rounded-xl p-6 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all border-l-4 border-l-water">
+              <div className="flex items-start justify-between mb-2">
+                <h3 className="font-[Cabin] text-xl font-bold text-charcoal group-hover:text-water transition">{s.name}</h3>
+                <span className="text-xs font-bold text-water bg-water/10 px-2.5 py-1 rounded-full">{s.count}{s.suffix} ramps</span>
+              </div>
+              <p className="text-gray-500 text-sm mb-3">{s.lakes}</p>
+              <span className="text-sm font-semibold text-water group-hover:text-water-light transition">Explore {s.name} &rarr;</span>
+            </Link>
+          ))}
         </div>
 
         {/* Coming Soon */}
         <div className="bg-gray-50 border border-gray-200 rounded-xl p-5">
           <p className="font-[Cabin] font-bold text-charcoal text-sm mb-3">Coming Soon</p>
-          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-2">
+          <div className="grid grid-cols-3 sm:grid-cols-5 gap-2">
             {[
               { state: "Kansas", count: 386 },
-              { state: "Colorado", count: 321 },
               { state: "Louisiana", count: 458 },
+              { state: "Colorado", count: 321 },
+              { state: "Florida", count: 1411 },
+              { state: "Michigan", count: 3411 },
             ].map((s) => (
               <div key={s.state} className="bg-white border border-gray-200 rounded-lg p-2.5 text-center opacity-60">
                 <p className="font-bold text-charcoal text-sm">{s.state}</p>
-                <p className="text-gray-400 text-xs">{s.count} ramps</p>
+                <p className="text-gray-400 text-xs">{s.count.toLocaleString()}</p>
               </div>
             ))}
           </div>
