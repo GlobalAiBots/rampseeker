@@ -35,7 +35,7 @@ export default function AboutPage() {
         </div>
 
         <p>
-          RampSeeker is a project by <a href="https://grandlakeai.com" target="_blank" className="text-water hover:text-water-light transition font-semibold">Grand Lake AI</a>, a division of Global AI Bots. We build tools for the Grand Lake community — and the ramp directory we always wished existed.
+          RampSeeker is a project of <a href="https://globalaibots.com" target="_blank" rel="noopener noreferrer" className="text-water hover:text-water-light transition font-semibold">Global AI Bots</a>, the company behind CLETUS — an AI chat and voice agent for businesses. Learn more at <a href="https://globalaibots.com" target="_blank" rel="noopener noreferrer" className="text-water hover:text-water-light transition font-semibold">globalaibots.com</a>, <a href="https://askcletus.com" target="_blank" rel="noopener noreferrer" className="text-water hover:text-water-light transition font-semibold">askcletus.com</a>, or <a href="https://grandlakeai.com" target="_blank" rel="noopener noreferrer" className="text-water hover:text-water-light transition font-semibold">grandlakeai.com</a>.
         </p>
 
         <div className="bg-slate-50 border border-slate-200 rounded-xl p-6 my-8">

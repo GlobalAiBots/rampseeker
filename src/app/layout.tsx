@@ -57,7 +57,7 @@ function Footer() {
   return (
     <footer className="bg-gray-100 border-t border-gray-200 mt-16">
       <div className="max-w-6xl mx-auto px-4 py-10">
-        <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 text-sm text-gray-500">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 text-sm text-gray-500">
           <div>
             <p className="font-bold text-charcoal mb-2 font-[Cabin]">&#9875; RampSeeker</p>
             <p>The most complete boat ramp directory in America. 29,000+ ramps across 46 states.</p>
@@ -78,6 +78,15 @@ function Footer() {
           <div>
             <p className="font-bold text-charcoal mb-2">Know a ramp we missed?</p>
             <a href="mailto:hello@rampseeker.com" className="text-water hover:text-water-light transition">hello@rampseeker.com</a>
+          </div>
+          <div>
+            <p className="font-bold text-charcoal mb-2">From Global AI Bots</p>
+            <div className="flex flex-col gap-1">
+              <a href="https://globalaibots.com" target="_blank" rel="noopener noreferrer" className="hover:text-water transition">Global AI Bots</a>
+              <a href="https://askcletus.com" target="_blank" rel="noopener noreferrer" className="hover:text-water transition">CLETUS AI Chat</a>
+              <a href="https://getcletus.com" target="_blank" rel="noopener noreferrer" className="hover:text-water transition">CLETUS AI Voice</a>
+              <a href="https://grandlakeai.com" target="_blank" rel="noopener noreferrer" className="hover:text-water transition">Grand Lake AI</a>
+            </div>
           </div>
         </div>
         <div className="mt-8 pt-6 border-t border-gray-200 flex flex-wrap justify-between items-center text-xs text-gray-400 gap-4">
