@@ -1,0 +1,409 @@
+[
+  {
+    "id": "milford-lake",
+    "name": "Milford Lake",
+    "lat": 39.1,
+    "lng": -96.9,
+    "radius": 0.12,
+    "acres": 15700,
+    "shorelineMiles": 163,
+    "maxDepth": 65,
+    "counties": [
+      "Geary",
+      "Clay",
+      "Dickinson"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Largemouth Bass",
+      "Smallmouth Bass",
+      "Crappie",
+      "White Bass",
+      "Catfish",
+      "Wiper"
+    ],
+    "nearestTowns": [
+      "Junction City",
+      "Milford",
+      "Manhattan"
+    ],
+    "description": "Milford Lake is the largest lake in Kansas at 15,700 acres. Located near Junction City and Manhattan, it's the state's premier walleye lake and a top destination for bass and crappie.\n\nThe rocky points and submerged structure support excellent walleye and bass fishing year-round. Milford State Park on the south shore offers excellent camping and ramp access.",
+    "rampCount": 12
+  },
+  {
+    "id": "tuttle-creek-lake",
+    "name": "Tuttle Creek Lake",
+    "lat": 39.28,
+    "lng": -96.58,
+    "radius": 0.1,
+    "acres": 12500,
+    "shorelineMiles": 112,
+    "maxDepth": 60,
+    "counties": [
+      "Riley",
+      "Pottawatomie"
+    ],
+    "fishSpecies": [
+      "Crappie",
+      "Walleye",
+      "Largemouth Bass",
+      "White Bass",
+      "Catfish"
+    ],
+    "nearestTowns": [
+      "Manhattan",
+      "Randolph",
+      "Tuttle Creek"
+    ],
+    "description": "Tuttle Creek Lake is a 12,500-acre reservoir near Manhattan known for excellent crappie fishing. The flooded timber in the upper arms holds big slabs in spring and fall.\n\nThe lake also produces good walleye and white bass. Tuttle Creek State Park provides multiple launch ramps.",
+    "rampCount": 13
+  },
+  {
+    "id": "clinton-lake",
+    "name": "Clinton Lake",
+    "lat": 38.92,
+    "lng": -95.38,
+    "radius": 0.08,
+    "acres": 7000,
+    "shorelineMiles": 85,
+    "maxDepth": 75,
+    "counties": [
+      "Douglas"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "Walleye",
+      "Catfish",
+      "Wiper"
+    ],
+    "nearestTowns": [
+      "Lawrence",
+      "Clinton"
+    ],
+    "description": "Clinton Lake is Lawrence's go-to fishing lake — 7,000 acres just west of town. The lake produces quality largemouth bass and good crappie fishing.\n\nClinton State Park offers excellent facilities including a marina and multiple concrete ramps.",
+    "rampCount": 20
+  },
+  {
+    "id": "perry-lake",
+    "name": "Perry Lake",
+    "lat": 39.15,
+    "lng": -95.48,
+    "radius": 0.08,
+    "acres": 12600,
+    "shorelineMiles": 160,
+    "maxDepth": 75,
+    "counties": [
+      "Jefferson"
+    ],
+    "fishSpecies": [
+      "Crappie",
+      "Largemouth Bass",
+      "Walleye",
+      "White Bass",
+      "Catfish"
+    ],
+    "nearestTowns": [
+      "Perry",
+      "Ozawkie",
+      "Topeka"
+    ],
+    "description": "Perry Lake is a 12,600-acre reservoir northeast of Topeka known for outstanding crappie fishing. It's also one of the top walleye and bass lakes in eastern Kansas.\n\nPerry State Park on the west shore provides camping and well-maintained ramps.",
+    "rampCount": 24
+  },
+  {
+    "id": "cheney-reservoir",
+    "name": "Cheney Reservoir",
+    "lat": 37.78,
+    "lng": -97.82,
+    "radius": 0.08,
+    "acres": 9500,
+    "shorelineMiles": 79,
+    "maxDepth": 45,
+    "counties": [
+      "Reno",
+      "Kingman",
+      "Sedgwick"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Wiper",
+      "White Bass",
+      "Crappie",
+      "Largemouth Bass",
+      "Catfish"
+    ],
+    "nearestTowns": [
+      "Cheney",
+      "Wichita"
+    ],
+    "description": "Cheney Reservoir is Wichita's premier fishing lake at 9,500 acres. It's Kansas's top wiper (striped bass hybrid) destination and also produces excellent walleye.\n\nCheney State Park provides the main access with good ramps and facilities.",
+    "rampCount": 12
+  },
+  {
+    "id": "el-dorado-lake",
+    "name": "El Dorado Lake",
+    "lat": 37.7,
+    "lng": -96.85,
+    "radius": 0.08,
+    "acres": 8000,
+    "shorelineMiles": 98,
+    "maxDepth": 55,
+    "counties": [
+      "Butler"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Largemouth Bass",
+      "Crappie",
+      "White Bass",
+      "Catfish"
+    ],
+    "nearestTowns": [
+      "El Dorado",
+      "Augusta"
+    ],
+    "description": "El Dorado Lake is an 8,000-acre reservoir east of Wichita known for consistent walleye fishing and quality bass.\n\nEl Dorado State Park — Kansas's largest state park — surrounds the lake with multiple ramp areas.",
+    "rampCount": 0
+  },
+  {
+    "id": "wilson-lake",
+    "name": "Wilson Lake",
+    "lat": 38.95,
+    "lng": -98.55,
+    "radius": 0.08,
+    "acres": 9000,
+    "shorelineMiles": 100,
+    "maxDepth": 95,
+    "counties": [
+      "Russell",
+      "Lincoln"
+    ],
+    "fishSpecies": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Walleye",
+      "Striped Bass",
+      "Crappie"
+    ],
+    "nearestTowns": [
+      "Wilson",
+      "Lucas",
+      "Russell"
+    ],
+    "description": "Wilson Lake is the clearest lake in Kansas with visibility often exceeding 15 feet. The rocky Smoky Hills terrain creates ideal smallmouth bass habitat — Wilson is Kansas's best smallmouth lake.\n\nWilson State Park provides excellent access to this scenic lake.",
+    "rampCount": 7
+  },
+  {
+    "id": "glen-elder-reservoir",
+    "name": "Glen Elder Reservoir (Waconda Lake)",
+    "lat": 39.5,
+    "lng": -98.32,
+    "radius": 0.08,
+    "acres": 12600,
+    "shorelineMiles": 110,
+    "maxDepth": 65,
+    "counties": [
+      "Mitchell",
+      "Osborne"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Wiper",
+      "White Bass",
+      "Smallmouth Bass",
+      "Catfish"
+    ],
+    "nearestTowns": [
+      "Glen Elder",
+      "Cawker City",
+      "Beloit"
+    ],
+    "description": "Glen Elder Reservoir (also called Waconda Lake) is a 12,600-acre lake in north-central Kansas known for trophy walleye and wipers. Some of the largest wipers in the state come from this lake.",
+    "rampCount": 5
+  },
+  {
+    "id": "kanopolis-lake",
+    "name": "Kanopolis Lake",
+    "lat": 38.72,
+    "lng": -98.08,
+    "radius": 0.08,
+    "acres": 3500,
+    "shorelineMiles": 52,
+    "maxDepth": 50,
+    "counties": [
+      "Ellsworth"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "Walleye",
+      "Catfish",
+      "White Bass"
+    ],
+    "nearestTowns": [
+      "Kanopolis",
+      "Ellsworth",
+      "Marquette"
+    ],
+    "description": "Kanopolis Lake is a 3,500-acre reservoir in central Kansas with good bass and crappie fishing. Kanopolis State Park provides scenic camping among sandstone formations.",
+    "rampCount": 1
+  },
+  {
+    "id": "cedar-bluff-reservoir",
+    "name": "Cedar Bluff Reservoir",
+    "lat": 38.78,
+    "lng": -99.78,
+    "radius": 0.08,
+    "acres": 6800,
+    "shorelineMiles": 90,
+    "maxDepth": 60,
+    "counties": [
+      "Trego"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Wiper",
+      "Largemouth Bass",
+      "Crappie",
+      "Catfish"
+    ],
+    "nearestTowns": [
+      "WaKeeney",
+      "Ellis"
+    ],
+    "description": "Cedar Bluff Reservoir is a 6,800-acre lake in western Kansas that produces quality walleye and wipers. Cedar Bluff State Park provides access.",
+    "rampCount": 15
+  },
+  {
+    "id": "pomona-lake",
+    "name": "Pomona Lake",
+    "lat": 38.65,
+    "lng": -95.58,
+    "radius": 0.06,
+    "acres": 4000,
+    "shorelineMiles": 52,
+    "maxDepth": 55,
+    "counties": [
+      "Osage"
+    ],
+    "fishSpecies": [
+      "Crappie",
+      "Largemouth Bass",
+      "Catfish",
+      "White Bass"
+    ],
+    "nearestTowns": [
+      "Pomona",
+      "Lyndon",
+      "Overbrook"
+    ],
+    "description": "Pomona Lake is a 4,000-acre reservoir south of Topeka popular for crappie and bass fishing. The flooded timber provides excellent fish habitat.",
+    "rampCount": 18
+  },
+  {
+    "id": "melvern-lake",
+    "name": "Melvern Lake",
+    "lat": 38.52,
+    "lng": -95.72,
+    "radius": 0.06,
+    "acres": 7000,
+    "shorelineMiles": 100,
+    "maxDepth": 60,
+    "counties": [
+      "Osage"
+    ],
+    "fishSpecies": [
+      "Crappie",
+      "Walleye",
+      "Largemouth Bass",
+      "White Bass",
+      "Catfish"
+    ],
+    "nearestTowns": [
+      "Melvern",
+      "Lyndon",
+      "Osage City"
+    ],
+    "description": "Melvern Lake is a 7,000-acre reservoir known for excellent crappie fishing and consistent walleye. The lake is less pressured than some eastern Kansas lakes.",
+    "rampCount": 5
+  },
+  {
+    "id": "fall-river-lake",
+    "name": "Fall River Lake",
+    "lat": 37.62,
+    "lng": -96.08,
+    "radius": 0.06,
+    "acres": 2500,
+    "shorelineMiles": 44,
+    "maxDepth": 55,
+    "counties": [
+      "Greenwood"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Channel Catfish",
+      "Crappie",
+      "Bluegill"
+    ],
+    "nearestTowns": [
+      "Fall River",
+      "Eureka",
+      "Toronto"
+    ],
+    "description": "Fall River Lake is a scenic 2,500-acre reservoir in the Flint Hills known for quality bass fishing and a peaceful atmosphere.",
+    "rampCount": 3
+  },
+  {
+    "id": "hillsdale-lake",
+    "name": "Hillsdale Lake",
+    "lat": 38.65,
+    "lng": -95,
+    "radius": 0.06,
+    "acres": 4600,
+    "shorelineMiles": 51,
+    "maxDepth": 55,
+    "counties": [
+      "Miami"
+    ],
+    "fishSpecies": [
+      "Crappie",
+      "Largemouth Bass",
+      "Catfish",
+      "White Bass"
+    ],
+    "nearestTowns": [
+      "Hillsdale",
+      "Paola",
+      "Spring Hill"
+    ],
+    "description": "Hillsdale Lake is a 4,600-acre reservoir in the Kansas City metro area. Good crappie and bass fishing close to the city.",
+    "rampCount": 4
+  },
+  {
+    "id": "marion-reservoir",
+    "name": "Marion Reservoir",
+    "lat": 38.35,
+    "lng": -97.05,
+    "radius": 0.06,
+    "acres": 6200,
+    "shorelineMiles": 68,
+    "maxDepth": 50,
+    "counties": [
+      "Marion"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Wiper",
+      "Crappie",
+      "White Bass",
+      "Largemouth Bass"
+    ],
+    "nearestTowns": [
+      "Marion",
+      "Hillsboro"
+    ],
+    "description": "Marion Reservoir is a 6,200-acre lake in central Kansas producing solid walleye and wiper catches. Less crowded than many Kansas lakes.",
+    "rampCount": 1
+  }
+]

@@ -7,6 +7,7 @@ import { lakes } from "@/data/lakes";
 import { texasLakes } from "@/data/texas-lakes";
 import { missouriLakes } from "@/data/missouri-lakes";
 import { arkansasLakes } from "@/data/arkansas-lakes";
+import { kansasLakes } from "@/data/kansas-lakes";
 import AdSlot from "@/components/AdSlot";
 import EmailCapture from "@/components/EmailCapture";
 
@@ -22,6 +23,7 @@ export default function Home() {
   const txCount = useMemo(() => unified.filter((r) => r.state === "TX").length, []);
   const moCount = useMemo(() => unified.filter((r) => r.state === "MO").length, []);
   const arCount = useMemo(() => unified.filter((r) => r.state === "AR").length, []);
+  const ksCount = useMemo(() => unified.filter((r) => r.state === "KS").length, []);
 
   // Search suggestions
   const suggestions = useMemo(() => {
@@ -33,8 +35,12 @@ export default function Home() {
     if ("texas".includes(q)) results.push({ type: "State", label: "Texas", href: "/texas" });
     if ("missouri".includes(q)) results.push({ type: "State", label: "Missouri", href: "/missouri" });
     if ("arkansas".includes(q)) results.push({ type: "State", label: "Arkansas", href: "/arkansas" });
+    if ("kansas".includes(q)) results.push({ type: "State", label: "Kansas", href: "/kansas" });
     arkansasLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
       results.push({ type: "Lake", label: `${l.name} (AR)`, href: `/arkansas/lakes/${l.id}` });
+    });
+    kansasLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
+      results.push({ type: "Lake", label: `${l.name} (KS)`, href: `/kansas/lakes/${l.id}` });
     });
     // MO lakes
     missouriLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
@@ -102,6 +108,7 @@ export default function Home() {
           <Link href="/texas" className="bg-water hover:bg-water-light text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm">Texas ({txCount})</Link>
           <Link href="/missouri" className="bg-forest hover:bg-forest-light text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm">Missouri ({moCount})</Link>
           <Link href="/arkansas" className="border-2 border-charcoal text-charcoal hover:bg-charcoal hover:text-white font-bold px-5 py-2.5 rounded-lg transition text-sm">Arkansas ({arCount})</Link>
+          <Link href="/kansas" className="border-2 border-gray-400 text-gray-500 hover:bg-gray-500 hover:text-white font-bold px-5 py-2.5 rounded-lg transition text-sm">Kansas ({ksCount})</Link>
           <span className="text-gray-400 font-medium px-5 py-2.5 text-sm">More states coming</span>
         </div>
       </section>
@@ -132,6 +139,7 @@ export default function Home() {
             { name: "Texas", href: "/texas", count: txCount, suffix: "", lakes: `Lake Fork, Sam Rayburn, Lake Travis, Texoma, and ${texasLakes.length - 4}+ more` },
             { name: "Missouri", href: "/missouri", count: moCount, suffix: "", lakes: `Lake of the Ozarks, Table Rock, Stockton, Truman, and ${missouriLakes.length - 4}+ more` },
             { name: "Arkansas", href: "/arkansas", count: arCount, suffix: "", lakes: `Beaver Lake, Bull Shoals, Greers Ferry, Ouachita, and ${arkansasLakes.length - 4}+ more` },
+            { name: "Kansas", href: "/kansas", count: ksCount, suffix: "", lakes: `Milford, Tuttle Creek, Clinton, Perry, Cheney, and ${kansasLakes.length - 5}+ more` },
           ].map((s) => (
             <Link key={s.name} href={s.href} className="group bg-white border border-gray-200 rounded-xl p-6 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all border-l-4 border-l-water">
               <div className="flex items-start justify-between mb-2">
@@ -149,7 +157,6 @@ export default function Home() {
           <p className="font-[Cabin] font-bold text-charcoal text-sm mb-3">Coming Soon</p>
           <div className="grid grid-cols-3 sm:grid-cols-5 gap-2">
             {[
-              { state: "Kansas", count: 386 },
               { state: "Louisiana", count: 458 },
               { state: "Colorado", count: 321 },
               { state: "Florida", count: 1411 },

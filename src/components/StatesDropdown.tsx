@@ -8,6 +8,7 @@ const states = [
   { name: "Texas", href: "/texas" },
   { name: "Missouri", href: "/missouri" },
   { name: "Arkansas", href: "/arkansas" },
+  { name: "Kansas", href: "/kansas" },
 ];
 
 export default function StatesDropdown() {
