@@ -694,7 +694,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_189385394",
@@ -711,7 +718,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_189388344",
@@ -745,7 +759,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_189592926",
@@ -762,7 +783,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "stockton-lake",
-    "lake_name": "Stockton Lake"
+    "lake_name": "Stockton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_189597526",
@@ -779,7 +807,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "stockton-lake",
-    "lake_name": "Stockton Lake"
+    "lake_name": "Stockton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_189616169",
@@ -796,7 +831,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "stockton-lake",
-    "lake_name": "Stockton Lake"
+    "lake_name": "Stockton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_189643444",
@@ -813,7 +855,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "stockton-lake",
-    "lake_name": "Stockton Lake"
+    "lake_name": "Stockton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_189655263",
@@ -830,7 +879,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "stockton-lake",
-    "lake_name": "Stockton Lake"
+    "lake_name": "Stockton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_189858596",
@@ -949,7 +1005,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "stockton-lake",
-    "lake_name": "Stockton Lake"
+    "lake_name": "Stockton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_190018474",
@@ -1561,7 +1624,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "table-rock-lake",
-    "lake_name": "Table Rock Lake"
+    "lake_name": "Table Rock Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_256626593",
@@ -1646,7 +1716,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "table-rock-lake",
-    "lake_name": "Table Rock Lake"
+    "lake_name": "Table Rock Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_634626309",
@@ -2054,7 +2131,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1345108197",
@@ -3244,7 +3328,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_2056575047",
@@ -3278,7 +3369,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "stockton-lake",
-    "lake_name": "Stockton Lake"
+    "lake_name": "Stockton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_2085009666",
@@ -3431,7 +3529,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "table-rock-lake",
-    "lake_name": "Table Rock Lake"
+    "lake_name": "Table Rock Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_2689339107",
@@ -3448,7 +3553,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "table-rock-lake",
-    "lake_name": "Table Rock Lake"
+    "lake_name": "Table Rock Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_2689339562",
@@ -3465,7 +3577,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "table-rock-lake",
-    "lake_name": "Table Rock Lake"
+    "lake_name": "Table Rock Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_2689356472",
@@ -3482,7 +3601,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "table-rock-lake",
-    "lake_name": "Table Rock Lake"
+    "lake_name": "Table Rock Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_2692148288",
@@ -3490,16 +3616,23 @@
     "formatted_address": "Missouri, USA",
     "latitude": 36.5812935,
     "longitude": -93.3114778,
-    "city": "",
+    "city": "West Alton",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 5,
+    "total_ratings": 3,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "table-rock-lake",
-    "lake_name": "Table Rock Lake"
+    "lake_name": "Table Rock Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_2705189552",
@@ -3652,7 +3785,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "stockton-lake",
-    "lake_name": "Stockton Lake"
+    "lake_name": "Stockton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_3308575464",
@@ -3669,7 +3809,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "stockton-lake",
-    "lake_name": "Stockton Lake"
+    "lake_name": "Stockton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_3311072298",
@@ -4145,7 +4292,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_3978328397",
@@ -4213,7 +4367,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "stockton-lake",
-    "lake_name": "Stockton Lake"
+    "lake_name": "Stockton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_4013831398",
@@ -4264,7 +4425,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "table-rock-lake",
-    "lake_name": "Table Rock Lake"
+    "lake_name": "Table Rock Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_4791916619",
@@ -4400,7 +4568,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "table-rock-lake",
-    "lake_name": "Table Rock Lake"
+    "lake_name": "Table Rock Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_5159790010",
@@ -4417,7 +4592,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "table-rock-lake",
-    "lake_name": "Table Rock Lake"
+    "lake_name": "Table Rock Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_5258395387",
@@ -4842,7 +5024,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_7065946878",
@@ -4876,7 +5065,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_7065949810",
@@ -4893,7 +5089,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_7134084349",
@@ -4927,7 +5130,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_7194708246",
@@ -4944,7 +5154,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_7272102378",
@@ -4995,7 +5212,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "table-rock-lake",
-    "lake_name": "Table Rock Lake"
+    "lake_name": "Table Rock Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_7656952206",
@@ -5046,7 +5270,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_7909274587",
@@ -5080,7 +5311,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "stockton-lake",
-    "lake_name": "Stockton Lake"
+    "lake_name": "Stockton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_8063143509",
@@ -5097,7 +5335,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_8142569168",
@@ -5199,7 +5444,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_8435451180",
@@ -5216,7 +5468,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_8441329537",
@@ -5233,7 +5492,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_8494403550",
@@ -5301,7 +5567,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_8521736773",
@@ -5318,7 +5591,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_8536089575",
@@ -5454,7 +5734,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_8932440729",
@@ -5862,7 +6149,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "stockton-lake",
-    "lake_name": "Stockton Lake"
+    "lake_name": "Stockton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_10927459838",
@@ -6321,7 +6615,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "stockton-lake",
-    "lake_name": "Stockton Lake"
+    "lake_name": "Stockton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_12300528189",
@@ -6338,7 +6639,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "stockton-lake",
-    "lake_name": "Stockton Lake"
+    "lake_name": "Stockton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_12300528190",
@@ -6355,7 +6663,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "stockton-lake",
-    "lake_name": "Stockton Lake"
+    "lake_name": "Stockton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_12405138735",
@@ -7363,36 +7678,50 @@
   {
     "place_id": "osm_12583484481",
     "name": "Pa He Tsi Boat Ramp",
-    "formatted_address": "Osage Beach, MO, USA",
+    "formatted_address": "Honey Bau Rd, Osage Beach, MO 65065, USA",
     "latitude": 38.1187415,
     "longitude": -92.6639441,
     "city": "Osage Beach",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 4.6,
+    "total_ratings": 36,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_12583511211",
     "name": "Grand Glaize Boat Ramp",
-    "formatted_address": "Osage Beach, MO, USA",
+    "formatted_address": "711 Public Beach Rd, Osage Beach, MO 65065, USA",
     "latitude": 38.1156951,
     "longitude": -92.6694398,
     "city": "Osage Beach",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 4.6,
+    "total_ratings": 796,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_12586166486",
@@ -7409,7 +7738,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_12588205746",
@@ -8182,16 +8518,23 @@
     "formatted_address": "Missouri, USA",
     "latitude": 38.2533392,
     "longitude": -92.7371071,
-    "city": "",
+    "city": "Rocky Mount",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 4.5,
+    "total_ratings": 142,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_12673742541",
@@ -8199,16 +8542,23 @@
     "formatted_address": "Missouri, USA",
     "latitude": 38.3097571,
     "longitude": -92.8189221,
-    "city": "",
+    "city": "Gravois Mills",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 4.7,
+    "total_ratings": 68,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_12673802691",
@@ -8769,7 +9119,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "stockton-lake",
-    "lake_name": "Stockton Lake"
+    "lake_name": "Stockton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_12818390241",
@@ -8786,7 +9143,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "stockton-lake",
-    "lake_name": "Stockton Lake"
+    "lake_name": "Stockton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_12869620451",
@@ -10571,7 +10935,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "table-rock-lake",
-    "lake_name": "Table Rock Lake"
+    "lake_name": "Table Rock Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_706048276",
@@ -10588,7 +10959,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "table-rock-lake",
-    "lake_name": "Table Rock Lake"
+    "lake_name": "Table Rock Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_745357056",
@@ -10724,7 +11102,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "table-rock-lake",
-    "lake_name": "Table Rock Lake"
+    "lake_name": "Table Rock Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1074980465",
@@ -11047,7 +11432,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "stockton-lake",
-    "lake_name": "Stockton Lake"
+    "lake_name": "Stockton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1329511445",
@@ -11064,7 +11456,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "stockton-lake",
-    "lake_name": "Stockton Lake"
+    "lake_name": "Stockton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1329511460",
@@ -11081,7 +11480,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "stockton-lake",
-    "lake_name": "Stockton Lake"
+    "lake_name": "Stockton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1329511461",
@@ -11098,7 +11504,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "stockton-lake",
-    "lake_name": "Stockton Lake"
+    "lake_name": "Stockton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1354776894",
@@ -11217,7 +11630,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1359451852",
@@ -11234,7 +11654,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1359713054",
@@ -11251,7 +11678,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1359904188",
@@ -11336,7 +11770,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "table-rock-lake",
-    "lake_name": "Table Rock Lake"
+    "lake_name": "Table Rock Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1361858034",
@@ -12067,7 +12508,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1368447871",
@@ -12084,7 +12532,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1368453200",
@@ -12747,7 +13202,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1409280800",
@@ -12764,7 +13226,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1410024072",
@@ -13070,7 +13539,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "table-rock-lake",
-    "lake_name": "Table Rock Lake"
+    "lake_name": "Table Rock Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1434978758",
@@ -13206,7 +13682,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1480337201",
@@ -13223,6 +13706,13 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-of-the-ozarks",
-    "lake_name": "Lake of the Ozarks"
+    "lake_name": "Lake of the Ozarks",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   }
 ]

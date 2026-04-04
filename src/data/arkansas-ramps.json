@@ -65,7 +65,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "greers-ferry-lake",
-    "lake_name": "Greers Ferry Lake"
+    "lake_name": "Greers Ferry Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_116733866",
@@ -303,7 +310,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "beaver-lake",
-    "lake_name": "Beaver Lake"
+    "lake_name": "Beaver Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1582537187",
@@ -337,7 +351,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "greers-ferry-lake",
-    "lake_name": "Greers Ferry Lake"
+    "lake_name": "Greers Ferry Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1582634556",
@@ -354,7 +375,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "greers-ferry-lake",
-    "lake_name": "Greers Ferry Lake"
+    "lake_name": "Greers Ferry Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1582634572",
@@ -371,7 +399,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "greers-ferry-lake",
-    "lake_name": "Greers Ferry Lake"
+    "lake_name": "Greers Ferry Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1582634574",
@@ -388,7 +423,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "greers-ferry-lake",
-    "lake_name": "Greers Ferry Lake"
+    "lake_name": "Greers Ferry Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1582634579",
@@ -405,7 +447,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "greers-ferry-lake",
-    "lake_name": "Greers Ferry Lake"
+    "lake_name": "Greers Ferry Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1582634592",
@@ -422,7 +471,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "greers-ferry-lake",
-    "lake_name": "Greers Ferry Lake"
+    "lake_name": "Greers Ferry Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1582634595",
@@ -490,7 +546,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "greers-ferry-lake",
-    "lake_name": "Greers Ferry Lake"
+    "lake_name": "Greers Ferry Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1582634619",
@@ -507,7 +570,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "greers-ferry-lake",
-    "lake_name": "Greers Ferry Lake"
+    "lake_name": "Greers Ferry Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1582634621",
@@ -524,7 +594,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "greers-ferry-lake",
-    "lake_name": "Greers Ferry Lake"
+    "lake_name": "Greers Ferry Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1582634623",
@@ -541,7 +618,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "greers-ferry-lake",
-    "lake_name": "Greers Ferry Lake"
+    "lake_name": "Greers Ferry Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1582634638",
@@ -558,7 +642,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "greers-ferry-lake",
-    "lake_name": "Greers Ferry Lake"
+    "lake_name": "Greers Ferry Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1582634644",
@@ -575,7 +666,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "greers-ferry-lake",
-    "lake_name": "Greers Ferry Lake"
+    "lake_name": "Greers Ferry Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1582634647",
@@ -592,7 +690,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "greers-ferry-lake",
-    "lake_name": "Greers Ferry Lake"
+    "lake_name": "Greers Ferry Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1582634650",
@@ -609,7 +714,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "greers-ferry-lake",
-    "lake_name": "Greers Ferry Lake"
+    "lake_name": "Greers Ferry Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1582634657",
@@ -626,7 +738,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "greers-ferry-lake",
-    "lake_name": "Greers Ferry Lake"
+    "lake_name": "Greers Ferry Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1582634661",
@@ -643,7 +762,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "greers-ferry-lake",
-    "lake_name": "Greers Ferry Lake"
+    "lake_name": "Greers Ferry Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1582634664",
@@ -660,7 +786,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "greers-ferry-lake",
-    "lake_name": "Greers Ferry Lake"
+    "lake_name": "Greers Ferry Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1582696808",
@@ -677,7 +810,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "greers-ferry-lake",
-    "lake_name": "Greers Ferry Lake"
+    "lake_name": "Greers Ferry Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1582707072",
@@ -779,7 +919,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "greers-ferry-lake",
-    "lake_name": "Greers Ferry Lake"
+    "lake_name": "Greers Ferry Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1673841618",
@@ -796,7 +943,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "bull-shoals-lake-ar",
-    "lake_name": "Bull Shoals Lake"
+    "lake_name": "Bull Shoals Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1673843581",
@@ -813,7 +967,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "bull-shoals-lake-ar",
-    "lake_name": "Bull Shoals Lake"
+    "lake_name": "Bull Shoals Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1719516356",
@@ -983,7 +1144,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "beaver-lake",
-    "lake_name": "Beaver Lake"
+    "lake_name": "Beaver Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_2535710536",
@@ -1000,7 +1168,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "beaver-lake",
-    "lake_name": "Beaver Lake"
+    "lake_name": "Beaver Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_2629107200",
@@ -1051,7 +1226,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "bull-shoals-lake-ar",
-    "lake_name": "Bull Shoals Lake"
+    "lake_name": "Bull Shoals Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_4173015866",
@@ -1119,7 +1301,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "beaver-lake",
-    "lake_name": "Beaver Lake"
+    "lake_name": "Beaver Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_4479990455",
@@ -1136,7 +1325,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "bull-shoals-lake-ar",
-    "lake_name": "Bull Shoals Lake"
+    "lake_name": "Bull Shoals Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_4482712834",
@@ -1187,7 +1383,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "beaver-lake",
-    "lake_name": "Beaver Lake"
+    "lake_name": "Beaver Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_5243506942",
@@ -1221,7 +1424,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "beaver-lake",
-    "lake_name": "Beaver Lake"
+    "lake_name": "Beaver Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_5307744447",
@@ -1816,7 +2026,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "beaver-lake",
-    "lake_name": "Beaver Lake"
+    "lake_name": "Beaver Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_8667105044",
@@ -1867,7 +2084,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "beaver-lake",
-    "lake_name": "Beaver Lake"
+    "lake_name": "Beaver Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_8925316500",
@@ -1952,7 +2176,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "beaver-lake",
-    "lake_name": "Beaver Lake"
+    "lake_name": "Beaver Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_9948396068",
@@ -2054,7 +2285,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "greers-ferry-lake",
-    "lake_name": "Greers Ferry Lake"
+    "lake_name": "Greers Ferry Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_10733003996",
@@ -2071,7 +2309,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "greers-ferry-lake",
-    "lake_name": "Greers Ferry Lake"
+    "lake_name": "Greers Ferry Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_10733003997",
@@ -2088,7 +2333,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "greers-ferry-lake",
-    "lake_name": "Greers Ferry Lake"
+    "lake_name": "Greers Ferry Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_10930112289",
@@ -3244,7 +3496,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "beaver-lake",
-    "lake_name": "Beaver Lake"
+    "lake_name": "Beaver Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_461719820",
@@ -3261,7 +3520,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "beaver-lake",
-    "lake_name": "Beaver Lake"
+    "lake_name": "Beaver Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_461719822",
@@ -3278,7 +3544,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "beaver-lake",
-    "lake_name": "Beaver Lake"
+    "lake_name": "Beaver Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_461719827",
@@ -3295,7 +3568,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "beaver-lake",
-    "lake_name": "Beaver Lake"
+    "lake_name": "Beaver Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_461719828",
@@ -3312,7 +3592,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "beaver-lake",
-    "lake_name": "Beaver Lake"
+    "lake_name": "Beaver Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_623537432",
@@ -3346,7 +3633,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "greers-ferry-lake",
-    "lake_name": "Greers Ferry Lake"
+    "lake_name": "Greers Ferry Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_834310595",
@@ -3499,7 +3793,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "beaver-lake",
-    "lake_name": "Beaver Lake"
+    "lake_name": "Beaver Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1168597362",
@@ -3720,7 +4021,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "beaver-lake",
-    "lake_name": "Beaver Lake"
+    "lake_name": "Beaver Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1280756166",
@@ -3805,7 +4113,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "greers-ferry-lake",
-    "lake_name": "Greers Ferry Lake"
+    "lake_name": "Greers Ferry Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1328500399",
@@ -3873,7 +4188,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "greers-ferry-lake",
-    "lake_name": "Greers Ferry Lake"
+    "lake_name": "Greers Ferry Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1351697913",
@@ -4179,7 +4501,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "bull-shoals-lake-ar",
-    "lake_name": "Bull Shoals Lake"
+    "lake_name": "Bull Shoals Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1476277510",
@@ -4196,7 +4525,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "bull-shoals-lake-ar",
-    "lake_name": "Bull Shoals Lake"
+    "lake_name": "Bull Shoals Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1476277520",
@@ -4213,7 +4549,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "bull-shoals-lake-ar",
-    "lake_name": "Bull Shoals Lake"
+    "lake_name": "Bull Shoals Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1476704784",

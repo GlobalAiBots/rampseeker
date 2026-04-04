@@ -5,16 +5,23 @@
     "formatted_address": "Kansas, USA",
     "latitude": 38.9361707,
     "longitude": -95.3885433,
-    "city": "",
+    "city": "Lawrence",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 4.3,
+    "total_ratings": 46,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "clinton-lake",
-    "lake_name": "Clinton Lake"
+    "lake_name": "Clinton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_30277567",
@@ -22,16 +29,23 @@
     "formatted_address": "Kansas, USA",
     "latitude": 38.9156168,
     "longitude": -95.3720427,
-    "city": "",
+    "city": "Lawrence",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 4.8,
+    "total_ratings": 4,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "clinton-lake",
-    "lake_name": "Clinton Lake"
+    "lake_name": "Clinton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_30277593",
@@ -48,7 +62,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "clinton-lake",
-    "lake_name": "Clinton Lake"
+    "lake_name": "Clinton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_119537971",
@@ -73,16 +94,23 @@
     "formatted_address": "Kansas, USA",
     "latitude": 39.2131194,
     "longitude": -97.0051349,
-    "city": "",
+    "city": "Paola",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 4.6,
+    "total_ratings": 23,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "milford-lake",
-    "lake_name": "Milford Lake"
+    "lake_name": "Milford Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_119860020",
@@ -116,7 +144,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "milford-lake",
-    "lake_name": "Milford Lake"
+    "lake_name": "Milford Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_120225513",
@@ -133,7 +168,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "milford-lake",
-    "lake_name": "Milford Lake"
+    "lake_name": "Milford Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_120232688",
@@ -150,7 +192,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "milford-lake",
-    "lake_name": "Milford Lake"
+    "lake_name": "Milford Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_120265022",
@@ -167,7 +216,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "milford-lake",
-    "lake_name": "Milford Lake"
+    "lake_name": "Milford Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_120272027",
@@ -184,7 +240,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "milford-lake",
-    "lake_name": "Milford Lake"
+    "lake_name": "Milford Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_120282744",
@@ -201,7 +264,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "milford-lake",
-    "lake_name": "Milford Lake"
+    "lake_name": "Milford Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_120613143",
@@ -422,7 +492,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "tuttle-creek-lake",
-    "lake_name": "Tuttle Creek Lake"
+    "lake_name": "Tuttle Creek Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_121799717",
@@ -439,7 +516,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "tuttle-creek-lake",
-    "lake_name": "Tuttle Creek Lake"
+    "lake_name": "Tuttle Creek Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_121960368",
@@ -473,7 +557,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "tuttle-creek-lake",
-    "lake_name": "Tuttle Creek Lake"
+    "lake_name": "Tuttle Creek Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_122049480",
@@ -600,16 +691,23 @@
     "formatted_address": "Kansas, USA",
     "latitude": 38.9372642,
     "longitude": -95.3891256,
-    "city": "",
+    "city": "Lawrence",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 4.3,
+    "total_ratings": 46,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "clinton-lake",
-    "lake_name": "Clinton Lake"
+    "lake_name": "Clinton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_553321999",
@@ -711,7 +809,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "milford-lake",
-    "lake_name": "Milford Lake"
+    "lake_name": "Milford Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_862737063",
@@ -770,16 +875,23 @@
     "formatted_address": "Kansas, USA",
     "latitude": 38.9348972,
     "longitude": -95.3470384,
-    "city": "",
+    "city": "Lawrence",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 4.7,
+    "total_ratings": 216,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "clinton-lake",
-    "lake_name": "Clinton Lake"
+    "lake_name": "Clinton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1502688017",
@@ -1042,16 +1154,23 @@
     "formatted_address": "Kansas, USA",
     "latitude": 38.9222167,
     "longitude": -95.3914113,
-    "city": "",
+    "city": "Lawrence",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 5,
+    "total_ratings": 1,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "clinton-lake",
-    "lake_name": "Clinton Lake"
+    "lake_name": "Clinton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_2096583312",
@@ -1226,19 +1345,26 @@
   {
     "place_id": "osm_2460020530",
     "name": "Blue River Access Ramp",
-    "formatted_address": "Manhattan, KS, USA",
+    "formatted_address": "Linear Trail, Manhattan, KS 66502, USA",
     "latitude": 39.1916153,
     "longitude": -96.537356,
     "city": "Manhattan",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 1.7,
+    "total_ratings": 3,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "tuttle-creek-lake",
-    "lake_name": "Tuttle Creek Lake"
+    "lake_name": "Tuttle Creek Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_2611809423",
@@ -1280,16 +1406,23 @@
     "formatted_address": "Kansas, USA",
     "latitude": 38.9106819,
     "longitude": -95.368582,
-    "city": "",
+    "city": "Lawrence",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 4.8,
+    "total_ratings": 4,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "clinton-lake",
-    "lake_name": "Clinton Lake"
+    "lake_name": "Clinton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_2698623771",
@@ -1297,16 +1430,23 @@
     "formatted_address": "Kansas, USA",
     "latitude": 38.9143565,
     "longitude": -95.3704681,
-    "city": "",
+    "city": "Lawrence",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 5,
+    "total_ratings": 1,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "clinton-lake",
-    "lake_name": "Clinton Lake"
+    "lake_name": "Clinton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_2701843060",
@@ -1391,7 +1531,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "clinton-lake",
-    "lake_name": "Clinton Lake"
+    "lake_name": "Clinton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_3733393497",
@@ -1433,16 +1580,23 @@
     "formatted_address": "Kansas, USA",
     "latitude": 38.9330851,
     "longitude": -95.3499742,
-    "city": "",
+    "city": "Lawrence",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 4.8,
+    "total_ratings": 4,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "clinton-lake",
-    "lake_name": "Clinton Lake"
+    "lake_name": "Clinton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_3746494505",
@@ -1586,16 +1740,23 @@
     "formatted_address": "Kansas, USA",
     "latitude": 39.3010267,
     "longitude": -96.6730215,
-    "city": "",
+    "city": "Manhattan",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 4.4,
+    "total_ratings": 17,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "tuttle-creek-lake",
-    "lake_name": "Tuttle Creek Lake"
+    "lake_name": "Tuttle Creek Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_5114085419",
@@ -1714,7 +1875,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "tuttle-creek-lake",
-    "lake_name": "Tuttle Creek Lake"
+    "lake_name": "Tuttle Creek Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_5442015533",
@@ -1731,7 +1899,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "tuttle-creek-lake",
-    "lake_name": "Tuttle Creek Lake"
+    "lake_name": "Tuttle Creek Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_5559921357",
@@ -1748,7 +1923,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "tuttle-creek-lake",
-    "lake_name": "Tuttle Creek Lake"
+    "lake_name": "Tuttle Creek Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_5693634821",
@@ -2207,7 +2389,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "milford-lake",
-    "lake_name": "Milford Lake"
+    "lake_name": "Milford Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_9891138753",
@@ -2326,7 +2515,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "milford-lake",
-    "lake_name": "Milford Lake"
+    "lake_name": "Milford Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_9904644511",
@@ -2343,7 +2539,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "milford-lake",
-    "lake_name": "Milford Lake"
+    "lake_name": "Milford Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_9913616442",
@@ -2445,7 +2648,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "tuttle-creek-lake",
-    "lake_name": "Tuttle Creek Lake"
+    "lake_name": "Tuttle Creek Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_10683437491",
@@ -2479,7 +2689,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "tuttle-creek-lake",
-    "lake_name": "Tuttle Creek Lake"
+    "lake_name": "Tuttle Creek Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_11006148778",
@@ -2700,7 +2917,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "tuttle-creek-lake",
-    "lake_name": "Tuttle Creek Lake"
+    "lake_name": "Tuttle Creek Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_12564316108",
@@ -3465,7 +3689,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "clinton-lake",
-    "lake_name": "Clinton Lake"
+    "lake_name": "Clinton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_712899792",
@@ -3762,16 +3993,25 @@
     "formatted_address": "Kansas, USA",
     "latitude": 39.2099325,
     "longitude": -96.9607425,
-    "city": "",
+    "city": "Milford",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 4.9,
+    "total_ratings": 7,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "milford-lake",
-    "lake_name": "Milford Lake"
+    "lake_name": "Milford Lake",
+    "amenities": [
+      "parking",
+      "fuel-nearby",
+      "restrooms"
+    ],
+    "fee": "varies",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1105226881",
@@ -3822,7 +4062,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "tuttle-creek-lake",
-    "lake_name": "Tuttle Creek Lake"
+    "lake_name": "Tuttle Creek Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1148244474",
@@ -3873,7 +4120,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "clinton-lake",
-    "lake_name": "Clinton Lake"
+    "lake_name": "Clinton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1321522265",
@@ -3890,7 +4144,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "clinton-lake",
-    "lake_name": "Clinton Lake"
+    "lake_name": "Clinton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1321522267",
@@ -3907,7 +4168,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "clinton-lake",
-    "lake_name": "Clinton Lake"
+    "lake_name": "Clinton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1323057515",
@@ -4111,7 +4379,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "tuttle-creek-lake",
-    "lake_name": "Tuttle Creek Lake"
+    "lake_name": "Tuttle Creek Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1357661124",
@@ -4196,7 +4471,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "clinton-lake",
-    "lake_name": "Clinton Lake"
+    "lake_name": "Clinton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1371225187",
@@ -4213,7 +4495,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "clinton-lake",
-    "lake_name": "Clinton Lake"
+    "lake_name": "Clinton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1371225188",
@@ -4230,7 +4519,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "clinton-lake",
-    "lake_name": "Clinton Lake"
+    "lake_name": "Clinton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1371225189",
@@ -4247,7 +4543,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "clinton-lake",
-    "lake_name": "Clinton Lake"
+    "lake_name": "Clinton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1371225190",
@@ -4264,7 +4567,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "clinton-lake",
-    "lake_name": "Clinton Lake"
+    "lake_name": "Clinton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1371225191",
@@ -4272,16 +4582,23 @@
     "formatted_address": "Kansas, USA",
     "latitude": 38.9414253,
     "longitude": -95.4077255,
-    "city": "",
+    "city": "Kanwaka",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 5,
+    "total_ratings": 2,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "clinton-lake",
-    "lake_name": "Clinton Lake"
+    "lake_name": "Clinton Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1371379733",

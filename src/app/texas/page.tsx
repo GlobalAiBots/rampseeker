@@ -2,7 +2,7 @@
 
 import { useState, useMemo } from "react";
 import Link from "next/link";
-import { unified } from "@/data/all-ramps";
+import { unified, amenityLabels } from "@/data/all-ramps";
 import { texasLakes, getTexasLakeForRamp } from "@/data/texas-lakes";
 
 function hasRealName(name: string): boolean {
@@ -61,7 +61,14 @@ export default function TexasPage() {
             {featuredRamps.slice(0, 6).map((r) => (
               <Link key={r.id} href={`/ramps/${r.id}`} className="group block bg-white border border-gray-200 rounded-xl p-5 border-l-4 border-l-sunset shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all">
                 <h3 className="font-[Cabin] font-bold text-charcoal group-hover:text-water transition">{r.name}</h3>
-                <p className="text-gray-500 text-sm mt-1">{r.city || "Texas"}</p>
+                <p className="text-gray-500 text-sm mt-1">{r.city || "Texas"}{r.fee ? ` \u00b7 ${r.fee === "free" ? "Free" : r.fee}` : ""}</p>
+                {r.amenities && r.amenities.length > 0 && (
+                  <div className="flex flex-wrap gap-1 mt-2">
+                    {r.amenities.slice(0, 3).map((a) => (
+                      <span key={a} className="text-xs bg-gray-100 text-gray-500 px-2 py-0.5 rounded-full">{amenityLabels[a]?.icon} {amenityLabels[a]?.label}</span>
+                    ))}
+                  </div>
+                )}
                 <span className="text-sm font-semibold text-sunset mt-2 inline-block">View Details &rarr;</span>
               </Link>
             ))}

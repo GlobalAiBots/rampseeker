@@ -31,7 +31,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lewisville-lake",
-    "lake_name": "Lewisville Lake"
+    "lake_name": "Lewisville Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_82034332",
@@ -257,19 +264,26 @@
   {
     "place_id": "osm_152549416",
     "name": "Boat Launch",
-    "formatted_address": "Austin, TX, USA",
+    "formatted_address": "Rd 1, Grand Prairie, TX 75052, USA",
     "latitude": 30.3273651,
     "longitude": -97.9271346,
     "city": "Austin",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 4.3,
+    "total_ratings": 94,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-travis",
-    "lake_name": "Lake Travis"
+    "lake_name": "Lake Travis",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_152812087",
@@ -303,7 +317,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-amistad",
-    "lake_name": "Lake Amistad"
+    "lake_name": "Lake Amistad",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_153194712",
@@ -320,7 +341,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-amistad",
-    "lake_name": "Lake Amistad"
+    "lake_name": "Lake Amistad",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_153206154",
@@ -337,7 +365,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-amistad",
-    "lake_name": "Lake Amistad"
+    "lake_name": "Lake Amistad",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_222339031",
@@ -677,7 +712,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lewisville-lake",
-    "lake_name": "Lewisville Lake"
+    "lake_name": "Lewisville Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_385591360",
@@ -694,7 +736,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-travis",
-    "lake_name": "Lake Travis"
+    "lake_name": "Lake Travis",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_429397359",
@@ -745,7 +794,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-amistad",
-    "lake_name": "Lake Amistad"
+    "lake_name": "Lake Amistad",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_648742267",
@@ -1515,19 +1571,26 @@
   {
     "place_id": "osm_1654394253",
     "name": "Cuernavaca Boat Ramp (Private)",
-    "formatted_address": "Austin, TX, USA",
+    "formatted_address": "9033 Crosswind Dr, Fort Worth, TX 76179, USA",
     "latitude": 30.3540338,
     "longitude": -97.8585935,
     "city": "Austin",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 4.8,
+    "total_ratings": 11,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-travis",
-    "lake_name": "Lake Travis"
+    "lake_name": "Lake Travis",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1654903466",
@@ -1765,7 +1828,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-amistad",
-    "lake_name": "Lake Amistad"
+    "lake_name": "Lake Amistad",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1740443636",
@@ -1782,7 +1852,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-amistad",
-    "lake_name": "Lake Amistad"
+    "lake_name": "Lake Amistad",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1740768154",
@@ -2411,7 +2488,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-travis",
-    "lake_name": "Lake Travis"
+    "lake_name": "Lake Travis",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_2433986597",
@@ -2428,7 +2512,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-travis",
-    "lake_name": "Lake Travis"
+    "lake_name": "Lake Travis",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_2433986716",
@@ -2445,24 +2536,38 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-travis",
-    "lake_name": "Lake Travis"
+    "lake_name": "Lake Travis",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_2453695251",
     "name": "360 Bridge Boat Landing",
-    "formatted_address": "Austin, TX, USA",
+    "formatted_address": "5019 TX-360 Loop, Austin, TX 78746, USA",
     "latitude": 30.3493565,
     "longitude": -97.7978231,
     "city": "Austin",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 4.3,
+    "total_ratings": 254,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-travis",
-    "lake_name": "Lake Travis"
+    "lake_name": "Lake Travis",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_2540641286",
@@ -2513,7 +2618,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-travis",
-    "lake_name": "Lake Travis"
+    "lake_name": "Lake Travis",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_2736538692",
@@ -2530,7 +2642,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-travis",
-    "lake_name": "Lake Travis"
+    "lake_name": "Lake Travis",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_2744175169",
@@ -3006,24 +3125,38 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lewisville-lake",
-    "lake_name": "Lewisville Lake"
+    "lake_name": "Lewisville Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_3685552345",
     "name": "Arrowhead Park Slipway No. 2",
-    "formatted_address": "Lewisville, TX, USA",
+    "formatted_address": "Arrowhead Park, 1075 Ronald Reagan Ave, Hickory Creek, TX 75065, USA",
     "latitude": 33.1063954,
     "longitude": -97.0243156,
     "city": "Lewisville",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 4.5,
+    "total_ratings": 30,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lewisville-lake",
-    "lake_name": "Lewisville Lake"
+    "lake_name": "Lewisville Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_3699078281",
@@ -3048,16 +3181,23 @@
     "formatted_address": "Texas, USA",
     "latitude": 30.4607999,
     "longitude": -98.0284923,
-    "city": "",
+    "city": "Spicewood",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 4.2,
+    "total_ratings": 9,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-travis",
-    "lake_name": "Lake Travis"
+    "lake_name": "Lake Travis",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_3890948802",
@@ -3550,7 +3690,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lewisville-lake",
-    "lake_name": "Lewisville Lake"
+    "lake_name": "Lewisville Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_4640046544",
@@ -3822,7 +3969,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lewisville-lake",
-    "lake_name": "Lewisville Lake"
+    "lake_name": "Lewisville Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_4781961301",
@@ -4145,7 +4299,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lewisville-lake",
-    "lake_name": "Lewisville Lake"
+    "lake_name": "Lewisville Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_5302643403",
@@ -4162,7 +4323,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lewisville-lake",
-    "lake_name": "Lewisville Lake"
+    "lake_name": "Lewisville Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_5302643409",
@@ -4179,7 +4347,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lewisville-lake",
-    "lake_name": "Lewisville Lake"
+    "lake_name": "Lewisville Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_5311459437",
@@ -4842,7 +5017,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lewisville-lake",
-    "lake_name": "Lewisville Lake"
+    "lake_name": "Lewisville Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_5760861472",
@@ -4995,7 +5177,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-amistad",
-    "lake_name": "Lake Amistad"
+    "lake_name": "Lake Amistad",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_5902906224",
@@ -5012,7 +5201,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-amistad",
-    "lake_name": "Lake Amistad"
+    "lake_name": "Lake Amistad",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_5903005103",
@@ -5029,7 +5225,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-amistad",
-    "lake_name": "Lake Amistad"
+    "lake_name": "Lake Amistad",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_5903082430",
@@ -5046,7 +5249,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-amistad",
-    "lake_name": "Lake Amistad"
+    "lake_name": "Lake Amistad",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_5903082442",
@@ -5063,7 +5273,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-amistad",
-    "lake_name": "Lake Amistad"
+    "lake_name": "Lake Amistad",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_5905869609",
@@ -5080,7 +5297,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-amistad",
-    "lake_name": "Lake Amistad"
+    "lake_name": "Lake Amistad",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_5905869615",
@@ -5097,7 +5321,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-amistad",
-    "lake_name": "Lake Amistad"
+    "lake_name": "Lake Amistad",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_5907423478",
@@ -5199,7 +5430,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-amistad",
-    "lake_name": "Lake Amistad"
+    "lake_name": "Lake Amistad",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_5923713339",
@@ -5216,7 +5454,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-amistad",
-    "lake_name": "Lake Amistad"
+    "lake_name": "Lake Amistad",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_5930821307",
@@ -5233,7 +5478,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-amistad",
-    "lake_name": "Lake Amistad"
+    "lake_name": "Lake Amistad",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_5930821312",
@@ -5250,7 +5502,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-amistad",
-    "lake_name": "Lake Amistad"
+    "lake_name": "Lake Amistad",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_6089321835",
@@ -5425,19 +5684,26 @@
   {
     "place_id": "osm_6206418006",
     "name": "Arrowhead Park Slipway No. 1",
-    "formatted_address": "Lewisville, TX, USA",
+    "formatted_address": "Arrowhead Park, 1075 Ronald Reagan Ave, Hickory Creek, TX 75065, USA",
     "latitude": 33.1054057,
     "longitude": -97.0256321,
     "city": "Lewisville",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 4.5,
+    "total_ratings": 30,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lewisville-lake",
-    "lake_name": "Lewisville Lake"
+    "lake_name": "Lewisville Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_6209441979",
@@ -5811,7 +6077,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lewisville-lake",
-    "lake_name": "Lewisville Lake"
+    "lake_name": "Lewisville Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_6745682720",
@@ -6091,16 +6364,23 @@
     "formatted_address": "Texas, USA",
     "latitude": 30.4230679,
     "longitude": -97.9183413,
-    "city": "",
+    "city": "Oak Point",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 4.5,
+    "total_ratings": 57,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-travis",
-    "lake_name": "Lake Travis"
+    "lake_name": "Lake Travis",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_7765631134",
@@ -6108,16 +6388,23 @@
     "formatted_address": "Texas, USA",
     "latitude": 30.4227372,
     "longitude": -97.9193985,
-    "city": "",
+    "city": "Palo Pinto",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 4.6,
+    "total_ratings": 10,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-travis",
-    "lake_name": "Lake Travis"
+    "lake_name": "Lake Travis",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_7765631135",
@@ -6125,16 +6412,23 @@
     "formatted_address": "Texas, USA",
     "latitude": 30.4219036,
     "longitude": -97.9202784,
-    "city": "",
+    "city": "Fort Worth",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 3.6,
+    "total_ratings": 5,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-travis",
-    "lake_name": "Lake Travis"
+    "lake_name": "Lake Travis",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_7784405274",
@@ -6151,7 +6445,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-travis",
-    "lake_name": "Lake Travis"
+    "lake_name": "Lake Travis",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_7813733642",
@@ -6457,7 +6758,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lewisville-lake",
-    "lake_name": "Lewisville Lake"
+    "lake_name": "Lewisville Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_8893518456",
@@ -6941,16 +7249,25 @@
     "formatted_address": "Texas, USA",
     "latitude": 30.4173592,
     "longitude": -98.0448092,
-    "city": "",
+    "city": "Briarcliff",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 4.5,
+    "total_ratings": 183,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-travis",
-    "lake_name": "Lake Travis"
+    "lake_name": "Lake Travis",
+    "amenities": [
+      "parking",
+      "fuel-nearby",
+      "restrooms"
+    ],
+    "fee": "varies",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_9275531472",
@@ -8123,7 +8440,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-travis",
-    "lake_name": "Lake Travis"
+    "lake_name": "Lake Travis",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_10992480383",
@@ -8140,7 +8464,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-travis",
-    "lake_name": "Lake Travis"
+    "lake_name": "Lake Travis",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_11291310666",
@@ -8641,16 +8972,23 @@
     "formatted_address": "Texas, USA",
     "latitude": 30.4230113,
     "longitude": -97.9166762,
-    "city": "",
+    "city": "Buchanan Dam",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 5,
+    "total_ratings": 1,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-travis",
-    "lake_name": "Lake Travis"
+    "lake_name": "Lake Travis",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_12405262327",
@@ -8658,16 +8996,23 @@
     "formatted_address": "Texas, USA",
     "latitude": 30.4225444,
     "longitude": -97.9169036,
-    "city": "",
+    "city": "Ennis",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 4.1,
+    "total_ratings": 19,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-travis",
-    "lake_name": "Lake Travis"
+    "lake_name": "Lake Travis",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_12464080253",
@@ -9007,7 +9352,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lewisville-lake",
-    "lake_name": "Lewisville Lake"
+    "lake_name": "Lewisville Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_95158528",
@@ -9024,7 +9376,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lewisville-lake",
-    "lake_name": "Lewisville Lake"
+    "lake_name": "Lewisville Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_115607612",
@@ -9160,7 +9519,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-travis",
-    "lake_name": "Lake Travis"
+    "lake_name": "Lake Travis",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_280279812",
@@ -9194,7 +9560,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-travis",
-    "lake_name": "Lake Travis"
+    "lake_name": "Lake Travis",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_365216260",
@@ -9253,16 +9626,23 @@
     "formatted_address": "Texas, USA",
     "latitude": 30.4606617,
     "longitude": -98.0281127,
-    "city": "",
+    "city": "Spicewood",
     "county": "",
-    "rating": null,
-    "total_ratings": 0,
+    "rating": 4.2,
+    "total_ratings": 9,
     "types": [
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-travis",
-    "lake_name": "Lake Travis"
+    "lake_name": "Lake Travis",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_422843574",
@@ -9602,7 +9982,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-travis",
-    "lake_name": "Lake Travis"
+    "lake_name": "Lake Travis",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_477227448",
@@ -9670,7 +10057,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lewisville-lake",
-    "lake_name": "Lewisville Lake"
+    "lake_name": "Lewisville Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_544761459",
@@ -9772,7 +10166,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-travis",
-    "lake_name": "Lake Travis"
+    "lake_name": "Lake Travis",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_587281634",
@@ -9789,7 +10190,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lewisville-lake",
-    "lake_name": "Lewisville Lake"
+    "lake_name": "Lewisville Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_595181977",
@@ -9925,7 +10333,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lewisville-lake",
-    "lake_name": "Lewisville Lake"
+    "lake_name": "Lewisville Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_666092248",
@@ -10078,7 +10493,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lewisville-lake",
-    "lake_name": "Lewisville Lake"
+    "lake_name": "Lewisville Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_675299416",
@@ -10299,7 +10721,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lewisville-lake",
-    "lake_name": "Lewisville Lake"
+    "lake_name": "Lewisville Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_796545541",
@@ -10741,7 +11170,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-travis",
-    "lake_name": "Lake Travis"
+    "lake_name": "Lake Travis",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1099446821",
@@ -10911,7 +11347,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lake-travis",
-    "lake_name": "Lake Travis"
+    "lake_name": "Lake Travis",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1167640538",
@@ -12203,7 +12646,14 @@
     ],
     "business_status": "OPERATIONAL",
     "lake_id": "lewisville-lake",
-    "lake_name": "Lewisville Lake"
+    "lake_name": "Lewisville Lake",
+    "amenities": [
+      "parking"
+    ],
+    "fee": "free",
+    "rampCount": 1,
+    "surface": "concrete",
+    "enriched": true
   },
   {
     "place_id": "osm_1449266744",

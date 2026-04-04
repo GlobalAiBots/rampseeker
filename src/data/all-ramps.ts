@@ -18,6 +18,9 @@ export interface UnifiedRamp {
   rating: number;
   totalRatings: number;
   featured: boolean;
+  amenities?: string[];
+  fee?: string;
+  rampCount?: number;
   grandLakeData?: Ramp;
 }
 
@@ -158,6 +161,9 @@ for (const raw of texasRampsRaw) {
     rating: raw.rating || 0,
     totalRatings: raw.total_ratings || 0,
     featured: false,
+    amenities: (raw as Record<string, unknown>).amenities as string[] | undefined,
+    fee: (raw as Record<string, unknown>).fee as string | undefined,
+    rampCount: (raw as Record<string, unknown>).rampCount as number | undefined,
   });
 }
 
@@ -181,9 +187,10 @@ for (const raw of missouriRampsRaw) {
     city: raw.city || "",
     county: raw.county || "",
     state: "MO",
-    rating: raw.rating || 0,
-    totalRatings: raw.total_ratings || 0,
-    featured: false,
+    rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false,
+    amenities: (raw as Record<string, unknown>).amenities as string[] | undefined,
+    fee: (raw as Record<string, unknown>).fee as string | undefined,
+    rampCount: (raw as Record<string, unknown>).rampCount as number | undefined,
   });
 }
 
@@ -201,6 +208,9 @@ for (const raw of arkansasRampsRaw) {
     latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "",
     city: raw.city || "", county: raw.county || "", state: "AR",
     rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false,
+    amenities: (raw as Record<string, unknown>).amenities as string[] | undefined,
+    fee: (raw as Record<string, unknown>).fee as string | undefined,
+    rampCount: (raw as Record<string, unknown>).rampCount as number | undefined,
   });
 }
 
@@ -218,6 +228,9 @@ for (const raw of kansasRampsRaw) {
     latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "",
     city: raw.city || "", county: raw.county || "", state: "KS",
     rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false,
+    amenities: (raw as Record<string, unknown>).amenities as string[] | undefined,
+    fee: (raw as Record<string, unknown>).fee as string | undefined,
+    rampCount: (raw as Record<string, unknown>).rampCount as number | undefined,
   });
 }
 
