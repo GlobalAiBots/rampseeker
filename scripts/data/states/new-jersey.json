@@ -1,0 +1,5283 @@
+[
+  {
+    "id": 103549948,
+    "name": "Boat Ramp",
+    "latitude": 39.1946099,
+    "longitude": -74.6633829,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 104552977,
+    "name": "Boat Ramp",
+    "latitude": 40.3360359,
+    "longitude": -73.9815641,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 108717584,
+    "name": "Boat Ramp",
+    "latitude": 41.3284258,
+    "longitude": -75.0049798,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 291763974,
+    "name": "Boat Ramp",
+    "latitude": 40.8055245,
+    "longitude": -74.0433454,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 315995520,
+    "name": "5th Street Boat Ramp",
+    "latitude": 39.4091838,
+    "longitude": -74.36942,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "5th Street Boat Ramp"
+    }
+  },
+  {
+    "id": 357746243,
+    "name": "Kayak Launch",
+    "latitude": 40.3316555,
+    "longitude": -74.7571443,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kayak Launch"
+    }
+  },
+  {
+    "id": 358724462,
+    "name": "Boat Ramp",
+    "latitude": 39.657482,
+    "longitude": -74.1770287,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 459665680,
+    "name": "Boat Ramp",
+    "latitude": 40.7638655,
+    "longitude": -74.0869617,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 465046511,
+    "name": "Bass Harbour Boat Ramp",
+    "latitude": 39.3158824,
+    "longitude": -74.5867159,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Bass Harbour Boat Ramp"
+    }
+  },
+  {
+    "id": 475146957,
+    "name": "Boat Ramp",
+    "latitude": 41.0098697,
+    "longitude": -74.297811,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 475272208,
+    "name": "Boat Ramp",
+    "latitude": 41.1489267,
+    "longitude": -74.3289884,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 484090502,
+    "name": "Caddoo Access Hand Launch",
+    "latitude": 41.3181127,
+    "longitude": -74.7953339,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Caddoo Access Hand Launch"
+    }
+  },
+  {
+    "id": 484090591,
+    "name": "Boat Ramp",
+    "latitude": 41.3564432,
+    "longitude": -74.6985182,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 484612833,
+    "name": "Boat Ramp",
+    "latitude": 41.2421084,
+    "longitude": -74.834147,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 496468332,
+    "name": "Wy-Hit-Tuk Ramp",
+    "latitude": 40.6688724,
+    "longitude": -75.1824134,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Wy-Hit-Tuk Ramp"
+    }
+  },
+  {
+    "id": 515000864,
+    "name": "Boat Ramp",
+    "latitude": 41.0383712,
+    "longitude": -74.9966514,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "ground"
+    }
+  },
+  {
+    "id": 522910110,
+    "name": "Riegelsville Boat Ramp",
+    "latitude": 40.5912731,
+    "longitude": -75.1885177,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Riegelsville Boat Ramp"
+    }
+  },
+  {
+    "id": 542422471,
+    "name": "South Boat Launch",
+    "latitude": 41.126827,
+    "longitude": -74.3009295,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "South Boat Launch"
+    }
+  },
+  {
+    "id": 617378680,
+    "name": "Boat Ramp",
+    "latitude": 40.1084097,
+    "longitude": -75.4214306,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 631518221,
+    "name": "Boat Ramp",
+    "latitude": 40.8744663,
+    "longitude": -75.5744321,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 701223489,
+    "name": "Boat Ramp",
+    "latitude": 40.8104352,
+    "longitude": -73.9325687,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 739082412,
+    "name": "Boat Ramp",
+    "latitude": 40.7484532,
+    "longitude": -74.0236637,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "sand"
+    }
+  },
+  {
+    "id": 951073674,
+    "name": "Boat Launch",
+    "latitude": 40.4672133,
+    "longitude": -75.223642,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Launch",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility"
+    }
+  },
+  {
+    "id": 1018414119,
+    "name": "PFBC Route 33 Access",
+    "latitude": 40.6448793,
+    "longitude": -75.271782,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "PFBC Route 33 Access"
+    }
+  },
+  {
+    "id": 1232858123,
+    "name": "Boat Ramp",
+    "latitude": 40.1447738,
+    "longitude": -75.5091333,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "canoe": "designated",
+      "informal": "no",
+      "leisure": "slipway",
+      "parking": "yes",
+      "toilets": "yes",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 1236714851,
+    "name": "Ship Bottom Boat Ramp",
+    "latitude": 39.6524409,
+    "longitude": -74.1850731,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Ship Bottom Boat Ramp"
+    }
+  },
+  {
+    "id": 1253276651,
+    "name": "Beesleys'S Point",
+    "latitude": 39.2876578,
+    "longitude": -74.6269761,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Beesleys's Point"
+    }
+  },
+  {
+    "id": 1275184314,
+    "name": "Black Rock Boat Launch",
+    "latitude": 40.1587362,
+    "longitude": -75.5110056,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Black Rock Boat Launch"
+    }
+  },
+  {
+    "id": 1289348293,
+    "name": "Boat Ramp",
+    "latitude": 40.1503425,
+    "longitude": -75.4521078,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "source": "survey"
+    }
+  },
+  {
+    "id": 1289425398,
+    "name": "Welakamike Creekside Park Boat Ramp",
+    "latitude": 40.1816676,
+    "longitude": -75.4476749,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "canoe": "designated",
+      "fishing": "yes",
+      "leisure": "slipway",
+      "name": "Welakamike Creekside Park Boat Ramp",
+      "operator": "Borough of Collegeville",
+      "parking": "yes",
+      "picnic_table": "yes",
+      "source": "survey;https://www.collegeville-pa.gov/wp-content/uploads/2023/07/collegeville-creekside-park-002.jpg",
+      "surface": "paved",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 1334480078,
+    "name": "Haycock Boat Launch",
+    "latitude": 40.4868965,
+    "longitude": -75.1914347,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Haycock Boat Launch"
+    }
+  },
+  {
+    "id": 1334480215,
+    "name": "Tohickon Boat Launch",
+    "latitude": 40.4765422,
+    "longitude": -75.2096532,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Tohickon Boat Launch",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1334481766,
+    "name": "Boat Launch",
+    "latitude": 40.425139,
+    "longitude": -75.2601843,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Launch"
+    }
+  },
+  {
+    "id": 1358380919,
+    "name": "Byram Boat Ramp",
+    "latitude": 40.4154449,
+    "longitude": -75.0479182,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Byram Boat Ramp",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 1576762675,
+    "name": "Jefferson Lake Boat Ramp",
+    "latitude": 40.9261209,
+    "longitude": -74.7321639,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Jefferson Lake Boat Ramp"
+    }
+  },
+  {
+    "id": 1594858525,
+    "name": "Boat Ramp",
+    "latitude": 41.3672234,
+    "longitude": -75.319003,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Personal experience"
+    }
+  },
+  {
+    "id": 1614465437,
+    "name": "Seaview Dock",
+    "latitude": 39.3314825,
+    "longitude": -74.5685601,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Seaview Dock"
+    }
+  },
+  {
+    "id": 1627288890,
+    "name": "Boat Ramp",
+    "latitude": 41.2185551,
+    "longitude": -74.3033081,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1655111599,
+    "name": "Boat Ramp",
+    "latitude": 40.6974902,
+    "longitude": -74.0652665,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "survey:date": "2021-12-19"
+    }
+  },
+  {
+    "id": 1666756225,
+    "name": "Rahway River Access (Stairs)",
+    "latitude": 40.6589989,
+    "longitude": -74.309968,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "description": "Concrete steps that allows for boat access to the Rahway River.",
+      "leisure": "slipway",
+      "name": "Rahway River Access (stairs)"
+    }
+  },
+  {
+    "id": 1707788478,
+    "name": "Great Kills Park Boat Ramp",
+    "latitude": 40.5434934,
+    "longitude": -74.1278099,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "permit",
+      "canoe": "no",
+      "description": "Boat launch permit required. Trailer launching only. No jetski or paddlecraft launching. 24 hour max parking.",
+      "jetski": "no",
+      "kayak": "no",
+      "leisure": "slipway",
+      "name": "Great Kills Park Boat Ramp",
+      "operator": "National Park Service",
+      "paddlecraft": "no",
+      "trailer": "required",
+      "website": "https://www.nps.gov/gate/learn/historyculture/great-kills-park.htm"
+    }
+  },
+  {
+    "id": 1778323747,
+    "name": "Boat Ramp",
+    "latitude": 39.3008745,
+    "longitude": -74.5925677,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "trailer": "no"
+    }
+  },
+  {
+    "id": 1779964448,
+    "name": "Boat Ramp",
+    "latitude": 40.9138605,
+    "longitude": -75.1782029,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1827154781,
+    "name": "Boat Ramp",
+    "latitude": 40.693365,
+    "longitude": -74.3702099,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1866580842,
+    "name": "Boat Ramp",
+    "latitude": 41.2036415,
+    "longitude": -75.4040999,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1895722150,
+    "name": "Boat Ramp",
+    "latitude": 40.6322244,
+    "longitude": -74.847303,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1895722152,
+    "name": "Boat Ramp",
+    "latitude": 40.6316265,
+    "longitude": -74.8484926,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1907754150,
+    "name": "Boat Ramp",
+    "latitude": 40.7006563,
+    "longitude": -73.9969645,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "sport": "canoe",
+      "surface": "paving_stones"
+    }
+  },
+  {
+    "id": 1910705007,
+    "name": "Boat Ramp",
+    "latitude": 41.2725594,
+    "longitude": -73.9423388,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1970518115,
+    "name": "Boat Ramp",
+    "latitude": 40.9011837,
+    "longitude": -74.7035623,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1974081756,
+    "name": "Phillipsburg Boat Ramp",
+    "latitude": 40.6923023,
+    "longitude": -75.2033438,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Phillipsburg Boat Ramp"
+    }
+  },
+  {
+    "id": 2043213793,
+    "name": "Boat Ramp",
+    "latitude": 40.868681,
+    "longitude": -73.9322582,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "waterbody:name": "Hudson River",
+      "wikimedia_commons": "File:Boat_ramp_at_La_Marina.png"
+    }
+  },
+  {
+    "id": 2096154075,
+    "name": "Boat Ramp",
+    "latitude": 41.3170751,
+    "longitude": -75.2169954,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2096822447,
+    "name": "Boat Ramp",
+    "latitude": 41.3155001,
+    "longitude": -75.2335292,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2216963836,
+    "name": "Bow Bridge Boat Landing",
+    "latitude": 40.7759806,
+    "longitude": -73.9716526,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Bow Bridge Boat Landing",
+      "website": "https://www.centralparknyc.org/locations/bow-bridge-boat-landing"
+    }
+  },
+  {
+    "id": 2317027308,
+    "name": "Boat Ramp",
+    "latitude": 39.9932432,
+    "longitude": -75.1944031,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2358049323,
+    "name": "Flat Rock Park Boat Launch",
+    "latitude": 40.044608,
+    "longitude": -75.2538423,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "informal": "no",
+      "leisure": "slipway",
+      "motor_vehicle": "yes",
+      "motorboat": "yes",
+      "name": "Flat Rock Park Boat Launch",
+      "parking": "yes",
+      "tidal": "no",
+      "toilets": "yes",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 2429343828,
+    "name": "Canoe Access",
+    "latitude": 41.2879923,
+    "longitude": -74.5340402,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe Access"
+    }
+  },
+  {
+    "id": 2465755753,
+    "name": "Boat Ramp",
+    "latitude": 41.2123161,
+    "longitude": -73.9646594,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2468300451,
+    "name": "Boat Ramp",
+    "latitude": 40.8660611,
+    "longitude": -74.0015138,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2469558807,
+    "name": "Boat Ramp",
+    "latitude": 41.2397724,
+    "longitude": -73.9746017,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2493339728,
+    "name": "Riverfront Green Park Boat Launch",
+    "latitude": 41.2853126,
+    "longitude": -73.9324877,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "Riverfront Green Park Boat Launch",
+      "operator": "City of Peekskill",
+      "parking": "yes"
+    }
+  },
+  {
+    "id": 2494598993,
+    "name": "Boat Ramp",
+    "latitude": 41.306859,
+    "longitude": -74.2251372,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2627856337,
+    "name": "Boat Ramp",
+    "latitude": 41.135523,
+    "longitude": -74.2317816,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2643086492,
+    "name": "Boat Ramp",
+    "latitude": 40.8074429,
+    "longitude": -74.0572037,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "note": "Kayak/Canoe Launch"
+    }
+  },
+  {
+    "id": 2658642398,
+    "name": "Boat Ramp",
+    "latitude": 40.4877944,
+    "longitude": -74.3838977,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2658642428,
+    "name": "Boat Ramp",
+    "latitude": 40.4878806,
+    "longitude": -74.3840166,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2670840209,
+    "name": "Boat Ramp",
+    "latitude": 41.0060048,
+    "longitude": -74.2778676,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "layer": "1",
+      "leisure": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 2673551121,
+    "name": "Kayak Launch",
+    "latitude": 40.9844595,
+    "longitude": -74.2963736,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kayak Launch"
+    }
+  },
+  {
+    "id": 2673551122,
+    "name": "Kayak Launch",
+    "latitude": 40.9869429,
+    "longitude": -74.2800753,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kayak Launch"
+    }
+  },
+  {
+    "id": 2673551144,
+    "name": "Kayak Launch",
+    "latitude": 40.9891317,
+    "longitude": -74.2800477,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kayak Launch"
+    }
+  },
+  {
+    "id": 2896397508,
+    "name": "Suchorsky Boat Launch",
+    "latitude": 40.8880309,
+    "longitude": -74.2396303,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Suchorsky Boat Launch"
+    }
+  },
+  {
+    "id": 2906614260,
+    "name": "Worthington State Forest Boat Launch",
+    "latitude": 41.0050206,
+    "longitude": -75.1045638,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "camping": "yes",
+      "leisure": "slipway",
+      "name": "Worthington State Forest Boat Launch",
+      "parking": "yes",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 2924124944,
+    "name": "Boat Ramp",
+    "latitude": 39.6266147,
+    "longitude": -74.4260403,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3009566952,
+    "name": "Boat Launch",
+    "latitude": 40.3159414,
+    "longitude": -75.1981752,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Launch"
+    }
+  },
+  {
+    "id": 3123030726,
+    "name": "Boat Ramp",
+    "latitude": 40.6239807,
+    "longitude": -73.9028764,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3123034196,
+    "name": "Boat Ramp",
+    "latitude": 40.6268759,
+    "longitude": -73.9052732,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3137778064,
+    "name": "Boat Ramp",
+    "latitude": 40.4841099,
+    "longitude": -74.2739604,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3244802899,
+    "name": "Boat Ramp",
+    "latitude": 41.2349902,
+    "longitude": -73.9422332,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "opening_hours": "Apr-Sep 08:00-dusk",
+      "operator": "Westchester County",
+      "parking": "yes",
+      "surface": "concrete",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 3349035205,
+    "name": "Boat Ramp",
+    "latitude": 40.6466099,
+    "longitude": -74.1862956,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3349096018,
+    "name": "Boat Ramp",
+    "latitude": 40.5452472,
+    "longitude": -74.2540779,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3349103588,
+    "name": "Boat Ramp",
+    "latitude": 40.5557042,
+    "longitude": -74.2559498,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3349103589,
+    "name": "Boat Ramp",
+    "latitude": 40.5561403,
+    "longitude": -74.2556279,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3349103590,
+    "name": "Boat Ramp",
+    "latitude": 40.5539353,
+    "longitude": -74.2562153,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3351031215,
+    "name": "Boat Ramp",
+    "latitude": 40.69874,
+    "longitude": -73.9975792,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3640989221,
+    "name": "Boat Ramp",
+    "latitude": 40.6608638,
+    "longitude": -74.9236028,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3657884272,
+    "name": "Boat Ramp",
+    "latitude": 40.320293,
+    "longitude": -75.1940764,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3667580215,
+    "name": "Boat Ramp",
+    "latitude": 39.8960162,
+    "longitude": -75.1292524,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3716944000,
+    "name": "Boat Ramp",
+    "latitude": 39.8104388,
+    "longitude": -75.0990604,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3743047222,
+    "name": "Boat Ramp",
+    "latitude": 40.8661179,
+    "longitude": -74.0000506,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3743054671,
+    "name": "Boat Ramp",
+    "latitude": 40.8649722,
+    "longitude": -73.9996439,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3836335595,
+    "name": "Boat Ramp",
+    "latitude": 40.1866095,
+    "longitude": -74.7537057,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3913238547,
+    "name": "Boat Ramp",
+    "latitude": 40.8517824,
+    "longitude": -73.9596122,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "permissive",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3913281914,
+    "name": "Boat Ramp",
+    "latitude": 40.8801086,
+    "longitude": -73.9450149,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3926314852,
+    "name": "Hopatcong State Park Boat Launch",
+    "latitude": 40.9177096,
+    "longitude": -74.6634272,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Hopatcong State Park Boat Launch"
+    }
+  },
+  {
+    "id": 4052200989,
+    "name": "Boat Ramp",
+    "latitude": 39.6657497,
+    "longitude": -74.5241973,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4085774794,
+    "name": "Boat Ramp",
+    "latitude": 40.7293483,
+    "longitude": -74.1009298,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4103210371,
+    "name": "Boat Ramp",
+    "latitude": 41.1190696,
+    "longitude": -74.4819854,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "permit",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4162322519,
+    "name": "Milford Beach Boat Launch",
+    "latitude": 41.3089163,
+    "longitude": -74.797199,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Milford Beach Boat Launch"
+    }
+  },
+  {
+    "id": 4214295915,
+    "name": "Scott Park Boat Ramp",
+    "latitude": 40.6899707,
+    "longitude": -75.2044415,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Scott Park Boat Ramp",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 4215531065,
+    "name": "Boat Ramp",
+    "latitude": 39.9892044,
+    "longitude": -74.1347603,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4254493495,
+    "name": "Bank Rock Boat Landing",
+    "latitude": 40.7783798,
+    "longitude": -73.9717408,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Bank Rock Boat Landing"
+    }
+  },
+  {
+    "id": 4283488914,
+    "name": "Public Boat Ramp",
+    "latitude": 40.323448,
+    "longitude": -74.0333923,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Public Boat Ramp"
+    }
+  },
+  {
+    "id": 4304722228,
+    "name": "Boat Ramp",
+    "latitude": 40.7765196,
+    "longitude": -73.9719286,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "direction": "W",
+      "leisure": "slipway",
+      "tourism": "viewpoint"
+    }
+  },
+  {
+    "id": 4331552073,
+    "name": "Hidden Lake Boat Launch",
+    "latitude": 41.0514114,
+    "longitude": -75.0512645,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Hidden Lake Boat Launch"
+    }
+  },
+  {
+    "id": 4474335890,
+    "name": "Boat Ramp",
+    "latitude": 40.3231557,
+    "longitude": -75.1993544,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4474391789,
+    "name": "Boat Ramp",
+    "latitude": 40.3231269,
+    "longitude": -75.1995392,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4624017861,
+    "name": "Boat Ramp",
+    "latitude": 40.4744252,
+    "longitude": -74.3558227,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4681824224,
+    "name": "Boat Ramp",
+    "latitude": 40.8600417,
+    "longitude": -73.918427,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4685700623,
+    "name": "Boat Ramp",
+    "latitude": 39.926587,
+    "longitude": -75.0737679,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4694470696,
+    "name": "Boat Ramp",
+    "latitude": 40.4885839,
+    "longitude": -74.4222486,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4791626089,
+    "name": "Pleasant Hill Park Boat Ramp",
+    "latitude": 40.0410435,
+    "longitude": -74.9920306,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Pleasant Hill Park Boat Ramp",
+      "parking": "yes",
+      "surface": "paved",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 4939062353,
+    "name": "Boat Ramp",
+    "latitude": 40.0425631,
+    "longitude": -74.0596705,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4941216376,
+    "name": "Boat Ramp",
+    "latitude": 40.5887415,
+    "longitude": -73.9940603,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4947585077,
+    "name": "Boat Ramp",
+    "latitude": 38.9871531,
+    "longitude": -74.8316187,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5248144982,
+    "name": "Boat Ramp",
+    "latitude": 41.1685822,
+    "longitude": -74.2632954,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5248144984,
+    "name": "Boat Ramp",
+    "latitude": 41.1685876,
+    "longitude": -74.2624799,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5270788577,
+    "name": "Boat Ramp",
+    "latitude": 40.4112729,
+    "longitude": -74.4983742,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5462753741,
+    "name": "Boat Ramp",
+    "latitude": 40.1343949,
+    "longitude": -74.4393911,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5652445131,
+    "name": "Boat Ramp",
+    "latitude": 40.4156336,
+    "longitude": -74.233615,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5714414829,
+    "name": "Boat Ramp",
+    "latitude": 40.1790576,
+    "longitude": -74.0330985,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5717826484,
+    "name": "Boat Ramp",
+    "latitude": 40.7484831,
+    "longitude": -74.0224621,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 5723276183,
+    "name": "Boat Ramp",
+    "latitude": 39.9534257,
+    "longitude": -75.1394031,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5724052784,
+    "name": "Boat Ramp",
+    "latitude": 40.4491597,
+    "longitude": -74.4545137,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5839206477,
+    "name": "Boat Ramp",
+    "latitude": 40.6243638,
+    "longitude": -75.4583809,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5845069069,
+    "name": "Kittatinny Beach Boat Launch",
+    "latitude": 40.9695862,
+    "longitude": -75.1293819,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kittatinny Beach Boat Launch"
+    }
+  },
+  {
+    "id": 5972198565,
+    "name": "PFBC Upper Black Eddy Access",
+    "latitude": 40.5652899,
+    "longitude": -75.098751,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "PFBC Upper Black Eddy Access"
+    }
+  },
+  {
+    "id": 5972370959,
+    "name": "Sand Island Boat Launch",
+    "latitude": 40.6150417,
+    "longitude": -75.3862414,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Sand Island Boat Launch"
+    }
+  },
+  {
+    "id": 6000863243,
+    "name": "Boat Ramp",
+    "latitude": 40.5363977,
+    "longitude": -75.0704661,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6002861078,
+    "name": "Boat Ramp",
+    "latitude": 40.5061431,
+    "longitude": -75.0669814,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6006506131,
+    "name": "Boat Ramp",
+    "latitude": 40.1350229,
+    "longitude": -74.8152772,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6059182636,
+    "name": "Boat Ramp",
+    "latitude": 40.0777789,
+    "longitude": -74.905834,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6126876251,
+    "name": "Boat Ramp",
+    "latitude": 40.0750346,
+    "longitude": -74.9052602,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "fee": "yes",
+      "highway": "service",
+      "lanes": "6",
+      "leisure": "slipway",
+      "payment:cash": "yes",
+      "surface": "paved",
+      "tidal": "yes"
+    }
+  },
+  {
+    "id": 6135965021,
+    "name": "Boat Ramp",
+    "latitude": 40.697584,
+    "longitude": -74.0652909,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "survey:date": "2021-12-19"
+    }
+  },
+  {
+    "id": 6245712182,
+    "name": "Boat Ramp",
+    "latitude": 40.0499445,
+    "longitude": -75.2590996,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6258512143,
+    "name": "Treichlers Bridge Boat Ramp",
+    "latitude": 40.733699,
+    "longitude": -75.5404355,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Treichlers Bridge Boat Ramp"
+    }
+  },
+  {
+    "id": 6258990367,
+    "name": "Boat Ramp",
+    "latitude": 39.9395755,
+    "longitude": -74.1450198,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6340524921,
+    "name": "Boat Ramp",
+    "latitude": 41.2193976,
+    "longitude": -74.8600763,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6340583145,
+    "name": "Bushkill Boat Launch",
+    "latitude": 41.1075708,
+    "longitude": -74.983638,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Bushkill Boat Launch"
+    }
+  },
+  {
+    "id": 6352421245,
+    "name": "Lambertville Boat Launch",
+    "latitude": 40.3606386,
+    "longitude": -74.945535,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Lambertville Boat Launch",
+      "parking": "yes",
+      "toilets": "yes",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 6364997503,
+    "name": "Boat Ramp",
+    "latitude": 40.6411401,
+    "longitude": -75.2837283,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6375942138,
+    "name": "Kingwood Boat Ramp",
+    "latitude": 40.5116788,
+    "longitude": -75.0634881,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "yes",
+      "fee:conditional": "no @ (Labor Day - Memorial Day)",
+      "leisure": "slipway",
+      "name": "Kingwood Boat Ramp",
+      "parking": "yes",
+      "toilets": "yes",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 6376959756,
+    "name": "Yardley Boat Ramp",
+    "latitude": 40.2532455,
+    "longitude": -74.8453464,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Yardley Boat Ramp",
+      "operator": "Pennsylvania Fish and Boat Commission",
+      "parking": "yes",
+      "surface": "paved",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 6427460877,
+    "name": "Boat Ramp",
+    "latitude": 40.7411415,
+    "longitude": -74.0260766,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 6433396429,
+    "name": "Boat Ramp",
+    "latitude": 40.6768361,
+    "longitude": -73.9898693,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "description": "boat launch for canoes and kayaks",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6591269840,
+    "name": "Boat Ramp",
+    "latitude": 39.4144202,
+    "longitude": -74.7166152,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6631768645,
+    "name": "Boat Ramp",
+    "latitude": 40.6561807,
+    "longitude": -73.9644851,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "private",
+      "canoe": "private",
+      "description": "No private boats are allowed on Prospect Lake",
+      "leisure": "slipway",
+      "source": "https://www.prospectpark.org/wp-content/uploads/2025/07/Boating-Rules-Guidelines_R3-1.pdf"
+    }
+  },
+  {
+    "id": 6720535801,
+    "name": "Eshback Access",
+    "latitude": 41.1371639,
+    "longitude": -74.9261473,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Eshback Access"
+    }
+  },
+  {
+    "id": 6751092187,
+    "name": "Boat Ramp",
+    "latitude": 40.5001174,
+    "longitude": -74.277201,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6858223370,
+    "name": "Boat Ramp",
+    "latitude": 40.1565125,
+    "longitude": -75.5136319,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6870019456,
+    "name": "Boat Ramp",
+    "latitude": 39.8596265,
+    "longitude": -75.1078398,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6870019457,
+    "name": "Boat Ramp",
+    "latitude": 39.85969,
+    "longitude": -75.1076008,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6886659005,
+    "name": "Boat Ramp",
+    "latitude": 40.6266004,
+    "longitude": -75.1908151,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "canoe": "designated",
+      "informal": "no",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 6886659020,
+    "name": "Boat Ramp",
+    "latitude": 40.6283978,
+    "longitude": -75.1913459,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "canoe": "designated",
+      "informal": "no",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 6893163310,
+    "name": "Canoe Launch",
+    "latitude": 40.5801725,
+    "longitude": -75.1968052,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe Launch"
+    }
+  },
+  {
+    "id": 6893163315,
+    "name": "Canoe Launch",
+    "latitude": 40.5791398,
+    "longitude": -75.1967959,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe Launch"
+    }
+  },
+  {
+    "id": 6935188165,
+    "name": "Boat Ramp",
+    "latitude": 40.2098039,
+    "longitude": -75.5639171,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6988423664,
+    "name": "Frankford Arsenal Boat Launch",
+    "latitude": 40.007259,
+    "longitude": -75.0560813,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Frankford Arsenal Boat Launch"
+    }
+  },
+  {
+    "id": 7049698085,
+    "name": "Boat Ramp",
+    "latitude": 39.8597364,
+    "longitude": -75.3004324,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7094562086,
+    "name": "Boat Ramp",
+    "latitude": 40.0701555,
+    "longitude": -75.2982856,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7233920085,
+    "name": "57th Street Boat Launch",
+    "latitude": 39.0800584,
+    "longitude": -74.7402881,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "57th Street Boat Launch",
+      "operator": "Borough of Avalon"
+    }
+  },
+  {
+    "id": 7333891282,
+    "name": "Little Ferry Boat Ramp",
+    "latitude": 40.8471875,
+    "longitude": -74.0317489,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "description": "Not Maintained, public access, only upper 4 feet of tide, 2 hours either side of hightide",
+      "fee": "no",
+      "lanes": "1",
+      "leisure": "slipway",
+      "lit": "yes",
+      "name": "Little Ferry Boat Ramp",
+      "surface": "compacted",
+      "width": "6"
+    }
+  },
+  {
+    "id": 7356614007,
+    "name": "Winter Anchorage Canoe & Kayak Access",
+    "latitude": 39.7895075,
+    "longitude": -74.0973784,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "canoe": "designated",
+      "leisure": "slipway",
+      "name": "Winter Anchorage Canoe & Kayak Access",
+      "parking": "yes",
+      "parking:distance": "840 ft",
+      "surface": "ground",
+      "tidal": "yes"
+    }
+  },
+  {
+    "id": 7364881133,
+    "name": "Princeton Avenue Boat Launch",
+    "latitude": 40.0198136,
+    "longitude": -75.0328399,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Princeton Avenue Boat Launch"
+    }
+  },
+  {
+    "id": 7398151575,
+    "name": "Boat Ramp",
+    "latitude": 40.1155061,
+    "longitude": -75.3550334,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7398151576,
+    "name": "Boat Ramp",
+    "latitude": 40.1150047,
+    "longitude": -75.3533622,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7399204906,
+    "name": "Boat Ramp",
+    "latitude": 40.1190053,
+    "longitude": -75.3897039,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7418403062,
+    "name": "Cartop Launch",
+    "latitude": 41.1420793,
+    "longitude": -74.3014261,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Cartop Launch"
+    }
+  },
+  {
+    "id": 7578072120,
+    "name": "Hoy Park Access",
+    "latitude": 40.1500976,
+    "longitude": -75.4467238,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "bicycle_parking": "informal",
+      "bin": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Hoy Park Access",
+      "opening_hours": "sunrise-sunset",
+      "parking": "yes",
+      "surface": "concrete",
+      "toilets": "no"
+    }
+  },
+  {
+    "id": 7678490509,
+    "name": "Kayak Launch",
+    "latitude": 40.4897234,
+    "longitude": -75.0688676,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kayak Launch"
+    }
+  },
+  {
+    "id": 7741104797,
+    "name": "Boat Ramp",
+    "latitude": 40.9136278,
+    "longitude": -75.1649751,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7776394211,
+    "name": "Boat Ramp",
+    "latitude": 40.3788857,
+    "longitude": -75.500691,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "boat": "permit",
+      "canoe": "permit",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7781461294,
+    "name": "Boat Ramp",
+    "latitude": 41.312682,
+    "longitude": -74.9405157,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7784592086,
+    "name": "Boat Ramp",
+    "latitude": 41.3224403,
+    "longitude": -74.9644773,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7795516188,
+    "name": "Boat Ramp",
+    "latitude": 40.9908775,
+    "longitude": -74.2975794,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7824703441,
+    "name": "Boat Ramp",
+    "latitude": 41.2840795,
+    "longitude": -75.0808529,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7831170525,
+    "name": "Boat Ramp",
+    "latitude": 41.3402536,
+    "longitude": -75.0394597,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8004535531,
+    "name": "Boat Ramp",
+    "latitude": 41.1937629,
+    "longitude": -74.2536021,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8004535577,
+    "name": "Boat Ramp",
+    "latitude": 41.194665,
+    "longitude": -74.2515714,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8015312420,
+    "name": "Boat Ramp",
+    "latitude": 39.9296042,
+    "longitude": -74.1429622,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8088708938,
+    "name": "Firemans Eddy Boat Ramp",
+    "latitude": 40.3423265,
+    "longitude": -74.9420028,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "alt_name": "Firemens Eddy Boat Ramp",
+      "bicycle_parking": "informal",
+      "canoe": "yes",
+      "fee": "yes",
+      "fee:conditional": "no @ (Labor Day - Memorial Day)",
+      "leisure": "slipway",
+      "name": "Firemans Eddy Boat Ramp"
+    }
+  },
+  {
+    "id": 8089016764,
+    "name": "Kayak Launch",
+    "latitude": 40.2973773,
+    "longitude": -74.8735709,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Kayak Launch",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 8130374539,
+    "name": "Boat Ramp",
+    "latitude": 39.7486444,
+    "longitude": -74.1931653,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8242070955,
+    "name": "Boat Ramp",
+    "latitude": 40.4746431,
+    "longitude": -74.3556824,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8262543340,
+    "name": "Boat Ramp",
+    "latitude": 40.0071955,
+    "longitude": -74.3217788,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8285539650,
+    "name": "Boat Ramp",
+    "latitude": 39.9487485,
+    "longitude": -74.1150456,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8295196410,
+    "name": "Boat Ramp",
+    "latitude": 40.2154777,
+    "longitude": -74.5172202,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "permit",
+      "fee": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8295196411,
+    "name": "Boat Ramp",
+    "latitude": 40.2169482,
+    "longitude": -74.5219998,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "permit",
+      "fee": "yes",
+      "leisure": "slipway",
+      "surface": "dirt"
+    }
+  },
+  {
+    "id": 8309768434,
+    "name": "Boat Ramp",
+    "latitude": 40.7388207,
+    "longitude": -75.091259,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8429850515,
+    "name": "Boat Ramp",
+    "latitude": 40.6258084,
+    "longitude": -73.9027144,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8429851924,
+    "name": "Boat Ramp",
+    "latitude": 40.6275335,
+    "longitude": -73.9065185,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8432115368,
+    "name": "Manasquan Boat Launch",
+    "latitude": 40.117286,
+    "longitude": -74.0346384,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "addr:city": "Manasquan",
+      "addr:state": "NJ",
+      "addr:street": "Stockton Avenue",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Manasquan Boat Launch"
+    }
+  },
+  {
+    "id": 8476198175,
+    "name": "Boat Ramp",
+    "latitude": 40.4346251,
+    "longitude": -75.0970703,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8514360903,
+    "name": "Boat Ramp",
+    "latitude": 41.0783555,
+    "longitude": -74.8213429,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8514379419,
+    "name": "Boat Ramp",
+    "latitude": 41.0836419,
+    "longitude": -74.8187383,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8514379425,
+    "name": "Boat Ramp",
+    "latitude": 41.0723742,
+    "longitude": -74.8252325,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8514379430,
+    "name": "Boat Ramp",
+    "latitude": 41.0629041,
+    "longitude": -74.8527156,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8538311661,
+    "name": "Kayak Launch",
+    "latitude": 40.6589666,
+    "longitude": -75.080349,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kayak Launch"
+    }
+  },
+  {
+    "id": 8538311662,
+    "name": "Kayak Launch",
+    "latitude": 40.7111922,
+    "longitude": -74.9679715,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kayak Launch"
+    }
+  },
+  {
+    "id": 8538311666,
+    "name": "Kayak Launch",
+    "latitude": 40.8129481,
+    "longitude": -74.8417545,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kayak Launch"
+    }
+  },
+  {
+    "id": 8538904805,
+    "name": "Belvidere Boat Ramp",
+    "latitude": 40.8279228,
+    "longitude": -75.0828746,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Belvidere Boat Ramp"
+    }
+  },
+  {
+    "id": 8544226451,
+    "name": "Canoe Access",
+    "latitude": 41.2598727,
+    "longitude": -74.5491475,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe Access"
+    }
+  },
+  {
+    "id": 8544226456,
+    "name": "Canoe Access",
+    "latitude": 41.2623356,
+    "longitude": -74.5379244,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe Access"
+    }
+  },
+  {
+    "id": 8553490952,
+    "name": "Boat Ramp",
+    "latitude": 40.3387113,
+    "longitude": -74.6289363,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "backcountry": "no",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 8555196056,
+    "name": "Boat Ramp",
+    "latitude": 39.8771882,
+    "longitude": -75.1796091,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8626605830,
+    "name": "Sandt'S Eddy Boat Access",
+    "latitude": 40.7583789,
+    "longitude": -75.1877811,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Sandt's Eddy Boat Access"
+    }
+  },
+  {
+    "id": 8649203117,
+    "name": "Boat Ramp",
+    "latitude": 39.8086703,
+    "longitude": -74.1845713,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8663755538,
+    "name": "Boat Ramp",
+    "latitude": 39.3158272,
+    "longitude": -74.5864779,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8754472385,
+    "name": "Boat Ramp",
+    "latitude": 40.571824,
+    "longitude": -74.2128037,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8762042442,
+    "name": "Toms River Boat Ramp",
+    "latitude": 39.9440126,
+    "longitude": -74.1339216,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Toms River",
+      "addr:housenumber": "230",
+      "addr:street": "Garfield Avenue",
+      "fee": "no",
+      "lanes": "1",
+      "leisure": "slipway",
+      "name": "Toms River Boat Ramp",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 8768796966,
+    "name": "Boat Ramp",
+    "latitude": 40.7332396,
+    "longitude": -74.1521133,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8857478292,
+    "name": "Bulls Island Boat Launch",
+    "latitude": 40.4074605,
+    "longitude": -75.0351477,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "drinking_water": "yes",
+      "fee": "yes",
+      "informal": "no",
+      "leisure": "slipway",
+      "name": "Bulls Island Boat Launch",
+      "parking": "yes",
+      "tidal": "no",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 8886414506,
+    "name": "Boat Ramp",
+    "latitude": 40.1852499,
+    "longitude": -74.0406824,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8893107024,
+    "name": "Boat Ramp",
+    "latitude": 39.0814509,
+    "longitude": -74.7385862,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "permit",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8925459653,
+    "name": "Boat Ramp",
+    "latitude": 40.0121576,
+    "longitude": -75.0292974,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8995190181,
+    "name": "Boat Ramp",
+    "latitude": 40.0204429,
+    "longitude": -75.0305864,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9138598835,
+    "name": "Boat Ramp",
+    "latitude": 40.160682,
+    "longitude": -75.5073197,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 9199903675,
+    "name": "Boat Ramp",
+    "latitude": 39.9516232,
+    "longitude": -74.1997143,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9213949013,
+    "name": "Boat Ramp",
+    "latitude": 39.9224659,
+    "longitude": -74.1090061,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9239251815,
+    "name": "Boat Ramp",
+    "latitude": 39.9060952,
+    "longitude": -74.0872056,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9278437076,
+    "name": "Boat Ramp",
+    "latitude": 39.7940422,
+    "longitude": -74.208973,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9294641124,
+    "name": "Boat Ramp",
+    "latitude": 40.4473689,
+    "longitude": -74.3692188,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9509071237,
+    "name": "Lehigh River Easton Access",
+    "latitude": 40.6889157,
+    "longitude": -75.2066426,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Lehigh River Easton Access",
+      "tidal": "no",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 9550648709,
+    "name": "Boat Ramp",
+    "latitude": 39.8323083,
+    "longitude": -75.3768991,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9595610463,
+    "name": "Boat Ramp",
+    "latitude": 40.7383186,
+    "longitude": -73.9602375,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "canoe": "put_in",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9699145621,
+    "name": "Poxono Boat Launch",
+    "latitude": 41.0403343,
+    "longitude": -75.0231133,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Poxono Boat Launch",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 9699145643,
+    "name": "Depew Boat Launch",
+    "latitude": 41.0605596,
+    "longitude": -75.0147917,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Depew Boat Launch"
+    }
+  },
+  {
+    "id": 9699254960,
+    "name": "Milford Beach Hand Launch",
+    "latitude": 41.3087325,
+    "longitude": -74.797995,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Milford Beach Hand Launch"
+    }
+  },
+  {
+    "id": 9699288384,
+    "name": "Portland Generating Station Boat Ramp",
+    "latitude": 40.9086774,
+    "longitude": -75.0772153,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Portland Generating Station Boat Ramp"
+    }
+  },
+  {
+    "id": 9699288389,
+    "name": "Martins Creek Boat Ramp",
+    "latitude": 40.7895732,
+    "longitude": -75.1176596,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Martins Creek Boat Ramp"
+    }
+  },
+  {
+    "id": 9709056889,
+    "name": "Riverside Park Boat Launch",
+    "latitude": 40.5408044,
+    "longitude": -74.5122844,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Riverside Park Boat Launch",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 9740558712,
+    "name": "Kayak Launch",
+    "latitude": 39.9206442,
+    "longitude": -75.1272482,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "kayak launch",
+      "sport": "canoe"
+    }
+  },
+  {
+    "id": 9881873884,
+    "name": "Boat Ramp",
+    "latitude": 41.0127154,
+    "longitude": -74.6588221,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9906622734,
+    "name": "Boat Ramp",
+    "latitude": 39.7776818,
+    "longitude": -74.1914213,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9911584596,
+    "name": "North Boat Launch",
+    "latitude": 41.1369313,
+    "longitude": -74.3069175,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "North Boat Launch"
+    }
+  },
+  {
+    "id": 9932736798,
+    "name": "Boat Ramp",
+    "latitude": 41.0223741,
+    "longitude": -74.2592968,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9996168513,
+    "name": "Boat Ramp",
+    "latitude": 41.198851,
+    "longitude": -74.1300748,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10043013578,
+    "name": "Boat Ramp",
+    "latitude": 40.4792131,
+    "longitude": -75.2674677,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10056964829,
+    "name": "Boat Ramp",
+    "latitude": 40.7792669,
+    "longitude": -75.1758432,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10102066065,
+    "name": "Boat Ramp",
+    "latitude": 40.4227859,
+    "longitude": -75.0633609,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10102426337,
+    "name": "Ore Pond Kayak Launch",
+    "latitude": 39.9023213,
+    "longitude": -74.2452613,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Ore Pond Kayak Launch",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 10115015657,
+    "name": "Boat Ramp",
+    "latitude": 41.0104247,
+    "longitude": -74.7356279,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10169834051,
+    "name": "Boat Ramp",
+    "latitude": 40.0754747,
+    "longitude": -74.9014066,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "description": "Free to use but risky to launch via trailer due to risk of getting stuck in the mud.",
+      "fee": "no",
+      "leisure": "slipway",
+      "motor_vehicle": "yes",
+      "motorboat": "yes",
+      "surface": "mud",
+      "tidal": "yes",
+      "trailer": "discouraged"
+    }
+  },
+  {
+    "id": 10241408404,
+    "name": "Boat Ramp",
+    "latitude": 38.9467478,
+    "longitude": -74.8942483,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 10287911054,
+    "name": "Boat Ramp",
+    "latitude": 39.6870133,
+    "longitude": -74.5462129,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10314016351,
+    "name": "Old Place Creek Hand Launch",
+    "latitude": 40.6269592,
+    "longitude": -74.1823487,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "backcountry": "no",
+      "camping": "no",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Old Place Creek Hand Launch",
+      "parking": "yes",
+      "tidal": "yes",
+      "trailer": "no"
+    }
+  },
+  {
+    "id": 10606435682,
+    "name": "Boat Ramp",
+    "latitude": 39.9515429,
+    "longitude": -75.1084681,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "canoe": "designated",
+      "fee": "no",
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 10648556817,
+    "name": "Boat Ramp",
+    "latitude": 39.8762304,
+    "longitude": -75.2089876,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10671230184,
+    "name": "Smithfield Beach Access",
+    "latitude": 41.0295054,
+    "longitude": -75.0499707,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Smithfield Beach Access"
+    }
+  },
+  {
+    "id": 10671230185,
+    "name": "Smithfield Beach Access",
+    "latitude": 41.0268357,
+    "longitude": -75.0549613,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Smithfield Beach Access"
+    }
+  },
+  {
+    "id": 10688907843,
+    "name": "Boat Ramp",
+    "latitude": 39.3343765,
+    "longitude": -74.6770496,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10691328685,
+    "name": "Boat Ramp",
+    "latitude": 40.2549156,
+    "longitude": -75.4618667,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "motorboat": "no",
+      "parking": "yes",
+      "surface": "concrete",
+      "toilets": "no"
+    }
+  },
+  {
+    "id": 10804964822,
+    "name": "Boat Ramp",
+    "latitude": 40.4876073,
+    "longitude": -74.4328226,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10827110906,
+    "name": "Boat Ramp",
+    "latitude": 40.9136899,
+    "longitude": -74.8159184,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "ground"
+    }
+  },
+  {
+    "id": 10830001771,
+    "name": "Boat Ramp",
+    "latitude": 40.9374406,
+    "longitude": -74.2522721,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10940174573,
+    "name": "Boat Ramp",
+    "latitude": 40.8912549,
+    "longitude": -74.9945424,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11016227251,
+    "name": "Boat Ramp",
+    "latitude": 40.5131302,
+    "longitude": -74.1991249,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11016227252,
+    "name": "Boat Ramp",
+    "latitude": 40.5130348,
+    "longitude": -74.1984914,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11090148534,
+    "name": "Boat Ramp",
+    "latitude": 40.3481301,
+    "longitude": -74.0828307,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11112618586,
+    "name": "Boat Ramp",
+    "latitude": 41.1771942,
+    "longitude": -74.4644385,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "permit",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11120039082,
+    "name": "Crowley Landing",
+    "latitude": 39.6264125,
+    "longitude": -74.6194242,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "permit",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Crowley Landing"
+    }
+  },
+  {
+    "id": 11155170847,
+    "name": "Campground Boatlaunch",
+    "latitude": 41.2101241,
+    "longitude": -75.4024856,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Campground Boatlaunch",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 11246012820,
+    "name": "Kayak Access",
+    "latitude": 40.7392256,
+    "longitude": -74.0111552,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Kayak Access",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 11260242104,
+    "name": "Boat Ramp",
+    "latitude": 40.9095528,
+    "longitude": -74.6570797,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11260242115,
+    "name": "Boat Ramp",
+    "latitude": 40.9046297,
+    "longitude": -74.6638859,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11264655777,
+    "name": "Boat Ramp",
+    "latitude": 40.7759887,
+    "longitude": -73.9736212,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11299055898,
+    "name": "Boat Ramp",
+    "latitude": 40.6574624,
+    "longitude": -75.2446714,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "canoe": "permissive",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11306443201,
+    "name": "Boat Ramp",
+    "latitude": 39.5053207,
+    "longitude": -74.4167166,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11307508892,
+    "name": "Boat Ramp",
+    "latitude": 39.7398293,
+    "longitude": -74.7313014,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11347723490,
+    "name": "Boat Ramp",
+    "latitude": 41.0385774,
+    "longitude": -74.9965256,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "ground"
+    }
+  },
+  {
+    "id": 11347723496,
+    "name": "Boat Ramp",
+    "latitude": 41.0369766,
+    "longitude": -74.9973231,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "ground"
+    }
+  },
+  {
+    "id": 11384465358,
+    "name": "Boat Ramp",
+    "latitude": 40.8847513,
+    "longitude": -75.063369,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11384516504,
+    "name": "Boat Ramp",
+    "latitude": 41.2193087,
+    "longitude": -74.3029282,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11384543645,
+    "name": "Boat Ramp",
+    "latitude": 41.2222996,
+    "longitude": -74.3009147,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11527244603,
+    "name": "Boat Ramp",
+    "latitude": 41.2251914,
+    "longitude": -75.4573514,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11551727791,
+    "name": "Boat Ramp",
+    "latitude": 40.1721401,
+    "longitude": -74.202977,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11551727805,
+    "name": "Boat Ramp",
+    "latitude": 40.1721829,
+    "longitude": -74.2057472,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11649760095,
+    "name": "Levittown Lake Boat Launch",
+    "latitude": 40.1470902,
+    "longitude": -74.8187249,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Levittown Lake Boat Launch",
+      "parking": "yes",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 11751692082,
+    "name": "Boat Ramp",
+    "latitude": 39.4260426,
+    "longitude": -74.4862931,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 11805875104,
+    "name": "Boat Ramp",
+    "latitude": 40.1108984,
+    "longitude": -74.0420796,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11879696321,
+    "name": "Boat Ramp",
+    "latitude": 40.1004261,
+    "longitude": -74.8425252,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11880075807,
+    "name": "Boat Ramp",
+    "latitude": 40.0450738,
+    "longitude": -74.9625583,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11952902062,
+    "name": "Boat Ramp",
+    "latitude": 40.4988324,
+    "longitude": -74.2463253,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12036877661,
+    "name": "Boat Ramp",
+    "latitude": 41.0614617,
+    "longitude": -75.593446,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12044926242,
+    "name": "Boat Ramp",
+    "latitude": 39.5627929,
+    "longitude": -74.506256,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 12054091224,
+    "name": "Boat Ramp",
+    "latitude": 39.5771413,
+    "longitude": -74.4507065,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12064067523,
+    "name": "Frankford Arsenal Boat Launch",
+    "latitude": 40.0074407,
+    "longitude": -75.0559203,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Frankford Arsenal Boat Launch"
+    }
+  },
+  {
+    "id": 12070165580,
+    "name": "Boat Ramp",
+    "latitude": 39.9810086,
+    "longitude": -75.0660538,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "tidal": "yes"
+    }
+  },
+  {
+    "id": 12127977633,
+    "name": "Boat Ramp",
+    "latitude": 41.2086513,
+    "longitude": -74.8686892,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "customers",
+      "camping": "yes",
+      "canoe": "customers",
+      "informal": "no",
+      "leisure": "slipway",
+      "operator": "Dingmans Campground",
+      "parking": "yes",
+      "tidal": "no",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 12146905157,
+    "name": "Ridley Township Municipal Marina Ramp",
+    "latitude": 39.8703943,
+    "longitude": -75.3139882,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "Ridley Township Municipal Marina Ramp",
+      "phone": "+1 610-521-2800",
+      "surface": "concrete",
+      "website": "https://www.ridleytwp.org/marina-ramp-passes"
+    }
+  },
+  {
+    "id": 12146905158,
+    "name": "Ridley Township Municipal Marina Ramp",
+    "latitude": 39.8704365,
+    "longitude": -75.3139301,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "Ridley Township Municipal Marina Ramp",
+      "phone": "+1 610-521-2800",
+      "surface": "concrete",
+      "website": "https://www.ridleytwp.org/marina-ramp-passes"
+    }
+  },
+  {
+    "id": 12146905237,
+    "name": "Boat Ramp",
+    "latitude": 39.8724964,
+    "longitude": -75.3102462,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "motor_vehicle": "private",
+      "note": "Located on property owned by Ridley Township.",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 12178565017,
+    "name": "Boat Ramp",
+    "latitude": 39.9245277,
+    "longitude": -75.0711328,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12202047270,
+    "name": "Boat Ramp",
+    "latitude": 39.938217,
+    "longitude": -75.2044649,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12253955674,
+    "name": "Boat Ramp",
+    "latitude": 39.6436243,
+    "longitude": -74.2458877,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12321825222,
+    "name": "Boat Ramp",
+    "latitude": 40.0590849,
+    "longitude": -75.2698551,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12336240863,
+    "name": "Boat Ramp",
+    "latitude": 39.4567354,
+    "longitude": -74.7385568,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12348905725,
+    "name": "Boat Ramp",
+    "latitude": 40.1958766,
+    "longitude": -74.4858628,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12391307935,
+    "name": "Boat Ramp",
+    "latitude": 39.9519892,
+    "longitude": -74.32658,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12408096996,
+    "name": "Municipal Boat Launch",
+    "latitude": 40.3765502,
+    "longitude": -73.9998291,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Municipal Boat Launch",
+      "operator": "Town of Rumson NJ"
+    }
+  },
+  {
+    "id": 12461417854,
+    "name": "Boat Ramp",
+    "latitude": 40.6263526,
+    "longitude": -75.3339632,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12505711809,
+    "name": "Boat Ramp",
+    "latitude": 40.2687207,
+    "longitude": -74.5221611,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12600884980,
+    "name": "Boat Ramp",
+    "latitude": 40.3401944,
+    "longitude": -74.6497179,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12637349124,
+    "name": "Boat Ramp",
+    "latitude": 39.2551417,
+    "longitude": -74.6285778,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12637359935,
+    "name": "Boat Ramp",
+    "latitude": 39.2841485,
+    "longitude": -74.6190856,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12739797502,
+    "name": "Canoe/Kayak Access",
+    "latitude": 40.9824691,
+    "longitude": -74.2978405,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe/Kayak Access"
+    }
+  },
+  {
+    "id": 12748220980,
+    "name": "Boat Ramp",
+    "latitude": 41.1881414,
+    "longitude": -74.4264806,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12786766273,
+    "name": "Boat Ramp",
+    "latitude": 40.0251967,
+    "longitude": -75.0141794,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12828934554,
+    "name": "Boat Ramp",
+    "latitude": 41.2417801,
+    "longitude": -74.1025417,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12828934561,
+    "name": "Boat Ramp",
+    "latitude": 41.2408861,
+    "longitude": -74.1020385,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12847043246,
+    "name": "Boat Ramp",
+    "latitude": 39.9576506,
+    "longitude": -75.1140712,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "tidal": "yes"
+    }
+  },
+  {
+    "id": 12875893462,
+    "name": "Boat Ramp",
+    "latitude": 40.9680538,
+    "longitude": -75.001517,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 12876604469,
+    "name": "Boat Ramp",
+    "latitude": 40.8591608,
+    "longitude": -74.9872862,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12882290473,
+    "name": "Boat Ramp",
+    "latitude": 39.8802316,
+    "longitude": -75.1268793,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12994866951,
+    "name": "Boat Ramp",
+    "latitude": 39.06459,
+    "longitude": -74.7537569,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "fee": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12994866952,
+    "name": "Boat Ramp",
+    "latitude": 39.0587749,
+    "longitude": -74.759027,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13013519088,
+    "name": "Boat Ramp",
+    "latitude": 40.3668154,
+    "longitude": -74.6257503,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13043500179,
+    "name": "Boat Ramp",
+    "latitude": 39.8419376,
+    "longitude": -75.1428273,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13446916951,
+    "name": "Boat Launch",
+    "latitude": 40.2655948,
+    "longitude": -74.6417644,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Launch"
+    }
+  },
+  {
+    "id": 13623887928,
+    "name": "Route 565 Canoe Launch",
+    "latitude": 41.1941219,
+    "longitude": -74.5750099,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Route 565 Canoe Launch"
+    }
+  },
+  {
+    "id": 23456699,
+    "name": "Boat Ramp",
+    "latitude": 40.6448437,
+    "longitude": -75.2720568,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 110585538,
+    "name": "Lester St Boat Ramp",
+    "latitude": 40.8584813,
+    "longitude": -74.1131732,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "designation": "Emergency Squad",
+      "leisure": "slipway",
+      "name": "Lester St Boat Ramp",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Bergen, NJ",
+      "tiger:name_base": "Lester",
+      "tiger:name_type": "St",
+      "tiger:reviewed": "no",
+      "tiger:zip_left": "07057",
+      "tiger:zip_right": "07057"
+    }
+  },
+  {
+    "id": 232065082,
+    "name": "Boat Ramp",
+    "latitude": 40.697507,
+    "longitude": -74.0651365,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 261469043,
+    "name": "Boat Ramp",
+    "latitude": 41.0061048,
+    "longitude": -74.2779235,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 288964957,
+    "name": "Boat Ramp",
+    "latitude": 40.8075297,
+    "longitude": -74.0572436,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "note": "Public Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 376079356,
+    "name": "Richard W. Bergen Jr. Boat Ramp",
+    "latitude": 40.4391753,
+    "longitude": -74.2022717,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "permit",
+      "charge": "20 USD",
+      "fee": "yes",
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "name": "Richard W. Bergen Jr. Boat Ramp",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "service": "slipway",
+      "surface": "paving_stones"
+    }
+  },
+  {
+    "id": 379804451,
+    "name": "Boat Ramp",
+    "latitude": 40.7733166,
+    "longitude": -73.993794,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 406519844,
+    "name": "Boat Ramp",
+    "latitude": 40.7293789,
+    "longitude": -74.1010422,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 415173526,
+    "name": "Boat Ramp",
+    "latitude": 41.3089893,
+    "longitude": -74.7972257,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 517410502,
+    "name": "Boat Ramp",
+    "latitude": 40.2090987,
+    "longitude": -74.9130488,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 517410507,
+    "name": "Boat Ramp",
+    "latitude": 40.1999817,
+    "longitude": -74.919146,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 518430878,
+    "name": "Boat Ramp",
+    "latitude": 40.3781491,
+    "longitude": -74.4265713,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 518598935,
+    "name": "Boat Ramp",
+    "latitude": 40.4666156,
+    "longitude": -74.4259168,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 529701200,
+    "name": "Boat Ramp",
+    "latitude": 40.4390528,
+    "longitude": -74.4666217,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 543778484,
+    "name": "Boat Ramp",
+    "latitude": 40.8476641,
+    "longitude": -74.5341644,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 543781227,
+    "name": "Boat Ramp",
+    "latitude": 40.8775962,
+    "longitude": -74.5785105,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 548041396,
+    "name": "Boat Ramp",
+    "latitude": 40.0699921,
+    "longitude": -75.309749,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 575232414,
+    "name": "Boat Ramp",
+    "latitude": 40.9118628,
+    "longitude": -74.2673804,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "emergency",
+      "addr:city": "Wayne",
+      "addr:housenumber": "129",
+      "addr:postcode": "07470",
+      "addr:state": "NJ",
+      "addr:street": "Fayette Avenue",
+      "bicycle": "no",
+      "boat": "designated",
+      "embankment": "yes",
+      "foot": "no",
+      "highway": "service",
+      "horse": "no",
+      "leisure": "slipway",
+      "motor_vehicle": "no",
+      "service": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 583080531,
+    "name": "Boat Ramp",
+    "latitude": 40.4875253,
+    "longitude": -74.4328748,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 587063991,
+    "name": "Boat Ramp",
+    "latitude": 40.8735698,
+    "longitude": -73.9184164,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 608479328,
+    "name": "Boat Ramp",
+    "latitude": 40.9374825,
+    "longitude": -74.2518576,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 608479331,
+    "name": "Boat Ramp",
+    "latitude": 40.9385722,
+    "longitude": -74.2513019,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 618388747,
+    "name": "Boat Ramp",
+    "latitude": 40.9697014,
+    "longitude": -75.1290508,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 637057750,
+    "name": "Boat Ramp",
+    "latitude": 40.1281171,
+    "longitude": -74.7755222,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 711579921,
+    "name": "Barnegat Light Boat Ramp",
+    "latitude": 39.7576556,
+    "longitude": -74.1114331,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "customers",
+      "bicycle": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Barnegat Light Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 711796098,
+    "name": "Beach Haven Municipal Boat Ramp",
+    "latitude": 39.5709002,
+    "longitude": -74.238218,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Beach Haven Municipal Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 756767395,
+    "name": "Boat Ramp",
+    "latitude": 40.3116602,
+    "longitude": -74.0033468,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 821854860,
+    "name": "U.S. Coast Guard - Station New York",
+    "latitude": 40.6122131,
+    "longitude": -74.0605329,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "U.S. Coast Guard - Station New York",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 821865356,
+    "name": "U.S. Coast Guard - Station Sandy Hook",
+    "latitude": 40.4675305,
+    "longitude": -74.00883,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "U.S. Coast Guard - Station Sandy Hook",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 826253250,
+    "name": "Boat Ramp",
+    "latitude": 39.3170015,
+    "longitude": -74.6305482,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Atlantic, NJ",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 833699200,
+    "name": "Boat Ramp",
+    "latitude": 39.3376643,
+    "longitude": -74.5996758,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 833702687,
+    "name": "Boat Ramp",
+    "latitude": 39.336715,
+    "longitude": -74.5964642,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 854197268,
+    "name": "U.S. Coast Guard - Training Center Cape May",
+    "latitude": 38.949691,
+    "longitude": -74.8818103,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "U.S. Coast Guard - Training Center Cape May",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 888720295,
+    "name": "Boat Ramp",
+    "latitude": 40.0071935,
+    "longitude": -74.321686,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "lit": "no",
+      "parking:both": "no",
+      "service": "slipway",
+      "surface": "gravel",
+      "toll": "no"
+    }
+  },
+  {
+    "id": 907096314,
+    "name": "Boat Ramp",
+    "latitude": 39.1258275,
+    "longitude": -74.7136759,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 933078809,
+    "name": "Sands Point Boat Ramp",
+    "latitude": 39.8085714,
+    "longitude": -74.1845965,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Sands Point Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 935186261,
+    "name": "Boat Ramp",
+    "latitude": 40.3272628,
+    "longitude": -73.9942365,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 952080300,
+    "name": "Boat Ramp",
+    "latitude": 39.3344556,
+    "longitude": -74.6770067,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 953586309,
+    "name": "Boat Ramp",
+    "latitude": 40.3255697,
+    "longitude": -74.006931,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 955845239,
+    "name": "Boat Ramp",
+    "latitude": 39.3073301,
+    "longitude": -74.5979306,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 955845240,
+    "name": "Boat Ramp",
+    "latitude": 39.3073435,
+    "longitude": -74.5978902,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 959029413,
+    "name": "Boat Ramp",
+    "latitude": 39.309502,
+    "longitude": -74.5957368,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 966935100,
+    "name": "Boat Ramp",
+    "latitude": 39.3435836,
+    "longitude": -74.586972,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 968487772,
+    "name": "Boat Ramp",
+    "latitude": 40.4238774,
+    "longitude": -74.0608247,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 974093728,
+    "name": "Boat Ramp",
+    "latitude": 39.3551075,
+    "longitude": -74.5397164,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 974513902,
+    "name": "Boat Ramp",
+    "latitude": 40.3347174,
+    "longitude": -74.1534642,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 998315809,
+    "name": "Boat Ramp",
+    "latitude": 39.3061701,
+    "longitude": -74.607607,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 998315811,
+    "name": "Boat Ramp",
+    "latitude": 39.3062579,
+    "longitude": -74.6075338,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1015369367,
+    "name": "Boat Ramp",
+    "latitude": 40.6975922,
+    "longitude": -74.0652144,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1017048539,
+    "name": "Boat Ramp",
+    "latitude": 40.5362227,
+    "longitude": -74.1329545,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1017048566,
+    "name": "Boat Ramp",
+    "latitude": 40.5425044,
+    "longitude": -74.1415717,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1017048567,
+    "name": "Boat Ramp",
+    "latitude": 40.5446601,
+    "longitude": -74.1392921,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1049085056,
+    "name": "Boat Ramp",
+    "latitude": 39.3833423,
+    "longitude": -74.5181009,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1049427573,
+    "name": "Boat Ramp",
+    "latitude": 39.3532421,
+    "longitude": -74.4875562,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1065001472,
+    "name": "Boat Ramp",
+    "latitude": 40.3146173,
+    "longitude": -74.0287564,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1105342552,
+    "name": "Boat Ramp",
+    "latitude": 41.0103858,
+    "longitude": -74.7356354,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1121067453,
+    "name": "Boat Ramp",
+    "latitude": 40.6863683,
+    "longitude": -74.0731857,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1156467274,
+    "name": "Boat Ramp",
+    "latitude": 40.512887,
+    "longitude": -74.1984439,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1159762689,
+    "name": "Boat Ramp",
+    "latitude": 39.7449434,
+    "longitude": -74.1176327,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "compacted"
+    }
+  },
+  {
+    "id": 1167650823,
+    "name": "Boat Ramp",
+    "latitude": 39.6308781,
+    "longitude": -74.1920313,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1168370582,
+    "name": "Boat Ramp",
+    "latitude": 39.6729342,
+    "longitude": -74.2189556,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1176354635,
+    "name": "Boat Ramp",
+    "latitude": 40.8912925,
+    "longitude": -74.9944476,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1182317726,
+    "name": "Boat Ramp",
+    "latitude": 39.4938554,
+    "longitude": -74.4207794,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1193046135,
+    "name": "Boat Ramp",
+    "latitude": 39.9451931,
+    "longitude": -74.542286,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1194832974,
+    "name": "Boat Ramp",
+    "latitude": 40.3482124,
+    "longitude": -74.0830881,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "permit",
+      "fee": "yes",
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1210841790,
+    "name": "Boat Ramp",
+    "latitude": 39.2876094,
+    "longitude": -74.6269692,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1215900292,
+    "name": "Boat Ramp",
+    "latitude": 40.1785005,
+    "longitude": -74.4445887,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1220278983,
+    "name": "Boat Ramp",
+    "latitude": 39.7343863,
+    "longitude": -74.4911197,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "portage": "yes"
+    }
+  },
+  {
+    "id": 1242953255,
+    "name": "Boat Ramp",
+    "latitude": 40.1721706,
+    "longitude": -74.2029749,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1242953258,
+    "name": "Boat Ramp",
+    "latitude": 40.1721655,
+    "longitude": -74.2057482,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1251740518,
+    "name": "Boat Ramp",
+    "latitude": 40.6905463,
+    "longitude": -74.0471056,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1254511848,
+    "name": "Mosquito Landing Boat Ramp",
+    "latitude": 39.2953447,
+    "longitude": -74.7402403,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "name": "Mosquito Landing Boat Ramp",
+      "service": "slipway",
+      "surface": "concrete",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Cape May, NJ",
+      "tiger:name_base": "Middletown",
+      "tiger:name_type": "Rd",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1268293451,
+    "name": "Boat Ramp",
+    "latitude": 40.9525471,
+    "longitude": -74.7367123,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1282915578,
+    "name": "Boat Ramp",
+    "latitude": 40.6448682,
+    "longitude": -75.271868,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1286694841,
+    "name": "Boat Ramp",
+    "latitude": 40.22681,
+    "longitude": -74.4379512,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1298866081,
+    "name": "Boat Ramp",
+    "latitude": 41.3932376,
+    "longitude": -74.7178653,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1300771105,
+    "name": "Deep Creek Lake Boat Launch",
+    "latitude": 40.3320305,
+    "longitude": -75.4867983,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Deep Creek Lake Boat Launch"
+    }
+  },
+  {
+    "id": 1311278309,
+    "name": "Boat Ramp",
+    "latitude": 41.1929787,
+    "longitude": -73.9592779,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1311283403,
+    "name": "Boat Ramp",
+    "latitude": 41.2268584,
+    "longitude": -73.9710563,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1311616076,
+    "name": "Boat Ramp",
+    "latitude": 41.2763071,
+    "longitude": -73.9437786,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1318206965,
+    "name": "Boat Ramp",
+    "latitude": 40.542779,
+    "longitude": -74.1413525,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1318206968,
+    "name": "Boat Ramp",
+    "latitude": 40.5459388,
+    "longitude": -74.1371343,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1319101514,
+    "name": "Boat Ramp",
+    "latitude": 40.135125,
+    "longitude": -74.4576599,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1328071998,
+    "name": "Boat Ramp",
+    "latitude": 39.5973692,
+    "longitude": -74.3405236,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1328071999,
+    "name": "Boat Ramp",
+    "latitude": 39.5982713,
+    "longitude": -74.3400952,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1337596161,
+    "name": "Boat Ramp",
+    "latitude": 41.0633279,
+    "longitude": -74.4860689,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1339336646,
+    "name": "Boat Ramp",
+    "latitude": 40.1223368,
+    "longitude": -74.8037481,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1339555591,
+    "name": "Boat Ramp",
+    "latitude": 39.9502236,
+    "longitude": -74.2024848,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1345186770,
+    "name": "Boat Ramp",
+    "latitude": 39.9433606,
+    "longitude": -74.1890678,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1353265305,
+    "name": "Boat Ramp",
+    "latitude": 40.4160444,
+    "longitude": -74.0317798,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1353265306,
+    "name": "Boat Ramp",
+    "latitude": 40.4160168,
+    "longitude": -74.0316418,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1364286773,
+    "name": "Boat Ramp",
+    "latitude": 41.0039073,
+    "longitude": -74.282731,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1414548887,
+    "name": "Splitrock Boat Launch",
+    "latitude": 40.9631831,
+    "longitude": -74.4573913,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Splitrock Boat Launch",
+      "website": "https://www.njhiking.com/nj-challenging-hikes-splitrock-reservoir-loop/"
+    }
+  },
+  {
+    "id": 1415314105,
+    "name": "Boat Ramp",
+    "latitude": 39.9893984,
+    "longitude": -74.2903179,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "lit": "no",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1419441547,
+    "name": "Boat Ramp",
+    "latitude": 39.8419561,
+    "longitude": -75.1428212,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1448273292,
+    "name": "Boat Ramp",
+    "latitude": 40.5984291,
+    "longitude": -75.4473781,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1448273293,
+    "name": "Boat Ramp",
+    "latitude": 40.5991302,
+    "longitude": -75.4463911,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1455004525,
+    "name": "Boat Ramp",
+    "latitude": 40.738143,
+    "longitude": -74.3716096,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1465713814,
+    "name": "Boat Ramp",
+    "latitude": 41.3890622,
+    "longitude": -73.9540214,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1472039655,
+    "name": "Boat Ramp",
+    "latitude": 39.6657686,
+    "longitude": -74.5242944,
+    "state": "New Jersey",
+    "stateAbbr": "NJ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "sand"
+    }
+  }
+]

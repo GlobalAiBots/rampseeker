@@ -3,9 +3,11 @@
   <url><loc>https://rampseeker.com/</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
   <url><loc>https://rampseeker.com/grand-lake</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://rampseeker.com/oklahoma</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://rampseeker.com/texas</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://rampseeker.com/lakes</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://rampseeker.com/map</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://rampseeker.com/blog</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://rampseeker.com/for-businesses</loc><lastmod>2026-04-02</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://rampseeker.com/lakes/arcadia-lake</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://rampseeker.com/lakes/broken-bow-lake</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://rampseeker.com/lakes/fort-cobb-lake</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
@@ -24,6 +26,23 @@
   <url><loc>https://rampseeker.com/lakes/sardis-lake</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://rampseeker.com/lakes/skiatook-lake</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://rampseeker.com/lakes/waurika-lake</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://rampseeker.com/texas/lakes/canyon-lake</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://rampseeker.com/texas/lakes/cedar-creek-lake</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://rampseeker.com/texas/lakes/falcon-lake</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://rampseeker.com/texas/lakes/lake-amistad</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://rampseeker.com/texas/lakes/lake-buchanan</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://rampseeker.com/texas/lakes/lake-conroe</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://rampseeker.com/texas/lakes/lake-fork</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://rampseeker.com/texas/lakes/lake-livingston</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://rampseeker.com/texas/lakes/lake-ray-roberts</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://rampseeker.com/texas/lakes/lake-tawakoni</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://rampseeker.com/texas/lakes/lake-texoma</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://rampseeker.com/texas/lakes/lake-travis</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://rampseeker.com/texas/lakes/lake-whitney</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://rampseeker.com/texas/lakes/lewisville-lake</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://rampseeker.com/texas/lakes/possum-kingdom</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://rampseeker.com/texas/lakes/sam-rayburn</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://rampseeker.com/texas/lakes/toledo-bend</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://rampseeker.com/ramps/310-road-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/33-landing</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/afton-landing-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -43,6 +62,55 @@
   <url><loc>https://rampseeker.com/ramps/blackjack-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/bluestem-lake-3rd-cove-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/bluff-landing-public-use-area</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/bo2-lp1</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_10</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_11</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_12</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_13</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_14</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_15</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_17</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_18</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_19</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_20</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_21</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_22</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_23</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_25</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_28</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_35</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_37</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_38</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_39</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_45</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_47</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_49</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_51</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_52</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_54</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_57</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_58</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_60</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_63</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_64</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_66</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_71</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_76</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_77</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_78</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_79</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_82</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_83</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_84</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_85</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_86</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_88</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_91</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_92</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_94</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_98</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp--osm_99</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp-</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/boat-ramp-2</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/boat-ramp-above-wd-mayo-dam</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/boat-ramp-and-oklahoma-river-trails-access-at-15th-and-portl</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -54,6 +122,7 @@
   <url><loc>https://rampseeker.com/ramps/boat-ramp-grove</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/boat-ramp-hydro</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/boat-ramp-lake-elmer-thomas</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/boat-ramp-nowata-county</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/boat-ramp-upper-spavinaw-recreation-area</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/brooken-cove</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -69,6 +138,7 @@
   <url><loc>https://rampseeker.com/ramps/canadian-campground</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/cardinal-cove</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/carlisle-cove-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/carlton-dam</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/carlton-landing-boat-dock</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/carlton-landing-marina-store</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/carson-creek-boat-ramp-fishing-spot</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -84,6 +154,7 @@
   <url><loc>https://rampseeker.com/ramps/chicken-creek-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/chisholm-trail-ridge-park</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/claremore-lake</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/clay-bluff</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/clayton-lake-state-park</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/clear-creek-lake</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/cleora-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -144,6 +215,7 @@
   <url><loc>https://rampseeker.com/ramps/ketchum-public-fishing-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/keystone-harbor-marina</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/keystone-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/kiamichi-river-launch-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/ladybird-landing-corps-of-engineers-recreation-area</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/lake-chickasha</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/lake-eufaula-state-park</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -181,6 +253,7 @@
   <url><loc>https://rampseeker.com/ramps/mc-fadden-cove-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/miami-city-view-park</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/monkey-island-marina</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/mountain-lake-boat-launch</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/muldrow-lake-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/n-eufaula-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/narrows-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -223,6 +296,7 @@
   <url><loc>https://rampseeker.com/ramps/red-arrow-marina</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/red-oak</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/redbud-boat-launch</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/reeves-slough-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/robinson-landing-boat-dock</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/rocky-point-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/rocky-point-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -263,10 +337,621 @@
   <url><loc>https://rampseeker.com/ramps/tom-steed-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/tom-steed-reservoir</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/toppers-public-use-area</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tuff-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/turkey-creek-landing</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/twin-bridges-state-park</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/twin-coves-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/twin-points-recreation-area</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-360-bridge-boat-landing</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-airport-park-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-amberjack-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-amtrac-launching-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-arrowhead-park-slipway-no-1</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-arrowhead-park-slipway-no-2</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-austin-high-school-boat-launch</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-back-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-bacliff-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-launch-osm_5447</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-launch</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-canyon-lake-osm_1502</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-canyon-lake-osm_1516</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-canyon-lake-osm_3973</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-canyon-lake-osm_3975</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-canyon-lake</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-cedar-creek-lake</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-amistad-osm_1531</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-amistad-osm_1532</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-amistad-osm_1740</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-amistad-osm_5898</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-amistad-osm_5902</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-amistad-osm_5903</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-amistad-osm_5905</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-amistad-osm_5923</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-amistad-osm_5930</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-amistad-osm_6214</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-amistad</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-buchanan-osm_1110</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-buchanan-osm_1135</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-buchanan-osm_1223</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-buchanan-osm_1520</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-buchanan-osm_2052</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-buchanan-osm_7813</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-buchanan-osm_7817</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-buchanan</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-conroe-osm_1220</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-conroe-osm_1243</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-conroe-osm_1269</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-conroe-osm_5280</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-conroe-osm_5707</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-conroe-osm_7068</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-conroe</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-fork-reservoir-osm_1352</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-fork-reservoir-osm_1712</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-fork-reservoir-osm_5660</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-fork-reservoir-osm_5662</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-fork-reservoir-osm_6520</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-fork-reservoir-osm_6816</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-fork-reservoir</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-livingston-osm_1300</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-livingston-osm_1784</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-livingston-osm_8247</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-livingston-osm_8248</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-livingston</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-ray-roberts-osm_1533</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-ray-roberts-osm_1534</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-ray-roberts-osm_1559</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-ray-roberts-osm_1814</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-ray-roberts-osm_6752</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-ray-roberts</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-tawakoni-osm_1094</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-tawakoni-osm_1479</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-tawakoni-osm_4640</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-tawakoni-osm_6154</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-tawakoni</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-travis-osm_1087</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-travis-osm_1099</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-travis-osm_1158</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-travis-osm_2424</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-travis-osm_2433</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-travis-osm_2683</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-travis-osm_2736</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-travis-osm_2861</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-travis-osm_4770</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-travis-osm_5830</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-travis-osm_7784</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-travis</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-whitney-osm_1274</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-whitney-osm_1275</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lake-whitney</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lewisville-lake-osm_1448</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lewisville-lake-osm_3183</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lewisville-lake-osm_3593</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lewisville-lake-osm_3606</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lewisville-lake-osm_4633</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lewisville-lake-osm_4750</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lewisville-lake-osm_5301</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lewisville-lake-osm_5302</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lewisville-lake-osm_5386</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lewisville-lake-osm_5733</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lewisville-lake-osm_5872</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lewisville-lake-osm_6488</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lewisville-lake-osm_6605</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lewisville-lake-osm_6695</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lewisville-lake-osm_7931</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lewisville-lake-osm_8888</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lewisville-lake-osm_9515</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-lewisville-lake</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-possum-kingdom-lake-osm_1503</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-possum-kingdom-lake-osm_1504</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-possum-kingdom-lake-osm_1539</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-possum-kingdom-lake-osm_1654</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-possum-kingdom-lake-osm_1655</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-possum-kingdom-lake-osm_5286</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-possum-kingdom-lake</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-sam-rayburn-reservoir-osm_1284</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-sam-rayburn-reservoir-osm_9325</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-sam-rayburn-reservoir</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-at-twin-points-park</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-meadow-lake-park</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-austin-osm_1173</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-austin-osm_2061</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-austin-osm_3453</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-austin-osm_3458</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-austin-osm_4413</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-austin-osm_6946</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-austin-osm_8118</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-austin-osm_8964</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-austin</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-brownsville</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-corpus-christi-osm_6587</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-corpus-christi</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-dallas-osm_1233</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-dallas-osm_1336</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-dallas-osm_1346</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-dallas-osm_1415</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-dallas-osm_1456</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-dallas-osm_1844</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-dallas-osm_5475</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-dallas-osm_5828</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-dallas-osm_6217</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-dallas-osm_6745</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-dallas-osm_6802</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-dallas</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-del-rio</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-fort-worth-osm_1295</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-fort-worth-osm_8893</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-fort-worth</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-galveston-osm_1050</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-galveston-osm_1070</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-galveston-osm_1421</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-galveston-osm_1452</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-galveston-osm_1453</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-galveston-osm_1473</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-galveston-osm_4464</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-galveston-osm_5939</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-galveston-osm_9060</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-galveston</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-gun-barrel-city-osm_2259</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-gun-barrel-city</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-houston-osm_1200</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-houston-osm_1345</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-houston-osm_1376</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-houston-osm_1442</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-houston-osm_2302</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-houston-osm_4494</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-houston-osm_5073</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-houston-osm_7179</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-houston-osm_9461</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-houston</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-lubbock</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-mineral-wells-osm_4740</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-mineral-wells-osm_4811</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-mineral-wells</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-new-braunfels</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-san-antonio-osm_1275</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-san-antonio</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-tyler-osm_1132</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-tyler-osm_5655</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-tyler</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-waco-osm_1030</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-waco-osm_1057</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-waco-osm_1067</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-waco-osm_1127</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-waco-osm_4089</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-near-waco</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1000</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1005</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1009</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1010</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1016</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1017</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1018</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1021</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1041</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1054</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1056</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1058</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1060</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1076</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1078</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1079</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1085</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1087</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1091</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1099</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1106</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1116</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1132</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1133</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1135</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1156</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1166</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1182</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1183</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1187</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1188</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1190</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1195</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1197</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1199</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1200</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1202</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1205</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1206</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1217</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1224</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1233</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1246</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1249</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1252</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1253</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1254</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1255</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1257</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1274</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1275</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1276</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1277</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1278</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1290</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1303</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1312</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1313</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1320</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1333</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1335</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1337</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1339</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1340</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1351</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1353</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1357</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1358</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1366</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1391</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1393</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1420</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1434</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1441</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1444</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1445</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1447</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1449</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1450</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1451</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1452</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1453</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1485</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1487</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1490</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1493</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1501</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1502</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1504</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1519</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1521</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1528</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1711</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1720</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1735</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1740</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1756</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1760</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1761</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1762</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1797</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1802</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1819</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1877</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1878</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1879</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1896</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1907</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1974</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_1977</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2003</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2028</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2037</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2088</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2111</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2116</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2129</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2196</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2223</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2226</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2229</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2233</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2244</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2248</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2261</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2265</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2268</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2269</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2280</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2289</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2290</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2308</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2400</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2540</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2557</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2614</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2657</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2744</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2764</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2774</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2802</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2840</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2841</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2882</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2911</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2913</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2914</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_2955</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_3082</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_3096</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_3127</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_3147</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_3216</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_3279</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_3504</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_3523</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_3533</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_3568</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_3628</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_3643</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_3652</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_3699</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_3717</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_3890</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_3902</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4015</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4091</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4092</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4147</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4197</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4287</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4464</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4487</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4489</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4493</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4494</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4500</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4531</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4546</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4579</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4630</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4654</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4660</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4687</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4700</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4706</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4723</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4742</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4746</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4747</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4749</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4772</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4781</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4787</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_4810</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5022</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5023</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5031</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5065</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5067</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5069</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5204</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5294</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5296</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5311</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5346</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5362</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5378</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5440</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5441</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5443</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5467</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5483</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5565</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5572</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5577</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5579</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5582</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5585</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5587</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5589</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5593</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5595</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5597</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5610</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5612</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5613</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5614</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5638</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5654</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5667</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5673</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5678</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5690</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5760</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5784</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5788</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5794</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5800</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5809</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5811</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5830</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5847</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5907</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5909</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5915</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5951</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_5952</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6089</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6094</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6098</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6102</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6106</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6112</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6154</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6175</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6209</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6223</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6267</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6277</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6283</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6286</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6326</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6341</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6410</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6424</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6450</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6487</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6502</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6660</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6661</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6662</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6664</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6678</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6749</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6869</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6910</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6913</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_6917</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_7035</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_7074</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_7142</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_7174</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_7241</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_7254</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_7513</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_7630</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_7757</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_7816</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_7965</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_8010</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_8065</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_8080</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_8134</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_8203</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_8242</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_8371</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_8382</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_8402</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_8406</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_8585</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_8607</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_8610</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_8645</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_8686</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_8692</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_8782</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_8893</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_8913</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_8981</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_9110</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_9147</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_9181</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_9193</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_9196</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_9203</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_9206</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_9208</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_9214</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_9215</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_9283</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_9365</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_9374</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_9376</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_9378</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_9383</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_9421</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_9588</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_9797</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_9845</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_9901</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_9944</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_9979</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp-osm_9980</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-briarcliff-marina</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-brownsville-event-center-public-boat-ramp-osm_9700</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-brownsville-event-center-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-brownsville-sports-park-resaca-1-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-brownsville-sports-park-resaca-2-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-c3-brockdale-park-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-canyon-lake-marina</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-collier-boat-ramp-osm_3849</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-collier-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-columbus-loop-on-colorado-river-boat-launch</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-cuernavaca-boat-ramp-private</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-del-rey-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-dirt-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-east-bay-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-east-lake-pat-cleburne-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-festival-beach-boat-landing</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-fm-14-sabine-river-public-boat-ramp-txdot</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-fm-149-sabine-river-public-boat-ramp-txdot</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-fm-1794-grand-bluff-public-boat-ramp-tpwd</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-fm-1804-sabine-river-public-boat-ramp-txdot</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-fm-1911cr-789-angelina-river-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-fm-2004-boat-launch</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-fm-2517-sabine-river-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-fm-43-sabine-river-public-boat-ramp-txdot</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-galveston-boat-club</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-hamm-creek-park-boat-ramps</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-high-water</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-hugo-point-chambers-county-boat-launch</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-inks-lake-state-park-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-isla-blanca-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-jaime-j-zapata-memorial-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-jenkins-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-jims-pier-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-kayak-launch-osm_6986</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-kayak-launch-osm_9403</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-kayak-launch</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-kayakcanoe-launch</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-kayake-launch</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-koa-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-lacy-point-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-laguna-vista-recreational-association-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-laijtas-launch</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-lake-hawkins-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-lake-waxahachie-boat-ramp-osm_3529</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-lake-waxahachie-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-lone-pine-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-loose-lip-lane</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-low-water-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-lynn-creek-marina-slipway</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-magnolia-beach-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-mallard-park-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-marions-ferry-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-north-cranes-mill-mystic-shores-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-north-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-oak-point-boat-ramp-south</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-oyster-bayou-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-palm-street-pier-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-pompano-park-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-rains-county-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-ramp-2</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-ramp-5</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-ramp-7</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-ramp-a-the-point</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-rio-del-sol-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-rio-hondo-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-rogers-park-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-sh-7-neches-river-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-south-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-sunset-resort-at-medina-lake</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-tortuga-flats-bay-access</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-tx-67-sulphur-river-public-boat-ramp-txdot</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-us-271-sabine-river-public-boat-ramp-txdot</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-us-59-angelina-river-public-boat-ramp-txdot</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-us-69-sabine-river-public-boat-ramp-txdot</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-us-79-sabine-river-public-boat-ramp-txdot</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-us-84-sabine-river-public-boat-ramp-joaquin-public-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-west-aries-drive-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-west-capricorn-drive-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-west-carolyn-drive-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-west-cora-lee-drive-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-west-esperanza-street-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-west-fork-landing</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-west-gardenia-street-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-west-georgia-ruth-drive-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-west-hibiscus-street-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-west-huisache-street-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-west-jupiter-lane-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-west-lake-pat-cleburne-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-west-lantan-street-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-west-mars-lane-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-west-mesquite-street-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-west-oleander-street-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-west-polaris-drive-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-west-retama-street-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-west-saturn-lane-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-west-venus-lane-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-west-verna-jean-drive-public-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://rampseeker.com/ramps/tx-yellow-dog-sabine-river-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/vada-point</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/verdigris-river-boat-launch</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/virgil-point-campground</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -285,15 +970,6 @@
   <url><loc>https://rampseeker.com/ramps/windmill-cove-boat-ramp</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/witchita-ridge-boat-ramp-dock</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://rampseeker.com/ramps/wolf-creek-park</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://rampseeker.com/blog/best-bass-fishing-lakes-oklahoma</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://rampseeker.com/blog/oklahoma-boating-rules-2026</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://rampseeker.com/blog/how-to-launch-boat-beginner-guide</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://rampseeker.com/best</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://rampseeker.com/best/free-boat-ramps-oklahoma</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://rampseeker.com/best/boat-ramps-with-restrooms</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://rampseeker.com/best/lighted-boat-ramps</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://rampseeker.com/best/boat-ramps-with-courtesy-docks</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://rampseeker.com/best/boat-ramps-with-fuel</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/counties/bryan</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/counties/caddo</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/counties/carter</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -336,8 +1012,10 @@
   <url><loc>https://rampseeker.com/counties/washington</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/afton</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/ardmore</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/cities/austin</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/barnsdall</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/broken-bow</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/cities/brownsville</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/burbank</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/butler</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/canton</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -348,15 +1026,21 @@
   <url><loc>https://rampseeker.com/cities/comanche</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/cookson</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/copan</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/cities/corpus-christi</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/cities/dallas</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/disney</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/duncan</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/eagletown</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/edmond</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/eufaula</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/fort-cobb</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/cities/fort-worth</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/cities/galveston</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/glencoe</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/gore</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/grove</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/cities/gun-barrel-city</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/cities/houston</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/hugo</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/jay</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/kaw-city</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -365,10 +1049,12 @@
   <url><loc>https://rampseeker.com/cities/kingston</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/langley</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/lawton</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/cities/lewisville</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/longdale</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/mannford</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/mead</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/miami</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/cities/mineral-wells</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/norman</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/oklahoma-city</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/oklahoma</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -378,6 +1064,7 @@
   <url><loc>https://rampseeker.com/cities/ponca-city</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/ringold</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/salina</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/cities/san-antonio</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/sand-springs</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/shawnee</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/skiatook</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -387,20 +1074,24 @@
   <url><loc>https://rampseeker.com/cities/stillwater</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/sulphur</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/talala</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/cities/tyler</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/valliant</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/vian</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/cities/waco</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/wagoner</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/cities/waurika</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/find/afton</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/apache</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/ardmore</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/atoka</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/austin</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/barnsdall</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/bernice</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/braggs</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/bristow</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/broken-arrow</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/broken-bow</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/brownsville</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/burbank</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/butler</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/canadian</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -418,7 +1109,10 @@
   <url><loc>https://rampseeker.com/find/comanche</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/cookson</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/copan</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/corpus-christi</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/council-hill</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/dallas</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/del-rio</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/disney</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/duncan</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/eagletown</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -428,12 +1122,17 @@
   <url><loc>https://rampseeker.com/find/eufaula</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/fairland</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/fort-cobb</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/fort-worth</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/galveston</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/glencoe</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/gore</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/grant</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/grove</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/gun-barrel-city</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/hawkins</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/henryetta</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/hodgen</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/houston</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/hugo</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/hydro</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/inola</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -445,8 +1144,10 @@
   <url><loc>https://rampseeker.com/find/lane</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/langley</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/lawton</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/lewisville</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/lone-wolf</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/longdale</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/lubbock</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/madill</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/mannford</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/mcalester</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -454,9 +1155,11 @@
   <url><loc>https://rampseeker.com/find/mead</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/medicine-park</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/miami</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/mineral-wells</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/mountain-park</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/muldrow</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/muskogee</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/new-braunfels</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/newkirk</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/norman</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/nowata</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -482,6 +1185,7 @@
   <url><loc>https://rampseeker.com/find/ringold</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/rocky-point</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/salina</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/san-antonio</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/sand-springs</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/sequoyah</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/shady-grove</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -496,15 +1200,26 @@
   <url><loc>https://rampseeker.com/find/talala</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/texanna</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/tullahassee</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/tyler</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/valliant</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/verden</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/vian</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/find/waco</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/wagoner</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/waurika</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/welling</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/wewoka</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/wister</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
   <url><loc>https://rampseeker.com/find/wyandotte</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://rampseeker.com/best</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/best/free-boat-ramps-oklahoma</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/best/boat-ramps-with-restrooms</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/best/lighted-boat-ramps</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/best/boat-ramps-with-courtesy-docks</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/best/boat-ramps-with-fuel</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/blog/best-bass-fishing-lakes-oklahoma</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/blog/oklahoma-boating-rules-2026</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://rampseeker.com/blog/how-to-launch-boat-beginner-guide</loc><lastmod>2026-04-02</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://rampseeker.com/about</loc><lastmod>2026-04-02</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
   <url><loc>https://rampseeker.com/privacy</loc><lastmod>2026-04-02</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
   <url><loc>https://rampseeker.com/terms</loc><lastmod>2026-04-02</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>

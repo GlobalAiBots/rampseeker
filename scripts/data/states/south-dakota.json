@@ -1,0 +1,1312 @@
+[
+  {
+    "id": 78800805,
+    "name": "Boat Ramp",
+    "latitude": 45.5472806,
+    "longitude": -98.6192086,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 79079625,
+    "name": "Boat Ramp",
+    "latitude": 44.9176241,
+    "longitude": -97.243524,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 80023652,
+    "name": "Boat Ramp",
+    "latitude": 44.252803,
+    "longitude": -97.4225669,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 80895124,
+    "name": "Boat Ramp",
+    "latitude": 45.0195506,
+    "longitude": -100.2537729,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 81096529,
+    "name": "Mirage Public Water Access",
+    "latitude": 44.7913919,
+    "longitude": -98.0904936,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mirage Public Water Access"
+    }
+  },
+  {
+    "id": 459175381,
+    "name": "Boat Ramp",
+    "latitude": 43.3940897,
+    "longitude": -99.1201457,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 483017478,
+    "name": "Boat Ramp",
+    "latitude": 44.4427134,
+    "longitude": -100.3851695,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 483490538,
+    "name": "Boat Ramp",
+    "latitude": 44.4408077,
+    "longitude": -100.3886617,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 865293460,
+    "name": "Boat Ramp",
+    "latitude": 43.830525,
+    "longitude": -99.339429,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1012899705,
+    "name": "Boat Ramp",
+    "latitude": 44.9069985,
+    "longitude": -97.2515991,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1076554453,
+    "name": "Boat Ramp",
+    "latitude": 44.0215437,
+    "longitude": -103.788008,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1162658708,
+    "name": "Boat Ramp",
+    "latitude": 43.9679559,
+    "longitude": -103.4613932,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 2465050038,
+    "name": "Boat Ramp",
+    "latitude": 43.4427208,
+    "longitude": -96.6185836,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2515768896,
+    "name": "Boat Ramp",
+    "latitude": 44.8945998,
+    "longitude": -97.2389954,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2521469131,
+    "name": "Boat Ramp",
+    "latitude": 44.0623257,
+    "longitude": -103.498227,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 2540897023,
+    "name": "Cabela'S Boat Ramp",
+    "latitude": 43.6892458,
+    "longitude": -98.0151152,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Cabela's Boat Ramp",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2573943897,
+    "name": "Boat Ramp",
+    "latitude": 45.5323725,
+    "longitude": -98.5985301,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2573944171,
+    "name": "Boat Ramp",
+    "latitude": 45.5317993,
+    "longitude": -98.592515,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2573956523,
+    "name": "Boat Ramp",
+    "latitude": 45.5338713,
+    "longitude": -98.623956,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2587479429,
+    "name": "Boat Ramp",
+    "latitude": 43.8146355,
+    "longitude": -99.3254976,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2588639346,
+    "name": "Boat Ramp",
+    "latitude": 43.8198467,
+    "longitude": -99.3293983,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2591259556,
+    "name": "Boat Ramp",
+    "latitude": 43.8091585,
+    "longitude": -99.3581851,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2619300212,
+    "name": "Boat Ramp",
+    "latitude": 44.0594048,
+    "longitude": -103.2938521,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2968058628,
+    "name": "Boat Ramp",
+    "latitude": 44.066484,
+    "longitude": -103.5011528,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 2968058834,
+    "name": "Boat Ramp",
+    "latitude": 44.0826492,
+    "longitude": -103.5010463,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 2968063402,
+    "name": "Boat Ramp",
+    "latitude": 44.0665152,
+    "longitude": -103.5012633,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 2968063404,
+    "name": "Boat Ramp",
+    "latitude": 44.082921,
+    "longitude": -103.5449949,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "ground",
+      "trailer": "no",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 2968079535,
+    "name": "Boat Ramp",
+    "latitude": 43.9808485,
+    "longitude": -103.4746246,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 2968079537,
+    "name": "Boat Ramp",
+    "latitude": 43.9808568,
+    "longitude": -103.4745671,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 4209410155,
+    "name": "Lake Henry Boat Ramp",
+    "latitude": 44.315625,
+    "longitude": -97.4893524,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lake Henry Boat Ramp"
+    }
+  },
+  {
+    "id": 4209410157,
+    "name": "Lake Thompson Boat Ramp",
+    "latitude": 44.3052775,
+    "longitude": -97.491672,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lake Thompson Boat Ramp"
+    }
+  },
+  {
+    "id": 4790436241,
+    "name": "Boat Ramp",
+    "latitude": 44.8554737,
+    "longitude": -97.2090794,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4837968678,
+    "name": "Boat Ramp",
+    "latitude": 45.504118,
+    "longitude": -97.2830406,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4838007557,
+    "name": "Boat Ramp",
+    "latitude": 45.4868672,
+    "longitude": -97.2631115,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4839005937,
+    "name": "Boat Ramp",
+    "latitude": 45.7089504,
+    "longitude": -97.4483094,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4839299045,
+    "name": "Boat Ramp",
+    "latitude": 43.3862346,
+    "longitude": -99.1150929,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4842922574,
+    "name": "Boat Ramp",
+    "latitude": 44.318565,
+    "longitude": -97.4283688,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4844786923,
+    "name": "Boat Ramp",
+    "latitude": 45.5464829,
+    "longitude": -99.9783104,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4846750650,
+    "name": "Boat Ramp",
+    "latitude": 45.6564012,
+    "longitude": -97.5279662,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4848535238,
+    "name": "Boat Ramp",
+    "latitude": 44.6232498,
+    "longitude": -99.1325744,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4852897906,
+    "name": "Boat Ramp",
+    "latitude": 45.8830773,
+    "longitude": -100.3399472,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4865123318,
+    "name": "Boat Ramp",
+    "latitude": 43.0509067,
+    "longitude": -98.539863,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4865143655,
+    "name": "Boat Ramp",
+    "latitude": 43.0506776,
+    "longitude": -98.5844127,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4865145063,
+    "name": "Boat Ramp",
+    "latitude": 43.0861278,
+    "longitude": -98.5713057,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4865190174,
+    "name": "Boat Ramp",
+    "latitude": 43.0806509,
+    "longitude": -98.5430147,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4865307163,
+    "name": "Boat Ramp",
+    "latitude": 43.0853467,
+    "longitude": -98.6655086,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4865344361,
+    "name": "Boat Ramp",
+    "latitude": 43.1003952,
+    "longitude": -98.7621135,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4865580508,
+    "name": "Boat Ramp",
+    "latitude": 43.0543234,
+    "longitude": -98.5559781,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 4868838719,
+    "name": "Boat Ramp",
+    "latitude": 43.1445286,
+    "longitude": -98.7357617,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4870829353,
+    "name": "Boat Ramp",
+    "latitude": 43.1651026,
+    "longitude": -98.8205038,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4870866453,
+    "name": "Boat Ramp",
+    "latitude": 43.1770109,
+    "longitude": -99.2569362,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4880979322,
+    "name": "Boat Ramp",
+    "latitude": 43.4154158,
+    "longitude": -99.1689015,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4880995617,
+    "name": "Boat Ramp",
+    "latitude": 44.1737239,
+    "longitude": -99.7155178,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4881003421,
+    "name": "Boat Ramp",
+    "latitude": 44.2256765,
+    "longitude": -99.6839803,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4881006114,
+    "name": "Boat Ramp",
+    "latitude": 44.1453589,
+    "longitude": -99.7951196,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4881010606,
+    "name": "Boat Ramp",
+    "latitude": 44.2767676,
+    "longitude": -99.9253863,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4929806163,
+    "name": "Boat Ramp",
+    "latitude": 45.608016,
+    "longitude": -103.613931,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4941375710,
+    "name": "Boat Ramp",
+    "latitude": 44.3426949,
+    "longitude": -100.265801,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4941390392,
+    "name": "Boat Ramp",
+    "latitude": 44.4393512,
+    "longitude": -100.389943,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4948009703,
+    "name": "Boat Ramp",
+    "latitude": 43.7763773,
+    "longitude": -103.5128551,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5201197919,
+    "name": "Boat Ramp",
+    "latitude": 44.381742,
+    "longitude": -100.333049,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5654631487,
+    "name": "Boat Ramp",
+    "latitude": 45.0261783,
+    "longitude": -100.306904,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5798941931,
+    "name": "Boat Ramp",
+    "latitude": 44.4450205,
+    "longitude": -100.4230554,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6324166028,
+    "name": "Boat Ramp",
+    "latitude": 44.5448319,
+    "longitude": -100.4731603,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6324166039,
+    "name": "Boat Ramp",
+    "latitude": 44.5463882,
+    "longitude": -100.4887228,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6943804203,
+    "name": "Boat Ramp",
+    "latitude": 44.1794666,
+    "longitude": -99.568395,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7741106558,
+    "name": "Boat Ramp",
+    "latitude": 45.7977376,
+    "longitude": -100.3428246,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8461441071,
+    "name": "Boat Ramp",
+    "latitude": 43.3019347,
+    "longitude": -103.4402666,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8461458222,
+    "name": "Boat Ramp",
+    "latitude": 43.2884681,
+    "longitude": -103.38167,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8461458225,
+    "name": "Boat Ramp",
+    "latitude": 43.32675,
+    "longitude": -103.4447709,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8461458227,
+    "name": "Boat Ramp",
+    "latitude": 43.2995685,
+    "longitude": -103.3959126,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8461458236,
+    "name": "Boat Ramp",
+    "latitude": 43.2827903,
+    "longitude": -103.4474853,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8461458248,
+    "name": "Boat Ramp",
+    "latitude": 43.339049,
+    "longitude": -103.4245371,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8461458258,
+    "name": "Boat Ramp",
+    "latitude": 43.3345308,
+    "longitude": -103.4152084,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8461471071,
+    "name": "Boat Ramp",
+    "latitude": 44.7238614,
+    "longitude": -103.698058,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 9841089133,
+    "name": "Boat Ramp",
+    "latitude": 45.3468655,
+    "longitude": -101.0938677,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9888648519,
+    "name": "Boat Ramp",
+    "latitude": 45.431425,
+    "longitude": -97.2813073,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10276830776,
+    "name": "Boat Ramp",
+    "latitude": 44.8556624,
+    "longitude": -97.288009,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10674852061,
+    "name": "Boat Ramp",
+    "latitude": 45.6072886,
+    "longitude": -97.3156643,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10853383979,
+    "name": "Boat Ramp",
+    "latitude": 44.8943752,
+    "longitude": -97.2390705,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10853383980,
+    "name": "Boat Ramp",
+    "latitude": 44.8943706,
+    "longitude": -97.2389939,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10897756423,
+    "name": "Boat Ramp",
+    "latitude": 43.7550308,
+    "longitude": -98.0566928,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11808953765,
+    "name": "Boat Ramp",
+    "latitude": 45.5717009,
+    "longitude": -100.4845787,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11808965532,
+    "name": "Boat Ramp",
+    "latitude": 45.5770295,
+    "longitude": -100.4869606,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11834745177,
+    "name": "Boat Ramp",
+    "latitude": 43.9294191,
+    "longitude": -99.8358774,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12832787105,
+    "name": "Boat Ramp",
+    "latitude": 44.0345897,
+    "longitude": -99.4501175,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12832787139,
+    "name": "Boat Ramp",
+    "latitude": 44.0367904,
+    "longitude": -99.4387416,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13596719424,
+    "name": "Fordham Publice Water Access",
+    "latitude": 44.7731775,
+    "longitude": -97.9308001,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Fordham Publice Water Access"
+    }
+  },
+  {
+    "id": 13599829819,
+    "name": "Stink Lake Public Water Access",
+    "latitude": 44.9616653,
+    "longitude": -97.4055213,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Stink Lake Public Water Access"
+    }
+  },
+  {
+    "id": 35935253,
+    "name": "Boat Ramp",
+    "latitude": 43.2987397,
+    "longitude": -99.0014645,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "Yahoo"
+    }
+  },
+  {
+    "id": 158792783,
+    "name": "Boat Ramp",
+    "latitude": 45.4437629,
+    "longitude": -98.7356041,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 765575054,
+    "name": "Boat Ramp",
+    "latitude": 45.4551389,
+    "longitude": -97.3869641,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 765575055,
+    "name": "Boat Ramp",
+    "latitude": 45.4551954,
+    "longitude": -97.3869098,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1010161892,
+    "name": "Boat Ramp",
+    "latitude": 43.2186425,
+    "longitude": -97.1016653,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1012239243,
+    "name": "Boat Ramp",
+    "latitude": 45.8532211,
+    "longitude": -97.6201315,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1084354216,
+    "name": "Boat Ramp",
+    "latitude": 43.1425948,
+    "longitude": -97.6954544,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1123929125,
+    "name": "Boat Ramp",
+    "latitude": 44.9551996,
+    "longitude": -97.4129402,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1204746435,
+    "name": "Boat Ramp",
+    "latitude": 44.7247438,
+    "longitude": -103.7026354,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 1271656965,
+    "name": "Boat Ramp",
+    "latitude": 45.5718749,
+    "longitude": -100.4843407,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 1271656968,
+    "name": "Boat Ramp",
+    "latitude": 45.5769909,
+    "longitude": -100.4864501,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1299082839,
+    "name": "Boat Ramp",
+    "latitude": 44.8867177,
+    "longitude": -98.3528328,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1304308455,
+    "name": "Boat Ramp",
+    "latitude": 44.5573043,
+    "longitude": -100.4769256,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 1304308493,
+    "name": "Boat Ramp",
+    "latitude": 44.5462533,
+    "longitude": -100.4885578,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1318853500,
+    "name": "Boat Ramp",
+    "latitude": 43.9616487,
+    "longitude": -98.3316413,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1338012018,
+    "name": "Boat Ramp",
+    "latitude": 43.4424907,
+    "longitude": -103.5704279,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1382122473,
+    "name": "Boat Ramp",
+    "latitude": 43.0813536,
+    "longitude": -98.5566779,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1382122475,
+    "name": "Boat Ramp",
+    "latitude": 43.0813093,
+    "longitude": -98.5566736,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1467483073,
+    "name": "Boat Ramp",
+    "latitude": 44.3098186,
+    "longitude": -97.4259258,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1479424565,
+    "name": "Boat Ramp",
+    "latitude": 44.8646648,
+    "longitude": -97.2114293,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1482700955,
+    "name": "Boat Ramp",
+    "latitude": 44.8758095,
+    "longitude": -98.5322486,
+    "state": "South Dakota",
+    "stateAbbr": "SD",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  }
+]

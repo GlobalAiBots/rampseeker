@@ -6,9 +6,9 @@ import CookieConsent from "@/components/CookieConsent";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "RampSeeker | Every Boat Ramp in Oklahoma — 261+ Boat Ramps Across 19 Lakes",
+  title: "RampSeeker | Every Boat Ramp in Oklahoma & Texas — 1,300+ Boat Ramps",
   description:
-    "The most complete boat ramp directory in Oklahoma. 261+ ramps across 19 lakes including Grand Lake, Tenkiller, Eufaula, Keystone, Texoma, and more. GPS coordinates, amenities, local tips.",
+    "The most complete boat ramp directory for Oklahoma and Texas. 1,300+ ramps across 36 lakes. GPS coordinates, amenities, local tips, and directions.",
   keywords:
     "Oklahoma boat ramp, boat ramp near me Oklahoma, Grand Lake boat ramp, boat launch Oklahoma, Oklahoma boat ramp directory",
   openGraph: {
@@ -41,6 +41,8 @@ function Nav() {
           <span className="text-charcoal">Ramp<span className="text-water">Seeker</span></span>
         </Link>
         <div className="flex items-center gap-4 sm:gap-6 text-sm font-medium">
+          <Link href="/oklahoma" className="text-gray-500 hover:text-water transition hidden sm:block">Oklahoma</Link>
+          <Link href="/texas" className="text-gray-500 hover:text-water transition hidden sm:block">Texas</Link>
           <Link href="/lakes" className="text-gray-500 hover:text-water transition">Lakes</Link>
           <Link href="/map" className="text-gray-500 hover:text-water transition">Map</Link>
           <Link href="/blog" className="text-gray-500 hover:text-water transition hidden sm:block">Blog</Link>
@@ -59,7 +61,7 @@ function Footer() {
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 text-sm text-gray-500">
           <div>
             <p className="font-bold text-charcoal mb-2 font-[Cabin]">&#9875; RampSeeker</p>
-            <p>The most complete boat ramp directory in Oklahoma.</p>
+            <p>The most complete boat ramp directory for Oklahoma &amp; Texas.</p>
           </div>
           <div>
             <p className="font-bold text-charcoal mb-2">Links</p>

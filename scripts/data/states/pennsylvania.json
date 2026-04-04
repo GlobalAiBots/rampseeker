@@ -1,0 +1,3653 @@
+[
+  {
+    "id": 99305678,
+    "name": "Cussewago",
+    "latitude": 41.6492827,
+    "longitude": -80.1833371,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Cussewago"
+    }
+  },
+  {
+    "id": 112226656,
+    "name": "Boat Ramp",
+    "latitude": 40.2340939,
+    "longitude": -77.2180058,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 148684005,
+    "name": "Boat Ramp",
+    "latitude": 40.0370641,
+    "longitude": -79.0618361,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 148785056,
+    "name": "Boat Ramp",
+    "latitude": 39.7767657,
+    "longitude": -79.212911,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 200733707,
+    "name": "Boat Ramp",
+    "latitude": 40.939283,
+    "longitude": -80.1265849,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 200906738,
+    "name": "Boat Ramp",
+    "latitude": 41.310839,
+    "longitude": -80.472066,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 200934355,
+    "name": "Boat Ramp",
+    "latitude": 41.3217639,
+    "longitude": -80.4853787,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 200982163,
+    "name": "Private Boat Launch, No Kayaks Or Canoes",
+    "latitude": 41.2675262,
+    "longitude": -79.844226,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "permit",
+      "addr:city": "Kennerdell",
+      "addr:housenumber": "215",
+      "addr:postcode": "16374",
+      "addr:state": "PA",
+      "addr:street": "Main Street",
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "Private Boat Launch, No Kayaks or Canoes",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 360413641,
+    "name": "Boat Ramp",
+    "latitude": 40.3435415,
+    "longitude": -76.9274238,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "sport": "canoe"
+    }
+  },
+  {
+    "id": 360660820,
+    "name": "Boat Ramp",
+    "latitude": 40.3323914,
+    "longitude": -76.9171833,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "sport": "canoe"
+    }
+  },
+  {
+    "id": 376024698,
+    "name": "Boat Ramp",
+    "latitude": 41.5110437,
+    "longitude": -80.4721541,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 382414280,
+    "name": "Boat Ramp",
+    "latitude": 41.5451283,
+    "longitude": -80.4944383,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 412538071,
+    "name": "Boat Launch",
+    "latitude": 41.2731094,
+    "longitude": -80.4585084,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Launch"
+    }
+  },
+  {
+    "id": 476208906,
+    "name": "Howe Township Park",
+    "latitude": 40.4917186,
+    "longitude": -77.0972436,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "yes",
+      "description": "This access is owned by PA Fish and Boat Commission.\n\nNo Fishing Pier is provided.",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Howe Township Park",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 565854262,
+    "name": "Boat Ramp",
+    "latitude": 40.2925549,
+    "longitude": -78.1845483,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 595487741,
+    "name": "Boat Ramp",
+    "latitude": 40.2411444,
+    "longitude": -75.6498786,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 595488139,
+    "name": "Boat Ramp",
+    "latitude": 40.2637083,
+    "longitude": -75.778209,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 675436015,
+    "name": "Boat Ramp",
+    "latitude": 39.8894468,
+    "longitude": -76.7011996,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 676528080,
+    "name": "Boat Ramp",
+    "latitude": 40.6917553,
+    "longitude": -80.2894499,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 960486419,
+    "name": "Boat Ramp",
+    "latitude": 40.4232026,
+    "longitude": -77.0061763,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1200830537,
+    "name": "Boat Ramp",
+    "latitude": 39.7928873,
+    "longitude": -76.9125834,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1287130076,
+    "name": "Boat Ramp",
+    "latitude": 40.3092706,
+    "longitude": -75.9217832,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1289397874,
+    "name": "Boat Ramp",
+    "latitude": 40.3968673,
+    "longitude": -75.9738658,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1393835906,
+    "name": "Boat Ramp",
+    "latitude": 39.9778755,
+    "longitude": -80.0174429,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1650701678,
+    "name": "Boat Ramp",
+    "latitude": 40.1206168,
+    "longitude": -76.2138708,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1674056641,
+    "name": "Birdie'S Landing (Private)",
+    "latitude": 40.3479966,
+    "longitude": -79.8701373,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Birdie's Landing (private)"
+    }
+  },
+  {
+    "id": 1735997174,
+    "name": "Boat Ramp",
+    "latitude": 40.2477632,
+    "longitude": -80.4163478,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 1740934198,
+    "name": "Boat Ramp",
+    "latitude": 39.7151873,
+    "longitude": -79.3852557,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1752935518,
+    "name": "Boat Ramp",
+    "latitude": 39.7348115,
+    "longitude": -79.9044398,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1777696315,
+    "name": "Boat Ramp",
+    "latitude": 40.2720565,
+    "longitude": -76.9137138,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1778767374,
+    "name": "Fort Hunter Access",
+    "latitude": 40.3435183,
+    "longitude": -76.9113038,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Fort Hunter Access",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 1799112292,
+    "name": "Boat Ramp",
+    "latitude": 39.7100645,
+    "longitude": -79.8438697,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2691828554,
+    "name": "Dry Brooks Boat Launch",
+    "latitude": 40.3849662,
+    "longitude": -76.0333932,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Dry Brooks Boat Launch"
+    }
+  },
+  {
+    "id": 2942033783,
+    "name": "Boat Ramp",
+    "latitude": 40.3935205,
+    "longitude": -77.8753085,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2974988626,
+    "name": "Boat Ramp",
+    "latitude": 41.3815819,
+    "longitude": -79.8199729,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "parking": "yes",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 3004112058,
+    "name": "Boat Ramp",
+    "latitude": 41.9364972,
+    "longitude": -79.9870359,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3066783258,
+    "name": "Boat Ramp",
+    "latitude": 39.7162423,
+    "longitude": -76.7876756,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3178026289,
+    "name": "Boat Ramp",
+    "latitude": 40.2087046,
+    "longitude": -76.3171998,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3279720279,
+    "name": "Boat Ramp",
+    "latitude": 40.0333481,
+    "longitude": -79.8774006,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3358883872,
+    "name": "Boat Ramp",
+    "latitude": 40.9487996,
+    "longitude": -80.1077762,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3358883903,
+    "name": "Boat Ramp",
+    "latitude": 40.9488265,
+    "longitude": -80.1076555,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3362875265,
+    "name": "Boat Ramp",
+    "latitude": 40.9405916,
+    "longitude": -80.0911503,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3362879115,
+    "name": "Boat Ramp",
+    "latitude": 40.9519571,
+    "longitude": -80.0406644,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3365193545,
+    "name": "Boat Ramp",
+    "latitude": 40.9674693,
+    "longitude": -80.1238869,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3365370108,
+    "name": "Boat Ramp",
+    "latitude": 40.947222,
+    "longitude": -80.0401027,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3371501879,
+    "name": "Boat Ramp",
+    "latitude": 40.9580277,
+    "longitude": -80.0701293,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3374275149,
+    "name": "Boat Ramp",
+    "latitude": 40.9612472,
+    "longitude": -80.1002595,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "lanes": "2",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 3374275701,
+    "name": "Boat Ramp",
+    "latitude": 40.9607753,
+    "longitude": -80.0982558,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3392200273,
+    "name": "Boat Ramp",
+    "latitude": 40.9236741,
+    "longitude": -80.0690969,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3689951140,
+    "name": "Boat Ramp",
+    "latitude": 40.4373993,
+    "longitude": -80.0042991,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3721761097,
+    "name": "Boat Ramp",
+    "latitude": 41.3440383,
+    "longitude": -80.1064392,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3721761526,
+    "name": "Launch #1",
+    "latitude": 41.3825488,
+    "longitude": -80.0937536,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Launch #1"
+    }
+  },
+  {
+    "id": 3721761556,
+    "name": "Launch #2",
+    "latitude": 41.4055938,
+    "longitude": -80.1236157,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Launch #2"
+    }
+  },
+  {
+    "id": 3727949599,
+    "name": "Boat Ramp",
+    "latitude": 41.6946742,
+    "longitude": -80.0944904,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3730949577,
+    "name": "Boat Ramp",
+    "latitude": 41.4190895,
+    "longitude": -80.1487586,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3730949596,
+    "name": "Boat Launch #3",
+    "latitude": 41.4255027,
+    "longitude": -80.1511713,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Launch #3"
+    }
+  },
+  {
+    "id": 3731021904,
+    "name": "Boat Launch #4",
+    "latitude": 41.4167911,
+    "longitude": -80.1298559,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Launch #4"
+    }
+  },
+  {
+    "id": 3731036456,
+    "name": "Boat Ramp",
+    "latitude": 41.4307621,
+    "longitude": -80.1681443,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "slipway": "electric;kayak;canoe"
+    }
+  },
+  {
+    "id": 3731036457,
+    "name": "Boat Ramp",
+    "latitude": 41.4460583,
+    "longitude": -80.1806663,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "slipway": "electric;kayak;canoe"
+    }
+  },
+  {
+    "id": 3731036458,
+    "name": "Boat Ramp",
+    "latitude": 41.4461894,
+    "longitude": -80.1790483,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "slipway": "electric;canoe;kayak"
+    }
+  },
+  {
+    "id": 3731613589,
+    "name": "Boat Ramp",
+    "latitude": 41.6577421,
+    "longitude": -80.4628962,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3731624062,
+    "name": "Alcatraz",
+    "latitude": 41.6680907,
+    "longitude": -80.477788,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "mooring": "yes",
+      "name": "Alcatraz"
+    }
+  },
+  {
+    "id": 3812138448,
+    "name": "Middletown Boat Launch",
+    "latitude": 40.1859514,
+    "longitude": -76.7330151,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Middletown Boat Launch",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 3812680063,
+    "name": "Highspire Boat Landing",
+    "latitude": 40.2048102,
+    "longitude": -76.788094,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "customers",
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "Highspire boat landing"
+    }
+  },
+  {
+    "id": 3813071258,
+    "name": "Boat Ramp / Riverside Park",
+    "latitude": 40.3940367,
+    "longitude": -77.938411,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "addr:city": "Mapleton",
+      "addr:housenumber": "13410",
+      "addr:postcode": "17052",
+      "addr:street": "Oriskany Road",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Boat Ramp / Riverside Park",
+      "website": "https://www.mapleton-pa.com/"
+    }
+  },
+  {
+    "id": 3842063315,
+    "name": "Boat Ramp",
+    "latitude": 40.5157116,
+    "longitude": -79.8489727,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3914824461,
+    "name": "Public Boat Launch Ramp",
+    "latitude": 40.312074,
+    "longitude": -79.8289473,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Public Boat Launch Ramp"
+    }
+  },
+  {
+    "id": 4113147721,
+    "name": "Boat Ramp",
+    "latitude": 40.0306836,
+    "longitude": -76.5091231,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4162131962,
+    "name": "Boat Ramp",
+    "latitude": 39.7118697,
+    "longitude": -78.6419883,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4208105720,
+    "name": "Boat Ramp",
+    "latitude": 40.2957271,
+    "longitude": -78.1805405,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4244740429,
+    "name": "Boat Ramp",
+    "latitude": 40.2403493,
+    "longitude": -79.9370892,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4294819370,
+    "name": "Boat Ramp",
+    "latitude": 40.268848,
+    "longitude": -76.2353183,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4380745520,
+    "name": "Boat Ramp",
+    "latitude": 40.1784125,
+    "longitude": -79.7776085,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4576356812,
+    "name": "Boat Ramp",
+    "latitude": 40.204102,
+    "longitude": -76.3095326,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4638274474,
+    "name": "Colvin Area Boat Launch",
+    "latitude": 40.0393,
+    "longitude": -78.6445653,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Colvin Area Boat Launch"
+    }
+  },
+  {
+    "id": 4900716022,
+    "name": "Fisherman'S Cove Boat Launch",
+    "latitude": 41.3214332,
+    "longitude": -79.8495747,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Fisherman's Cove Boat Launch"
+    }
+  },
+  {
+    "id": 4960287291,
+    "name": "Boat Ramp",
+    "latitude": 41.3098302,
+    "longitude": -80.4768562,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4960378197,
+    "name": "Clark Recreation Area Boat Ramp",
+    "latitude": 41.2861829,
+    "longitude": -80.4274356,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Clark Recreation Area Boat Ramp"
+    }
+  },
+  {
+    "id": 4960378207,
+    "name": "Boat Ramp",
+    "latitude": 41.2878783,
+    "longitude": -80.4228133,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4960378215,
+    "name": "Boat Ramp",
+    "latitude": 41.2870636,
+    "longitude": -80.4246975,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4960396567,
+    "name": "Boat Ramp",
+    "latitude": 41.2945931,
+    "longitude": -80.4324305,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4962956640,
+    "name": "Boat Ramp",
+    "latitude": 40.3949341,
+    "longitude": -79.8665005,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5019247262,
+    "name": "Canoe Launch",
+    "latitude": 41.4636939,
+    "longitude": -80.0012652,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Canoe Launch"
+    }
+  },
+  {
+    "id": 5296415897,
+    "name": "Boat Ramp",
+    "latitude": 39.9358029,
+    "longitude": -77.4494031,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5328095471,
+    "name": "Boat Ramp",
+    "latitude": 40.1759084,
+    "longitude": -76.7252418,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5334168456,
+    "name": "Boat Ramp",
+    "latitude": 40.9467496,
+    "longitude": -80.0913907,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5369190443,
+    "name": "Harmony Canoe & Kayak Launch",
+    "latitude": 40.802704,
+    "longitude": -80.1319873,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "addr:city": "Harmony",
+      "addr:housenumber": "104",
+      "addr:postcode": "16037",
+      "addr:state": "PA",
+      "addr:street": "Jackson Street",
+      "leisure": "slipway",
+      "name": "Harmony Canoe & Kayak Launch"
+    }
+  },
+  {
+    "id": 5380713723,
+    "name": "Boat Ramp",
+    "latitude": 40.9519049,
+    "longitude": -80.0407586,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5380713724,
+    "name": "Boat Ramp",
+    "latitude": 40.9519877,
+    "longitude": -80.0405613,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5509534949,
+    "name": "Boat Ramp",
+    "latitude": 40.260992,
+    "longitude": -77.0415046,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5521422616,
+    "name": "Boat Ramp",
+    "latitude": 40.2708595,
+    "longitude": -76.9516707,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5529424332,
+    "name": "Lake Canadohta Boat Ramp",
+    "latitude": 41.8146252,
+    "longitude": -79.8407376,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lake Canadohta Boat Ramp"
+    }
+  },
+  {
+    "id": 5529600162,
+    "name": "Boat Ramp",
+    "latitude": 41.9132813,
+    "longitude": -79.8141149,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "description": "Union City Dam Boat Launch",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5578942377,
+    "name": "Boat Ramp",
+    "latitude": 40.0955711,
+    "longitude": -79.7434768,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5609619654,
+    "name": "Canoe / Kayak Launch",
+    "latitude": 40.2361396,
+    "longitude": -77.2804972,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "canoe": "designated",
+      "leisure": "slipway",
+      "name": "Canoe / kayak launch"
+    }
+  },
+  {
+    "id": 5737573015,
+    "name": "Boat Ramp",
+    "latitude": 40.4109228,
+    "longitude": -78.6881074,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5807307564,
+    "name": "Boat Ramp",
+    "latitude": 39.8103367,
+    "longitude": -76.0604136,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5904004766,
+    "name": "Boat Ramp",
+    "latitude": 40.4425649,
+    "longitude": -78.0390278,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5904011639,
+    "name": "Boat Ramp",
+    "latitude": 40.375442,
+    "longitude": -78.1617365,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5904012868,
+    "name": "Boat Ramp",
+    "latitude": 40.3002441,
+    "longitude": -78.207975,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5904022923,
+    "name": "Boat Ramp",
+    "latitude": 40.2446303,
+    "longitude": -78.232361,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5904392636,
+    "name": "Boat Ramp",
+    "latitude": 40.2523954,
+    "longitude": -76.8849055,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5904393220,
+    "name": "Boat Ramp",
+    "latitude": 40.2297531,
+    "longitude": -76.8644941,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5904400589,
+    "name": "Boat Ramp",
+    "latitude": 40.1514983,
+    "longitude": -76.7476279,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6066597922,
+    "name": "New Market Access",
+    "latitude": 40.2229854,
+    "longitude": -76.8459234,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "yes",
+      "alt_name": "Bob McCollum Park Access",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "New Market Access"
+    }
+  },
+  {
+    "id": 6287404562,
+    "name": "Lower Allen Community Park Access",
+    "latitude": 40.1724365,
+    "longitude": -76.9137467,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Lower Allen Community Park Access",
+      "parking": "yes",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 6376856039,
+    "name": "Swatara Creek Park Access",
+    "latitude": 40.2874456,
+    "longitude": -76.6780814,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Swatara Creek Park Access"
+    }
+  },
+  {
+    "id": 6383809498,
+    "name": "Boat Ramp",
+    "latitude": 40.2118989,
+    "longitude": -76.9065926,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6437207285,
+    "name": "Point Boat Launch",
+    "latitude": 40.4555577,
+    "longitude": -77.9786154,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Point Boat Launch"
+    }
+  },
+  {
+    "id": 6461549903,
+    "name": "Boat Ramp",
+    "latitude": 40.2707974,
+    "longitude": -76.7070833,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6504642627,
+    "name": "Boat Ramp",
+    "latitude": 40.2081468,
+    "longitude": -76.7997087,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6509720240,
+    "name": "Tuttle Point Boat Launch",
+    "latitude": 41.6448295,
+    "longitude": -80.4891227,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Tuttle Point Boat Launch",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 6595153554,
+    "name": "Boat Ramp",
+    "latitude": 40.4325911,
+    "longitude": -79.9751431,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6764644456,
+    "name": "Boat Ramp",
+    "latitude": 40.0368058,
+    "longitude": -78.6335508,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6764644458,
+    "name": "Boat Ramp",
+    "latitude": 40.0296447,
+    "longitude": -78.6406364,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6775895787,
+    "name": "Boat Ramp",
+    "latitude": 40.3158757,
+    "longitude": -78.9137483,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6824310596,
+    "name": "Main Boat Launch",
+    "latitude": 39.7941523,
+    "longitude": -76.8954111,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "description": "Main Launch Ramp",
+      "leisure": "slipway",
+      "name": "Main Boat Launch",
+      "operator": "Codorus State Park"
+    }
+  },
+  {
+    "id": 6927499404,
+    "name": "Boat Ramp",
+    "latitude": 40.2483115,
+    "longitude": -75.7158183,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6935381987,
+    "name": "State Hill Boat Launch",
+    "latitude": 40.3702135,
+    "longitude": -76.0445828,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "State Hill Boat Launch"
+    }
+  },
+  {
+    "id": 6935381989,
+    "name": "Sheidy Boat Launch",
+    "latitude": 40.4118134,
+    "longitude": -76.0882256,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Sheidy Boat Launch"
+    }
+  },
+  {
+    "id": 6935382014,
+    "name": "Boat Ramp",
+    "latitude": 40.4118527,
+    "longitude": -76.0879415,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7234066695,
+    "name": "Boat Ramp",
+    "latitude": 40.1254551,
+    "longitude": -79.5255052,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7557408854,
+    "name": "Boat Ramp",
+    "latitude": 41.4389554,
+    "longitude": -79.9559791,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "surface": "dirt"
+    }
+  },
+  {
+    "id": 7653063466,
+    "name": "Boat Ramp",
+    "latitude": 39.7114381,
+    "longitude": -78.644774,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7742917740,
+    "name": "Boat Ramp",
+    "latitude": 40.0403942,
+    "longitude": -79.7242171,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7778220697,
+    "name": "Boat Ramp",
+    "latitude": 39.798641,
+    "longitude": -76.3058166,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7778221008,
+    "name": "Boat Ramp",
+    "latitude": 39.7672736,
+    "longitude": -76.2723764,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7779466905,
+    "name": "Boat Ramp",
+    "latitude": 40.0796289,
+    "longitude": -76.88107,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7805196765,
+    "name": "Boat Ramp",
+    "latitude": 41.1117804,
+    "longitude": -80.4367855,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "lanes": "1",
+      "leisure": "slipway",
+      "surface": "grass"
+    }
+  },
+  {
+    "id": 7837651179,
+    "name": "Boat Ramp",
+    "latitude": 41.6212279,
+    "longitude": -79.9171945,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "ground"
+    }
+  },
+  {
+    "id": 7903707480,
+    "name": "Boat Ramp",
+    "latitude": 40.0827191,
+    "longitude": -76.8837651,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7903707482,
+    "name": "Boat Ramp",
+    "latitude": 40.0686832,
+    "longitude": -76.908355,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7905416053,
+    "name": "Boat Ramp",
+    "latitude": 40.0649596,
+    "longitude": -76.8973559,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7905649139,
+    "name": "Boat Ramp",
+    "latitude": 40.209579,
+    "longitude": -75.7967631,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7905659573,
+    "name": "Boat Ramp",
+    "latitude": 40.0662203,
+    "longitude": -75.7210324,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7905659578,
+    "name": "Boat Ramp",
+    "latitude": 40.0645682,
+    "longitude": -75.7291622,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7905659580,
+    "name": "Boat Ramp",
+    "latitude": 40.0649791,
+    "longitude": -75.7293727,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7905866293,
+    "name": "Boat Ramp",
+    "latitude": 39.7917946,
+    "longitude": -76.9006392,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7905979994,
+    "name": "Boat Ramp",
+    "latitude": 39.7970296,
+    "longitude": -76.9105367,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7905979996,
+    "name": "Boat Ramp",
+    "latitude": 39.7973506,
+    "longitude": -76.9104886,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7905980002,
+    "name": "Boat Ramp",
+    "latitude": 39.8032732,
+    "longitude": -76.9069314,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8147919062,
+    "name": "Boat Ramp",
+    "latitude": 40.0585955,
+    "longitude": -76.6115109,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8207653728,
+    "name": "Boat Ramp",
+    "latitude": 40.2293879,
+    "longitude": -77.2789152,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8258163631,
+    "name": "Boat Ramp",
+    "latitude": 40.4552553,
+    "longitude": -77.1751069,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8279728887,
+    "name": "Boat Ramp",
+    "latitude": 40.0209429,
+    "longitude": -79.9168579,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8279728897,
+    "name": "Boat Ramp",
+    "latitude": 40.0035059,
+    "longitude": -79.9943463,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8279739217,
+    "name": "Boat Ramp",
+    "latitude": 39.980992,
+    "longitude": -80.0132396,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8279739218,
+    "name": "Boat Ramp",
+    "latitude": 39.9530924,
+    "longitude": -80.0048498,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8279739219,
+    "name": "Boat Ramp",
+    "latitude": 39.9310783,
+    "longitude": -79.9343855,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8279739221,
+    "name": "Boat Ramp",
+    "latitude": 39.9838241,
+    "longitude": -80.007843,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8279739223,
+    "name": "Boat Ramp",
+    "latitude": 39.9318578,
+    "longitude": -79.935107,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8279739226,
+    "name": "Boat Ramp",
+    "latitude": 39.9331762,
+    "longitude": -79.936322,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8279739227,
+    "name": "Boat Ramp",
+    "latitude": 39.9500061,
+    "longitude": -79.9535928,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8279739228,
+    "name": "Boat Ramp",
+    "latitude": 39.8961642,
+    "longitude": -79.9237187,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8376177240,
+    "name": "Boat Ramp",
+    "latitude": 40.2236109,
+    "longitude": -75.6152171,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8415189892,
+    "name": "Kayak Launch",
+    "latitude": 40.4195335,
+    "longitude": -76.1053324,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kayak Launch"
+    }
+  },
+  {
+    "id": 8668301261,
+    "name": "Boat Ramp",
+    "latitude": 39.9661568,
+    "longitude": -78.4950992,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8700735163,
+    "name": "Boat Ramp",
+    "latitude": 40.169087,
+    "longitude": -76.7237307,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 8786599871,
+    "name": "Corbin'S Island Boat Launch",
+    "latitude": 40.4289141,
+    "longitude": -77.9897857,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Corbin's Island Boat Launch"
+    }
+  },
+  {
+    "id": 8814948510,
+    "name": "Boat Ramp",
+    "latitude": 40.0451271,
+    "longitude": -79.6563127,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8843432150,
+    "name": "PFBC Glenfield Launch Ramp",
+    "latitude": 40.5142299,
+    "longitude": -80.1203032,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "PFBC Glenfield Launch Ramp"
+    }
+  },
+  {
+    "id": 8846878713,
+    "name": "Big Bend Boat Launch",
+    "latitude": 41.2848666,
+    "longitude": -80.3206897,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Big Bend Boat Launch"
+    }
+  },
+  {
+    "id": 8873841030,
+    "name": "Boat Ramp",
+    "latitude": 40.3515436,
+    "longitude": -76.9306886,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9035645777,
+    "name": "Boat Ramp",
+    "latitude": 39.7494227,
+    "longitude": -79.3924273,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9114433872,
+    "name": "Boat Ramp",
+    "latitude": 40.2892923,
+    "longitude": -75.8677847,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9178129796,
+    "name": "Boat Ramp",
+    "latitude": 40.9691613,
+    "longitude": -80.0227847,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9548470202,
+    "name": "Boat Ramp",
+    "latitude": 40.1480962,
+    "longitude": -78.9676101,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9548481867,
+    "name": "Boat Ramp",
+    "latitude": 40.1763196,
+    "longitude": -78.9592633,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9625015599,
+    "name": "Canoe Launch",
+    "latitude": 41.3537857,
+    "longitude": -80.3979022,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe Launch"
+    }
+  },
+  {
+    "id": 9741837081,
+    "name": "Boat Ramp",
+    "latitude": 40.2564194,
+    "longitude": -80.4006476,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 9909632519,
+    "name": "Boat Ramp",
+    "latitude": 40.482499,
+    "longitude": -78.0120575,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "parking": "yes"
+    }
+  },
+  {
+    "id": 9941708882,
+    "name": "Boat Ramp",
+    "latitude": 40.0491664,
+    "longitude": -78.8560154,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9941721867,
+    "name": "Boat Ramp",
+    "latitude": 40.029466,
+    "longitude": -78.8703892,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9983542393,
+    "name": "Boat Ramp",
+    "latitude": 40.0501166,
+    "longitude": -78.8734687,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "PEMA Orthos 2017-19",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 10154509556,
+    "name": "Boat Ramp",
+    "latitude": 40.2580932,
+    "longitude": -76.9017474,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 10197829490,
+    "name": "Boat Ramp",
+    "latitude": 39.9257006,
+    "longitude": -79.8007667,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10229529689,
+    "name": "Boat Ramp",
+    "latitude": 40.1135899,
+    "longitude": -79.760631,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10261146469,
+    "name": "Boat Ramp",
+    "latitude": 39.8128971,
+    "longitude": -77.1888965,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10274757735,
+    "name": "Boat Ramp",
+    "latitude": 41.6516346,
+    "longitude": -80.1590964,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10839828194,
+    "name": "Boat Ramp",
+    "latitude": 40.1163144,
+    "longitude": -79.5334135,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10839828195,
+    "name": "Boat Ramp",
+    "latitude": 40.1137852,
+    "longitude": -79.5277515,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10853992252,
+    "name": "Boat Ramp",
+    "latitude": 39.9961748,
+    "longitude": -77.9275403,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10853992255,
+    "name": "Boat Ramp",
+    "latitude": 39.9954679,
+    "longitude": -77.9279014,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10956368797,
+    "name": "Kayak And Canoe Launch Point",
+    "latitude": 41.2635181,
+    "longitude": -79.8383854,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Kennerdell",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Kayak and Canoe Launch Point"
+    }
+  },
+  {
+    "id": 10959593682,
+    "name": "Boat Ramp",
+    "latitude": 41.4981443,
+    "longitude": -80.4590638,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10998567057,
+    "name": "Boat Ramp",
+    "latitude": 41.6095434,
+    "longitude": -80.1054068,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11011129030,
+    "name": "Boat Ramp",
+    "latitude": 41.6294332,
+    "longitude": -80.1593143,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "ground"
+    }
+  },
+  {
+    "id": 11152223571,
+    "name": "Boat Ramp",
+    "latitude": 41.5602274,
+    "longitude": -80.2000027,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11327858491,
+    "name": "West Middlesex Boat Launch",
+    "latitude": 41.1722675,
+    "longitude": -80.4595327,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "West Middlesex Boat Launch"
+    }
+  },
+  {
+    "id": 11327858496,
+    "name": "Boat Ramp",
+    "latitude": 41.1718936,
+    "longitude": -80.459047,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11362282602,
+    "name": "Boat Ramp",
+    "latitude": 41.5184061,
+    "longitude": -80.4828648,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11374089584,
+    "name": "York Haven Dam Portage Takeout",
+    "latitude": 40.1152535,
+    "longitude": -76.7142941,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "private",
+      "canoe": "permit",
+      "description": "Call (717) 266-9571 in advance to portage details.",
+      "leisure": "slipway",
+      "name": "York Haven Dam Portage Takeout",
+      "phone": "+1-717-266-9571"
+    }
+  },
+  {
+    "id": 11374217142,
+    "name": "Pequea Access",
+    "latitude": 39.887981,
+    "longitude": -76.3667365,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Pequea Access"
+    }
+  },
+  {
+    "id": 11374217154,
+    "name": "Boat Ramp",
+    "latitude": 39.8885247,
+    "longitude": -76.3673579,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11374217160,
+    "name": "Boat Ramp",
+    "latitude": 39.8873084,
+    "longitude": -76.3657986,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11404907562,
+    "name": "Boat Ramp",
+    "latitude": 40.1363612,
+    "longitude": -79.8921396,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11405348746,
+    "name": "Boat Ramp",
+    "latitude": 41.2934768,
+    "longitude": -80.4090815,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11667158388,
+    "name": "Boat Ramp",
+    "latitude": 39.7583801,
+    "longitude": -76.2330337,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11667158427,
+    "name": "Boat Ramp",
+    "latitude": 39.7669792,
+    "longitude": -76.2720051,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11879575706,
+    "name": "Boat Ramp",
+    "latitude": 41.6370779,
+    "longitude": -80.161874,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 11935926017,
+    "name": "Boat Ramp",
+    "latitude": 40.3996458,
+    "longitude": -77.0169149,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11950086426,
+    "name": "Cambridge Landing",
+    "latitude": 41.805395,
+    "longitude": -80.0578826,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Cambridge Landing",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 11992952119,
+    "name": "Shaws Landing Boat Launch",
+    "latitude": 41.5406947,
+    "longitude": -80.1039567,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Shaws Landing Boat Launch"
+    }
+  },
+  {
+    "id": 12049694193,
+    "name": "Boat Ramp",
+    "latitude": 40.2114173,
+    "longitude": -76.3191718,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12109325036,
+    "name": "Marsh Creek West Boat Launch",
+    "latitude": 40.0690028,
+    "longitude": -75.7299109,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Marsh Creek West Boat Launch",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 12148398370,
+    "name": "Boat Ramp",
+    "latitude": 41.2850792,
+    "longitude": -80.3206456,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12154241223,
+    "name": "Boat Ramp",
+    "latitude": 40.5697989,
+    "longitude": -80.2236396,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12228216395,
+    "name": "Boat Ramp",
+    "latitude": 40.3384097,
+    "longitude": -80.112678,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12272006698,
+    "name": "Boat Ramp",
+    "latitude": 41.3227998,
+    "longitude": -80.3440658,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12755191115,
+    "name": "New Cumberland Borough Park Access",
+    "latitude": 40.2184537,
+    "longitude": -76.8646362,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "canoe": "designated",
+      "leisure": "slipway",
+      "name": "New Cumberland Borough Park Access",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12772056451,
+    "name": "Frankstown Canoe Launch",
+    "latitude": 40.4433689,
+    "longitude": -78.3542202,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Frankstown Canoe Launch"
+    }
+  },
+  {
+    "id": 12855419311,
+    "name": "Boat Ramp",
+    "latitude": 39.796742,
+    "longitude": -79.3654816,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12855419387,
+    "name": "Boat Ramp",
+    "latitude": 39.74949,
+    "longitude": -79.4143783,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13009207426,
+    "name": "Boat Ramp",
+    "latitude": 40.0827877,
+    "longitude": -76.8838494,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13086228753,
+    "name": "Boat Ramp",
+    "latitude": 39.9821517,
+    "longitude": -76.4647656,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "PEMA orthos 2021-23",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 13099500065,
+    "name": "Boat Ramp",
+    "latitude": 40.1994775,
+    "longitude": -75.7892059,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13321664998,
+    "name": "Boat Ramp",
+    "latitude": 40.256512,
+    "longitude": -77.0187907,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 214556402,
+    "name": "Boat Ramp",
+    "latitude": 40.4693874,
+    "longitude": -76.9492955,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Perry, PA",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 234968517,
+    "name": "Boat Ramp",
+    "latitude": 40.5342739,
+    "longitude": -79.8423085,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "permit",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 329240784,
+    "name": "Boat Ramp",
+    "latitude": 40.4855721,
+    "longitude": -79.8717395,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 357564991,
+    "name": "Boat Ramp",
+    "latitude": 40.4971582,
+    "longitude": -79.851827,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 364966872,
+    "name": "Boat Ramp",
+    "latitude": 40.4374113,
+    "longitude": -80.0042911,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "note": "ducky tour boats use this ramp; it may not be usable by normal boats/vehicles.",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 375105314,
+    "name": "Boat Ramp",
+    "latitude": 40.4931864,
+    "longitude": -79.9293983,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 375105317,
+    "name": "Boat Ramp",
+    "latitude": 40.4930321,
+    "longitude": -79.9277699,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "bing",
+      "source:geometry": "mapbox"
+    }
+  },
+  {
+    "id": 386580720,
+    "name": "Boat Ramp",
+    "latitude": 40.5031185,
+    "longitude": -80.389812,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 386580721,
+    "name": "Boat Ramp",
+    "latitude": 40.5031596,
+    "longitude": -80.3895718,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 386701498,
+    "name": "Boat Ramp",
+    "latitude": 40.5089889,
+    "longitude": -80.3881798,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 440348633,
+    "name": "Boat Ramp",
+    "latitude": 40.1783245,
+    "longitude": -79.777694,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 443480304,
+    "name": "Boat Ramp",
+    "latitude": 40.2733924,
+    "longitude": -79.8880418,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 443481241,
+    "name": "Public Boat Launch (Pa. Fish And Boat Commission)",
+    "latitude": 40.3523073,
+    "longitude": -79.8712277,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Public Boat Launch (Pa. Fish and Boat Commission)"
+    }
+  },
+  {
+    "id": 451824307,
+    "name": "Boat Ramp",
+    "latitude": 40.4150238,
+    "longitude": -79.9153121,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "USGS imagery"
+    }
+  },
+  {
+    "id": 451824308,
+    "name": "Boat Ramp",
+    "latitude": 40.414981,
+    "longitude": -79.9152946,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 506585927,
+    "name": "Braddock Public Ramp",
+    "latitude": 40.3950459,
+    "longitude": -79.8663696,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Braddock Public Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 508799506,
+    "name": "Boat Ramp",
+    "latitude": 40.3119331,
+    "longitude": -78.1724442,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 516441808,
+    "name": "Boat Ramp",
+    "latitude": 40.465939,
+    "longitude": -80.0526423,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 548224919,
+    "name": "Boat Ramp",
+    "latitude": 39.9357562,
+    "longitude": -77.4493641,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 667066864,
+    "name": "Boat Ramp",
+    "latitude": 39.7545523,
+    "longitude": -79.395427,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "permit",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 681682078,
+    "name": "Acme Dam Boat Launch",
+    "latitude": 40.1189236,
+    "longitude": -79.4267122,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Acme Dam Boat Launch"
+    }
+  },
+  {
+    "id": 702303074,
+    "name": "Boat Ramp",
+    "latitude": 40.4325385,
+    "longitude": -79.9751424,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "mapbox"
+    }
+  },
+  {
+    "id": 776654311,
+    "name": "Boat Ramp",
+    "latitude": 40.2705742,
+    "longitude": -79.8910447,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 800048062,
+    "name": "Boat Ramp",
+    "latitude": 41.8069751,
+    "longitude": -80.0435681,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 819991360,
+    "name": "Boat Ramp",
+    "latitude": 40.2293908,
+    "longitude": -77.2788717,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 829075678,
+    "name": "Boat Ramp",
+    "latitude": 40.533729,
+    "longitude": -80.1852539,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source:geometry": "esri imagery"
+    }
+  },
+  {
+    "id": 833353869,
+    "name": "Boat Launch No. 3",
+    "latitude": 40.0796189,
+    "longitude": -76.8810028,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Boat Launch No. 3",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 833554506,
+    "name": "Boat Ramp",
+    "latitude": 40.0551354,
+    "longitude": -76.5507717,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 833554513,
+    "name": "Boat Ramp",
+    "latitude": 40.1190058,
+    "longitude": -76.709564,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 847014079,
+    "name": "Boat Launch No. 2",
+    "latitude": 40.0827392,
+    "longitude": -76.8837372,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Boat Launch No. 2",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 847014081,
+    "name": "Boat Launch No. 1",
+    "latitude": 40.0686088,
+    "longitude": -76.9084001,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Boat Launch No. 1",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 847191429,
+    "name": "Boat Ramp",
+    "latitude": 40.0649451,
+    "longitude": -76.8973286,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 847232140,
+    "name": "Boat Ramp",
+    "latitude": 39.7917886,
+    "longitude": -76.9006609,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 847248090,
+    "name": "Boat Ramp",
+    "latitude": 39.7970325,
+    "longitude": -76.9105475,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 847248091,
+    "name": "Boat Ramp",
+    "latitude": 39.7973374,
+    "longitude": -76.9105136,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 847248094,
+    "name": "Boat Ramp",
+    "latitude": 39.8033037,
+    "longitude": -76.9069096,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 888240214,
+    "name": "Boat Ramp",
+    "latitude": 40.4553092,
+    "longitude": -77.1751235,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 934857335,
+    "name": "Boat Ramp",
+    "latitude": 40.3293342,
+    "longitude": -76.9006575,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "no",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 955506404,
+    "name": "Boat Ramp",
+    "latitude": 40.5142905,
+    "longitude": -80.1202789,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "permit",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1054312609,
+    "name": "Boat Ramp",
+    "latitude": 39.9897336,
+    "longitude": -78.4745703,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1107090414,
+    "name": "Boat Ramp",
+    "latitude": 40.1134554,
+    "longitude": -79.7609331,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1109083731,
+    "name": "Boat Ramp",
+    "latitude": 39.9258894,
+    "longitude": -79.8006572,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1109127011,
+    "name": "Boat Ramp",
+    "latitude": 39.9222351,
+    "longitude": -79.8018178,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1110076757,
+    "name": "Boat Ramp",
+    "latitude": 40.1139017,
+    "longitude": -79.5273643,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1110076767,
+    "name": "Boat Ramp",
+    "latitude": 40.1164066,
+    "longitude": -79.5334026,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1196193370,
+    "name": "Boat Ramp",
+    "latitude": 40.3778002,
+    "longitude": -78.0713515,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1220326734,
+    "name": "Boat Ramp",
+    "latitude": 40.593856,
+    "longitude": -80.0021948,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "sport": "kayak;canoe"
+    }
+  },
+  {
+    "id": 1233917682,
+    "name": "Boat Ramp",
+    "latitude": 41.0375891,
+    "longitude": -80.4030516,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1258818548,
+    "name": "Boat Ramp",
+    "latitude": 40.0578438,
+    "longitude": -79.2259831,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1293761819,
+    "name": "Boat Ramp",
+    "latitude": 41.5406143,
+    "longitude": -80.1038983,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 1293761820,
+    "name": "Boat Ramp",
+    "latitude": 41.5404602,
+    "longitude": -80.1036243,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1312146108,
+    "name": "Boat Ramp",
+    "latitude": 40.3637928,
+    "longitude": -75.9676657,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1312695738,
+    "name": "Boat Ramp",
+    "latitude": 40.069019,
+    "longitude": -79.8921817,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1313092504,
+    "name": "Boat Ramp",
+    "latitude": 40.5699586,
+    "longitude": -80.2232325,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1358612542,
+    "name": "Boat Ramp",
+    "latitude": 40.1759162,
+    "longitude": -76.7249479,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 1360919232,
+    "name": "Boat Ramp",
+    "latitude": 40.5296688,
+    "longitude": -80.17228,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1382769089,
+    "name": "Boat Ramp",
+    "latitude": 39.9116932,
+    "longitude": -78.052681,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1382769090,
+    "name": "Boat Ramp",
+    "latitude": 39.9112178,
+    "longitude": -78.0527582,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1415656171,
+    "name": "Boat Ramp",
+    "latitude": 40.0828081,
+    "longitude": -76.8838157,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1423133356,
+    "name": "Boat Ramp",
+    "latitude": 41.2889958,
+    "longitude": -79.8471438,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1427789124,
+    "name": "Boat Ramp",
+    "latitude": 40.3754221,
+    "longitude": -79.3890002,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1452583866,
+    "name": "Boat Ramp",
+    "latitude": 40.256441,
+    "longitude": -77.0188514,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 2830648673,
+    "name": "Niagara Boat Launch",
+    "latitude": 42.1455023,
+    "longitude": -80.1309796,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Niagara Boat Launch"
+    }
+  },
+  {
+    "id": 2830649047,
+    "name": "Boat Ramp",
+    "latitude": 42.1253674,
+    "longitude": -80.1465633,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2830910694,
+    "name": "Boat Ramp",
+    "latitude": 42.1535634,
+    "longitude": -80.114425,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10670120247,
+    "name": "Boat Ramp",
+    "latitude": 42.0212955,
+    "longitude": -80.3743363,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11987492471,
+    "name": "Boat Ramp",
+    "latitude": 42.1577434,
+    "longitude": -80.0936459,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12008867648,
+    "name": "Shades Beach Boat Launch",
+    "latitude": 42.1910304,
+    "longitude": -79.9627968,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Shades Beach Boat Launch"
+    }
+  },
+  {
+    "id": 843529116,
+    "name": "Lakeside Boat Ramp",
+    "latitude": 42.154692,
+    "longitude": -80.037744,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Lakeside Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 843559759,
+    "name": "U.S. Coast Guard - Station Erie",
+    "latitude": 42.1538896,
+    "longitude": -80.0789355,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "U.S. Coast Guard - Station Erie",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 849620762,
+    "name": "Bayfront Boat Ramp",
+    "latitude": 42.1355492,
+    "longitude": -80.0901243,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Bayfront Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 876647604,
+    "name": "Boat Ramp",
+    "latitude": 42.0212,
+    "longitude": -80.3744733,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 881700896,
+    "name": "Boat Ramp",
+    "latitude": 42.1324196,
+    "longitude": -80.0976692,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 881700897,
+    "name": "Boat Ramp",
+    "latitude": 42.1323838,
+    "longitude": -80.0977675,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 881700898,
+    "name": "Boat Ramp",
+    "latitude": 42.1322908,
+    "longitude": -80.0979604,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 881700900,
+    "name": "Chestnut Street Boat Ramp",
+    "latitude": 42.1328714,
+    "longitude": -80.0982082,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Chestnut Street Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 883815543,
+    "name": "East Avenue Boat Ramp",
+    "latitude": 42.1448502,
+    "longitude": -80.0654011,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "East Avenue Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 883815544,
+    "name": "East Avenue Boat Ramp",
+    "latitude": 42.1448341,
+    "longitude": -80.0654741,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "East Avenue Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 883815545,
+    "name": "East Avenue Boat Ramp",
+    "latitude": 42.1448635,
+    "longitude": -80.0653285,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "East Avenue Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 887050839,
+    "name": "Cowell Beach Boat Ramp",
+    "latitude": 42.1814787,
+    "longitude": -79.9832333,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Cowell Beach Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 999986668,
+    "name": "Lake Pleasant Boat Ramp",
+    "latitude": 42.0033978,
+    "longitude": -79.8996945,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Lake Pleasant Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1039429758,
+    "name": "Boat Ramp",
+    "latitude": 42.148166,
+    "longitude": -80.075477,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1039429759,
+    "name": "Boat Ramp",
+    "latitude": 42.1481258,
+    "longitude": -80.0754415,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1180924343,
+    "name": "Boat Ramp",
+    "latitude": 42.1352158,
+    "longitude": -80.0909985,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1293073304,
+    "name": "Boat Ramp",
+    "latitude": 42.1599936,
+    "longitude": -80.0941368,
+    "state": "Pennsylvania",
+    "stateAbbr": "PA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  }
+]

@@ -1,0 +1,2926 @@
+[
+  {
+    "id": 54247805,
+    "name": "Boat Ramp",
+    "latitude": 33.6030361,
+    "longitude": -114.5339739,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 174625347,
+    "name": "Boat Ramp",
+    "latitude": 34.2333161,
+    "longitude": -114.1856121,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 175212822,
+    "name": "Boat Ramp",
+    "latitude": 35.1203542,
+    "longitude": -114.6085508,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 318725489,
+    "name": "Boat Ramp",
+    "latitude": 33.8613199,
+    "longitude": -114.525924,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 602063179,
+    "name": "Boat Ramp",
+    "latitude": 35.2191171,
+    "longitude": -114.5658146,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 602481075,
+    "name": "Boat Ramp",
+    "latitude": 34.4909341,
+    "longitude": -114.3613707,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 826010022,
+    "name": "Boat Ramp",
+    "latitude": 32.8867832,
+    "longitude": -114.4582676,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2071427083,
+    "name": "Boat Ramp",
+    "latitude": 36.2983206,
+    "longitude": -114.4040409,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2607671126,
+    "name": "Boat Ramp",
+    "latitude": 34.7288357,
+    "longitude": -114.5111393,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2692956339,
+    "name": "Boat Ramp",
+    "latitude": 34.8367592,
+    "longitude": -114.5899332,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2692956554,
+    "name": "Boat Ramp",
+    "latitude": 34.8702716,
+    "longitude": -114.633692,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2694657974,
+    "name": "Boat Ramp",
+    "latitude": 34.9247616,
+    "longitude": -114.632232,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2706593753,
+    "name": "Boat Ramp",
+    "latitude": 35.1700837,
+    "longitude": -114.5704918,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3202643941,
+    "name": "Boat Ramp",
+    "latitude": 35.4927595,
+    "longitude": -114.6856836,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3224155435,
+    "name": "Boat Ramp",
+    "latitude": 35.2189462,
+    "longitude": -114.5656979,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4541929237,
+    "name": "Boat Ramp",
+    "latitude": 33.0296441,
+    "longitude": -114.6367885,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4542057750,
+    "name": "Boat Ramp",
+    "latitude": 33.0239745,
+    "longitude": -114.6113044,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4689121489,
+    "name": "Boat Ramp",
+    "latitude": 33.0261826,
+    "longitude": -114.6174292,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4698216812,
+    "name": "Boat Ramp",
+    "latitude": 35.090181,
+    "longitude": -114.62474,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4698216864,
+    "name": "Boat Ramp",
+    "latitude": 35.0948795,
+    "longitude": -114.6353129,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4890088351,
+    "name": "Takeoff Point Boat Ramp",
+    "latitude": 34.3007327,
+    "longitude": -114.1367151,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Takeoff Point Boat Ramp"
+    }
+  },
+  {
+    "id": 5224220385,
+    "name": "Hemenway Harbor Launch Ramp",
+    "latitude": 36.0304528,
+    "longitude": -114.774504,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Hemenway Harbor Launch Ramp"
+    }
+  },
+  {
+    "id": 5224220387,
+    "name": "Hemenway Harbor Launch Ramp",
+    "latitude": 36.0303935,
+    "longitude": -114.774432,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Hemenway Harbor Launch Ramp"
+    }
+  },
+  {
+    "id": 5245019904,
+    "name": "Boat Ramp",
+    "latitude": 35.8696556,
+    "longitude": -114.6606236,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5245019906,
+    "name": "Boat Ramp",
+    "latitude": 35.8697947,
+    "longitude": -114.6605969,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5272655066,
+    "name": "Boat Ramp",
+    "latitude": 32.7206385,
+    "longitude": -114.5992919,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5272674489,
+    "name": "Boat Ramp",
+    "latitude": 32.7323238,
+    "longitude": -114.5355881,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5527124930,
+    "name": "Boat Ramp",
+    "latitude": 33.6092426,
+    "longitude": -114.524975,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5527124941,
+    "name": "Boat Ramp",
+    "latitude": 33.6119161,
+    "longitude": -114.5211482,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5684002240,
+    "name": "Boat Ramp",
+    "latitude": 35.1403094,
+    "longitude": -114.5719099,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5857883603,
+    "name": "Boat Ramp",
+    "latitude": 34.4532883,
+    "longitude": -114.3614232,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5857883606,
+    "name": "Boat Ramp",
+    "latitude": 34.453314,
+    "longitude": -114.3613525,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5862578151,
+    "name": "Boat Ramp",
+    "latitude": 34.4629393,
+    "longitude": -114.3504671,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5877128253,
+    "name": "Boat Ramp",
+    "latitude": 34.4516656,
+    "longitude": -114.3634866,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5939705086,
+    "name": "Boat Ramp",
+    "latitude": 34.3510337,
+    "longitude": -114.1698521,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5939705097,
+    "name": "Boat Ramp",
+    "latitude": 34.3509823,
+    "longitude": -114.1697615,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6979190825,
+    "name": "Boat Ramp",
+    "latitude": 33.3880216,
+    "longitude": -114.7116405,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7044518409,
+    "name": "Boat Ramp",
+    "latitude": 34.2196987,
+    "longitude": -114.2058873,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 7967172445,
+    "name": "Boat Ramp",
+    "latitude": 34.4943291,
+    "longitude": -114.3625593,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7967172467,
+    "name": "Boat Ramp",
+    "latitude": 34.4895957,
+    "longitude": -114.3599509,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7967172471,
+    "name": "Boat Ramp",
+    "latitude": 34.4894926,
+    "longitude": -114.3600676,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8364600033,
+    "name": "Boat Ramp",
+    "latitude": 34.2344341,
+    "longitude": -114.1840555,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8364600034,
+    "name": "Boat Ramp",
+    "latitude": 34.2042062,
+    "longitude": -114.2272897,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8364600037,
+    "name": "Boat Ramp",
+    "latitude": 34.186117,
+    "longitude": -114.2337321,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8364600040,
+    "name": "Boat Ramp",
+    "latitude": 34.1632208,
+    "longitude": -114.2977508,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8364600043,
+    "name": "Boat Ramp",
+    "latitude": 34.2224083,
+    "longitude": -114.1965889,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8364600046,
+    "name": "Boat Ramp",
+    "latitude": 34.2446766,
+    "longitude": -114.1751205,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8442139703,
+    "name": "Boat Ramp",
+    "latitude": 34.4823028,
+    "longitude": -114.4053768,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8463159190,
+    "name": "Boat Ramp",
+    "latitude": 34.1776235,
+    "longitude": -114.2503578,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 9467371028,
+    "name": "Boat Ramp",
+    "latitude": 34.8675651,
+    "longitude": -114.632,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9819414626,
+    "name": "Boat Ramp",
+    "latitude": 34.8478872,
+    "longitude": -114.6042501,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10114365140,
+    "name": "Boat Ramp",
+    "latitude": 33.6011313,
+    "longitude": -114.5323477,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10120279711,
+    "name": "Boat Ramp",
+    "latitude": 34.8710294,
+    "longitude": -114.6340983,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10120289918,
+    "name": "Boat Ramp",
+    "latitude": 34.8704041,
+    "longitude": -114.633766,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10120289920,
+    "name": "Boat Ramp",
+    "latitude": 34.8686619,
+    "longitude": -114.6329426,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10120289924,
+    "name": "Boat Ramp",
+    "latitude": 34.8654896,
+    "longitude": -114.6305243,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10312677989,
+    "name": "Boat Ramp",
+    "latitude": 33.6059295,
+    "longitude": -114.5318816,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10604828062,
+    "name": "Boat Ramp",
+    "latitude": 32.9017266,
+    "longitude": -114.4767912,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11331657368,
+    "name": "Boat Ramp",
+    "latitude": 35.1273883,
+    "longitude": -114.5789625,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "customers",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11331678393,
+    "name": "Boat Ramp",
+    "latitude": 35.1249824,
+    "longitude": -114.5817771,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11333292785,
+    "name": "Boat Ramp",
+    "latitude": 34.4780037,
+    "longitude": -114.3553277,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11406414480,
+    "name": "Nelson'S Landing",
+    "latitude": 35.7074156,
+    "longitude": -114.707463,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "informal": "yes",
+      "leisure": "slipway",
+      "mobile_reception": "limited",
+      "name": "Nelson's Landing",
+      "surface": "ground"
+    }
+  },
+  {
+    "id": 13429580204,
+    "name": "Boat Ramp",
+    "latitude": 34.7153176,
+    "longitude": -114.4827172,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13438339708,
+    "name": "Boat Ramp",
+    "latitude": 32.8200209,
+    "longitude": -114.4698381,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13438429849,
+    "name": "Boat Ramp",
+    "latitude": 32.8298006,
+    "longitude": -114.4483359,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 14288039,
+    "name": "Boat Ramp",
+    "latitude": 36.3055422,
+    "longitude": -114.4185687,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "asphalt",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Clark, NV",
+      "tiger:name_base": "Echo Bay",
+      "tiger:name_type": "Rd",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 133084866,
+    "name": "Boat Ramp",
+    "latitude": 35.1500061,
+    "longitude": -114.5741618,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "man_made": "pier"
+    }
+  },
+  {
+    "id": 172682539,
+    "name": "Boat Ramp",
+    "latitude": 36.036296,
+    "longitude": -114.7087721,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 173793375,
+    "name": "Boat Ramp",
+    "latitude": 34.719243,
+    "longitude": -114.4827521,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "oneway": "no",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 196851060,
+    "name": "Boat Ramp",
+    "latitude": 36.2987354,
+    "longitude": -114.4043346,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 200128906,
+    "name": "Boat Ramp",
+    "latitude": 34.8702859,
+    "longitude": -114.6347518,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 255013565,
+    "name": "Boat Ramp",
+    "latitude": 34.7286522,
+    "longitude": -114.5112091,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 256808418,
+    "name": "Boat Ramp",
+    "latitude": 32.7312574,
+    "longitude": -114.6353795,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 263815951,
+    "name": "Boat Ramp",
+    "latitude": 34.9245952,
+    "longitude": -114.6321905,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 316171618,
+    "name": "Boat Ramp",
+    "latitude": 35.1756285,
+    "longitude": -114.568212,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 316306233,
+    "name": "Boat Ramp",
+    "latitude": 35.2652124,
+    "longitude": -114.5822605,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 358443686,
+    "name": "Boat Ramp",
+    "latitude": 34.128882,
+    "longitude": -114.3585736,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "oneway": "no",
+      "smoothness": "excellent",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 358564354,
+    "name": "Boat Ramp",
+    "latitude": 33.8555683,
+    "longitude": -114.5235962,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "oneway": "no",
+      "service": "slipway",
+      "smoothness": "intermediate",
+      "surface": "compacted"
+    }
+  },
+  {
+    "id": 358741871,
+    "name": "Aha Quin Road",
+    "latitude": 33.883273,
+    "longitude": -114.5143938,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "residential",
+      "lanes": "2",
+      "leisure": "slipway",
+      "name": "Aha Quin Road",
+      "oneway": "no",
+      "smoothness": "good",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 443100329,
+    "name": "Boat Ramp",
+    "latitude": 32.7084606,
+    "longitude": -114.7255237,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 454591773,
+    "name": "Boat Ramp",
+    "latitude": 32.7327866,
+    "longitude": -114.6497813,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 501703588,
+    "name": "Boat Ramp",
+    "latitude": 34.8359083,
+    "longitude": -114.5892086,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "yes",
+      "fee": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "Bing",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 597175921,
+    "name": "Boat Ramp",
+    "latitude": 35.1240232,
+    "longitude": -114.6321895,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "destination",
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 597175925,
+    "name": "Boat Ramp",
+    "latitude": 35.124024,
+    "longitude": -114.6320886,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "destination",
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 619934221,
+    "name": "Boat Ramp",
+    "latitude": 34.4532383,
+    "longitude": -114.3613938,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 619934222,
+    "name": "Boat Ramp",
+    "latitude": 34.4532661,
+    "longitude": -114.361327,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 620523458,
+    "name": "Boat Ramp",
+    "latitude": 34.462936,
+    "longitude": -114.350369,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "lanes": "14",
+      "leisure": "slipway",
+      "width": "23"
+    }
+  },
+  {
+    "id": 622155008,
+    "name": "Boat Ramp",
+    "latitude": 34.4516611,
+    "longitude": -114.3634717,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 861118564,
+    "name": "Boat Ramp",
+    "latitude": 34.3544736,
+    "longitude": -114.1722829,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 924649960,
+    "name": "Boat Ramp",
+    "latitude": 36.0902515,
+    "longitude": -114.103644,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Mohave, AZ",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1026866122,
+    "name": "Boat Ramp",
+    "latitude": 34.8675621,
+    "longitude": -114.6324207,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1069871890,
+    "name": "Boat Ramp",
+    "latitude": 34.8358613,
+    "longitude": -114.589125,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1069871891,
+    "name": "Boat Ramp",
+    "latitude": 34.8358864,
+    "longitude": -114.5893013,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1069871892,
+    "name": "Boat Ramp",
+    "latitude": 34.8387792,
+    "longitude": -114.5911623,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1069873501,
+    "name": "Boat Ramp",
+    "latitude": 34.8477793,
+    "longitude": -114.60435,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1087501365,
+    "name": "Boat Ramp",
+    "latitude": 33.8557479,
+    "longitude": -114.5235578,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "oneway": "no",
+      "service": "slipway",
+      "smoothness": "intermediate",
+      "surface": "compacted"
+    }
+  },
+  {
+    "id": 1095082135,
+    "name": "Boat Ramp",
+    "latitude": 33.6011043,
+    "longitude": -114.5322947,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1102799283,
+    "name": "Boat Ramp",
+    "latitude": 34.4920543,
+    "longitude": -114.4054959,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1105237943,
+    "name": "Boat Ramp",
+    "latitude": 34.4823056,
+    "longitude": -114.405429,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1105259924,
+    "name": "Boat Ramp",
+    "latitude": 33.6030796,
+    "longitude": -114.5340825,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Riverside, CA",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1105972689,
+    "name": "Boat Ramp",
+    "latitude": 34.8707787,
+    "longitude": -114.6350926,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1105972690,
+    "name": "Boat Ramp",
+    "latitude": 34.8703517,
+    "longitude": -114.6339306,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1105972691,
+    "name": "Boat Ramp",
+    "latitude": 34.8687042,
+    "longitude": -114.6332241,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1105972693,
+    "name": "Boat Ramp",
+    "latitude": 34.8654372,
+    "longitude": -114.6307264,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1127976803,
+    "name": "Boat Ramp",
+    "latitude": 33.6058766,
+    "longitude": -114.5320516,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1183857047,
+    "name": "Boat Ramp",
+    "latitude": 35.139038,
+    "longitude": -114.5717431,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "destination",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1183857048,
+    "name": "Boat Ramp",
+    "latitude": 35.139142,
+    "longitude": -114.5717778,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "destination",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1183857613,
+    "name": "Boat Ramp",
+    "latitude": 35.1700592,
+    "longitude": -114.5705106,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1218178310,
+    "name": "Boat Ramp",
+    "latitude": 36.1373497,
+    "longitude": -114.7126985,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1230152342,
+    "name": "Boat Ramp",
+    "latitude": 35.0142493,
+    "longitude": -114.6387629,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1271022221,
+    "name": "Big River Boat Ramp",
+    "latitude": 34.1222613,
+    "longitude": -114.3712346,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "customers",
+      "addr:city": "Big River",
+      "addr:housenumber": "150351",
+      "addr:postcode": "92242",
+      "addr:state": "CA",
+      "addr:street": "Del Rey Drive",
+      "bin": "yes",
+      "boat": "yes",
+      "canoe": "yes",
+      "charge": "$25.00",
+      "covered": "no",
+      "description": "Big River Park Boat Ramp\nPublic concrete boat ramp in Big River Park providing access to the Colorado River, with nearby parking and picnic areas.",
+      "dog": "yes",
+      "fee": "yes",
+      "fishing": "yes",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "motorboat": "yes",
+      "name": "Big River Boat Ramp",
+      "opening_hours": "Mo-Su 08:00am-7:00pm",
+      "payment:cash": "yes",
+      "picnic_table": "yes",
+      "service": "slipway",
+      "surface": "concrete",
+      "swimming": "yes",
+      "toilets": "yes",
+      "trailer": "yes",
+      "website": "https://www.bigrivercsd.org/"
+    }
+  },
+  {
+    "id": 1303359429,
+    "name": "Boat Ramp",
+    "latitude": 32.9058146,
+    "longitude": -114.4857263,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1303359431,
+    "name": "Boat Ramp",
+    "latitude": 32.9059136,
+    "longitude": -114.4858229,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1358282821,
+    "name": "Boat Ramp",
+    "latitude": 35.1498842,
+    "longitude": -114.5741265,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1358282823,
+    "name": "Boat Ramp",
+    "latitude": 35.1546167,
+    "longitude": -114.5723098,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1358282824,
+    "name": "Boat Ramp",
+    "latitude": 35.1543846,
+    "longitude": -114.5723674,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1360648910,
+    "name": "Boat Ramp",
+    "latitude": 35.1228695,
+    "longitude": -114.6236709,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1436574210,
+    "name": "Boat Ramp",
+    "latitude": 35.0903311,
+    "longitude": -114.6246624,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1443133156,
+    "name": "Boat Ramp",
+    "latitude": 35.0792857,
+    "longitude": -114.607153,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 174827387,
+    "name": "Boat Ramp",
+    "latitude": 34.2377304,
+    "longitude": -113.5845701,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 616122817,
+    "name": "Boat Ramp",
+    "latitude": 35.0639965,
+    "longitude": -111.5011865,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 825901849,
+    "name": "Boat Ramp",
+    "latitude": 34.5929438,
+    "longitude": -112.4186724,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 826330482,
+    "name": "Boat Ramp",
+    "latitude": 35.1189928,
+    "longitude": -112.0147749,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 914051609,
+    "name": "Wahweap Marina Main Boat Launch",
+    "latitude": 36.9942614,
+    "longitude": -111.4842091,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Wahweap Marina Main boat launch"
+    }
+  },
+  {
+    "id": 951535811,
+    "name": "Boat Ramp",
+    "latitude": 33.5495749,
+    "longitude": -111.9224888,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1025281570,
+    "name": "Lees Ferry Boat Launch",
+    "latitude": 36.8657627,
+    "longitude": -111.5864575,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "yes",
+      "description": "Launch for upstream access only.",
+      "leisure": "slipway",
+      "name": "Lees Ferry Boat Launch",
+      "source": "https://www.nps.gov/places/lees-ferry-boat-launch.htm",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1249443453,
+    "name": "Boat Ramp",
+    "latitude": 36.966058,
+    "longitude": -111.4422428,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1340739232,
+    "name": "Boat Ramp",
+    "latitude": 33.6164921,
+    "longitude": -112.2485312,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1341401217,
+    "name": "Boat Ramp",
+    "latitude": 33.6110182,
+    "longitude": -112.2762514,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1341431505,
+    "name": "Boat Ramp",
+    "latitude": 33.6067388,
+    "longitude": -112.2818657,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1393953362,
+    "name": "Boat Ramp",
+    "latitude": 33.5879181,
+    "longitude": -112.1197367,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2008628976,
+    "name": "Boat Ramp",
+    "latitude": 36.9909039,
+    "longitude": -111.486952,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2211939400,
+    "name": "Boat Ramp",
+    "latitude": 34.0490832,
+    "longitude": -109.1880029,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2224634399,
+    "name": "Boat Ramp",
+    "latitude": 35.0711211,
+    "longitude": -111.5221243,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2224634427,
+    "name": "Boat Ramp",
+    "latitude": 35.0727567,
+    "longitude": -111.5243894,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2224686198,
+    "name": "Boat Ramp",
+    "latitude": 35.1119465,
+    "longitude": -111.5827626,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2623005179,
+    "name": "Boat Ramp",
+    "latitude": 33.3762812,
+    "longitude": -111.747866,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2730516201,
+    "name": "Castle Creek Boat Ramp",
+    "latitude": 33.9060273,
+    "longitude": -112.3083017,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Castle Creek Boat Ramp"
+    }
+  },
+  {
+    "id": 2738927045,
+    "name": "Boat Ramp",
+    "latitude": 33.8553985,
+    "longitude": -112.2897925,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2747449862,
+    "name": "Boat Ramp",
+    "latitude": 33.8765788,
+    "longitude": -112.296463,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2915597803,
+    "name": "Boat Ramp",
+    "latitude": 33.4322109,
+    "longitude": -111.9375742,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3077653348,
+    "name": "Boat Ramp",
+    "latitude": 33.8483281,
+    "longitude": -112.2585382,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3077653433,
+    "name": "Boat Ramp",
+    "latitude": 33.852351,
+    "longitude": -112.2573339,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3077653580,
+    "name": "Boat Ramp",
+    "latitude": 33.8556596,
+    "longitude": -112.2551994,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3213300565,
+    "name": "Boat Ramp",
+    "latitude": 34.2309215,
+    "longitude": -111.3428677,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3213300576,
+    "name": "Boat Ramp",
+    "latitude": 34.2310661,
+    "longitude": -111.3466109,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3296237853,
+    "name": "Boat Ramp",
+    "latitude": 32.7545142,
+    "longitude": -109.7009844,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3345299128,
+    "name": "Boat Ramp",
+    "latitude": 33.8358255,
+    "longitude": -111.6376278,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3442097364,
+    "name": "Boat Ramp",
+    "latitude": 33.5731767,
+    "longitude": -111.5374386,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3442097369,
+    "name": "Boat Ramp",
+    "latitude": 33.5761454,
+    "longitude": -111.5340019,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3443093649,
+    "name": "Boat Ramp",
+    "latitude": 33.5760232,
+    "longitude": -111.2572123,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3443093652,
+    "name": "Boat Ramp",
+    "latitude": 33.5769404,
+    "longitude": -111.2546852,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3450461250,
+    "name": "Boat Ramp",
+    "latitude": 33.9869135,
+    "longitude": -111.7215674,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3462148461,
+    "name": "Boat Ramp",
+    "latitude": 34.7537852,
+    "longitude": -112.0055377,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3462208688,
+    "name": "Boat Ramp",
+    "latitude": 34.7513451,
+    "longitude": -112.0175325,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3610814858,
+    "name": "Boat Ramp",
+    "latitude": 34.3135457,
+    "longitude": -110.8783617,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4053795882,
+    "name": "Boat Ramp",
+    "latitude": 33.3744452,
+    "longitude": -111.9215301,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4241063564,
+    "name": "Boat Ramp",
+    "latitude": 36.9608375,
+    "longitude": -111.4278072,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4243937355,
+    "name": "Boat Ramp",
+    "latitude": 36.9622619,
+    "longitude": -111.4263491,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4243939542,
+    "name": "Boat Ramp",
+    "latitude": 36.9636289,
+    "longitude": -111.4291574,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4684612927,
+    "name": "Pearce Ferry Take-Out",
+    "latitude": 36.1258863,
+    "longitude": -113.9821908,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "permit",
+      "alt_name": "Pearce Ferry Boat Ramp",
+      "canoe": "permit",
+      "canoe:put_in": "private",
+      "description": "Generally the furthest downstream takeout point for Grand Canyon boat trips. Launching here by the general public is not allowed, but those coming from upstream may continue downriver. Beware class 6 Pearce Ferry Rapid 0.5 miles downstream.",
+      "leisure": "slipway",
+      "name": "Pearce Ferry Take-Out",
+      "parking": "yes",
+      "put_in": "private",
+      "start_date": "2010-03",
+      "surface": "concrete",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 5173973894,
+    "name": "Boat Ramp",
+    "latitude": 34.5157115,
+    "longitude": -112.3843316,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp",
+      "operator": "Lynx Lake Recreational Area"
+    }
+  },
+  {
+    "id": 6789122372,
+    "name": "Boat Ramp",
+    "latitude": 34.5868765,
+    "longitude": -112.4232465,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 6993789160,
+    "name": "Boat Ramp",
+    "latitude": 33.6249171,
+    "longitude": -111.2039686,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7179956800,
+    "name": "Boat Ramp",
+    "latitude": 33.3817783,
+    "longitude": -111.8859552,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7624434699,
+    "name": "Boat Ramp",
+    "latitude": 33.8721794,
+    "longitude": -111.6153887,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7731709562,
+    "name": "Boat Ramp",
+    "latitude": 33.8762261,
+    "longitude": -109.4155806,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8386041509,
+    "name": "Kearny Lake Launch",
+    "latitude": 33.0521413,
+    "longitude": -110.8988768,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kearny Lake Launch"
+    }
+  },
+  {
+    "id": 8429793023,
+    "name": "Boat Ramp",
+    "latitude": 33.6206849,
+    "longitude": -112.2539241,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8597402617,
+    "name": "Boat Ramp",
+    "latitude": 33.170219,
+    "longitude": -111.4733865,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8645434863,
+    "name": "Salt River Rafter Boat Ramp",
+    "latitude": 33.6193575,
+    "longitude": -110.9227666,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Salt River Rafter Boat Ramp"
+    }
+  },
+  {
+    "id": 8719243814,
+    "name": "Boat Ramp",
+    "latitude": 33.3733715,
+    "longitude": -112.1356959,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9441126235,
+    "name": "Boat Ramp",
+    "latitude": 33.7716659,
+    "longitude": -111.6640353,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9761636199,
+    "name": "Boat Ramp",
+    "latitude": 34.1276806,
+    "longitude": -109.9525831,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9900079432,
+    "name": "Boat Ramp",
+    "latitude": 33.1304485,
+    "longitude": -109.3610313,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9989781697,
+    "name": "Boat Ramp",
+    "latitude": 36.8656578,
+    "longitude": -111.5869618,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "permit",
+      "canoe": "put_in",
+      "description": "Launch for downstream access only.",
+      "leisure": "slipway",
+      "source": "https://www.nps.gov/places/lees-ferry-boat-launch.htm",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 10036505114,
+    "name": "Boat Ramp",
+    "latitude": 33.2571862,
+    "longitude": -111.7276756,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10086229534,
+    "name": "Boat Ramp",
+    "latitude": 31.4021587,
+    "longitude": -111.086993,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10198051310,
+    "name": "Boat Ramp",
+    "latitude": 34.9733386,
+    "longitude": -110.6431426,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10537056924,
+    "name": "Boat Ramp",
+    "latitude": 33.3543886,
+    "longitude": -112.4302371,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10905158440,
+    "name": "Boat Ramp",
+    "latitude": 34.5545353,
+    "longitude": -111.1959943,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10934040675,
+    "name": "Boat Ramp",
+    "latitude": 34.2736045,
+    "longitude": -110.0713212,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11169584052,
+    "name": "Boat Ramp",
+    "latitude": 34.3268734,
+    "longitude": -110.7019632,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11430276693,
+    "name": "Boat Ramp",
+    "latitude": 33.0782036,
+    "longitude": -113.0220431,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11751780736,
+    "name": "Boat Ramp",
+    "latitude": 33.5759364,
+    "longitude": -111.5362873,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11751780738,
+    "name": "Boat Ramp",
+    "latitude": 33.576108,
+    "longitude": -111.5339631,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12584344046,
+    "name": "Diamond Creek Boat Ramp",
+    "latitude": 35.7661303,
+    "longitude": -113.3730719,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "permit",
+      "alt_name": "Diamond Creek Take-Out",
+      "canoe": "permit",
+      "leisure": "slipway",
+      "name": "Diamond Creek Boat Ramp"
+    }
+  },
+  {
+    "id": 12755638185,
+    "name": "Boat Ramp",
+    "latitude": 34.6088534,
+    "longitude": -112.439134,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13639422796,
+    "name": "Boat Ramp",
+    "latitude": 33.4743163,
+    "longitude": -111.9138036,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 205442051,
+    "name": "Boat Ramp",
+    "latitude": 31.4936297,
+    "longitude": -110.8555793,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 205450284,
+    "name": "Boat Ramp",
+    "latitude": 31.495834,
+    "longitude": -110.855998,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "maxspeed": "10 mph",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 263844731,
+    "name": "Windy Hill",
+    "latitude": 33.6705425,
+    "longitude": -111.0931961,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Windy Hill"
+    }
+  },
+  {
+    "id": 288006952,
+    "name": "Boat Launch",
+    "latitude": 33.4334001,
+    "longitude": -111.931223,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "area": "yes",
+      "leisure": "slipway",
+      "name": "Boat Launch"
+    }
+  },
+  {
+    "id": 288006953,
+    "name": "Boat Launch",
+    "latitude": 33.4345205,
+    "longitude": -111.937893,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "area": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Boat Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 320534792,
+    "name": "Boat Ramp",
+    "latitude": 33.6709888,
+    "longitude": -111.1419538,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 337976249,
+    "name": "Boat Ramp",
+    "latitude": 33.9867931,
+    "longitude": -111.7219068,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 387889817,
+    "name": "Boat Ramp",
+    "latitude": 34.2709909,
+    "longitude": -110.0743231,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 425593596,
+    "name": "Boat Ramp",
+    "latitude": 33.8739445,
+    "longitude": -109.4281835,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 442978201,
+    "name": "Schoolhouse",
+    "latitude": 33.6506654,
+    "longitude": -111.0125145,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Schoolhouse"
+    }
+  },
+  {
+    "id": 535074140,
+    "name": "Boat Ramp",
+    "latitude": 34.6170523,
+    "longitude": -112.5486236,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 637928255,
+    "name": "Boat Ramp",
+    "latitude": 35.2512297,
+    "longitude": -112.2145333,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "area": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 651207427,
+    "name": "Boat Ramp",
+    "latitude": 33.5110858,
+    "longitude": -111.906749,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "oneway": "no",
+      "service": "parking_aisle",
+      "smoothness": "excellent",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 664897796,
+    "name": "Silverbell Lake Slipway",
+    "latitude": 32.2855623,
+    "longitude": -111.0337411,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Silverbell Lake Slipway",
+      "website": "https://www.tucsonaz.gov/parks/ChristopherColumbusPark"
+    }
+  },
+  {
+    "id": 664897798,
+    "name": "Silverbell Lake Slipway South",
+    "latitude": 32.282001,
+    "longitude": -111.0313951,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Silverbell Lake Slipway South"
+    }
+  },
+  {
+    "id": 777299008,
+    "name": "Boat Ramp",
+    "latitude": 33.3544289,
+    "longitude": -112.43034,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 808872224,
+    "name": "Boat Ramp",
+    "latitude": 33.3752036,
+    "longitude": -111.9418608,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 814626238,
+    "name": "Boat Ramp",
+    "latitude": 35.0210129,
+    "longitude": -111.4073571,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 816366233,
+    "name": "JoJoba Boating Launch",
+    "latitude": 33.8378572,
+    "longitude": -111.6361711,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "alt_name": "Bartlett Lake Launch",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "JoJoba Boating Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 816545506,
+    "name": "Bobcat Boat Launch",
+    "latitude": 33.6666848,
+    "longitude": -111.0859562,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Bobcat Boat Launch"
+    }
+  },
+  {
+    "id": 816545508,
+    "name": "Grapevine",
+    "latitude": 33.6476076,
+    "longitude": -111.0468652,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Grapevine",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Gila, AZ",
+      "tiger:name_base": "Grapevine Group Site",
+      "tiger:reviewed": "yes"
+    }
+  },
+  {
+    "id": 816550855,
+    "name": "Indian Point",
+    "latitude": 33.7625433,
+    "longitude": -111.2360882,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Indian Point"
+    }
+  },
+  {
+    "id": 847007592,
+    "name": "Boat Ramp",
+    "latitude": 33.3170357,
+    "longitude": -111.8729079,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 938552061,
+    "name": "Boat Ramp",
+    "latitude": 34.5929138,
+    "longitude": -112.4187436,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 952437321,
+    "name": "Boat Ramp",
+    "latitude": 33.6692732,
+    "longitude": -111.0869181,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1017494318,
+    "name": "Cholla Boat Launch",
+    "latitude": 33.7247079,
+    "longitude": -111.2006857,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Cholla Boat Launch"
+    }
+  },
+  {
+    "id": 1023415996,
+    "name": "Boat Ramp",
+    "latitude": 34.3338443,
+    "longitude": -110.9438099,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1054813086,
+    "name": "Boat Ramp",
+    "latitude": 33.6728347,
+    "longitude": -111.0907782,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1054813087,
+    "name": "Boat Ramp",
+    "latitude": 33.6704923,
+    "longitude": -111.0932189,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1062591292,
+    "name": "Boat Ramp",
+    "latitude": 34.1277339,
+    "longitude": -109.9525618,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1096391392,
+    "name": "Boat Ramp",
+    "latitude": 33.761914,
+    "longitude": -110.5178404,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1102268550,
+    "name": "Boat Ramp",
+    "latitude": 31.4021563,
+    "longitude": -111.0870721,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 1108068874,
+    "name": "Boat Ramp",
+    "latitude": 33.3469255,
+    "longitude": -112.4414986,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1115020644,
+    "name": "Boat Ramp",
+    "latitude": 34.973361,
+    "longitude": -110.6435574,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1144266371,
+    "name": "Boat Ramp",
+    "latitude": 34.1743838,
+    "longitude": -109.9610047,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1163930749,
+    "name": "Laguna Boat Launch",
+    "latitude": 33.5339576,
+    "longitude": -111.4169796,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Laguna Boat Launch"
+    }
+  },
+  {
+    "id": 1173682032,
+    "name": "Boat Ramp",
+    "latitude": 34.5545372,
+    "longitude": -111.1970191,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1215205254,
+    "name": "Boat Ramp",
+    "latitude": 31.4936419,
+    "longitude": -110.8554727,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1237334773,
+    "name": "Boat Ramp",
+    "latitude": 31.5261347,
+    "longitude": -111.2540584,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1265004641,
+    "name": "Boat Ramp",
+    "latitude": 33.5760626,
+    "longitude": -111.5362969,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1265004642,
+    "name": "Boat Ramp",
+    "latitude": 33.5761959,
+    "longitude": -111.5340279,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1316508501,
+    "name": "Boat Ramp",
+    "latitude": 35.283584,
+    "longitude": -112.1584276,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1316987677,
+    "name": "Marina Launch",
+    "latitude": 33.5355718,
+    "longitude": -111.4233324,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Marina Launch"
+    }
+  },
+  {
+    "id": 1316987939,
+    "name": "Palo Verde Boat Launch",
+    "latitude": 33.5375733,
+    "longitude": -111.4290823,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Palo Verde Boat Launch"
+    }
+  },
+  {
+    "id": 1343295294,
+    "name": "Boat Ramp",
+    "latitude": 34.7514138,
+    "longitude": -112.0175133,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1376464465,
+    "name": "Boat Ramp",
+    "latitude": 34.9366484,
+    "longitude": -110.2904098,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1377613448,
+    "name": "Boat Ramp",
+    "latitude": 34.6091016,
+    "longitude": -112.4390995,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1413450986,
+    "name": "Boat Ramp",
+    "latitude": 33.5759536,
+    "longitude": -111.5363205,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1431358530,
+    "name": "Boat Ramp",
+    "latitude": 35.2113794,
+    "longitude": -112.1253326,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1487785927,
+    "name": "Boat Ramp",
+    "latitude": 33.4744373,
+    "longitude": -111.9137197,
+    "state": "Arizona",
+    "stateAbbr": "AZ",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  }
+]

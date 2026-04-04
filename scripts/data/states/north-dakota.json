@@ -1,0 +1,3490 @@
+[
+  {
+    "id": 74285841,
+    "name": "Boat Ramp",
+    "latitude": 46.860012,
+    "longitude": -98.1643962,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 74580283,
+    "name": "Boat Ramp",
+    "latitude": 48.8788141,
+    "longitude": -100.5521094,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 74582118,
+    "name": "Boat Ramp",
+    "latitude": 48.9444429,
+    "longitude": -100.508649,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 74769460,
+    "name": "Boat Ramp",
+    "latitude": 46.128089,
+    "longitude": -103.090744,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 74806515,
+    "name": "Boat Ramp",
+    "latitude": 48.9232817,
+    "longitude": -102.269018,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 74820557,
+    "name": "Boat Ramp",
+    "latitude": 48.5495813,
+    "longitude": -102.6257954,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 74923235,
+    "name": "Boat Ramp",
+    "latitude": 46.9928195,
+    "longitude": -100.9079941,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 75119856,
+    "name": "Boat Ramp",
+    "latitude": 47.0993561,
+    "longitude": -97.4139486,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 75268712,
+    "name": "Boat Ramp",
+    "latitude": 48.9244881,
+    "longitude": -98.3156942,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 75471452,
+    "name": "Boat Ramp",
+    "latitude": 47.5976999,
+    "longitude": -102.3662254,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 75609154,
+    "name": "Boat Ramp",
+    "latitude": 46.1082853,
+    "longitude": -100.5856321,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 75623123,
+    "name": "Boat Ramp",
+    "latitude": 46.1467265,
+    "longitude": -100.6060957,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 75638983,
+    "name": "Boat Ramp",
+    "latitude": 47.5968349,
+    "longitude": -102.3641792,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 75648903,
+    "name": "Cattail Bay Boat Ramp",
+    "latitude": 46.0956275,
+    "longitude": -100.590868,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Cattail Bay Boat Ramp"
+    }
+  },
+  {
+    "id": 75650971,
+    "name": "North Low Water Boat Ramp",
+    "latitude": 46.292458,
+    "longitude": -100.566806,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "name": "North Low Water Boat Ramp"
+    }
+  },
+  {
+    "id": 76020923,
+    "name": "Boat Ramp",
+    "latitude": 47.2693356,
+    "longitude": -98.0113138,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 76039948,
+    "name": "Boat Ramp",
+    "latitude": 46.3542381,
+    "longitude": -101.3730871,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 76059764,
+    "name": "Boat Ramp",
+    "latitude": 46.6055488,
+    "longitude": -101.8521079,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 76071065,
+    "name": "Boat Ramp",
+    "latitude": 46.340525,
+    "longitude": -102.6293632,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 76091327,
+    "name": "Boat Ramp",
+    "latitude": 46.599782,
+    "longitude": -101.8415188,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 76212220,
+    "name": "Boat Ramp",
+    "latitude": 47.1792761,
+    "longitude": -100.0002697,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 76225856,
+    "name": "Boat Ramp",
+    "latitude": 46.3844299,
+    "longitude": -98.9548995,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 76357083,
+    "name": "Boat Ramp",
+    "latitude": 46.0814052,
+    "longitude": -99.4375938,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 76521443,
+    "name": "Boat Ramp",
+    "latitude": 47.5950946,
+    "longitude": -101.4308758,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 76535468,
+    "name": "Boat Ramp",
+    "latitude": 47.605883,
+    "longitude": -102.0958464,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 76563699,
+    "name": "Boat Ramp",
+    "latitude": 47.7655443,
+    "longitude": -100.8608514,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 76580447,
+    "name": "Boat Ramp",
+    "latitude": 47.6053559,
+    "longitude": -101.4376114,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 76587068,
+    "name": "Boat Ramp",
+    "latitude": 47.566133,
+    "longitude": -101.269232,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 76594071,
+    "name": "Boat Ramp",
+    "latitude": 47.8587004,
+    "longitude": -103.9685085,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 76606777,
+    "name": "Boat Ramp",
+    "latitude": 47.5811139,
+    "longitude": -101.5728993,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 76616720,
+    "name": "Boat Ramp",
+    "latitude": 47.2455411,
+    "longitude": -100.9737355,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 76624063,
+    "name": "Boat Ramp",
+    "latitude": 47.5119175,
+    "longitude": -101.364251,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 76635572,
+    "name": "Boat Ramp",
+    "latitude": 47.5754503,
+    "longitude": -101.5746477,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 76645733,
+    "name": "Boat Ramp",
+    "latitude": 47.6958135,
+    "longitude": -100.8715259,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 76652490,
+    "name": "Boat Ramp",
+    "latitude": 47.619603,
+    "longitude": -101.162642,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 76656511,
+    "name": "Boat Ramp",
+    "latitude": 47.6130082,
+    "longitude": -101.3291882,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 76663173,
+    "name": "Boat Ramp",
+    "latitude": 47.5885346,
+    "longitude": -101.5091,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 76839050,
+    "name": "Boat Ramp",
+    "latitude": 47.502603,
+    "longitude": -101.7656864,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 76855047,
+    "name": "Boat Ramp",
+    "latitude": 47.5276364,
+    "longitude": -101.491632,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 76855318,
+    "name": "Boat Ramp",
+    "latitude": 47.5214055,
+    "longitude": -101.5510535,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 76872070,
+    "name": "Boat Ramp",
+    "latitude": 47.4646176,
+    "longitude": -101.8205118,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 76916830,
+    "name": "Boat Ramp",
+    "latitude": 47.4601882,
+    "longitude": -101.9157979,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 76982921,
+    "name": "Boat Ramp",
+    "latitude": 47.9842181,
+    "longitude": -102.5268082,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 77224986,
+    "name": "Boat Ramp",
+    "latitude": 48.1941588,
+    "longitude": -98.0776704,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 77263188,
+    "name": "Boat Ramp",
+    "latitude": 47.8741763,
+    "longitude": -98.3533495,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 77387552,
+    "name": "Boat Ramp",
+    "latitude": 48.0704206,
+    "longitude": -98.797254,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 77411346,
+    "name": "Boat Ramp",
+    "latitude": 46.3676908,
+    "longitude": -97.6143639,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 77417224,
+    "name": "Boat Ramp",
+    "latitude": 48.0667497,
+    "longitude": -98.9725357,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 77473707,
+    "name": "Boat Ramp",
+    "latitude": 48.6661707,
+    "longitude": -101.6895232,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 77600363,
+    "name": "Boat Ramp",
+    "latitude": 48.8735848,
+    "longitude": -99.7680259,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 77608665,
+    "name": "Boat Ramp",
+    "latitude": 46.0260614,
+    "longitude": -97.5715143,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 77609619,
+    "name": "Boat Ramp",
+    "latitude": 48.994714,
+    "longitude": -99.927362,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 77704000,
+    "name": "Boat Ramp",
+    "latitude": 47.6785219,
+    "longitude": -100.1406769,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 77776415,
+    "name": "Boat Ramp",
+    "latitude": 46.1025184,
+    "longitude": -100.6280525,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 77904885,
+    "name": "Boat Ramp",
+    "latitude": 46.291584,
+    "longitude": -102.9683971,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 77957982,
+    "name": "Boat Ramp",
+    "latitude": 47.64471,
+    "longitude": -97.643033,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 77986682,
+    "name": "Boat Ramp",
+    "latitude": 46.9674815,
+    "longitude": -98.766471,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 78002199,
+    "name": "Boat Ramp",
+    "latitude": 47.2309077,
+    "longitude": -99.2849041,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 78038119,
+    "name": "Boat Ramp",
+    "latitude": 47.2685402,
+    "longitude": -99.281982,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 78181609,
+    "name": "Boat Ramp",
+    "latitude": 48.4021154,
+    "longitude": -97.7967771,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 78266367,
+    "name": "Boat Ramp",
+    "latitude": 48.0155746,
+    "longitude": -101.5273725,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 78509536,
+    "name": "Boat Ramp",
+    "latitude": 48.583417,
+    "longitude": -103.45036,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 78555774,
+    "name": "Boat Ramp",
+    "latitude": 48.5835711,
+    "longitude": -102.9344662,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 78647815,
+    "name": "Boat Ramp",
+    "latitude": 48.4309574,
+    "longitude": -103.7455101,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 387402272,
+    "name": "Boat Ramp",
+    "latitude": 46.3813435,
+    "longitude": -102.3250295,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 484884721,
+    "name": "Boat Ramp",
+    "latitude": 46.2680964,
+    "longitude": -100.5803337,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 484885228,
+    "name": "Fort Rice Boat Ramp",
+    "latitude": 46.505742,
+    "longitude": -100.584073,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Fort Rice Boat Ramp"
+    }
+  },
+  {
+    "id": 484888423,
+    "name": "Boat Ramp",
+    "latitude": 46.6731969,
+    "longitude": -100.6347688,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 488085640,
+    "name": "Boat Ramp",
+    "latitude": 47.5867037,
+    "longitude": -102.3902969,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 488092840,
+    "name": "Boat Ramp",
+    "latitude": 47.7338134,
+    "longitude": -102.4338851,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 488096960,
+    "name": "Boat Ramp",
+    "latitude": 47.9220051,
+    "longitude": -102.2970548,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 488097028,
+    "name": "Boat Ramp",
+    "latitude": 47.9214705,
+    "longitude": -102.3084077,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 488107683,
+    "name": "Boat Ramp",
+    "latitude": 47.9481059,
+    "longitude": -102.3717535,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 488107698,
+    "name": "Boat Ramp",
+    "latitude": 47.9474286,
+    "longitude": -102.3705331,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 494170163,
+    "name": "Boat Ramp",
+    "latitude": 47.9769124,
+    "longitude": -102.584481,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 494170281,
+    "name": "Boat Ramp",
+    "latitude": 47.9766407,
+    "longitude": -102.5730975,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 619598499,
+    "name": "Boat Ramp",
+    "latitude": 46.8671502,
+    "longitude": -101.0911279,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 750321333,
+    "name": "Boat Ramp",
+    "latitude": 47.2903402,
+    "longitude": -101.043309,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 750395196,
+    "name": "Boat Ramp",
+    "latitude": 47.3504061,
+    "longitude": -102.6596675,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1162065128,
+    "name": "Boat Ramp",
+    "latitude": 48.0215541,
+    "longitude": -99.2366284,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1169982354,
+    "name": "Boat Ramp",
+    "latitude": 47.8355644,
+    "longitude": -99.1147807,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1170383546,
+    "name": "Boat Ramp",
+    "latitude": 47.8361626,
+    "longitude": -99.1196369,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1180869387,
+    "name": "Boat Ramp",
+    "latitude": 47.2135585,
+    "longitude": -97.9637393,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1180922788,
+    "name": "Boat Ramp",
+    "latitude": 47.0952728,
+    "longitude": -98.0120901,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1181140207,
+    "name": "Boat Ramp",
+    "latitude": 47.1609252,
+    "longitude": -98.008588,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1181153931,
+    "name": "Boat Ramp",
+    "latitude": 47.1583244,
+    "longitude": -98.0060582,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1183177092,
+    "name": "Boat Ramp",
+    "latitude": 47.7590945,
+    "longitude": -98.1644364,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1185433841,
+    "name": "Boat Ramp",
+    "latitude": 46.5232927,
+    "longitude": -97.9298262,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1265962230,
+    "name": "Boat Ramp",
+    "latitude": 45.9505876,
+    "longitude": -98.1767351,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1399744526,
+    "name": "Boat Ramp",
+    "latitude": 46.8701509,
+    "longitude": -102.8313544,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1587547376,
+    "name": "SE Beaver Creek Boat Ramp",
+    "latitude": 46.2417481,
+    "longitude": -100.520603,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "name": "SE Beaver Creek Boat Ramp"
+    }
+  },
+  {
+    "id": 1789996991,
+    "name": "Boat Ramp",
+    "latitude": 47.5215343,
+    "longitude": -101.4428677,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1789997737,
+    "name": "Boat Ramp",
+    "latitude": 47.5282531,
+    "longitude": -101.4544075,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1790055853,
+    "name": "Boat Ramp",
+    "latitude": 47.5274104,
+    "longitude": -101.493001,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1790144982,
+    "name": "Boat Ramp",
+    "latitude": 47.5147377,
+    "longitude": -101.6245606,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1791970042,
+    "name": "Boat Ramp",
+    "latitude": 47.5453889,
+    "longitude": -101.2998728,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1792329848,
+    "name": "Boat Ramp",
+    "latitude": 47.6153001,
+    "longitude": -101.2878205,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1793484807,
+    "name": "Boat Ramp",
+    "latitude": 47.6207406,
+    "longitude": -101.3542642,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1793692780,
+    "name": "Boat Ramp",
+    "latitude": 47.5987086,
+    "longitude": -101.4304058,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1794471366,
+    "name": "Boat Ramp",
+    "latitude": 47.5928103,
+    "longitude": -101.5467918,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1794723365,
+    "name": "Boat Ramp",
+    "latitude": 47.6067786,
+    "longitude": -101.6341613,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1794724323,
+    "name": "Boat Ramp",
+    "latitude": 47.6121359,
+    "longitude": -101.5894198,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1797122456,
+    "name": "Boat Ramp",
+    "latitude": 47.6148837,
+    "longitude": -101.2611045,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1797125408,
+    "name": "Boat Ramp",
+    "latitude": 47.6319394,
+    "longitude": -101.2312662,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1797127736,
+    "name": "Boat Ramp",
+    "latitude": 47.6513827,
+    "longitude": -101.1909301,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1797567678,
+    "name": "Boat Ramp",
+    "latitude": 47.5854224,
+    "longitude": -101.2527692,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1801093425,
+    "name": "Boat Ramp",
+    "latitude": 47.659058,
+    "longitude": -101.164929,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1904842570,
+    "name": "Boat Ramp",
+    "latitude": 47.9439973,
+    "longitude": -100.0673044,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2330317763,
+    "name": "Boat Ramp",
+    "latitude": 47.9860688,
+    "longitude": -103.9821384,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2894497360,
+    "name": "Boat Ramp",
+    "latitude": 48.9461944,
+    "longitude": -100.25248,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3013648293,
+    "name": "Boat Ramp",
+    "latitude": 45.9875689,
+    "longitude": -103.2479657,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3071350021,
+    "name": "Boat Ramp",
+    "latitude": 45.9708364,
+    "longitude": -103.2632377,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3084716495,
+    "name": "Boat Ramp",
+    "latitude": 47.5065446,
+    "longitude": -102.5026119,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3243965495,
+    "name": "Boat Ramp",
+    "latitude": 48.0489165,
+    "longitude": -99.2345813,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3343421433,
+    "name": "Boat Ramp",
+    "latitude": 47.007299,
+    "longitude": -98.7400751,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3343494300,
+    "name": "Boat Ramp",
+    "latitude": 46.9462537,
+    "longitude": -98.7028924,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3701149732,
+    "name": "Boat Ramp",
+    "latitude": 46.8677964,
+    "longitude": -101.2629367,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4870730499,
+    "name": "Boat Ramp",
+    "latitude": 47.0987785,
+    "longitude": -97.4195584,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4888060272,
+    "name": "Boat Ramp",
+    "latitude": 46.0213983,
+    "longitude": -97.5497954,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4888060316,
+    "name": "Boat Ramp",
+    "latitude": 46.0164586,
+    "longitude": -97.5306428,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4888060739,
+    "name": "Boat Ramp",
+    "latitude": 46.0196255,
+    "longitude": -97.5724528,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4904676834,
+    "name": "Boat Ramp",
+    "latitude": 48.3306726,
+    "longitude": -100.7683048,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4909382732,
+    "name": "Boat Ramp",
+    "latitude": 46.1597035,
+    "longitude": -100.9835333,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4911630231,
+    "name": "Boat Ramp",
+    "latitude": 46.5873078,
+    "longitude": -101.2077096,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4912950601,
+    "name": "Boat Ramp",
+    "latitude": 46.7295412,
+    "longitude": -101.2363529,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4912950602,
+    "name": "Boat Ramp",
+    "latitude": 46.7267245,
+    "longitude": -101.228549,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4919807126,
+    "name": "Boat Ramp",
+    "latitude": 48.7790857,
+    "longitude": -97.7492675,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4920799679,
+    "name": "Boat Ramp",
+    "latitude": 48.9653782,
+    "longitude": -97.2381851,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4924916685,
+    "name": "Boat Ramp",
+    "latitude": 47.0568898,
+    "longitude": -99.8719767,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4924916864,
+    "name": "Boat Ramp",
+    "latitude": 47.1322089,
+    "longitude": -99.6107928,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4929166390,
+    "name": "Boat Ramp",
+    "latitude": 48.4769061,
+    "longitude": -101.5658194,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4929166393,
+    "name": "Boat Ramp",
+    "latitude": 48.616206,
+    "longitude": -101.6294843,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4929168809,
+    "name": "Boat Ramp",
+    "latitude": 48.6210914,
+    "longitude": -101.6359225,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4932914826,
+    "name": "Boat Ramp",
+    "latitude": 45.9783924,
+    "longitude": -100.4996333,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4932915189,
+    "name": "Boat Ramp",
+    "latitude": 46.2508965,
+    "longitude": -100.5386394,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4932915192,
+    "name": "Main Boat Ramp",
+    "latitude": 46.2509564,
+    "longitude": -100.538666,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Main Boat Ramp"
+    }
+  },
+  {
+    "id": 4934700040,
+    "name": "Boat Ramp",
+    "latitude": 46.3713361,
+    "longitude": -97.6171839,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4942608486,
+    "name": "Boat Ramp",
+    "latitude": 47.5852419,
+    "longitude": -97.6281877,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4943219149,
+    "name": "Boat Ramp",
+    "latitude": 47.5727511,
+    "longitude": -97.6341073,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4944900307,
+    "name": "Boat Ramp",
+    "latitude": 48.8782261,
+    "longitude": -100.553441,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4945771702,
+    "name": "Boat Ramp",
+    "latitude": 48.9457293,
+    "longitude": -100.2664278,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4945786454,
+    "name": "Boat Ramp",
+    "latitude": 48.969326,
+    "longitude": -100.3616054,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4949385532,
+    "name": "Boat Ramp",
+    "latitude": 47.2345552,
+    "longitude": -101.2222821,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4949385595,
+    "name": "Boat Ramp",
+    "latitude": 47.085036,
+    "longitude": -101.2355691,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4949385596,
+    "name": "Boat Ramp",
+    "latitude": 47.0751646,
+    "longitude": -101.2058173,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4949386173,
+    "name": "Boat Ramp",
+    "latitude": 47.0479693,
+    "longitude": -100.9478223,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4949806386,
+    "name": "Boat Ramp",
+    "latitude": 46.8948506,
+    "longitude": -101.6053069,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4958495509,
+    "name": "Boat Ramp",
+    "latitude": 48.9192607,
+    "longitude": -98.3062702,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4964077493,
+    "name": "Boat Ramp",
+    "latitude": 48.4224673,
+    "longitude": -97.4182431,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5007486927,
+    "name": "Boat Ramp",
+    "latitude": 46.9781732,
+    "longitude": -98.7075686,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5007487227,
+    "name": "Boat Ramp",
+    "latitude": 46.9853589,
+    "longitude": -98.7063279,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5065275616,
+    "name": "Boat Ramp",
+    "latitude": 47.0729333,
+    "longitude": -98.5712765,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5065276354,
+    "name": "Boat Ramp",
+    "latitude": 47.0717285,
+    "longitude": -98.5937454,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5065276568,
+    "name": "Boat Ramp",
+    "latitude": 47.0707404,
+    "longitude": -98.5788025,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6342081264,
+    "name": "Missouri River - Tailrace Landing Boating Access",
+    "latitude": 47.4910545,
+    "longitude": -101.4279149,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Missouri River - Tailrace Landing Boating Access"
+    }
+  },
+  {
+    "id": 6468598835,
+    "name": "Boat Ramp",
+    "latitude": 47.1707114,
+    "longitude": -100.3041109,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6481160346,
+    "name": "Boat Ramp",
+    "latitude": 47.1801594,
+    "longitude": -100.9889862,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6481161306,
+    "name": "Boat Ramp",
+    "latitude": 47.3214378,
+    "longitude": -100.6263757,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6481161339,
+    "name": "Boat Ramp",
+    "latitude": 47.3575728,
+    "longitude": -100.7198265,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6481161340,
+    "name": "Boat Ramp",
+    "latitude": 47.3238906,
+    "longitude": -100.6614912,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6535188346,
+    "name": "Boat Ramp",
+    "latitude": 46.8626763,
+    "longitude": -102.8445382,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6654276993,
+    "name": "Boat Ramp",
+    "latitude": 47.7605568,
+    "longitude": -99.9310752,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6654277003,
+    "name": "Boat Ramp",
+    "latitude": 47.7562054,
+    "longitude": -99.9409023,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6791314568,
+    "name": "Boat Ramp",
+    "latitude": 47.9238359,
+    "longitude": -102.2913744,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6815689114,
+    "name": "Boat Ramp",
+    "latitude": 46.3416061,
+    "longitude": -101.8469886,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7170042523,
+    "name": "Boat Ramp",
+    "latitude": 46.2724846,
+    "longitude": -99.295111,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7417422947,
+    "name": "Boat Ramp",
+    "latitude": 48.961932,
+    "longitude": -99.8914611,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7463763706,
+    "name": "Boat Ramp",
+    "latitude": 47.9203428,
+    "longitude": -101.4716435,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7463764414,
+    "name": "Boat Ramp",
+    "latitude": 47.8467701,
+    "longitude": -101.8013603,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7463764434,
+    "name": "Boat Ramp",
+    "latitude": 47.7323602,
+    "longitude": -102.1304137,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7463764435,
+    "name": "Boat Ramp",
+    "latitude": 47.7347541,
+    "longitude": -102.1792647,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7468664956,
+    "name": "Boat Ramp",
+    "latitude": 47.5149608,
+    "longitude": -101.6246912,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7468665042,
+    "name": "Boat Ramp",
+    "latitude": 47.4831121,
+    "longitude": -101.7832325,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7468665047,
+    "name": "Boat Ramp",
+    "latitude": 47.4828193,
+    "longitude": -101.782452,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7468665571,
+    "name": "Boat Ramp",
+    "latitude": 47.5425481,
+    "longitude": -102.1006036,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7474712856,
+    "name": "Boat Ramp",
+    "latitude": 47.6125662,
+    "longitude": -101.589573,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7494464296,
+    "name": "Boat Ramp",
+    "latitude": 47.8016589,
+    "longitude": -102.4066907,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7502066332,
+    "name": "Boat Ramp",
+    "latitude": 48.0289342,
+    "longitude": -100.2895358,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7502075520,
+    "name": "Boat Ramp",
+    "latitude": 48.1259308,
+    "longitude": -100.4227544,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7502075993,
+    "name": "Boat Ramp",
+    "latitude": 47.9359948,
+    "longitude": -100.9712125,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7560015621,
+    "name": "Boat Ramp",
+    "latitude": 48.9162766,
+    "longitude": -99.7833923,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7560015622,
+    "name": "Boat Ramp",
+    "latitude": 48.9185345,
+    "longitude": -99.7882296,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7560015623,
+    "name": "Boat Ramp",
+    "latitude": 48.9221274,
+    "longitude": -99.7906584,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7560032733,
+    "name": "Boat Ramp",
+    "latitude": 48.9158862,
+    "longitude": -99.8572013,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7560032742,
+    "name": "Boat Ramp",
+    "latitude": 48.9571594,
+    "longitude": -99.8380168,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7560032862,
+    "name": "Boat Ramp",
+    "latitude": 48.9751521,
+    "longitude": -99.8386283,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7560032866,
+    "name": "Boat Ramp",
+    "latitude": 48.9757102,
+    "longitude": -99.8416337,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7560032867,
+    "name": "Boat Ramp",
+    "latitude": 48.8695747,
+    "longitude": -99.7467881,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7560032956,
+    "name": "Boat Ramp",
+    "latitude": 48.9501969,
+    "longitude": -100.0017234,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7560034390,
+    "name": "Boat Ramp",
+    "latitude": 48.9299062,
+    "longitude": -99.8554981,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7560034488,
+    "name": "Boat Ramp",
+    "latitude": 48.9462379,
+    "longitude": -99.868362,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7560034847,
+    "name": "Boat Ramp",
+    "latitude": 48.9267994,
+    "longitude": -99.7786689,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7563757342,
+    "name": "Boat Ramp",
+    "latitude": 48.8824453,
+    "longitude": -99.4189739,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7605974805,
+    "name": "Boat Ramp",
+    "latitude": 47.9766856,
+    "longitude": -98.7294129,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7605974810,
+    "name": "Boat Ramp",
+    "latitude": 47.9791087,
+    "longitude": -98.7287262,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7606099056,
+    "name": "Boat Ramp",
+    "latitude": 47.9346515,
+    "longitude": -98.7962213,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7606175549,
+    "name": "Boat Ramp",
+    "latitude": 47.9175465,
+    "longitude": -98.6198299,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7606175569,
+    "name": "Boat Ramp",
+    "latitude": 47.9216071,
+    "longitude": -98.6190306,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7606175625,
+    "name": "Boat Ramp",
+    "latitude": 47.919735,
+    "longitude": -98.6182326,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7620489893,
+    "name": "Boat Ramp",
+    "latitude": 47.8688675,
+    "longitude": -98.4572947,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7620489925,
+    "name": "Boat Ramp",
+    "latitude": 47.8675126,
+    "longitude": -98.4516272,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7620489926,
+    "name": "Boat Ramp",
+    "latitude": 47.86768,
+    "longitude": -98.4527886,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7620490182,
+    "name": "Boat Ramp",
+    "latitude": 47.701002,
+    "longitude": -98.6795452,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7620490183,
+    "name": "Boat Ramp",
+    "latitude": 47.7005002,
+    "longitude": -98.6791134,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7620490184,
+    "name": "Boat Ramp",
+    "latitude": 47.7002457,
+    "longitude": -98.6788693,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7630212850,
+    "name": "Boat Ramp",
+    "latitude": 48.5809911,
+    "longitude": -102.9388435,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7657143178,
+    "name": "Boat Ramp",
+    "latitude": 48.0647158,
+    "longitude": -103.8261384,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7680379462,
+    "name": "Boat Ramp",
+    "latitude": 47.5458967,
+    "longitude": -100.9065056,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7680379549,
+    "name": "Boat Ramp",
+    "latitude": 47.5276637,
+    "longitude": -100.8678818,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7680379757,
+    "name": "Boat Ramp",
+    "latitude": 47.5387583,
+    "longitude": -100.8781439,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7680381198,
+    "name": "Boat Ramp",
+    "latitude": 47.6588028,
+    "longitude": -100.9018171,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7680381327,
+    "name": "Boat Ramp",
+    "latitude": 47.8800067,
+    "longitude": -100.6810927,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7680381415,
+    "name": "Boat Ramp",
+    "latitude": 47.5226195,
+    "longitude": -100.7211019,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7680381444,
+    "name": "Boat Ramp",
+    "latitude": 47.5406885,
+    "longitude": -100.760462,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7680382118,
+    "name": "Boat Ramp",
+    "latitude": 47.5159019,
+    "longitude": -100.4546392,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7681083792,
+    "name": "Boat Ramp",
+    "latitude": 46.3001831,
+    "longitude": -98.2838899,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7726958439,
+    "name": "Boat Ramp",
+    "latitude": 46.012454,
+    "longitude": -99.0670459,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7731699832,
+    "name": "Boat Ramp",
+    "latitude": 46.4870724,
+    "longitude": -98.3832966,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7731700738,
+    "name": "Boat Ramp",
+    "latitude": 46.4207092,
+    "longitude": -98.2850473,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7734859119,
+    "name": "Boat Ramp",
+    "latitude": 46.3512225,
+    "longitude": -98.9547104,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7734859357,
+    "name": "Boat Ramp",
+    "latitude": 46.5367231,
+    "longitude": -99.3094835,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7734859429,
+    "name": "Boat Ramp",
+    "latitude": 46.5088777,
+    "longitude": -98.9902698,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7734860068,
+    "name": "Boat Ramp",
+    "latitude": 46.4065628,
+    "longitude": -99.614612,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7734860270,
+    "name": "Boat Ramp",
+    "latitude": 46.3286762,
+    "longitude": -99.2665319,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7741106245,
+    "name": "Boat Ramp",
+    "latitude": 46.0293218,
+    "longitude": -100.0910617,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7744309030,
+    "name": "Kimball Bottoms Boat Ramp",
+    "latitude": 46.6787329,
+    "longitude": -100.7336657,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kimball Bottoms Boat Ramp"
+    }
+  },
+  {
+    "id": 7761593491,
+    "name": "Boat Ramp",
+    "latitude": 46.6851056,
+    "longitude": -99.1340107,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7761593745,
+    "name": "Boat Ramp",
+    "latitude": 46.5941052,
+    "longitude": -98.5370938,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7771906405,
+    "name": "Boat Ramp",
+    "latitude": 47.8031427,
+    "longitude": -98.3973313,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7771906536,
+    "name": "Boat Ramp",
+    "latitude": 47.7645881,
+    "longitude": -98.1674352,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7782411539,
+    "name": "Boat Ramp",
+    "latitude": 48.1821795,
+    "longitude": -97.7723189,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7782411629,
+    "name": "Boat Ramp",
+    "latitude": 48.2267678,
+    "longitude": -97.9273304,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7795145461,
+    "name": "Boat Ramp",
+    "latitude": 48.1471681,
+    "longitude": -100.0942522,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7795145495,
+    "name": "Boat Ramp",
+    "latitude": 48.0229095,
+    "longitude": -99.8535052,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7813769637,
+    "name": "Boat Ramp",
+    "latitude": 48.4597304,
+    "longitude": -101.577251,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7821239362,
+    "name": "Boat Ramp",
+    "latitude": 48.4106934,
+    "longitude": -102.9355477,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7850150092,
+    "name": "Boat Ramp",
+    "latitude": 48.0801281,
+    "longitude": -99.0251908,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7956624926,
+    "name": "Boat Ramp",
+    "latitude": 46.8210157,
+    "longitude": -100.8269507,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7966607105,
+    "name": "Boat Ramp",
+    "latitude": 46.7601961,
+    "longitude": -100.8018043,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7978046474,
+    "name": "Fox Island Boat Ramp",
+    "latitude": 46.775689,
+    "longitude": -100.8274547,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Fox Island Boat Ramp"
+    }
+  },
+  {
+    "id": 7978843837,
+    "name": "Boat Ramp",
+    "latitude": 46.8268574,
+    "longitude": -100.6393609,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7985213367,
+    "name": "Hazelton Boat Ramp",
+    "latitude": 46.5271703,
+    "longitude": -100.542275,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "description": "Public Boat Ramp",
+      "leisure": "slipway",
+      "name": "Hazelton Boat Ramp"
+    }
+  },
+  {
+    "id": 7985631548,
+    "name": "Beaver Creek Low Water Boat Ramp",
+    "latitude": 46.2490552,
+    "longitude": -100.5348603,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Beaver Creek Low water Boat Ramp"
+    }
+  },
+  {
+    "id": 7985924613,
+    "name": "Little Heart Boat Ramp",
+    "latitude": 46.6845453,
+    "longitude": -100.7810791,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Little Heart Boat Ramp"
+    }
+  },
+  {
+    "id": 8085955794,
+    "name": "Boat Ramp",
+    "latitude": 46.1383464,
+    "longitude": -97.4937151,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8176724875,
+    "name": "Boat Ramp",
+    "latitude": 47.2335021,
+    "longitude": -101.229341,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8176749466,
+    "name": "Boat Ramp",
+    "latitude": 47.2877954,
+    "longitude": -101.3388214,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8206079911,
+    "name": "Boat Ramp",
+    "latitude": 48.1049416,
+    "longitude": -103.1076215,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8237976031,
+    "name": "Boat Ramp",
+    "latitude": 46.4292917,
+    "longitude": -102.5155975,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8313301100,
+    "name": "Boat Ramp",
+    "latitude": 48.1639905,
+    "longitude": -103.14061,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8333255872,
+    "name": "Black Tiger Bay South Boat Ramp",
+    "latitude": 47.9659382,
+    "longitude": -98.7879625,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "lit": "no",
+      "name": "Black Tiger Bay South Boat Ramp",
+      "opening_hours": "24/7",
+      "surface": "concrete",
+      "width": "3"
+    }
+  },
+  {
+    "id": 8349893600,
+    "name": "Boat Ramp",
+    "latitude": 48.6063451,
+    "longitude": -103.6251403,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8349894138,
+    "name": "Boat Ramp",
+    "latitude": 48.9512995,
+    "longitude": -103.8810767,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8350481905,
+    "name": "Boat Ramp",
+    "latitude": 48.1515024,
+    "longitude": -102.8588453,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8350481906,
+    "name": "Boat Ramp",
+    "latitude": 48.1539924,
+    "longitude": -102.8543526,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8350485040,
+    "name": "Boat Ramp",
+    "latitude": 48.1575424,
+    "longitude": -102.8598364,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8401117675,
+    "name": "Boat Ramp",
+    "latitude": 48.9914525,
+    "longitude": -102.7817454,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8402361545,
+    "name": "Boat Ramp",
+    "latitude": 48.612389,
+    "longitude": -102.6659033,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8408842956,
+    "name": "Boat Ramp",
+    "latitude": 46.8650648,
+    "longitude": -102.8502126,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8432103826,
+    "name": "Boat Ramp",
+    "latitude": 48.4059025,
+    "longitude": -102.2843805,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8432104170,
+    "name": "Boat Ramp",
+    "latitude": 48.4563952,
+    "longitude": -102.7461523,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8441088987,
+    "name": "Boat Ramp",
+    "latitude": 47.5401996,
+    "longitude": -98.7532979,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8566018887,
+    "name": "Boat Ramp",
+    "latitude": 46.0096458,
+    "longitude": -97.3618538,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8706707439,
+    "name": "Boat Ramp",
+    "latitude": 48.3387062,
+    "longitude": -103.170986,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8746038062,
+    "name": "Boat Ramp",
+    "latitude": 45.9968619,
+    "longitude": -102.6389109,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9043992963,
+    "name": "Boat Ramp",
+    "latitude": 48.0404811,
+    "longitude": -99.0538046,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10693866234,
+    "name": "East Side Estates Canoe Launch",
+    "latitude": 48.2008522,
+    "longitude": -101.2141609,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "East Side Estates Canoe Launch"
+    }
+  },
+  {
+    "id": 10693960469,
+    "name": "Talbott Court Canoe Launch",
+    "latitude": 48.2541774,
+    "longitude": -101.4000847,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Talbott Court Canoe launch"
+    }
+  },
+  {
+    "id": 10695681275,
+    "name": "Boat Ramp",
+    "latitude": 48.4537826,
+    "longitude": -101.5779998,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12872265750,
+    "name": "Black Tiger Bay Campground North Ramp",
+    "latitude": 47.9707063,
+    "longitude": -98.7856992,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "lit": "no",
+      "name": "Black Tiger Bay Campground North Ramp",
+      "opening_hours": "24/7",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 13451289591,
+    "name": "Boat Ramp",
+    "latitude": 48.1256817,
+    "longitude": -103.2311739,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 151881001,
+    "name": "Boat Ramp",
+    "latitude": 47.9346188,
+    "longitude": -97.595899,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 494037607,
+    "name": "Boat Ramp",
+    "latitude": 46.4485984,
+    "longitude": -97.6877998,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 500180844,
+    "name": "Boat Ramp",
+    "latitude": 46.7296495,
+    "longitude": -101.2364472,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 504320624,
+    "name": "Boat Ramp",
+    "latitude": 48.9830124,
+    "longitude": -100.341058,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 504628695,
+    "name": "Boat Ramp",
+    "latitude": 46.8739961,
+    "longitude": -101.2775809,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "compacted"
+    }
+  },
+  {
+    "id": 708159957,
+    "name": "Boat Ramp",
+    "latitude": 47.7606775,
+    "longitude": -99.9304482,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 764269060,
+    "name": "Boat Ramp",
+    "latitude": 46.6338898,
+    "longitude": -99.6013852,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 764269075,
+    "name": "Boat Ramp",
+    "latitude": 46.6481852,
+    "longitude": -99.5275064,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 808467413,
+    "name": "Boat Ramp",
+    "latitude": 48.9746816,
+    "longitude": -99.8285208,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 808467461,
+    "name": "Boat Ramp",
+    "latitude": 48.9530758,
+    "longitude": -99.9754525,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 813928183,
+    "name": "Boat Ramp",
+    "latitude": 48.0216833,
+    "longitude": -99.2368381,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 820906126,
+    "name": "Kraft Lake Boating Access",
+    "latitude": 46.1446591,
+    "longitude": -97.9056762,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "name": "Kraft Lake Boating Access",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 849613481,
+    "name": "Boat Ramp",
+    "latitude": 46.7414869,
+    "longitude": -100.7817207,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 936893156,
+    "name": "Boat Ramp",
+    "latitude": 46.9028889,
+    "longitude": -97.2227518,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "Bing",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 942477071,
+    "name": "Boat Ramp",
+    "latitude": 47.9343071,
+    "longitude": -98.6332603,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "covered": "no",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Benson, ND",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 989151108,
+    "name": "Boat Ramp",
+    "latitude": 46.9415657,
+    "longitude": -100.9646402,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 989166518,
+    "name": "Boat Ramp",
+    "latitude": 46.9406791,
+    "longitude": -100.966713,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 991335512,
+    "name": "Boat Ramp",
+    "latitude": 47.4765726,
+    "longitude": -99.3999097,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1066825209,
+    "name": "Boat Ramp",
+    "latitude": 48.152558,
+    "longitude": -103.5944894,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1083886719,
+    "name": "Boat Ramp",
+    "latitude": 48.9289047,
+    "longitude": -100.263709,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "unpaved",
+      "tiger:cfcc": "A74",
+      "tiger:county": "Bottineau, ND",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1083887727,
+    "name": "Boat Ramp",
+    "latitude": 48.9806208,
+    "longitude": -99.8916938,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "unpaved",
+      "tiger:cfcc": "A74",
+      "tiger:county": "Rolette, ND",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1086449163,
+    "name": "Boat Ramp",
+    "latitude": 47.5623987,
+    "longitude": -97.6409101,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "unpaved",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Steele, ND",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1124002075,
+    "name": "Boat Ramp",
+    "latitude": 46.9695399,
+    "longitude": -99.7209668,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1254176871,
+    "name": "Boat Ramp",
+    "latitude": 48.5731769,
+    "longitude": -100.5413772,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1254176874,
+    "name": "Boat Ramp",
+    "latitude": 48.555911,
+    "longitude": -100.515753,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1254191985,
+    "name": "Boat Ramp",
+    "latitude": 48.7332445,
+    "longitude": -102.1363919,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1262234416,
+    "name": "Boat Ramp",
+    "latitude": 46.0040149,
+    "longitude": -98.6710032,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1262234418,
+    "name": "Boat Ramp",
+    "latitude": 46.1747802,
+    "longitude": -98.751374,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1289549391,
+    "name": "Boat Ramp",
+    "latitude": 46.6000118,
+    "longitude": -101.8415763,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "unpaved",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Grant, ND",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1311298175,
+    "name": "Boat Ramp",
+    "latitude": 48.1100586,
+    "longitude": -99.1789864,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1420976681,
+    "name": "Boat Ramp",
+    "latitude": 47.3633835,
+    "longitude": -100.2204514,
+    "state": "North Dakota",
+    "stateAbbr": "ND",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  }
+]

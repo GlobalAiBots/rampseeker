@@ -1,0 +1,4716 @@
+[
+  {
+    "id": 30277443,
+    "name": "Clinton Lake Boat Ramp 3",
+    "latitude": 38.9361707,
+    "longitude": -95.3885433,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Clinton Lake Boat Ramp 3"
+    }
+  },
+  {
+    "id": 30277567,
+    "name": "Boat Ramp 5",
+    "latitude": 38.9156168,
+    "longitude": -95.3720427,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp 5"
+    }
+  },
+  {
+    "id": 30277593,
+    "name": "Boat Ramp",
+    "latitude": 38.879767,
+    "longitude": -95.4100168,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 119537971,
+    "name": "Boat Ramp",
+    "latitude": 37.2016253,
+    "longitude": -95.0486213,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 119639402,
+    "name": "Alida",
+    "latitude": 39.2131194,
+    "longitude": -97.0051349,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "ele": "349",
+      "gnis:feature_id": "476498",
+      "historic:place": "hamlet",
+      "leisure": "slipway",
+      "name": "Alida",
+      "wikidata": "Q55603638"
+    }
+  },
+  {
+    "id": 119860020,
+    "name": "Boat Ramp",
+    "latitude": 38.6484862,
+    "longitude": -97.0121169,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 120222146,
+    "name": "Boat Ramp",
+    "latitude": 39.1153639,
+    "longitude": -96.8991465,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 120225513,
+    "name": "Boat Ramp",
+    "latitude": 39.077537,
+    "longitude": -96.906463,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 120232688,
+    "name": "Boat Ramp",
+    "latitude": 39.085763,
+    "longitude": -96.940039,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 120265022,
+    "name": "Boat Ramp",
+    "latitude": 39.1204317,
+    "longitude": -96.889934,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 120272027,
+    "name": "Boat Ramp",
+    "latitude": 39.071249,
+    "longitude": -96.918106,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 120282744,
+    "name": "Boat Ramp",
+    "latitude": 39.07271,
+    "longitude": -96.914617,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 120613143,
+    "name": "Boat Ramp",
+    "latitude": 39.907291,
+    "longitude": -98.061498,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 120654957,
+    "name": "Boat Ramp",
+    "latitude": 39.1404387,
+    "longitude": -95.2397151,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 120661286,
+    "name": "Boat Ramp",
+    "latitude": 39.1382024,
+    "longitude": -95.4760554,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 120672751,
+    "name": "Boat Ramp",
+    "latitude": 39.8990641,
+    "longitude": -98.0365013,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 120685301,
+    "name": "Boat Ramp",
+    "latitude": 39.288281,
+    "longitude": -95.447027,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 121293738,
+    "name": "Boat Ramp",
+    "latitude": 38.364719,
+    "longitude": -97.1021192,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 121396363,
+    "name": "Boat Ramp",
+    "latitude": 39.4751843,
+    "longitude": -98.3951472,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 121398447,
+    "name": "Boat Ramp",
+    "latitude": 39.4620944,
+    "longitude": -98.329956,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 121580691,
+    "name": "Boat Ramp",
+    "latitude": 37.4222744,
+    "longitude": -95.1967757,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 121582693,
+    "name": "Boat Ramp",
+    "latitude": 37.4132017,
+    "longitude": -95.3487744,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 121632557,
+    "name": "Boat Ramp",
+    "latitude": 39.7042559,
+    "longitude": -96.1533107,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 121655356,
+    "name": "Boat Ramp",
+    "latitude": 38.8689211,
+    "longitude": -95.6369428,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 121781875,
+    "name": "Boat Ramp",
+    "latitude": 39.3308086,
+    "longitude": -96.629074,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 121799717,
+    "name": "Boat Ramp",
+    "latitude": 39.2530729,
+    "longitude": -96.5853101,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 121960368,
+    "name": "Boat Ramp",
+    "latitude": 39.4390186,
+    "longitude": -96.709965,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 121966697,
+    "name": "Boat Ramp",
+    "latitude": 39.305553,
+    "longitude": -96.650954,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 122049480,
+    "name": "Boat Ramp",
+    "latitude": 39.3728326,
+    "longitude": -96.7022046,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 122059574,
+    "name": "Boat Ramp",
+    "latitude": 38.9361593,
+    "longitude": -98.5288048,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 122074537,
+    "name": "Boat Ramp",
+    "latitude": 38.9364537,
+    "longitude": -98.5945612,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 122075386,
+    "name": "Boat Ramp",
+    "latitude": 38.9247345,
+    "longitude": -98.5081499,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 123259219,
+    "name": "Boat Ramp",
+    "latitude": 37.7725709,
+    "longitude": -95.9431815,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 515418246,
+    "name": "Boat Ramp",
+    "latitude": 37.7771626,
+    "longitude": -97.8074026,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 544553236,
+    "name": "Boat Ramp",
+    "latitude": 37.7531593,
+    "longitude": -97.7979746,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 552611298,
+    "name": "Clinton Lake Boat Ramp 3",
+    "latitude": 38.9372642,
+    "longitude": -95.3891256,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Clinton Lake Boat Ramp 3"
+    }
+  },
+  {
+    "id": 553321999,
+    "name": "Boat Ramp",
+    "latitude": 38.6618608,
+    "longitude": -95.5527938,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 553322535,
+    "name": "Boat Ramp",
+    "latitude": 38.6939887,
+    "longitude": -95.6120231,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 553328667,
+    "name": "Boat Ramp",
+    "latitude": 38.6571499,
+    "longitude": -95.5897682,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 553328880,
+    "name": "Boat Ramp",
+    "latitude": 38.6520357,
+    "longitude": -95.5763958,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 699337806,
+    "name": "Boat Ramp",
+    "latitude": 39.4433333,
+    "longitude": -96.7299803,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 699360292,
+    "name": "Boat Ramp",
+    "latitude": 39.0749161,
+    "longitude": -96.9316022,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 862737063,
+    "name": "Boggs Landing",
+    "latitude": 39.1871078,
+    "longitude": -96.4218706,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boggs Landing",
+      "ref": "G"
+    }
+  },
+  {
+    "id": 940984830,
+    "name": "Boat Ramp",
+    "latitude": 39.4466879,
+    "longitude": -96.7329142,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 940986733,
+    "name": "Boat Ramp",
+    "latitude": 39.4477852,
+    "longitude": -96.7356815,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1319640273,
+    "name": "Clinton Lake Boat Ramp 1",
+    "latitude": 38.9348972,
+    "longitude": -95.3470384,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Clinton Lake Boat Ramp 1"
+    }
+  },
+  {
+    "id": 1502688017,
+    "name": "Boat Ramp",
+    "latitude": 39.5000353,
+    "longitude": -98.3213972,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1502688666,
+    "name": "Boat Ramp",
+    "latitude": 39.5047249,
+    "longitude": -98.3385788,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1508760318,
+    "name": "Boat Ramp",
+    "latitude": 39.6490575,
+    "longitude": -99.1350117,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1508760340,
+    "name": "Boat Ramp",
+    "latitude": 39.6492422,
+    "longitude": -99.1350321,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1534048354,
+    "name": "Boat Ramp",
+    "latitude": 38.1024388,
+    "longitude": -96.1492436,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility"
+    }
+  },
+  {
+    "id": 1534048519,
+    "name": "Boat Ramp",
+    "latitude": 38.1060215,
+    "longitude": -96.1575754,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility"
+    }
+  },
+  {
+    "id": 1534081989,
+    "name": "Boat Ramp",
+    "latitude": 39.8100335,
+    "longitude": -99.9406306,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility"
+    }
+  },
+  {
+    "id": 1552783706,
+    "name": "Boat Ramp",
+    "latitude": 38.6067774,
+    "longitude": -97.9770784,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1561829508,
+    "name": "Boat Ramp",
+    "latitude": 38.9369649,
+    "longitude": -98.630039,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1589029499,
+    "name": "Cave Park Slipway",
+    "latitude": 37.275815,
+    "longitude": -97.1624299,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Cave Park Slipway",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 1639066525,
+    "name": "Boat Ramp",
+    "latitude": 38.9363995,
+    "longitude": -98.5591489,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1639066827,
+    "name": "Boat Ramp",
+    "latitude": 38.9394024,
+    "longitude": -98.5743596,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1657140809,
+    "name": "Boat Ramp",
+    "latitude": 38.9548793,
+    "longitude": -98.4913552,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1707462268,
+    "name": "Boat Ramp",
+    "latitude": 39.3505754,
+    "longitude": -95.4543657,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1707491184,
+    "name": "Boat Ramp",
+    "latitude": 39.3185184,
+    "longitude": -95.4414511,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1765731938,
+    "name": "Boat Ramp 4",
+    "latitude": 38.9222167,
+    "longitude": -95.3914113,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "loc_ref": "boat ramp",
+      "name": "Boat Ramp 4"
+    }
+  },
+  {
+    "id": 2096583312,
+    "name": "Boat Ramp",
+    "latitude": 39.459078,
+    "longitude": -95.7708696,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2118763612,
+    "name": "Boat Ramp",
+    "latitude": 37.3620863,
+    "longitude": -96.8478701,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2120365698,
+    "name": "Sailboat Boat Ramp",
+    "latitude": 37.3463097,
+    "longitude": -96.8956764,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Sailboat Boat Ramp",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 2120365893,
+    "name": "Large Boat Ramp",
+    "latitude": 37.3466659,
+    "longitude": -96.8920372,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Large Boat Ramp",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 2122039595,
+    "name": "Boat Ramp",
+    "latitude": 37.3588831,
+    "longitude": -96.8750238,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 2122071898,
+    "name": "Boat Ramp",
+    "latitude": 37.3579088,
+    "longitude": -96.8894917,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 2122265869,
+    "name": "Personal Watercraft",
+    "latitude": 37.3514467,
+    "longitude": -96.8649414,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Personal Watercraft"
+    }
+  },
+  {
+    "id": 2134395285,
+    "name": "Boat Ramp",
+    "latitude": 37.056835,
+    "longitude": -97.0254002,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 2139630550,
+    "name": "Boat Ramp",
+    "latitude": 37.0470458,
+    "longitude": -97.049295,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 2379465996,
+    "name": "Boat Ramp",
+    "latitude": 38.0624508,
+    "longitude": -100.0561489,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2460020530,
+    "name": "Blue River Access Ramp",
+    "latitude": 39.1916153,
+    "longitude": -96.537356,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Blue River Access Ramp"
+    }
+  },
+  {
+    "id": 2611809423,
+    "name": "Boat Ramp",
+    "latitude": 39.6653424,
+    "longitude": -99.1736835,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2633728117,
+    "name": "Lawrence Eighth Street Boat Ramp",
+    "latitude": 38.9716491,
+    "longitude": -95.2158876,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lawrence Eighth Street Boat Ramp",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 2698623684,
+    "name": "Boat Ramp 7",
+    "latitude": 38.9106819,
+    "longitude": -95.368582,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp 7"
+    }
+  },
+  {
+    "id": 2698623771,
+    "name": "Boat Ramp 6",
+    "latitude": 38.9143565,
+    "longitude": -95.3704681,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp 6"
+    }
+  },
+  {
+    "id": 2701843060,
+    "name": "Boat Ramp",
+    "latitude": 37.6583221,
+    "longitude": -96.0576061,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2793862463,
+    "name": "Otoe Park Boat Launch",
+    "latitude": 38.9253917,
+    "longitude": -98.4928226,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Otoe Park Boat Launch"
+    }
+  },
+  {
+    "id": 3373412554,
+    "name": "Boat Ramp",
+    "latitude": 37.7422264,
+    "longitude": -97.8399076,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3721621601,
+    "name": "Perry-Lecompton Rising Sun River Access",
+    "latitude": 39.050246,
+    "longitude": -95.3877089,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Perry-Lecompton Rising Sun River Access"
+    }
+  },
+  {
+    "id": 3732299431,
+    "name": "Boat Ramp",
+    "latitude": 38.9413708,
+    "longitude": -95.4076756,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3733393497,
+    "name": "Boat Ramp",
+    "latitude": 39.14462,
+    "longitude": -95.4089174,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3742220123,
+    "name": "Boat Ramp",
+    "latitude": 38.6482226,
+    "longitude": -95.5674237,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3743032537,
+    "name": "Clinton Lake Boat Ramp 2",
+    "latitude": 38.9330851,
+    "longitude": -95.3499742,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Clinton Lake Boat Ramp 2"
+    }
+  },
+  {
+    "id": 3746494505,
+    "name": "Boat Ramp",
+    "latitude": 39.2008994,
+    "longitude": -95.8010791,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3803726900,
+    "name": "Boat Ramp",
+    "latitude": 39.174536,
+    "longitude": -96.5533539,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3979092145,
+    "name": "Boat Ramp",
+    "latitude": 39.4540636,
+    "longitude": -95.7789096,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4012847313,
+    "name": "Boat Ramp",
+    "latitude": 39.5649115,
+    "longitude": -95.1124229,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 4632239239,
+    "name": "Boat Ramp",
+    "latitude": 37.5939736,
+    "longitude": -97.3568188,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4644906949,
+    "name": "Boat Ramp",
+    "latitude": 37.7395416,
+    "longitude": -97.3122259,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4644912339,
+    "name": "Boat Ramp",
+    "latitude": 37.7404606,
+    "longitude": -97.2687069,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4644958914,
+    "name": "Boat Ramp",
+    "latitude": 37.7661744,
+    "longitude": -97.3261505,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5045480290,
+    "name": "Stockdale Park",
+    "latitude": 39.3010267,
+    "longitude": -96.6730215,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Stockdale Park"
+    }
+  },
+  {
+    "id": 5114085419,
+    "name": "Boat Ramp",
+    "latitude": 39.1319543,
+    "longitude": -95.237828,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5139160590,
+    "name": "Boat Ramp",
+    "latitude": 37.7502395,
+    "longitude": -95.9405146,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5139405387,
+    "name": "Boat Ramp",
+    "latitude": 38.6354016,
+    "longitude": -97.99209,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Mapbox"
+    }
+  },
+  {
+    "id": 5139405388,
+    "name": "Boat Ramp",
+    "latitude": 38.6371886,
+    "longitude": -97.993135,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Mapbox"
+    }
+  },
+  {
+    "id": 5139405389,
+    "name": "Boat Ramp",
+    "latitude": 38.6679204,
+    "longitude": -98.000059,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Mapbox"
+    }
+  },
+  {
+    "id": 5269268853,
+    "name": "Boat Ramp",
+    "latitude": 38.8645656,
+    "longitude": -96.1874203,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5442015177,
+    "name": "Boat Ramp",
+    "latitude": 39.2803427,
+    "longitude": -96.5918203,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5442015533,
+    "name": "Boat Ramp",
+    "latitude": 39.2552644,
+    "longitude": -96.5776483,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5559921357,
+    "name": "Boat Ramp",
+    "latitude": 39.2313296,
+    "longitude": -96.52825,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5693634821,
+    "name": "Boat Ramp",
+    "latitude": 39.2651008,
+    "longitude": -96.1322808,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5838204336,
+    "name": "Boat Ramp",
+    "latitude": 38.0623324,
+    "longitude": -100.0559503,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5854884365,
+    "name": "Boat Ramp",
+    "latitude": 37.7017017,
+    "longitude": -95.6708768,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5967752186,
+    "name": "Boat Ramp",
+    "latitude": 39.4651121,
+    "longitude": -98.4347387,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6253284615,
+    "name": "Boat Ramp",
+    "latitude": 38.6726813,
+    "longitude": -95.5783106,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6278027469,
+    "name": "Ogden",
+    "latitude": 39.1050314,
+    "longitude": -96.6958017,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Ogden"
+    }
+  },
+  {
+    "id": 6916664327,
+    "name": "Boat Ramp",
+    "latitude": 38.5205384,
+    "longitude": -96.4130757,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7620497183,
+    "name": "Boat Ramp",
+    "latitude": 39.3826737,
+    "longitude": -96.7110225,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7995891895,
+    "name": "Boat Ramp",
+    "latitude": 38.9667427,
+    "longitude": -95.0063786,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8100865174,
+    "name": "Boat Ramp",
+    "latitude": 39.8092511,
+    "longitude": -99.9420734,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8100865177,
+    "name": "Boat Ramp",
+    "latitude": 39.8091316,
+    "longitude": -99.94207,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8129202948,
+    "name": "Boat Ramp",
+    "latitude": 39.0123108,
+    "longitude": -95.2943454,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8297994226,
+    "name": "Boat Ramp",
+    "latitude": 37.23707,
+    "longitude": -97.0129924,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8460762553,
+    "name": "Boat Ramp",
+    "latitude": 39.4157105,
+    "longitude": -99.4314305,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8460762554,
+    "name": "Boat Ramp",
+    "latitude": 39.3995045,
+    "longitude": -99.4559245,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8460762555,
+    "name": "Boat Ramp",
+    "latitude": 39.3810059,
+    "longitude": -99.4452922,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8460762556,
+    "name": "Boat Ramp",
+    "latitude": 39.3992392,
+    "longitude": -99.4248269,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 9025149706,
+    "name": "Boat Ramp",
+    "latitude": 38.7933808,
+    "longitude": -99.7987065,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9025149722,
+    "name": "Boat Ramp",
+    "latitude": 38.7897678,
+    "longitude": -99.7929759,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9025787923,
+    "name": "Boat Ramp",
+    "latitude": 38.80272,
+    "longitude": -99.7353741,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9025787925,
+    "name": "Boat Ramp",
+    "latitude": 38.7998136,
+    "longitude": -99.7345187,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9104334149,
+    "name": "Boat Ramp",
+    "latitude": 39.448169,
+    "longitude": -95.5962898,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9706836632,
+    "name": "Boat Ramp",
+    "latitude": 39.8957176,
+    "longitude": -98.0482661,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9706836639,
+    "name": "Boat Ramp",
+    "latitude": 39.9072097,
+    "longitude": -98.0886787,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9706836643,
+    "name": "Boat Ramp",
+    "latitude": 39.894898,
+    "longitude": -98.0742041,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9706836660,
+    "name": "Boat Ramp",
+    "latitude": 39.8957402,
+    "longitude": -98.0483466,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9707077831,
+    "name": "Boat Ramp",
+    "latitude": 39.0897428,
+    "longitude": -96.9583212,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9891138753,
+    "name": "Boat Ramp",
+    "latitude": 38.2458395,
+    "longitude": -95.7601614,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 9891138755,
+    "name": "Boat Ramp",
+    "latitude": 38.2446529,
+    "longitude": -95.7562757,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9891138765,
+    "name": "Boat Ramp",
+    "latitude": 38.2355043,
+    "longitude": -95.761288,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9892428068,
+    "name": "Boat Ramp",
+    "latitude": 39.2027083,
+    "longitude": -96.1757754,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9892601724,
+    "name": "Boat Ramp",
+    "latitude": 39.1981461,
+    "longitude": -96.3052662,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9902854876,
+    "name": "Boat Ramp",
+    "latitude": 39.4105258,
+    "longitude": -96.0919045,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9904644510,
+    "name": "Boat Ramp",
+    "latitude": 39.0937849,
+    "longitude": -96.9021967,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 9904644511,
+    "name": "Boat Ramp",
+    "latitude": 39.0692799,
+    "longitude": -96.9183188,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 9913616442,
+    "name": "Boat Ramp",
+    "latitude": 37.5498652,
+    "longitude": -96.6945665,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10005491046,
+    "name": "Boat Ramp",
+    "latitude": 37.7201419,
+    "longitude": -97.8221541,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10128901548,
+    "name": "Boat Ramp",
+    "latitude": 38.7787061,
+    "longitude": -99.7717367,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10128938647,
+    "name": "Boat Ramp",
+    "latitude": 38.8016408,
+    "longitude": -99.7383187,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10128938649,
+    "name": "Boat Ramp",
+    "latitude": 38.8006863,
+    "longitude": -99.7343829,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10311659413,
+    "name": "Boat Ramp",
+    "latitude": 39.2806418,
+    "longitude": -96.6348973,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10683437491,
+    "name": "Boat Ramp",
+    "latitude": 37.9240065,
+    "longitude": -95.4269275,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10915470744,
+    "name": "Boat Ramp",
+    "latitude": 39.3341089,
+    "longitude": -96.6516715,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11006148778,
+    "name": "Boat Ramp",
+    "latitude": 39.3256346,
+    "longitude": -98.2604433,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11143069064,
+    "name": "Boat Ramp",
+    "latitude": 37.3982507,
+    "longitude": -99.7847304,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11143069065,
+    "name": "Boat Ramp",
+    "latitude": 37.4034436,
+    "longitude": -99.7824484,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11143069067,
+    "name": "Boat Ramp",
+    "latitude": 37.3885572,
+    "longitude": -99.7816625,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11198644702,
+    "name": "Boat Ramp",
+    "latitude": 39.6731267,
+    "longitude": -95.5181808,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11251403802,
+    "name": "Boat Ramp",
+    "latitude": 37.2540239,
+    "longitude": -95.7776526,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12010579842,
+    "name": "Boat Ramp",
+    "latitude": 39.4721035,
+    "longitude": -96.4091197,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12039954115,
+    "name": "Boat Ramp",
+    "latitude": 38.7535688,
+    "longitude": -95.1617685,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12051737587,
+    "name": "Boat Ramp",
+    "latitude": 38.7808749,
+    "longitude": -95.5497535,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12155637323,
+    "name": "Boat Ramp",
+    "latitude": 37.7380639,
+    "longitude": -97.4218551,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12256761545,
+    "name": "Boat Ramp",
+    "latitude": 38.67603,
+    "longitude": -95.6811244,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12425572193,
+    "name": "Boat Ramp",
+    "latitude": 37.1023031,
+    "longitude": -96.7977864,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12559681102,
+    "name": "Boat Ramp",
+    "latitude": 39.2804473,
+    "longitude": -96.6385996,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12564316108,
+    "name": "Lawrence Riverfront Park Boat Ramp",
+    "latitude": 39.0000984,
+    "longitude": -95.2393113,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lawrence Riverfront Park Boat Ramp"
+    }
+  },
+  {
+    "id": 12597726164,
+    "name": "Boat Ramp",
+    "latitude": 39.4476576,
+    "longitude": -98.454822,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12637524016,
+    "name": "Boat Ramp",
+    "latitude": 38.7646279,
+    "longitude": -95.0048275,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12699297435,
+    "name": "Boat Ramp",
+    "latitude": 38.8912288,
+    "longitude": -95.4817812,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12703841817,
+    "name": "Boat Ramp",
+    "latitude": 38.668549,
+    "longitude": -95.5652254,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12709161908,
+    "name": "Boat Ramp",
+    "latitude": 38.6542764,
+    "longitude": -95.5768254,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12709161909,
+    "name": "Boat Ramp",
+    "latitude": 38.6563821,
+    "longitude": -95.5939988,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13318541656,
+    "name": "Boat Ramp",
+    "latitude": 37.7553565,
+    "longitude": -97.4130209,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13397064970,
+    "name": "Boat Ramp",
+    "latitude": 39.4897864,
+    "longitude": -98.4729727,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13418856905,
+    "name": "Boat Ramp",
+    "latitude": 39.7012608,
+    "longitude": -96.1594202,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13520799625,
+    "name": "Boat Ramp",
+    "latitude": 39.5206628,
+    "longitude": -98.3807951,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13523039890,
+    "name": "Boat Ramp",
+    "latitude": 37.1651598,
+    "longitude": -95.6918506,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13523074175,
+    "name": "Boat Ramp",
+    "latitude": 37.1645559,
+    "longitude": -95.6904005,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13523303127,
+    "name": "Boat Ramp",
+    "latitude": 37.7932939,
+    "longitude": -95.0690818,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13525361181,
+    "name": "Boat Ramp",
+    "latitude": 37.7953746,
+    "longitude": -95.8474391,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13525425762,
+    "name": "Boat Ramp",
+    "latitude": 37.6927964,
+    "longitude": -95.6750876,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13542168417,
+    "name": "Boat Ramp",
+    "latitude": 37.657316,
+    "longitude": -96.104237,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13542168566,
+    "name": "Boat Ramp",
+    "latitude": 37.6576136,
+    "longitude": -96.0916738,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13565439127,
+    "name": "Boat Ramp",
+    "latitude": 37.7417366,
+    "longitude": -97.7766252,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13565439128,
+    "name": "Boat Ramp",
+    "latitude": 37.7419834,
+    "longitude": -97.77672,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13565439129,
+    "name": "Boat Ramp",
+    "latitude": 37.7422128,
+    "longitude": -97.7768082,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13565439143,
+    "name": "Boat Ramp",
+    "latitude": 37.7631332,
+    "longitude": -97.7977506,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13565439153,
+    "name": "Boat Ramp",
+    "latitude": 37.7348308,
+    "longitude": -97.8365123,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13565458605,
+    "name": "Boat Ramp",
+    "latitude": 37.8020795,
+    "longitude": -97.8667161,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13565458642,
+    "name": "Boat Ramp",
+    "latitude": 37.8214404,
+    "longitude": -97.8964385,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13565458664,
+    "name": "Boat Ramp",
+    "latitude": 37.7640746,
+    "longitude": -97.8744319,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13565729628,
+    "name": "Boat Ramp",
+    "latitude": 38.3667663,
+    "longitude": -96.5911408,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13568613037,
+    "name": "Boat Ramp",
+    "latitude": 38.4788232,
+    "longitude": -97.4704683,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13569714719,
+    "name": "Boat Ramp",
+    "latitude": 38.2283568,
+    "longitude": -97.5101988,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13574850392,
+    "name": "Boat Ramp",
+    "latitude": 37.6506794,
+    "longitude": -98.2553068,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13578385803,
+    "name": "Boat Ramp",
+    "latitude": 39.7671992,
+    "longitude": -96.0285246,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13583650140,
+    "name": "Boat Ramp",
+    "latitude": 39.2479149,
+    "longitude": -96.1532383,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13594369099,
+    "name": "Boat Ramp",
+    "latitude": 37.774973,
+    "longitude": -95.9387347,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13594381451,
+    "name": "Boat Ramp",
+    "latitude": 37.7735692,
+    "longitude": -95.9082966,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13687600334,
+    "name": "Boat Ramp",
+    "latitude": 38.6065869,
+    "longitude": -97.9755069,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13106125,
+    "name": "Boat Ramp",
+    "latitude": 39.1381914,
+    "longitude": -95.4761668,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Jefferson, KS",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 194761330,
+    "name": "Boat Ramp",
+    "latitude": 38.9924156,
+    "longitude": -95.6322879,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 202058268,
+    "name": "Boat Ramp",
+    "latitude": 37.3462118,
+    "longitude": -96.8960143,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 202224533,
+    "name": "Boat Ramp",
+    "latitude": 37.3589504,
+    "longitude": -96.8749743,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 202229021,
+    "name": "Boat Ramp",
+    "latitude": 37.357929,
+    "longitude": -96.8892996,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 202231968,
+    "name": "Boat Ramp",
+    "latitude": 37.346674,
+    "longitude": -96.8920848,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 202251375,
+    "name": "Boat Ramp",
+    "latitude": 37.3514893,
+    "longitude": -96.864827,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 257929127,
+    "name": "Boat Ramp",
+    "latitude": 38.9718048,
+    "longitude": -95.216146,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 369564077,
+    "name": "Boat Ramp",
+    "latitude": 39.1446649,
+    "longitude": -95.4087343,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 408357702,
+    "name": "Boat Ramp",
+    "latitude": 38.9374828,
+    "longitude": -95.3889545,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 712899792,
+    "name": "Boat Ramp",
+    "latitude": 37.210106,
+    "longitude": -95.0130209,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 738635754,
+    "name": "Boat Ramp",
+    "latitude": 38.5205482,
+    "longitude": -96.4129728,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 857635159,
+    "name": "Boat Ramp",
+    "latitude": 38.9667798,
+    "longitude": -95.0061491,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 963307088,
+    "name": "City Lake Boat Ramp",
+    "latitude": 38.6161871,
+    "longitude": -95.8316383,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "City lake boat ramp"
+    }
+  },
+  {
+    "id": 975268634,
+    "name": "Boat Ramp",
+    "latitude": 38.7934319,
+    "longitude": -99.798878,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 975268635,
+    "name": "Boat Ramp",
+    "latitude": 38.7899969,
+    "longitude": -99.7930114,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 975333080,
+    "name": "Boat Ramp",
+    "latitude": 38.8017735,
+    "longitude": -99.738184,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 975333083,
+    "name": "Boat Ramp",
+    "latitude": 38.8039459,
+    "longitude": -99.7352172,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 975333084,
+    "name": "Boat Ramp",
+    "latitude": 38.8029573,
+    "longitude": -99.7355627,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 975333085,
+    "name": "Boat Ramp",
+    "latitude": 38.8006865,
+    "longitude": -99.734131,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 975333086,
+    "name": "Boat Ramp",
+    "latitude": 38.7999843,
+    "longitude": -99.7342063,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 975424462,
+    "name": "Boat Ramp",
+    "latitude": 38.7788849,
+    "longitude": -99.771811,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "yes",
+      "fee": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 984765723,
+    "name": "Boat Ramp",
+    "latitude": 39.4482183,
+    "longitude": -95.5962269,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1081653518,
+    "name": "Boat Ramp",
+    "latitude": 37.5499088,
+    "longitude": -96.6945788,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 1090348810,
+    "name": "Boat Ramp",
+    "latitude": 38.9968202,
+    "longitude": -95.6351366,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1090348857,
+    "name": "Boat Ramp",
+    "latitude": 38.9987827,
+    "longitude": -95.6332034,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1090349180,
+    "name": "Boat Ramp",
+    "latitude": 39.01343,
+    "longitude": -95.6240485,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1096119621,
+    "name": "Milford Marina",
+    "latitude": 39.2099325,
+    "longitude": -96.9607425,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Milford Marina",
+      "service": "slipway",
+      "surface": "concrete",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Geary, KS",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1105226881,
+    "name": "Boat Ramp",
+    "latitude": 39.9072814,
+    "longitude": -98.0886177,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1112356710,
+    "name": "Boat Ramp",
+    "latitude": 38.4974347,
+    "longitude": -95.7472999,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Osage, KS",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1127862293,
+    "name": "Boat Ramp",
+    "latitude": 39.2805795,
+    "longitude": -96.6348113,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1148244474,
+    "name": "Boat Ramp",
+    "latitude": 37.9239874,
+    "longitude": -95.4268914,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1320906671,
+    "name": "Boat Ramp",
+    "latitude": 39.1518673,
+    "longitude": -95.4923716,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1321522259,
+    "name": "Boat Ramp",
+    "latitude": 38.936252,
+    "longitude": -95.3883498,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 1321522265,
+    "name": "Boat Ramp",
+    "latitude": 38.9331792,
+    "longitude": -95.3499307,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1321522267,
+    "name": "Boat Ramp",
+    "latitude": 38.9348996,
+    "longitude": -95.3470962,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1323057515,
+    "name": "Boat Ramp",
+    "latitude": 39.1237909,
+    "longitude": -95.4121581,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1323057516,
+    "name": "Boat Ramp",
+    "latitude": 39.1237979,
+    "longitude": -95.4121027,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1323057517,
+    "name": "Boat Ramp",
+    "latitude": 39.1238053,
+    "longitude": -95.4120353,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1323057518,
+    "name": "Boat Ramp",
+    "latitude": 39.1238115,
+    "longitude": -95.4119782,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1323221133,
+    "name": "Boat Ramp",
+    "latitude": 39.1377404,
+    "longitude": -95.4387319,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1323221134,
+    "name": "Boat Ramp",
+    "latitude": 39.1377219,
+    "longitude": -95.4387819,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1323221135,
+    "name": "Boat Ramp",
+    "latitude": 39.1377002,
+    "longitude": -95.438835,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1323221141,
+    "name": "Boat Ramp",
+    "latitude": 39.1369483,
+    "longitude": -95.4237347,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1323221142,
+    "name": "Boat Ramp",
+    "latitude": 39.1370136,
+    "longitude": -95.4237296,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1323221143,
+    "name": "Boat Ramp",
+    "latitude": 39.1370639,
+    "longitude": -95.423739,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1324526361,
+    "name": "Boat Ramp",
+    "latitude": 38.675837,
+    "longitude": -95.6811344,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1357004997,
+    "name": "Boat Ramp",
+    "latitude": 39.2804333,
+    "longitude": -96.6387415,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1357661124,
+    "name": "Boat Ramp",
+    "latitude": 39.0001838,
+    "longitude": -95.2392698,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1364641901,
+    "name": "Boat Ramp",
+    "latitude": 38.764675,
+    "longitude": -95.0049088,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1371013637,
+    "name": "Boat Ramp",
+    "latitude": 38.6940631,
+    "longitude": -95.6120235,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1371225185,
+    "name": "Boat Ramp",
+    "latitude": 38.8912199,
+    "longitude": -95.4816517,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1371225186,
+    "name": "Boat Ramp",
+    "latitude": 38.9221232,
+    "longitude": -95.3913807,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Douglas, KS",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1371225187,
+    "name": "Boat Ramp",
+    "latitude": 38.9106428,
+    "longitude": -95.3687219,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1371225188,
+    "name": "Boat Ramp",
+    "latitude": 38.9143988,
+    "longitude": -95.3705236,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1371225189,
+    "name": "Boat Ramp",
+    "latitude": 38.9155428,
+    "longitude": -95.3720651,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1371225190,
+    "name": "Boat Ramp",
+    "latitude": 38.8797587,
+    "longitude": -95.4099375,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1371225191,
+    "name": "Lake Road 1029",
+    "latitude": 38.9414253,
+    "longitude": -95.4077255,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Lake Road 1029",
+      "name_1": "East 550 Road",
+      "service": "slipway",
+      "surface": "gravel",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Douglas, KS",
+      "tiger:name_base": "Lake Rd 1029",
+      "tiger:name_base_1": "550",
+      "tiger:name_direction_prefix_1": "E",
+      "tiger:name_type_1": "Rd",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1371379733,
+    "name": "Boat Ramp",
+    "latitude": 38.6481866,
+    "longitude": -95.5673368,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Osage, KS",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1371937767,
+    "name": "Boat Ramp",
+    "latitude": 38.6618491,
+    "longitude": -95.5526234,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1371937769,
+    "name": "Boat Ramp",
+    "latitude": 38.6685619,
+    "longitude": -95.5651048,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1372581792,
+    "name": "Boat Ramp",
+    "latitude": 38.6519952,
+    "longitude": -95.5765308,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1372581794,
+    "name": "Boat Ramp",
+    "latitude": 38.6542316,
+    "longitude": -95.5768863,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1372581795,
+    "name": "Boat Ramp",
+    "latitude": 38.6564121,
+    "longitude": -95.5940906,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1372581796,
+    "name": "Boat Ramp",
+    "latitude": 38.657144,
+    "longitude": -95.5896625,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1372581798,
+    "name": "Boat Ramp",
+    "latitude": 38.6727504,
+    "longitude": -95.5783516,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1378746475,
+    "name": "Boat Ramp",
+    "latitude": 38.5010147,
+    "longitude": -95.7127933,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1378953251,
+    "name": "Boat Ramp",
+    "latitude": 38.4931297,
+    "longitude": -95.8954896,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1378953252,
+    "name": "Boat Ramp",
+    "latitude": 38.4835358,
+    "longitude": -95.8619361,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Osage, KS"
+    }
+  },
+  {
+    "id": 1378953253,
+    "name": "Boat Ramp",
+    "latitude": 38.4961622,
+    "longitude": -95.791695,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1378953254,
+    "name": "Boat Ramp",
+    "latitude": 38.5218647,
+    "longitude": -95.7542601,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1378953256,
+    "name": "Boat Ramp",
+    "latitude": 38.5176189,
+    "longitude": -95.7329374,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1380094667,
+    "name": "Boat Ramp",
+    "latitude": 38.5160212,
+    "longitude": -95.7070817,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1382443087,
+    "name": "Boat Ramp",
+    "latitude": 39.1081145,
+    "longitude": -95.4204205,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Jefferson, KS",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1382443088,
+    "name": "Boat Ramp",
+    "latitude": 39.1254518,
+    "longitude": -95.4526813,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1382443089,
+    "name": "Boat Ramp",
+    "latitude": 39.1539373,
+    "longitude": -95.4782042,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1382443090,
+    "name": "Boat Ramp",
+    "latitude": 39.1510316,
+    "longitude": -95.4759946,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1382443092,
+    "name": "Boat Ramp",
+    "latitude": 39.1995991,
+    "longitude": -95.477751,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1382443093,
+    "name": "Boat Ramp",
+    "latitude": 39.2197077,
+    "longitude": -95.4714889,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1382443094,
+    "name": "Boat Ramp",
+    "latitude": 39.2260071,
+    "longitude": -95.4458833,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1382443095,
+    "name": "Boat Ramp",
+    "latitude": 39.1797727,
+    "longitude": -95.4433679,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1382443096,
+    "name": "Boat Ramp",
+    "latitude": 39.1735738,
+    "longitude": -95.4411193,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1387917169,
+    "name": "Boat Ramp",
+    "latitude": 38.8366499,
+    "longitude": -95.3778421,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1387917217,
+    "name": "Boat Ramp",
+    "latitude": 38.8373007,
+    "longitude": -95.3818417,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1388772175,
+    "name": "Boat Ramp",
+    "latitude": 38.8030825,
+    "longitude": -95.1550802,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1388772177,
+    "name": "Boat Ramp",
+    "latitude": 38.8036223,
+    "longitude": -95.163567,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1410115510,
+    "name": "Boat Ramp",
+    "latitude": 38.763162,
+    "longitude": -95.6750349,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1425479850,
+    "name": "Boat Ramp",
+    "latitude": 38.3030156,
+    "longitude": -95.2423045,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1447607002,
+    "name": "Boat Ramp",
+    "latitude": 39.0691529,
+    "longitude": -95.753347,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1465766739,
+    "name": "Boat Ramp",
+    "latitude": 37.8408663,
+    "longitude": -96.7803808,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1466443186,
+    "name": "Boat Ramp",
+    "latitude": 37.8458862,
+    "longitude": -96.7759803,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1466903509,
+    "name": "Boat Ramp",
+    "latitude": 37.8681625,
+    "longitude": -96.7679189,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1466903544,
+    "name": "Boat Ramp",
+    "latitude": 37.8538582,
+    "longitude": -96.7834172,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1467177569,
+    "name": "Boat Ramp",
+    "latitude": 37.8923936,
+    "longitude": -96.802661,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1467177571,
+    "name": "Boat Ramp",
+    "latitude": 37.8508352,
+    "longitude": -96.8268025,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1473269771,
+    "name": "Boat Ramp",
+    "latitude": 39.1250897,
+    "longitude": -95.1475766,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1473475836,
+    "name": "Boat Ramp",
+    "latitude": 39.8465346,
+    "longitude": -95.3744714,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1473479340,
+    "name": "Boat Ramp",
+    "latitude": 39.6319235,
+    "longitude": -95.1739877,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1473492960,
+    "name": "Boat Ramp",
+    "latitude": 38.8977513,
+    "longitude": -96.855937,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1473755030,
+    "name": "Boat Ramp",
+    "latitude": 38.5473076,
+    "longitude": -96.0613507,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 119390603,
+    "name": "Boat Ramp",
+    "latitude": 37.8219388,
+    "longitude": -94.7907266,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 121383721,
+    "name": "Boat Ramp",
+    "latitude": 38.6496104,
+    "longitude": -94.9223743,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 189128104,
+    "name": "Boat Ramp",
+    "latitude": 39.7805901,
+    "longitude": -94.8761094,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 857995518,
+    "name": "Boat Ramp",
+    "latitude": 38.6496448,
+    "longitude": -94.9223397,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 857995608,
+    "name": "Boat Ramp",
+    "latitude": 38.6596526,
+    "longitude": -94.9275398,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 857996187,
+    "name": "Antioch Boat Ramp",
+    "latitude": 38.6943637,
+    "longitude": -94.9474223,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Antioch Boat Ramp"
+    }
+  },
+  {
+    "id": 1195994232,
+    "name": "Boat Ramp",
+    "latitude": 38.9864832,
+    "longitude": -94.7994971,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1240125372,
+    "name": "Boat Ramp",
+    "latitude": 37.82055,
+    "longitude": -94.8018219,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1242060841,
+    "name": "Boat Ramp",
+    "latitude": 38.963908,
+    "longitude": -94.8428952,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1314402964,
+    "name": "Boat Ramp",
+    "latitude": 38.4643706,
+    "longitude": -94.6053615,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1830370812,
+    "name": "Boat Ramp",
+    "latitude": 39.2281947,
+    "longitude": -94.6338697,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2276187383,
+    "name": "Wade Branch Wildlife Area - Hillsdale Lake",
+    "latitude": 38.6653434,
+    "longitude": -94.944955,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Wade Branch Wildlife Area - Hillsdale Lake"
+    }
+  },
+  {
+    "id": 2948442554,
+    "name": "Boat Ramp",
+    "latitude": 38.8741593,
+    "longitude": -94.8734899,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3826913976,
+    "name": "Boat Ramp",
+    "latitude": 38.8324977,
+    "longitude": -94.6022794,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 3944751541,
+    "name": "Humphrey Access",
+    "latitude": 39.337196,
+    "longitude": -94.8157978,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "no",
+      "description": "Closed in 2020 due to flood damage.  Check website for more details.",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Humphrey Access"
+    }
+  },
+  {
+    "id": 5073744993,
+    "name": "Boat Ramp",
+    "latitude": 38.6495759,
+    "longitude": -94.9224094,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5073744995,
+    "name": "Boat Ramp",
+    "latitude": 38.6458358,
+    "longitude": -94.923375,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5438483402,
+    "name": "Boat Ramp",
+    "latitude": 39.0760149,
+    "longitude": -94.6244967,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5461141432,
+    "name": "Kaw Point",
+    "latitude": 39.1158496,
+    "longitude": -94.6115239,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "yes",
+      "description": "Ramp Approach: points downstream to the confluence on the Kaw River",
+      "leisure": "slipway",
+      "name": "Kaw Point",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 6369225462,
+    "name": "Platte Falls Conservation Area East",
+    "latitude": 39.3836778,
+    "longitude": -94.7696067,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Platte Falls Conservation Area East",
+      "surface": "concrete",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 6369226530,
+    "name": "Platte Falls Conservation Area West",
+    "latitude": 39.3839387,
+    "longitude": -94.77262,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Platte Falls Conservation Area West",
+      "surface": "concrete",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 6702053176,
+    "name": "Boat Ramp",
+    "latitude": 37.2277217,
+    "longitude": -94.9896574,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6702063020,
+    "name": "Boat Ramp",
+    "latitude": 37.2464387,
+    "longitude": -94.9515498,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7575769728,
+    "name": "Boat Ramp",
+    "latitude": 38.9402035,
+    "longitude": -94.8954951,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7768300641,
+    "name": "Boat Ramp",
+    "latitude": 38.6810132,
+    "longitude": -94.9219691,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7768300642,
+    "name": "Marysville Boat Ramp",
+    "latitude": 38.6783166,
+    "longitude": -94.8977251,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Marysville Boat Ramp"
+    }
+  },
+  {
+    "id": 7847519280,
+    "name": "Boat Ramp",
+    "latitude": 39.2013747,
+    "longitude": -94.6793618,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 9923462477,
+    "name": "Tobacco Hills Lake",
+    "latitude": 39.4212063,
+    "longitude": -94.8045202,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Tobacco Hills Lake",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 9948625772,
+    "name": "Sharps Station Access",
+    "latitude": 39.4002695,
+    "longitude": -94.7229242,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Sharps Station Access",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 10271039604,
+    "name": "Boat Ramp",
+    "latitude": 38.6495269,
+    "longitude": -94.9224591,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10271075537,
+    "name": "Boat Ramp",
+    "latitude": 38.6496949,
+    "longitude": -94.9222779,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10282618179,
+    "name": "Boat Ramp",
+    "latitude": 39.2278256,
+    "longitude": -94.7231105,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10544076870,
+    "name": "Boat Ramp",
+    "latitude": 38.1955201,
+    "longitude": -94.686244,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10824572659,
+    "name": "Boat Ramp",
+    "latitude": 37.2396859,
+    "longitude": -94.9493672,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12277798801,
+    "name": "Boat Ramp",
+    "latitude": 38.6497735,
+    "longitude": -94.9185175,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12559397242,
+    "name": "Boat Ramp",
+    "latitude": 38.6625256,
+    "longitude": -94.946298,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12559397248,
+    "name": "Boat Ramp",
+    "latitude": 38.6825388,
+    "longitude": -94.947415,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12648757984,
+    "name": "Boat Ramp",
+    "latitude": 38.5853355,
+    "longitude": -94.8458812,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12840338857,
+    "name": "Schimmel City Access",
+    "latitude": 39.291127,
+    "longitude": -94.8184617,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Schimmel City Access",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 13089517537,
+    "name": "Boat Ramp",
+    "latitude": 39.7488197,
+    "longitude": -94.8611022,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13089517551,
+    "name": "Jentell Brees Access",
+    "latitude": 39.6914678,
+    "longitude": -94.9675442,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Jentell Brees Access"
+    }
+  },
+  {
+    "id": 13245785662,
+    "name": "Boat Ramp",
+    "latitude": 39.8012866,
+    "longitude": -94.8777493,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13387392429,
+    "name": "Boat Ramp",
+    "latitude": 37.2658991,
+    "longitude": -94.8384006,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13534100427,
+    "name": "Boat Ramp",
+    "latitude": 37.6426188,
+    "longitude": -94.8127467,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13534100522,
+    "name": "Boat Ramp",
+    "latitude": 37.6305835,
+    "longitude": -94.8174486,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 158584626,
+    "name": "Boat Ramp",
+    "latitude": 38.8495353,
+    "longitude": -94.6775727,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 520593267,
+    "name": "Hillsdale State Park Slipway",
+    "latitude": 38.6495707,
+    "longitude": -94.9222256,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Hillsdale State Park Slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 520593269,
+    "name": "Hillsdale State Park Slipway",
+    "latitude": 38.6495029,
+    "longitude": -94.9222947,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Hillsdale State Park Slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 618707852,
+    "name": "Boat Ramp",
+    "latitude": 39.1856888,
+    "longitude": -94.681426,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "restricted",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 618707854,
+    "name": "Boat Ramp",
+    "latitude": 39.1818846,
+    "longitude": -94.6946981,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 677434743,
+    "name": "Boat Ramp",
+    "latitude": 38.984974,
+    "longitude": -94.9745478,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 712899797,
+    "name": "Boat Ramp",
+    "latitude": 37.2276945,
+    "longitude": -94.9896544,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 712900587,
+    "name": "Boat Ramp",
+    "latitude": 37.2465151,
+    "longitude": -94.9515068,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 712900595,
+    "name": "Boat Ramp",
+    "latitude": 37.2396583,
+    "longitude": -94.9493877,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 815581097,
+    "name": "Boat Ramp",
+    "latitude": 38.1955798,
+    "longitude": -94.6862181,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 844101917,
+    "name": "Boat Ramp",
+    "latitude": 39.1616246,
+    "longitude": -94.6126151,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 844101918,
+    "name": "Boat Ramp",
+    "latitude": 39.1621108,
+    "longitude": -94.611052,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 844101938,
+    "name": "Missouri River Boating Association",
+    "latitude": 39.1814762,
+    "longitude": -94.6649316,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Missouri River Boating Association",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 844388862,
+    "name": "Boat Ramp",
+    "latitude": 39.328969,
+    "longitude": -94.9098573,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 854310732,
+    "name": "Boat Ramp",
+    "latitude": 38.8740531,
+    "longitude": -94.8734898,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 907764730,
+    "name": "Boat Ramp",
+    "latitude": 39.780293,
+    "longitude": -94.8767967,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 945959030,
+    "name": "Boat Ramp",
+    "latitude": 39.0505047,
+    "longitude": -94.8166414,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1082780614,
+    "name": "Boat Ramp",
+    "latitude": 39.4212227,
+    "longitude": -94.8044491,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1123083861,
+    "name": "Hillsdale State Park Slipway",
+    "latitude": 38.6496204,
+    "longitude": -94.9221687,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Hillsdale State Park Slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1123083862,
+    "name": "Hillsdale State Park Slipway",
+    "latitude": 38.6495388,
+    "longitude": -94.9222598,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Hillsdale State Park Slipway",
+      "service": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Miami, KS",
+      "tiger:reviewed": "yes"
+    }
+  },
+  {
+    "id": 1123083869,
+    "name": "Hillsdale State Park Slipway",
+    "latitude": 38.6494576,
+    "longitude": -94.9223435,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Hillsdale State Park Slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1319754054,
+    "name": "WyCo Lake Boat Ramp",
+    "latitude": 39.1656928,
+    "longitude": -94.7886537,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "WyCo Lake Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1323303656,
+    "name": "Boat Ramp",
+    "latitude": 38.8481547,
+    "longitude": -94.846741,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1325471700,
+    "name": "Boat Ramp",
+    "latitude": 38.9112313,
+    "longitude": -94.9697961,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1327142061,
+    "name": "Hillsdale State Park Slipway",
+    "latitude": 38.6497502,
+    "longitude": -94.9184709,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Hillsdale State Park Slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1327142064,
+    "name": "Boat Ramp",
+    "latitude": 38.6596332,
+    "longitude": -94.9276161,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1365863671,
+    "name": "Boat Ramp",
+    "latitude": 38.5853381,
+    "longitude": -94.8459886,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1392498051,
+    "name": "Boat Ramp",
+    "latitude": 38.3736188,
+    "longitude": -94.6450071,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1392498052,
+    "name": "Boat Ramp",
+    "latitude": 38.3808077,
+    "longitude": -94.6605323,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1392498053,
+    "name": "Boat Ramp",
+    "latitude": 38.3679005,
+    "longitude": -94.664552,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1392498055,
+    "name": "Boat Ramp",
+    "latitude": 38.4007895,
+    "longitude": -94.654615,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1409922274,
+    "name": "Boat Ramp",
+    "latitude": 38.7626452,
+    "longitude": -94.8424205,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1410219781,
+    "name": "Boat Ramp",
+    "latitude": 38.5112043,
+    "longitude": -94.6729078,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1424165461,
+    "name": "Boat Ramp",
+    "latitude": 39.7486988,
+    "longitude": -94.8604354,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1424165462,
+    "name": "Boat Ramp",
+    "latitude": 39.6912949,
+    "longitude": -94.9674338,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1442254436,
+    "name": "Boat Ramp",
+    "latitude": 37.8280618,
+    "longitude": -94.7244406,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1443473882,
+    "name": "Boat Ramp",
+    "latitude": 39.8013615,
+    "longitude": -94.8782167,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1443473883,
+    "name": "Boat Ramp",
+    "latitude": 39.7807219,
+    "longitude": -94.8758859,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1443473884,
+    "name": "Boat Ramp",
+    "latitude": 39.801278,
+    "longitude": -94.87748,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1443473885,
+    "name": "Boat Ramp",
+    "latitude": 39.7488624,
+    "longitude": -94.8613034,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1443473886,
+    "name": "Boat Ramp",
+    "latitude": 39.6915166,
+    "longitude": -94.9675787,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1472539273,
+    "name": "Boat Ramp",
+    "latitude": 38.416428,
+    "longitude": -94.7937389,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1473217661,
+    "name": "Boat Ramp",
+    "latitude": 38.5265999,
+    "longitude": -94.9947221,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1482287688,
+    "name": "Boat Ramp",
+    "latitude": 37.4249093,
+    "longitude": -94.7593535,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "payment:none": "yes",
+      "service": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1482297765,
+    "name": "Boat Ramp",
+    "latitude": 37.421474,
+    "longitude": -94.7602795,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "gravel",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 1482300437,
+    "name": "Boat Ramp",
+    "latitude": 37.3871292,
+    "longitude": -94.777517,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "charge": "0",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "payment:none": "yes",
+      "service": "slipway",
+      "surface": "gravel",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 1482300607,
+    "name": "Boat Ramp",
+    "latitude": 37.3874794,
+    "longitude": -94.7836934,
+    "state": "Kansas",
+    "stateAbbr": "KS",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "charge": "0",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "payment:none": "yes",
+      "service": "slipway",
+      "surface": "gravel",
+      "trailer": "yes"
+    }
+  }
+]

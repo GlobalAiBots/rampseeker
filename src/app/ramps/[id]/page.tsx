@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { unified, getUnifiedRampById, amenityLabels, type UnifiedRamp } from "@/data/all-ramps";
 import { getLakeForRamp } from "@/data/lakes";
+import { getTexasLakeForRamp } from "@/data/texas-lakes";
 import { getCountyForCity } from "@/data/counties";
 import AdSlot from "@/components/AdSlot";
 import CletusPromo from "@/components/CletusPromo";
@@ -56,7 +57,7 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
   if (!ramp) notFound();
 
   const gl = ramp.grandLakeData;
-  const lake = getLakeForRamp(ramp.latitude, ramp.longitude);
+  const lake = getLakeForRamp(ramp.latitude, ramp.longitude) || (ramp.state === "TX" ? getTexasLakeForRamp(ramp.latitude, ramp.longitude) : undefined);
   const county = getCountyForCity(ramp.city);
   const citySlug = ramp.city.toLowerCase().replace(/\s+/g, "-");
   const nearby = unified.filter((r) => r.id !== ramp.id).sort((a, b) => {

@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1327140242,
+    "name": "Boat Ramp",
+    "latitude": 39.6594205,
+    "longitude": -79.9916944,
+    "state": "West Virginia",
+    "stateAbbr": "WV",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1732570040,
+    "name": "Boat Ramp",
+    "latitude": 39.6863686,
+    "longitude": -79.9407816,
+    "state": "West Virginia",
+    "stateAbbr": "WV",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8979756360,
+    "name": "Boat Ramp",
+    "latitude": 39.5182541,
+    "longitude": -80.0916834,
+    "state": "West Virginia",
+    "stateAbbr": "WV",
+    "tags": {
+      "leisure": "slipway"
+    }
+  }
+]

@@ -1,0 +1,2175 @@
+[
+  {
+    "id": 183528672,
+    "name": "Boat Ramp",
+    "latitude": 38.4047603,
+    "longitude": -75.0631174,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 488359971,
+    "name": "Boat Ramp",
+    "latitude": 39.4142936,
+    "longitude": -75.3209319,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "yes",
+      "addr:street": "Road",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Boat ramp",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 489036565,
+    "name": "Boat Ramp",
+    "latitude": 39.4091371,
+    "longitude": -75.0552089,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 489042221,
+    "name": "Boat Ramp",
+    "latitude": 39.4252756,
+    "longitude": -75.3585813,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 994212660,
+    "name": "Boat Ramp",
+    "latitude": 39.547774,
+    "longitude": -75.7027972,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Yahoo"
+    }
+  },
+  {
+    "id": 1030346060,
+    "name": "Boat Ramp",
+    "latitude": 39.388453,
+    "longitude": -75.527185,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1030346062,
+    "name": "Boat Ramp",
+    "latitude": 39.388442,
+    "longitude": -75.5270621,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1030346068,
+    "name": "Boat Ramp",
+    "latitude": 39.3884475,
+    "longitude": -75.5271236,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1039442296,
+    "name": "Boat Ramp",
+    "latitude": 39.6924621,
+    "longitude": -75.5293462,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "source": "Bing, Oct 2007"
+    }
+  },
+  {
+    "id": 1316706296,
+    "name": "Boat Ramp",
+    "latitude": 39.4311289,
+    "longitude": -75.6011301,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1357665181,
+    "name": "Boat Ramp",
+    "latitude": 39.5047767,
+    "longitude": -75.5799715,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1564225637,
+    "name": "Boat Ramp",
+    "latitude": 39.7092561,
+    "longitude": -75.596804,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1606909311,
+    "name": "Boat Ramp",
+    "latitude": 39.5893966,
+    "longitude": -75.165279,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat ramp"
+    }
+  },
+  {
+    "id": 1606917447,
+    "name": "Public Boat Ramp",
+    "latitude": 39.5967217,
+    "longitude": -75.1649142,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "lanes": "1",
+      "leisure": "slipway",
+      "name": "Public boat ramp"
+    }
+  },
+  {
+    "id": 1673576526,
+    "name": "Boat Ramp",
+    "latitude": 38.5720434,
+    "longitude": -75.100005,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1673880957,
+    "name": "White Horse Park Boat Launch",
+    "latitude": 38.4014231,
+    "longitude": -75.1575708,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway",
+      "name": "White Horse Park Boat Launch"
+    }
+  },
+  {
+    "id": 1734742598,
+    "name": "Boat Ramp",
+    "latitude": 38.4788746,
+    "longitude": -75.0968399,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1987684886,
+    "name": "Boat Ramp",
+    "latitude": 38.6163883,
+    "longitude": -75.1242855,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "source": "Bing, 2010"
+    }
+  },
+  {
+    "id": 1988362022,
+    "name": "Boat Ramp",
+    "latitude": 38.6359056,
+    "longitude": -75.167482,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1989029395,
+    "name": "Boat Ramp",
+    "latitude": 38.6158049,
+    "longitude": -75.0729908,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2022472940,
+    "name": "Boat Ramp",
+    "latitude": 39.685272,
+    "longitude": -75.6322377,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2074064478,
+    "name": "Boat Ramp",
+    "latitude": 39.1141069,
+    "longitude": -75.4993283,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing",
+      "source:date": "2010-06/2011-05"
+    }
+  },
+  {
+    "id": 2074064482,
+    "name": "Boat Ramp",
+    "latitude": 39.1141522,
+    "longitude": -75.4993149,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing",
+      "source:date": "2010-06/2011-05"
+    }
+  },
+  {
+    "id": 2156756641,
+    "name": "Boat Ramp",
+    "latitude": 39.6620144,
+    "longitude": -75.0493394,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2178919025,
+    "name": "Boat Ramp",
+    "latitude": 39.7283143,
+    "longitude": -75.1428916,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2471568888,
+    "name": "Boat Ramp",
+    "latitude": 39.3810606,
+    "longitude": -75.2223693,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2582748611,
+    "name": "Boat Ramp",
+    "latitude": 38.5589645,
+    "longitude": -75.2198668,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2597399918,
+    "name": "Boat Ramp",
+    "latitude": 38.8218524,
+    "longitude": -75.2596656,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3373603322,
+    "name": "Mulberry Landing Boat Ramp",
+    "latitude": 38.4852642,
+    "longitude": -75.0773876,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "addr:city": "Frankford",
+      "addr:postcode": "19945",
+      "addr:state": "DE",
+      "addr:street": "Mulberry Landing Road",
+      "leisure": "slipway",
+      "name": "Mulberry Landing Boat Ramp"
+    }
+  },
+  {
+    "id": 3700455974,
+    "name": "Boat Ramp",
+    "latitude": 38.61393,
+    "longitude": -75.0724213,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3802639043,
+    "name": "Fort DuPont Public Boat Ramp",
+    "latitude": 39.5753164,
+    "longitude": -75.5890243,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "yes",
+      "description": "Public Boat ramp to C&D Branch Canal, access to C&D Canal and Delaware River.",
+      "leisure": "slipway",
+      "name": "Fort DuPont Public Boat Ramp"
+    }
+  },
+  {
+    "id": 4269096129,
+    "name": "Boat Ramp",
+    "latitude": 38.4995296,
+    "longitude": -75.0845573,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4283394239,
+    "name": "James Farm Canoe Launch",
+    "latitude": 38.5789952,
+    "longitude": -75.0836497,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway",
+      "name": "James Farm Canoe Launch"
+    }
+  },
+  {
+    "id": 4283394240,
+    "name": "New Road Non-Motorized Boat Launch",
+    "latitude": 38.6705004,
+    "longitude": -75.0726043,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway",
+      "name": "New Road Non-Motorized Boat Launch"
+    }
+  },
+  {
+    "id": 4283394241,
+    "name": "Savages Ditch Kayak Launch",
+    "latitude": 38.6291691,
+    "longitude": -75.0719672,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Savages Ditch Kayak Launch"
+    }
+  },
+  {
+    "id": 4283398693,
+    "name": "Boat Ramp",
+    "latitude": 38.613858,
+    "longitude": -75.0724059,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4285304043,
+    "name": "Boat Ramp",
+    "latitude": 38.5458473,
+    "longitude": -75.0711664,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4285304060,
+    "name": "Boat Ramp",
+    "latitude": 38.5497228,
+    "longitude": -75.0636346,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4285304084,
+    "name": "Boat Ramp",
+    "latitude": 38.5542335,
+    "longitude": -75.0643638,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4288170611,
+    "name": "Lewes Public Boat Ramp",
+    "latitude": 38.7909094,
+    "longitude": -75.1656357,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lewes Public Boat Ramp"
+    }
+  },
+  {
+    "id": 4288199037,
+    "name": "Boat Ramp",
+    "latitude": 38.5222693,
+    "longitude": -75.0687107,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4288211388,
+    "name": "Assawoman Day Area",
+    "latitude": 38.4973667,
+    "longitude": -75.0561714,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Assawoman Day Area"
+    }
+  },
+  {
+    "id": 4551648779,
+    "name": "Ingrams Pond Boat Ramp",
+    "latitude": 38.5886111,
+    "longitude": -75.3280861,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Ingrams Pond Boat Ramp"
+    }
+  },
+  {
+    "id": 4572128614,
+    "name": "Seaford Boat Ramp",
+    "latitude": 38.6334718,
+    "longitude": -75.6180236,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Seaford Boat Ramp"
+    }
+  },
+  {
+    "id": 4680032286,
+    "name": "Rosedale Public Boat Ramp",
+    "latitude": 38.5943614,
+    "longitude": -75.2083745,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Rosedale Public Boat Ramp"
+    }
+  },
+  {
+    "id": 4680033415,
+    "name": "Massey'S Landing Public Boat Ramp",
+    "latitude": 38.6252153,
+    "longitude": -75.0997941,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Massey's Landing Public Boat Ramp"
+    }
+  },
+  {
+    "id": 4682199624,
+    "name": "Boat Ramp",
+    "latitude": 38.5810162,
+    "longitude": -75.1523483,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4684674991,
+    "name": "Pot-Nets Creekside Boat Ramp",
+    "latitude": 38.6431206,
+    "longitude": -75.1472289,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "name": "Pot-Nets Creekside Boat Ramp"
+    }
+  },
+  {
+    "id": 4915885581,
+    "name": "Millsboro Pond Boat Ramp",
+    "latitude": 38.5977602,
+    "longitude": -75.2929582,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Millsboro Pond Boat Ramp"
+    }
+  },
+  {
+    "id": 4945179035,
+    "name": "Boat Ramp",
+    "latitude": 38.4558892,
+    "longitude": -75.0732265,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4945181787,
+    "name": "Boat Ramp",
+    "latitude": 38.5768464,
+    "longitude": -75.0892228,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4945181788,
+    "name": "Boat Ramp",
+    "latitude": 38.5738085,
+    "longitude": -75.0937214,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5009010926,
+    "name": "Boat Ramp",
+    "latitude": 38.4653761,
+    "longitude": -75.0866939,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5034851855,
+    "name": "Boat Ramp",
+    "latitude": 38.5915791,
+    "longitude": -75.1261276,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5112066465,
+    "name": "Boat Ramp",
+    "latitude": 38.6799008,
+    "longitude": -75.5943195,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5114017313,
+    "name": "Boat Ramp",
+    "latitude": 38.6434337,
+    "longitude": -75.5514568,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5141322224,
+    "name": "Greenwich Boatworks & Marina",
+    "latitude": 39.3837733,
+    "longitude": -75.3502529,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "Greenwich Boatworks & Marina"
+    }
+  },
+  {
+    "id": 5195636508,
+    "name": "Boat Ramp",
+    "latitude": 38.5586872,
+    "longitude": -75.5547867,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5344160552,
+    "name": "Boat Ramp",
+    "latitude": 38.7788006,
+    "longitude": -75.3099427,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5595631037,
+    "name": "Boat Ramp",
+    "latitude": 38.54557,
+    "longitude": -75.7174228,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "motorboat": "yes"
+    }
+  },
+  {
+    "id": 5621066260,
+    "name": "Boat Ramp",
+    "latitude": 38.4233189,
+    "longitude": -75.5653515,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5693104699,
+    "name": "Boat Ramp",
+    "latitude": 39.7172556,
+    "longitude": -75.4763778,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5731394372,
+    "name": "Kayak Launch",
+    "latitude": 38.5010531,
+    "longitude": -75.071239,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kayak Launch"
+    }
+  },
+  {
+    "id": 6298257631,
+    "name": "Boat Ramp",
+    "latitude": 38.7762394,
+    "longitude": -75.3126729,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6386982654,
+    "name": "Boat Ramp",
+    "latitude": 38.9042749,
+    "longitude": -75.4862536,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6386982660,
+    "name": "Boat Ramp",
+    "latitude": 38.9114958,
+    "longitude": -75.465068,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6568959296,
+    "name": "Boat Ramp",
+    "latitude": 38.4776025,
+    "longitude": -75.0897469,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6747154796,
+    "name": "Riverdale Boat Ramp",
+    "latitude": 38.5930174,
+    "longitude": -75.1863651,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "name": "Riverdale Boat Ramp"
+    }
+  },
+  {
+    "id": 6747154797,
+    "name": "Pot-Nets Bayside Boat Ramp",
+    "latitude": 38.6113629,
+    "longitude": -75.1548999,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "name": "Pot-Nets Bayside Boat Ramp"
+    }
+  },
+  {
+    "id": 6747154798,
+    "name": "Pontoon Point Boat Ramp",
+    "latitude": 38.612739,
+    "longitude": -75.1481699,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "name": "Pontoon Point Boat Ramp"
+    }
+  },
+  {
+    "id": 6747154799,
+    "name": "Boat Ramp",
+    "latitude": 38.6132665,
+    "longitude": -75.1405063,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6747154800,
+    "name": "Pot-Nets Seaside Boat Ramp",
+    "latitude": 38.6198538,
+    "longitude": -75.0992297,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "name": "Pot-Nets Seaside Boat Ramp"
+    }
+  },
+  {
+    "id": 6747154801,
+    "name": "Pot-Nets Dockside Boat Ramp",
+    "latitude": 38.6255819,
+    "longitude": -75.1082324,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "name": "Pot-Nets Dockside Boat Ramp"
+    }
+  },
+  {
+    "id": 6747154802,
+    "name": "Pot-Nets Coveside Boat Ramp",
+    "latitude": 38.6308439,
+    "longitude": -75.1180969,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "name": "Pot-Nets Coveside Boat Ramp"
+    }
+  },
+  {
+    "id": 6747154803,
+    "name": "Bay City Boat Ramp",
+    "latitude": 38.6339282,
+    "longitude": -75.1257513,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "name": "Bay City Boat Ramp"
+    }
+  },
+  {
+    "id": 6747154804,
+    "name": "Rehoboth Shores Boat Ramp",
+    "latitude": 38.6338752,
+    "longitude": -75.1326204,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "name": "Rehoboth Shores Boat Ramp"
+    }
+  },
+  {
+    "id": 6747154805,
+    "name": "Mariner'S Cove Boat Ramp",
+    "latitude": 38.6284457,
+    "longitude": -75.129459,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "name": "Mariner's Cove Boat Ramp"
+    }
+  },
+  {
+    "id": 6747154806,
+    "name": "Leisure Point Boat Ramp",
+    "latitude": 38.6395926,
+    "longitude": -75.1575982,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "name": "Leisure Point Boat Ramp"
+    }
+  },
+  {
+    "id": 6747154807,
+    "name": "Winding Creek Village Boat Ramp",
+    "latitude": 38.6435832,
+    "longitude": -75.1597692,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "name": "Winding Creek Village Boat Ramp"
+    }
+  },
+  {
+    "id": 6747154808,
+    "name": "Boat Ramp",
+    "latitude": 38.5915626,
+    "longitude": -75.2119554,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6773665662,
+    "name": "Malone'S Bayside Marina",
+    "latitude": 38.6247953,
+    "longitude": -75.1204513,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Malone's Bayside Marina"
+    }
+  },
+  {
+    "id": 6791971193,
+    "name": "Boat Ramp",
+    "latitude": 38.6555344,
+    "longitude": -75.1733892,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6821257133,
+    "name": "Boat Ramp",
+    "latitude": 39.3128994,
+    "longitude": -75.1564704,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6821400887,
+    "name": "Boat Ramp",
+    "latitude": 39.3349799,
+    "longitude": -75.2022144,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 6829145503,
+    "name": "Hancock Harbor",
+    "latitude": 39.3770403,
+    "longitude": -75.3557161,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "Hancock Harbor",
+      "website": "http://www.hancockharbor.com/"
+    }
+  },
+  {
+    "id": 6833051851,
+    "name": "Boat Ramp",
+    "latitude": 39.4264213,
+    "longitude": -75.2359113,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 6845177744,
+    "name": "Boat Ramp",
+    "latitude": 38.9975246,
+    "longitude": -75.7860125,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "charge": "5 USD",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6845254939,
+    "name": "Boat Ramp",
+    "latitude": 38.6788412,
+    "longitude": -75.7748402,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6845254941,
+    "name": "Boat Ramp",
+    "latitude": 38.6787858,
+    "longitude": -75.7748518,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6845255655,
+    "name": "Boat Ramp",
+    "latitude": 38.6881111,
+    "longitude": -75.7702305,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6853713041,
+    "name": "Boat Ramp",
+    "latitude": 39.4477427,
+    "longitude": -75.2405188,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6858933863,
+    "name": "Boat Ramp",
+    "latitude": 39.391787,
+    "longitude": -75.2029169,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6901659515,
+    "name": "Boat Ramp",
+    "latitude": 39.0679382,
+    "longitude": -75.7362245,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6936879114,
+    "name": "Boat Ramp",
+    "latitude": 38.5948478,
+    "longitude": -75.2879346,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6936889523,
+    "name": "Boat Ramp",
+    "latitude": 38.5945944,
+    "longitude": -75.2892845,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7041218319,
+    "name": "Boat Ramp",
+    "latitude": 38.5752227,
+    "longitude": -75.7929889,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7056149488,
+    "name": "Boat Ramp",
+    "latitude": 38.5570681,
+    "longitude": -75.5774653,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7198573144,
+    "name": "Boat Ramp",
+    "latitude": 39.246153,
+    "longitude": -75.1302746,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "parking": "yes"
+    }
+  },
+  {
+    "id": 7499993128,
+    "name": "Boat Ramp",
+    "latitude": 39.1683106,
+    "longitude": -75.520993,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7567854284,
+    "name": "Boat Ramp",
+    "latitude": 38.544424,
+    "longitude": -75.0824512,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7567870076,
+    "name": "Boat Ramp",
+    "latitude": 38.5571856,
+    "longitude": -75.0885915,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7600896361,
+    "name": "Boat Ramp",
+    "latitude": 38.5829666,
+    "longitude": -75.2532652,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7690092368,
+    "name": "Boat Ramp",
+    "latitude": 38.5874474,
+    "longitude": -75.0748825,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "permissive",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7706498924,
+    "name": "Boat Ramp",
+    "latitude": 38.6162,
+    "longitude": -75.0728865,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7857943769,
+    "name": "Boat Ramp",
+    "latitude": 38.6278064,
+    "longitude": -75.6461943,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7880207825,
+    "name": "Boat Ramp",
+    "latitude": 39.0460718,
+    "longitude": -75.393626,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7899233667,
+    "name": "Boat Ramp",
+    "latitude": 38.5439906,
+    "longitude": -75.0652695,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7990714601,
+    "name": "Coursey Pond Boat Ramp",
+    "latitude": 38.9895047,
+    "longitude": -75.5113258,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Coursey Pond Boat Ramp"
+    }
+  },
+  {
+    "id": 8009988386,
+    "name": "Boat Ramp",
+    "latitude": 38.8207199,
+    "longitude": -75.2655324,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8274481938,
+    "name": "Boat Ramp",
+    "latitude": 38.5405853,
+    "longitude": -75.6365346,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8283838417,
+    "name": "Boat Ramp",
+    "latitude": 38.5643198,
+    "longitude": -75.6723153,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8413288424,
+    "name": "Boat Ramp",
+    "latitude": 38.777736,
+    "longitude": -75.1407576,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8448558798,
+    "name": "Boat Ramp",
+    "latitude": 39.2383236,
+    "longitude": -75.0957764,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8821414257,
+    "name": "Boat Ramp",
+    "latitude": 38.4677638,
+    "longitude": -75.1076374,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8872997348,
+    "name": "Boat Ramp",
+    "latitude": 38.6877936,
+    "longitude": -75.0755327,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8913997014,
+    "name": "Boat Ramp",
+    "latitude": 38.5633849,
+    "longitude": -75.5393909,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9122291530,
+    "name": "Boat Ramp",
+    "latitude": 39.7487329,
+    "longitude": -75.455686,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9382970490,
+    "name": "Boat Ramp",
+    "latitude": 39.2430315,
+    "longitude": -75.1700948,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9649305585,
+    "name": "Boat Ramp",
+    "latitude": 39.6561487,
+    "longitude": -75.5686859,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9740490651,
+    "name": "Cedar Creek Public Boat Ramp",
+    "latitude": 38.9392955,
+    "longitude": -75.321624,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Cedar Creek Public Boat Ramp"
+    }
+  },
+  {
+    "id": 9996572683,
+    "name": "Boat Ramp",
+    "latitude": 38.5909597,
+    "longitude": -75.1223222,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10104720781,
+    "name": "Boat Ramp",
+    "latitude": 38.6379233,
+    "longitude": -75.6105365,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10104720782,
+    "name": "Boat Ramp",
+    "latitude": 38.6366368,
+    "longitude": -75.6115592,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10809764237,
+    "name": "Boat Ramp",
+    "latitude": 38.7793578,
+    "longitude": -75.1414364,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10879233113,
+    "name": "Boat Ramp",
+    "latitude": 39.4210808,
+    "longitude": -75.4270216,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "source": "Bing",
+      "tidal": "yes"
+    }
+  },
+  {
+    "id": 10879241772,
+    "name": "Boat Ramp",
+    "latitude": 39.4333335,
+    "longitude": -75.4187503,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 10879241774,
+    "name": "Boat Ramp",
+    "latitude": 39.4438468,
+    "longitude": -75.4090068,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 10879246817,
+    "name": "Boat Ramp",
+    "latitude": 39.434397,
+    "longitude": -75.4174834,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 10936864803,
+    "name": "Boat Ramp",
+    "latitude": 38.9807009,
+    "longitude": -75.529365,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10950879678,
+    "name": "Boat Ramp",
+    "latitude": 39.058501,
+    "longitude": -75.3977105,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10950879680,
+    "name": "Boat Ramp",
+    "latitude": 39.058527,
+    "longitude": -75.3976464,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10950879682,
+    "name": "Boat Ramp",
+    "latitude": 39.0585557,
+    "longitude": -75.3975734,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10950879684,
+    "name": "Boat Ramp",
+    "latitude": 39.0582019,
+    "longitude": -75.398351,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10950886724,
+    "name": "Boat Ramp",
+    "latitude": 39.1603142,
+    "longitude": -75.4442089,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10951014561,
+    "name": "Boat Ramp",
+    "latitude": 39.194291,
+    "longitude": -75.4030368,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10951014562,
+    "name": "Boat Ramp",
+    "latitude": 39.1943123,
+    "longitude": -75.4028957,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10951019997,
+    "name": "Boat Ramp",
+    "latitude": 39.0760727,
+    "longitude": -75.4170201,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10951053605,
+    "name": "Boat Ramp",
+    "latitude": 39.0572949,
+    "longitude": -75.3995067,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11017797933,
+    "name": "Boat Ramp",
+    "latitude": 38.582786,
+    "longitude": -75.06252,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 11303113054,
+    "name": "Boat Ramp",
+    "latitude": 39.4081449,
+    "longitude": -75.0671326,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11481314079,
+    "name": "Boat Ramp",
+    "latitude": 38.7933407,
+    "longitude": -75.2728529,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11628129481,
+    "name": "Boat Ramp",
+    "latitude": 39.4086368,
+    "longitude": -75.5992687,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11628129534,
+    "name": "Boat Ramp",
+    "latitude": 39.4526987,
+    "longitude": -75.6543483,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11628129557,
+    "name": "Boat Ramp",
+    "latitude": 39.4386169,
+    "longitude": -75.6933764,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11632324006,
+    "name": "Boat Ramp",
+    "latitude": 39.2919552,
+    "longitude": -75.1973361,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11632324134,
+    "name": "Boat Ramp",
+    "latitude": 39.2977329,
+    "longitude": -75.2476996,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11772447167,
+    "name": "Boat Ramp",
+    "latitude": 39.3736934,
+    "longitude": -75.2931349,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "tidal": "yes"
+    }
+  },
+  {
+    "id": 12023664304,
+    "name": "Boat Ramp",
+    "latitude": 38.877463,
+    "longitude": -75.2759004,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes"
+    }
+  },
+  {
+    "id": 12122176860,
+    "name": "Boat Ramp",
+    "latitude": 39.2231119,
+    "longitude": -75.4926132,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12134877497,
+    "name": "Boat Ramp",
+    "latitude": 39.6696551,
+    "longitude": -75.4661227,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "yes",
+      "canoe": "discouraged",
+      "fee": "no",
+      "leisure": "slipway",
+      "parking": "yes",
+      "surface": "concrete",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 12134881394,
+    "name": "Pittsfield Street Boat Launch",
+    "latitude": 39.6402308,
+    "longitude": -75.4800464,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Pittsfield Street Boat Launch",
+      "parking": "yes"
+    }
+  },
+  {
+    "id": 12134881589,
+    "name": "Boat Ramp",
+    "latitude": 39.6718781,
+    "longitude": -75.4457802,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12134946907,
+    "name": "Boat Ramp",
+    "latitude": 39.5792114,
+    "longitude": -75.4762245,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12134946959,
+    "name": "Boat Ramp",
+    "latitude": 39.5799008,
+    "longitude": -75.4804896,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "customers",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12137608872,
+    "name": "Boat Ramp",
+    "latitude": 39.5284359,
+    "longitude": -75.2679116,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "yes",
+      "bin": "yes",
+      "camping": "no",
+      "canoe": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "opening_hours": "sunrise-sunset",
+      "parking": "no",
+      "picnic_table": "yes",
+      "surface": "concrete",
+      "toilets": "no"
+    }
+  },
+  {
+    "id": 12429090151,
+    "name": "Boat Ramp",
+    "latitude": 39.4544828,
+    "longitude": -75.4312225,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12434381890,
+    "name": "Boat Ramp",
+    "latitude": 39.3508594,
+    "longitude": -75.2581025,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12542660806,
+    "name": "Boat Ramp",
+    "latitude": 38.5760857,
+    "longitude": -75.7942919,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12542660833,
+    "name": "Boat Ramp",
+    "latitude": 38.6397076,
+    "longitude": -75.6116611,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "canoe": "designated",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12623805142,
+    "name": "Boat Ramp",
+    "latitude": 39.3770126,
+    "longitude": -75.0365948,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12697407166,
+    "name": "Boat Ramp",
+    "latitude": 39.3888704,
+    "longitude": -75.6347508,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13432920323,
+    "name": "Unpowered Boatslip",
+    "latitude": 38.662177,
+    "longitude": -75.1725514,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Unpowered Boatslip",
+      "surface": "sand"
+    }
+  },
+  {
+    "id": 13433061666,
+    "name": "Boat Ramp",
+    "latitude": 38.6606,
+    "longitude": -75.1698229,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13433061667,
+    "name": "Boat Ramp",
+    "latitude": 38.6654484,
+    "longitude": -75.1824271,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 429655848,
+    "name": "Boat Ramp",
+    "latitude": 38.7909308,
+    "longitude": -75.1654274,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 429655849,
+    "name": "Boat Ramp",
+    "latitude": 38.7910408,
+    "longitude": -75.165662,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 429655850,
+    "name": "Boat Ramp",
+    "latitude": 38.7909882,
+    "longitude": -75.1655523,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 470362351,
+    "name": "Scotton Landing Slipway",
+    "latitude": 39.0848923,
+    "longitude": -75.4604522,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Scotton Landing Slipway",
+      "source": "bing;local knowledge",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 545358595,
+    "name": "Boat Ramp",
+    "latitude": 39.553162,
+    "longitude": -75.7127932,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 730842718,
+    "name": "Boat Ramp",
+    "latitude": 38.9712395,
+    "longitude": -75.7996249,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "charge": "5 USD",
+      "fee": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "website": "https://www.carolinemd.org/344/Boat-Ramps-Permit-Requirements"
+    }
+  },
+  {
+    "id": 737192371,
+    "name": "Boat Ramp",
+    "latitude": 39.0679395,
+    "longitude": -75.7361519,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 740934169,
+    "name": "Cupola Park Boat Ramp",
+    "latitude": 38.594531,
+    "longitude": -75.2892654,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Cupola Park Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 740935002,
+    "name": "Cupola Park Boat Ramp",
+    "latitude": 38.5948583,
+    "longitude": -75.2880355,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Cupola Park Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 809382836,
+    "name": "Boat Ramp",
+    "latitude": 38.5443737,
+    "longitude": -75.0825139,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "highway": "path",
+      "leisure": "slipway",
+      "surface": "ground"
+    }
+  },
+  {
+    "id": 822651321,
+    "name": "Boat Ramp",
+    "latitude": 38.5298401,
+    "longitude": -75.4799517,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "fee": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 905991260,
+    "name": "Boat Ramp",
+    "latitude": 38.7874321,
+    "longitude": -75.1611486,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1017265437,
+    "name": "Boat Ramp",
+    "latitude": 39.2430064,
+    "longitude": -75.1700344,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1096334714,
+    "name": "Boat Ramp",
+    "latitude": 38.4232696,
+    "longitude": -75.5654984,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "parking_aisle"
+    }
+  },
+  {
+    "id": 1356288213,
+    "name": "Boat Ramp",
+    "latitude": 39.6483695,
+    "longitude": -75.5324157,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1412321724,
+    "name": "Boat Ramp",
+    "latitude": 38.5439945,
+    "longitude": -75.0653057,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 1451978892,
+    "name": "Boat Ramp",
+    "latitude": 38.6649673,
+    "longitude": -75.1783974,
+    "state": "Delaware",
+    "stateAbbr": "DE",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  }
+]

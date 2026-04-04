@@ -1,0 +1,4334 @@
+[
+  {
+    "id": 144754492,
+    "name": "Boat Ramp",
+    "latitude": 36.093045,
+    "longitude": -98.608873,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 144892470,
+    "name": "Boat Ramp",
+    "latitude": 33.9244305,
+    "longitude": -96.545834,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 144947908,
+    "name": "Boat Ramp",
+    "latitude": 33.974026,
+    "longitude": -96.5720677,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 145322837,
+    "name": "Boat Ramp",
+    "latitude": 35.7978432,
+    "longitude": -96.598984,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 145461797,
+    "name": "Boat Ramp",
+    "latitude": 35.8021729,
+    "longitude": -96.6052574,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 145580007,
+    "name": "Boat Ramp",
+    "latitude": 35.9594127,
+    "longitude": -96.307111,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 146196122,
+    "name": "Boat Ramp",
+    "latitude": 34.1972632,
+    "longitude": -96.609856,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 146491142,
+    "name": "Boat Ramp",
+    "latitude": 35.7384999,
+    "longitude": -96.9056317,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 147249683,
+    "name": "Boat Ramp",
+    "latitude": 35.7679368,
+    "longitude": -95.2982495,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 147406104,
+    "name": "Boat Ramp",
+    "latitude": 35.6224116,
+    "longitude": -96.0664506,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 147615809,
+    "name": "Boat Ramp",
+    "latitude": 36.2829085,
+    "longitude": -96.5778299,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 147637317,
+    "name": "Boat Ramp",
+    "latitude": 36.2543481,
+    "longitude": -96.3609214,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 147641965,
+    "name": "Boat Ramp",
+    "latitude": 35.618661,
+    "longitude": -95.066438,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 147838386,
+    "name": "Boat Ramp",
+    "latitude": 35.0431717,
+    "longitude": -95.6660047,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 147871183,
+    "name": "Boat Ramp",
+    "latitude": 35.1223165,
+    "longitude": -95.6127542,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 147873399,
+    "name": "Boat Ramp",
+    "latitude": 35.1083653,
+    "longitude": -95.6980365,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 147876167,
+    "name": "Boat Ramp",
+    "latitude": 35.1105455,
+    "longitude": -95.68543,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 147876203,
+    "name": "Boat Ramp",
+    "latitude": 35.108254,
+    "longitude": -95.6911966,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 147970832,
+    "name": "Boat Ramp",
+    "latitude": 35.1628179,
+    "longitude": -98.8246953,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 148351592,
+    "name": "Boat Ramp",
+    "latitude": 35.8709971,
+    "longitude": -95.2367326,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 148362214,
+    "name": "Boat Ramp",
+    "latitude": 35.9076176,
+    "longitude": -95.2996223,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 148373548,
+    "name": "Boat Ramp",
+    "latitude": 35.9097988,
+    "longitude": -95.2938582,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 222612088,
+    "name": "Boat Ramp",
+    "latitude": 34.5447862,
+    "longitude": -101.4505338,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 224085973,
+    "name": "Boat Ramp",
+    "latitude": 33.7359793,
+    "longitude": -95.9730137,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 224642797,
+    "name": "Boat Ramp",
+    "latitude": 33.8293757,
+    "longitude": -96.8114986,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 224645356,
+    "name": "Boat Ramp",
+    "latitude": 33.846097,
+    "longitude": -96.8069414,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 224651802,
+    "name": "Boat Ramp",
+    "latitude": 33.7865705,
+    "longitude": -96.8061482,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 224656860,
+    "name": "Boat Ramp",
+    "latitude": 33.7773502,
+    "longitude": -96.7881253,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 224673386,
+    "name": "Boat Ramp",
+    "latitude": 33.8591291,
+    "longitude": -96.8946354,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 224697193,
+    "name": "Boat Ramp",
+    "latitude": 33.8618653,
+    "longitude": -96.8350342,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 224699428,
+    "name": "Boat Ramp",
+    "latitude": 33.8715411,
+    "longitude": -96.6474864,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 224740214,
+    "name": "Boat Ramp",
+    "latitude": 33.8550346,
+    "longitude": -96.662599,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 224800601,
+    "name": "Boat Ramp",
+    "latitude": 33.8421302,
+    "longitude": -96.6672472,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 227883340,
+    "name": "Boat Ramp",
+    "latitude": 35.5876448,
+    "longitude": -101.7081401,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "disused": "yes",
+      "leisure": "slipway",
+      "note": "Closed due to low water"
+    }
+  },
+  {
+    "id": 227940861,
+    "name": "Boat Ramp",
+    "latitude": 35.0489689,
+    "longitude": -101.7769855,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 457110919,
+    "name": "Boat Ramp",
+    "latitude": 35.6469926,
+    "longitude": -97.3861685,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 631102527,
+    "name": "Boat Ramp",
+    "latitude": 33.8921568,
+    "longitude": -96.6534938,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 631102594,
+    "name": "Boat Ramp",
+    "latitude": 33.8900595,
+    "longitude": -96.6534858,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 931632881,
+    "name": "Boat Ramp",
+    "latitude": 36.1881707,
+    "longitude": -96.2946179,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 934341765,
+    "name": "Boat Ramp",
+    "latitude": 36.1272589,
+    "longitude": -96.1255345,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1046515973,
+    "name": "Boat Ramp",
+    "latitude": 35.2369657,
+    "longitude": -97.223421,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1346174123,
+    "name": "Boat Ramp",
+    "latitude": 36.8478439,
+    "longitude": -102.8794935,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1346174148,
+    "name": "Boat Ramp",
+    "latitude": 36.8479274,
+    "longitude": -102.8678737,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1400370724,
+    "name": "BO2 LP1",
+    "latitude": 36.3712219,
+    "longitude": -96.1699914,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "BO2 LP1"
+    }
+  },
+  {
+    "id": 1457402439,
+    "name": "Boat Ramp",
+    "latitude": 35.4586359,
+    "longitude": -97.5403065,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1457402449,
+    "name": "Boat Ramp",
+    "latitude": 35.4498193,
+    "longitude": -97.5817281,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1507833705,
+    "name": "Boat Ramp",
+    "latitude": 36.2280173,
+    "longitude": -96.3845111,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1530635231,
+    "name": "Boat Ramp",
+    "latitude": 35.6876212,
+    "longitude": -101.593113,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1530690352,
+    "name": "Boat Ramp",
+    "latitude": 35.706722,
+    "longitude": -101.5557375,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility"
+    }
+  },
+  {
+    "id": 1532785355,
+    "name": "Boat Ramp",
+    "latitude": 35.032054,
+    "longitude": -96.3696549,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1535624821,
+    "name": "Boat Ramp",
+    "latitude": 35.8640194,
+    "longitude": -95.228836,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1573145467,
+    "name": "Boat Ramp",
+    "latitude": 35.9181954,
+    "longitude": -95.2211317,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1573145882,
+    "name": "Boat Ramp",
+    "latitude": 35.9197098,
+    "longitude": -95.2099012,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1573898028,
+    "name": "Boat Ramp",
+    "latitude": 36.6961431,
+    "longitude": -96.9264874,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1578456853,
+    "name": "Boat Ramp",
+    "latitude": 35.8892374,
+    "longitude": -95.2397683,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1578456854,
+    "name": "Boat Ramp",
+    "latitude": 35.903997,
+    "longitude": -95.238575,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1578456858,
+    "name": "Boat Ramp",
+    "latitude": 35.9133541,
+    "longitude": -95.2368662,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1578456863,
+    "name": "Boat Ramp",
+    "latitude": 35.9135201,
+    "longitude": -95.236933,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1578456869,
+    "name": "Boat Ramp",
+    "latitude": 35.913826,
+    "longitude": -95.23707,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1654394252,
+    "name": "Mountain Lake Boat Launch",
+    "latitude": 34.3660391,
+    "longitude": -97.2845832,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mountain Lake Boat Launch"
+    }
+  },
+  {
+    "id": 1739295992,
+    "name": "Boat Ramp",
+    "latitude": 35.2316949,
+    "longitude": -97.3095078,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1740491086,
+    "name": "Boat Ramp",
+    "latitude": 35.2261262,
+    "longitude": -97.2809041,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1740491331,
+    "name": "Boat Ramp",
+    "latitude": 35.2379783,
+    "longitude": -97.27837,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1740518616,
+    "name": "Boat Ramp",
+    "latitude": 35.229853,
+    "longitude": -97.2362922,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1740518656,
+    "name": "Boat Ramp",
+    "latitude": 35.2498799,
+    "longitude": -97.239651,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1745655822,
+    "name": "Boat Ramp",
+    "latitude": 35.2412355,
+    "longitude": -97.2226383,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1746035579,
+    "name": "Boat Ramp",
+    "latitude": 35.2102189,
+    "longitude": -97.2529651,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "layer": "1",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1820431397,
+    "name": "Boat Ramp",
+    "latitude": 35.3730033,
+    "longitude": -97.3697733,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1820858090,
+    "name": "Boat Ramp",
+    "latitude": 35.3666665,
+    "longitude": -97.3761203,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1820858340,
+    "name": "Boat Ramp",
+    "latitude": 35.3425485,
+    "longitude": -97.3641469,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1876335122,
+    "name": "Boat Ramp",
+    "latitude": 35.4603444,
+    "longitude": -97.5059748,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1878694806,
+    "name": "Boat Ramp",
+    "latitude": 35.4609802,
+    "longitude": -97.4958515,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1906181674,
+    "name": "Boat Ramp",
+    "latitude": 36.0704705,
+    "longitude": -95.9823768,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1952111307,
+    "name": "Boat Ramp",
+    "latitude": 34.0209671,
+    "longitude": -95.4154196,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1952111568,
+    "name": "Boat Ramp",
+    "latitude": 34.0235195,
+    "longitude": -95.3993898,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1952113731,
+    "name": "Boat Ramp",
+    "latitude": 34.0350466,
+    "longitude": -95.4277658,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2047453596,
+    "name": "Boat Ramp",
+    "latitude": 35.876736,
+    "longitude": -97.3821689,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2128057882,
+    "name": "Boat Ramp",
+    "latitude": 34.6322561,
+    "longitude": -95.2982301,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2129021079,
+    "name": "Boat Ramp",
+    "latitude": 33.7014614,
+    "longitude": -95.6504468,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2130649944,
+    "name": "Boat Ramp",
+    "latitude": 34.5186918,
+    "longitude": -98.888922,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2130676337,
+    "name": "Boat Ramp",
+    "latitude": 34.5975797,
+    "longitude": -97.6792134,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2138426300,
+    "name": "Boat Ramp",
+    "latitude": 33.8140104,
+    "longitude": -96.6079238,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2138428235,
+    "name": "Boat Ramp",
+    "latitude": 33.8466925,
+    "longitude": -96.5916851,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2138431477,
+    "name": "Boat Ramp",
+    "latitude": 33.8201628,
+    "longitude": -96.7710345,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2138432700,
+    "name": "Boat Ramp",
+    "latitude": 33.8262668,
+    "longitude": -96.705058,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2138433748,
+    "name": "Boat Ramp",
+    "latitude": 33.8436815,
+    "longitude": -96.669007,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2138444404,
+    "name": "Boat Ramp",
+    "latitude": 33.8168316,
+    "longitude": -96.8176885,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2196929522,
+    "name": "Boat Ramp",
+    "latitude": 36.1467147,
+    "longitude": -97.0675444,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2301950624,
+    "name": "Boat Ramp",
+    "latitude": 34.5449418,
+    "longitude": -101.4422608,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2302018952,
+    "name": "Boat Ramp",
+    "latitude": 34.4146314,
+    "longitude": -101.0647876,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2408190744,
+    "name": "Lake McMurty Park Boat Dock",
+    "latitude": 36.1832827,
+    "longitude": -97.1782889,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lake McMurty Park Boat Dock"
+    }
+  },
+  {
+    "id": 2408872004,
+    "name": "West Side Boat Dock",
+    "latitude": 36.1683174,
+    "longitude": -97.1867889,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "West Side Boat Dock"
+    }
+  },
+  {
+    "id": 2514629442,
+    "name": "Boat Ramp",
+    "latitude": 35.9436571,
+    "longitude": -98.4235961,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2566987260,
+    "name": "Boat Ramp",
+    "latitude": 36.3219568,
+    "longitude": -96.1121012,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2813506682,
+    "name": "Boat Ramp",
+    "latitude": 35.457978,
+    "longitude": -97.5418482,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2839772380,
+    "name": "Boat Ramp",
+    "latitude": 35.5952373,
+    "longitude": -95.2623845,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2839775621,
+    "name": "Boat Ramp",
+    "latitude": 35.6001488,
+    "longitude": -95.2702943,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3559956167,
+    "name": "Kiamichi River Launch Ramp",
+    "latitude": 34.2488609,
+    "longitude": -95.6060629,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "ele": "136.855",
+      "leisure": "slipway",
+      "name": "Kiamichi River Launch Ramp"
+    }
+  },
+  {
+    "id": 3700498960,
+    "name": "Boat Ramp",
+    "latitude": 36.2275955,
+    "longitude": -96.235647,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3700498961,
+    "name": "Boat Ramp",
+    "latitude": 36.2388631,
+    "longitude": -96.2771675,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3700499430,
+    "name": "Boat Ramp",
+    "latitude": 36.2466386,
+    "longitude": -96.2783529,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3700499536,
+    "name": "Boat Ramp",
+    "latitude": 36.2083991,
+    "longitude": -96.229089,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3700499537,
+    "name": "Boat Ramp",
+    "latitude": 36.2403246,
+    "longitude": -96.2683957,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3793662433,
+    "name": "Boat Ramp",
+    "latitude": 34.3183012,
+    "longitude": -95.8817353,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3889824643,
+    "name": "Boat Ramp",
+    "latitude": 35.2288278,
+    "longitude": -97.2469676,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3999612909,
+    "name": "Boat Ramp",
+    "latitude": 34.9956377,
+    "longitude": -95.3549708,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3999613399,
+    "name": "Boat Ramp",
+    "latitude": 35.002559,
+    "longitude": -95.361835,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4024179800,
+    "name": "Carlton Campground",
+    "latitude": 34.9787007,
+    "longitude": -95.3604147,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Carlton Campground"
+    }
+  },
+  {
+    "id": 4024179801,
+    "name": "Carlton Dam",
+    "latitude": 34.9776209,
+    "longitude": -95.3599645,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Carlton Dam"
+    }
+  },
+  {
+    "id": 4306236631,
+    "name": "Boat Ramp",
+    "latitude": 35.5814918,
+    "longitude": -99.211675,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4436007244,
+    "name": "Boat Ramp",
+    "latitude": 34.4538753,
+    "longitude": -97.0473171,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4543548527,
+    "name": "Boat Ramp",
+    "latitude": 35.8794966,
+    "longitude": -95.2781473,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4543641349,
+    "name": "Boat Ramp",
+    "latitude": 35.9743279,
+    "longitude": -95.3094801,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4584260252,
+    "name": "Boat Ramp",
+    "latitude": 36.159861,
+    "longitude": -97.0612498,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4753880792,
+    "name": "Boat Ramp",
+    "latitude": 33.7463777,
+    "longitude": -96.5703086,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5120245902,
+    "name": "Boat Ramp",
+    "latitude": 33.8159736,
+    "longitude": -97.0694658,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5278903229,
+    "name": "Boat Ramp",
+    "latitude": 35.4879149,
+    "longitude": -97.6866455,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5278903254,
+    "name": "Boat Ramp",
+    "latitude": 35.4862434,
+    "longitude": -97.6704104,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5406261832,
+    "name": "Boat Ramp",
+    "latitude": 35.4575886,
+    "longitude": -97.503281,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5441782916,
+    "name": "Boat Ramp",
+    "latitude": 33.6622262,
+    "longitude": -97.4059385,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5453340536,
+    "name": "Boat Ramp",
+    "latitude": 35.6476546,
+    "longitude": -97.3769875,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5748512245,
+    "name": "Boat Ramp",
+    "latitude": 33.8166375,
+    "longitude": -96.5765239,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5748512247,
+    "name": "Boat Ramp",
+    "latitude": 33.8166302,
+    "longitude": -96.5763985,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5748512248,
+    "name": "Boat Ramp",
+    "latitude": 33.8166237,
+    "longitude": -96.5763004,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6336193995,
+    "name": "Boat Ramp",
+    "latitude": 35.8960686,
+    "longitude": -95.798138,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 6388612649,
+    "name": "Boat Ramp",
+    "latitude": 36.0219156,
+    "longitude": -95.9056586,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6462923111,
+    "name": "Boat Ramp",
+    "latitude": 35.4550046,
+    "longitude": -97.5054749,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 6475701103,
+    "name": "Boat Ramp",
+    "latitude": 35.5738926,
+    "longitude": -95.1799469,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 6699759421,
+    "name": "Boat Ramp",
+    "latitude": 35.213056,
+    "longitude": -100.8724216,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6703526291,
+    "name": "Boat Ramp",
+    "latitude": 33.7866809,
+    "longitude": -96.8079035,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7006093923,
+    "name": "Boat Ramp",
+    "latitude": 36.9218079,
+    "longitude": -96.1061526,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7149330154,
+    "name": "Boat Ramp",
+    "latitude": 35.8856311,
+    "longitude": -95.270244,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7149330156,
+    "name": "Boat Ramp",
+    "latitude": 35.8892474,
+    "longitude": -95.2714162,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7149330157,
+    "name": "Boat Ramp",
+    "latitude": 35.8888162,
+    "longitude": -95.2729345,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7618450427,
+    "name": "Boat Ramp",
+    "latitude": 33.8385675,
+    "longitude": -98.5636099,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7703873543,
+    "name": "Boat Ramp",
+    "latitude": 36.0917725,
+    "longitude": -98.6058991,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7722294582,
+    "name": "Boat Ramp",
+    "latitude": 36.1117756,
+    "longitude": -98.6135837,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7722296289,
+    "name": "Boat Ramp",
+    "latitude": 36.1178569,
+    "longitude": -98.6136725,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7939121823,
+    "name": "Boat Ramp",
+    "latitude": 35.120742,
+    "longitude": -95.6771183,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8098391626,
+    "name": "Boat Ramp",
+    "latitude": 35.4595201,
+    "longitude": -97.4944467,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8297994233,
+    "name": "Boat Ramp",
+    "latitude": 36.1387053,
+    "longitude": -96.2382694,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8325316796,
+    "name": "Boat Ramp",
+    "latitude": 33.8607392,
+    "longitude": -96.6607442,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "access": "private",
+      "fee": "yes",
+      "leisure": "slipway",
+      "payment:cash": "yes",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 8458912498,
+    "name": "Boat Ramp",
+    "latitude": 33.8199817,
+    "longitude": -96.6077423,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8458912510,
+    "name": "Boat Ramp",
+    "latitude": 33.8497149,
+    "longitude": -96.6404143,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8458912512,
+    "name": "Boat Ramp",
+    "latitude": 33.8825229,
+    "longitude": -96.899092,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8458919118,
+    "name": "Boat Ramp",
+    "latitude": 33.8141443,
+    "longitude": -96.6077803,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8458919121,
+    "name": "Boat Ramp",
+    "latitude": 33.8478927,
+    "longitude": -96.638011,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8458919122,
+    "name": "Boat Ramp",
+    "latitude": 33.8580723,
+    "longitude": -96.6447005,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8458919133,
+    "name": "Boat Ramp",
+    "latitude": 33.8613552,
+    "longitude": -96.8295476,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8458919134,
+    "name": "Boat Ramp",
+    "latitude": 33.8521471,
+    "longitude": -96.667628,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8458919136,
+    "name": "Boat Ramp",
+    "latitude": 33.8683063,
+    "longitude": -96.8913217,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8458919143,
+    "name": "Boat Ramp",
+    "latitude": 33.8242006,
+    "longitude": -96.6681215,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8520446860,
+    "name": "Boat Ramp",
+    "latitude": 35.8906797,
+    "longitude": -95.4471529,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8520446863,
+    "name": "Boat Ramp",
+    "latitude": 35.945584,
+    "longitude": -95.4851813,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8536122480,
+    "name": "Boat Ramp",
+    "latitude": 36.131298,
+    "longitude": -96.3466917,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8536122482,
+    "name": "Boat Ramp",
+    "latitude": 36.135288,
+    "longitude": -96.3238393,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8536122483,
+    "name": "Boat Ramp",
+    "latitude": 36.1311767,
+    "longitude": -96.3302122,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8536122484,
+    "name": "Boat Ramp",
+    "latitude": 36.1340708,
+    "longitude": -96.3241612,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8536122485,
+    "name": "Boat Ramp",
+    "latitude": 36.1327884,
+    "longitude": -96.3415156,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8536134282,
+    "name": "Boat Ramp",
+    "latitude": 36.1604361,
+    "longitude": -96.2829392,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8572797266,
+    "name": "Boat Ramp",
+    "latitude": 36.2299166,
+    "longitude": -96.3746832,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8572797275,
+    "name": "Boat Ramp",
+    "latitude": 36.197748,
+    "longitude": -96.257159,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8674418835,
+    "name": "Boat Ramp",
+    "latitude": 34.1888132,
+    "longitude": -96.6475772,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8819041430,
+    "name": "Boat Ramp",
+    "latitude": 33.8469349,
+    "longitude": -96.5822657,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8819041458,
+    "name": "Boat Ramp",
+    "latitude": 33.8506272,
+    "longitude": -96.5833054,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8991575121,
+    "name": "Boat Ramp",
+    "latitude": 36.1241856,
+    "longitude": -98.6182592,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8991575123,
+    "name": "Boat Ramp",
+    "latitude": 36.1241859,
+    "longitude": -98.6181039,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8991575125,
+    "name": "Boat Ramp",
+    "latitude": 36.1241854,
+    "longitude": -98.6180053,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9136106887,
+    "name": "Boat Ramp",
+    "latitude": 33.9871407,
+    "longitude": -98.760554,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9170058851,
+    "name": "Boat Ramp",
+    "latitude": 35.95329,
+    "longitude": -96.3123814,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9170105536,
+    "name": "Boat Ramp",
+    "latitude": 35.9533219,
+    "longitude": -96.3092086,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9273679474,
+    "name": "Boat Ramp",
+    "latitude": 34.345317,
+    "longitude": -99.7331503,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9366434048,
+    "name": "Boat Ramp",
+    "latitude": 35.3646544,
+    "longitude": -97.3758103,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9366434049,
+    "name": "Boat Ramp",
+    "latitude": 35.3647216,
+    "longitude": -97.375729,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9366434050,
+    "name": "Boat Ramp",
+    "latitude": 35.3647862,
+    "longitude": -97.3756619,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9366434051,
+    "name": "Boat Ramp",
+    "latitude": 35.3648517,
+    "longitude": -97.3755867,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9392983463,
+    "name": "Boat Ramp",
+    "latitude": 36.9067309,
+    "longitude": -95.9393006,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9395323428,
+    "name": "Boat Ramp",
+    "latitude": 36.9142172,
+    "longitude": -96.1094172,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9453956961,
+    "name": "Boat Ramp",
+    "latitude": 36.5438663,
+    "longitude": -99.5552197,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9456765528,
+    "name": "Boat Ramp",
+    "latitude": 34.2645885,
+    "longitude": -98.039921,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9505729962,
+    "name": "Boat Ramp",
+    "latitude": 34.6577458,
+    "longitude": -95.3349934,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9505729964,
+    "name": "Boat Ramp",
+    "latitude": 34.6577021,
+    "longitude": -95.3350252,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9512538292,
+    "name": "Boat Ramp",
+    "latitude": 35.2372923,
+    "longitude": -95.4864559,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9522496203,
+    "name": "Boat Ramp",
+    "latitude": 35.238186,
+    "longitude": -95.4965328,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9861430248,
+    "name": "Boat Ramp",
+    "latitude": 36.7930202,
+    "longitude": -96.8379056,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9864406475,
+    "name": "Boat Ramp",
+    "latitude": 36.7525305,
+    "longitude": -98.1641988,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9915995863,
+    "name": "Boat Ramp",
+    "latitude": 33.6697983,
+    "longitude": -95.9740305,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9915995865,
+    "name": "Boat Ramp",
+    "latitude": 33.6694992,
+    "longitude": -95.9744194,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9916015169,
+    "name": "Boat Ramp",
+    "latitude": 33.6433634,
+    "longitude": -96.0569953,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9916057293,
+    "name": "Boat Ramp",
+    "latitude": 33.6430149,
+    "longitude": -96.0508302,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "access": "permissive",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9916057295,
+    "name": "Boat Ramp",
+    "latitude": 33.6429255,
+    "longitude": -96.0506129,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "access": "permissive",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9916057297,
+    "name": "Boat Ramp",
+    "latitude": 33.6428407,
+    "longitude": -96.0504265,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "access": "permissive",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9918197731,
+    "name": "Boat Ramp",
+    "latitude": 34.1982905,
+    "longitude": -95.4844831,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9970514150,
+    "name": "Boat Ramp",
+    "latitude": 35.1699466,
+    "longitude": -98.4501388,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9970514151,
+    "name": "Boat Ramp",
+    "latitude": 35.218258,
+    "longitude": -98.4850535,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9970514152,
+    "name": "Boat Ramp",
+    "latitude": 35.2169437,
+    "longitude": -98.5000826,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9970514153,
+    "name": "Boat Ramp",
+    "latitude": 35.2060949,
+    "longitude": -98.5002469,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9970514154,
+    "name": "Boat Ramp",
+    "latitude": 35.1974136,
+    "longitude": -98.4774167,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9984438276,
+    "name": "Boat Ramp",
+    "latitude": 35.5773136,
+    "longitude": -99.2530486,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9984468157,
+    "name": "Boat Ramp",
+    "latitude": 35.5566563,
+    "longitude": -99.2295108,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9984478613,
+    "name": "Boat Ramp",
+    "latitude": 35.5357856,
+    "longitude": -99.1941969,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9984487721,
+    "name": "Boat Ramp",
+    "latitude": 35.5776284,
+    "longitude": -99.2171469,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9991821672,
+    "name": "Boat Ramp",
+    "latitude": 34.749772,
+    "longitude": -97.0369165,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9996866016,
+    "name": "Boat Ramp",
+    "latitude": 34.7713104,
+    "longitude": -97.207003,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10013812536,
+    "name": "Boat Ramp",
+    "latitude": 35.522496,
+    "longitude": -96.3188956,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10022569611,
+    "name": "Boat Ramp",
+    "latitude": 33.73614,
+    "longitude": -95.9723461,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10061366984,
+    "name": "Boat Ramp",
+    "latitude": 36.2839287,
+    "longitude": -96.4347149,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10062238075,
+    "name": "Boat Ramp",
+    "latitude": 34.7696659,
+    "longitude": -97.206997,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10062238076,
+    "name": "Boat Ramp",
+    "latitude": 34.7699629,
+    "longitude": -97.207106,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10104585506,
+    "name": "Boat Ramp",
+    "latitude": 35.1472392,
+    "longitude": -98.1304914,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10285064294,
+    "name": "Boat Ramp",
+    "latitude": 35.1839522,
+    "longitude": -95.6155112,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10296960478,
+    "name": "Boat Ramp",
+    "latitude": 34.5787454,
+    "longitude": -96.0152448,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10298510221,
+    "name": "Boat Ramp",
+    "latitude": 34.4512553,
+    "longitude": -96.0772053,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10299445233,
+    "name": "Boat Ramp",
+    "latitude": 34.0990747,
+    "longitude": -96.5337178,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10543126300,
+    "name": "Boat Ramp",
+    "latitude": 35.522167,
+    "longitude": -96.3213779,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10927147383,
+    "name": "Boat Ramp",
+    "latitude": 35.8750048,
+    "longitude": -95.2177471,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10936882707,
+    "name": "Boat Ramp",
+    "latitude": 36.7567278,
+    "longitude": -96.8579966,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10936973519,
+    "name": "Boat Ramp",
+    "latitude": 36.7636665,
+    "longitude": -96.8130325,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11001724439,
+    "name": "Boat Ramp",
+    "latitude": 34.6455272,
+    "longitude": -98.3430417,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11049400963,
+    "name": "Boat Ramp",
+    "latitude": 33.9337134,
+    "longitude": -96.6506872,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11133073408,
+    "name": "Reeve'S Slough Boat Ramp",
+    "latitude": 35.4345978,
+    "longitude": -95.007754,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Reeve's Slough Boat Ramp"
+    }
+  },
+  {
+    "id": 11133073699,
+    "name": "Stoney Point Boat Ramp",
+    "latitude": 35.4568607,
+    "longitude": -95.0259635,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Stoney Point Boat Ramp"
+    }
+  },
+  {
+    "id": 11352319087,
+    "name": "Boat Ramp",
+    "latitude": 35.6150546,
+    "longitude": -95.1771139,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11509572772,
+    "name": "Boat Ramp",
+    "latitude": 36.7858205,
+    "longitude": -96.9176758,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11510862854,
+    "name": "Boat Ramp",
+    "latitude": 36.4068499,
+    "longitude": -97.0518407,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11639490929,
+    "name": "Boat Ramp",
+    "latitude": 36.4076826,
+    "longitude": -96.423715,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11828605400,
+    "name": "Boat Ramp",
+    "latitude": 33.9741384,
+    "longitude": -98.7086263,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11891411323,
+    "name": "Boat Ramp",
+    "latitude": 33.8787809,
+    "longitude": -97.6574594,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12069975565,
+    "name": "Boat Ramp",
+    "latitude": 33.8655628,
+    "longitude": -96.5857362,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12069993075,
+    "name": "Boat Ramp",
+    "latitude": 33.8971127,
+    "longitude": -96.5737731,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12070048144,
+    "name": "Boat Ramp",
+    "latitude": 33.9344016,
+    "longitude": -96.552761,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12070056512,
+    "name": "Boat Ramp",
+    "latitude": 33.9372585,
+    "longitude": -96.5568719,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12070056513,
+    "name": "Boat Ramp",
+    "latitude": 33.9372529,
+    "longitude": -96.5568102,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12070060868,
+    "name": "Boat Ramp",
+    "latitude": 33.9906067,
+    "longitude": -96.62664,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12070067014,
+    "name": "Boat Ramp",
+    "latitude": 33.9824063,
+    "longitude": -96.5744583,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12070074496,
+    "name": "Boat Ramp",
+    "latitude": 33.99993,
+    "longitude": -96.5728603,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12070089674,
+    "name": "Boat Ramp",
+    "latitude": 33.9904333,
+    "longitude": -96.6353024,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12070096370,
+    "name": "Boat Ramp",
+    "latitude": 33.9879998,
+    "longitude": -96.6208612,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12070325064,
+    "name": "Boat Ramp",
+    "latitude": 34.0519345,
+    "longitude": -96.5830678,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12082925878,
+    "name": "Boat Ramp",
+    "latitude": 34.0803442,
+    "longitude": -96.3931598,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12122819606,
+    "name": "Boat Ramp",
+    "latitude": 34.3326612,
+    "longitude": -95.9077064,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12398369534,
+    "name": "Boat Ramp",
+    "latitude": 35.8020184,
+    "longitude": -95.2647915,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12426529841,
+    "name": "Boat Ramp",
+    "latitude": 36.7430724,
+    "longitude": -98.1385693,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12426866489,
+    "name": "Boat Ramp",
+    "latitude": 36.7403746,
+    "longitude": -98.1434349,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12507134248,
+    "name": "Boat Ramp",
+    "latitude": 34.0259518,
+    "longitude": -95.4498537,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12507146044,
+    "name": "Boat Ramp",
+    "latitude": 34.1071286,
+    "longitude": -95.4566055,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12507170902,
+    "name": "Boat Ramp",
+    "latitude": 34.1083956,
+    "longitude": -95.4506285,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13028428008,
+    "name": "Boat Ramp",
+    "latitude": 35.9734948,
+    "longitude": -95.5617685,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13131207876,
+    "name": "Boat Ramp",
+    "latitude": 35.8794457,
+    "longitude": -95.2725851,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13174013096,
+    "name": "Boat Ramp",
+    "latitude": 35.97092,
+    "longitude": -95.3039064,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13256705322,
+    "name": "Boat Ramp",
+    "latitude": 35.8814677,
+    "longitude": -97.9883747,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13305552559,
+    "name": "Boat Ramp",
+    "latitude": 36.1429748,
+    "longitude": -96.275772,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13309834985,
+    "name": "Boat Ramp",
+    "latitude": 36.1353977,
+    "longitude": -96.2761775,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13309835048,
+    "name": "Boat Ramp",
+    "latitude": 36.1522917,
+    "longitude": -96.2825233,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13444621514,
+    "name": "Boat Ramp",
+    "latitude": 34.7693981,
+    "longitude": -95.065665,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13482356512,
+    "name": "Boat Ramp",
+    "latitude": 34.3675852,
+    "longitude": -96.7201691,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13483177249,
+    "name": "Boat Ramp",
+    "latitude": 34.6314187,
+    "longitude": -95.3013233,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13666291493,
+    "name": "Boat Ramp",
+    "latitude": 33.6943406,
+    "longitude": -96.0061812,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "access": "permissive",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13666291500,
+    "name": "Boat Ramp",
+    "latitude": 33.6946662,
+    "longitude": -96.0057994,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "access": "permissive",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13683565346,
+    "name": "Boat Ramp",
+    "latitude": 35.364591,
+    "longitude": -99.4146182,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13683565347,
+    "name": "Boat Ramp",
+    "latitude": 35.3623626,
+    "longitude": -99.4166972,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 14668455,
+    "name": "Boat Ramp",
+    "latitude": 36.0929596,
+    "longitude": -98.6088199,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "seamark:shoreline_construction:category": "ramp",
+      "seamark:type": "shoreline_construction",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 14702516,
+    "name": "Lemmon Landing Road",
+    "latitude": 35.1974568,
+    "longitude": -98.4772614,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Lemmon Landing Road",
+      "source": "Bing;local knowledge",
+      "surface": "paved",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Caddo, OK",
+      "tiger:name_base": "Lemmon Landing",
+      "tiger:name_type": "Rd",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 14895705,
+    "name": "Boat Ramp",
+    "latitude": 35.5740472,
+    "longitude": -95.1800236,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "maxspeed": "45 mph",
+      "source:maxspeed": "45 in Muskogee County unless otherwise posted.",
+      "surface": "paved",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Muskogee, OK",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 14901227,
+    "name": "Boat Ramp",
+    "latitude": 35.7681673,
+    "longitude": -95.2979811,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "maxspeed": "45 mph",
+      "service": "slipway",
+      "source:maxspeed": "45 in Muskogee County unless otherwise posted."
+    }
+  },
+  {
+    "id": 15039838,
+    "name": "Boat Ramp",
+    "latitude": 35.9096401,
+    "longitude": -95.2937897,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "tiger:county": "Wagoner, OK",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 170980103,
+    "name": "Boat Ramp",
+    "latitude": 35.3649258,
+    "longitude": -97.3760087,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 227992788,
+    "name": "Boat Ramp",
+    "latitude": 35.5499747,
+    "longitude": -97.5979164,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 227992790,
+    "name": "Boat Ramp",
+    "latitude": 35.5492604,
+    "longitude": -97.5969874,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 227992795,
+    "name": "Boat Ramp",
+    "latitude": 35.5493745,
+    "longitude": -97.5968448,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 227992801,
+    "name": "Boat Ramp",
+    "latitude": 35.5493203,
+    "longitude": -97.5969108,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 227992803,
+    "name": "Boat Ramp",
+    "latitude": 35.5497619,
+    "longitude": -97.5973813,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 227993532,
+    "name": "Boat Ramp",
+    "latitude": 35.5492207,
+    "longitude": -97.5953776,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 228874450,
+    "name": "Boat Ramp",
+    "latitude": 35.5612217,
+    "longitude": -97.5771019,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 228874455,
+    "name": "Boat Ramp",
+    "latitude": 35.5625511,
+    "longitude": -97.5767257,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 250203372,
+    "name": "Boat Ramp",
+    "latitude": 36.4143511,
+    "longitude": -96.2246444,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 250212927,
+    "name": "Boat Ramp",
+    "latitude": 36.3798777,
+    "longitude": -96.1526965,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 250212933,
+    "name": "Boat Ramp",
+    "latitude": 36.3795973,
+    "longitude": -96.1969247,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 250212934,
+    "name": "Boat Ramp",
+    "latitude": 36.377846,
+    "longitude": -96.1960543,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 250212945,
+    "name": "Boat Ramp",
+    "latitude": 36.3732337,
+    "longitude": -96.1311322,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 250212946,
+    "name": "Boat Ramp",
+    "latitude": 36.3512784,
+    "longitude": -96.1072275,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 250212955,
+    "name": "Boat Ramp",
+    "latitude": 36.3317322,
+    "longitude": -96.0991079,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 250228975,
+    "name": "Boat Ramp",
+    "latitude": 36.3768387,
+    "longitude": -96.2268298,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 351416982,
+    "name": "Boat Ramp",
+    "latitude": 35.3288287,
+    "longitude": -95.5912838,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 351944790,
+    "name": "Boat Ramp",
+    "latitude": 34.0091447,
+    "longitude": -95.3808588,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 396630692,
+    "name": "Boat Ramp",
+    "latitude": 36.1337568,
+    "longitude": -95.9966782,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "area": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 427484371,
+    "name": "Boat Ramp",
+    "latitude": 35.2059923,
+    "longitude": -98.5002348,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "source": "Bing;local knowledge",
+      "surface": "paved",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 427552353,
+    "name": "Boat Ramp",
+    "latitude": 35.217092,
+    "longitude": -98.4999538,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "source": "Bing;local knowledge",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 427552644,
+    "name": "Boat Ramp",
+    "latitude": 35.169876,
+    "longitude": -98.4500094,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "source": "Bing;local knowledge",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 427556462,
+    "name": "Boat Ramp",
+    "latitude": 35.2182743,
+    "longitude": -98.4851533,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "source": "Bing;local knowledge",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 431424716,
+    "name": "Boat Ramp",
+    "latitude": 35.581507,
+    "longitude": -99.211636,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 470023090,
+    "name": "Boat Ramp",
+    "latitude": 36.0644287,
+    "longitude": -95.9668939,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "access": "no",
+      "emergency": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 490958147,
+    "name": "Boat Ramp",
+    "latitude": 34.087181,
+    "longitude": -97.0515027,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 583390100,
+    "name": "Boat Ramp",
+    "latitude": 35.5504255,
+    "longitude": -97.5857854,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 584997231,
+    "name": "Boat Ramp",
+    "latitude": 36.1336125,
+    "longitude": -95.996959,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "area": "no",
+      "bicycle": "designated",
+      "highway": "service",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 606548664,
+    "name": "Boat Ramp",
+    "latitude": 33.7549194,
+    "longitude": -96.4115755,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "driveway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 688990016,
+    "name": "Boat Ramp",
+    "latitude": 35.4549531,
+    "longitude": -97.5053949,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 765471468,
+    "name": "Boat Ramp",
+    "latitude": 35.8856308,
+    "longitude": -95.2703027,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 765471469,
+    "name": "Boat Ramp",
+    "latitude": 35.8891222,
+    "longitude": -95.2714521,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 765471470,
+    "name": "Boat Ramp",
+    "latitude": 35.8886597,
+    "longitude": -95.2728442,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 815732513,
+    "name": "Boat Ramp",
+    "latitude": 33.8386613,
+    "longitude": -98.563616,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 822295796,
+    "name": "Boat Ramp",
+    "latitude": 34.4910782,
+    "longitude": -96.9836248,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 825058601,
+    "name": "Boat Ramp",
+    "latitude": 36.0916269,
+    "longitude": -98.6059479,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "seamark:shoreline_construction:category": "ramp",
+      "seamark:type": "shoreline_construction",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 827095059,
+    "name": "Boat Ramp",
+    "latitude": 36.1522978,
+    "longitude": -98.6128945,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 827150873,
+    "name": "Boat Ramp",
+    "latitude": 36.1117821,
+    "longitude": -98.6137621,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "seamark:shoreline_construction:category": "ramp",
+      "seamark:type": "shoreline_construction",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 827150877,
+    "name": "Boat Ramp",
+    "latitude": 36.1178804,
+    "longitude": -98.6137463,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "seamark:shoreline_construction:category": "ramp",
+      "seamark:type": "shoreline_construction",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 835157423,
+    "name": "Boat Ramp",
+    "latitude": 35.0319782,
+    "longitude": -95.6896501,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 936136348,
+    "name": "Boat Ramp",
+    "latitude": 34.1889026,
+    "longitude": -96.6475992,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 971489774,
+    "name": "Boat Ramp",
+    "latitude": 36.1241234,
+    "longitude": -98.6182431,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 971489775,
+    "name": "Boat Ramp",
+    "latitude": 36.1241225,
+    "longitude": -98.6180984,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 971489776,
+    "name": "Boat Ramp",
+    "latitude": 36.1241141,
+    "longitude": -98.6179999,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1076668111,
+    "name": "Boat Ramp",
+    "latitude": 34.4945451,
+    "longitude": -100.983311,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1083882101,
+    "name": "Boat Ramp",
+    "latitude": 34.5236557,
+    "longitude": -97.8131543,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1089981677,
+    "name": "Boat Ramp",
+    "latitude": 35.5566343,
+    "longitude": -99.229315,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1089981704,
+    "name": "Boat Ramp",
+    "latitude": 35.5770762,
+    "longitude": -99.2530596,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1089981899,
+    "name": "Boat Ramp",
+    "latitude": 35.5777096,
+    "longitude": -99.2173187,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1089981915,
+    "name": "Boat Ramp",
+    "latitude": 35.5356564,
+    "longitude": -99.1943745,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1090882609,
+    "name": "Boat Ramp",
+    "latitude": 34.7497034,
+    "longitude": -97.0369944,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1090883094,
+    "name": "Boat Ramp",
+    "latitude": 34.7581871,
+    "longitude": -97.0558639,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1091536387,
+    "name": "Boat Ramp",
+    "latitude": 34.7698925,
+    "longitude": -97.2072126,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1091536388,
+    "name": "Boat Ramp",
+    "latitude": 34.7696343,
+    "longitude": -97.2071327,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1093420841,
+    "name": "Boat Ramp",
+    "latitude": 35.5221565,
+    "longitude": -96.3213103,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1098853052,
+    "name": "Boat Ramp",
+    "latitude": 36.921669,
+    "longitude": -96.1061548,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1098870776,
+    "name": "Boat Ramp",
+    "latitude": 36.2839023,
+    "longitude": -96.4348449,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1133155463,
+    "name": "Boat Ramp",
+    "latitude": 34.7222455,
+    "longitude": -98.5133392,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1165484154,
+    "name": "Boat Ramp",
+    "latitude": 34.645567,
+    "longitude": -98.3431016,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1223919300,
+    "name": "Boat Ramp",
+    "latitude": 35.6151811,
+    "longitude": -95.1771897,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1227060608,
+    "name": "Boat Ramp",
+    "latitude": 34.7332759,
+    "longitude": -98.5198783,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1273395966,
+    "name": "Boat Ramp",
+    "latitude": 33.8408978,
+    "longitude": -98.5313965,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1273409395,
+    "name": "Boat Ramp",
+    "latitude": 33.8276355,
+    "longitude": -95.6285342,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1273410765,
+    "name": "Clay Bluff",
+    "latitude": 33.8169987,
+    "longitude": -95.6507984,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "name": "Clay Bluff",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 1278531094,
+    "name": "Boat Ramp",
+    "latitude": 33.7450182,
+    "longitude": -98.3656368,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1278531095,
+    "name": "Boat Ramp",
+    "latitude": 33.7548101,
+    "longitude": -98.3875531,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1278531096,
+    "name": "Boat Ramp",
+    "latitude": 33.754753,
+    "longitude": -98.3876319,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1278531097,
+    "name": "Boat Ramp",
+    "latitude": 33.7546984,
+    "longitude": -98.3877129,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1278531098,
+    "name": "Boat Ramp",
+    "latitude": 33.7546402,
+    "longitude": -98.387793,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1278535109,
+    "name": "Boat Ramp",
+    "latitude": 33.7415909,
+    "longitude": -98.3391495,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1278535112,
+    "name": "Boat Ramp",
+    "latitude": 33.7298755,
+    "longitude": -98.3193895,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1288397368,
+    "name": "Boat Ramp",
+    "latitude": 33.8745384,
+    "longitude": -96.6439782,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1335125037,
+    "name": "Boat Ramp",
+    "latitude": 34.1771649,
+    "longitude": -95.1065681,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1340343927,
+    "name": "Boat Ramp",
+    "latitude": 35.8022448,
+    "longitude": -95.2648523,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1351837863,
+    "name": "Boat Ramp",
+    "latitude": 34.0262029,
+    "longitude": -95.4499616,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1351840567,
+    "name": "Boat Ramp",
+    "latitude": 34.1356599,
+    "longitude": -95.4264551,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1357615722,
+    "name": "Boat Ramp",
+    "latitude": 34.9612097,
+    "longitude": -95.6507575,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1360287633,
+    "name": "Boat Ramp",
+    "latitude": 33.7445489,
+    "longitude": -96.4011749,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1360287636,
+    "name": "Boat Ramp",
+    "latitude": 33.7342647,
+    "longitude": -96.3902698,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1360537482,
+    "name": "Boat Ramp",
+    "latitude": 33.8207771,
+    "longitude": -96.5634849,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1377930530,
+    "name": "Boat Ramp",
+    "latitude": 34.8935367,
+    "longitude": -99.2961063,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1395044628,
+    "name": "Boat Ramp",
+    "latitude": 34.1406127,
+    "longitude": -95.4203272,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1395536326,
+    "name": "Boat Ramp",
+    "latitude": 34.043255,
+    "longitude": -95.380353,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1395538466,
+    "name": "Boat Ramp",
+    "latitude": 34.0383094,
+    "longitude": -95.3803625,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1420942751,
+    "name": "Boat Ramp",
+    "latitude": 35.7676656,
+    "longitude": -95.2919636,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1420942754,
+    "name": "Boat Ramp",
+    "latitude": 35.5953546,
+    "longitude": -95.2625153,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1442877317,
+    "name": "Boat Ramp",
+    "latitude": 36.4080985,
+    "longitude": -97.0211605,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1452389280,
+    "name": "Boat Ramp",
+    "latitude": 34.5785437,
+    "longitude": -96.229318,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1453309557,
+    "name": "Boat Ramp",
+    "latitude": 34.4716018,
+    "longitude": -96.2262204,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1475632829,
+    "name": "Boat Ramp",
+    "latitude": 34.3618483,
+    "longitude": -95.8666482,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1481665818,
+    "name": "Boat Ramp",
+    "latitude": 34.4930831,
+    "longitude": -96.0727114,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1490007546,
+    "name": "Boat Ramp",
+    "latitude": 36.2673569,
+    "longitude": -97.2779729,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 146423798,
+    "name": "Boat Ramp",
+    "latitude": 35.3204379,
+    "longitude": -94.7846773,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10286644210,
+    "name": "Boat Ramp",
+    "latitude": 35.2592477,
+    "longitude": -94.9379854,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11133041273,
+    "name": "Tuff Boat Ramp",
+    "latitude": 35.4332946,
+    "longitude": -94.973324,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Tuff Boat Ramp",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 11139793415,
+    "name": "Sizemore Landing Boat Launch",
+    "latitude": 35.7239653,
+    "longitude": -94.968333,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Sizemore Landing Boat Launch"
+    }
+  },
+  {
+    "id": 1378630633,
+    "name": "Boat Ramp",
+    "latitude": 35.365335,
+    "longitude": -94.8270165,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 7884935347,
+    "name": "Boat Ramp",
+    "latitude": 34.7826675,
+    "longitude": -94.6945153,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13625815394,
+    "name": "Boat Ramp",
+    "latitude": 34.0410765,
+    "longitude": -94.6217628,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 495966497,
+    "name": "Beavers Bend Marina Boat Ramp",
+    "latitude": 34.1616724,
+    "longitude": -94.7126295,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Beavers Bend Marina Boat Ramp"
+    }
+  },
+  {
+    "id": 496144571,
+    "name": "Boat Ramp",
+    "latitude": 34.1736035,
+    "longitude": -94.7236963,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1293970827,
+    "name": "Boat Ramp",
+    "latitude": 34.1811657,
+    "longitude": -94.7213395,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1294631630,
+    "name": "Boat Ramp",
+    "latitude": 34.1842115,
+    "longitude": -94.7295295,
+    "state": "Oklahoma",
+    "stateAbbr": "OK",
+    "tags": {
+      "highway": "service",
+      "lane_markings": "no",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "asphalt",
+      "tiger:cfcc": "A41",
+      "tiger:county": "McCurtain, OK",
+      "tiger:name_base": "N4675",
+      "tiger:reviewed": "no"
+    }
+  }
+]

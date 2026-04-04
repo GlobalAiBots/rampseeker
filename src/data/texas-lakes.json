@@ -1,0 +1,476 @@
+[
+  {
+    "id": "lake-texoma",
+    "name": "Lake Texoma",
+    "lat": 33.85,
+    "lng": -96.6,
+    "radius": 0.25,
+    "acres": 89000,
+    "shorelineMiles": 580,
+    "maxDepth": 110,
+    "counties": [
+      "Grayson",
+      "Cooke",
+      "Bryan (OK)"
+    ],
+    "fishSpecies": [
+      "Striped Bass",
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Catfish",
+      "Crappie"
+    ],
+    "nearestTowns": [
+      "Denison",
+      "Sherman",
+      "Durant (OK)"
+    ],
+    "description": "Lake Texoma is one of the largest reservoirs in the US, straddling the Oklahoma-Texas border. Famous for its naturally reproducing striped bass population — one of the best striper fisheries in the country.\n\nThe lake covers 89,000 acres fed by the Red and Washita Rivers. Besides stripers, excellent smallmouth bass fishing along rocky Oklahoma shoreline and largemouth in Texas coves.\n\nDenison and Sherman on the Texas side offer full services. The lake draws anglers from both DFW and Oklahoma City.",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-fork",
+    "name": "Lake Fork Reservoir",
+    "lat": 32.85,
+    "lng": -95.58,
+    "radius": 0.15,
+    "acres": 27690,
+    "shorelineMiles": 315,
+    "maxDepth": 70,
+    "counties": [
+      "Rains",
+      "Wood",
+      "Hopkins"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "Catfish",
+      "Bluegill"
+    ],
+    "nearestTowns": [
+      "Quitman",
+      "Emory",
+      "Alba"
+    ],
+    "description": "Lake Fork is Texas's #1 trophy bass lake. It has produced more ShareLunker bass (13+ pounds) than any other lake in the state. The flooded timber and managed habitat create ideal conditions for growing giant largemouth.\n\nThe lake's slot limit (16-24 inches must be released) has helped build and maintain the trophy fishery. Spring is prime time, but quality fish are caught year-round.\n\nSmall towns around the lake — Quitman, Emory, Alba — cater heavily to anglers with bait shops, guides, and cabin rentals.",
+    "rampCount": 14
+  },
+  {
+    "id": "sam-rayburn",
+    "name": "Sam Rayburn Reservoir",
+    "lat": 31.1,
+    "lng": -94.15,
+    "radius": 0.2,
+    "acres": 114500,
+    "shorelineMiles": 560,
+    "maxDepth": 80,
+    "counties": [
+      "Jasper",
+      "Angelina",
+      "San Augustine",
+      "Sabine",
+      "Nacogdoches"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "Catfish",
+      "White Bass"
+    ],
+    "nearestTowns": [
+      "Jasper",
+      "Lufkin",
+      "Brookeland"
+    ],
+    "description": "Sam Rayburn is the largest lake entirely within Texas at 114,500 acres. Located in the Piney Woods of East Texas, it offers outstanding bass fishing in flooded timber and standing dead trees.\n\nThe sheer size means you can always find unpressured water. Crappie fishing is also excellent, especially in winter and spring around submerged brush.",
+    "rampCount": 5
+  },
+  {
+    "id": "toledo-bend",
+    "name": "Toledo Bend Reservoir",
+    "lat": 31.2,
+    "lng": -93.6,
+    "radius": 0.2,
+    "acres": 181600,
+    "shorelineMiles": 1200,
+    "maxDepth": 100,
+    "counties": [
+      "Sabine",
+      "Shelby",
+      "Newton"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "Catfish",
+      "Bream"
+    ],
+    "nearestTowns": [
+      "Hemphill",
+      "Many (LA)",
+      "Logansport (LA)"
+    ],
+    "description": "Toledo Bend is one of the largest man-made lakes in the US at 181,600 acres, spanning the Texas-Louisiana border. It's a legendary bass fishing destination that has hosted major tournaments.\n\nThe lake's massive size and diverse habitat produce quality bass throughout the year. Standing timber, grass beds, and rocky points all hold fish.",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-conroe",
+    "name": "Lake Conroe",
+    "lat": 30.4,
+    "lng": -95.55,
+    "radius": 0.12,
+    "acres": 21000,
+    "shorelineMiles": 157,
+    "maxDepth": 70,
+    "counties": [
+      "Montgomery",
+      "Walker"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Catfish",
+      "Crappie",
+      "Hybrid Striper"
+    ],
+    "nearestTowns": [
+      "Conroe",
+      "Montgomery",
+      "Willis"
+    ],
+    "description": "Lake Conroe is the premier fishing and recreation lake in the Houston metro area. Just 40 miles north of downtown Houston, it offers excellent bass fishing along its many residential docks and natural shoreline.\n\nThe lake supports good populations of largemouth bass, catfish, crappie, and hybrid stripers.",
+    "rampCount": 8
+  },
+  {
+    "id": "lake-travis",
+    "name": "Lake Travis",
+    "lat": 30.42,
+    "lng": -97.92,
+    "radius": 0.15,
+    "acres": 18930,
+    "shorelineMiles": 271,
+    "maxDepth": 210,
+    "counties": [
+      "Travis",
+      "Burnet"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Guadalupe Bass",
+      "Striped Bass",
+      "Catfish"
+    ],
+    "nearestTowns": [
+      "Austin",
+      "Lakeway",
+      "Lago Vista"
+    ],
+    "description": "Lake Travis is Austin's playground — a clear Highland Lakes reservoir in the Texas Hill Country. The lake is famous for its deep, clear water and scenic limestone cliffs.\n\nGuadalupe bass (Texas's state fish), largemouth, and stripers are the primary game fish. The lake's clear water makes sight-fishing possible.",
+    "rampCount": 26
+  },
+  {
+    "id": "possum-kingdom",
+    "name": "Possum Kingdom Lake",
+    "lat": 32.87,
+    "lng": -98.5,
+    "radius": 0.12,
+    "acres": 17622,
+    "shorelineMiles": 310,
+    "maxDepth": 150,
+    "counties": [
+      "Palo Pinto",
+      "Stephens",
+      "Young"
+    ],
+    "fishSpecies": [
+      "Striped Bass",
+      "Largemouth Bass",
+      "Sand Bass",
+      "Catfish"
+    ],
+    "nearestTowns": [
+      "Mineral Wells",
+      "Graford",
+      "Caddo"
+    ],
+    "description": "Possum Kingdom Lake is one of the clearest lakes in Texas with visibility up to 20 feet. Known for trophy striped bass and scenic bluffs, it sits in the Palo Pinto Mountains west of Fort Worth.\n\nThe lake's Hell's Gate rock formation is one of the most photographed landmarks in Texas.",
+    "rampCount": 12
+  },
+  {
+    "id": "lake-whitney",
+    "name": "Lake Whitney",
+    "lat": 31.9,
+    "lng": -97.4,
+    "radius": 0.12,
+    "acres": 23560,
+    "shorelineMiles": 225,
+    "maxDepth": 100,
+    "counties": [
+      "Hill",
+      "Bosque",
+      "Johnson"
+    ],
+    "fishSpecies": [
+      "Striped Bass",
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Catfish",
+      "White Bass"
+    ],
+    "nearestTowns": [
+      "Whitney",
+      "Clifton",
+      "Meridian"
+    ],
+    "description": "Lake Whitney is a large Corps of Engineers lake on the Brazos River, known for excellent striped bass and smallmouth bass fishing. The rocky limestone bluffs provide ideal smallmouth habitat.",
+    "rampCount": 4
+  },
+  {
+    "id": "lewisville-lake",
+    "name": "Lewisville Lake",
+    "lat": 33.1,
+    "lng": -97,
+    "radius": 0.1,
+    "acres": 29000,
+    "shorelineMiles": 233,
+    "maxDepth": 67,
+    "counties": [
+      "Denton"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "Sand Bass",
+      "Catfish"
+    ],
+    "nearestTowns": [
+      "Lewisville",
+      "Frisco",
+      "The Colony"
+    ],
+    "description": "Lewisville Lake is the DFW metroplex's most accessible big lake, just north of Dallas. It offers solid bass and crappie fishing with numerous public ramps and parks along its shores.",
+    "rampCount": 21
+  },
+  {
+    "id": "lake-ray-roberts",
+    "name": "Lake Ray Roberts",
+    "lat": 33.35,
+    "lng": -97.05,
+    "radius": 0.1,
+    "acres": 29350,
+    "shorelineMiles": 148,
+    "maxDepth": 90,
+    "counties": [
+      "Denton",
+      "Cooke",
+      "Grayson"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "White Bass",
+      "Catfish"
+    ],
+    "nearestTowns": [
+      "Pilot Point",
+      "Sanger",
+      "Denton"
+    ],
+    "description": "Lake Ray Roberts is a well-managed Corps of Engineers lake north of Denton with excellent bass fishing. The state park on its shores provides great camping and ramp access.",
+    "rampCount": 10
+  },
+  {
+    "id": "lake-livingston",
+    "name": "Lake Livingston",
+    "lat": 30.8,
+    "lng": -95.1,
+    "radius": 0.15,
+    "acres": 83000,
+    "shorelineMiles": 450,
+    "maxDepth": 80,
+    "counties": [
+      "Polk",
+      "San Jacinto",
+      "Trinity",
+      "Walker"
+    ],
+    "fishSpecies": [
+      "Catfish",
+      "White Bass",
+      "Largemouth Bass",
+      "Crappie",
+      "Striped Bass"
+    ],
+    "nearestTowns": [
+      "Livingston",
+      "Onalaska",
+      "Coldspring"
+    ],
+    "description": "Lake Livingston is one of the largest lakes in Texas at 83,000 acres. It's the catfish capital of East Texas and also offers excellent white bass runs up the Trinity River in spring.",
+    "rampCount": 6
+  },
+  {
+    "id": "falcon-lake",
+    "name": "Falcon Lake",
+    "lat": 26.65,
+    "lng": -99.25,
+    "radius": 0.12,
+    "acres": 87210,
+    "shorelineMiles": 321,
+    "maxDepth": 110,
+    "counties": [
+      "Starr",
+      "Zapata"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Catfish",
+      "White Bass",
+      "Striped Bass"
+    ],
+    "nearestTowns": [
+      "Zapata",
+      "Roma",
+      "Falcon Heights"
+    ],
+    "description": "Falcon Lake on the US-Mexico border is legendary for trophy largemouth bass. The warm South Texas climate allows bass to grow year-round, producing 10+ pound fish regularly.",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-amistad",
+    "name": "Lake Amistad",
+    "lat": 29.5,
+    "lng": -101.05,
+    "radius": 0.15,
+    "acres": 65000,
+    "shorelineMiles": 851,
+    "maxDepth": 217,
+    "counties": [
+      "Val Verde"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Smallmouth Bass",
+      "Striped Bass",
+      "Catfish",
+      "White Bass"
+    ],
+    "nearestTowns": [
+      "Del Rio",
+      "Ciudad Acuna (MX)"
+    ],
+    "description": "Lake Amistad is a crystal-clear international reservoir on the Rio Grande near Del Rio. The clear water supports both largemouth and smallmouth bass, plus excellent striped bass fishing in deep water.",
+    "rampCount": 17
+  },
+  {
+    "id": "canyon-lake",
+    "name": "Canyon Lake",
+    "lat": 29.87,
+    "lng": -98.22,
+    "radius": 0.08,
+    "acres": 8230,
+    "shorelineMiles": 80,
+    "maxDepth": 125,
+    "counties": [
+      "Comal"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Guadalupe Bass",
+      "Striped Bass",
+      "Catfish"
+    ],
+    "nearestTowns": [
+      "Canyon Lake",
+      "New Braunfels",
+      "San Marcos"
+    ],
+    "description": "Canyon Lake is a clear Hill Country lake between San Antonio and Austin. The tailrace below the dam is one of the best trout fisheries in Texas, and the lake itself produces quality bass and stripers.",
+    "rampCount": 17
+  },
+  {
+    "id": "cedar-creek-lake",
+    "name": "Cedar Creek Lake",
+    "lat": 32.15,
+    "lng": -96.08,
+    "radius": 0.1,
+    "acres": 33750,
+    "shorelineMiles": 320,
+    "maxDepth": 57,
+    "counties": [
+      "Henderson",
+      "Kaufman",
+      "Navarro"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Catfish",
+      "Crappie",
+      "Sand Bass"
+    ],
+    "nearestTowns": [
+      "Gun Barrel City",
+      "Mabank",
+      "Seven Points"
+    ],
+    "description": "Cedar Creek Lake is a popular DFW-area fishing and recreation lake east of Dallas. Good bass, catfish, and crappie fishing in a lakeside community atmosphere.",
+    "rampCount": 1
+  },
+  {
+    "id": "lake-tawakoni",
+    "name": "Lake Tawakoni",
+    "lat": 32.85,
+    "lng": -96,
+    "radius": 0.1,
+    "acres": 36700,
+    "shorelineMiles": 200,
+    "maxDepth": 75,
+    "counties": [
+      "Rains",
+      "Van Zandt",
+      "Hunt"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Catfish",
+      "Crappie",
+      "Striped Bass",
+      "White Bass"
+    ],
+    "nearestTowns": [
+      "Wills Point",
+      "West Tawakoni",
+      "Point"
+    ],
+    "description": "Lake Tawakoni is a large, productive lake east of Dallas with diverse fishing opportunities. Blue catfish over 50 pounds are caught regularly, and the bass fishing is underrated.",
+    "rampCount": 6
+  },
+  {
+    "id": "lake-buchanan",
+    "name": "Lake Buchanan",
+    "lat": 30.78,
+    "lng": -98.4,
+    "radius": 0.1,
+    "acres": 22333,
+    "shorelineMiles": 124,
+    "maxDepth": 132,
+    "counties": [
+      "Burnet",
+      "Llano",
+      "San Saba"
+    ],
+    "fishSpecies": [
+      "Striped Bass",
+      "Largemouth Bass",
+      "White Bass",
+      "Catfish"
+    ],
+    "nearestTowns": [
+      "Burnet",
+      "Buchanan Dam",
+      "Llano"
+    ],
+    "description": "Lake Buchanan is the largest and northernmost of the Highland Lakes chain in the Texas Hill Country. Trophy striped bass are the main draw, with fish over 30 pounds caught each year.",
+    "rampCount": 15
+  }
+]

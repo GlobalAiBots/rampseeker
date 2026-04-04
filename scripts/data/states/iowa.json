@@ -1,0 +1,7596 @@
+[
+  {
+    "id": 133637652,
+    "name": "Boat Ramp",
+    "latitude": 42.4860749,
+    "longitude": -96.4060496,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 160496831,
+    "name": "Boat Ramp",
+    "latitude": 42.0093944,
+    "longitude": -96.2397548,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 160555875,
+    "name": "Boat Ramp",
+    "latitude": 40.9712904,
+    "longitude": -95.0373727,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 160566229,
+    "name": "Boat Ramp",
+    "latitude": 40.9753796,
+    "longitude": -95.0368953,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 161415615,
+    "name": "Boat Ramp",
+    "latitude": 42.497061,
+    "longitude": -96.337833,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 161465323,
+    "name": "Boat Ramp",
+    "latitude": 42.305739,
+    "longitude": -96.3308942,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 370451382,
+    "name": "Boat Ramp",
+    "latitude": 41.5520861,
+    "longitude": -96.0966677,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 371798438,
+    "name": "Boat Ramp",
+    "latitude": 42.2102275,
+    "longitude": -96.3583383,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 391226444,
+    "name": "Boat Ramp",
+    "latitude": 42.294012,
+    "longitude": -95.032219,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 504462739,
+    "name": "Boat Ramp",
+    "latitude": 42.7188036,
+    "longitude": -96.5101665,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 654669032,
+    "name": "Boat Ramp",
+    "latitude": 42.2994499,
+    "longitude": -95.0452419,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 654708935,
+    "name": "Boat Ramp",
+    "latitude": 42.3002482,
+    "longitude": -95.0515424,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 838415729,
+    "name": "Rock River Access",
+    "latitude": 43.2004442,
+    "longitude": -96.3327791,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Rock River Access"
+    }
+  },
+  {
+    "id": 1108479185,
+    "name": "Rock River Access",
+    "latitude": 43.2144994,
+    "longitude": -96.2957194,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Rock River Access"
+    }
+  },
+  {
+    "id": 1108479196,
+    "name": "Boat Ramp",
+    "latitude": 43.2113808,
+    "longitude": -96.3144379,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1108479207,
+    "name": "Boat Ramp",
+    "latitude": 43.211384,
+    "longitude": -96.2929119,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1111247047,
+    "name": "Canoe Access",
+    "latitude": 43.0619591,
+    "longitude": -96.4708609,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe Access"
+    }
+  },
+  {
+    "id": 1643791874,
+    "name": "Canoe Ramp",
+    "latitude": 41.8293918,
+    "longitude": -96.482746,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe Ramp"
+    }
+  },
+  {
+    "id": 1643875561,
+    "name": "Boat Ramp",
+    "latitude": 41.7636687,
+    "longitude": -96.2975588,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 1643875816,
+    "name": "Boat Ramp",
+    "latitude": 41.7608317,
+    "longitude": -96.293573,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 1666561978,
+    "name": "Marina Boat Ramp",
+    "latitude": 42.3048454,
+    "longitude": -95.0140501,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Marina Boat Ramp"
+    }
+  },
+  {
+    "id": 1667864935,
+    "name": "Town Bay Boat Ramp",
+    "latitude": 42.3068796,
+    "longitude": -95.0439962,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Town Bay boat ramp"
+    }
+  },
+  {
+    "id": 1729435988,
+    "name": "Boat Ramp",
+    "latitude": 42.5402322,
+    "longitude": -96.0285884,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1729435995,
+    "name": "Boat Ramp",
+    "latitude": 42.5390568,
+    "longitude": -96.0295143,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1781852362,
+    "name": "Boat Ramp",
+    "latitude": 41.3404432,
+    "longitude": -96.0470941,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1806871168,
+    "name": "Boat Ramp",
+    "latitude": 41.1659571,
+    "longitude": -96.155547,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1878892741,
+    "name": "Boat Ramp",
+    "latitude": 41.3582539,
+    "longitude": -95.9481212,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1897270333,
+    "name": "Boat Ramp",
+    "latitude": 41.2683802,
+    "longitude": -96.2205155,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1924766741,
+    "name": "Boat Ramp",
+    "latitude": 41.2600755,
+    "longitude": -96.2974806,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2173143832,
+    "name": "Boat Ramp",
+    "latitude": 40.6911936,
+    "longitude": -95.8481943,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 2355615833,
+    "name": "Boat Ramp",
+    "latitude": 42.4898376,
+    "longitude": -96.4239542,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2526002953,
+    "name": "Boat Ramp",
+    "latitude": 43.3563167,
+    "longitude": -95.1750548,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2528724949,
+    "name": "Boat Ramp",
+    "latitude": 41.6049259,
+    "longitude": -95.2111308,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2528729135,
+    "name": "Boat Ramp",
+    "latitude": 41.603862,
+    "longitude": -95.2141268,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2647822406,
+    "name": "Boat Ramp",
+    "latitude": 42.4519289,
+    "longitude": -96.429562,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3157444530,
+    "name": "Boat Ramp",
+    "latitude": 41.4240031,
+    "longitude": -96.5247577,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3157471018,
+    "name": "Boat Ramp",
+    "latitude": 41.4483626,
+    "longitude": -96.5793671,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3484597418,
+    "name": "Little Sioux Boat Ramp",
+    "latitude": 42.4536401,
+    "longitude": -95.7932468,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Little Sioux Boat Ramp"
+    }
+  },
+  {
+    "id": 3487638697,
+    "name": "Boat Ramp",
+    "latitude": 42.2822003,
+    "longitude": -96.3360138,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3572994414,
+    "name": "Boat Ramp",
+    "latitude": 42.4890112,
+    "longitude": -95.7698475,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3596770386,
+    "name": "Boat Ramp",
+    "latitude": 42.4972661,
+    "longitude": -96.4764069,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3793506845,
+    "name": "Boat Ramp",
+    "latitude": 41.2115553,
+    "longitude": -95.8566205,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3793506855,
+    "name": "Boat Ramp",
+    "latitude": 41.2140867,
+    "longitude": -95.8559994,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3844031229,
+    "name": "Boat Ramp",
+    "latitude": 42.2941866,
+    "longitude": -95.0213285,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 3886997484,
+    "name": "Boat Ramp",
+    "latitude": 40.4757615,
+    "longitude": -95.5838705,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 4191831291,
+    "name": "Inkpaduta Access",
+    "latitude": 42.254031,
+    "longitude": -95.9046773,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Inkpaduta Access"
+    }
+  },
+  {
+    "id": 4318206992,
+    "name": "Boat Ramp",
+    "latitude": 41.1890546,
+    "longitude": -95.8636134,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4318206993,
+    "name": "Boat Ramp",
+    "latitude": 41.1891154,
+    "longitude": -95.8641534,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4318207092,
+    "name": "Boat Ramp",
+    "latitude": 41.2032858,
+    "longitude": -95.8564347,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "ref": "83"
+    }
+  },
+  {
+    "id": 4318207093,
+    "name": "Boat Ramp",
+    "latitude": 41.2033086,
+    "longitude": -95.8563521,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "ref": "83"
+    }
+  },
+  {
+    "id": 4362200197,
+    "name": "Boat Ramp",
+    "latitude": 41.9008278,
+    "longitude": -95.0793864,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4385754614,
+    "name": "Boat Ramp",
+    "latitude": 41.267895,
+    "longitude": -96.1103774,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4392810246,
+    "name": "Boat Ramp",
+    "latitude": 40.9245501,
+    "longitude": -95.8729189,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4523518546,
+    "name": "Boat Ramp",
+    "latitude": 43.4067394,
+    "longitude": -95.0723308,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "description": "Jerrod's Messerole's Boat Ramp",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4728021478,
+    "name": "Boat Ramp",
+    "latitude": 42.6232968,
+    "longitude": -95.1758744,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4969690820,
+    "name": "Boat Ramp",
+    "latitude": 41.4508733,
+    "longitude": -96.5699182,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "DigitalGlobe-Premium"
+    }
+  },
+  {
+    "id": 4981419432,
+    "name": "Boat Ramp",
+    "latitude": 41.4465416,
+    "longitude": -96.5743371,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 4987455674,
+    "name": "Boat Ramp",
+    "latitude": 41.4424051,
+    "longitude": -96.5755622,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 4987466039,
+    "name": "Boat Ramp",
+    "latitude": 41.4393017,
+    "longitude": -96.5629947,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 4987489758,
+    "name": "Boat Ramp",
+    "latitude": 41.4360799,
+    "longitude": -96.5578641,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 4987514302,
+    "name": "Boat Ramp",
+    "latitude": 41.4428837,
+    "longitude": -96.5424377,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 4987565000,
+    "name": "Boat Ramp",
+    "latitude": 41.4383087,
+    "longitude": -96.5515264,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 4987565300,
+    "name": "Boat Ramp",
+    "latitude": 41.4394957,
+    "longitude": -96.5539526,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 4988897049,
+    "name": "Boat Ramp",
+    "latitude": 41.4402242,
+    "longitude": -96.5554851,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4989206370,
+    "name": "Boat Ramp",
+    "latitude": 41.4397062,
+    "longitude": -96.5327633,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4989287812,
+    "name": "Boat Ramp",
+    "latitude": 41.4385189,
+    "longitude": -96.5357915,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4998814218,
+    "name": "Boat Ramp",
+    "latitude": 41.4302472,
+    "longitude": -96.5472212,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 5002305589,
+    "name": "Boat Ramp",
+    "latitude": 41.4357388,
+    "longitude": -96.5432642,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 5004264998,
+    "name": "Boat Ramp",
+    "latitude": 41.4507178,
+    "longitude": -96.5702783,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "DigitalGlobe-Premium"
+    }
+  },
+  {
+    "id": 5004265025,
+    "name": "Boat Ramp",
+    "latitude": 41.4490755,
+    "longitude": -96.5623805,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "DigitalGlobe-Premium"
+    }
+  },
+  {
+    "id": 5004428849,
+    "name": "Boat Ramp",
+    "latitude": 41.4400961,
+    "longitude": -96.5443073,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5004428850,
+    "name": "Boat Ramp",
+    "latitude": 41.4397145,
+    "longitude": -96.5424977,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5006047785,
+    "name": "Boat Ramp",
+    "latitude": 41.4385311,
+    "longitude": -96.5357188,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "DigitalGlobe-Premium"
+    }
+  },
+  {
+    "id": 5006058199,
+    "name": "Boat Ramp",
+    "latitude": 41.4494639,
+    "longitude": -96.5622593,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "DigitalGlobe-Premium"
+    }
+  },
+  {
+    "id": 5006062443,
+    "name": "Boat Ramp",
+    "latitude": 41.4389182,
+    "longitude": -96.5388201,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "DigitalGlobe-Premium"
+    }
+  },
+  {
+    "id": 5013165194,
+    "name": "Boat Ramp",
+    "latitude": 41.3807311,
+    "longitude": -96.4712771,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 5015763941,
+    "name": "Boat Ramp",
+    "latitude": 41.3826709,
+    "longitude": -96.4794967,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 5351887321,
+    "name": "Boat Ramp",
+    "latitude": 41.3135956,
+    "longitude": -96.1318933,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5498303222,
+    "name": "Boat Ramp",
+    "latitude": 41.4790987,
+    "longitude": -96.0127829,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5614221546,
+    "name": "Boat Ramp",
+    "latitude": 40.7849912,
+    "longitude": -95.360502,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5752363270,
+    "name": "Boat Ramp",
+    "latitude": 42.3781231,
+    "longitude": -96.5833729,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6029926254,
+    "name": "Boat Ramp",
+    "latitude": 43.3578359,
+    "longitude": -95.1236664,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6029932282,
+    "name": "Boat Ramp",
+    "latitude": 43.3563513,
+    "longitude": -95.1162051,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6029932395,
+    "name": "Boat Ramp",
+    "latitude": 43.369945,
+    "longitude": -95.1215111,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6029956805,
+    "name": "Boat Ramp",
+    "latitude": 43.4465033,
+    "longitude": -95.0966168,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6029966839,
+    "name": "Boat Ramp",
+    "latitude": 43.4706273,
+    "longitude": -95.1240747,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6164525863,
+    "name": "Boat Landing",
+    "latitude": 41.4101432,
+    "longitude": -96.5191634,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "description": "Boat Access to the Platte River",
+      "leisure": "slipway",
+      "name": "Boat Landing"
+    }
+  },
+  {
+    "id": 6233960477,
+    "name": "Boat Ramp",
+    "latitude": 41.4790804,
+    "longitude": -96.0008741,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6286258826,
+    "name": "Boat Ramp",
+    "latitude": 41.2848157,
+    "longitude": -95.8754632,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6373163180,
+    "name": "Boat Ramp",
+    "latitude": 42.0040013,
+    "longitude": -96.2438848,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp",
+      "source": "EsriWorldImagery"
+    }
+  },
+  {
+    "id": 6388494663,
+    "name": "Boat Ramp",
+    "latitude": 41.2929364,
+    "longitude": -96.2821451,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "notes": "Open/Closed info at https://www.papionrd.org/river-access-sites-open-or-closed-check-here/",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 6389408737,
+    "name": "Boat Ramp",
+    "latitude": 41.2556878,
+    "longitude": -96.2620405,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6988231878,
+    "name": "Boat Ramp",
+    "latitude": 41.3728566,
+    "longitude": -96.1980159,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 7100292362,
+    "name": "Boat Ramp",
+    "latitude": 41.0149189,
+    "longitude": -95.8689317,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7451130935,
+    "name": "Boat Ramp",
+    "latitude": 41.0704507,
+    "longitude": -95.7892839,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7524717993,
+    "name": "Boat Ramp",
+    "latitude": 41.0704503,
+    "longitude": -95.7891763,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8195143455,
+    "name": "Boat Ramp",
+    "latitude": 41.0767894,
+    "longitude": -95.8236857,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8395500014,
+    "name": "Ron Wilmot River Access",
+    "latitude": 42.7933384,
+    "longitude": -96.5942237,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Ron Wilmot River Access",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 8483504556,
+    "name": "Boat Ramp",
+    "latitude": 41.7706402,
+    "longitude": -95.7867514,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8487338010,
+    "name": "Boat Ramp",
+    "latitude": 42.7362133,
+    "longitude": -96.5149999,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8681131176,
+    "name": "Boat Ramp",
+    "latitude": 41.0467622,
+    "longitude": -95.7843486,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8890991228,
+    "name": "Boat Ramp",
+    "latitude": 41.0147091,
+    "longitude": -96.1578747,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8980102796,
+    "name": "Boat Ramp",
+    "latitude": 41.388347,
+    "longitude": -95.9403631,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8993524717,
+    "name": "Boat Ramp",
+    "latitude": 41.2892702,
+    "longitude": -95.9082576,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9339376394,
+    "name": "Kayak Launch",
+    "latitude": 41.1558511,
+    "longitude": -96.1128655,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Kayak Launch"
+    }
+  },
+  {
+    "id": 9493170660,
+    "name": "Middle Boat Ramp",
+    "latitude": 41.5311713,
+    "longitude": -95.9985667,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Middle Boat Ramp",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 9493170664,
+    "name": "South Gate Boat Ramp",
+    "latitude": 41.4939301,
+    "longitude": -96.0120363,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "South Gate Boat Ramp"
+    }
+  },
+  {
+    "id": 9681169105,
+    "name": "Boat Ramp",
+    "latitude": 42.3017493,
+    "longitude": -95.0422358,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9688014999,
+    "name": "Boat Ramp",
+    "latitude": 42.0444745,
+    "longitude": -96.1604174,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9700948459,
+    "name": "Boat Ramp",
+    "latitude": 42.2745128,
+    "longitude": -95.6030784,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9701488537,
+    "name": "Boat Ramp",
+    "latitude": 42.5399817,
+    "longitude": -95.7348712,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9701493454,
+    "name": "Boat Ramp",
+    "latitude": 42.3573844,
+    "longitude": -95.4790617,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9713260764,
+    "name": "Boat Ramp",
+    "latitude": 43.3775943,
+    "longitude": -95.125876,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9868394526,
+    "name": "Boat Ramp",
+    "latitude": 42.0277531,
+    "longitude": -95.3198646,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9923416959,
+    "name": "Boat Ramp",
+    "latitude": 41.5854175,
+    "longitude": -96.0916126,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9923418333,
+    "name": "Boat Ramp",
+    "latitude": 41.5876527,
+    "longitude": -96.0937262,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10003412767,
+    "name": "Boat Ramp",
+    "latitude": 41.80356,
+    "longitude": -96.0661915,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10003412827,
+    "name": "Boat Ramp",
+    "latitude": 40.9722227,
+    "longitude": -95.8266195,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10021601178,
+    "name": "Boat Ramp",
+    "latitude": 41.5521969,
+    "longitude": -96.0966187,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10065342962,
+    "name": "Boat Ramp",
+    "latitude": 41.2585948,
+    "longitude": -96.2713449,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10093366561,
+    "name": "Boat Ramp",
+    "latitude": 40.8166899,
+    "longitude": -96.5855197,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10124919754,
+    "name": "Kayak And Canoe Launch",
+    "latitude": 41.158428,
+    "longitude": -96.0799822,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kayak and Canoe Launch",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": 10691334529,
+    "name": "Boat Ramp",
+    "latitude": 42.9899652,
+    "longitude": -96.5003954,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10721689166,
+    "name": "Boat Ramp",
+    "latitude": 41.1387185,
+    "longitude": -96.0692623,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10942929139,
+    "name": "Boat Ramp",
+    "latitude": 41.8700284,
+    "longitude": -95.9243661,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11013159680,
+    "name": "Boat Ramp",
+    "latitude": 43.4975146,
+    "longitude": -95.1026743,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11144296631,
+    "name": "Boat Ramp",
+    "latitude": 42.6532414,
+    "longitude": -95.5902937,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11589044312,
+    "name": "Boat Ramp",
+    "latitude": 41.3146823,
+    "longitude": -96.1363712,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "sport": "kayak;canoe"
+    }
+  },
+  {
+    "id": 11702754169,
+    "name": "Boat Ramp",
+    "latitude": 41.8728278,
+    "longitude": -96.146062,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11885492295,
+    "name": "Boat Ramp",
+    "latitude": 42.9992791,
+    "longitude": -96.0071449,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11908054742,
+    "name": "West Nishnabotna River Water Trail Access #47",
+    "latitude": 41.1961512,
+    "longitude": -95.4466883,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "West Nishnabotna River Water Trail Access #47"
+    }
+  },
+  {
+    "id": 11908054743,
+    "name": "West Nishnabotna River Water Trail Access #51",
+    "latitude": 41.2396901,
+    "longitude": -95.4251458,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "West Nishnabotna River Water Trail Access #51"
+    }
+  },
+  {
+    "id": 11957207815,
+    "name": "Boat Ramp",
+    "latitude": 41.3600679,
+    "longitude": -96.3021319,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "notes": "Open/Closed info at https://www.papionrd.org/river-access-sites-open-or-closed-check-here/",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 12091183851,
+    "name": "Boat Ramp",
+    "latitude": 41.3192514,
+    "longitude": -96.4040463,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "notes": "Open/Closed info at https://www.papionrd.org/river-access-sites-open-or-closed-check-here/",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 12091183975,
+    "name": "Boat Ramp",
+    "latitude": 41.2622532,
+    "longitude": -96.2622084,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "notes": "Open/Closed info at https://www.papionrd.org/river-access-sites-open-or-closed-check-here/"
+    }
+  },
+  {
+    "id": 12363407653,
+    "name": "Boat Ramp",
+    "latitude": 40.4985384,
+    "longitude": -95.677246,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 12393156749,
+    "name": "Boat Ramp",
+    "latitude": 41.3740478,
+    "longitude": -96.0303636,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 12511716866,
+    "name": "Boat Ramp",
+    "latitude": 41.8336055,
+    "longitude": -96.1114897,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12511753414,
+    "name": "Boat Ramp",
+    "latitude": 41.8108426,
+    "longitude": -96.0969765,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12631828047,
+    "name": "Boat Ramp",
+    "latitude": 41.2034767,
+    "longitude": -95.8551349,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "ref": "85"
+    }
+  },
+  {
+    "id": 12876962047,
+    "name": "Boat Ramp",
+    "latitude": 42.1551073,
+    "longitude": -96.3371316,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13350860477,
+    "name": "Boat Ramp",
+    "latitude": 41.0645717,
+    "longitude": -95.9512159,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 169671421,
+    "name": "Boat Ramp",
+    "latitude": 41.1386555,
+    "longitude": -96.0693647,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "permissive",
+      "highway": "service",
+      "leisure": "slipway",
+      "oneway": "no",
+      "service": "driveway",
+      "source": "bing",
+      "surface": "paved",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Sarpy, NE",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 169671439,
+    "name": "Boat Ramp",
+    "latitude": 41.1385513,
+    "longitude": -96.0695391,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "permissive",
+      "highway": "service",
+      "leisure": "slipway",
+      "oneway": "no",
+      "service": "driveway",
+      "source": "bing",
+      "surface": "paved",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Sarpy, NE",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 171291104,
+    "name": "Boat Ramp",
+    "latitude": 41.2169055,
+    "longitude": -96.1627063,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "motor_vehicle": "yes",
+      "oneway": "no",
+      "service": "slipway",
+      "source": "local knowledge",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 177432165,
+    "name": "Boat Ramp",
+    "latitude": 41.3581583,
+    "longitude": -95.9477604,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "oneway": "no",
+      "service": "driveway",
+      "source": "bing",
+      "surface": "paved",
+      "tiger:cfcc": "A74",
+      "tiger:county": "Douglas, NE",
+      "tiger:name_base": "Dodge Park",
+      "tiger:name_type": "Rd"
+    }
+  },
+  {
+    "id": 179375306,
+    "name": "Boat Ramp",
+    "latitude": 41.2682602,
+    "longitude": -96.2206976,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "motor_vehicle": "yes",
+      "name": "Boat Ramp",
+      "service": "slipway",
+      "source": "bing",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 182128556,
+    "name": "Boat Ramp",
+    "latitude": 41.2599831,
+    "longitude": -96.2974054,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "motor_vehicle": "yes",
+      "oneway": "no",
+      "service": "driveway",
+      "source": "bing",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 182649871,
+    "name": "Boat Ramp",
+    "latitude": 41.3252885,
+    "longitude": -96.3560676,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "driveway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 188554443,
+    "name": "Boat Ramp",
+    "latitude": 41.1335356,
+    "longitude": -95.8770952,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 200245586,
+    "name": "Boat Ramp",
+    "latitude": 40.6258625,
+    "longitude": -96.5793886,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 218723182,
+    "name": "Boat Ramp",
+    "latitude": 43.4332349,
+    "longitude": -95.3405219,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 376008668,
+    "name": "Boat Ramp",
+    "latitude": 41.2115124,
+    "longitude": -95.8567693,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 376008673,
+    "name": "Boat Ramp",
+    "latitude": 41.21422,
+    "longitude": -95.8561849,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 432871037,
+    "name": "Boat Ramp",
+    "latitude": 41.2032036,
+    "longitude": -95.8563645,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "ref": "83",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 432871038,
+    "name": "Boat Ramp",
+    "latitude": 41.2031726,
+    "longitude": -95.8562891,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "ref": "83",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 441532394,
+    "name": "Boat Ramp",
+    "latitude": 40.9247215,
+    "longitude": -95.8727697,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Cass, NE",
+      "tiger:reviewed": "aerial"
+    }
+  },
+  {
+    "id": 674134257,
+    "name": "Boat Ramp",
+    "latitude": 41.1623039,
+    "longitude": -96.1153154,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 674134258,
+    "name": "Boat Ramp",
+    "latitude": 41.1622754,
+    "longitude": -96.1152549,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 682024785,
+    "name": "Boat Ramp",
+    "latitude": 41.2585938,
+    "longitude": -96.271662,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "driveway"
+    }
+  },
+  {
+    "id": 682287069,
+    "name": "Boat Ramp",
+    "latitude": 41.2555691,
+    "longitude": -96.2617592,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "driveway"
+    }
+  },
+  {
+    "id": 780751349,
+    "name": "Newport Landing",
+    "latitude": 41.3776694,
+    "longitude": -96.1874067,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Newport Landing",
+      "oneway": "no",
+      "service": "slipway",
+      "source": "EsriWorldImagery",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 821113516,
+    "name": "Boat Ramp",
+    "latitude": 41.3105237,
+    "longitude": -96.1823119,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 821113517,
+    "name": "Boat Ramp",
+    "latitude": 41.3102839,
+    "longitude": -96.1823476,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 885599131,
+    "name": "Boat Ramp",
+    "latitude": 41.1642101,
+    "longitude": -96.0984311,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 923397404,
+    "name": "Boat Ramp",
+    "latitude": 40.6615319,
+    "longitude": -95.6873605,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 976071429,
+    "name": "Emergency Boat Ramp",
+    "latitude": 41.1581372,
+    "longitude": -96.0802275,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "permit",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Emergency Boat Ramp",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 1018825428,
+    "name": "Boat Ramp",
+    "latitude": 40.8165446,
+    "longitude": -96.5853323,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1054210589,
+    "name": "Boat Ramp",
+    "latitude": 42.0444917,
+    "longitude": -96.1604933,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1085230479,
+    "name": "Boat Ramp",
+    "latitude": 41.356666,
+    "longitude": -95.9509768,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1085230485,
+    "name": "Boat Ramp",
+    "latitude": 41.3571041,
+    "longitude": -95.9496811,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1085474591,
+    "name": "Airport Boat Ramp (Private)",
+    "latitude": 41.3190285,
+    "longitude": -95.9117363,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "private",
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Airport boat ramp (private)",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1092226034,
+    "name": "Bartlett Boat Ramp",
+    "latitude": 40.8874467,
+    "longitude": -95.8087012,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Bartlett Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1092257794,
+    "name": "Boat Ramp",
+    "latitude": 41.8035867,
+    "longitude": -96.0660164,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1126850386,
+    "name": "Boat Ramp",
+    "latitude": 43.3916485,
+    "longitude": -95.1022852,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1126850403,
+    "name": "Boat Ramp",
+    "latitude": 43.3916605,
+    "longitude": -95.1024185,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1127644512,
+    "name": "Boat Ramp",
+    "latitude": 43.4248322,
+    "longitude": -95.0924969,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 1127644513,
+    "name": "Boat Ramp",
+    "latitude": 43.4248372,
+    "longitude": -95.0924132,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 1127644514,
+    "name": "Boat Ramp",
+    "latitude": 43.424844,
+    "longitude": -95.0923159,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 1127644515,
+    "name": "Boat Ramp",
+    "latitude": 43.4248523,
+    "longitude": -95.0922338,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 1152728281,
+    "name": "Boat Ramp",
+    "latitude": 43.3847811,
+    "longitude": -96.5221342,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1152728302,
+    "name": "Boat Ramp",
+    "latitude": 43.3848991,
+    "longitude": -96.4666496,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1177755048,
+    "name": "Boat Ramp",
+    "latitude": 41.8515329,
+    "longitude": -95.5900994,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 1177970121,
+    "name": "Boat Ramp",
+    "latitude": 41.8700061,
+    "longitude": -95.9243391,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1181010420,
+    "name": "Boat Ramp",
+    "latitude": 41.2126787,
+    "longitude": -95.8671293,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1181786828,
+    "name": "Emergency Boat Ramp",
+    "latitude": 41.1582455,
+    "longitude": -96.0800086,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "permit",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Emergency Boat Ramp",
+      "service": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 1258405506,
+    "name": "Boat Ramp",
+    "latitude": 40.6018325,
+    "longitude": -95.645189,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1258913971,
+    "name": "Boat Ramp",
+    "latitude": 41.87289,
+    "longitude": -96.1464039,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1258913980,
+    "name": "Boat Ramp",
+    "latitude": 41.8346816,
+    "longitude": -96.1080568,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1302986358,
+    "name": "Boat Ramp",
+    "latitude": 41.2914468,
+    "longitude": -95.0847903,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1307076043,
+    "name": "Boat Ramp",
+    "latitude": 43.4977462,
+    "longitude": -95.1026566,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1311337726,
+    "name": "Boat Ramp",
+    "latitude": 41.3039082,
+    "longitude": -95.9130212,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1382027219,
+    "name": "Boat Ramp",
+    "latitude": 43.3577943,
+    "longitude": -95.1237258,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1383793366,
+    "name": "Boat Ramp",
+    "latitude": 43.3562642,
+    "longitude": -95.175358,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 158974144,
+    "name": "Mt. Auburn Boat Launch",
+    "latitude": 42.295574,
+    "longitude": -92.0592526,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mt. Auburn Boat Launch"
+    }
+  },
+  {
+    "id": 159045840,
+    "name": "Boat Ramp",
+    "latitude": 42.173262,
+    "longitude": -92.0246438,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 159053682,
+    "name": "Boat Ramp",
+    "latitude": 42.1187004,
+    "longitude": -94.0186968,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 159066275,
+    "name": "Boat Ramp",
+    "latitude": 42.0369354,
+    "longitude": -93.9276214,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 159783511,
+    "name": "Boat Ramp",
+    "latitude": 42.4307686,
+    "longitude": -93.7956533,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 159784745,
+    "name": "Boat Ramp",
+    "latitude": 42.2629005,
+    "longitude": -93.6403042,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 159788100,
+    "name": "Boat Ramp",
+    "latitude": 42.2759536,
+    "longitude": -93.6393594,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 160359111,
+    "name": "Boat Ramp",
+    "latitude": 42.1197879,
+    "longitude": -91.8283699,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 161286022,
+    "name": "Boat Ramp",
+    "latitude": 42.3933752,
+    "longitude": -93.9904591,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 161288713,
+    "name": "Boat Ramp",
+    "latitude": 42.3897382,
+    "longitude": -93.974312,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 161330778,
+    "name": "Boat Ramp",
+    "latitude": 42.3616514,
+    "longitude": -94.0517375,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 161379918,
+    "name": "Boat Ramp",
+    "latitude": 42.5196015,
+    "longitude": -94.1993638,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 161401113,
+    "name": "Boat Ramp",
+    "latitude": 43.4032064,
+    "longitude": -91.9160363,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 230755813,
+    "name": "Boat Ramp",
+    "latitude": 43.3909107,
+    "longitude": -91.1815235,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 496921221,
+    "name": "Boat Ramp",
+    "latitude": 43.197604,
+    "longitude": -90.445814,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 603661229,
+    "name": "Boat Ramp",
+    "latitude": 42.7063861,
+    "longitude": -92.5378757,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 655763871,
+    "name": "Boat Ramp",
+    "latitude": 42.4375584,
+    "longitude": -93.793121,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 794209256,
+    "name": "Wildcat Bluff Access",
+    "latitude": 42.1902228,
+    "longitude": -91.8827654,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Wildcat Bluff Access"
+    }
+  },
+  {
+    "id": 797765320,
+    "name": "Boat Ramp",
+    "latitude": 42.3230759,
+    "longitude": -92.1444303,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 964532116,
+    "name": "Boat Ramp",
+    "latitude": 42.7209673,
+    "longitude": -92.4647328,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "motorized": "no"
+    }
+  },
+  {
+    "id": 1120249255,
+    "name": "Boat Ramp",
+    "latitude": 42.5230534,
+    "longitude": -93.2899072,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1212569191,
+    "name": "Coc Hollow Lake Boat Landing",
+    "latitude": 43.0134371,
+    "longitude": -90.114892,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Coc Hollow Lake Boat Landing"
+    }
+  },
+  {
+    "id": 1259818511,
+    "name": "Boat Ramp",
+    "latitude": 43.1348361,
+    "longitude": -93.3839395,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1415738622,
+    "name": "Boat Ramp",
+    "latitude": 42.54352,
+    "longitude": -92.4535768,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1502372945,
+    "name": "Boat Ramp",
+    "latitude": 43.1393771,
+    "longitude": -93.2221692,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1502372969,
+    "name": "Boat Ramp",
+    "latitude": 43.1390718,
+    "longitude": -93.2195621,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1563858067,
+    "name": "Boat Ramp",
+    "latitude": 43.1186295,
+    "longitude": -93.4177878,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1563858115,
+    "name": "Boat Ramp",
+    "latitude": 43.1217392,
+    "longitude": -93.3857943,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1563858151,
+    "name": "Boat Ramp",
+    "latitude": 43.1229758,
+    "longitude": -93.3852658,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1575408127,
+    "name": "Boat Ramp",
+    "latitude": 43.227691,
+    "longitude": -93.7861649,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1684741295,
+    "name": "Boat Ramp",
+    "latitude": 42.8358476,
+    "longitude": -93.6912152,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1684777583,
+    "name": "Boat Ramp",
+    "latitude": 42.7905449,
+    "longitude": -93.694066,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1687559734,
+    "name": "Boat Ramp",
+    "latitude": 42.418043,
+    "longitude": -93.9920461,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1687708520,
+    "name": "Boat Ramp",
+    "latitude": 42.3932845,
+    "longitude": -93.9903674,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1687937219,
+    "name": "Boat Ramp",
+    "latitude": 42.389763,
+    "longitude": -93.9742397,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1688057545,
+    "name": "Boat Ramp",
+    "latitude": 42.3980579,
+    "longitude": -93.9835651,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1688057548,
+    "name": "Boat Ramp",
+    "latitude": 42.3980953,
+    "longitude": -93.9836183,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1688058039,
+    "name": "Boat Ramp",
+    "latitude": 42.4180133,
+    "longitude": -93.9921134,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1692253705,
+    "name": "Boat Ramp",
+    "latitude": 42.517648,
+    "longitude": -93.2674015,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1717118940,
+    "name": "Boat Ramp",
+    "latitude": 43.1170868,
+    "longitude": -91.2535716,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1744304828,
+    "name": "Boat Ramp",
+    "latitude": 42.1195633,
+    "longitude": -91.8168179,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1744304975,
+    "name": "Boat Ramp",
+    "latitude": 42.1194982,
+    "longitude": -91.8169604,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1952702069,
+    "name": "Boat Ramp",
+    "latitude": 42.0719717,
+    "longitude": -93.6239745,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1999579550,
+    "name": "Boat Ramp",
+    "latitude": 42.0662536,
+    "longitude": -93.6204902,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2070982982,
+    "name": "Boat Ramp",
+    "latitude": 42.4322578,
+    "longitude": -93.8057526,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2112344291,
+    "name": "Boat Ramp",
+    "latitude": 42.5493524,
+    "longitude": -92.4346665,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2135248919,
+    "name": "Boat Ramp",
+    "latitude": 42.5296749,
+    "longitude": -92.4023493,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2135266787,
+    "name": "Boat Ramp",
+    "latitude": 42.5361528,
+    "longitude": -92.4107884,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2161548390,
+    "name": "Boat Ramp",
+    "latitude": 42.4745458,
+    "longitude": -92.3101557,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2395847127,
+    "name": "Boat Ramp",
+    "latitude": 43.1587116,
+    "longitude": -90.1876537,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2399338035,
+    "name": "Wyalusing Park Boat Landing",
+    "latitude": 42.9762669,
+    "longitude": -91.1379436,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Wyalusing Park Boat Landing"
+    }
+  },
+  {
+    "id": 2399584692,
+    "name": "Wyalusing Boat Landing",
+    "latitude": 42.9481534,
+    "longitude": -91.1439657,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Wyalusing Boat Landing"
+    }
+  },
+  {
+    "id": 2402992837,
+    "name": "Boat Ramp",
+    "latitude": 42.7089316,
+    "longitude": -90.9864774,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2403000172,
+    "name": "Boat Ramp",
+    "latitude": 42.6889385,
+    "longitude": -90.9046451,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2403030556,
+    "name": "Boat Ramp",
+    "latitude": 42.8272852,
+    "longitude": -91.0762144,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2403030576,
+    "name": "Boat Ramp",
+    "latitude": 42.8857801,
+    "longitude": -91.0876675,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2403044200,
+    "name": "Boat Ramp",
+    "latitude": 42.8938333,
+    "longitude": -91.0973154,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2404332803,
+    "name": "Boat Ramp",
+    "latitude": 43.1698908,
+    "longitude": -91.1341784,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2404332819,
+    "name": "Boat Ramp",
+    "latitude": 43.2003961,
+    "longitude": -91.113044,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2404332836,
+    "name": "Boat Ramp",
+    "latitude": 43.1995685,
+    "longitude": -91.1139162,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2404339932,
+    "name": "Cold Spring Landing",
+    "latitude": 43.2784969,
+    "longitude": -91.0484759,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Cold Spring Landing"
+    }
+  },
+  {
+    "id": 2405677759,
+    "name": "Boat Ramp",
+    "latitude": 43.3490189,
+    "longitude": -91.1027336,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2405680300,
+    "name": "Boat Ramp",
+    "latitude": 43.4177864,
+    "longitude": -91.1980302,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2405688735,
+    "name": "Boat Ramp",
+    "latitude": 43.4636212,
+    "longitude": -91.2233661,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2427479400,
+    "name": "Boat Ramp",
+    "latitude": 42.2156852,
+    "longitude": -91.5411841,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2430089295,
+    "name": "Boat Ramp",
+    "latitude": 42.9380324,
+    "longitude": -91.1658251,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2431558708,
+    "name": "Boat Ramp",
+    "latitude": 42.7765389,
+    "longitude": -91.092993,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2431598167,
+    "name": "Boat Ramp",
+    "latitude": 42.803995,
+    "longitude": -91.1055871,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2431598174,
+    "name": "Boat Ramp",
+    "latitude": 42.8047842,
+    "longitude": -91.1064331,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2431741620,
+    "name": "Boat Ramp",
+    "latitude": 42.9042335,
+    "longitude": -91.1463864,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2431769648,
+    "name": "Boat Ramp",
+    "latitude": 43.0261637,
+    "longitude": -91.1730591,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2439862288,
+    "name": "Boat Ramp",
+    "latitude": 42.4736468,
+    "longitude": -91.8980172,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2453053886,
+    "name": "Boat Ramp",
+    "latitude": 42.2132506,
+    "longitude": -91.5398327,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2456942374,
+    "name": "Boat Ramp",
+    "latitude": 42.1149943,
+    "longitude": -91.8295387,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2459758049,
+    "name": "Boat Ramp",
+    "latitude": 43.1728824,
+    "longitude": -91.9048556,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2463472693,
+    "name": "Boat Ramp",
+    "latitude": 43.4288438,
+    "longitude": -91.3973517,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2466036671,
+    "name": "Boat Ramp",
+    "latitude": 43.3670657,
+    "longitude": -91.2085855,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2466059160,
+    "name": "New Albin Landing",
+    "latitude": 43.4926842,
+    "longitude": -91.2485265,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "New Albin Landing",
+      "source": "http://www.mylansingiowa.com"
+    }
+  },
+  {
+    "id": 2468406755,
+    "name": "Ferry Landing Water Access",
+    "latitude": 42.7175266,
+    "longitude": -91.0099939,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Ferry Landing Water Access"
+    }
+  },
+  {
+    "id": 2469492995,
+    "name": "Garber Canoe Access",
+    "latitude": 42.7402353,
+    "longitude": -91.2616522,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Garber Canoe Access"
+    }
+  },
+  {
+    "id": 2469497844,
+    "name": "Osterdock Canoe Access",
+    "latitude": 42.7331551,
+    "longitude": -91.1590014,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Osterdock Canoe Access",
+      "source": "Iowa DNR"
+    }
+  },
+  {
+    "id": 2469508627,
+    "name": "Millville Canoe Access",
+    "latitude": 42.7075478,
+    "longitude": -91.0761855,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Millville Canoe Access",
+      "source": "Iowa DNR"
+    }
+  },
+  {
+    "id": 2469523101,
+    "name": "Motor Mill Canoe Access",
+    "latitude": 42.8063178,
+    "longitude": -91.3474134,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Motor Mill Canoe Access",
+      "source": "Iowa DNR"
+    }
+  },
+  {
+    "id": 2469538563,
+    "name": "Turkey River Park Canoe Access",
+    "latitude": 42.8432806,
+    "longitude": -91.4020202,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Turkey River Park Canoe Access"
+    }
+  },
+  {
+    "id": 2469553965,
+    "name": "Robert'S Creek Canoe Access",
+    "latitude": 42.8941558,
+    "longitude": -91.3924279,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Robert's Creek Canoe Access"
+    }
+  },
+  {
+    "id": 2469558240,
+    "name": "Elkader Canoe Takeout",
+    "latitude": 42.8598017,
+    "longitude": -91.4064827,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Elkader Canoe Takeout",
+      "source": "Iowa DNR"
+    }
+  },
+  {
+    "id": 2469570479,
+    "name": "Elkader Canoe Access",
+    "latitude": 42.8521686,
+    "longitude": -91.4016812,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Elkader Canoe Access",
+      "source": "Iowa DNR"
+    }
+  },
+  {
+    "id": 2470661579,
+    "name": "Big Spring Canoe Access",
+    "latitude": 42.9125925,
+    "longitude": -91.4826464,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Big Spring Canoe Access",
+      "source": "Iowa DNR"
+    }
+  },
+  {
+    "id": 2470661589,
+    "name": "Frieden Park Canoe Access",
+    "latitude": 42.9089229,
+    "longitude": -91.4745032,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Frieden Park Canoe Access",
+      "source": "Iowa DNR"
+    }
+  },
+  {
+    "id": 2471701731,
+    "name": "Gilbertson Park Narrows Canoe Access",
+    "latitude": 42.9515502,
+    "longitude": -91.6064678,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Gilbertson Park Narrows Canoe Access",
+      "source": "Iowa DNR"
+    }
+  },
+  {
+    "id": 2471701735,
+    "name": "Gilbertson Park Canoe Access West",
+    "latitude": 42.95815,
+    "longitude": -91.6242965,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Gilbertson Park Canoe Access West",
+      "source": "Iowa DNR"
+    }
+  },
+  {
+    "id": 2471701736,
+    "name": "Gilbertson Park Canoe Access East",
+    "latitude": 42.9583463,
+    "longitude": -91.6232343,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Gilbertson Park Canoe Access East",
+      "source": "Iowa DNR"
+    }
+  },
+  {
+    "id": 2471702068,
+    "name": "Valley Bridge Canoe Access",
+    "latitude": 42.9777922,
+    "longitude": -91.6516773,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Valley Bridge Canoe Access",
+      "source": "Iowa DNR"
+    }
+  },
+  {
+    "id": 2473039219,
+    "name": "Clermont Park Canoe Takeout",
+    "latitude": 42.9981799,
+    "longitude": -91.6594692,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Clermont Park Canoe Takeout",
+      "source": "Iowa DNR"
+    }
+  },
+  {
+    "id": 2473039220,
+    "name": "Clermont Canoe Access",
+    "latitude": 42.996636,
+    "longitude": -91.6563203,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Clermont Canoe Access"
+    }
+  },
+  {
+    "id": 2473039617,
+    "name": "Huntzinger Bridge Canoe Access",
+    "latitude": 43.0481692,
+    "longitude": -91.7853104,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Huntzinger Bridge Canoe Access",
+      "source": "Iowa DNR"
+    }
+  },
+  {
+    "id": 2473039624,
+    "name": "Tessmer Canoe Access",
+    "latitude": 43.008374,
+    "longitude": -91.7084276,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Tessmer Canoe Access",
+      "source": "Iowa DNR"
+    }
+  },
+  {
+    "id": 2473039634,
+    "name": "Turkey River Canoe Access",
+    "latitude": 43.0178134,
+    "longitude": -91.7303198,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Turkey River Canoe Access",
+      "source": "Iowa DNR"
+    }
+  },
+  {
+    "id": 2473040537,
+    "name": "Eldorado Bridge Canoe Access",
+    "latitude": 43.0538121,
+    "longitude": -91.8348696,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Eldorado Bridge Canoe Access",
+      "source": "Iowa DNR"
+    }
+  },
+  {
+    "id": 2473040540,
+    "name": "Auburn Canoe Access",
+    "latitude": 43.0087231,
+    "longitude": -91.869108,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Auburn Canoe Access",
+      "source": "Iowa DNR"
+    }
+  },
+  {
+    "id": 2473970121,
+    "name": "Clermont Canoe Access",
+    "latitude": 42.996767,
+    "longitude": -91.6561709,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Clermont Canoe Access"
+    }
+  },
+  {
+    "id": 2474697420,
+    "name": "Albany Bridge Canoe Access",
+    "latitude": 42.8623906,
+    "longitude": -91.7631246,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Albany Bridge Canoe Access"
+    }
+  },
+  {
+    "id": 2474697713,
+    "name": "Canoe Access",
+    "latitude": 42.8645336,
+    "longitude": -91.7407013,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe Access",
+      "source": "Iowa DNR"
+    }
+  },
+  {
+    "id": 2474754298,
+    "name": "Gouldsburg Park Canoe Access",
+    "latitude": 43.008421,
+    "longitude": -91.9558413,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Gouldsburg Park Canoe Access"
+    }
+  },
+  {
+    "id": 2475797178,
+    "name": "Brinker Lake Access",
+    "latitude": 42.5259312,
+    "longitude": -92.3877584,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Brinker Lake Access",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2481903308,
+    "name": "Boat Ramp",
+    "latitude": 43.1560491,
+    "longitude": -91.1781027,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2481910679,
+    "name": "Boat Ramp",
+    "latitude": 43.2015264,
+    "longitude": -91.1445413,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2481910697,
+    "name": "Boat Ramp",
+    "latitude": 43.2003877,
+    "longitude": -91.1462097,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2484074666,
+    "name": "Boat Ramp",
+    "latitude": 43.3480573,
+    "longitude": -91.2083674,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2484140649,
+    "name": "Boat Ramp",
+    "latitude": 43.4742345,
+    "longitude": -91.2949722,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2484187367,
+    "name": "Boat Ramp",
+    "latitude": 43.4650162,
+    "longitude": -92.2790865,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2506678606,
+    "name": "Boat Ramp",
+    "latitude": 43.3755488,
+    "longitude": -92.5477384,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2510985772,
+    "name": "Boat Ramp",
+    "latitude": 42.191724,
+    "longitude": -91.5204071,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2520494167,
+    "name": "Yellow River Canoe Access",
+    "latitude": 43.1302211,
+    "longitude": -91.3758624,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Yellow River Canoe Access"
+    }
+  },
+  {
+    "id": 2528716685,
+    "name": "Boat Ramp",
+    "latitude": 42.3745186,
+    "longitude": -93.0668361,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2528776549,
+    "name": "Boat Ramp",
+    "latitude": 42.1291579,
+    "longitude": -92.726816,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2528778369,
+    "name": "Boat Ramp",
+    "latitude": 42.1287013,
+    "longitude": -92.7221445,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2546390384,
+    "name": "Boat Ramp",
+    "latitude": 42.6309411,
+    "longitude": -90.6531569,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2549461116,
+    "name": "Boat Ramp",
+    "latitude": 42.9971159,
+    "longitude": -91.049751,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2560820187,
+    "name": "Boat Ramp",
+    "latitude": 43.1026079,
+    "longitude": -93.3383371,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2560846341,
+    "name": "Boat Ramp",
+    "latitude": 42.3044052,
+    "longitude": -91.9666444,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2589289754,
+    "name": "Boat Ramp",
+    "latitude": 43.4066028,
+    "longitude": -93.4017185,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2589302172,
+    "name": "Boat Ramp",
+    "latitude": 43.4130796,
+    "longitude": -93.4398595,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2589888958,
+    "name": "Boat Ramp",
+    "latitude": 42.0840081,
+    "longitude": -91.7240563,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2599103714,
+    "name": "Boat Ramp",
+    "latitude": 43.0872978,
+    "longitude": -92.3457861,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2653046851,
+    "name": "Iowa River Access",
+    "latitude": 42.3562391,
+    "longitude": -93.0812775,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Iowa River Access"
+    }
+  },
+  {
+    "id": 2954448316,
+    "name": "Boat Ramp",
+    "latitude": 42.2660727,
+    "longitude": -92.3109039,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2962192941,
+    "name": "Boat Ramp",
+    "latitude": 42.0341696,
+    "longitude": -94.842506,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2989837983,
+    "name": "Boat Ramp",
+    "latitude": 42.7675512,
+    "longitude": -93.240272,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2996055874,
+    "name": "Boat Ramp",
+    "latitude": 42.6754921,
+    "longitude": -93.2065784,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3039023167,
+    "name": "Boat Ramp",
+    "latitude": 43.1010307,
+    "longitude": -90.8586216,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3042779407,
+    "name": "Boat Ramp",
+    "latitude": 43.1142575,
+    "longitude": -90.9124654,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3057387873,
+    "name": "Boat Ramp",
+    "latitude": 42.9406665,
+    "longitude": -93.5604182,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3073708263,
+    "name": "Boat Ramp",
+    "latitude": 43.1730309,
+    "longitude": -90.1877601,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3095007938,
+    "name": "Boat Ramp",
+    "latitude": 42.7372619,
+    "longitude": -92.4699528,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3107543916,
+    "name": "Boat Ramp",
+    "latitude": 42.0915352,
+    "longitude": -93.0010411,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3121545796,
+    "name": "Boat Ramp",
+    "latitude": 42.326625,
+    "longitude": -92.1482261,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3189510596,
+    "name": "Boat Ramp",
+    "latitude": 42.2896911,
+    "longitude": -91.6735073,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3200247981,
+    "name": "Three Elms Access",
+    "latitude": 42.4555762,
+    "longitude": -91.8699253,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Three Elms Access"
+    }
+  },
+  {
+    "id": 3205570162,
+    "name": "Boat Ramp",
+    "latitude": 43.2570101,
+    "longitude": -93.759022,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3232335026,
+    "name": "Boat Ramp",
+    "latitude": 43.2847578,
+    "longitude": -92.46727,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3233623525,
+    "name": "Boat Ramp",
+    "latitude": 43.3469124,
+    "longitude": -92.1388034,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3243560791,
+    "name": "Boat Ramp",
+    "latitude": 42.3652621,
+    "longitude": -93.0808784,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3279063828,
+    "name": "Boat Ramp",
+    "latitude": 42.3214268,
+    "longitude": -93.9149349,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3461297647,
+    "name": "Boat Ramp",
+    "latitude": 42.8776748,
+    "longitude": -90.2014166,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3582130893,
+    "name": "Canoe Access",
+    "latitude": 42.8385196,
+    "longitude": -91.7724397,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe Access"
+    }
+  },
+  {
+    "id": 3847772024,
+    "name": "McCoy Landing",
+    "latitude": 42.0108533,
+    "longitude": -92.7220327,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "McCoy Landing"
+    }
+  },
+  {
+    "id": 3940517527,
+    "name": "Boat Ramp",
+    "latitude": 42.1616116,
+    "longitude": -91.9198087,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3940517673,
+    "name": "Hoefle Dulin Access",
+    "latitude": 42.1641842,
+    "longitude": -91.9785322,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Hoefle Dulin Access"
+    }
+  },
+  {
+    "id": 4207789916,
+    "name": "Dix Road Access",
+    "latitude": 42.2688005,
+    "longitude": -91.6321522,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Dix Road Access"
+    }
+  },
+  {
+    "id": 4210859781,
+    "name": "Paris Access",
+    "latitude": 42.2447387,
+    "longitude": -91.5844066,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Paris Access"
+    }
+  },
+  {
+    "id": 4398573369,
+    "name": "Boat Ramp",
+    "latitude": 43.0437482,
+    "longitude": -91.1769923,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4403506195,
+    "name": "Boat Ramp",
+    "latitude": 42.6827445,
+    "longitude": -90.8512353,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4404301541,
+    "name": "Grant River Recreation Area Boat Launch",
+    "latitude": 42.6515683,
+    "longitude": -90.7012969,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Grant River Recreation Area Boat Launch"
+    }
+  },
+  {
+    "id": 4414627545,
+    "name": "Boat Ramp",
+    "latitude": 42.5705349,
+    "longitude": -90.684372,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4414678273,
+    "name": "Boat Ramp",
+    "latitude": 42.6180863,
+    "longitude": -90.7017658,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4414679339,
+    "name": "Boat Ramp",
+    "latitude": 42.6188939,
+    "longitude": -90.7027166,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4421242221,
+    "name": "A.Y. McDonald Park Boat Ramp",
+    "latitude": 42.5255971,
+    "longitude": -90.6423767,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "A.Y. McDonald Park Boat Ramp",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 4435148711,
+    "name": "Boat Ramp",
+    "latitude": 42.8493048,
+    "longitude": -91.1066333,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4501766625,
+    "name": "Boat Ramp",
+    "latitude": 42.7410927,
+    "longitude": -90.1690838,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4577201460,
+    "name": "Schmitt Island Boat Ramp",
+    "latitude": 42.5115695,
+    "longitude": -90.6447975,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "canoe": "put_in",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Schmitt Island Boat Ramp",
+      "operator": "City of Dubuque",
+      "ref": "581",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 4591226938,
+    "name": "Boat Ramp",
+    "latitude": 43.0217722,
+    "longitude": -90.2859893,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4598314088,
+    "name": "Boat Ramp",
+    "latitude": 42.6937403,
+    "longitude": -92.8374848,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4617729589,
+    "name": "Boat Ramp",
+    "latitude": 43.2054779,
+    "longitude": -90.5307924,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4656586219,
+    "name": "Wauzeka Boat Landing",
+    "latitude": 43.0848729,
+    "longitude": -90.8787712,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Wauzeka Boat Landing"
+    }
+  },
+  {
+    "id": 4657051859,
+    "name": "Floyd Von Haden Boat Landing",
+    "latitude": 43.1492722,
+    "longitude": -90.715253,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Floyd Von Haden Boat Landing"
+    }
+  },
+  {
+    "id": 4657051860,
+    "name": "Old Boat Landing",
+    "latitude": 43.1505324,
+    "longitude": -90.7127318,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Old Boat Landing"
+    }
+  },
+  {
+    "id": 4700129862,
+    "name": "Boat Ramp",
+    "latitude": 42.512659,
+    "longitude": -91.9752659,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4721357448,
+    "name": "Boat Ramp",
+    "latitude": 43.1976012,
+    "longitude": -90.4392555,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4728607264,
+    "name": "Boat Ramp",
+    "latitude": 42.7286534,
+    "longitude": -94.2501172,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4814100582,
+    "name": "Wapsipinicon River Access",
+    "latitude": 42.4894737,
+    "longitude": -91.9049983,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Wapsipinicon River Access"
+    }
+  },
+  {
+    "id": 4814100583,
+    "name": "Troy Mills Access",
+    "latitude": 42.3151286,
+    "longitude": -91.7153867,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Troy Mills Access"
+    }
+  },
+  {
+    "id": 4814100588,
+    "name": "Robert McGlaughlin Easement Access",
+    "latitude": 42.5302548,
+    "longitude": -92.0264813,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Robert McGlaughlin Easement Access"
+    }
+  },
+  {
+    "id": 4856618312,
+    "name": "Gotham Landing",
+    "latitude": 43.2094223,
+    "longitude": -90.3045568,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Gotham landing"
+    }
+  },
+  {
+    "id": 4856626861,
+    "name": "Blue River Landing",
+    "latitude": 43.2068571,
+    "longitude": -90.5662209,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Blue River Landing"
+    }
+  },
+  {
+    "id": 5118342805,
+    "name": "Boat Ramp",
+    "latitude": 42.6289138,
+    "longitude": -92.5432241,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5120431475,
+    "name": "Boat Ramp",
+    "latitude": 42.5684031,
+    "longitude": -92.4848984,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5215081042,
+    "name": "Boat Ramp",
+    "latitude": 42.9100534,
+    "longitude": -92.23757,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5241417130,
+    "name": "Boat Ramp",
+    "latitude": 42.6543175,
+    "longitude": -90.8080025,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5264690359,
+    "name": "Boat Ramp",
+    "latitude": 42.8477619,
+    "longitude": -92.5212474,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6032743351,
+    "name": "Boat Ramp",
+    "latitude": 43.383869,
+    "longitude": -93.4906058,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6032743352,
+    "name": "Boat Ramp",
+    "latitude": 43.3950638,
+    "longitude": -93.5073614,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6052408160,
+    "name": "Boat Ramp",
+    "latitude": 42.1288071,
+    "longitude": -93.9816617,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6052408209,
+    "name": "Boat Ramp",
+    "latitude": 42.1219209,
+    "longitude": -93.9699956,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6087165039,
+    "name": "Boat Ramp",
+    "latitude": 42.1115116,
+    "longitude": -94.0204769,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6234894347,
+    "name": "Boat Ramp",
+    "latitude": 43.4609728,
+    "longitude": -91.2252139,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6234894348,
+    "name": "Boat Ramp",
+    "latitude": 43.4551287,
+    "longitude": -91.2238129,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6698080235,
+    "name": "Boat Ramp",
+    "latitude": 42.3899003,
+    "longitude": -94.0787638,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7161026661,
+    "name": "Boat Ramp",
+    "latitude": 42.490816,
+    "longitude": -94.1839029,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 7527831083,
+    "name": "Boat Ramp",
+    "latitude": 42.1892933,
+    "longitude": -91.5199443,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7527849787,
+    "name": "Boat Ramp",
+    "latitude": 42.1908539,
+    "longitude": -91.5237475,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7745826562,
+    "name": "Boat Ramp",
+    "latitude": 43.2023536,
+    "longitude": -90.4011295,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8107416990,
+    "name": "Boat Ramp",
+    "latitude": 43.4123508,
+    "longitude": -94.8399232,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8107416991,
+    "name": "Boat Ramp",
+    "latitude": 43.4591923,
+    "longitude": -94.866745,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8616225269,
+    "name": "Boat Ramp",
+    "latitude": 43.0445638,
+    "longitude": -91.1771712,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9139791873,
+    "name": "Boat Ramp",
+    "latitude": 42.2041908,
+    "longitude": -91.5273133,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9168376890,
+    "name": "Backbone Dam Access",
+    "latitude": 42.6005186,
+    "longitude": -91.5360914,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "canoe": "put_in",
+      "leisure": "slipway",
+      "name": "Backbone Dam Access",
+      "ref": "131.6",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 9203517875,
+    "name": "Boat Ramp",
+    "latitude": 42.0044063,
+    "longitude": -91.6894278,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9487381953,
+    "name": "Boat Ramp",
+    "latitude": 43.1219662,
+    "longitude": -93.4587773,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9893634770,
+    "name": "Boat Ramp",
+    "latitude": 42.0642725,
+    "longitude": -93.6331922,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9904964254,
+    "name": "Boat Ramp",
+    "latitude": 42.0370156,
+    "longitude": -93.5968672,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9904964265,
+    "name": "Boat Ramp",
+    "latitude": 42.0372394,
+    "longitude": -93.5983058,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9918119588,
+    "name": "Boat Ramp",
+    "latitude": 42.8300695,
+    "longitude": -92.2194923,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9918119590,
+    "name": "Boat Ramp",
+    "latitude": 42.8300794,
+    "longitude": -92.2194049,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9984466656,
+    "name": "Boat Ramp",
+    "latitude": 43.3633463,
+    "longitude": -91.850535,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9984470957,
+    "name": "Boat Ramp",
+    "latitude": 43.4035475,
+    "longitude": -91.9163001,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9984478507,
+    "name": "Boat Ramp",
+    "latitude": 43.4148551,
+    "longitude": -91.9595903,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9995424883,
+    "name": "Boat Ramp",
+    "latitude": 42.539299,
+    "longitude": -92.4440924,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10000826580,
+    "name": "Boat Ramp",
+    "latitude": 42.2170078,
+    "longitude": -91.5421485,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "grass"
+    }
+  },
+  {
+    "id": 10000826719,
+    "name": "Boat Ramp",
+    "latitude": 42.2228902,
+    "longitude": -91.5457431,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10114086108,
+    "name": "Boat Ramp",
+    "latitude": 42.2139882,
+    "longitude": -91.5397814,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10158433906,
+    "name": "Boat Ramp",
+    "latitude": 42.2919659,
+    "longitude": -91.6847233,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10158434001,
+    "name": "Boat Ramp",
+    "latitude": 42.2930824,
+    "longitude": -91.6855153,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10249637643,
+    "name": "Boat Ramp",
+    "latitude": 42.0496862,
+    "longitude": -91.7758663,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10295705508,
+    "name": "Boat Ramp",
+    "latitude": 42.8103501,
+    "longitude": -92.2255342,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10699490936,
+    "name": "Boat Ramp",
+    "latitude": 42.0865629,
+    "longitude": -93.5961997,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11110380773,
+    "name": "Boat Ramp",
+    "latitude": 42.7734555,
+    "longitude": -92.5086845,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "permissive",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11220807373,
+    "name": "AY McDonald Park Put_in",
+    "latitude": 42.5255494,
+    "longitude": -90.6418558,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "AY McDonald Park put_in",
+      "operator": "City of Dubuque",
+      "ref": "582",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 11987609792,
+    "name": "Boat Ramp",
+    "latitude": 42.52321,
+    "longitude": -93.3793597,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12058098018,
+    "name": "Boat Ramp",
+    "latitude": 43.4101617,
+    "longitude": -90.3607128,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12087714926,
+    "name": "Boat Ramp",
+    "latitude": 42.8820908,
+    "longitude": -92.3094498,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12735361268,
+    "name": "Boat Ramp",
+    "latitude": 42.5061786,
+    "longitude": -92.3483103,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12871651199,
+    "name": "Boat Ramp",
+    "latitude": 42.7086825,
+    "longitude": -90.9862048,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12871651200,
+    "name": "Boat Ramp",
+    "latitude": 42.7086747,
+    "longitude": -90.9860857,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13361817707,
+    "name": "Boat Ramp",
+    "latitude": 42.7239538,
+    "longitude": -94.1930559,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 13464871260,
+    "name": "Wyalusing Park Boat Landing",
+    "latitude": 42.9762669,
+    "longitude": -91.1379436,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Wyalusing Park Boat Landing"
+    }
+  },
+  {
+    "id": 13529594003,
+    "name": "Boat Ramp",
+    "latitude": 42.1681547,
+    "longitude": -93.296174,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 13529725653,
+    "name": "Boat Ramp",
+    "latitude": 42.3662917,
+    "longitude": -93.0777823,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 141507327,
+    "name": "Cedar River",
+    "latitude": 42.5419349,
+    "longitude": -92.4517551,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Cedar River",
+      "natural": "water",
+      "source": "bing",
+      "water": "river"
+    }
+  },
+  {
+    "id": 172525469,
+    "name": "Boat Ramp",
+    "latitude": 43.1952981,
+    "longitude": -94.9548113,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 184757858,
+    "name": "Boat Ramp",
+    "latitude": 42.0721211,
+    "longitude": -93.6239784,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 233047478,
+    "name": "Boat Ramp",
+    "latitude": 43.3183207,
+    "longitude": -94.7788436,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 233872634,
+    "name": "Anderson Point Access",
+    "latitude": 43.302582,
+    "longitude": -94.700508,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Anderson Point Access"
+    }
+  },
+  {
+    "id": 318003628,
+    "name": "Boat Ramp",
+    "latitude": 42.3652868,
+    "longitude": -93.0807423,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 390899768,
+    "name": "Boat Ramp",
+    "latitude": 42.1641416,
+    "longitude": -91.9785036,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 444661125,
+    "name": "Boat Ramp",
+    "latitude": 42.5253254,
+    "longitude": -90.6423553,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 444661127,
+    "name": "Boat Ramp",
+    "latitude": 42.5253664,
+    "longitude": -90.6422115,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 444661128,
+    "name": "Boat Ramp",
+    "latitude": 42.5254095,
+    "longitude": -90.6420748,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 579628015,
+    "name": "Boat Ramp",
+    "latitude": 42.5298906,
+    "longitude": -92.4338829,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 795102321,
+    "name": "Boat Ramp",
+    "latitude": 42.8103141,
+    "longitude": -92.2255972,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 911260997,
+    "name": "Boat Ramp",
+    "latitude": 42.0495474,
+    "longitude": -91.7758726,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1029039678,
+    "name": "Boat Ramp",
+    "latitude": 43.1219806,
+    "longitude": -93.4586718,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1081590834,
+    "name": "Boat Ramp",
+    "latitude": 42.8131881,
+    "longitude": -92.2274367,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1082209586,
+    "name": "Boat Ramp",
+    "latitude": 42.8301487,
+    "longitude": -92.2194994,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1082209587,
+    "name": "Boat Ramp",
+    "latitude": 42.8301569,
+    "longitude": -92.2194142,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1085383697,
+    "name": "Boat Ramp",
+    "latitude": 42.0925623,
+    "longitude": -93.5863037,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1085383733,
+    "name": "Boat Ramp",
+    "latitude": 42.0867324,
+    "longitude": -93.5962678,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1091975170,
+    "name": "Boat Ramp",
+    "latitude": 42.2140218,
+    "longitude": -91.5398376,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1206216024,
+    "name": "Boat Ramp",
+    "latitude": 42.8970669,
+    "longitude": -91.7681036,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1210322886,
+    "name": "Boat Ramp",
+    "latitude": 42.0693179,
+    "longitude": -91.7877142,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1243575650,
+    "name": "Boat Ramp",
+    "latitude": 43.1091902,
+    "longitude": -93.4037541,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1284598492,
+    "name": "Boat Ramp",
+    "latitude": 43.2483479,
+    "longitude": -91.0583108,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1303964380,
+    "name": "Boat Ramp",
+    "latitude": 42.8512671,
+    "longitude": -92.5395508,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1305577541,
+    "name": "Boat Ramp",
+    "latitude": 42.8864532,
+    "longitude": -92.3105697,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1375436991,
+    "name": "Boat Ramp",
+    "latitude": 42.5062931,
+    "longitude": -92.3482743,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1381382439,
+    "name": "Boat Ramp",
+    "latitude": 42.5421757,
+    "longitude": -90.6372671,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1391888027,
+    "name": "Boat Ramp",
+    "latitude": 42.8928237,
+    "longitude": -92.8014283,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1444787773,
+    "name": "Boat Ramp",
+    "latitude": 42.900491,
+    "longitude": -92.8143345,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1446779604,
+    "name": "Boat Ramp",
+    "latitude": 42.4961604,
+    "longitude": -94.1903278,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 158910288,
+    "name": "Boat Ramp",
+    "latitude": 41.0703222,
+    "longitude": -94.7004971,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 158924996,
+    "name": "Boat Ramp",
+    "latitude": 41.0618897,
+    "longitude": -94.7285127,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 158971060,
+    "name": "Boat Ramp",
+    "latitude": 40.8537574,
+    "longitude": -92.888725,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 159087462,
+    "name": "Boat Ramp",
+    "latitude": 41.9333021,
+    "longitude": -93.8865106,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 160729383,
+    "name": "Boat Ramp",
+    "latitude": 41.822553,
+    "longitude": -93.7414344,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 160739040,
+    "name": "Boat Ramp",
+    "latitude": 41.7473748,
+    "longitude": -93.7087661,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 160784423,
+    "name": "Boat Ramp",
+    "latitude": 41.807015,
+    "longitude": -93.7405463,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 160792543,
+    "name": "Boat Ramp",
+    "latitude": 41.5497011,
+    "longitude": -93.7356574,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 160792933,
+    "name": "Boat Ramp",
+    "latitude": 41.753676,
+    "longitude": -93.702904,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 160868676,
+    "name": "Boat Ramp",
+    "latitude": 40.7447488,
+    "longitude": -94.2414203,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 161048530,
+    "name": "Boat Ramp",
+    "latitude": 41.9918164,
+    "longitude": -93.3598659,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 161113750,
+    "name": "Boat Ramp",
+    "latitude": 40.7120282,
+    "longitude": -94.6877685,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 161200056,
+    "name": "Boat Ramp",
+    "latitude": 41.294254,
+    "longitude": -93.5947709,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 161201774,
+    "name": "Boat Ramp",
+    "latitude": 41.2954803,
+    "longitude": -93.5868784,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 161234335,
+    "name": "Boat Ramp",
+    "latitude": 40.9585905,
+    "longitude": -92.3435761,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 191970196,
+    "name": "Boat Ramp",
+    "latitude": 40.4289031,
+    "longitude": -94.855681,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 379738775,
+    "name": "Boat Ramp",
+    "latitude": 41.6809064,
+    "longitude": -93.6684384,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 430994557,
+    "name": "Boat Ramp",
+    "latitude": 41.8740622,
+    "longitude": -93.8642896,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 430996374,
+    "name": "Boat Ramp",
+    "latitude": 41.8495807,
+    "longitude": -93.8504399,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 434953688,
+    "name": "Boat Ramp",
+    "latitude": 41.8053858,
+    "longitude": -93.7356565,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 435234228,
+    "name": "Access 195",
+    "latitude": 41.6100748,
+    "longitude": -93.6114503,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Access 195"
+    }
+  },
+  {
+    "id": 441987425,
+    "name": "Boat Ramp",
+    "latitude": 41.7089265,
+    "longitude": -93.698566,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 593001510,
+    "name": "Boat Ramp",
+    "latitude": 41.7302275,
+    "longitude": -93.6874898,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 593001550,
+    "name": "Boat Ramp",
+    "latitude": 41.73053,
+    "longitude": -93.6855502,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 594461181,
+    "name": "Boat Ramp",
+    "latitude": 41.7085176,
+    "longitude": -93.6978461,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 594461194,
+    "name": "Boat Ramp",
+    "latitude": 41.7070292,
+    "longitude": -93.6957661,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 639402445,
+    "name": "Fort Pike Access",
+    "latitude": 40.461144,
+    "longitude": -91.5667409,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Fort Pike Access",
+      "operator": "Missouri Department of Conservation",
+      "surface": "concrete",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 640083051,
+    "name": "Boat Ramp",
+    "latitude": 40.7114112,
+    "longitude": -91.9705693,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 644010923,
+    "name": "Boat Ramp",
+    "latitude": 41.2771286,
+    "longitude": -93.5889946,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 682783183,
+    "name": "Boat Ramp",
+    "latitude": 41.5169621,
+    "longitude": -93.6111625,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 873354778,
+    "name": "Boat Ramp",
+    "latitude": 41.7582152,
+    "longitude": -93.7470531,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 873354785,
+    "name": "Boat Ramp",
+    "latitude": 41.758079,
+    "longitude": -93.7470281,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 878277101,
+    "name": "Boat Ramp",
+    "latitude": 41.7823767,
+    "longitude": -93.767864,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 944731777,
+    "name": "Boat Ramp",
+    "latitude": 41.8349844,
+    "longitude": -93.7548492,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1155135979,
+    "name": "Boat Ramp",
+    "latitude": 41.699407,
+    "longitude": -93.675713,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1163986429,
+    "name": "Boat Ramp",
+    "latitude": 41.5394997,
+    "longitude": -93.4614962,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1236895177,
+    "name": "Boat Ramp",
+    "latitude": 41.5452778,
+    "longitude": -93.4752086,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1312267554,
+    "name": "Boat Ramp",
+    "latitude": 41.0709277,
+    "longitude": -94.3917933,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1416641289,
+    "name": "Boat Ramp",
+    "latitude": 41.4013054,
+    "longitude": -93.1042744,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1416641806,
+    "name": "Boat Ramp",
+    "latitude": 41.4024056,
+    "longitude": -93.1023292,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1722244651,
+    "name": "Boat Ramp",
+    "latitude": 40.6509371,
+    "longitude": -93.8507664,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1726015345,
+    "name": "Boat Ramp",
+    "latitude": 40.8696298,
+    "longitude": -92.9277958,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1958641156,
+    "name": "Boat Ramp",
+    "latitude": 41.9529154,
+    "longitude": -91.6350506,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1958643585,
+    "name": "Boat Ramp",
+    "latitude": 41.9523093,
+    "longitude": -91.6348006,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2206175322,
+    "name": "Boat Ramp",
+    "latitude": 41.5655848,
+    "longitude": -93.5102274,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2213950313,
+    "name": "Boat Ramp",
+    "latitude": 41.7320326,
+    "longitude": -94.3206449,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2526033170,
+    "name": "Boat Ramp",
+    "latitude": 40.8699349,
+    "longitude": -92.9342077,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2526033184,
+    "name": "Boat Ramp",
+    "latitude": 40.865002,
+    "longitude": -92.926145,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2526783222,
+    "name": "Boat Ramp",
+    "latitude": 41.4309643,
+    "longitude": -94.7673863,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2526859389,
+    "name": "Boat Ramp",
+    "latitude": 41.4234246,
+    "longitude": -94.7761438,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2527447414,
+    "name": "Boat Ramp",
+    "latitude": 41.1888115,
+    "longitude": -91.8897242,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2527457171,
+    "name": "Boat Ramp",
+    "latitude": 41.2945992,
+    "longitude": -92.5359754,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2528737295,
+    "name": "Boat Ramp",
+    "latitude": 40.9989718,
+    "longitude": -93.2762517,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2528737376,
+    "name": "Boat Ramp",
+    "latitude": 40.9985994,
+    "longitude": -93.2792933,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2542548458,
+    "name": "Lake MacBride Main Boat Ramp",
+    "latitude": 41.7985813,
+    "longitude": -91.5691033,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lake MacBride Main Boat Ramp"
+    }
+  },
+  {
+    "id": 2542552586,
+    "name": "North Shore / Opie Ramp",
+    "latitude": 41.8095379,
+    "longitude": -91.552479,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "North Shore / Opie Ramp"
+    }
+  },
+  {
+    "id": 2542552606,
+    "name": "Sailboat Ramp",
+    "latitude": 41.8046557,
+    "longitude": -91.5536908,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Sailboat Ramp"
+    }
+  },
+  {
+    "id": 2542556748,
+    "name": "Angler'S Point Boat Ramp",
+    "latitude": 41.7911505,
+    "longitude": -91.5578059,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Angler's Point Boat Ramp"
+    }
+  },
+  {
+    "id": 2542556760,
+    "name": "Primitive/South Campground Boat Ramp",
+    "latitude": 41.7925722,
+    "longitude": -91.5356105,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Primitive/South Campground Boat Ramp"
+    }
+  },
+  {
+    "id": 2546325205,
+    "name": "Mid River Marina",
+    "latitude": 41.7939113,
+    "longitude": -91.63943,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mid River Marina"
+    }
+  },
+  {
+    "id": 2791316238,
+    "name": "Boat Ramp",
+    "latitude": 41.7562917,
+    "longitude": -92.8402395,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2791316245,
+    "name": "Boat Ramp",
+    "latitude": 41.743599,
+    "longitude": -92.844233,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3072195611,
+    "name": "City Park Boat Ramp",
+    "latitude": 41.6755332,
+    "longitude": -91.5344537,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "City Park Boat Ramp"
+    }
+  },
+  {
+    "id": 3132476484,
+    "name": "Boat Landing",
+    "latitude": 41.2388074,
+    "longitude": -92.1076909,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Landing"
+    }
+  },
+  {
+    "id": 3132476485,
+    "name": "Boat Landing",
+    "latitude": 41.2503404,
+    "longitude": -91.9700245,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Landing"
+    }
+  },
+  {
+    "id": 3137939443,
+    "name": "Boat Ramp",
+    "latitude": 41.3770733,
+    "longitude": -92.2005184,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3168039369,
+    "name": "Boat Ramp",
+    "latitude": 40.4422189,
+    "longitude": -92.2193325,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3180192774,
+    "name": "Boat Ramp",
+    "latitude": 40.4015723,
+    "longitude": -94.7801725,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3358322545,
+    "name": "Boat Ramp",
+    "latitude": 41.9372502,
+    "longitude": -93.2324411,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3577954075,
+    "name": "Boat Ramp",
+    "latitude": 41.5719927,
+    "longitude": -93.6434412,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3595588572,
+    "name": "Boat Ramp",
+    "latitude": 41.3630706,
+    "longitude": -92.9724432,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3875224460,
+    "name": "Mannatts Landing",
+    "latitude": 41.9525025,
+    "longitude": -92.5783908,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mannatts Landing"
+    }
+  },
+  {
+    "id": 3906755498,
+    "name": "Boat Ramp",
+    "latitude": 41.859567,
+    "longitude": -92.2766669,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3982237956,
+    "name": "Duffus Landing",
+    "latitude": 41.9205899,
+    "longitude": -92.4333901,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Duffus Landing"
+    }
+  },
+  {
+    "id": 3982238957,
+    "name": "Long Point Landing",
+    "latitude": 41.9400707,
+    "longitude": -92.4781591,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Long Point Landing"
+    }
+  },
+  {
+    "id": 4130561818,
+    "name": "Boat Ramp",
+    "latitude": 41.0323789,
+    "longitude": -93.7435461,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 4415630311,
+    "name": "University Of Iowa Sailing Club Boat Ramp",
+    "latitude": 41.7886739,
+    "longitude": -91.5599441,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "University of Iowa Sailing Club Boat Ramp"
+    }
+  },
+  {
+    "id": 4415640199,
+    "name": "Cottage Reserve / Tim'S Boat Ramp",
+    "latitude": 41.7965687,
+    "longitude": -91.5598349,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Cottage Reserve / Tim's Boat Ramp"
+    }
+  },
+  {
+    "id": 4415722804,
+    "name": "North Shore Pontoon Area",
+    "latitude": 41.8097955,
+    "longitude": -91.5559361,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "North Shore Pontoon Area"
+    }
+  },
+  {
+    "id": 4443009453,
+    "name": "Tailwater East Boat Ramp",
+    "latitude": 41.7209169,
+    "longitude": -91.5289162,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Tailwater East Boat Ramp"
+    }
+  },
+  {
+    "id": 4443014941,
+    "name": "West Overlook Boat Ramp",
+    "latitude": 41.7252615,
+    "longitude": -91.5317136,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "West Overlook Boat Ramp"
+    }
+  },
+  {
+    "id": 4443018592,
+    "name": "West Overlook Campground Boat Ramp",
+    "latitude": 41.7301329,
+    "longitude": -91.5350622,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "West Overlook Campground Boat Ramp"
+    }
+  },
+  {
+    "id": 4443021677,
+    "name": "Coralville Lake Marina & Boat Ramp",
+    "latitude": 41.7269601,
+    "longitude": -91.5229313,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "description": "Boat Ramp",
+      "leisure": "slipway",
+      "name": "Coralville Lake Marina & Boat Ramp"
+    }
+  },
+  {
+    "id": 4443026144,
+    "name": "Sturgis Ferry Boat Ramp",
+    "latitude": 41.6417538,
+    "longitude": -91.5383903,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Sturgis Ferry Boat Ramp",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 4736012297,
+    "name": "Boat Ramp",
+    "latitude": 41.295604,
+    "longitude": -94.4768704,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4759011388,
+    "name": "Boat Ramp",
+    "latitude": 41.6182539,
+    "longitude": -93.6367546,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4765833274,
+    "name": "Boat Ramp",
+    "latitude": 41.01198,
+    "longitude": -92.4126783,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5172849197,
+    "name": "Boat Ramp",
+    "latitude": 41.4746053,
+    "longitude": -93.9161862,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImagery"
+    }
+  },
+  {
+    "id": 5506349163,
+    "name": "Boat Ramp",
+    "latitude": 41.4757058,
+    "longitude": -91.5798953,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5506397536,
+    "name": "Boat Ramp",
+    "latitude": 41.3367601,
+    "longitude": -91.5447772,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5506697538,
+    "name": "Hills Access Boat Ramp",
+    "latitude": 41.5550988,
+    "longitude": -91.519426,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Hills Access Boat Ramp"
+    }
+  },
+  {
+    "id": 5506723093,
+    "name": "River Junction Boat Ramp",
+    "latitude": 41.4899449,
+    "longitude": -91.5021634,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "River Junction Boat Ramp"
+    }
+  },
+  {
+    "id": 5543910856,
+    "name": "Boat Ramp",
+    "latitude": 41.9717946,
+    "longitude": -91.6666009,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5840830755,
+    "name": "Boat Ramp",
+    "latitude": 41.3821692,
+    "longitude": -93.0315193,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6610714385,
+    "name": "Booneville Access",
+    "latitude": 41.5217011,
+    "longitude": -93.8902122,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Booneville Access"
+    }
+  },
+  {
+    "id": 7016972046,
+    "name": "Boat Ramp",
+    "latitude": 41.6065352,
+    "longitude": -93.8043135,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7216868061,
+    "name": "Sugar Bottom Boat Ramp",
+    "latitude": 41.755841,
+    "longitude": -91.5616605,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Sugar Bottom Boat Ramp"
+    }
+  },
+  {
+    "id": 7216886619,
+    "name": "Mehaffey Bridge Boat Ramp",
+    "latitude": 41.7719366,
+    "longitude": -91.5649886,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mehaffey Bridge Boat Ramp"
+    }
+  },
+  {
+    "id": 7243242847,
+    "name": "Scales Point Boat Ramp",
+    "latitude": 41.8046797,
+    "longitude": -91.5880323,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Scales Point Boat Ramp"
+    }
+  },
+  {
+    "id": 7271024332,
+    "name": "Boat Ramp",
+    "latitude": 41.6877717,
+    "longitude": -93.7351727,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7272109094,
+    "name": "Archangel Access",
+    "latitude": 40.4852424,
+    "longitude": -92.6849894,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Archangel Access",
+      "source": "EsriWorldImageryClarity",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 7318505465,
+    "name": "Boat Ramp",
+    "latitude": 40.6837949,
+    "longitude": -91.9971569,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7319221025,
+    "name": "Boat Ramp",
+    "latitude": 41.2359825,
+    "longitude": -92.735977,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7358259938,
+    "name": "Boat Ramp",
+    "latitude": 41.7411185,
+    "longitude": -94.4444477,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7358259942,
+    "name": "Boat Ramp",
+    "latitude": 41.7684811,
+    "longitude": -94.4673347,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7501600606,
+    "name": "Matson Pond Boat Ramp",
+    "latitude": 41.787739,
+    "longitude": -91.7816036,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Matson Pond Boat Ramp"
+    }
+  },
+  {
+    "id": 8001617976,
+    "name": "Boat Ramp",
+    "latitude": 41.9840989,
+    "longitude": -93.3531453,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8107414421,
+    "name": "Boat Ramp",
+    "latitude": 40.7674276,
+    "longitude": -91.9682591,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8694869654,
+    "name": "Boat Ramp",
+    "latitude": 41.6620964,
+    "longitude": -93.7172139,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8751219273,
+    "name": "Boat Ramp",
+    "latitude": 41.53826,
+    "longitude": -93.7481499,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 8997405201,
+    "name": "Island View Campground Slipway",
+    "latitude": 40.8346397,
+    "longitude": -92.9233026,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "description": "Slipway with parking",
+      "leisure": "slipway",
+      "name": "Island View Campground Slipway"
+    }
+  },
+  {
+    "id": 8997411720,
+    "name": "Island View Slipway",
+    "latitude": 40.8280943,
+    "longitude": -92.8982767,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "description": "Slipway with parking and a loading ramp",
+      "leisure": "slipway",
+      "name": "Island View Slipway"
+    }
+  },
+  {
+    "id": 8997413684,
+    "name": "Bridgeview Slipway",
+    "latitude": 40.8735781,
+    "longitude": -93.0247486,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "description": "Slipway with parking",
+      "leisure": "slipway",
+      "name": "Bridgeview Slipway"
+    }
+  },
+  {
+    "id": 9216629810,
+    "name": "Boat Ramp",
+    "latitude": 41.6384906,
+    "longitude": -92.1781614,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9251883992,
+    "name": "Boat Ramp",
+    "latitude": 41.9268947,
+    "longitude": -92.8619073,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9733398868,
+    "name": "Boat Ramp",
+    "latitude": 40.7305531,
+    "longitude": -91.9596324,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 9805132200,
+    "name": "Boat Ramp",
+    "latitude": 41.3083508,
+    "longitude": -93.064443,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9812823671,
+    "name": "Boat Ramp",
+    "latitude": 41.4493091,
+    "longitude": -93.1473421,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 9934617865,
+    "name": "Boat Ramp",
+    "latitude": 41.9057132,
+    "longitude": -92.3941986,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 9934678678,
+    "name": "Curtis Bridge Boat Ramp",
+    "latitude": 41.8072288,
+    "longitude": -91.645767,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Curtis Bridge Boat Ramp"
+    }
+  },
+  {
+    "id": 9936064009,
+    "name": "Boat Ramp",
+    "latitude": 41.1951082,
+    "longitude": -91.8095454,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9936104830,
+    "name": "Boat Ramp",
+    "latitude": 41.1624256,
+    "longitude": -91.7179075,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9948280765,
+    "name": "Boat Ramp",
+    "latitude": 41.7893684,
+    "longitude": -91.7904021,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9950358808,
+    "name": "Lake MacBride Boat Ramp To Reservoir",
+    "latitude": 41.7950545,
+    "longitude": -91.5786079,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lake MacBride Boat Ramp To Reservoir"
+    }
+  },
+  {
+    "id": 10036595646,
+    "name": "Crescent Pond Boat Ramp",
+    "latitude": 41.7844511,
+    "longitude": -91.7154698,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Crescent Pond Boat Ramp"
+    }
+  },
+  {
+    "id": 10155031675,
+    "name": "Proctor Boat Ramp",
+    "latitude": 41.7859434,
+    "longitude": -91.7731523,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Proctor Boat Ramp"
+    }
+  },
+  {
+    "id": 10155031676,
+    "name": "Round Pond Access Boat Ramp",
+    "latitude": 41.7726396,
+    "longitude": -91.7383939,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Round Pond Access Boat Ramp"
+    }
+  },
+  {
+    "id": 10155031677,
+    "name": "Greencastle Ave North Boat Ramp",
+    "latitude": 41.7921139,
+    "longitude": -91.7144828,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Greencastle Ave North Boat Ramp"
+    }
+  },
+  {
+    "id": 10155031678,
+    "name": "Babcock'S Landing Boat Ramp",
+    "latitude": 41.7844953,
+    "longitude": -91.7008631,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Babcock's Landing Boat Ramp"
+    }
+  },
+  {
+    "id": 10155031679,
+    "name": "Sandy Beach Boat Ramp",
+    "latitude": 41.8139982,
+    "longitude": -91.5925638,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Sandy Beach Boat Ramp"
+    }
+  },
+  {
+    "id": 10197677931,
+    "name": "Boat Ramp",
+    "latitude": 41.626082,
+    "longitude": -91.5282922,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10239457431,
+    "name": "Boat Ramp",
+    "latitude": 41.6623025,
+    "longitude": -93.7174658,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10962094263,
+    "name": "Boat Ramp",
+    "latitude": 41.9819976,
+    "longitude": -91.6752537,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10971994585,
+    "name": "Boat Ramp",
+    "latitude": 40.5590645,
+    "longitude": -92.7018944,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 11089393415,
+    "name": "Kent Park Boat Ramp",
+    "latitude": 41.7263126,
+    "longitude": -91.7295987,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Kent Park Boat Ramp",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 11149432011,
+    "name": "Boat Ramp",
+    "latitude": 41.8596417,
+    "longitude": -94.6655897,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11748861963,
+    "name": "Boat Ramp",
+    "latitude": 41.5677843,
+    "longitude": -93.6562188,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 11764024782,
+    "name": "Boat Ramp",
+    "latitude": 40.4013842,
+    "longitude": -94.5246294,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12182797048,
+    "name": "Boat Ramp",
+    "latitude": 40.5913108,
+    "longitude": -93.3864217,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12570378863,
+    "name": "Boat Ramp",
+    "latitude": 40.5378078,
+    "longitude": -92.7041849,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 13014610858,
+    "name": "Boat Ramp",
+    "latitude": 41.562599,
+    "longitude": -93.706699,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 13097358092,
+    "name": "Boat Ramp",
+    "latitude": 41.4887699,
+    "longitude": -93.3307438,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13097358097,
+    "name": "Boat Ramp",
+    "latitude": 41.4861564,
+    "longitude": -93.3590054,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13108921456,
+    "name": "Boat Ramp",
+    "latitude": 40.730379,
+    "longitude": -91.9597953,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13361825046,
+    "name": "Boat Ramp",
+    "latitude": 41.534234,
+    "longitude": -93.9510866,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13367884288,
+    "name": "Boat Ramp",
+    "latitude": 40.7513892,
+    "longitude": -93.7728963,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13508540265,
+    "name": "Boat Ramp",
+    "latitude": 40.5028009,
+    "longitude": -91.7705763,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "operator": "Missouri Department of Conservation",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 170290970,
+    "name": "Boat Ramp",
+    "latitude": 41.6755585,
+    "longitude": -91.5346524,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "incline": "down",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 308525138,
+    "name": "Boat Ramp",
+    "latitude": 41.3770662,
+    "longitude": -92.2006908,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 319496639,
+    "name": "Kent Park Boat Ramp",
+    "latitude": 41.7263521,
+    "longitude": -91.7295683,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "fee": "no",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "name": "Kent Park Boat Ramp",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 412963893,
+    "name": "Boat Ramp",
+    "latitude": 40.7011964,
+    "longitude": -92.0210768,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 412963894,
+    "name": "Boat Ramp",
+    "latitude": 40.7055002,
+    "longitude": -92.0262659,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 447107848,
+    "name": "Boat Ramp",
+    "latitude": 41.641847,
+    "longitude": -91.5385286,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 608011418,
+    "name": "Boat Ramp",
+    "latitude": 41.6261803,
+    "longitude": -91.5281618,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 726978318,
+    "name": "Boat Ramp",
+    "latitude": 41.7209087,
+    "longitude": -91.528841,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 772953671,
+    "name": "Boat Ramp",
+    "latitude": 41.7560236,
+    "longitude": -91.5616635,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 772953672,
+    "name": "Boat Ramp",
+    "latitude": 41.7558997,
+    "longitude": -91.5613494,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 772953712,
+    "name": "Boat Ramp",
+    "latitude": 41.7721183,
+    "longitude": -91.5652621,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 776310853,
+    "name": "Boat Ramp",
+    "latitude": 41.8046126,
+    "longitude": -91.5883252,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 777505965,
+    "name": "Boat Ramp",
+    "latitude": 41.6761288,
+    "longitude": -91.5967849,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 800580070,
+    "name": "Boat Ramp",
+    "latitude": 41.7251094,
+    "longitude": -91.5319318,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 801972401,
+    "name": "Boat Ramp",
+    "latitude": 41.784384,
+    "longitude": -91.7008347,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 801991597,
+    "name": "Boat Ramp",
+    "latitude": 41.7892392,
+    "longitude": -91.7903803,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 801991601,
+    "name": "Boat Ramp",
+    "latitude": 41.7726519,
+    "longitude": -91.7384293,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 801991602,
+    "name": "Boat Ramp",
+    "latitude": 41.7878278,
+    "longitude": -91.7815469,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 802204377,
+    "name": "Boat Ramp",
+    "latitude": 41.7937856,
+    "longitude": -91.6394906,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 838808447,
+    "name": "Boat Ramp",
+    "latitude": 41.7844449,
+    "longitude": -91.7152028,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 846719703,
+    "name": "Boat Ramp",
+    "latitude": 41.8503495,
+    "longitude": -92.2453346,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1002475634,
+    "name": "Boat Ramp",
+    "latitude": 41.9269125,
+    "longitude": -92.8619349,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1018692257,
+    "name": "Boat Ramp",
+    "latitude": 41.4216945,
+    "longitude": -93.041691,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1018692259,
+    "name": "Boat Ramp",
+    "latitude": 41.4217582,
+    "longitude": -93.0511866,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1019279951,
+    "name": "Boat Ramp",
+    "latitude": 41.0579555,
+    "longitude": -94.2602754,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1085938330,
+    "name": "Boat Ramp",
+    "latitude": 41.8140924,
+    "longitude": -91.5925902,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1085938331,
+    "name": "Boat Ramp",
+    "latitude": 41.7952737,
+    "longitude": -91.5786394,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1117273550,
+    "name": "Boat Ramp",
+    "latitude": 41.9443435,
+    "longitude": -91.6232538,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1133962768,
+    "name": "Boat Ramp",
+    "latitude": 41.0346884,
+    "longitude": -94.2094352,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1253438144,
+    "name": "Boat Ramp",
+    "latitude": 41.8195329,
+    "longitude": -93.7563834,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 1266526831,
+    "name": "Boat Ramp",
+    "latitude": 40.4013777,
+    "longitude": -94.5245214,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1303299067,
+    "name": "Boat Ramp",
+    "latitude": 41.7053783,
+    "longitude": -92.7866441,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1303320898,
+    "name": "Boat Ramp",
+    "latitude": 41.7799817,
+    "longitude": -92.9633434,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1316226801,
+    "name": "Boat Ramp",
+    "latitude": 40.5912749,
+    "longitude": -93.3863338,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "surface": "paved",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Wayne, IA",
+      "tiger:reviewed": "aerial"
+    }
+  },
+  {
+    "id": 1342733193,
+    "name": "Boat Ramp",
+    "latitude": 40.4610496,
+    "longitude": -91.5667877,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "operator": "Missouri Department of Conservation",
+      "service": "slipway",
+      "surface": "concrete",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 1416208410,
+    "name": "Boat Ramp",
+    "latitude": 41.5627974,
+    "longitude": -93.7069981,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1454812764,
+    "name": "Boat Ramp",
+    "latitude": 41.5182392,
+    "longitude": -93.7303905,
+    "state": "Iowa",
+    "stateAbbr": "IA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  }
+]

@@ -1,0 +1,2838 @@
+[
+  {
+    "id": 109964190,
+    "name": "Boat Ramp",
+    "latitude": 32.4079502,
+    "longitude": -80.4666358,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 110127957,
+    "name": "Willtown Bluff Boat Ramp",
+    "latitude": 32.6787626,
+    "longitude": -80.4160209,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Willtown Bluff Boat Ramp",
+      "source": "local knowledge;https://www2.dnr.sc.gov/ManagedLands/BoatRamp/BoatRampInfo/357"
+    }
+  },
+  {
+    "id": 112770194,
+    "name": "Boat Ramp",
+    "latitude": 33.436329,
+    "longitude": -79.182205,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 113764871,
+    "name": "Boat Launch",
+    "latitude": 33.5130978,
+    "longitude": -80.4745214,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "boat launch"
+    }
+  },
+  {
+    "id": 478576370,
+    "name": "Mars Old Field Landing",
+    "latitude": 33.0548866,
+    "longitude": -80.4494956,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mars Old Field Landing",
+      "website": "https://www.edistofriends.org/landings/mars-old-field-landing"
+    }
+  },
+  {
+    "id": 478587898,
+    "name": "Weeks Landing",
+    "latitude": 33.0647279,
+    "longitude": -80.6130351,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Weeks Landing",
+      "website": "https://www.edistofriends.org/landings/weeks-landing"
+    }
+  },
+  {
+    "id": 503106667,
+    "name": "Boat Ramp",
+    "latitude": 33.3310673,
+    "longitude": -80.1464644,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 569468052,
+    "name": "Rocky Point Boat & Kayak Launch Areas",
+    "latitude": 33.5446099,
+    "longitude": -79.3548779,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Rocky Point Boat & Kayak Launch Areas"
+    }
+  },
+  {
+    "id": 1202136546,
+    "name": "Boat Ramp",
+    "latitude": 33.3565709,
+    "longitude": -79.2801726,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1216002913,
+    "name": "Boat Ramp",
+    "latitude": 33.753393,
+    "longitude": -80.6452441,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1216075382,
+    "name": "Boat Ramp",
+    "latitude": 33.2683759,
+    "longitude": -80.1029603,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1225582579,
+    "name": "Boat Ramp",
+    "latitude": 33.0576644,
+    "longitude": -79.9577543,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1225586439,
+    "name": "Augustus M. Flood, Jr. Boat Landing",
+    "latitude": 33.3128067,
+    "longitude": -80.0001938,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Augustus M. Flood, Jr. boat landing"
+    }
+  },
+  {
+    "id": 1225594460,
+    "name": "Boat Ramp",
+    "latitude": 33.1311285,
+    "longitude": -79.8110545,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1226748745,
+    "name": "Mill Street Landing",
+    "latitude": 33.6636973,
+    "longitude": -79.8374131,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mill Street Landing"
+    }
+  },
+  {
+    "id": 1228644765,
+    "name": "Boat Ramp",
+    "latitude": 32.9475994,
+    "longitude": -80.1648499,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1236611266,
+    "name": "Boat Ramp",
+    "latitude": 32.9669181,
+    "longitude": -79.9369543,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1236611270,
+    "name": "Boat Ramp",
+    "latitude": 32.9671387,
+    "longitude": -79.9368953,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1243917451,
+    "name": "Long Creek Landing",
+    "latitude": 32.9356071,
+    "longitude": -80.4028208,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Long Creek Landing"
+    }
+  },
+  {
+    "id": 1243917722,
+    "name": "Low Falls Landing",
+    "latitude": 33.6323542,
+    "longitude": -80.5432346,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Low Falls Landing"
+    }
+  },
+  {
+    "id": 1246391864,
+    "name": "Boat Ramp",
+    "latitude": 33.5551096,
+    "longitude": -79.0343115,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1246394937,
+    "name": "Pole Yard Public Boat Landing",
+    "latitude": 33.209597,
+    "longitude": -79.3831023,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Pole Yard Public Boat Landing"
+    }
+  },
+  {
+    "id": 1255699308,
+    "name": "Morse Park Landing",
+    "latitude": 33.5387947,
+    "longitude": -79.0501887,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Morse Park Landing"
+    }
+  },
+  {
+    "id": 1262667619,
+    "name": "Boat Ramp",
+    "latitude": 32.837905,
+    "longitude": -80.0431359,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1309361081,
+    "name": "Boat Ramp",
+    "latitude": 33.5665707,
+    "longitude": -80.4378793,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1341704582,
+    "name": "Amos Gourdine Landing",
+    "latitude": 33.4022077,
+    "longitude": -79.9929691,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Amos Gourdine Landing"
+    }
+  },
+  {
+    "id": 1358215022,
+    "name": "Boat Ramp",
+    "latitude": 33.4396801,
+    "longitude": -79.1178267,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1383403697,
+    "name": "Boat Ramp",
+    "latitude": 33.6592487,
+    "longitude": -80.5150928,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1401608892,
+    "name": "Pritchard Street Landing",
+    "latitude": 33.4119655,
+    "longitude": -79.1355224,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Pritchard Street Landing"
+    }
+  },
+  {
+    "id": 1403959434,
+    "name": "Boat Ramp",
+    "latitude": 33.1542654,
+    "longitude": -79.3544835,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1421784077,
+    "name": "Boat Ramp",
+    "latitude": 32.6683159,
+    "longitude": -79.9972746,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1445290124,
+    "name": "Boat Ramp",
+    "latitude": 33.5149178,
+    "longitude": -80.1851536,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1445487472,
+    "name": "Boat Ramp",
+    "latitude": 33.5586848,
+    "longitude": -80.2040159,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1470755175,
+    "name": "Boat Ramp",
+    "latitude": 32.890925,
+    "longitude": -80.6846326,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1489969156,
+    "name": "Buckhall Landing",
+    "latitude": 33.0384607,
+    "longitude": -79.5609533,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Buckhall Landing"
+    }
+  },
+  {
+    "id": 1583848886,
+    "name": "C.C. Haigh, Jr. Boat Landing",
+    "latitude": 32.2287497,
+    "longitude": -80.7878768,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "C.C. Haigh, Jr. Boat Landing"
+    }
+  },
+  {
+    "id": 1590105916,
+    "name": "Wadboo Bridge Landing",
+    "latitude": 33.1959133,
+    "longitude": -79.9531508,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Wadboo Bridge Landing"
+    }
+  },
+  {
+    "id": 1685196528,
+    "name": "Boat Ramp",
+    "latitude": 32.3703892,
+    "longitude": -80.6869253,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1685296504,
+    "name": "Boat Ramp",
+    "latitude": 32.8047444,
+    "longitude": -79.7589346,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1685296513,
+    "name": "Boat Ramp",
+    "latitude": 32.8054491,
+    "longitude": -79.7598125,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1712970667,
+    "name": "Wappoo Cut Public Boat Ramp",
+    "latitude": 32.7673126,
+    "longitude": -79.9727371,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "addr:city": "Charleston",
+      "addr:postcode": "29407",
+      "addr:state": "SC",
+      "addr:street": "Tranquil Dr",
+      "leisure": "slipway",
+      "name": "Wappoo Cut Public Boat Ramp"
+    }
+  },
+  {
+    "id": 1721300627,
+    "name": "Boat Ramp",
+    "latitude": 33.5332302,
+    "longitude": -80.2703624,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1729737655,
+    "name": "Boat Ramp",
+    "latitude": 32.8361486,
+    "longitude": -80.0212745,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1739783523,
+    "name": "Boat Ramp",
+    "latitude": 32.6131949,
+    "longitude": -80.4818393,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1784361647,
+    "name": "Boat Ramp",
+    "latitude": 32.7654102,
+    "longitude": -79.8616021,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1818284045,
+    "name": "Boat Ramp",
+    "latitude": 33.5586826,
+    "longitude": -80.2039623,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1818284057,
+    "name": "Boat Ramp",
+    "latitude": 33.5586782,
+    "longitude": -80.2038631,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1839215476,
+    "name": "Boat Ramp",
+    "latitude": 33.0805614,
+    "longitude": -79.4597254,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1871507803,
+    "name": "Boat Ramp",
+    "latitude": 32.9679104,
+    "longitude": -79.9374478,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1940671268,
+    "name": "Boat Ramp",
+    "latitude": 33.4947511,
+    "longitude": -79.9605408,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1987383308,
+    "name": "Boat Ramp",
+    "latitude": 32.8174689,
+    "longitude": -79.8794547,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1987825125,
+    "name": "Shem Creek Landing",
+    "latitude": 32.7931279,
+    "longitude": -79.876796,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Shem Creek Landing"
+    }
+  },
+  {
+    "id": 2009757652,
+    "name": "Boat Ramp",
+    "latitude": 33.7012802,
+    "longitude": -80.5370698,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2147131458,
+    "name": "Boat Ramp",
+    "latitude": 33.5214535,
+    "longitude": -80.3059161,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2158132307,
+    "name": "Low Falls Landing",
+    "latitude": 33.6322304,
+    "longitude": -80.543286,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Low Falls Landing"
+    }
+  },
+  {
+    "id": 2169808655,
+    "name": "Boat Ramp",
+    "latitude": 33.5354185,
+    "longitude": -80.3318073,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2169808658,
+    "name": "Boat Ramp",
+    "latitude": 33.535371,
+    "longitude": -80.3317943,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2286211427,
+    "name": "Boat Ramp",
+    "latitude": 33.5790999,
+    "longitude": -80.5315983,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2535654205,
+    "name": "Boat Ramp",
+    "latitude": 32.6602365,
+    "longitude": -79.9434074,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2700070844,
+    "name": "Boat Ramp",
+    "latitude": 33.5709463,
+    "longitude": -79.0864416,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2819081507,
+    "name": "Rosewood Landing",
+    "latitude": 33.6924289,
+    "longitude": -78.9924888,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Rosewood Landing"
+    }
+  },
+  {
+    "id": 3033205697,
+    "name": "Boat Ramp",
+    "latitude": 32.215756,
+    "longitude": -80.781191,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3218321681,
+    "name": "Boat Ramp",
+    "latitude": 33.5513636,
+    "longitude": -80.5095429,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3226663639,
+    "name": "Boat Launch",
+    "latitude": 33.552085,
+    "longitude": -80.5015168,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "boat launch"
+    }
+  },
+  {
+    "id": 3648114259,
+    "name": "Boat Ramp",
+    "latitude": 33.5463159,
+    "longitude": -79.4010816,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4103742424,
+    "name": "75 Ton Tavelift",
+    "latitude": 32.9277152,
+    "longitude": -79.8318395,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "75 ton Tavelift"
+    }
+  },
+  {
+    "id": 4253388291,
+    "name": "Boat Ramp",
+    "latitude": 32.1772478,
+    "longitude": -80.7699143,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4409738385,
+    "name": "Stanley Drive Landing",
+    "latitude": 33.576351,
+    "longitude": -79.0080737,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Stanley Drive Landing"
+    }
+  },
+  {
+    "id": 4409738802,
+    "name": "Peachtree Landing",
+    "latitude": 33.6943029,
+    "longitude": -79.0479805,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Peachtree Landing"
+    }
+  },
+  {
+    "id": 4409738803,
+    "name": "Enterprise Landing",
+    "latitude": 33.6678327,
+    "longitude": -79.0607944,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Enterprise Landing"
+    }
+  },
+  {
+    "id": 4409738804,
+    "name": "Socastee Boat Landing",
+    "latitude": 33.6866785,
+    "longitude": -79.007491,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Socastee Boat Landing"
+    }
+  },
+  {
+    "id": 4468376590,
+    "name": "Boat Ramp",
+    "latitude": 33.6994243,
+    "longitude": -78.9427049,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4824541117,
+    "name": "Boat Ramp",
+    "latitude": 32.6602663,
+    "longitude": -79.9432867,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5049866719,
+    "name": "Boat Ramp",
+    "latitude": 32.8227434,
+    "longitude": -79.8978599,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5514368840,
+    "name": "Boat Ramp",
+    "latitude": 33.4988209,
+    "longitude": -80.4595488,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5805220561,
+    "name": "Boat Ramp",
+    "latitude": 33.2130897,
+    "longitude": -79.9735403,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "description": "Boat launch and parking area for the Tailrace Canal / Cooper River",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6439726352,
+    "name": "Boat Ramp",
+    "latitude": 33.763381,
+    "longitude": -78.9010107,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6835291154,
+    "name": "Boat Ramp",
+    "latitude": 33.250693,
+    "longitude": -79.2682014,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6835291155,
+    "name": "Boat Ramp",
+    "latitude": 33.2508151,
+    "longitude": -79.2693564,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6900442408,
+    "name": "Boat Ramp",
+    "latitude": 33.0945146,
+    "longitude": -79.8078735,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6919030228,
+    "name": "Boat Ramp",
+    "latitude": 33.3571421,
+    "longitude": -79.295137,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7034583506,
+    "name": "Yauhannah Landing",
+    "latitude": 33.6617116,
+    "longitude": -79.153382,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Yauhannah Landing"
+    }
+  },
+  {
+    "id": 7299061183,
+    "name": "Boat Ramp",
+    "latitude": 32.7719695,
+    "longitude": -80.0623028,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7785682536,
+    "name": "Boat Ramp",
+    "latitude": 32.804895,
+    "longitude": -79.8215711,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7788200491,
+    "name": "Boat Ramp",
+    "latitude": 32.7794013,
+    "longitude": -79.8074416,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7788200496,
+    "name": "Boat Ramp",
+    "latitude": 32.7777645,
+    "longitude": -79.8098776,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7788200547,
+    "name": "Boat Ramp",
+    "latitude": 32.7915318,
+    "longitude": -79.7885377,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7818238373,
+    "name": "Boat Ramp",
+    "latitude": 33.4231734,
+    "longitude": -79.9317783,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7873306510,
+    "name": "Boat Ramp",
+    "latitude": 32.3919366,
+    "longitude": -80.7759129,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8419553678,
+    "name": "Boat Ramp",
+    "latitude": 32.5979569,
+    "longitude": -80.1828408,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8421966636,
+    "name": "Boat Ramp",
+    "latitude": 32.6885678,
+    "longitude": -80.2962652,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8474442557,
+    "name": "Boat Ramp",
+    "latitude": 32.6342504,
+    "longitude": -80.587633,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8665502591,
+    "name": "K. Hovnanian'S Four Seasons Slipway",
+    "latitude": 33.1364939,
+    "longitude": -80.0980126,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "name": "K. Hovnanian's Four Seasons Slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 9186185646,
+    "name": "Boat Ramp",
+    "latitude": 33.5339269,
+    "longitude": -80.3310371,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9680465581,
+    "name": "Pine Tree Landing",
+    "latitude": 33.4736306,
+    "longitude": -79.4990275,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Pine Tree Landing"
+    }
+  },
+  {
+    "id": 9680468958,
+    "name": "Red'S Landing",
+    "latitude": 33.4871264,
+    "longitude": -79.545756,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Red's Landing"
+    }
+  },
+  {
+    "id": 9680488447,
+    "name": "Pea House Landing",
+    "latitude": 33.4826303,
+    "longitude": -79.45621,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Pea House Landing"
+    }
+  },
+  {
+    "id": 9680488448,
+    "name": "Pump House Landing",
+    "latitude": 33.4820336,
+    "longitude": -79.4492824,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Pump House Landing"
+    }
+  },
+  {
+    "id": 9854910557,
+    "name": "Boat Ramp",
+    "latitude": 33.4484562,
+    "longitude": -80.1583019,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Esri 2021",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 9864364666,
+    "name": "Boat Ramp",
+    "latitude": 33.7049118,
+    "longitude": -78.9353396,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9866747704,
+    "name": "Simmons Landing",
+    "latitude": 33.1043585,
+    "longitude": -80.6713222,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "Simmons Landing"
+    }
+  },
+  {
+    "id": 9874013944,
+    "name": "Boat Ramp",
+    "latitude": 33.2142135,
+    "longitude": -79.9809861,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9960999633,
+    "name": "Boat Ramp",
+    "latitude": 32.754094,
+    "longitude": -79.9184478,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9962994758,
+    "name": "Boat Ramp",
+    "latitude": 32.7851701,
+    "longitude": -80.1064912,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9962994762,
+    "name": "Boat Ramp",
+    "latitude": 32.7851269,
+    "longitude": -80.1065909,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9962994763,
+    "name": "Boat Ramp",
+    "latitude": 32.7850873,
+    "longitude": -80.1066838,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9965501032,
+    "name": "Boat Ramp",
+    "latitude": 32.675377,
+    "longitude": -79.9653623,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9966854102,
+    "name": "Boat Ramp",
+    "latitude": 33.3847739,
+    "longitude": -80.1404552,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9966885316,
+    "name": "Boat Ramp",
+    "latitude": 33.3498057,
+    "longitude": -80.1158361,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9966896527,
+    "name": "Boat Ramp",
+    "latitude": 33.3924347,
+    "longitude": -80.1493653,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9968799565,
+    "name": "Boat Ramp",
+    "latitude": 33.2108512,
+    "longitude": -80.0502346,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9968837023,
+    "name": "Boat Ramp",
+    "latitude": 33.2545187,
+    "longitude": -79.9887162,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10034975706,
+    "name": "Boat Ramp",
+    "latitude": 33.3571885,
+    "longitude": -79.2953248,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10053663282,
+    "name": "Boat Ramp",
+    "latitude": 32.2596373,
+    "longitude": -80.7655334,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10169346697,
+    "name": "Madere'S Landing",
+    "latitude": 32.7938491,
+    "longitude": -79.8775956,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "name": "Madere's Landing",
+      "website": "http://www.cooperestates.org/about/"
+    }
+  },
+  {
+    "id": 10262002931,
+    "name": "Boat Ramp",
+    "latitude": 32.5780668,
+    "longitude": -80.6697417,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10266070508,
+    "name": "Boat Ramp",
+    "latitude": 33.7959302,
+    "longitude": -79.0542649,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10279197163,
+    "name": "Boat Ramp",
+    "latitude": 33.0046444,
+    "longitude": -79.5986862,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10282907595,
+    "name": "Boat Ramp",
+    "latitude": 33.3502569,
+    "longitude": -79.1905925,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10283985379,
+    "name": "Boat Ramp",
+    "latitude": 33.015918,
+    "longitude": -79.5879091,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10294291406,
+    "name": "Boat Ramp",
+    "latitude": 32.647685,
+    "longitude": -79.9615565,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10295965704,
+    "name": "Boat Ramp",
+    "latitude": 33.3553448,
+    "longitude": -79.3206566,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10610434308,
+    "name": "Boat Ramp",
+    "latitude": 32.503676,
+    "longitude": -80.7844419,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10740667919,
+    "name": "Boat Ramp",
+    "latitude": 32.3777848,
+    "longitude": -80.717722,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10750065576,
+    "name": "Boat Ramp",
+    "latitude": 32.353418,
+    "longitude": -80.6736465,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10768676050,
+    "name": "Boat Ramp",
+    "latitude": 32.4844649,
+    "longitude": -80.6005406,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10874883539,
+    "name": "Boat Ramp",
+    "latitude": 32.7741533,
+    "longitude": -79.8405507,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10964572733,
+    "name": "Boat Ramp",
+    "latitude": 32.7063972,
+    "longitude": -79.9489606,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10964606435,
+    "name": "Boat Ramp",
+    "latitude": 32.6797765,
+    "longitude": -79.9506355,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10968641421,
+    "name": "Boat Ramp",
+    "latitude": 32.3279809,
+    "longitude": -80.6452513,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11028316105,
+    "name": "Boat Ramp",
+    "latitude": 32.3211075,
+    "longitude": -80.6051603,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11267078101,
+    "name": "Boat Ramp",
+    "latitude": 32.8747026,
+    "longitude": -79.7390133,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11273230612,
+    "name": "Boat Ramp",
+    "latitude": 32.7683375,
+    "longitude": -79.9925718,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11359136884,
+    "name": "Boat Ramp",
+    "latitude": 33.4038899,
+    "longitude": -80.2333544,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11359136889,
+    "name": "Boat Ramp",
+    "latitude": 33.4036607,
+    "longitude": -80.232781,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11393260185,
+    "name": "Boat Ramp",
+    "latitude": 32.792705,
+    "longitude": -79.8910272,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "access": "customers",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11751903667,
+    "name": "Boat Ramp",
+    "latitude": 32.6483497,
+    "longitude": -80.1543145,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11753477012,
+    "name": "Boat Ramp",
+    "latitude": 32.6024763,
+    "longitude": -80.2931075,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11990803795,
+    "name": "Boat Ramp",
+    "latitude": 32.6528882,
+    "longitude": -80.68379,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12239471179,
+    "name": "Boat Ramp",
+    "latitude": 33.4122479,
+    "longitude": -80.1510666,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12239471180,
+    "name": "Boat Ramp",
+    "latitude": 33.4121593,
+    "longitude": -80.1508553,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12239498956,
+    "name": "Boat Ramp",
+    "latitude": 33.5255637,
+    "longitude": -80.2017891,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12239547654,
+    "name": "Boat Ramp",
+    "latitude": 33.5337517,
+    "longitude": -80.2660025,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12239550582,
+    "name": "Boat Ramp",
+    "latitude": 33.5678368,
+    "longitude": -80.2073587,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12241634289,
+    "name": "Boat Ramp",
+    "latitude": 33.5231346,
+    "longitude": -80.4376326,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12241694478,
+    "name": "Boat Ramp",
+    "latitude": 33.5731543,
+    "longitude": -80.4388757,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12276875531,
+    "name": "Boat Ramp",
+    "latitude": 33.5432051,
+    "longitude": -80.5061347,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12757912480,
+    "name": "Boat Ramp",
+    "latitude": 33.5584474,
+    "longitude": -79.0153721,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12799728696,
+    "name": "Boat Ramp",
+    "latitude": 33.5521063,
+    "longitude": -80.5089159,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13357593292,
+    "name": "Station 26 Boat Landing",
+    "latitude": 32.7699262,
+    "longitude": -79.8329767,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Station 26 Boat Landing"
+    }
+  },
+  {
+    "id": 13422309835,
+    "name": "Remley'S Point Boat Landing",
+    "latitude": 32.8133552,
+    "longitude": -79.9070233,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Remley's Point Boat Landing",
+      "operator": "Charleston County Parks"
+    }
+  },
+  {
+    "id": 12495059,
+    "name": "Boat Ramp",
+    "latitude": 33.4304809,
+    "longitude": -80.2809116,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Orangeburg, SC",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 301009139,
+    "name": "Boat Ramp",
+    "latitude": 32.8870051,
+    "longitude": -80.0735636,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 407730869,
+    "name": "Boat Ramp",
+    "latitude": 32.5023902,
+    "longitude": -80.3232239,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 407730871,
+    "name": "Boat Ramp",
+    "latitude": 32.5023454,
+    "longitude": -80.3231877,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 509334985,
+    "name": "Boat Ramp",
+    "latitude": 32.2594199,
+    "longitude": -80.7652513,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 517276615,
+    "name": "Boat Ramp",
+    "latitude": 32.8134442,
+    "longitude": -79.9074384,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 517276618,
+    "name": "Boat Ramp",
+    "latitude": 32.8134795,
+    "longitude": -79.9074364,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 517276622,
+    "name": "Boat Ramp",
+    "latitude": 32.8135012,
+    "longitude": -79.90743,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 572717152,
+    "name": "Russ Point Boat Landing",
+    "latitude": 32.3459978,
+    "longitude": -80.4697849,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Russ Point Boat Landing"
+    }
+  },
+  {
+    "id": 660638007,
+    "name": "Boat Ramp",
+    "latitude": 32.9007798,
+    "longitude": -79.8985172,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "access": "private",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 708353409,
+    "name": "Boat Ramp",
+    "latitude": 33.089779,
+    "longitude": -79.9336455,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 753762394,
+    "name": "Boat Ramp",
+    "latitude": 33.4088858,
+    "longitude": -80.2998374,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "Esri beta",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 788612763,
+    "name": "Boat Ramp",
+    "latitude": 32.9327803,
+    "longitude": -80.0227232,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 820211403,
+    "name": "Boat Ramp",
+    "latitude": 33.3021,
+    "longitude": -79.5973001,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "Esri beta",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 825875591,
+    "name": "Boat Ramp",
+    "latitude": 32.8468158,
+    "longitude": -79.9353325,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 837629819,
+    "name": "Boat Ramp",
+    "latitude": 33.4044681,
+    "longitude": -79.8632573,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 837682048,
+    "name": "Boat Ramp",
+    "latitude": 33.4231519,
+    "longitude": -79.9317596,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "Esri beta",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 894825124,
+    "name": "Boat Ramp",
+    "latitude": 33.099164,
+    "longitude": -80.3695229,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "Esri beta",
+      "surface": "dirt"
+    }
+  },
+  {
+    "id": 905183670,
+    "name": "Boat Ramp",
+    "latitude": 33.735297,
+    "longitude": -78.8825812,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 905183671,
+    "name": "Boat Ramp",
+    "latitude": 33.7338024,
+    "longitude": -78.8857976,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 905220805,
+    "name": "Private Boat Ramp",
+    "latitude": 33.747109,
+    "longitude": -78.8566424,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Private Boat Ramp"
+    }
+  },
+  {
+    "id": 906708819,
+    "name": "Boat Ramp",
+    "latitude": 32.5979707,
+    "longitude": -80.1828299,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "Esri beta",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 906972357,
+    "name": "Boat Ramp",
+    "latitude": 32.68864,
+    "longitude": -80.2962757,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "Esri beta",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 912254966,
+    "name": "Old Chehaw Landing",
+    "latitude": 32.6342123,
+    "longitude": -80.5876521,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Old Chehaw Landing",
+      "service": "slipway",
+      "source": "Esri beta"
+    }
+  },
+  {
+    "id": 922860163,
+    "name": "Boat Ramp",
+    "latitude": 32.7653228,
+    "longitude": -79.8617005,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 956209423,
+    "name": "Boat Ramp",
+    "latitude": 32.7348069,
+    "longitude": -80.4104693,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "Esri beta",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 992366934,
+    "name": "Boat Ramp",
+    "latitude": 33.0668284,
+    "longitude": -80.5423999,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "Esri beta"
+    }
+  },
+  {
+    "id": 994781864,
+    "name": "Boat Ramp",
+    "latitude": 33.5340241,
+    "longitude": -80.331057,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "Esri beta",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1021761886,
+    "name": "Fields Point Boat Ramp",
+    "latitude": 32.5675059,
+    "longitude": -80.5571948,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "name": "Fields Point Boat Ramp",
+      "service": "slipway",
+      "source": "info2.scdot.org;Esri beta;local knowledge;https://www2.dnr.sc.gov/ManagedLands/BoatRamp/BoatRampInfo/398",
+      "surface": "dirt"
+    }
+  },
+  {
+    "id": 1038771436,
+    "name": "Boat Ramp",
+    "latitude": 33.5130548,
+    "longitude": -80.4745791,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1052120412,
+    "name": "Hwy 22/17 Interchange Boat Landing",
+    "latitude": 33.789986,
+    "longitude": -78.7753279,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Hwy 22/17 Interchange Boat Landing",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 1060942500,
+    "name": "Boat Ramp",
+    "latitude": 33.2951487,
+    "longitude": -80.1564659,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "Esri beta",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1081655935,
+    "name": "Boat Ramp",
+    "latitude": 32.4525032,
+    "longitude": -80.6701889,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1087144921,
+    "name": "Boat Ramp",
+    "latitude": 32.8013594,
+    "longitude": -79.868349,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1087148551,
+    "name": "Boat Ramp",
+    "latitude": 32.7548199,
+    "longitude": -79.9181204,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1087382608,
+    "name": "Boat Ramp",
+    "latitude": 32.785103,
+    "longitude": -80.106456,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1087382611,
+    "name": "Boat Ramp",
+    "latitude": 32.7850629,
+    "longitude": -80.1065545,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1087382612,
+    "name": "Boat Ramp",
+    "latitude": 32.785026,
+    "longitude": -80.1066458,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1087618617,
+    "name": "Boat Ramp",
+    "latitude": 32.6835795,
+    "longitude": -80.1048943,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1087800779,
+    "name": "Boat Ramp",
+    "latitude": 33.3811595,
+    "longitude": -80.0914125,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1087801128,
+    "name": "Boat Ramp",
+    "latitude": 33.3830113,
+    "longitude": -80.1391884,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1095736539,
+    "name": "Boat Ramp",
+    "latitude": 33.3569102,
+    "longitude": -79.295204,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1095736540,
+    "name": "Boat Ramp",
+    "latitude": 33.3569563,
+    "longitude": -79.2954039,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1112551438,
+    "name": "Boat Ramp",
+    "latitude": 32.4935305,
+    "longitude": -80.3242417,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1112551441,
+    "name": "Boat Ramp",
+    "latitude": 32.4923545,
+    "longitude": -80.3280448,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1112551800,
+    "name": "Boat Ramp",
+    "latitude": 32.502442,
+    "longitude": -80.3159793,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1112554976,
+    "name": "Kayak Launch",
+    "latitude": 32.6859054,
+    "longitude": -80.3459214,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kayak Launch"
+    }
+  },
+  {
+    "id": 1121998317,
+    "name": "Boat Ramp",
+    "latitude": 32.5780581,
+    "longitude": -80.6697713,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1122826005,
+    "name": "Boat Ramp",
+    "latitude": 32.5499818,
+    "longitude": -80.7612815,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1124037919,
+    "name": "Boat Ramp",
+    "latitude": 33.0046999,
+    "longitude": -79.5987732,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1125551970,
+    "name": "Boat Ramp",
+    "latitude": 32.8054015,
+    "longitude": -79.7598804,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1138248682,
+    "name": "Boat Ramp",
+    "latitude": 32.5036865,
+    "longitude": -80.7843824,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1143697602,
+    "name": "Boat Ramp",
+    "latitude": 32.4080548,
+    "longitude": -80.4667824,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Beaufort, SC",
+      "tiger:name_base": "Butches",
+      "tiger:name_type": "Rd",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1154911726,
+    "name": "Boat Ramp",
+    "latitude": 32.3777572,
+    "longitude": -80.7177523,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1155969134,
+    "name": "Boat Ramp",
+    "latitude": 32.3533974,
+    "longitude": -80.6736724,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1156963476,
+    "name": "Boat Ramp",
+    "latitude": 32.8542429,
+    "longitude": -79.9546708,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1160951846,
+    "name": "Boat Ramp",
+    "latitude": 32.9211094,
+    "longitude": -79.8008768,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1216036501,
+    "name": "Boat Ramp",
+    "latitude": 32.9397424,
+    "longitude": -79.6574406,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1224880281,
+    "name": "Boat Ramp",
+    "latitude": 33.3958171,
+    "longitude": -80.1973028,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1285608547,
+    "name": "Boat Ramp",
+    "latitude": 33.7428325,
+    "longitude": -78.9225754,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1287875657,
+    "name": "Boat Ramp",
+    "latitude": 33.0167891,
+    "longitude": -80.0672169,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1320439240,
+    "name": "Boat Ramp",
+    "latitude": 32.9210898,
+    "longitude": -79.8007604,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1351742270,
+    "name": "Boat Ramp",
+    "latitude": 32.7740104,
+    "longitude": -79.9252115,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "access": "private",
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1362242985,
+    "name": "Boat Ramp",
+    "latitude": 32.9084867,
+    "longitude": -79.8341329,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1375953465,
+    "name": "Boat Ramp",
+    "latitude": 32.7792276,
+    "longitude": -79.9515437,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "access": "permit",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1382491818,
+    "name": "Boat Ramp",
+    "latitude": 33.5521431,
+    "longitude": -80.5090215,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1408502831,
+    "name": "Boat Ramp",
+    "latitude": 33.4159822,
+    "longitude": -80.3224132,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1408502837,
+    "name": "Boat Ramp",
+    "latitude": 33.4107899,
+    "longitude": -80.3100041,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1417437739,
+    "name": "Boat Ramp",
+    "latitude": 32.8629269,
+    "longitude": -79.9233594,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1419050930,
+    "name": "Sweetwater Charleston Boat Slipway",
+    "latitude": 32.8943467,
+    "longitude": -79.9099044,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Sweetwater Charleston Boat Slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1419446031,
+    "name": "Boat Ramp",
+    "latitude": 32.9220287,
+    "longitude": -79.8265469,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1419446032,
+    "name": "Boat Ramp",
+    "latitude": 32.9221027,
+    "longitude": -79.8264647,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1419478078,
+    "name": "Boat Ramp",
+    "latitude": 32.9142229,
+    "longitude": -79.8828559,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1420031116,
+    "name": "Boat Ramp",
+    "latitude": 33.0576022,
+    "longitude": -79.9578707,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1420031117,
+    "name": "Boat Ramp",
+    "latitude": 33.0577658,
+    "longitude": -79.9578886,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1420454846,
+    "name": "Boat Ramp",
+    "latitude": 32.8710928,
+    "longitude": -80.0639269,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1430351144,
+    "name": "Boat Ramp",
+    "latitude": 32.7739865,
+    "longitude": -79.9253848,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "access": "private",
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1435913801,
+    "name": "Boat Ramp",
+    "latitude": 32.9167593,
+    "longitude": -80.0002066,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1443131332,
+    "name": "Boat Ramp",
+    "latitude": 32.9223164,
+    "longitude": -79.8412074,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1449403426,
+    "name": "Boat Ramp",
+    "latitude": 32.9253607,
+    "longitude": -79.9998458,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1455315567,
+    "name": "Boat Ramp",
+    "latitude": 33.4320964,
+    "longitude": -80.3645463,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1494095853,
+    "name": "Boat Ramp",
+    "latitude": 32.8027103,
+    "longitude": -79.9321714,
+    "state": "South Carolina",
+    "stateAbbr": "SC",
+    "tags": {
+      "access": "permit",
+      "boat": "permit",
+      "canoe": "permit",
+      "covered": "no",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "gravel",
+      "tidal": "yes",
+      "trailer": "designated"
+    }
+  }
+]

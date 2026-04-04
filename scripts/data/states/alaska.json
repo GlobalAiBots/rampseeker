@@ -1,0 +1,4848 @@
+[
+  {
+    "id": 65549107,
+    "name": "Boat Ramp",
+    "latitude": 58.7372969,
+    "longitude": -157.064448,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 428163046,
+    "name": "Boat Ramp",
+    "latitude": 64.8420999,
+    "longitude": -147.8119481,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 647482102,
+    "name": "Boat Ramp",
+    "latitude": 53.6407412,
+    "longitude": -132.0561541,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 650010653,
+    "name": "Boat Ramp",
+    "latitude": 58.7779852,
+    "longitude": -130.1036356,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 652831255,
+    "name": "Boat Ramp",
+    "latitude": 59.8848395,
+    "longitude": -134.7902345,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1233171973,
+    "name": "Boat Ramp",
+    "latitude": 60.4756671,
+    "longitude": -149.7191136,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1233173429,
+    "name": "Boat Ramp",
+    "latitude": 60.4808174,
+    "longitude": -149.7331554,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1286827459,
+    "name": "South Harbor Boat Launch",
+    "latitude": 56.8080392,
+    "longitude": -132.9667981,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "South Harbor Boat Launch"
+    }
+  },
+  {
+    "id": 1286947277,
+    "name": "Banana Point Boat Launch",
+    "latitude": 56.5529477,
+    "longitude": -132.6292885,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Banana Point Boat Launch"
+    }
+  },
+  {
+    "id": 1286947278,
+    "name": "Papkes Landing",
+    "latitude": 56.6776985,
+    "longitude": -132.93422,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Papkes Landing"
+    }
+  },
+  {
+    "id": 1562136514,
+    "name": "Boat Ramp",
+    "latitude": 59.6074289,
+    "longitude": -151.431326,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1632174488,
+    "name": "Boat Ramp",
+    "latitude": 53.1473367,
+    "longitude": -132.2011943,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1712294446,
+    "name": "Boat Ramp",
+    "latitude": 60.8413402,
+    "longitude": -135.1867551,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1726180694,
+    "name": "Boat Ramp",
+    "latitude": 61.4265105,
+    "longitude": -149.4186095,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "note": "no motorized vessels"
+    }
+  },
+  {
+    "id": 1869274571,
+    "name": "Boat Ramp",
+    "latitude": 53.4243445,
+    "longitude": -129.2472914,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1986549106,
+    "name": "Boat Ramp",
+    "latitude": 53.0670463,
+    "longitude": -132.0678035,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2100956248,
+    "name": "Boat Ramp",
+    "latitude": 60.6540496,
+    "longitude": -134.9707181,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2182400559,
+    "name": "Kathleen Lake",
+    "latitude": 60.576117,
+    "longitude": -137.2223796,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Kathleen Lake",
+      "operator": "Parks Canada",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 2265222656,
+    "name": "Boat Ramp",
+    "latitude": 60.4384712,
+    "longitude": -150.3212878,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 2265329710,
+    "name": "Boat Ramp",
+    "latitude": 60.5251187,
+    "longitude": -150.3965972,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2265360693,
+    "name": "Boat Ramp",
+    "latitude": 60.5208246,
+    "longitude": -150.3887955,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2278787646,
+    "name": "Boat Ramp",
+    "latitude": 59.272243,
+    "longitude": -158.6243845,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2455880896,
+    "name": "Boat Ramp",
+    "latitude": 60.6489298,
+    "longitude": -135.2397993,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 2460428724,
+    "name": "Boat Ramp",
+    "latitude": 60.3977195,
+    "longitude": -137.0425289,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2460855017,
+    "name": "Boat Ramp",
+    "latitude": 60.7476916,
+    "longitude": -137.5086276,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2553274275,
+    "name": "Stikine Boat Launch",
+    "latitude": 56.5852114,
+    "longitude": -132.542536,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Stikine Boat Launch"
+    }
+  },
+  {
+    "id": 2608920946,
+    "name": "Rapids Camp",
+    "latitude": 58.6389024,
+    "longitude": -156.5672462,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Rapids Camp"
+    }
+  },
+  {
+    "id": 2608920947,
+    "name": "King Salmon",
+    "latitude": 58.6731472,
+    "longitude": -156.6603598,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "King Salmon"
+    }
+  },
+  {
+    "id": 2610356739,
+    "name": "Boat Launch",
+    "latitude": 56.1137679,
+    "longitude": -133.1216117,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "boat launch"
+    }
+  },
+  {
+    "id": 2643124010,
+    "name": "Boat Ramp",
+    "latitude": 61.0763128,
+    "longitude": -135.1967125,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2705539187,
+    "name": "Boat Ramp",
+    "latitude": 60.3833429,
+    "longitude": -149.7203239,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2743593950,
+    "name": "Boat Ramp",
+    "latitude": 59.3670525,
+    "longitude": -129.1052299,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2800106818,
+    "name": "Boat Ramp",
+    "latitude": 63.7395888,
+    "longitude": -148.8912418,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2852919323,
+    "name": "Boat Ramp",
+    "latitude": 62.3273523,
+    "longitude": -150.1117536,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2879154239,
+    "name": "Boat Ramp",
+    "latitude": 60.6729074,
+    "longitude": -135.0248245,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 2987840194,
+    "name": "Boat Ramp",
+    "latitude": 63.0531448,
+    "longitude": -146.0043473,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2998675559,
+    "name": "Boat Ramp",
+    "latitude": 62.7443775,
+    "longitude": -150.1222825,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3092782899,
+    "name": "Boat Ramp",
+    "latitude": 60.5437182,
+    "longitude": -145.7627638,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3639664130,
+    "name": "Boat Ramp",
+    "latitude": 60.7778212,
+    "longitude": -148.6658664,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 3683347940,
+    "name": "Woodpecker Cove Boat Launch",
+    "latitude": 56.5007496,
+    "longitude": -132.8226335,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Woodpecker Cove Boat Launch"
+    }
+  },
+  {
+    "id": 3721014128,
+    "name": "Public Boat Launch",
+    "latitude": 71.302672,
+    "longitude": -156.763814,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Public Boat Launch"
+    }
+  },
+  {
+    "id": 4100454224,
+    "name": "Boat Ramp",
+    "latitude": 60.5586501,
+    "longitude": -145.7504238,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "crane:maxload": "150",
+      "crane:type": "travel_lift",
+      "leisure": "slipway",
+      "man_made": "crane"
+    }
+  },
+  {
+    "id": 4171966917,
+    "name": "Boat Ramp",
+    "latitude": 58.41746,
+    "longitude": -134.5894332,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "survey"
+    }
+  },
+  {
+    "id": 4303192280,
+    "name": "Boat Ramp",
+    "latitude": 60.5156736,
+    "longitude": -150.7024562,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4303256179,
+    "name": "Boat Ramp",
+    "latitude": 60.5361417,
+    "longitude": -150.7550623,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4407862603,
+    "name": "Boat Ramp",
+    "latitude": 62.5265351,
+    "longitude": -145.5247633,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4450373786,
+    "name": "Boat Ramp",
+    "latitude": 59.037801,
+    "longitude": -158.4776689,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4450375421,
+    "name": "Boat Ramp",
+    "latitude": 59.0697003,
+    "longitude": -158.4398711,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4524171128,
+    "name": "Boat Ramp",
+    "latitude": 62.8880336,
+    "longitude": -141.5433238,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4597781044,
+    "name": "Boat Ramp",
+    "latitude": 64.8345734,
+    "longitude": -147.6951318,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4741572954,
+    "name": "Boat Ramp",
+    "latitude": 55.9993565,
+    "longitude": -161.2013372,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4757592772,
+    "name": "Boat Ramp",
+    "latitude": 61.6664405,
+    "longitude": -150.1352518,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway",
+      "waterbody:name": "South Rolly Lake"
+    }
+  },
+  {
+    "id": 4837282407,
+    "name": "Boat Ramp",
+    "latitude": 61.4616712,
+    "longitude": -149.7250458,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4959037840,
+    "name": "Boat Ramp",
+    "latitude": 64.9945702,
+    "longitude": -150.6510995,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4990841965,
+    "name": "Boat Ramp",
+    "latitude": 61.7474795,
+    "longitude": -150.0541044,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5058709750,
+    "name": "Boat Ramp",
+    "latitude": 61.1508504,
+    "longitude": -149.8824875,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "waterbody:name": "Taku Lake"
+    }
+  },
+  {
+    "id": 5172344262,
+    "name": "Boat Ramp",
+    "latitude": 64.8224025,
+    "longitude": -147.5133312,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5426492699,
+    "name": "Boat Ramp",
+    "latitude": 61.3355493,
+    "longitude": -150.0647025,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5652640019,
+    "name": "Boat Ramp",
+    "latitude": 56.086186,
+    "longitude": -129.3094367,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5835280318,
+    "name": "Boat Ramp",
+    "latitude": 58.2744961,
+    "longitude": -134.3858976,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "DigitalGlobe-Premium"
+    }
+  },
+  {
+    "id": 5837024164,
+    "name": "Boat Ramp",
+    "latitude": 65.8800083,
+    "longitude": -149.7263682,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5837024166,
+    "name": "Boat Ramp",
+    "latitude": 65.8787933,
+    "longitude": -149.7210967,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5838975894,
+    "name": "Boat Ramp",
+    "latitude": 66.6654966,
+    "longitude": -150.656817,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5840683447,
+    "name": "Boat Ramp",
+    "latitude": 66.9585099,
+    "longitude": -150.392291,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5969687146,
+    "name": "Boat Ramp",
+    "latitude": 60.4070894,
+    "longitude": -149.3751017,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6003403278,
+    "name": "Boat Ramp",
+    "latitude": 53.8961848,
+    "longitude": -166.5369393,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility"
+    }
+  },
+  {
+    "id": 6026298699,
+    "name": "Boat Ramp",
+    "latitude": 61.4833664,
+    "longitude": -149.2519645,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6069645706,
+    "name": "Boat Ramp",
+    "latitude": 61.3490417,
+    "longitude": -149.5520276,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6407225814,
+    "name": "Boat Ramp",
+    "latitude": 61.2073981,
+    "longitude": -149.9189014,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "waterbody:name": "Westchester Lagoon"
+    }
+  },
+  {
+    "id": 6481651875,
+    "name": "Rushbrook Harbour Boat Launch",
+    "latitude": 54.3237944,
+    "longitude": -130.3063812,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Rushbrook Harbour Boat Launch"
+    }
+  },
+  {
+    "id": 6496380923,
+    "name": "Boat Ramp",
+    "latitude": 68.4519792,
+    "longitude": -149.374457,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6704716235,
+    "name": "Boat Ramp",
+    "latitude": 60.6905627,
+    "longitude": -135.0376227,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 6704717557,
+    "name": "Marsh Lake Boat Launch",
+    "latitude": 60.5123776,
+    "longitude": -134.3273122,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Marsh Lake Boat Launch",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 6704717558,
+    "name": "Boat Ramp",
+    "latitude": 60.5611522,
+    "longitude": -134.4907419,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 6717759348,
+    "name": "Boat Ramp",
+    "latitude": 60.5440684,
+    "longitude": -145.7197934,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6743355298,
+    "name": "Boat Ramp",
+    "latitude": 60.1652537,
+    "longitude": -134.6996438,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6814334142,
+    "name": "Kluane Boat Launch",
+    "latitude": 61.0333095,
+    "longitude": -138.4962157,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kluane boat launch",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 6814334143,
+    "name": "Six Mile River Resort Lauch",
+    "latitude": 60.3152001,
+    "longitude": -134.2695371,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Six mile river resort lauch"
+    }
+  },
+  {
+    "id": 6814334149,
+    "name": "Tagish Lake Campground Boat Launch",
+    "latitude": 60.3153685,
+    "longitude": -134.2624869,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Tagish Lake Campground boat launch"
+    }
+  },
+  {
+    "id": 6814462817,
+    "name": "Boat Ramp",
+    "latitude": 60.5842515,
+    "longitude": -136.1423294,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6919106842,
+    "name": "Boat Ramp",
+    "latitude": 61.1773181,
+    "longitude": -135.3915651,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 6919139213,
+    "name": "Boat Ramp",
+    "latitude": 61.0773992,
+    "longitude": -135.1976762,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 6933859895,
+    "name": "Boat Ramp",
+    "latitude": 60.4741221,
+    "longitude": -150.3273147,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7040395807,
+    "name": "Boat Ramp",
+    "latitude": 59.575051,
+    "longitude": -133.7089361,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7185582977,
+    "name": "Boat Ramp",
+    "latitude": 59.4501502,
+    "longitude": -135.3187774,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7447602150,
+    "name": "Little Atlin",
+    "latitude": 60.296824,
+    "longitude": -133.985533,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Little Atlin",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 7520914781,
+    "name": "North Fill",
+    "latitude": 60.5530118,
+    "longitude": -145.76138,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "North Fill"
+    }
+  },
+  {
+    "id": 7674977322,
+    "name": "Seventeen Mile Lake Boat Launch",
+    "latitude": 61.7148918,
+    "longitude": -148.9812346,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Seventeen Mile Lake Boat Launch"
+    }
+  },
+  {
+    "id": 7685165555,
+    "name": "Boat Ramp",
+    "latitude": 61.1272261,
+    "longitude": -146.3430229,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7716656682,
+    "name": "Boat Ramp",
+    "latitude": 57.2703813,
+    "longitude": -133.630785,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7723090627,
+    "name": "Boat Ramp",
+    "latitude": 61.8027662,
+    "longitude": -147.9584987,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "operator": "Victory Bible Camps"
+    }
+  },
+  {
+    "id": 7723091265,
+    "name": "Boat Ramp",
+    "latitude": 61.8033229,
+    "longitude": -147.9527394,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 7965548866,
+    "name": "Boat Ramp",
+    "latitude": 59.0402952,
+    "longitude": -158.4793953,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7965548868,
+    "name": "Boat Ramp",
+    "latitude": 59.0378915,
+    "longitude": -158.4610108,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7990734674,
+    "name": "Boat Ramp",
+    "latitude": 55.0574167,
+    "longitude": -162.3259974,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 8253295470,
+    "name": "Sand Lake Public Access",
+    "latitude": 61.1483377,
+    "longitude": -149.966327,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Sand Lake Public Access",
+      "surface": "dirt"
+    }
+  },
+  {
+    "id": 8271256373,
+    "name": "Boat Ramp",
+    "latitude": 61.6789593,
+    "longitude": -150.001847,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8284404390,
+    "name": "Rabbit Slough Boat Ramp",
+    "latitude": 61.534192,
+    "longitude": -149.2678535,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "name": "Rabbit Slough Boat Ramp",
+      "waterbody:name": "Rabbit Slough"
+    }
+  },
+  {
+    "id": 8580535914,
+    "name": "Boat Ramp",
+    "latitude": 60.8219174,
+    "longitude": -164.5109886,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9089467410,
+    "name": "Boat Ramp",
+    "latitude": 59.5626024,
+    "longitude": -139.7416225,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9089467411,
+    "name": "Boat Ramp",
+    "latitude": 59.5625997,
+    "longitude": -139.7414884,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9335620715,
+    "name": "Boat Ramp",
+    "latitude": 71.341644,
+    "longitude": -156.6133583,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9581027586,
+    "name": "Boat Ramp",
+    "latitude": 60.315816,
+    "longitude": -134.2692737,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9797121132,
+    "name": "Boat Ramp",
+    "latitude": 61.401805,
+    "longitude": -149.5648325,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9947844401,
+    "name": "Boat Ramp",
+    "latitude": 60.1661261,
+    "longitude": -132.7093845,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9955397107,
+    "name": "Boat Ramp",
+    "latitude": 64.0584854,
+    "longitude": -141.7664773,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9957649538,
+    "name": "Boat Ramp",
+    "latitude": 59.2665251,
+    "longitude": -135.6227685,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9957651824,
+    "name": "Boat Ramp",
+    "latitude": 60.5916054,
+    "longitude": -137.2287141,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9957658617,
+    "name": "Boat Ramp",
+    "latitude": 60.5921152,
+    "longitude": -137.2304262,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9965021975,
+    "name": "Boat Ramp",
+    "latitude": 60.7171466,
+    "longitude": -135.0469286,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9965933631,
+    "name": "Boat Ramp",
+    "latitude": 60.5767587,
+    "longitude": -134.6794725,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9995328683,
+    "name": "Primrose Boat Launch",
+    "latitude": 60.3402816,
+    "longitude": -149.3676487,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Primrose Boat Launch"
+    }
+  },
+  {
+    "id": 9995382103,
+    "name": "Boat Ramp",
+    "latitude": 56.1073383,
+    "longitude": -129.6754846,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9995407708,
+    "name": "Boat Ramp",
+    "latitude": 60.5289302,
+    "longitude": -145.6403829,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9999160183,
+    "name": "Boat Ramp",
+    "latitude": 65.8251675,
+    "longitude": -144.060444,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10000719099,
+    "name": "Boat Ramp",
+    "latitude": 65.8246122,
+    "longitude": -144.059964,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10005334761,
+    "name": "Boat Ramp",
+    "latitude": 65.7115066,
+    "longitude": -144.3354464,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10007530348,
+    "name": "Whittier Boat Ramp",
+    "latitude": 60.7769578,
+    "longitude": -148.6857816,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "Whittier Boat Ramp",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 10010216965,
+    "name": "Boat Ramp",
+    "latitude": 64.780612,
+    "longitude": -141.1101759,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10047236422,
+    "name": "Boat Ramp",
+    "latitude": 68.1057783,
+    "longitude": -145.6021779,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10174097675,
+    "name": "Aishihik Lake Boat Launch",
+    "latitude": 61.0828911,
+    "longitude": -136.9976243,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "material": "concrete",
+      "name": "Aishihik lake boat launch"
+    }
+  },
+  {
+    "id": 10683426366,
+    "name": "Boat Ramp",
+    "latitude": 66.8889269,
+    "longitude": -151.4961384,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10722418151,
+    "name": "Boat Ramp",
+    "latitude": 52.9353635,
+    "longitude": -132.1334644,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10735447840,
+    "name": "Eklutna Lake Boat Ramp",
+    "latitude": 61.4083505,
+    "longitude": -149.1354883,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "name": "Eklutna Lake Boat Ramp",
+      "tidal": "no",
+      "waterbody:name": "Eklutna Lake"
+    }
+  },
+  {
+    "id": 10735503893,
+    "name": "Boat Ramp",
+    "latitude": 61.6093312,
+    "longitude": -149.2634471,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10776255983,
+    "name": "Boat Ramp",
+    "latitude": 66.3297637,
+    "longitude": -179.1202041,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10804735852,
+    "name": "Boat Ramp",
+    "latitude": 63.8718631,
+    "longitude": -160.7846293,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10925323010,
+    "name": "Boat Ramp",
+    "latitude": 61.5328703,
+    "longitude": -149.8339685,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10979228010,
+    "name": "Boat Ramp",
+    "latitude": 60.4478874,
+    "longitude": -133.6032083,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11179708764,
+    "name": "Boat Ramp",
+    "latitude": 55.8991772,
+    "longitude": -159.1682321,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11183786125,
+    "name": "Boat Ramp",
+    "latitude": 60.4845568,
+    "longitude": -133.3034096,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11186402072,
+    "name": "Boat Ramp",
+    "latitude": 61.1759652,
+    "longitude": -149.853455,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "River Access;local knowledge"
+    }
+  },
+  {
+    "id": 11529940766,
+    "name": "Boat Ramp",
+    "latitude": 57.5311656,
+    "longitude": -130.1833527,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11658554832,
+    "name": "Boat Ramp",
+    "latitude": 58.6446346,
+    "longitude": -133.537251,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11936909841,
+    "name": "Northeast Launch Ramp",
+    "latitude": 60.1202276,
+    "longitude": -149.4328327,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Northeast Launch Ramp",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "source_ref": "https://www.cityofseward.us/home/showpublisheddocument/3229/638086168429200000",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 11936975643,
+    "name": "South Launch Ramp",
+    "latitude": 60.1159285,
+    "longitude": -149.4393872,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "South Launch Ramp",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "source_ref": "https://www.cityofseward.us/home/showpublisheddocument/3229/638086168429200000",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 11938895400,
+    "name": "Boat Ramp",
+    "latitude": 60.0946672,
+    "longitude": -149.366688,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "surface": "ground"
+    }
+  },
+  {
+    "id": 11992630000,
+    "name": "Boat Ramp",
+    "latitude": 60.263378,
+    "longitude": -134.7502035,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "informal": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12089890313,
+    "name": "Boat Ramp",
+    "latitude": 53.2505427,
+    "longitude": -132.0376638,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12121632757,
+    "name": "Boat Ramp",
+    "latitude": 55.9982867,
+    "longitude": -161.2073637,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12152856764,
+    "name": "Lake Geeta Kayak Launch",
+    "latitude": 63.0710688,
+    "longitude": -146.7061705,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "addr:housenumber": "Mile 49.6",
+      "addr:street": "Denali Highway",
+      "leisure": "slipway",
+      "name": "Lake Geeta Kayak Launch"
+    }
+  },
+  {
+    "id": 12319587137,
+    "name": "Boat Ramp",
+    "latitude": 61.8083303,
+    "longitude": -147.9522808,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12377520114,
+    "name": "Mile 43 River Access",
+    "latitude": 64.9342846,
+    "longitude": -146.2774766,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mile 43 River Access"
+    }
+  },
+  {
+    "id": 12796357143,
+    "name": "Boat Ramp",
+    "latitude": 54.247319,
+    "longitude": -130.1949519,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "ground"
+    }
+  },
+  {
+    "id": 12796420974,
+    "name": "Rainbow Lake Boat Launch",
+    "latitude": 54.2280607,
+    "longitude": -130.0710334,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Rainbow Lake Boat Launch"
+    }
+  },
+  {
+    "id": 12851625013,
+    "name": "Boat Ramp",
+    "latitude": 61.6421759,
+    "longitude": -149.2853112,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12904035694,
+    "name": "Boat Launch",
+    "latitude": 61.5783741,
+    "longitude": -149.8416164,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Boat Launch",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 12926468933,
+    "name": "Boat Launch",
+    "latitude": 68.3574327,
+    "longitude": -133.7397752,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Launch"
+    }
+  },
+  {
+    "id": 12941788603,
+    "name": "Boat Ramp",
+    "latitude": 63.3763278,
+    "longitude": -136.2484167,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12941838118,
+    "name": "Aishihik Boat Launch",
+    "latitude": 61.195704,
+    "longitude": -136.9989117,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Aishihik Boat Launch"
+    }
+  },
+  {
+    "id": 12986109598,
+    "name": "Rocky Lake State Recreation Site Boat Launch",
+    "latitude": 61.5561201,
+    "longitude": -149.8202047,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "permissive",
+      "charge": "15 USD",
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "Rocky Lake State Recreation Site Boat Launch",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 12995096470,
+    "name": "Prudhomme Lake Boat Launch",
+    "latitude": 54.2413749,
+    "longitude": -130.1287388,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Prudhomme Lake Boat Launch"
+    }
+  },
+  {
+    "id": 12997916410,
+    "name": "Andesite Boat Launch",
+    "latitude": 54.3717006,
+    "longitude": -129.1365955,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Andesite Boat Launch"
+    }
+  },
+  {
+    "id": 12997932628,
+    "name": "Exstew River Boat Launch",
+    "latitude": 54.4000852,
+    "longitude": -129.057113,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Exstew River Boat Launch",
+      "surface": "sand"
+    }
+  },
+  {
+    "id": 12999685236,
+    "name": "Kwinitsa Creek Boat Launch",
+    "latitude": 54.2214421,
+    "longitude": -129.5769475,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kwinitsa Creek Boat Launch"
+    }
+  },
+  {
+    "id": 12999685254,
+    "name": "Kwinitsa East Boat Launch",
+    "latitude": 54.2430874,
+    "longitude": -129.5188581,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kwinitsa East Boat launch",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 12999685275,
+    "name": "Snowbound Creek Boat Launch",
+    "latitude": 54.2473326,
+    "longitude": -129.4776731,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Snowbound Creek Boat Launch"
+    }
+  },
+  {
+    "id": 12999685282,
+    "name": "Kasiks River Boat Launch",
+    "latitude": 54.2935587,
+    "longitude": -129.3997464,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kasiks River Boat Launch"
+    }
+  },
+  {
+    "id": 12999685297,
+    "name": "Exchamsiks River Boat Launch",
+    "latitude": 54.3331089,
+    "longitude": -129.298956,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Exchamsiks River Boat Launch"
+    }
+  },
+  {
+    "id": 12999832954,
+    "name": "Tyee Boat Launch",
+    "latitude": 54.2231809,
+    "longitude": -129.8912158,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Tyee Boat Launch"
+    }
+  },
+  {
+    "id": 13025428741,
+    "name": "Boat Ramp",
+    "latitude": 60.2031138,
+    "longitude": -154.3154782,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13030753532,
+    "name": "Boat Ramp",
+    "latitude": 53.0712705,
+    "longitude": -132.0708176,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13040484958,
+    "name": "Boat Ramp",
+    "latitude": 54.3026397,
+    "longitude": -129.9852555,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13040491454,
+    "name": "Work Channel Main Boat Launch",
+    "latitude": 54.30231,
+    "longitude": -129.988789,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Work Channel Main Boat Launch"
+    }
+  },
+  {
+    "id": 13065591983,
+    "name": "Tarfu Lake",
+    "latitude": 60.0639793,
+    "longitude": -133.7538431,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Tarfu Lake"
+    }
+  },
+  {
+    "id": 13066525799,
+    "name": "Snafu Lake",
+    "latitude": 60.1341274,
+    "longitude": -133.8080829,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Snafu Lake",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 13076720169,
+    "name": "Boat Ramp",
+    "latitude": 59.4507025,
+    "longitude": -135.3200569,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13076720172,
+    "name": "Boat Ramp",
+    "latitude": 59.4507414,
+    "longitude": -135.3202307,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13158448568,
+    "name": "Boat Ramp",
+    "latitude": 55.999189,
+    "longitude": -161.202566,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13158529679,
+    "name": "Boat Ramp",
+    "latitude": 56.0010017,
+    "longitude": -161.199503,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13158529831,
+    "name": "Boat Ramp",
+    "latitude": 56.0008996,
+    "longitude": -161.1994395,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13161575764,
+    "name": "Boat Ramp",
+    "latitude": 54.9979884,
+    "longitude": -129.9757591,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13250042903,
+    "name": "Boat Ramp",
+    "latitude": 59.7555298,
+    "longitude": -161.8964083,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13250209502,
+    "name": "Boat Ramp",
+    "latitude": 59.7575212,
+    "longitude": -161.8798305,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13271397554,
+    "name": "Boat Ramp",
+    "latitude": 59.2725309,
+    "longitude": -158.6025086,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13273267576,
+    "name": "Boat Ramp",
+    "latitude": 58.7436813,
+    "longitude": -156.9477546,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13324684731,
+    "name": "Boat Ramp",
+    "latitude": 66.9022109,
+    "longitude": -162.5885416,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13324684740,
+    "name": "Boat Ramp",
+    "latitude": 66.9008552,
+    "longitude": -162.5931985,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13324684746,
+    "name": "Boat Ramp",
+    "latitude": 66.8997045,
+    "longitude": -162.5970711,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13357267153,
+    "name": "Boat Ramp",
+    "latitude": 64.8381896,
+    "longitude": -147.8002697,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13406911089,
+    "name": "Boat Ramp",
+    "latitude": 59.2984196,
+    "longitude": -155.9843693,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13406911362,
+    "name": "Boat Ramp",
+    "latitude": 59.3285159,
+    "longitude": -155.882349,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13414571023,
+    "name": "Boat Ramp",
+    "latitude": 64.842679,
+    "longitude": -147.7995943,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 13414571128,
+    "name": "Boat Ramp",
+    "latitude": 64.846213,
+    "longitude": -147.7948681,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 13414571129,
+    "name": "Boat Ramp",
+    "latitude": 64.8459664,
+    "longitude": -147.7958023,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 13414571412,
+    "name": "Boat Ramp",
+    "latitude": 64.8447797,
+    "longitude": -147.7873892,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 13449095749,
+    "name": "Boat Ramp",
+    "latitude": 61.6268265,
+    "longitude": -149.802556,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 13596410640,
+    "name": "Venetie Boat Ramp South",
+    "latitude": 67.0113456,
+    "longitude": -146.4183755,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Venetie Boat Ramp South"
+    }
+  },
+  {
+    "id": 13615623148,
+    "name": "Boat Ramp",
+    "latitude": 60.0707515,
+    "longitude": -149.4351433,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13663638201,
+    "name": "Boat Ramp",
+    "latitude": 62.3265982,
+    "longitude": -150.1150862,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13700407096,
+    "name": "Boat Ramp",
+    "latitude": 60.4604429,
+    "longitude": -150.3187613,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8982869,
+    "name": "Boat Ramp",
+    "latitude": 63.8718343,
+    "longitude": -160.784827,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9000690,
+    "name": "Boat Launch",
+    "latitude": 65.8251403,
+    "longitude": -144.0613168,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Boat Launch",
+      "service": "slipway",
+      "surface": "unpaved",
+      "tiger:cfcc": "A64",
+      "tiger:county": "Yukon-Koyukuk, AK",
+      "tiger:name_base": "Boat Launch",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 188033497,
+    "name": "Boat Ramp",
+    "latitude": 53.2467211,
+    "longitude": -132.0093473,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 188033940,
+    "name": "Boat Ramp",
+    "latitude": 53.0528405,
+    "longitude": -132.024391,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 188128851,
+    "name": "Boat Ramp",
+    "latitude": 53.689316,
+    "longitude": -132.1831321,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 188149701,
+    "name": "Boat Ramp",
+    "latitude": 53.0280327,
+    "longitude": -131.894939,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 188149710,
+    "name": "Boat Ramp",
+    "latitude": 53.0182154,
+    "longitude": -131.9628229,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 188167603,
+    "name": "Boat Ramp",
+    "latitude": 53.7853155,
+    "longitude": -132.2223809,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 195130195,
+    "name": "Boat Ramp",
+    "latitude": 59.2345344,
+    "longitude": -135.4405627,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 217233565,
+    "name": "Boat Ramp",
+    "latitude": 60.471215,
+    "longitude": -150.4705617,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 217233566,
+    "name": "Boat Ramp",
+    "latitude": 60.4676093,
+    "longitude": -150.2051163,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 217233569,
+    "name": "Boat Ramp",
+    "latitude": 60.4382984,
+    "longitude": -150.3214261,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 217248826,
+    "name": "Boat Ramp",
+    "latitude": 60.5209361,
+    "longitude": -150.3887982,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 264441790,
+    "name": "Boat Ramp",
+    "latitude": 61.8114212,
+    "longitude": -148.298637,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 264691734,
+    "name": "City Of Kenai Boat Launch",
+    "latitude": 60.5445912,
+    "longitude": -151.2222598,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "City of Kenai Boat Launch",
+      "operator": "City of Kenai"
+    }
+  },
+  {
+    "id": 264861142,
+    "name": "Boat Ramp",
+    "latitude": 60.4866276,
+    "longitude": -150.0025674,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 265180656,
+    "name": "Boat Ramp",
+    "latitude": 60.7887814,
+    "longitude": -151.0316227,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 294979184,
+    "name": "Boat Ramp",
+    "latitude": 62.8865899,
+    "longitude": -145.5263729,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 294979185,
+    "name": "Boat Ramp",
+    "latitude": 62.8184191,
+    "longitude": -145.4970331,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 295113709,
+    "name": "Tangle Lakes Access",
+    "latitude": 63.053182,
+    "longitude": -146.0044542,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Tangle Lakes Access"
+    }
+  },
+  {
+    "id": 295117287,
+    "name": "Boat Ramp",
+    "latitude": 63.0447629,
+    "longitude": -146.0269541,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 296996474,
+    "name": "Susitna Landing Public Boat Launch",
+    "latitude": 61.9129184,
+    "longitude": -150.0992119,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Susitna Landing Public Boat Launch"
+    }
+  },
+  {
+    "id": 331777903,
+    "name": "Boat Ramp",
+    "latitude": 61.2253195,
+    "longitude": -149.9059902,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "area": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 331777905,
+    "name": "Boat Ramp",
+    "latitude": 61.2252569,
+    "longitude": -149.9060927,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "area": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 333424649,
+    "name": "Boat Ramp",
+    "latitude": 59.4386026,
+    "longitude": -151.7178368,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "area": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 340773252,
+    "name": "Boat Ramp",
+    "latitude": 70.3556508,
+    "longitude": -147.9639147,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 340773256,
+    "name": "Boat Ramp",
+    "latitude": 70.3210592,
+    "longitude": -147.8695528,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 346670879,
+    "name": "Boat Ramp",
+    "latitude": 60.4917407,
+    "longitude": -149.8110941,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 351023525,
+    "name": "Boat Ramp",
+    "latitude": 60.3168859,
+    "longitude": -151.2585672,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "fee": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 351023535,
+    "name": "Boat Ramp",
+    "latitude": 60.3168841,
+    "longitude": -151.2585269,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 354977524,
+    "name": "Boat Ramp",
+    "latitude": 57.7829476,
+    "longitude": -152.4069607,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 368205413,
+    "name": "Boat Ramp",
+    "latitude": 60.7170741,
+    "longitude": -135.0469994,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 369344708,
+    "name": "Boat Ramp",
+    "latitude": 58.4915358,
+    "longitude": -134.7876898,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 406377461,
+    "name": "Boat Ramp",
+    "latitude": 57.0482898,
+    "longitude": -135.3538688,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "service": "slipway",
+      "source": "Bing",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 416936966,
+    "name": "Boat Ramp",
+    "latitude": 58.3901064,
+    "longitude": -135.7300449,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 417102216,
+    "name": "Boat Ramp",
+    "latitude": 58.4540362,
+    "longitude": -135.8870958,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 426509459,
+    "name": "Boat Ramp",
+    "latitude": 60.4819519,
+    "longitude": -151.0990436,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway",
+      "operator": "City of Soldtona"
+    }
+  },
+  {
+    "id": 426525981,
+    "name": "Boat Ramp",
+    "latitude": 60.2539499,
+    "longitude": -151.1728225,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 426525987,
+    "name": "Boat Ramp",
+    "latitude": 60.2539565,
+    "longitude": -151.1728218,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 426627459,
+    "name": "Boat Ramp",
+    "latitude": 60.4810052,
+    "longitude": -151.0306377,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway",
+      "operator": "City of Soldtona"
+    }
+  },
+  {
+    "id": 428831615,
+    "name": "Boat Ramp",
+    "latitude": 60.5481232,
+    "longitude": -151.2245056,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 431076998,
+    "name": "Boat Ramp",
+    "latitude": 60.5361209,
+    "longitude": -150.7549886,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 431425846,
+    "name": "The Pillars Boat Launch",
+    "latitude": 60.5338044,
+    "longitude": -151.0980507,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "The Pillars Boat Launch",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 431441760,
+    "name": "Boat Ramp",
+    "latitude": 60.548752,
+    "longitude": -151.2255649,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 431477800,
+    "name": "Boat Ramp",
+    "latitude": 60.3866988,
+    "longitude": -151.2976054,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "private",
+      "area": "yes",
+      "leisure": "slipway",
+      "operator": "Pacific Star Seafoods, Inc."
+    }
+  },
+  {
+    "id": 431477807,
+    "name": "Boat Ramp",
+    "latitude": 60.3867002,
+    "longitude": -151.2975965,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "source": "Bing",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 436497705,
+    "name": "Boat Ramp",
+    "latitude": 59.6095284,
+    "longitude": -151.4282139,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "no",
+      "area": "yes",
+      "disused": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 438172082,
+    "name": "Boat Ramp",
+    "latitude": 56.9487116,
+    "longitude": -133.8946179,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 442355060,
+    "name": "Boat Ramp",
+    "latitude": 59.6831714,
+    "longitude": -153.6312813,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 442355061,
+    "name": "Boat Ramp",
+    "latitude": 59.7792138,
+    "longitude": -153.8829087,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 442989845,
+    "name": "Tanana River Boat Launch",
+    "latitude": 63.7618189,
+    "longitude": -144.6921918,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Tanana River Boat Launch"
+    }
+  },
+  {
+    "id": 443157742,
+    "name": "Boat Ramp",
+    "latitude": 62.5265811,
+    "longitude": -145.5246823,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "fee": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 447809614,
+    "name": "Niksiuraq Boat Launch",
+    "latitude": 71.3556377,
+    "longitude": -156.5335204,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Niksiuraq Boat Launch",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility"
+    }
+  },
+  {
+    "id": 448119468,
+    "name": "Lake Camp",
+    "latitude": 58.6724991,
+    "longitude": -156.4575523,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lake Camp"
+    }
+  },
+  {
+    "id": 451029171,
+    "name": "Boat Ramp",
+    "latitude": 61.9341541,
+    "longitude": -150.0906074,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "source:position": "Bing"
+    }
+  },
+  {
+    "id": 455267962,
+    "name": "Boat Ramp",
+    "latitude": 63.3173496,
+    "longitude": -142.6499936,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 455437159,
+    "name": "Boat Ramp",
+    "latitude": 63.3759268,
+    "longitude": -143.5446209,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway",
+      "source:position": "geolocated photo",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 455481568,
+    "name": "Boat Ramp",
+    "latitude": 64.1983474,
+    "longitude": -145.8252478,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 462331183,
+    "name": "Boat Ramp",
+    "latitude": 64.9033163,
+    "longitude": -146.365107,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 463348523,
+    "name": "Boat Ramp",
+    "latitude": 64.4346374,
+    "longitude": -146.8805592,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 463348541,
+    "name": "Boat Ramp",
+    "latitude": 64.4697491,
+    "longitude": -146.9298608,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 475521036,
+    "name": "Boat Ramp",
+    "latitude": 57.1294439,
+    "longitude": -135.374166,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 477055059,
+    "name": "Boat Ramp",
+    "latitude": 70.6300793,
+    "longitude": -160.0244052,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "note": "This was tagged as a node with leisure=slipway and man_made=storage_tank"
+    }
+  },
+  {
+    "id": 477330945,
+    "name": "Boat Ramp",
+    "latitude": 57.1295197,
+    "longitude": -135.3741796,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 479644680,
+    "name": "Boat Ramp",
+    "latitude": 67.0848534,
+    "longitude": -157.8549283,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 483128670,
+    "name": "Susitna River Boat Launch",
+    "latitude": 61.721462,
+    "longitude": -150.2049128,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "fee": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Susitna River Boat Launch",
+      "operator": "Deshka Landing Outdoor Association",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 483197809,
+    "name": "Boat Ramp",
+    "latitude": 62.2879287,
+    "longitude": -146.5449744,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 491702514,
+    "name": "Boat Ramp",
+    "latitude": 61.4376936,
+    "longitude": -150.1741605,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 503484436,
+    "name": "Boat Ramp",
+    "latitude": 63.3782758,
+    "longitude": -143.3480175,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "dirt"
+    }
+  },
+  {
+    "id": 504587277,
+    "name": "Boat Ramp",
+    "latitude": 65.0858128,
+    "longitude": -147.7373942,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway",
+      "operator": "State of Alaska, Department of Natural Resources"
+    }
+  },
+  {
+    "id": 509979813,
+    "name": "Willow Lake Floatplane Launch",
+    "latitude": 61.7474864,
+    "longitude": -150.053923,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "boat": "no",
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "Willow Lake Floatplane Launch"
+    }
+  },
+  {
+    "id": 513180028,
+    "name": "Boat Ramp",
+    "latitude": 61.953848,
+    "longitude": -145.3220657,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 516682723,
+    "name": "Boat Ramp",
+    "latitude": 62.306905,
+    "longitude": -145.231655,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 517994330,
+    "name": "Boat Ramp",
+    "latitude": 64.2605846,
+    "longitude": -146.1070383,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 518479534,
+    "name": "Boat Ramp",
+    "latitude": 64.3151092,
+    "longitude": -146.6463628,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "fee": "yes",
+      "leisure": "slipway",
+      "operator": "State of Alaska Department of Natural Resources"
+    }
+  },
+  {
+    "id": 525852810,
+    "name": "Boat Ramp",
+    "latitude": 63.1922832,
+    "longitude": -145.6507878,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 532250724,
+    "name": "Boat Ramp",
+    "latitude": 64.1989146,
+    "longitude": -145.8278003,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 620495427,
+    "name": "Boat Ramp",
+    "latitude": 62.2693911,
+    "longitude": -145.3846429,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 626535629,
+    "name": "Boat Ramp",
+    "latitude": 64.7689453,
+    "longitude": -147.222978,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 626540595,
+    "name": "Boat Ramp",
+    "latitude": 64.7940064,
+    "longitude": -147.1889716,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 628258397,
+    "name": "Boat Ramp",
+    "latitude": 64.5556831,
+    "longitude": -149.1135236,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 628258399,
+    "name": "Nenana River Boat Launch",
+    "latitude": 64.5493576,
+    "longitude": -149.1175846,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Nenana River Boat Launch"
+    }
+  },
+  {
+    "id": 642971514,
+    "name": "Boat Ramp",
+    "latitude": 58.2763245,
+    "longitude": -134.389887,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 642971516,
+    "name": "Boat Ramp",
+    "latitude": 58.2762612,
+    "longitude": -134.3898404,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 643173599,
+    "name": "Boat Ramp",
+    "latitude": 58.4913391,
+    "longitude": -134.7879125,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 645799646,
+    "name": "Fire Lake Public Access",
+    "latitude": 61.3490613,
+    "longitude": -149.5521197,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Fire Lake Public Access",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 655300658,
+    "name": "Boat Ramp",
+    "latitude": 58.3814755,
+    "longitude": -134.6908769,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 732494322,
+    "name": "Boat Ramp",
+    "latitude": 60.4290565,
+    "longitude": -145.2989755,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 740596019,
+    "name": "Boat Ramp",
+    "latitude": 60.4741357,
+    "longitude": -150.3274106,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 747533354,
+    "name": "Boat Ramp",
+    "latitude": 66.8889684,
+    "longitude": -151.4964978,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 790912570,
+    "name": "Boat Ramp",
+    "latitude": 60.1159153,
+    "longitude": -149.4394219,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 790912571,
+    "name": "Boat Ramp",
+    "latitude": 60.1159698,
+    "longitude": -149.4394218,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 790912575,
+    "name": "Boat Ramp",
+    "latitude": 60.1202786,
+    "longitude": -149.4326942,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 790912576,
+    "name": "Boat Ramp",
+    "latitude": 60.1202202,
+    "longitude": -149.4326937,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 796348026,
+    "name": "Boat Ramp",
+    "latitude": 60.1661301,
+    "longitude": -132.7093237,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 796348998,
+    "name": "Boat Ramp",
+    "latitude": 59.5715232,
+    "longitude": -133.7055212,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 796349831,
+    "name": "Boat Ramp",
+    "latitude": 60.2968947,
+    "longitude": -133.9854174,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 804082167,
+    "name": "Boat Ramp",
+    "latitude": 60.5528354,
+    "longitude": -145.7611723,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 823313146,
+    "name": "Marsh Lake Marina Boat Launch",
+    "latitude": 60.457175,
+    "longitude": -134.275825,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Marsh Lake Marina Boat launch",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 826081694,
+    "name": "Boat Ramp",
+    "latitude": 61.1275457,
+    "longitude": -146.3393323,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 826606208,
+    "name": "Boat Ramp",
+    "latitude": 53.2374526,
+    "longitude": -131.8624324,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 831787404,
+    "name": "St Paul Boat Ramp",
+    "latitude": 57.7868292,
+    "longitude": -152.4076073,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "St Paul Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 845237923,
+    "name": "Boat Ramp",
+    "latitude": 60.8015542,
+    "longitude": -137.484666,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 859230299,
+    "name": "Boat Ramp",
+    "latitude": 64.8246812,
+    "longitude": -147.8285738,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "aeroway": "taxiway",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 866204378,
+    "name": "Boat Ramp",
+    "latitude": 55.3577795,
+    "longitude": -131.712395,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 881262327,
+    "name": "Boat Ramp",
+    "latitude": 59.2828021,
+    "longitude": -135.4683486,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 888168072,
+    "name": "Boat Ramp",
+    "latitude": 53.8683037,
+    "longitude": -166.5563694,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 888898841,
+    "name": "Boat Ramp",
+    "latitude": 57.7313879,
+    "longitude": -152.5259329,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 888902081,
+    "name": "Boat Ramp",
+    "latitude": 57.7331559,
+    "longitude": -152.5069403,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 888902082,
+    "name": "Boat Ramp",
+    "latitude": 57.7332011,
+    "longitude": -152.5068212,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 890087769,
+    "name": "Boat Ramp",
+    "latitude": 57.7768273,
+    "longitude": -152.3998336,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 890975992,
+    "name": "Boat Ramp",
+    "latitude": 58.3854184,
+    "longitude": -134.6475974,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 890975993,
+    "name": "Boat Ramp",
+    "latitude": 58.385383,
+    "longitude": -134.6474859,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 890975994,
+    "name": "Boat Ramp",
+    "latitude": 58.3850382,
+    "longitude": -134.6455107,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 891211151,
+    "name": "Boat Ramp",
+    "latitude": 58.3031814,
+    "longitude": -134.4290387,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 891241649,
+    "name": "Boat Ramp",
+    "latitude": 56.808244,
+    "longitude": -132.9669224,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 891255016,
+    "name": "Poor Mans Float",
+    "latitude": 56.8120962,
+    "longitude": -132.9593107,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Poor Mans Float",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 893546760,
+    "name": "Seaplane Ramp",
+    "latitude": 55.357181,
+    "longitude": -131.6998891,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Seaplane Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 893646636,
+    "name": "Ramp (Inactive)",
+    "latitude": 55.3536472,
+    "longitude": -131.6914497,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Ramp (Inactive)",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 893653099,
+    "name": "Bar Harbor",
+    "latitude": 55.3514022,
+    "longitude": -131.6835852,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Bar Harbor",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 893653100,
+    "name": "Bar Harbor",
+    "latitude": 55.3513756,
+    "longitude": -131.6834797,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Bar Harbor",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 918882601,
+    "name": "Boat Ramp",
+    "latitude": 64.8467622,
+    "longitude": -147.4098891,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 926852802,
+    "name": "Boat Ramp",
+    "latitude": 64.8458948,
+    "longitude": -147.705877,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 963705081,
+    "name": "Boat Ramp",
+    "latitude": 60.5361194,
+    "longitude": -150.4617947,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 988490875,
+    "name": "Boat Ramp",
+    "latitude": 60.066442,
+    "longitude": -149.4400414,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 988490877,
+    "name": "Boat Ramp",
+    "latitude": 60.0706981,
+    "longitude": -149.4357467,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 1022967877,
+    "name": "Boat Ramp",
+    "latitude": 53.2118406,
+    "longitude": -131.988072,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1040574277,
+    "name": "Boat Ramp",
+    "latitude": 60.3157714,
+    "longitude": -134.2696509,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1077545643,
+    "name": "Boat Ramp",
+    "latitude": 59.7745994,
+    "longitude": -151.8672361,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "4wd_only": "yes",
+      "fee": "yes",
+      "highway": "path",
+      "leisure": "slipway",
+      "operator": "Anchor River Boat Launch",
+      "surface": "sand"
+    }
+  },
+  {
+    "id": 1091965104,
+    "name": "Boat Ramp",
+    "latitude": 65.8245484,
+    "longitude": -144.060823,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 1092077588,
+    "name": "Boat Ramp",
+    "latitude": 56.5704901,
+    "longitude": -169.6699467,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1093263323,
+    "name": "Boat Ramp",
+    "latitude": 64.0585169,
+    "longitude": -141.7669981,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1095732751,
+    "name": "Boat Ramp",
+    "latitude": 60.7073392,
+    "longitude": -161.7731,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1105593217,
+    "name": "Boat Ramp",
+    "latitude": 61.5328591,
+    "longitude": -149.833704,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1135242834,
+    "name": "Boat Ramp",
+    "latitude": 61.6093964,
+    "longitude": -149.2634822,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1150911683,
+    "name": "Boat Ramp",
+    "latitude": 60.3168855,
+    "longitude": -151.258466,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "fee": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1163992091,
+    "name": "Boat Ramp",
+    "latitude": 60.9225948,
+    "longitude": -135.118163,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1175213820,
+    "name": "Boat Ramp",
+    "latitude": 64.9002686,
+    "longitude": -146.6184998,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "surface": "dirt"
+    }
+  },
+  {
+    "id": 1180547089,
+    "name": "Boat Ramp",
+    "latitude": 55.4884885,
+    "longitude": -131.5987706,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1180992585,
+    "name": "Eagle Rock Boat Launch",
+    "latitude": 60.547786,
+    "longitude": -151.109395,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Eagle Rock Boat Launch",
+      "operator": "AAlaska State Parks"
+    }
+  },
+  {
+    "id": 1181001125,
+    "name": "Jean Lake Boat Launch",
+    "latitude": 60.5012089,
+    "longitude": -150.1658073,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Jean Lake Boat Launch"
+    }
+  },
+  {
+    "id": 1212443488,
+    "name": "Boat Ramp",
+    "latitude": 66.440968,
+    "longitude": -150.6301728,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1230950317,
+    "name": "Boat Ramp",
+    "latitude": 57.6407701,
+    "longitude": -153.0036597,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 1268409750,
+    "name": "Boat Ramp",
+    "latitude": 64.8140531,
+    "longitude": -147.8534312,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "aeroway": "taxiway",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1268826082,
+    "name": "Boat Ramp",
+    "latitude": 64.499542,
+    "longitude": -165.4203927,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1268826085,
+    "name": "Boat Ramp",
+    "latitude": 64.5014256,
+    "longitude": -165.4286323,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1284385581,
+    "name": "Boat Ramp",
+    "latitude": 57.0448515,
+    "longitude": -135.3530119,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1284389339,
+    "name": "Boat Ramp",
+    "latitude": 57.0468844,
+    "longitude": -135.3649937,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1286193174,
+    "name": "Boat Ramp",
+    "latitude": 57.0549639,
+    "longitude": -135.3575181,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1287042905,
+    "name": "Boat Ramp",
+    "latitude": 60.1202426,
+    "longitude": -149.4326939,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1287042906,
+    "name": "Boat Ramp",
+    "latitude": 60.1201865,
+    "longitude": -149.4326933,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1287047737,
+    "name": "Boat Ramp",
+    "latitude": 60.1158833,
+    "longitude": -149.4394219,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1287047738,
+    "name": "Boat Ramp",
+    "latitude": 60.1159402,
+    "longitude": -149.4394218,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1287983477,
+    "name": "Boat Ramp",
+    "latitude": 60.0874996,
+    "longitude": -149.3542133,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1290595711,
+    "name": "Boat Ramp",
+    "latitude": 56.4553425,
+    "longitude": -132.3851704,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1301204212,
+    "name": "Boat Ramp",
+    "latitude": 53.6150648,
+    "longitude": -132.3140828,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1301357215,
+    "name": "Boat Ramp",
+    "latitude": 58.4553867,
+    "longitude": -135.8866899,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1301357216,
+    "name": "Boat Ramp",
+    "latitude": 58.4554267,
+    "longitude": -135.8865819,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1301357217,
+    "name": "Boat Ramp",
+    "latitude": 58.4554663,
+    "longitude": -135.8864761,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1301357218,
+    "name": "Boat Ramp",
+    "latitude": 58.4555682,
+    "longitude": -135.8861332,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1301357219,
+    "name": "Boat Ramp",
+    "latitude": 58.4556228,
+    "longitude": -135.8859635,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1301357220,
+    "name": "Boat Ramp",
+    "latitude": 58.4555041,
+    "longitude": -135.8863061,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1301361891,
+    "name": "Boat Ramp",
+    "latitude": 58.4564418,
+    "longitude": -135.8693738,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1301361892,
+    "name": "Boat Ramp",
+    "latitude": 58.4563623,
+    "longitude": -135.8692827,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1301361893,
+    "name": "Boat Ramp",
+    "latitude": 58.4562956,
+    "longitude": -135.8692065,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1301361894,
+    "name": "Boat Ramp",
+    "latitude": 58.4562557,
+    "longitude": -135.8693816,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1301361895,
+    "name": "Boat Ramp",
+    "latitude": 58.4561878,
+    "longitude": -135.8693035,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1301361896,
+    "name": "Boat Ramp",
+    "latitude": 58.4562245,
+    "longitude": -135.8691252,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1301361897,
+    "name": "Boat Ramp",
+    "latitude": 58.4561231,
+    "longitude": -135.8692257,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1301361898,
+    "name": "Boat Ramp",
+    "latitude": 58.4561763,
+    "longitude": -135.8690703,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1303991787,
+    "name": "Knudsen Cove Boat Ramp",
+    "latitude": 55.4714933,
+    "longitude": -131.7975915,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Knudsen Cove Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1323006199,
+    "name": "Boat Ramp",
+    "latitude": 64.8304922,
+    "longitude": -147.8486789,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 1323049113,
+    "name": "Boat Ramp",
+    "latitude": 64.8394346,
+    "longitude": -147.8182598,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 1323087278,
+    "name": "Boat Ramp",
+    "latitude": 60.3875211,
+    "longitude": -166.1854389,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1323290893,
+    "name": "Boat Ramp",
+    "latitude": 64.8401938,
+    "longitude": -147.8325315,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "customers",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 1323297766,
+    "name": "Boat Ramp",
+    "latitude": 64.8419784,
+    "longitude": -147.8119282,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 1341117296,
+    "name": "Boat Ramp",
+    "latitude": 54.3317876,
+    "longitude": -130.2772473,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1341208505,
+    "name": "Boat Ramp",
+    "latitude": 54.3404285,
+    "longitude": -130.4346831,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1341477413,
+    "name": "Boat Ramp",
+    "latitude": 54.2353626,
+    "longitude": -130.2991607,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1341682037,
+    "name": "Boat Ramp",
+    "latitude": 53.4244617,
+    "longitude": -129.2472172,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1365657653,
+    "name": "Boat Ramp",
+    "latitude": 54.1341233,
+    "longitude": -165.7735536,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1365657654,
+    "name": "Boat Ramp",
+    "latitude": 54.1341486,
+    "longitude": -165.7734827,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1365657655,
+    "name": "Boat Ramp",
+    "latitude": 54.1352396,
+    "longitude": -165.7662055,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1365657672,
+    "name": "Boat Ramp",
+    "latitude": 54.1333537,
+    "longitude": -165.776186,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1365657673,
+    "name": "Boat Ramp",
+    "latitude": 54.1333457,
+    "longitude": -165.7759492,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1365662762,
+    "name": "Boat Ramp",
+    "latitude": 54.133449,
+    "longitude": -165.7764608,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1393419263,
+    "name": "Port Edward Boat Launch",
+    "latitude": 54.217787,
+    "longitude": -130.2908969,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Port Edward Boat Launch",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1394904860,
+    "name": "Boat Ramp",
+    "latitude": 54.3361726,
+    "longitude": -130.3080074,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1414002347,
+    "name": "Boat Ramp",
+    "latitude": 54.0227824,
+    "longitude": -129.8480307,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1414003283,
+    "name": "Boat Ramp",
+    "latitude": 54.0294693,
+    "longitude": -129.8442649,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1421834247,
+    "name": "Boat Ramp",
+    "latitude": 60.1341759,
+    "longitude": -133.80818,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1431074060,
+    "name": "Boat Ramp",
+    "latitude": 54.7880783,
+    "longitude": -130.5515282,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1445461415,
+    "name": "Boat Ramp",
+    "latitude": 60.8110948,
+    "longitude": -137.4837706,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1452929086,
+    "name": "Boat Ramp",
+    "latitude": 66.8972173,
+    "longitude": -162.602796,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1452929106,
+    "name": "Boat Ramp",
+    "latitude": 66.9023105,
+    "longitude": -162.5882531,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "incline": "down",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1452929114,
+    "name": "Boat Ramp",
+    "latitude": 66.900923,
+    "longitude": -162.5929486,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "incline": "down",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1452929116,
+    "name": "Boat Ramp",
+    "latitude": 66.8998006,
+    "longitude": -162.5967797,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1456453230,
+    "name": "Boat Ramp",
+    "latitude": 64.8381203,
+    "longitude": -147.8002365,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 1457668875,
+    "name": "Boat Ramp",
+    "latitude": 61.625215,
+    "longitude": -149.4188629,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1471909141,
+    "name": "Boat Ramp",
+    "latitude": 54.2176836,
+    "longitude": -130.2909015,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1486442500,
+    "name": "Boat Ramp",
+    "latitude": 54.2347141,
+    "longitude": -130.3348879,
+    "state": "Alaska",
+    "stateAbbr": "AK",
+    "tags": {
+      "boat": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  }
+]

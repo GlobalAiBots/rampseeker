@@ -1,0 +1,5812 @@
+[
+  {
+    "id": 178215620,
+    "name": "Great Island Boat Launch",
+    "latitude": 41.2873383,
+    "longitude": -72.3241742,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Great Island Boat Launch",
+      "tidal": "yes"
+    }
+  },
+  {
+    "id": 178300709,
+    "name": "Pine Acres Lake Boat Launch",
+    "latitude": 41.7766945,
+    "longitude": -72.081374,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "image": "https://portal.ct.gov/-/media/deep/boat_launch/pine_acres/pineacrespdf.pdf?rev=7376d40ed26b42bdabbb7c485fe09b54&hash=70BA6E333CEA2DF800B10430CA4536C1",
+      "leisure": "slipway",
+      "name": "Pine Acres Lake Boat Launch",
+      "surface": "asphalt",
+      "website": "https://portal.ct.gov/deep/boating/boat-launches/pine-acres-lake-boat-launch"
+    }
+  },
+  {
+    "id": 178470524,
+    "name": "Lower Moodus Reservoir Boat Launch",
+    "latitude": 41.5158466,
+    "longitude": -72.4231975,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Lower Moodus Reservoir Boat Launch"
+    }
+  },
+  {
+    "id": 178503998,
+    "name": "Lake Hayward Boat Launch",
+    "latitude": 41.5301375,
+    "longitude": -72.3333238,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Lake Hayward Boat Launch",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 243375390,
+    "name": "Stoddard Hill Boat Launch",
+    "latitude": 41.4595432,
+    "longitude": -72.0668387,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Stoddard Hill Boat Launch",
+      "note": "Car Top/Carry-In only"
+    }
+  },
+  {
+    "id": 261451125,
+    "name": "Boat Ramp",
+    "latitude": 40.9007507,
+    "longitude": -73.5539157,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 331868391,
+    "name": "Lake Kenosia Boat Launch",
+    "latitude": 41.3829226,
+    "longitude": -73.4985109,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lake Kenosia Boat Launch",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 335743560,
+    "name": "Boat Ramp",
+    "latitude": 41.4013986,
+    "longitude": -73.5833251,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 359272789,
+    "name": "Quinnipiac River Public Access",
+    "latitude": 41.5629956,
+    "longitude": -72.8797177,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "ele": "39",
+      "gnis:feature_id": "212825",
+      "leisure": "slipway",
+      "name": "Quinnipiac River Public Access",
+      "wikidata": "Q31820990"
+    }
+  },
+  {
+    "id": 546545884,
+    "name": "Boat Ramp",
+    "latitude": 41.1452508,
+    "longitude": -73.6797259,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 546913130,
+    "name": "Boat Ramp",
+    "latitude": 41.5472375,
+    "longitude": -73.4663798,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "no",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "surface": "dirt"
+    }
+  },
+  {
+    "id": 547488220,
+    "name": "Boat Ramp",
+    "latitude": 41.8051824,
+    "longitude": -72.8239855,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "description": "Canoe Launch",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 677649841,
+    "name": "Boat Ramp",
+    "latitude": 41.0794496,
+    "longitude": -71.9113129,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 685010851,
+    "name": "Boat Ramp",
+    "latitude": 40.9209418,
+    "longitude": -73.1502831,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 685179380,
+    "name": "Boat Ramp",
+    "latitude": 40.9205438,
+    "longitude": -73.1656969,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 727421380,
+    "name": "Boat Ramp",
+    "latitude": 41.7602798,
+    "longitude": -72.6611261,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "permit",
+      "charge": "20 USD",
+      "fee": "yes",
+      "leisure": "slipway",
+      "payment:cash": "yes",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 736760147,
+    "name": "Boat Ramp",
+    "latitude": 41.0578834,
+    "longitude": -71.9072157,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1254285396,
+    "name": "Boat Ramp",
+    "latitude": 41.7644528,
+    "longitude": -72.6664773,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1388668464,
+    "name": "Boat Ramp",
+    "latitude": 41.8784935,
+    "longitude": -73.0465198,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1577137472,
+    "name": "Crew Boathouse",
+    "latitude": 41.8696478,
+    "longitude": -72.7971328,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Crew Boathouse"
+    }
+  },
+  {
+    "id": 1607817174,
+    "name": "Quinebaug Pond Boat Launch",
+    "latitude": 41.7801593,
+    "longitude": -71.8875043,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "image": "https://portal.ct.gov/-/media/deep/boat_launch/quinnebaug_pond/quinebaugpdf.pdf?rev=8eb71003eaef48d6800ac1cac4f418ec&hash=D43B3448B0DFF736D50CCB2A35BD6DA6",
+      "leisure": "slipway",
+      "motorboat": "no",
+      "name": "Quinebaug Pond Boat Launch",
+      "note": "Car Top/Carry-In only",
+      "surface": "dirt",
+      "website": "https://portal.ct.gov/deep/boating/boat-launches/quinebaug-pond-boat-launch"
+    }
+  },
+  {
+    "id": 1639263978,
+    "name": "Boat Ramp",
+    "latitude": 41.9534945,
+    "longitude": -71.8997829,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1642198759,
+    "name": "State Boat Launch",
+    "latitude": 41.76533,
+    "longitude": -72.3095398,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "State Boat Launch"
+    }
+  },
+  {
+    "id": 1887230428,
+    "name": "Montville Boat Launch",
+    "latitude": 41.4323892,
+    "longitude": -72.0982571,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Montville Boat Launch"
+    }
+  },
+  {
+    "id": 2005497838,
+    "name": "King'S Island Boat Launch",
+    "latitude": 41.9633941,
+    "longitude": -72.6074405,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "King's Island Boat Launch"
+    }
+  },
+  {
+    "id": 2191588881,
+    "name": "Boat Ramp",
+    "latitude": 41.3866425,
+    "longitude": -72.0972653,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2214968384,
+    "name": "Boat Ramp",
+    "latitude": 41.849033,
+    "longitude": -71.921365,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2286317338,
+    "name": "Boat Ramp",
+    "latitude": 41.4306168,
+    "longitude": -72.0938543,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2493339724,
+    "name": "Boat Ramp",
+    "latitude": 41.0364561,
+    "longitude": -71.946568,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2494561948,
+    "name": "Boat Ramp",
+    "latitude": 40.9046983,
+    "longitude": -72.743912,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2494561949,
+    "name": "Boat Ramp",
+    "latitude": 40.9140866,
+    "longitude": -72.6874024,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2589957633,
+    "name": "Boat Ramp",
+    "latitude": 41.6766683,
+    "longitude": -72.6928343,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2611782777,
+    "name": "Lake Zoar Boat Launch",
+    "latitude": 41.4277157,
+    "longitude": -73.2361228,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Lake Zoar Boat Launch",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 2619675632,
+    "name": "Boat Ramp",
+    "latitude": 41.0843785,
+    "longitude": -72.4012063,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2622960843,
+    "name": "Boat Ramp",
+    "latitude": 41.0761413,
+    "longitude": -72.401839,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "customers",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2633481062,
+    "name": "Wading River Boat Ramp",
+    "latitude": 40.9643758,
+    "longitude": -72.8631628,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Wading River Boat Ramp",
+      "source": "http://www.longisland.com/business/wading-river-boat-ramp.html"
+    }
+  },
+  {
+    "id": 2684923529,
+    "name": "Boat Ramp",
+    "latitude": 41.0865524,
+    "longitude": -72.3527327,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2685905780,
+    "name": "Boat Ramp",
+    "latitude": 41.0756793,
+    "longitude": -72.4049232,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "man_made": "crane",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2685936001,
+    "name": "Boat Ramp",
+    "latitude": 41.1528803,
+    "longitude": -72.2438674,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2832865966,
+    "name": "Town Of Brookhaven Boat Ramp",
+    "latitude": 40.9460052,
+    "longitude": -73.072572,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Town of Brookhaven Boat Ramp"
+    }
+  },
+  {
+    "id": 2846362851,
+    "name": "East River Boat Launch",
+    "latitude": 41.2695101,
+    "longitude": -72.656784,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Guilford",
+      "addr:housenumber": "168",
+      "addr:state": "CT",
+      "addr:street": "Circle Beach Road",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "East River Boat Launch",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 2912011678,
+    "name": "Boat Ramp",
+    "latitude": 41.0447919,
+    "longitude": -73.5039146,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2920348074,
+    "name": "Lake Lillinonah (Pond Brook) Boat Launch",
+    "latitude": 41.4597946,
+    "longitude": -73.3247802,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Lake Lillinonah (Pond Brook) Boat Launch",
+      "source": "http://ct.gov/deep/cwp/view.asp?a=2686&q=384036&deepNav_GID=1620"
+    }
+  },
+  {
+    "id": 2925551792,
+    "name": "Boat Ramp",
+    "latitude": 41.5521894,
+    "longitude": -72.829455,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2925551793,
+    "name": "Boat Ramp",
+    "latitude": 41.5523047,
+    "longitude": -72.8293401,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2984040134,
+    "name": "Boat Ramp",
+    "latitude": 41.2522019,
+    "longitude": -72.9031488,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3025523300,
+    "name": "Boat Ramp",
+    "latitude": 41.0565938,
+    "longitude": -71.9072468,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 3115928434,
+    "name": "Baldwin Bridge Boat Launch",
+    "latitude": 41.3180526,
+    "longitude": -72.3511809,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "addr:city": "Old Saybrook",
+      "addr:housenumber": "220",
+      "addr:postcode": "06475",
+      "addr:state": "CT",
+      "addr:street": "Ferry Road",
+      "leisure": "slipway",
+      "name": "Baldwin Bridge Boat Launch"
+    }
+  },
+  {
+    "id": 3231492832,
+    "name": "Boat Ramp",
+    "latitude": 40.9083512,
+    "longitude": -73.3578558,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3267177077,
+    "name": "Boat Ramp",
+    "latitude": 40.9639475,
+    "longitude": -73.0271724,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3286605361,
+    "name": "Boat Ramp",
+    "latitude": 40.9050881,
+    "longitude": -73.2312437,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3326022068,
+    "name": "Boat Ramp",
+    "latitude": 40.9184819,
+    "longitude": -73.1771989,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3358936321,
+    "name": "Boat Ramp",
+    "latitude": 41.0880761,
+    "longitude": -73.3972953,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3382902062,
+    "name": "Boat Ramp",
+    "latitude": 41.2066184,
+    "longitude": -72.1073853,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3394707142,
+    "name": "Boat Ramp",
+    "latitude": 41.2220938,
+    "longitude": -73.1069621,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "note": "no trailers"
+    }
+  },
+  {
+    "id": 3398109821,
+    "name": "Boat Ramp",
+    "latitude": 41.6474114,
+    "longitude": -72.8426412,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3495508352,
+    "name": "Boat Ramp",
+    "latitude": 41.0101318,
+    "longitude": -72.2473456,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3542772139,
+    "name": "Boat Ramp",
+    "latitude": 40.9006701,
+    "longitude": -72.7735187,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3545238276,
+    "name": "Boat Ramp",
+    "latitude": 41.5553757,
+    "longitude": -73.4065735,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3603665432,
+    "name": "Great Pond DEC Boat Ramp",
+    "latitude": 41.0667325,
+    "longitude": -72.4555246,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Great Pond DEC Boat Ramp",
+      "note": "Small boats/trailers only!"
+    }
+  },
+  {
+    "id": 3661076209,
+    "name": "Boat Ramp",
+    "latitude": 40.9611605,
+    "longitude": -73.1171765,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3661094803,
+    "name": "Boat Ramp",
+    "latitude": 40.9653739,
+    "longitude": -73.1149496,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3913770523,
+    "name": "Boat Ramp",
+    "latitude": 40.907834,
+    "longitude": -72.7316486,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3938867197,
+    "name": "Boat Ramp",
+    "latitude": 41.37442,
+    "longitude": -72.6185717,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4018073885,
+    "name": "Boat Ramp",
+    "latitude": 40.9148127,
+    "longitude": -72.701076,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4152587393,
+    "name": "Boat Ramp",
+    "latitude": 41.0317561,
+    "longitude": -73.5961997,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4152587397,
+    "name": "Boat Ramp",
+    "latitude": 41.0363599,
+    "longitude": -73.5935979,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4394855029,
+    "name": "Boat Ramp",
+    "latitude": 41.7002378,
+    "longitude": -72.1819599,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "motor_vehicle": "no"
+    }
+  },
+  {
+    "id": 4395611917,
+    "name": "Boat Ramp",
+    "latitude": 41.5231447,
+    "longitude": -72.0786417,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4560645047,
+    "name": "Boat Ramp",
+    "latitude": 41.0001384,
+    "longitude": -72.1818475,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4657187813,
+    "name": "Milford Municipal Boat Launch",
+    "latitude": 41.2201422,
+    "longitude": -73.0537184,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Milford Municipal Boat Launch",
+      "seamark:name": "Milford Municipal Boat Launch",
+      "seamark:type": "landmark"
+    }
+  },
+  {
+    "id": 5096854269,
+    "name": "Boat Ramp",
+    "latitude": 41.7519527,
+    "longitude": -72.6543455,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "customers",
+      "charge": "20 USD",
+      "description": "Boat Launch",
+      "fee": "yes",
+      "leisure": "slipway",
+      "opening_hours": "sunrise-sunset",
+      "payment:cash": "yes",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 5106553964,
+    "name": "Boat Ramp",
+    "latitude": 41.8195762,
+    "longitude": -72.4227748,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5106553967,
+    "name": "Boat Ramp",
+    "latitude": 41.8198288,
+    "longitude": -72.4227707,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5106579666,
+    "name": "Boat Ramp",
+    "latitude": 41.7799427,
+    "longitude": -72.5667479,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5187366564,
+    "name": "Boat Ramp",
+    "latitude": 41.5078376,
+    "longitude": -73.597048,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 5292577880,
+    "name": "Boat Ramp",
+    "latitude": 41.3814869,
+    "longitude": -73.1759398,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "customers",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5309202483,
+    "name": "Barn Island Boat Ramp",
+    "latitude": 41.3374368,
+    "longitude": -71.8755626,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Barn Island Boat Ramp",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 5339897441,
+    "name": "Kayak Landing",
+    "latitude": 41.3509372,
+    "longitude": -71.9354567,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kayak Landing"
+    }
+  },
+  {
+    "id": 5348319126,
+    "name": "Canoe/Kayak Launch Area",
+    "latitude": 41.6983472,
+    "longitude": -71.9628822,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "addr:city": "Canterbury",
+      "addr:housenumber": "50",
+      "addr:postcode": "06331",
+      "addr:state": "CT",
+      "addr:street": "Lovell Lane",
+      "leisure": "slipway",
+      "name": "Canoe/Kayak launch area",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 5368830403,
+    "name": "Boat Ramp",
+    "latitude": 41.5166689,
+    "longitude": -71.9781233,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5567433499,
+    "name": "Deep River Town Dock",
+    "latitude": 41.3953673,
+    "longitude": -72.4263725,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Deep River",
+      "addr:state": "CT",
+      "addr:street": "River Street",
+      "description": "Boat launch, fishing pier, parking lot",
+      "leisure": "slipway",
+      "name": "Deep River Town Dock"
+    }
+  },
+  {
+    "id": 5896898670,
+    "name": "Quonnipaug Lake Boat Launch",
+    "latitude": 41.3985986,
+    "longitude": -72.6968491,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "alt_name": "Lake Quonnipaug Boat Launch",
+      "leisure": "slipway",
+      "name": "Quonnipaug Lake Boat Launch",
+      "surface": "asphalt",
+      "website": "https://portal.ct.gov/deep/boating/boat-launches/quonnipaug-lake-boat-launch"
+    }
+  },
+  {
+    "id": 6176123977,
+    "name": "Beseck Lake Boat Launch",
+    "latitude": 41.5167861,
+    "longitude": -72.7291102,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Beseck Lake Boat Launch"
+    }
+  },
+  {
+    "id": 6182009940,
+    "name": "Boat Ramp",
+    "latitude": 41.1063744,
+    "longitude": -73.3540369,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6182029845,
+    "name": "Boat Ramp",
+    "latitude": 41.1052859,
+    "longitude": -73.3569085,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6182029846,
+    "name": "Boat Ramp",
+    "latitude": 41.1047981,
+    "longitude": -73.3569705,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6182686688,
+    "name": "Boat Ramp",
+    "latitude": 41.1083603,
+    "longitude": -73.3654983,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6188926755,
+    "name": "Boat Ramp",
+    "latitude": 41.1792486,
+    "longitude": -73.1244649,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "seamark:type": "small_craft_facility"
+    }
+  },
+  {
+    "id": 6188968808,
+    "name": "Boat Launch",
+    "latitude": 41.1903387,
+    "longitude": -73.121413,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Launch"
+    }
+  },
+  {
+    "id": 6193953932,
+    "name": "Boat Ramp",
+    "latitude": 41.0986772,
+    "longitude": -73.3674881,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6262914946,
+    "name": "Haddam Meadows Boat Launch",
+    "latitude": 41.4814453,
+    "longitude": -72.5065058,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "addr:city": "Haddam",
+      "addr:housenumber": "2",
+      "addr:state": "CT",
+      "addr:street": "Island Dock Road",
+      "leisure": "slipway",
+      "name": "Haddam Meadows Boat Launch",
+      "operator": "State of Connecticut",
+      "operator:type": "government",
+      "operator:wikidata": "Q779",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 6273409694,
+    "name": "Essex Town Dock",
+    "latitude": 41.3508151,
+    "longitude": -72.3847363,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Essex Town Dock"
+    }
+  },
+  {
+    "id": 6273551727,
+    "name": "Boat Ramp",
+    "latitude": 41.2652668,
+    "longitude": -72.7519699,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6410630580,
+    "name": "Boat Ramp",
+    "latitude": 41.9896321,
+    "longitude": -73.0230082,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6421572084,
+    "name": "Boat Ramp",
+    "latitude": 41.3113451,
+    "longitude": -73.2478949,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6476675727,
+    "name": "Saugatuck River Boat Launch",
+    "latitude": 41.1206708,
+    "longitude": -73.3677725,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Saugatuck River Boat Launch"
+    }
+  },
+  {
+    "id": 6507384217,
+    "name": "Boat Ramp",
+    "latitude": 41.8126802,
+    "longitude": -72.9222002,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6549446274,
+    "name": "Boat Ramp",
+    "latitude": 41.8477915,
+    "longitude": -72.8072811,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6558952428,
+    "name": "Boat Ramp",
+    "latitude": 41.584677,
+    "longitude": -72.6455904,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6702458155,
+    "name": "Boat Ramp",
+    "latitude": 41.6667542,
+    "longitude": -72.6296845,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6762283049,
+    "name": "Boat Ramp",
+    "latitude": 41.0148826,
+    "longitude": -73.6253226,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6876069183,
+    "name": "Boat Ramp",
+    "latitude": 41.1729613,
+    "longitude": -73.16146,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6938023564,
+    "name": "Boat Ramp",
+    "latitude": 41.0465957,
+    "longitude": -73.4828261,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6967472281,
+    "name": "Boat Ramp",
+    "latitude": 41.2696118,
+    "longitude": -72.6772908,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6991022297,
+    "name": "Boat Ramp",
+    "latitude": 40.9148742,
+    "longitude": -73.4511938,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6992673945,
+    "name": "Boat Ramp",
+    "latitude": 40.9204337,
+    "longitude": -73.4426763,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6994042626,
+    "name": "Boat Ramp",
+    "latitude": 41.777881,
+    "longitude": -72.4842019,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6994042677,
+    "name": "Boat Ramp",
+    "latitude": 41.7730815,
+    "longitude": -72.4754192,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7013031926,
+    "name": "Boat Ramp",
+    "latitude": 41.9827274,
+    "longitude": -72.4863009,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7022926201,
+    "name": "Great Falls Reservoir Access",
+    "latitude": 41.963846,
+    "longitude": -73.371831,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Great Falls Reservoir Access"
+    }
+  },
+  {
+    "id": 7118461069,
+    "name": "Boat Ramp",
+    "latitude": 41.4494074,
+    "longitude": -72.461223,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7170431072,
+    "name": "Boat Ramp",
+    "latitude": 41.325609,
+    "longitude": -72.1863741,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7170441242,
+    "name": "Boat Ramp",
+    "latitude": 41.3267082,
+    "longitude": -72.187115,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7346198982,
+    "name": "Boat Ramp",
+    "latitude": 41.3191362,
+    "longitude": -72.3506596,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7394371879,
+    "name": "Boat Ramp",
+    "latitude": 41.3201375,
+    "longitude": -72.3504585,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7394479161,
+    "name": "Boat Ramp",
+    "latitude": 41.3211578,
+    "longitude": -72.3546368,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7394499760,
+    "name": "Boat Ramp",
+    "latitude": 41.3214201,
+    "longitude": -72.3565487,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7432280816,
+    "name": "Boat Ramp",
+    "latitude": 41.0127237,
+    "longitude": -73.5899575,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7554595741,
+    "name": "Canoe Launch Point",
+    "latitude": 41.7974449,
+    "longitude": -72.3008052,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe Launch Point"
+    }
+  },
+  {
+    "id": 7683867409,
+    "name": "Boat Ramp",
+    "latitude": 41.6651519,
+    "longitude": -72.1230555,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7683867423,
+    "name": "Boat Ramp",
+    "latitude": 41.66432,
+    "longitude": -72.1222541,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7696182143,
+    "name": "Rudd Pond",
+    "latitude": 41.9804213,
+    "longitude": -73.5051495,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Rudd Pond",
+      "note": "permit required",
+      "website": "https://www.dec.ny.gov/outdoor/23899.html"
+    }
+  },
+  {
+    "id": 7779757881,
+    "name": "Boat Ramp",
+    "latitude": 41.2511169,
+    "longitude": -73.3518361,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "permit",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7781415819,
+    "name": "Sherwood Mill Pond Kayak Launch",
+    "latitude": 41.115574,
+    "longitude": -73.3459474,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Sherwood Mill Pond Kayak Launch",
+      "surface": "sand"
+    }
+  },
+  {
+    "id": 7818705836,
+    "name": "Kayak/Canoe Launch",
+    "latitude": 41.7551288,
+    "longitude": -72.6533382,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Kayak/Canoe Launch",
+      "opening_hours": "sunrise-sunset",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 7832991867,
+    "name": "Wintergreen Lake Boat Launch",
+    "latitude": 41.3599291,
+    "longitude": -72.9659013,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Wintergreen Lake Boat Launch",
+      "operator": "State of Connecticut",
+      "operator:type": "government",
+      "operator:wikidata": "Q779",
+      "website": "https://portal.ct.gov/deep/boating/boat-launches/wintergreen-lake-boat-launch"
+    }
+  },
+  {
+    "id": 7899062961,
+    "name": "Boat Ramp",
+    "latitude": 41.7802383,
+    "longitude": -72.5670359,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8014805845,
+    "name": "Boat Ramp",
+    "latitude": 41.8743466,
+    "longitude": -73.0949877,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "description": "Burr Pond Boat Launch",
+      "leisure": "slipway",
+      "operator": "State of Connecticut",
+      "operator:type": "government",
+      "operator:wikidata": "Q779",
+      "website": "https://portal.ct.gov/DEEP/Boating/Boat-Launches/Burr-Pond-Boat-Launch"
+    }
+  },
+  {
+    "id": 8025898778,
+    "name": "Boat Ramp",
+    "latitude": 41.798168,
+    "longitude": -72.4286529,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8152276425,
+    "name": "Gorton Pond Boat Launch",
+    "latitude": 41.3384564,
+    "longitude": -72.2105725,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Gorton Pond Boat Launch",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 8152284535,
+    "name": "Powers Lake Boat Launch",
+    "latitude": 41.3932069,
+    "longitude": -72.2567985,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Powers Lake Boat Launch",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 8153155819,
+    "name": "Pattagansett Lake Boat Launch",
+    "latitude": 41.3673684,
+    "longitude": -72.2309311,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Pattagansett Lake Boat Launch",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 8153201997,
+    "name": "Niantic River Boat Launch",
+    "latitude": 41.3265553,
+    "longitude": -72.1755589,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "alt_name": "Mago Point Boat Launch",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Niantic River Boat Launch",
+      "surface": "concrete",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 8192698799,
+    "name": "Boat Ramp",
+    "latitude": 41.2974136,
+    "longitude": -72.8376959,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8228103263,
+    "name": "Boat Ramp",
+    "latitude": 41.2718318,
+    "longitude": -72.6635734,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8243665567,
+    "name": "Boat Ramp",
+    "latitude": 41.8026808,
+    "longitude": -71.8961634,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8274742931,
+    "name": "Boat Ramp",
+    "latitude": 41.650991,
+    "longitude": -73.0430196,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8385140118,
+    "name": "Rogers Lake Boat Launch",
+    "latitude": 41.3619346,
+    "longitude": -72.295261,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Rogers Lake Boat Launch"
+    }
+  },
+  {
+    "id": 8403129784,
+    "name": "Boat Ramp",
+    "latitude": 41.2735904,
+    "longitude": -73.1391354,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8418157339,
+    "name": "Boat Ramp",
+    "latitude": 41.5102956,
+    "longitude": -73.3156903,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8418158462,
+    "name": "Boat Ramp",
+    "latitude": 41.4502819,
+    "longitude": -73.2960154,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "permissive",
+      "canoe": "permissive",
+      "leisure": "slipway",
+      "opening_hours": "08:00-20:00",
+      "operator": "FirstLight Power"
+    }
+  },
+  {
+    "id": 8508875732,
+    "name": "Boat Ramp",
+    "latitude": 41.3623623,
+    "longitude": -72.3061675,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8660187046,
+    "name": "Bayberry Lane Boat Launch",
+    "latitude": 41.3205131,
+    "longitude": -72.0582314,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "lanes": "2",
+      "leisure": "slipway",
+      "name": "Bayberry Lane Boat Launch",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 8691848102,
+    "name": "Hadlyme Ferry Boat Launch",
+    "latitude": 41.4205147,
+    "longitude": -72.4285187,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Hadlyme Ferry Boat Launch",
+      "note": "Car Top/Carry-In boats only",
+      "surface": "gravel",
+      "website": "https://portal.ct.gov/DEEP/Boating/Boat-Launches/Hadlyme-Ferry-Boat-Launch"
+    }
+  },
+  {
+    "id": 8741060644,
+    "name": "Boat Ramp",
+    "latitude": 41.6586553,
+    "longitude": -73.4921594,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8837371299,
+    "name": "Beach Pond Boat Launch",
+    "latitude": 41.5837142,
+    "longitude": -71.8056107,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Beach Pond Boat Launch",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 8846431604,
+    "name": "Wyassup Lake Boat Launch",
+    "latitude": 41.4890259,
+    "longitude": -71.8767099,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Wyassup Lake Boat Launch",
+      "surface": "concrete:plates",
+      "website": "https://portal.ct.gov/deep/boating/boat-launches/wyassup-lake-boat-launch"
+    }
+  },
+  {
+    "id": 8864170975,
+    "name": "Boat Ramp",
+    "latitude": 41.3388148,
+    "longitude": -73.1194058,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8896194434,
+    "name": "Boat Ramp",
+    "latitude": 41.5563213,
+    "longitude": -72.5618069,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8929770472,
+    "name": "Avery Pond Boat Launch",
+    "latitude": 41.4956307,
+    "longitude": -71.9796871,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Avery Pond Boat Launch",
+      "source": "Local resident knowledge"
+    }
+  },
+  {
+    "id": 8988197431,
+    "name": "Boat Ramp",
+    "latitude": 41.5626767,
+    "longitude": -72.6231138,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8988197433,
+    "name": "Boat Ramp",
+    "latitude": 41.5622151,
+    "longitude": -72.6284999,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8988197434,
+    "name": "Boat Ramp",
+    "latitude": 41.5619808,
+    "longitude": -72.6294343,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9033481438,
+    "name": "Boat Ramp",
+    "latitude": 41.5056076,
+    "longitude": -72.4846425,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9054533383,
+    "name": "Boat Ramp",
+    "latitude": 41.5251547,
+    "longitude": -72.2227567,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9072504031,
+    "name": "Boat Ramp",
+    "latitude": 41.6681753,
+    "longitude": -72.1493188,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9082594356,
+    "name": "Boat Ramp",
+    "latitude": 41.6080558,
+    "longitude": -71.9495444,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9083113144,
+    "name": "Boat Ramp",
+    "latitude": 41.6499707,
+    "longitude": -71.9703131,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9177296463,
+    "name": "Boat Ramp",
+    "latitude": 41.4058034,
+    "longitude": -72.5012102,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "description": "Cedar Lake Boat Launch",
+      "leisure": "slipway",
+      "operator": "State of Connecticut",
+      "operator:type": "government",
+      "operator:wikidata": "Q779",
+      "website": "https://portal.ct.gov/DEEP/Boating/Boat-Launches/Cedar-Lake-Boat-Launch"
+    }
+  },
+  {
+    "id": 9183874189,
+    "name": "Boat Ramp",
+    "latitude": 41.5723523,
+    "longitude": -73.4918294,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 9183874203,
+    "name": "Boat Ramp",
+    "latitude": 41.5707645,
+    "longitude": -73.4919034,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9198118097,
+    "name": "Boat Ramp",
+    "latitude": 40.9938411,
+    "longitude": -72.5381317,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9206315849,
+    "name": "Boat Ramp",
+    "latitude": 41.7745667,
+    "longitude": -72.6654873,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "customers",
+      "charge": "20 USD",
+      "description": "Boat Launch",
+      "fee": "yes",
+      "leisure": "slipway",
+      "lit": "yes",
+      "noexit": "yes",
+      "payment:cash": "yes",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 9206315850,
+    "name": "Boat Ramp",
+    "latitude": 41.7745195,
+    "longitude": -72.665624,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "customers",
+      "charge": "20 USD",
+      "description": "Boat Launch",
+      "fee": "yes",
+      "leisure": "slipway",
+      "lit": "yes",
+      "noexit": "yes",
+      "payment:cash": "yes",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 9220081951,
+    "name": "Higganum Reservoir Boat Launch",
+    "latitude": 41.4832596,
+    "longitude": -72.5600242,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Higganum Reservoir Boat Launch"
+    }
+  },
+  {
+    "id": 9286503315,
+    "name": "Bigelow Pond Boat Launch",
+    "latitude": 41.9949631,
+    "longitude": -72.126875,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Bigelow Pond Boat Launch"
+    }
+  },
+  {
+    "id": 9373150495,
+    "name": "Boat Ramp",
+    "latitude": 41.3585791,
+    "longitude": -71.9650201,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9374546060,
+    "name": "Boat Ramp",
+    "latitude": 41.3613437,
+    "longitude": -71.9662521,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9377898967,
+    "name": "Boat Ramp",
+    "latitude": 41.3233549,
+    "longitude": -73.0703979,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9409150916,
+    "name": "Boat Ramp",
+    "latitude": 41.71669,
+    "longitude": -73.2178513,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9527233123,
+    "name": "Dooley Pond Boat Launch",
+    "latitude": 41.5129378,
+    "longitude": -72.6666349,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Dooley Pond Boat Launch",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 9547856136,
+    "name": "Boat Ramp",
+    "latitude": 40.9499844,
+    "longitude": -72.2393229,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "boat": "kayak",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9708315098,
+    "name": "Boat Ramp",
+    "latitude": 41.6881483,
+    "longitude": -73.2230984,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9708345148,
+    "name": "Lake Waramaug Boat Ramp (Town Of Washington)",
+    "latitude": 41.6829916,
+    "longitude": -73.352533,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "Lake Waramaug Boat Ramp (Town of Washington)",
+      "website": "https://www.washingtonct.org/parks-and-recreation-commission/files/boat-ramp-hours-2025"
+    }
+  },
+  {
+    "id": 9758620471,
+    "name": "Boat Ramp",
+    "latitude": 41.5997792,
+    "longitude": -72.6195658,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9776679749,
+    "name": "Boat Ramp",
+    "latitude": 41.2570558,
+    "longitude": -72.0297927,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9791380569,
+    "name": "Thames River Boat Launch (New London)",
+    "latitude": 41.3635586,
+    "longitude": -72.0907416,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Thames River Boat Launch (New London)",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 9864801915,
+    "name": "Boat Ramp",
+    "latitude": 41.2943309,
+    "longitude": -72.4944619,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9870411257,
+    "name": "Boat Ramp",
+    "latitude": 41.6937391,
+    "longitude": -73.2313342,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Morris",
+      "addr:housenumber": "16",
+      "addr:postcode": "06763",
+      "addr:state": "CT",
+      "addr:street": "Palmer Road",
+      "description": "Bantam Lake Boat Launch",
+      "fee": "no",
+      "leisure": "slipway",
+      "operator": "Department of Energy and Environmental Protection"
+    }
+  },
+  {
+    "id": 9870844019,
+    "name": "Boat Ramp",
+    "latitude": 41.8126658,
+    "longitude": -73.2359753,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "description": "Dog Pond Boat Launch",
+      "leisure": "slipway",
+      "operator": "State of Connecticut",
+      "operator:type": "government",
+      "operator:wikidata": "Q779",
+      "website": "https://portal.ct.gov/DEEP/Boating/Boat-Launches/Dog-Pond-Boat-Launch"
+    }
+  },
+  {
+    "id": 9915388393,
+    "name": "Messerschmidt Pond Boat Launch",
+    "latitude": 41.3404127,
+    "longitude": -72.4929113,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Messerschmidt Pond Boat Launch",
+      "note": "Car Top/Carry-In boats only",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 9918251544,
+    "name": "Mono Pond Boat Launch",
+    "latitude": 41.6789861,
+    "longitude": -72.3107428,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Mono Pond Boat Launch",
+      "website": "https://portal.ct.gov/deep/boating/boat-launches/mono-pond-boat-launch"
+    }
+  },
+  {
+    "id": 9924874530,
+    "name": "Boat Ramp",
+    "latitude": 41.525417,
+    "longitude": -73.400305,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9930344197,
+    "name": "Boat Ramp",
+    "latitude": 41.3679296,
+    "longitude": -72.1949428,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9947901956,
+    "name": "Boat Ramp",
+    "latitude": 41.4825652,
+    "longitude": -73.4353732,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9948598960,
+    "name": "Boat Ramp",
+    "latitude": 41.429674,
+    "longitude": -73.0698248,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9950182502,
+    "name": "Boat Ramp",
+    "latitude": 41.471394,
+    "longitude": -73.3325171,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9952483333,
+    "name": "Boat Ramp",
+    "latitude": 41.482888,
+    "longitude": -73.4352526,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9952483340,
+    "name": "Boat Ramp",
+    "latitude": 41.4833015,
+    "longitude": -73.4353157,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9959945762,
+    "name": "Four Mile River Boat Launch",
+    "latitude": 41.3023856,
+    "longitude": -72.2505153,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Four Mile River Boat Launch"
+    }
+  },
+  {
+    "id": 10034149347,
+    "name": "Black Pond Boat Launch (Middlefield)",
+    "latitude": 41.5273526,
+    "longitude": -72.7427651,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "addr:city": "Middlefield",
+      "addr:housenumber": "1690",
+      "addr:state": "CT",
+      "addr:street": "East Main Street",
+      "leisure": "slipway",
+      "name": "Black Pond Boat Launch (Middlefield)",
+      "operator": "State of Connecticut",
+      "operator:type": "government",
+      "operator:wikidata": "Q779"
+    }
+  },
+  {
+    "id": 10154821958,
+    "name": "Boat Ramp",
+    "latitude": 40.9182541,
+    "longitude": -72.2907149,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10154959458,
+    "name": "Boat Ramp",
+    "latitude": 41.7978098,
+    "longitude": -73.2425574,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10154963683,
+    "name": "Boat Ramp",
+    "latitude": 41.7979412,
+    "longitude": -73.2434245,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10221132655,
+    "name": "Boat Ramp",
+    "latitude": 41.0813174,
+    "longitude": -72.3868409,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10736520458,
+    "name": "Boat Ramp",
+    "latitude": 41.2692776,
+    "longitude": -72.9319063,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 10807932725,
+    "name": "Morey Pond Boat Launch",
+    "latitude": 41.9660073,
+    "longitude": -72.1932671,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Morey Pond Boat Launch",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 10827291805,
+    "name": "Boat Ramp",
+    "latitude": 41.893302,
+    "longitude": -72.7412123,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10840865865,
+    "name": "Boat Ramp",
+    "latitude": 41.7721864,
+    "longitude": -72.8216301,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10902625336,
+    "name": "Boat Ramp",
+    "latitude": 41.8529339,
+    "longitude": -71.8103306,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10936994499,
+    "name": "Boat Ramp",
+    "latitude": 41.3191199,
+    "longitude": -72.3505646,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10977796989,
+    "name": "Green Falls Reservoir Boat Launch",
+    "latitude": 41.5345234,
+    "longitude": -71.810666,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Green Falls Reservoir Boat Launch",
+      "surface": "dirt"
+    }
+  },
+  {
+    "id": 10979603816,
+    "name": "Horse Pond Car Top Boat Launch",
+    "latitude": 41.4617993,
+    "longitude": -72.248883,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Horse Pond Car Top Boat Launch",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 11002196423,
+    "name": "Rainbow Reservoir Boat Launch",
+    "latitude": 41.9140229,
+    "longitude": -72.7047499,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Rainbow Reservoir Boat Launch"
+    }
+  },
+  {
+    "id": 11016169492,
+    "name": "Boat Ramp",
+    "latitude": 41.632519,
+    "longitude": -72.3089723,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11126677041,
+    "name": "Boat Ramp",
+    "latitude": 41.8572759,
+    "longitude": -72.6402442,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11141635631,
+    "name": "Boat Ramp",
+    "latitude": 41.7981717,
+    "longitude": -72.8311157,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11206797092,
+    "name": "Boat Ramp",
+    "latitude": 41.4086086,
+    "longitude": -72.4184123,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11209365334,
+    "name": "Boat Ramp",
+    "latitude": 41.3523241,
+    "longitude": -72.3549001,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11214340720,
+    "name": "Boat Ramp",
+    "latitude": 41.299876,
+    "longitude": -72.2267765,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11214356199,
+    "name": "Boat Ramp",
+    "latitude": 41.3063924,
+    "longitude": -72.2523309,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11251916299,
+    "name": "Lake Of Isles Boat Launch",
+    "latitude": 41.4902302,
+    "longitude": -71.9486397,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lake of Isles Boat Launch"
+    }
+  },
+  {
+    "id": 11254256809,
+    "name": "Boat Ramp",
+    "latitude": 41.9003496,
+    "longitude": -72.755915,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11301273399,
+    "name": "Boat Ramp",
+    "latitude": 41.9031763,
+    "longitude": -72.7598873,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11363363783,
+    "name": "Boat Ramp",
+    "latitude": 41.2885883,
+    "longitude": -73.0708779,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11363363832,
+    "name": "Boat Ramp",
+    "latitude": 41.170891,
+    "longitude": -73.1138792,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11363363845,
+    "name": "Boat Ramp",
+    "latitude": 41.1793453,
+    "longitude": -73.1244761,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11363363846,
+    "name": "Boat Ramp",
+    "latitude": 41.1791338,
+    "longitude": -73.1244531,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11520592763,
+    "name": "Boat Ramp",
+    "latitude": 41.3714546,
+    "longitude": -72.4681671,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11583013307,
+    "name": "Boat Ramp",
+    "latitude": 41.3902289,
+    "longitude": -73.1863874,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11714923651,
+    "name": "Lake Lillinonah Boat Launch",
+    "latitude": 41.4802165,
+    "longitude": -73.3488514,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Lake Lillinonah Boat Launch",
+      "parking": "yes",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 11714923655,
+    "name": "Lake Lillinonah Boat Launch",
+    "latitude": 41.4802256,
+    "longitude": -73.348747,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Lake Lillinonah Boat Launch",
+      "parking": "yes",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 11714929225,
+    "name": "Boat Ramp",
+    "latitude": 41.3817296,
+    "longitude": -73.174559,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "permit",
+      "leisure": "slipway",
+      "operator": "FirstLight Power"
+    }
+  },
+  {
+    "id": 11714930875,
+    "name": "Boat Ramp",
+    "latitude": 41.4311591,
+    "longitude": -73.2266088,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12149899343,
+    "name": "Boat Ramp",
+    "latitude": 41.8926545,
+    "longitude": -72.7394068,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12154474395,
+    "name": "Boat Ramp",
+    "latitude": 41.3086429,
+    "longitude": -72.9547201,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "canoe": "yes",
+      "check_date": "2024-09-03",
+      "fee": "no",
+      "leisure": "slipway",
+      "opening_hours": "sunrise-sunset",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 12585988661,
+    "name": "Boat Ramp",
+    "latitude": 41.5675852,
+    "longitude": -73.4095929,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12585994343,
+    "name": "Boat Ramp",
+    "latitude": 41.5644663,
+    "longitude": -73.4079752,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12698044430,
+    "name": "Boat Ramp",
+    "latitude": 41.3506575,
+    "longitude": -71.9718614,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12767915515,
+    "name": "Ball Pond Boat Launch",
+    "latitude": 41.4576331,
+    "longitude": -73.5221201,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Ball Pond Boat Launch",
+      "surface": "gravel",
+      "website": "https://portal.ct.gov/deep/boating/boat-launches/ball-pond-boat-launch"
+    }
+  },
+  {
+    "id": 12769685493,
+    "name": "Boat Ramp",
+    "latitude": 41.7845778,
+    "longitude": -72.2817412,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "note": "Car-top/carry-in. Not vehicle accessible.",
+      "surface": "stone"
+    }
+  },
+  {
+    "id": 12769693922,
+    "name": "Dodge Pond Boat Launch",
+    "latitude": 41.326663,
+    "longitude": -72.2010218,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Dodge Pond Boat Launch"
+    }
+  },
+  {
+    "id": 12771329693,
+    "name": "Boat Ramp",
+    "latitude": 41.6981656,
+    "longitude": -73.2796227,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "addr:city": "Litchfield",
+      "addr:housenumber": "20",
+      "addr:state": "CT",
+      "addr:street": "Mount Tom Road",
+      "image": "https://portal.ct.gov/-/media/deep/boat_launch/mount_tom/mounttompdf.pdf?rev=b40f482e57a54dbc96374c5eefb98323&hash=1C0586F1B3910A375F54C804781ECFA6",
+      "leisure": "slipway",
+      "operator": "State of Connecticut",
+      "operator:type": "government",
+      "operator:wikidata": "Q779",
+      "website": "https://portal.ct.gov/deep/boating/boat-launches/mount-tom-pond-boat-launch"
+    }
+  },
+  {
+    "id": 12771334085,
+    "name": "Mamanasco Lake Boat Launch",
+    "latitude": 41.3151432,
+    "longitude": -73.5216491,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Mamanasco Lake Boat Launch",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 12771390823,
+    "name": "Boat Ramp",
+    "latitude": 41.4514881,
+    "longitude": -71.9486503,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12771405342,
+    "name": "Mansfield Hollow Lake Boat Launch",
+    "latitude": 41.7684142,
+    "longitude": -72.175467,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mansfield Hollow Lake Boat Launch"
+    }
+  },
+  {
+    "id": 12771432423,
+    "name": "Boat Ramp",
+    "latitude": 41.899137,
+    "longitude": -73.1551816,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "description": "Park Pond Boat Launch",
+      "image": "https://portal.ct.gov/-/media/deep/boat_launch/park_pond/parkpdf.pdf?rev=e087793dc3dc4434a9a824f41a4de2ea&hash=B4C749E2A8F191A58DAC1F4D2F863EFA",
+      "leisure": "slipway",
+      "operator": "State of Connecticut",
+      "operator:type": "government",
+      "operator:wikidata": "Q779",
+      "website": "https://portal.ct.gov/deep/boating/boat-launches/park-pond-boat-launch"
+    }
+  },
+  {
+    "id": 12771444223,
+    "name": "Mohawk Pond Boat Launch",
+    "latitude": 41.8100665,
+    "longitude": -73.2937112,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "image": "https://portal.ct.gov/-/media/deep/boat_launch/mohawk_pond/mohawkpdf.pdf?rev=a2e06acb38464db09fd913d4ac38d0c0&hash=2C218BDC0E786AC1E6D3B17534D0DD7F",
+      "leisure": "slipway",
+      "name": "Mohawk Pond Boat Launch",
+      "website": "https://portal.ct.gov/deep/boating/boat-launches/mohawk-pond-boat-launch"
+    }
+  },
+  {
+    "id": 12771452755,
+    "name": "Boat Ramp",
+    "latitude": 41.3847195,
+    "longitude": -72.3045036,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12771462266,
+    "name": "Pachaug Pond Boat Launch",
+    "latitude": 41.5828753,
+    "longitude": -71.9289154,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Pachaug Pond Boat Launch"
+    }
+  },
+  {
+    "id": 12771462848,
+    "name": "North Farms Reservoir Boat Launch",
+    "latitude": 41.4838649,
+    "longitude": -72.778572,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "image": "https://portal.ct.gov/-/media/deep/boat_launch/north_farms/northfarmspdf.pdf?rev=ff5b6da195c84386a5723f80e06a2a5d&hash=D335C620A0D779D0689B35B7E8A8C830",
+      "leisure": "slipway",
+      "name": "North Farms Reservoir Boat Launch",
+      "website": "https://portal.ct.gov/deep/boating/boat-launches/north-farms-reservoir-boat-launch"
+    }
+  },
+  {
+    "id": 12771464966,
+    "name": "Boat Ramp",
+    "latitude": 41.8951361,
+    "longitude": -73.478464,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "description": "Mudge Pond Boat Launch",
+      "image": "https://portal.ct.gov/-/media/deep/boat_launch/mudge_pond/mudgepdf.pdf?rev=002bed845e84412b9635ab94452b69f0&hash=2E05513277555FD035D0EE596A0E725F",
+      "leisure": "slipway",
+      "operator": "State of Connecticut",
+      "operator:type": "government",
+      "operator:wikidata": "Q779",
+      "website": "https://portal.ct.gov/deep/boating/boat-launches/mudge-pond-boat-launch"
+    }
+  },
+  {
+    "id": 12771469847,
+    "name": "Boat Ramp",
+    "latitude": 41.3207094,
+    "longitude": -73.509555,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "surface": "dirt"
+    }
+  },
+  {
+    "id": 12771471109,
+    "name": "Mystic River Boat Launch",
+    "latitude": 41.3741047,
+    "longitude": -71.9657124,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Mystic River Boat Launch",
+      "note": "Car Top/Carry-In only"
+    }
+  },
+  {
+    "id": 12771476120,
+    "name": "Pickerel Lake Boat Launch",
+    "latitude": 41.5367135,
+    "longitude": -72.4221043,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "image": "https://portal.ct.gov/-/media/deep/boat_launch/pickerel_lake/pickerelpdf.pdf?rev=daf5b99900a24efc8322b14a024b2ff0&hash=0083D2EE6B0E660AA65E3406E58CA3A8",
+      "leisure": "slipway",
+      "name": "Pickerel Lake Boat Launch",
+      "surface": "concrete",
+      "website": "https://portal.ct.gov/deep/boating/boat-launches/pickerel-lake-boat-launch"
+    }
+  },
+  {
+    "id": 12771489947,
+    "name": "Pattaconk Lake Boat Launch",
+    "latitude": 41.408845,
+    "longitude": -72.5248934,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Pattaconk Lake Boat Launch",
+      "note": "Car Top/Carry-In only"
+    }
+  },
+  {
+    "id": 12771544511,
+    "name": "Quaddick Reservoir Boat Launch",
+    "latitude": 41.9561233,
+    "longitude": -71.8149833,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "image": "https://portal.ct.gov/-/media/deep/boat_launch/quaddick_reservoir/quaddickpdf.pdf?rev=459248ddf56d4552aaa94eb98ba21cee&hash=6A21A2DD65D53CFA6B3D47A32D4FD33B",
+      "leisure": "slipway",
+      "name": "Quaddick Reservoir Boat Launch",
+      "note": "Open April through September; 8 am to sunset.",
+      "surface": "concrete",
+      "website": "https://portal.ct.gov/deep/boating/boat-launches/quaddick-reservoir-boat-launch"
+    }
+  },
+  {
+    "id": 12771578873,
+    "name": "Salmon River Boat Launch",
+    "latitude": 41.4671405,
+    "longitude": -72.4684611,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Salmon River Boat Launch",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 12771579693,
+    "name": "Silver Lake Boat Launch",
+    "latitude": 41.5842314,
+    "longitude": -72.7705619,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Silver Lake Boat Launch"
+    }
+  },
+  {
+    "id": 12771582451,
+    "name": "Ross Pond Boat Launch",
+    "latitude": 41.7765644,
+    "longitude": -71.8640967,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Ross Pond Boat Launch",
+      "note": "Car Top/Carry-In only"
+    }
+  },
+  {
+    "id": 12771586142,
+    "name": "Boat Ramp",
+    "latitude": 41.8370824,
+    "longitude": -73.2672654,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "description": "Tyler Lake Boat Launch",
+      "leisure": "slipway",
+      "operator": "State of Connecticut",
+      "operator:type": "government",
+      "operator:wikidata": "Q779",
+      "website": "https://portal.ct.gov/deep/boating/boat-launches/tyler-lake-boat-launch"
+    }
+  },
+  {
+    "id": 12771589408,
+    "name": "Boat Ramp",
+    "latitude": 41.8374946,
+    "longitude": -73.1517927,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "description": "Stillwater Pond Boat Launch",
+      "fee": "no",
+      "image": "https://portal.ct.gov/-/media/deep/boat_launch/stillwater_pond/stillwaterpdf.pdf?rev=d673fde21c6846d7935438f3b95e7461&hash=8BA61B90BE3CF4C9BA6D75E09E5CB391",
+      "leisure": "slipway",
+      "operator": "State of Connecticut",
+      "operator:type": "government",
+      "operator:wikidata": "Q779",
+      "surface": "concrete",
+      "website": "https://portal.ct.gov/deep/boating/boat-launches/stillwater-pond-boat-launch"
+    }
+  },
+  {
+    "id": 12771599495,
+    "name": "Squantz Pond Boat Launch",
+    "latitude": 41.509994,
+    "longitude": -73.472268,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Squantz Pond Boat Launch",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 12771615147,
+    "name": "Waramaug Lake Boat Launch (Carry-In)",
+    "latitude": 41.7083766,
+    "longitude": -73.3835739,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "addr:city": "Kent",
+      "addr:state": "CT",
+      "addr:street": "Lake Waramaug Road",
+      "leisure": "slipway",
+      "name": "Waramaug Lake Boat Launch (Carry-In)",
+      "note": "Car Top/Carry-In only",
+      "operator": "State of Connecticut",
+      "operator:type": "government",
+      "operator:wikidata": "Q779",
+      "website": "https://portal.ct.gov/deep/boating/boat-launches/waramaug-lake-boat-launch"
+    }
+  },
+  {
+    "id": 12771625530,
+    "name": "Uncas Lake Boat Launch",
+    "latitude": 41.3728183,
+    "longitude": -72.3221737,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Uncas Lake Boat Launch"
+    }
+  },
+  {
+    "id": 12771634311,
+    "name": "West Hill Pond Boat Launch",
+    "latitude": 41.8902996,
+    "longitude": -73.0368645,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "West Hill Pond Boat Launch",
+      "surface": "concrete",
+      "website": "https://portal.ct.gov/deep/boating/boat-launches/west-hill-pond-boat-launch"
+    }
+  },
+  {
+    "id": 12771650628,
+    "name": "Boat Ramp",
+    "latitude": 41.8535718,
+    "longitude": -73.2585488,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "description": "West Side Pond Boat Launch",
+      "fee": "no",
+      "leisure": "slipway",
+      "operator": "State of Connecticut",
+      "operator:type": "government",
+      "operator:wikidata": "Q779",
+      "surface": "asphalt",
+      "website": "https://portal.ct.gov/deep/boating/boat-launches/west-side-pond-boat-launch"
+    }
+  },
+  {
+    "id": 12771655463,
+    "name": "Boat Ramp",
+    "latitude": 41.907899,
+    "longitude": -73.151882,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "description": "Winchester Lake Boat Launch",
+      "fee": "no",
+      "leisure": "slipway",
+      "operator": "State of Connecticut",
+      "operator:type": "government",
+      "operator:wikidata": "Q779",
+      "surface": "asphalt",
+      "website": "https://portal.ct.gov/deep/boating/boat-launches/winchester-lake-boat-launch"
+    }
+  },
+  {
+    "id": 12777648741,
+    "name": "Boat Ramp",
+    "latitude": 41.5910734,
+    "longitude": -72.5071236,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12782012904,
+    "name": "Boat Ramp",
+    "latitude": 41.626691,
+    "longitude": -72.3345316,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12848123324,
+    "name": "Boat Ramp",
+    "latitude": 41.3386994,
+    "longitude": -72.1888178,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12848123351,
+    "name": "Boat Ramp",
+    "latitude": 41.3384416,
+    "longitude": -72.1903382,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12865714995,
+    "name": "Boat Ramp",
+    "latitude": 41.6702678,
+    "longitude": -72.848531,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13004908133,
+    "name": "Boat Ramp",
+    "latitude": 41.3360642,
+    "longitude": -71.9916727,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13096045699,
+    "name": "Boat Ramp",
+    "latitude": 40.9822805,
+    "longitude": -72.528013,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13125540324,
+    "name": "Boat Ramp",
+    "latitude": 41.3643889,
+    "longitude": -73.1401521,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13310079827,
+    "name": "Boat Ramp",
+    "latitude": 40.9040559,
+    "longitude": -73.5429545,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13310079830,
+    "name": "Boat Ramp",
+    "latitude": 40.9043337,
+    "longitude": -73.5406489,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13399566271,
+    "name": "Boat Ramp",
+    "latitude": 41.3274166,
+    "longitude": -71.9849698,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13399566366,
+    "name": "Boat Ramp",
+    "latitude": 41.3244222,
+    "longitude": -71.9853665,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13495445835,
+    "name": "Boat Ramp",
+    "latitude": 41.4318576,
+    "longitude": -72.0913999,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "private",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13690195487,
+    "name": "Boat Ramp",
+    "latitude": 41.3457373,
+    "longitude": -71.9753462,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13695640144,
+    "name": "Boat Ramp",
+    "latitude": 41.4581061,
+    "longitude": -71.948647,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 307193923,
+    "name": "Boat Ramp",
+    "latitude": 41.1291219,
+    "longitude": -73.285635,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 315640375,
+    "name": "Boat Ramp",
+    "latitude": 40.9236458,
+    "longitude": -73.3462192,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 319658945,
+    "name": "Boat Ramp",
+    "latitude": 41.119305,
+    "longitude": -72.3398243,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Boat Ramp",
+      "service": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 385190093,
+    "name": "Boat Ramp",
+    "latitude": 41.6883317,
+    "longitude": -72.9505176,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 399339893,
+    "name": "Boat Ramp",
+    "latitude": 41.1467263,
+    "longitude": -73.2366366,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 399339896,
+    "name": "Boat Ramp",
+    "latitude": 41.1467792,
+    "longitude": -73.236735,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 422125836,
+    "name": "Boat Ramp",
+    "latitude": 41.0529629,
+    "longitude": -72.3444138,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "man_made": "crane"
+    }
+  },
+  {
+    "id": 468556661,
+    "name": "Boat Ramp",
+    "latitude": 41.1836235,
+    "longitude": -73.1000206,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "tidal": "yes"
+    }
+  },
+  {
+    "id": 468557056,
+    "name": "Boat Ramp",
+    "latitude": 41.185761,
+    "longitude": -73.1012362,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "description": "No trailer vessels, portable/car top only.",
+      "leisure": "slipway",
+      "tidal": "yes"
+    }
+  },
+  {
+    "id": 473832240,
+    "name": "Trustee Ramp West Neck Road",
+    "latitude": 40.9170395,
+    "longitude": -72.439741,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Trustee Ramp West Neck Road"
+    }
+  },
+  {
+    "id": 532469223,
+    "name": "Boat Ramp",
+    "latitude": 41.7987205,
+    "longitude": -72.5234972,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 532732512,
+    "name": "Boat Ramp",
+    "latitude": 41.2754592,
+    "longitude": -72.4743414,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 569406236,
+    "name": "Boat Ramp",
+    "latitude": 41.9660538,
+    "longitude": -72.1933763,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 660195731,
+    "name": "Boat Ramp",
+    "latitude": 41.3749813,
+    "longitude": -71.8321932,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 665565002,
+    "name": "Boat Ramp",
+    "latitude": 41.4522155,
+    "longitude": -72.4672672,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 665732738,
+    "name": "Boat Ramp",
+    "latitude": 41.3126884,
+    "longitude": -72.3459305,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 679163173,
+    "name": "Boat Ramp",
+    "latitude": 41.7668041,
+    "longitude": -72.3163558,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 681311298,
+    "name": "Boat Ramp",
+    "latitude": 41.5172247,
+    "longitude": -72.6382536,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 695559109,
+    "name": "Boat Ramp",
+    "latitude": 40.9637537,
+    "longitude": -73.0272255,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 695559110,
+    "name": "Boat Ramp",
+    "latitude": 40.9637999,
+    "longitude": -73.027091,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 695559111,
+    "name": "Boat Ramp",
+    "latitude": 40.9637685,
+    "longitude": -73.0269664,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 703508973,
+    "name": "Mono Pond Boat Launch",
+    "latitude": 41.6789342,
+    "longitude": -72.3106561,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mono Pond Boat Launch"
+    }
+  },
+  {
+    "id": 749982776,
+    "name": "Boat Ramp",
+    "latitude": 41.9828655,
+    "longitude": -72.4865286,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 785860333,
+    "name": "Boat Ramp",
+    "latitude": 41.3190967,
+    "longitude": -72.3507069,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 785860334,
+    "name": "Boat Ramp",
+    "latitude": 41.3191221,
+    "longitude": -72.350759,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 800196729,
+    "name": "Boat Ramp",
+    "latitude": 41.1408522,
+    "longitude": -72.3192927,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 822870612,
+    "name": "U.S. Coast Guard - Station Eatons Neck",
+    "latitude": 40.9542317,
+    "longitude": -73.3981871,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "U.S. Coast Guard - Station Eatons Neck",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 849385998,
+    "name": "Boat Ramp",
+    "latitude": 41.5249247,
+    "longitude": -72.0820302,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 861134455,
+    "name": "Lower Bolton Pond Boat Launch",
+    "latitude": 41.798136,
+    "longitude": -72.4286811,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Lower Bolton Pond Boat Launch",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 865423767,
+    "name": "Boat Ramp",
+    "latitude": 41.7167829,
+    "longitude": -73.2179015,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 870789586,
+    "name": "Boat Ramp",
+    "latitude": 41.6236653,
+    "longitude": -72.3327408,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 870796422,
+    "name": "Boat Ramp",
+    "latitude": 41.6325017,
+    "longitude": -72.3089657,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "covered": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 870867509,
+    "name": "Boat Ramp",
+    "latitude": 41.6360421,
+    "longitude": -72.2954538,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "covered": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "oneway": "no",
+      "service": "slipway",
+      "surface": "dirt"
+    }
+  },
+  {
+    "id": 871507252,
+    "name": "Boat Ramp",
+    "latitude": 41.8529806,
+    "longitude": -71.8105006,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "dirt"
+    }
+  },
+  {
+    "id": 879469645,
+    "name": "Boat Ramp",
+    "latitude": 41.9730233,
+    "longitude": -72.0581224,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "covered": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "oneway": "no",
+      "service": "slipway",
+      "surface": "dirt"
+    }
+  },
+  {
+    "id": 882972652,
+    "name": "Boat Ramp",
+    "latitude": 41.2696326,
+    "longitude": -72.600948,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 886555586,
+    "name": "Boat Ramp",
+    "latitude": 41.8026048,
+    "longitude": -71.8962216,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 887618455,
+    "name": "Glasgo Pond Boat Launch",
+    "latitude": 41.5582862,
+    "longitude": -71.8867777,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "name": "Glasgo Pond Boat Launch",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 928656894,
+    "name": "Boat Ramp",
+    "latitude": 41.1590531,
+    "longitude": -73.2161332,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 931494403,
+    "name": "Boat Ramp",
+    "latitude": 41.5742829,
+    "longitude": -72.0439509,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 949333622,
+    "name": "Boat Ramp",
+    "latitude": 40.94637,
+    "longitude": -73.0732935,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 950181755,
+    "name": "Boat Ramp",
+    "latitude": 41.4115363,
+    "longitude": -73.1904109,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "Esri beta",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 968577940,
+    "name": "Boat Ramp",
+    "latitude": 41.5031769,
+    "longitude": -73.3194783,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "Esri beta",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 970420848,
+    "name": "Bashan Lake Boat Launch",
+    "latitude": 41.483553,
+    "longitude": -72.4031726,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "addr:city": "East Haddam",
+      "addr:postcode": "06423",
+      "addr:state": "CT",
+      "addr:street": "Ballahack Road No 1",
+      "leisure": "slipway",
+      "name": "Bashan Lake Boat Launch",
+      "surface": "concrete",
+      "website": "https://portal.ct.gov/DEEP/Boating/Boat-Launches/Bashan-Lake-Boat-Launch"
+    }
+  },
+  {
+    "id": 982220588,
+    "name": "Boat Ramp",
+    "latitude": 41.2638349,
+    "longitude": -72.3893052,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 997235006,
+    "name": "Boat Ramp",
+    "latitude": 40.9435852,
+    "longitude": -72.571285,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 997235007,
+    "name": "Boat Ramp",
+    "latitude": 40.9436982,
+    "longitude": -72.5712476,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 997250831,
+    "name": "Boat Ramp",
+    "latitude": 41.0134645,
+    "longitude": -72.5526479,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1004598744,
+    "name": "Boat Ramp",
+    "latitude": 41.1084079,
+    "longitude": -72.3542567,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1004598746,
+    "name": "Boat Ramp",
+    "latitude": 41.1116373,
+    "longitude": -72.3493107,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1004598747,
+    "name": "Boat Ramp",
+    "latitude": 41.1116284,
+    "longitude": -72.3494003,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1008637088,
+    "name": "Boat Ramp",
+    "latitude": 41.0865857,
+    "longitude": -72.3527032,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1008770741,
+    "name": "Boat Ramp",
+    "latitude": 41.0476168,
+    "longitude": -72.3308464,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1008776615,
+    "name": "Boat Ramp",
+    "latitude": 41.053177,
+    "longitude": -72.3426229,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1008783306,
+    "name": "Boat Ramp",
+    "latitude": 41.0565058,
+    "longitude": -72.3344251,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1008861726,
+    "name": "Boat Ramp",
+    "latitude": 41.0516075,
+    "longitude": -72.3461954,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1008861732,
+    "name": "Boat Ramp",
+    "latitude": 41.0508482,
+    "longitude": -72.3500791,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1008874413,
+    "name": "Boat Ramp",
+    "latitude": 41.0637381,
+    "longitude": -72.3543462,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1008955990,
+    "name": "Boat Ramp",
+    "latitude": 41.0747373,
+    "longitude": -72.3646109,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1008955991,
+    "name": "Boat Ramp",
+    "latitude": 41.0704091,
+    "longitude": -72.3783863,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1008956035,
+    "name": "Boat Ramp",
+    "latitude": 41.0569735,
+    "longitude": -72.3724567,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1009014092,
+    "name": "Boat Ramp",
+    "latitude": 41.047044,
+    "longitude": -72.3586994,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1009014106,
+    "name": "Boat Ramp",
+    "latitude": 41.0468877,
+    "longitude": -72.3531651,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1010076616,
+    "name": "Boat Ramp",
+    "latitude": 41.0449025,
+    "longitude": -72.360057,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1010118152,
+    "name": "Boat Ramp",
+    "latitude": 41.0660844,
+    "longitude": -72.3652141,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1012904448,
+    "name": "Boat Ramp",
+    "latitude": 41.7060234,
+    "longitude": -72.7923445,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1013419406,
+    "name": "Boat Ramp",
+    "latitude": 41.0890447,
+    "longitude": -72.3227945,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1013419411,
+    "name": "Boat Ramp",
+    "latitude": 41.0867833,
+    "longitude": -72.3124036,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1016200779,
+    "name": "Boat Ramp",
+    "latitude": 41.3585794,
+    "longitude": -71.9649151,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1016394496,
+    "name": "Boat Ramp",
+    "latitude": 41.3611948,
+    "longitude": -71.9662841,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "operator": "Mystic Seaport Museum",
+      "service": "yard",
+      "usage": "industrial"
+    }
+  },
+  {
+    "id": 1034174672,
+    "name": "Boat Ramp",
+    "latitude": 41.512982,
+    "longitude": -72.6666175,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1034563616,
+    "name": "Boat Ramp",
+    "latitude": 40.9182529,
+    "longitude": -72.6449491,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1034563619,
+    "name": "Boat Ramp",
+    "latitude": 40.9183056,
+    "longitude": -72.6392759,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1038069795,
+    "name": "Boat Ramp",
+    "latitude": 41.0601014,
+    "longitude": -72.4144378,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1038117868,
+    "name": "Boat Ramp",
+    "latitude": 41.0560916,
+    "longitude": -72.416876,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1038117869,
+    "name": "Boat Ramp",
+    "latitude": 41.0560095,
+    "longitude": -72.4168535,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1038133554,
+    "name": "Boat Ramp",
+    "latitude": 41.049375,
+    "longitude": -72.4237883,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1043619078,
+    "name": "Boat Ramp",
+    "latitude": 41.0353954,
+    "longitude": -72.4286433,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1044807320,
+    "name": "Boat Ramp",
+    "latitude": 40.9460055,
+    "longitude": -73.0725963,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1047483452,
+    "name": "Boat Ramp",
+    "latitude": 41.3151029,
+    "longitude": -73.0858674,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 1050524028,
+    "name": "U.S. Coast Guard - Station New London",
+    "latitude": 41.3461903,
+    "longitude": -72.0933057,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "U.S. Coast Guard - Station New London",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1054586132,
+    "name": "Boat Ramp",
+    "latitude": 41.0049198,
+    "longitude": -72.4714137,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "permissive",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1056541096,
+    "name": "Boat Ramp",
+    "latitude": 41.6829439,
+    "longitude": -73.3525293,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1057390988,
+    "name": "Boat Ramp",
+    "latitude": 40.9962353,
+    "longitude": -72.4796634,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1057879819,
+    "name": "Boat Ramp",
+    "latitude": 40.9906536,
+    "longitude": -72.4713624,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1062243700,
+    "name": "Boat Ramp",
+    "latitude": 41.5995238,
+    "longitude": -72.621451,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1063576164,
+    "name": "Boat Ramp",
+    "latitude": 40.9345221,
+    "longitude": -72.5889416,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1066269501,
+    "name": "Thames River Boat Launch",
+    "latitude": 41.3635034,
+    "longitude": -72.0909085,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Thames River Boat Launch",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 1068846842,
+    "name": "Boat Ramp",
+    "latitude": 41.1691413,
+    "longitude": -73.1707953,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1070266882,
+    "name": "Boat Ramp",
+    "latitude": 40.9281486,
+    "longitude": -73.4019259,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1070266883,
+    "name": "Boat Ramp",
+    "latitude": 40.9280773,
+    "longitude": -73.4018863,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1081873440,
+    "name": "Messerschmidt Pond Boat Launch",
+    "latitude": 41.3403833,
+    "longitude": -72.4929953,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Messerschmidt Pond Boat Launch",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1082443246,
+    "name": "Norwich Pond Boat Launch",
+    "latitude": 41.3847101,
+    "longitude": -72.3045599,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Norwich Pond Boat Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1085198221,
+    "name": "Boat Ramp",
+    "latitude": 40.9932733,
+    "longitude": -72.5380593,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1095047071,
+    "name": "Highland Lake Boat Launch",
+    "latitude": 41.922545,
+    "longitude": -73.0845657,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Highland Lake Boat Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1099954026,
+    "name": "Boat Ramp",
+    "latitude": 41.7232388,
+    "longitude": -72.6540761,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1103884508,
+    "name": "Clinton Town Boat Ramp",
+    "latitude": 41.2692926,
+    "longitude": -72.5294513,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Clinton Town Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1107118696,
+    "name": "Boat Ramp",
+    "latitude": 41.0985183,
+    "longitude": -73.413266,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1107118697,
+    "name": "Boat Ramp",
+    "latitude": 41.0984845,
+    "longitude": -73.4132369,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1107118698,
+    "name": "Boat Ramp",
+    "latitude": 41.0984261,
+    "longitude": -73.4131832,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1107118699,
+    "name": "Boat Ramp",
+    "latitude": 41.0983904,
+    "longitude": -73.4131544,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1151615504,
+    "name": "Boat Ramp",
+    "latitude": 41.4657378,
+    "longitude": -73.4482429,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1153077000,
+    "name": "Boat Ramp",
+    "latitude": 41.4917673,
+    "longitude": -73.4665866,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1165514169,
+    "name": "Boat Ramp",
+    "latitude": 41.7722476,
+    "longitude": -72.8218491,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 1184524687,
+    "name": "Rainbow Reservoir State Boat Launch",
+    "latitude": 41.91413,
+    "longitude": -72.7048849,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Rainbow Reservoir State Boat Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1196138051,
+    "name": "Boat Ramp",
+    "latitude": 41.3012813,
+    "longitude": -72.8999206,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1201224009,
+    "name": "Boat Ramp",
+    "latitude": 41.8130604,
+    "longitude": -72.6469706,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "driveway"
+    }
+  },
+  {
+    "id": 1209487052,
+    "name": "Rogers Lake Boat Launch",
+    "latitude": 41.3619276,
+    "longitude": -72.2952108,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Rogers Lake Boat Launch",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1211244507,
+    "name": "Boat Ramp",
+    "latitude": 41.1516605,
+    "longitude": -73.1044606,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1225717067,
+    "name": "Boat Ramp",
+    "latitude": 41.3649237,
+    "longitude": -72.8794221,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "fee": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "sand"
+    }
+  },
+  {
+    "id": 1227203104,
+    "name": "Housatonic River Boat Launch",
+    "latitude": 41.2049925,
+    "longitude": -73.1079402,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Milford",
+      "addr:housenumber": "686",
+      "addr:state": "CT",
+      "addr:street": "Naugatuck Avenue",
+      "description": "Housatonic River, State Boat Launch, Milford",
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "name": "Housatonic River Boat Launch",
+      "service": "slipway",
+      "surface": "concrete",
+      "website": "https://portal.ct.gov/deep/boating/boat-launches/housatonic-river-boat-launch"
+    }
+  },
+  {
+    "id": 1243686837,
+    "name": "Boat Ramp",
+    "latitude": 41.287933,
+    "longitude": -72.4920448,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1279821829,
+    "name": "Boat Ramp",
+    "latitude": 41.9980584,
+    "longitude": -72.6057239,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1321681747,
+    "name": "Boat Ramp",
+    "latitude": 41.1733708,
+    "longitude": -72.2057885,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1338978221,
+    "name": "Boat Ramp",
+    "latitude": 41.3645753,
+    "longitude": -73.1403578,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1347335826,
+    "name": "Danbury Road",
+    "latitude": 41.3895829,
+    "longitude": -73.5890122,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "check_date": "2024-03-12",
+      "cycleway:right": "shoulder",
+      "destination": "Brewster",
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "maxspeed": "55 mph",
+      "name": "Danbury Road",
+      "official_name": "Grand Army of the Republic Highway",
+      "oneway": "yes",
+      "ref": "US 6;US 202",
+      "service": "slipway",
+      "smoothness": "good",
+      "surface": "asphalt",
+      "tiger:cfcc": "A21",
+      "tiger:county": "Putnam, NY",
+      "tiger:name_base": "Danbury",
+      "tiger:name_base_1": "State Highway 6",
+      "tiger:name_type": "Rd",
+      "tiger:reviewed": "no",
+      "tiger:zip_left": "10509",
+      "tiger:zip_right": "10509"
+    }
+  },
+  {
+    "id": 1378851894,
+    "name": "Boat Ramp",
+    "latitude": 41.5846037,
+    "longitude": -71.8551324,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1378858132,
+    "name": "Boat Ramp",
+    "latitude": 41.4467444,
+    "longitude": -73.4294875,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1378858653,
+    "name": "Boat Ramp",
+    "latitude": 41.5080102,
+    "longitude": -73.4687128,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1379026228,
+    "name": "Boat Ramp",
+    "latitude": 41.7653633,
+    "longitude": -72.3095779,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1379026641,
+    "name": "Crystal Lake Boat Launch",
+    "latitude": 41.9382549,
+    "longitude": -72.3793192,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Crystal Lake Boat Launch",
+      "service": "slipway",
+      "website": "https://portal.ct.gov/DEEP/Boating/Boat-Launches/Crystal-Lake-Ellington-Boat-Launch"
+    }
+  },
+  {
+    "id": 1379027219,
+    "name": "Boat Ramp",
+    "latitude": 41.3087672,
+    "longitude": -72.1482385,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1379027906,
+    "name": "Dodge Pond Boat Launch",
+    "latitude": 41.3266552,
+    "longitude": -72.2010581,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Dodge Pond Boat Launch",
+      "service": "slipway",
+      "surface": "dirt"
+    }
+  },
+  {
+    "id": 1379031245,
+    "name": "Gardner Lake Boat Launch",
+    "latitude": 41.5014526,
+    "longitude": -72.2255654,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Gardner Lake Boat Launch",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1379033881,
+    "name": "Hampton Reservoir Boat Launch",
+    "latitude": 41.8237429,
+    "longitude": -72.0574677,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Hampton Reservoir Boat Launch"
+    }
+  },
+  {
+    "id": 1379034434,
+    "name": "Hatch Pond Boat Launch",
+    "latitude": 41.6803794,
+    "longitude": -73.4732479,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "addr:city": "Kent",
+      "addr:housenumber": "2",
+      "addr:state": "CT",
+      "addr:street": "Bulls Bridge Road",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Hatch Pond Boat Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1379205449,
+    "name": "Holbrook Pond Boat Launch",
+    "latitude": 41.6741767,
+    "longitude": -72.3757308,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Holbrook Pond Boat Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1379207596,
+    "name": "Boat Ramp",
+    "latitude": 41.6034166,
+    "longitude": -71.9275368,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1379209386,
+    "name": "Boat Ramp",
+    "latitude": 41.3638082,
+    "longitude": -72.0848864,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1379218195,
+    "name": "Boat Ramp",
+    "latitude": 41.3407529,
+    "longitude": -73.1240229,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1379225155,
+    "name": "Boat Ramp",
+    "latitude": 41.4902223,
+    "longitude": -71.9486504,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1379226516,
+    "name": "Lantern Hill Pond Boat Launch",
+    "latitude": 41.4581017,
+    "longitude": -71.9486789,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Lantern Hill Pond Boat Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1379227407,
+    "name": "Leonard Pond Boat Launch",
+    "latitude": 41.7068643,
+    "longitude": -73.475612,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Kent",
+      "addr:housenumber": "74",
+      "addr:state": "CT",
+      "addr:street": "South Kent Road",
+      "leisure": "slipway",
+      "name": "Leonard Pond Boat Launch",
+      "note": "Car Top/Carry-In boats only",
+      "operator": "State of Connecticut",
+      "operator:type": "government",
+      "operator:wikidata": "Q779",
+      "website": "https://portal.ct.gov/deep/boating/boat-launches/leonard-pond-boat-launch"
+    }
+  },
+  {
+    "id": 1379228153,
+    "name": "Lieutenant River Boat Launch",
+    "latitude": 41.3141177,
+    "longitude": -72.3372729,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Lieutenant River Boat Launch",
+      "note": "Car Top/Carry-In boats only",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1379228906,
+    "name": "Long Pond Boat Launch",
+    "latitude": 41.4514924,
+    "longitude": -71.9486103,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Long Pond Boat Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1379229650,
+    "name": "Boat Ramp",
+    "latitude": 41.3151209,
+    "longitude": -73.5216392,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1379230097,
+    "name": "Mansfield Hollow Lake Boat Launch",
+    "latitude": 41.7683563,
+    "longitude": -72.1754637,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "image": "https://portal.ct.gov/-/media/deep/boat_launch/mansfield_hollow/mansfieldpdf.pdf?rev=fef0fbe73d514496ae7e0bfd6be132fe&hash=09546C247FD342BA3663D4877BF4C03D",
+      "leisure": "slipway",
+      "name": "Mansfield Hollow Lake Boat Launch",
+      "service": "slipway",
+      "website": "https://portal.ct.gov/deep/boating/boat-launches/mansfield-hollow-lake-boat-launch"
+    }
+  },
+  {
+    "id": 1379233205,
+    "name": "Boat Ramp",
+    "latitude": 41.3740829,
+    "longitude": -71.9657858,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1379234382,
+    "name": "Boat Ramp",
+    "latitude": 41.4838475,
+    "longitude": -72.7785512,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1379236916,
+    "name": "Pattagansett Lake Boat Launch",
+    "latitude": 41.3673318,
+    "longitude": -72.2309113,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Pattagansett Lake Boat Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1379237079,
+    "name": "Pickerel Lake Boat Launch",
+    "latitude": 41.5367361,
+    "longitude": -72.4221043,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Pickerel Lake Boat Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1379238804,
+    "name": "Pine Acres Lake Boat Launch",
+    "latitude": 41.7766849,
+    "longitude": -72.0813787,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Pine Acres Lake Boat Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1379239451,
+    "name": "Powers Lake Boat Launch",
+    "latitude": 41.3932062,
+    "longitude": -72.2568226,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Powers Lake Boat Launch",
+      "service": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 1379239765,
+    "name": "Boat Ramp",
+    "latitude": 41.9561038,
+    "longitude": -71.8149365,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1379244877,
+    "name": "Boat Ramp",
+    "latitude": 41.1206745,
+    "longitude": -73.3677243,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1379245743,
+    "name": "Boat Ramp",
+    "latitude": 41.584261,
+    "longitude": -72.7705628,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1379246762,
+    "name": "Squantz Pond Boat Launch",
+    "latitude": 41.5099723,
+    "longitude": -73.4722335,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Squantz Pond Boat Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1379250606,
+    "name": "Uncas Lake Boat Launch",
+    "latitude": 41.3728225,
+    "longitude": -72.3221903,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Uncas Lake Boat Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1379253576,
+    "name": "Boat Ramp",
+    "latitude": 41.8902933,
+    "longitude": -73.0367994,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1390540571,
+    "name": "Boat Ramp",
+    "latitude": 41.050178,
+    "longitude": -72.1658373,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1442982876,
+    "name": "Boat Ramp",
+    "latitude": 41.2532898,
+    "longitude": -73.0885895,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1451247842,
+    "name": "Boat Ramp",
+    "latitude": 40.9041349,
+    "longitude": -73.5429706,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1451247843,
+    "name": "Boat Ramp",
+    "latitude": 40.9043891,
+    "longitude": -73.5406677,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1451806274,
+    "name": "Boat Ramp",
+    "latitude": 41.3422252,
+    "longitude": -72.0371864,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "lit": "no",
+      "opening_hours": "sunrise-sunset",
+      "seamark": "small_craft_facility",
+      "seamark:type": "small_craft_facility",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 1454014464,
+    "name": "Atlantic Avenue",
+    "latitude": 41.3152566,
+    "longitude": -72.0159151,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Atlantic Avenue",
+      "service": "slipway",
+      "surface": "asphalt",
+      "tiger:name_base": "Atlantic",
+      "tiger:name_type": "Ave",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1454015953,
+    "name": "Boat Ramp",
+    "latitude": 41.3205498,
+    "longitude": -72.0132506,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "boat": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "motorboat": "yes",
+      "service": "slipway",
+      "surface": "concrete",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 1454015956,
+    "name": "Boat Ramp",
+    "latitude": 41.3238028,
+    "longitude": -71.9931537,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "customers",
+      "fee": "yes",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "lit": "yes",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1460966642,
+    "name": "Boat Ramp",
+    "latitude": 41.3274149,
+    "longitude": -71.9850126,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1460966674,
+    "name": "Boat Ramp",
+    "latitude": 41.3244443,
+    "longitude": -71.9854437,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1462581785,
+    "name": "Boat Ramp",
+    "latitude": 41.0016478,
+    "longitude": -72.2928778,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 178457027,
+    "name": "Boat Ramp",
+    "latitude": 42.0383014,
+    "longitude": -73.3805291,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "description": "Twin Lakes Boat Launch",
+      "image": "https://portal.ct.gov/-/media/deep/boat_launch/east_twin/twinlakespdf.pdf?rev=6726bef5efa24639ab20da4e07efdfd6&hash=941E9B64B7169D228DE27792571E229B",
+      "leisure": "slipway",
+      "note": "Car Top/Carry-In only",
+      "operator": "State of Connecticut",
+      "operator:type": "government",
+      "operator:wikidata": "Q779",
+      "surface": "dirt",
+      "website": "https://portal.ct.gov/deep/boating/boat-launches/twin-lakes-boat-launch"
+    }
+  },
+  {
+    "id": 2550056802,
+    "name": "Boat Ramp",
+    "latitude": 42.0679013,
+    "longitude": -72.1525306,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5231301408,
+    "name": "Boat Ramp",
+    "latitude": 42.0736144,
+    "longitude": -72.060135,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7830614456,
+    "name": "Boat Ramp",
+    "latitude": 42.0806886,
+    "longitude": -72.584921,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8272875915,
+    "name": "Howells Pond Boat Launch",
+    "latitude": 42.0215601,
+    "longitude": -72.991686,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Howells Pond Boat Launch",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 8586959993,
+    "name": "Boat Ramp",
+    "latitude": 42.0823414,
+    "longitude": -72.163657,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8993710729,
+    "name": "Boat Ramp",
+    "latitude": 42.0017134,
+    "longitude": -72.0508692,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10294356624,
+    "name": "Boat Ramp",
+    "latitude": 42.0550699,
+    "longitude": -71.8565547,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11304549770,
+    "name": "Boat Ramp",
+    "latitude": 42.0099434,
+    "longitude": -71.9415604,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12771650287,
+    "name": "Wood Creek Pond Boat Launch",
+    "latitude": 42.0182893,
+    "longitude": -73.1928955,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Wood Creek Pond Boat Launch",
+      "note": "Shallow pond."
+    }
+  },
+  {
+    "id": 684117696,
+    "name": "Boat Ramp",
+    "latitude": 42.0220005,
+    "longitude": -73.0504619,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1379228563,
+    "name": "Little Pond Boat Launch",
+    "latitude": 42.0130259,
+    "longitude": -71.8393276,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Little Pond Boat Launch",
+      "service": "slipway",
+      "surface": "dirt",
+      "website": "https://portal.ct.gov/deep/boating/boat-launches/little-pond-boat-launch"
+    }
+  },
+  {
+    "id": 1379255145,
+    "name": "Wood Creek Pond Boat Launch",
+    "latitude": 42.0182662,
+    "longitude": -73.1929238,
+    "state": "Connecticut",
+    "stateAbbr": "CT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Wood Creek Pond Boat Launch",
+      "service": "slipway"
+    }
+  }
+]

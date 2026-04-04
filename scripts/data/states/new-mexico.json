@@ -1,0 +1,693 @@
+[
+  {
+    "id": 142477874,
+    "name": "Boat Ramp",
+    "latitude": 32.5615038,
+    "longitude": -104.389161,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 142795595,
+    "name": "Boat Ramp",
+    "latitude": 32.5575263,
+    "longitude": -104.3920091,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 143565622,
+    "name": "Boat Ramp",
+    "latitude": 36.716186,
+    "longitude": -106.8816179,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 560538662,
+    "name": "Boat Ramp",
+    "latitude": 32.8990515,
+    "longitude": -107.2928209,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Yahoo"
+    }
+  },
+  {
+    "id": 589610694,
+    "name": "Boat Ramp",
+    "latitude": 36.2554887,
+    "longitude": -106.4346729,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 1505285403,
+    "name": "Boat Ramp",
+    "latitude": 35.6356479,
+    "longitude": -106.3226351,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1505286464,
+    "name": "Boat Ramp",
+    "latitude": 35.6443365,
+    "longitude": -106.313516,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1824718234,
+    "name": "Boat Ramp",
+    "latitude": 36.8179008,
+    "longitude": -107.6135267,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2276387287,
+    "name": "Boat Ramp",
+    "latitude": 35.9790173,
+    "longitude": -105.916383,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3335073193,
+    "name": "Boat Ramp",
+    "latitude": 32.4252425,
+    "longitude": -104.2207309,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3351216791,
+    "name": "Boat Ramp",
+    "latitude": 32.4299794,
+    "longitude": -104.2191881,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4605868131,
+    "name": "Boat Ramp",
+    "latitude": 36.5406793,
+    "longitude": -105.2668776,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4605911023,
+    "name": "Boat Ramp",
+    "latitude": 36.5362873,
+    "longitude": -105.2634381,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5243562757,
+    "name": "Cutter Reservoir Boat Launch",
+    "latitude": 36.6945364,
+    "longitude": -107.6809569,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Cutter Reservoir Boat Launch"
+    }
+  },
+  {
+    "id": 5929789223,
+    "name": "Taos Junction Bridge Boat Launch",
+    "latitude": 36.3356916,
+    "longitude": -105.733858,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "access": "yes",
+      "charge": "3 USD",
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "Taos Junction Bridge Boat Launch",
+      "payment:cash": "yes",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 7931029555,
+    "name": "Lone Juniper Boat Takeout",
+    "latitude": 36.2995305,
+    "longitude": -105.7724809,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lone Juniper Boat Takeout"
+    }
+  },
+  {
+    "id": 10232186818,
+    "name": "Boat Ramp",
+    "latitude": 34.1388028,
+    "longitude": -108.4958809,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10232186830,
+    "name": "Boat Ramp",
+    "latitude": 34.1366298,
+    "longitude": -108.4911917,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10295300313,
+    "name": "Boat Ramp",
+    "latitude": 33.4232196,
+    "longitude": -108.498038,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 10552704377,
+    "name": "Boat Ramp",
+    "latitude": 33.1101146,
+    "longitude": -107.2972645,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10552704378,
+    "name": "Boat Ramp",
+    "latitude": 33.1076824,
+    "longitude": -107.2971176,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10552704379,
+    "name": "Boat Ramp",
+    "latitude": 33.1165419,
+    "longitude": -107.2575649,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10848058318,
+    "name": "Boat Ramp",
+    "latitude": 36.6739952,
+    "longitude": -106.7147002,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10848058329,
+    "name": "Big Eddy Access",
+    "latitude": 36.3115104,
+    "longitude": -106.5829724,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Big Eddy Access",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 10874927593,
+    "name": "Boat Ramp",
+    "latitude": 34.6158188,
+    "longitude": -104.3885172,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10874945440,
+    "name": "Boat Ramp",
+    "latitude": 34.615657,
+    "longitude": -104.3768171,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11769785326,
+    "name": "Boat Ramp",
+    "latitude": 35.0324099,
+    "longitude": -104.6847537,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11892988174,
+    "name": "Boat Ramp",
+    "latitude": 36.3512413,
+    "longitude": -106.6724658,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12922620831,
+    "name": "Boat Ramp",
+    "latitude": 32.9102776,
+    "longitude": -107.3063197,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12945587868,
+    "name": "Boat Ramp",
+    "latitude": 34.7944639,
+    "longitude": -106.7249419,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12947000699,
+    "name": "Boat Ramp",
+    "latitude": 34.8476675,
+    "longitude": -106.7156839,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 148537575,
+    "name": "Boat Ramp",
+    "latitude": 33.1612413,
+    "longitude": -107.2455212,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "intermittent": "yes",
+      "leisure": "slipway",
+      "source": "image",
+      "tunnel": "yes",
+      "waterway": "stream"
+    }
+  },
+  {
+    "id": 169258456,
+    "name": "Boat Ramp",
+    "latitude": 33.1520126,
+    "longitude": -107.2041921,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "image",
+      "surface": "asphalt",
+      "width": "10"
+    }
+  },
+  {
+    "id": 169258457,
+    "name": "Boat Ramp",
+    "latitude": 33.1470821,
+    "longitude": -107.2074565,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 169258460,
+    "name": "Boat Ramp",
+    "latitude": 33.1480467,
+    "longitude": -107.2164197,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 169259186,
+    "name": "Boat Ramp",
+    "latitude": 33.1526881,
+    "longitude": -107.1955785,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 169259187,
+    "name": "Boat Ramp",
+    "latitude": 33.1484471,
+    "longitude": -107.2204262,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway",
+      "source": "imagery",
+      "surface": "dirt",
+      "width": "7"
+    }
+  },
+  {
+    "id": 169259188,
+    "name": "Boat Ramp",
+    "latitude": 33.1527667,
+    "longitude": -107.1992172,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 169261235,
+    "name": "Boat Ramp",
+    "latitude": 33.146145,
+    "longitude": -107.2218539,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway",
+      "source": "image",
+      "surface": "dirt",
+      "width": "4"
+    }
+  },
+  {
+    "id": 169261908,
+    "name": "Boat Ramp",
+    "latitude": 33.1331298,
+    "longitude": -107.2268424,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway",
+      "source": "image",
+      "surface": "gravel",
+      "width": "10"
+    }
+  },
+  {
+    "id": 169262192,
+    "name": "Boat Ramp",
+    "latitude": 33.1296945,
+    "longitude": -107.2302813,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway",
+      "source": "image",
+      "surface": "gravel",
+      "width": "10"
+    }
+  },
+  {
+    "id": 169273653,
+    "name": "Boat Ramp",
+    "latitude": 33.1164824,
+    "longitude": -107.2575646,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "Bing 2020",
+      "surface": "gravel",
+      "width": "10"
+    }
+  },
+  {
+    "id": 170164430,
+    "name": "Boat Ramp",
+    "latitude": 33.1071586,
+    "longitude": -107.2975488,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway",
+      "source": "image",
+      "surface": "dirt",
+      "width": "5"
+    }
+  },
+  {
+    "id": 170164950,
+    "name": "Boat Ramp",
+    "latitude": 33.112979,
+    "longitude": -107.2751468,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway",
+      "source": "image"
+    }
+  },
+  {
+    "id": 243489705,
+    "name": "Boat Ramp",
+    "latitude": 33.0304792,
+    "longitude": -108.1575951,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 465654474,
+    "name": "Boat Ramp",
+    "latitude": 36.5406416,
+    "longitude": -105.2671445,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 827812941,
+    "name": "Boat Ramp",
+    "latitude": 36.2530507,
+    "longitude": -106.4297088,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 892530408,
+    "name": "Boat Ramp",
+    "latitude": 33.1101213,
+    "longitude": -107.2971698,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "Bing 2020",
+      "surface": "dirt",
+      "width": "4"
+    }
+  },
+  {
+    "id": 892530409,
+    "name": "Boat Ramp",
+    "latitude": 33.1076929,
+    "longitude": -107.2970685,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "Bing 2020",
+      "surface": "dirt",
+      "width": "4"
+    }
+  },
+  {
+    "id": 1091346174,
+    "name": "Snow Lake Boat Ramp",
+    "latitude": 33.4234394,
+    "longitude": -108.4981467,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "lit": "no",
+      "name": "Snow Lake Boat Ramp",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1111696354,
+    "name": "Boat Ramp",
+    "latitude": 33.2251551,
+    "longitude": -107.2041565,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1111696381,
+    "name": "Boat Ramp",
+    "latitude": 33.1813592,
+    "longitude": -107.2041241,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1202567330,
+    "name": "Boat Ramp",
+    "latitude": 35.6358896,
+    "longitude": -106.3228898,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1203336273,
+    "name": "Boat Ramp",
+    "latitude": 35.644336,
+    "longitude": -106.3132222,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1451364898,
+    "name": "Boat Ramp",
+    "latitude": 33.2962313,
+    "longitude": -107.1775574,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 2360735305,
+    "name": "Boat Ramp",
+    "latitude": 35.365134,
+    "longitude": -103.4937757,
+    "state": "New Mexico",
+    "stateAbbr": "NM",
+    "tags": {
+      "leisure": "slipway"
+    }
+  }
+]

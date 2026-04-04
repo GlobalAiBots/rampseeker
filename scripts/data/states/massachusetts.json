@@ -1,0 +1,7804 @@
+[
+  {
+    "id": 63698098,
+    "name": "Boat Ramp",
+    "latitude": 41.7597868,
+    "longitude": -70.0181125,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 65623737,
+    "name": "Boat Ramp",
+    "latitude": 41.7216113,
+    "longitude": -70.7561737,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 66169103,
+    "name": "Johns Pond Boat Launch",
+    "latitude": 41.6348842,
+    "longitude": -70.5223218,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Johns Pond Boat Launch"
+    }
+  },
+  {
+    "id": 66500986,
+    "name": "Boat Ramp",
+    "latitude": 41.3966646,
+    "longitude": -70.5113546,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 67970147,
+    "name": "Boat Ramp",
+    "latitude": 41.63744,
+    "longitude": -70.351217,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 68052450,
+    "name": "Boat Ramp",
+    "latitude": 41.665543,
+    "longitude": -70.3465936,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 68561792,
+    "name": "Boat Ramp",
+    "latitude": 41.968839,
+    "longitude": -71.3262256,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 69401876,
+    "name": "Boat Ramp",
+    "latitude": 41.4561325,
+    "longitude": -70.5894396,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 201309695,
+    "name": "Boat Ramp",
+    "latitude": 41.6641475,
+    "longitude": -71.4143081,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 201705767,
+    "name": "Boat Ramp",
+    "latitude": 41.4224779,
+    "longitude": -71.5030745,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 240651786,
+    "name": "Boat Ramp",
+    "latitude": 41.8694724,
+    "longitude": -71.3802955,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 328666008,
+    "name": "Boat Ramp",
+    "latitude": 41.967122,
+    "longitude": -71.1258173,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 736960120,
+    "name": "Boat Ramp",
+    "latitude": 41.7560676,
+    "longitude": -70.0306654,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 958766954,
+    "name": "Boat Ramp",
+    "latitude": 41.5651658,
+    "longitude": -70.5532576,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 959357062,
+    "name": "Boat Ramp",
+    "latitude": 41.7600692,
+    "longitude": -70.0176588,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 959969119,
+    "name": "Boat Ramp",
+    "latitude": 41.7311611,
+    "longitude": -70.1099079,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 967422460,
+    "name": "Boat Ramp",
+    "latitude": 41.5640407,
+    "longitude": -70.5061071,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 967474651,
+    "name": "Boat Ramp",
+    "latitude": 41.5640594,
+    "longitude": -70.5060278,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 969619838,
+    "name": "Boat Ramp",
+    "latitude": 41.5868048,
+    "longitude": -70.4636841,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 969640323,
+    "name": "Boat Ramp",
+    "latitude": 41.6763705,
+    "longitude": -69.9824497,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "operator": "Chatham Yacht Basin"
+    }
+  },
+  {
+    "id": 969780474,
+    "name": "Boat Ramp",
+    "latitude": 41.8103351,
+    "longitude": -69.9664661,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 971143928,
+    "name": "Boat Ramp",
+    "latitude": 41.6785177,
+    "longitude": -69.9849319,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1585038384,
+    "name": "Cook Pond Access",
+    "latitude": 41.6751997,
+    "longitude": -71.1714948,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "amenity": "parking",
+      "leisure": "slipway",
+      "name": "Cook Pond Access"
+    }
+  },
+  {
+    "id": 1585038389,
+    "name": "South Watuppa Boat Ramp",
+    "latitude": 41.674126,
+    "longitude": -71.1400359,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "amenity": "parking",
+      "leisure": "slipway",
+      "name": "South Watuppa Boat Ramp"
+    }
+  },
+  {
+    "id": 1603906015,
+    "name": "Boat Ramp",
+    "latitude": 41.6565879,
+    "longitude": -71.4485691,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2181965124,
+    "name": "Woods Hole Boat Ramp",
+    "latitude": 41.5264388,
+    "longitude": -70.6740695,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Woods Hole Boat Ramp"
+    }
+  },
+  {
+    "id": 2217935409,
+    "name": "Bold Point Dock",
+    "latitude": 41.8154548,
+    "longitude": -71.3906032,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Bold Point Dock"
+    }
+  },
+  {
+    "id": 2217935512,
+    "name": "Boat Ramp",
+    "latitude": 41.8154577,
+    "longitude": -71.3905213,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2377346715,
+    "name": "Boat Ramp",
+    "latitude": 41.8893113,
+    "longitude": -71.4283282,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2382883884,
+    "name": "Boat Ramp",
+    "latitude": 41.9551539,
+    "longitude": -70.0118137,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2387410283,
+    "name": "Boat Ramp",
+    "latitude": 41.9096038,
+    "longitude": -71.5422332,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2424333215,
+    "name": "Boat Ramp",
+    "latitude": 41.7245131,
+    "longitude": -70.0430513,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2431755095,
+    "name": "Boat Ramp",
+    "latitude": 41.7202143,
+    "longitude": -70.0677375,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2436072119,
+    "name": "Boat Ramp",
+    "latitude": 41.486719,
+    "longitude": -71.2460837,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2603483725,
+    "name": "Boat Ramp",
+    "latitude": 41.5571791,
+    "longitude": -71.6856543,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2670892697,
+    "name": "Boat Ramp",
+    "latitude": 41.9251844,
+    "longitude": -71.0530113,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2775940491,
+    "name": "Long Pond Boat Launch",
+    "latitude": 41.8657026,
+    "longitude": -70.609227,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Long Pond Boat Launch"
+    }
+  },
+  {
+    "id": 2775940493,
+    "name": "Little Long Pond Boat Access",
+    "latitude": 41.8667589,
+    "longitude": -70.6101897,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Little Long Pond Boat Access",
+      "type": "gravel"
+    }
+  },
+  {
+    "id": 2775954227,
+    "name": "Ashumet Pond Boat Launch",
+    "latitude": 41.634051,
+    "longitude": -70.5406414,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Ashumet Pond Boat Launch",
+      "type": "asphalt"
+    }
+  },
+  {
+    "id": 2775954229,
+    "name": "Great Bay Boat Launch",
+    "latitude": 41.5598373,
+    "longitude": -70.5860334,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Great Bay Boat Launch"
+    }
+  },
+  {
+    "id": 3113671830,
+    "name": "Town Landing",
+    "latitude": 41.9981753,
+    "longitude": -70.709995,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Town Landing"
+    }
+  },
+  {
+    "id": 3148266568,
+    "name": "Boat Ramp",
+    "latitude": 41.8220971,
+    "longitude": -71.3885564,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3149464579,
+    "name": "Boat Ramp",
+    "latitude": 41.8121076,
+    "longitude": -71.4017595,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3149553504,
+    "name": "Boat Ramp",
+    "latitude": 41.8220795,
+    "longitude": -71.4060091,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3189452184,
+    "name": "Boat Ramp",
+    "latitude": 41.8185816,
+    "longitude": -71.3885573,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3578943422,
+    "name": "Boat Ramp",
+    "latitude": 41.476202,
+    "longitude": -71.3232673,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3629516754,
+    "name": "Boat Ramp",
+    "latitude": 41.7832389,
+    "longitude": -71.3906964,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3634256311,
+    "name": "Boat Ramp",
+    "latitude": 41.8176485,
+    "longitude": -70.0012165,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3646957814,
+    "name": "Boat Ramp",
+    "latitude": 41.8720285,
+    "longitude": -71.3843054,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3670204567,
+    "name": "Boat Ramp",
+    "latitude": 41.6039455,
+    "longitude": -70.6385639,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4148336685,
+    "name": "Nelson Memorial Park Boat Ramp",
+    "latitude": 41.9681677,
+    "longitude": -70.6722084,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Nelson Memorial Park Boat Ramp"
+    }
+  },
+  {
+    "id": 4148338170,
+    "name": "Boat Ramp",
+    "latitude": 41.9634057,
+    "longitude": -70.6665664,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4259769920,
+    "name": "Mashpee Neck Marina Boat Ramp",
+    "latitude": 41.6026909,
+    "longitude": -70.4649929,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mashpee Neck Marina Boat Ramp"
+    }
+  },
+  {
+    "id": 4259769924,
+    "name": "Mashpee Neck Boat Ramp",
+    "latitude": 41.6002252,
+    "longitude": -70.4662686,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mashpee Neck Boat Ramp"
+    }
+  },
+  {
+    "id": 4272448149,
+    "name": "Boat Ramp",
+    "latitude": 41.7933566,
+    "longitude": -69.9475537,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4351678289,
+    "name": "Boat Ramp",
+    "latitude": 41.5503237,
+    "longitude": -70.6021255,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4388614225,
+    "name": "Boat Ramp",
+    "latitude": 41.7492287,
+    "longitude": -70.7459724,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4933494374,
+    "name": "Boat Ramp",
+    "latitude": 41.6482517,
+    "longitude": -70.2214888,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4958526995,
+    "name": "Boat Ramp",
+    "latitude": 41.7968609,
+    "longitude": -71.1204471,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4958569125,
+    "name": "Hathaway Park Boat Ramp",
+    "latitude": 41.7936388,
+    "longitude": -71.0726414,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Hathaway Park Boat Ramp"
+    }
+  },
+  {
+    "id": 4968459738,
+    "name": "Boat Ramp",
+    "latitude": 41.654385,
+    "longitude": -71.4443178,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5418959416,
+    "name": "Boat Ramp",
+    "latitude": 41.4792024,
+    "longitude": -71.3609356,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "boat ramp"
+    }
+  },
+  {
+    "id": 5838246138,
+    "name": "Boat Ramp",
+    "latitude": 41.7661496,
+    "longitude": -71.3689591,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5871939396,
+    "name": "Boat Ramp",
+    "latitude": 41.6817195,
+    "longitude": -69.9681057,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5927801236,
+    "name": "Boat Ramp",
+    "latitude": 41.6198752,
+    "longitude": -71.3048286,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 5940610296,
+    "name": "Boat Ramp",
+    "latitude": 41.6772671,
+    "longitude": -71.1130389,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5965428280,
+    "name": "Boat Ramp",
+    "latitude": 41.735108,
+    "longitude": -71.2906225,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5965428338,
+    "name": "Boat Ramp",
+    "latitude": 41.7537836,
+    "longitude": -71.3528404,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5965428426,
+    "name": "Boat Ramp",
+    "latitude": 41.7470951,
+    "longitude": -71.3520692,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6075149080,
+    "name": "Boat Ramp",
+    "latitude": 41.7700599,
+    "longitude": -70.5042412,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 6083335645,
+    "name": "Boat Ramp",
+    "latitude": 41.7791634,
+    "longitude": -69.971433,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6086625585,
+    "name": "Boat Ramp",
+    "latitude": 41.7798641,
+    "longitude": -69.9619312,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6088286982,
+    "name": "Boat Ramp",
+    "latitude": 41.7701687,
+    "longitude": -69.9783388,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6090001610,
+    "name": "Boat Ramp",
+    "latitude": 41.7613924,
+    "longitude": -69.9820516,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6090599197,
+    "name": "Boat Ramp",
+    "latitude": 41.7540109,
+    "longitude": -69.9693628,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6090826519,
+    "name": "Boat Ramp",
+    "latitude": 41.7346111,
+    "longitude": -69.9908942,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6409968179,
+    "name": "Boat Ramp",
+    "latitude": 41.955891,
+    "longitude": -70.6582567,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6731994701,
+    "name": "Boat Ramp",
+    "latitude": 41.4972534,
+    "longitude": -71.3667681,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6814993400,
+    "name": "Boat Ramp",
+    "latitude": 41.7449566,
+    "longitude": -70.6171408,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7003282315,
+    "name": "Colt State Park Boat Ramp",
+    "latitude": 41.6855484,
+    "longitude": -71.2957704,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "description": "Depth 4 feet at mean low water",
+      "leisure": "slipway",
+      "name": "Colt State Park Boat Ramp",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 7039475687,
+    "name": "Boat Ramp",
+    "latitude": 41.6989594,
+    "longitude": -70.6235752,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7550295419,
+    "name": "Boat Ramp",
+    "latitude": 41.6693911,
+    "longitude": -70.0579738,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7792861451,
+    "name": "Boat Ramp",
+    "latitude": 41.9896966,
+    "longitude": -71.195481,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7915483028,
+    "name": "Boat Ramp",
+    "latitude": 41.8771295,
+    "longitude": -71.0930599,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7933101354,
+    "name": "Boat Ramp",
+    "latitude": 41.4063849,
+    "longitude": -71.7480401,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8152566318,
+    "name": "Boat Ramp",
+    "latitude": 41.5653393,
+    "longitude": -70.5533455,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8272535868,
+    "name": "Boat Ramp",
+    "latitude": 41.7614247,
+    "longitude": -69.982214,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8279937624,
+    "name": "Boat Ramp",
+    "latitude": 41.4513194,
+    "longitude": -71.5122341,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "boat ramp"
+    }
+  },
+  {
+    "id": 8624048916,
+    "name": "Boat Ramp",
+    "latitude": 41.9644733,
+    "longitude": -71.0338821,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8726081402,
+    "name": "Boat Ramp",
+    "latitude": 41.5251424,
+    "longitude": -70.6710158,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8952616942,
+    "name": "Megansett Boat Ramp",
+    "latitude": 41.6561573,
+    "longitude": -70.6236588,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Megansett Boat Ramp"
+    }
+  },
+  {
+    "id": 9041418528,
+    "name": "Boat Ramp",
+    "latitude": 41.5436922,
+    "longitude": -70.6051437,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9172643894,
+    "name": "Boat Ramp",
+    "latitude": 41.6740264,
+    "longitude": -71.1396225,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9172643895,
+    "name": "Boat Ramp",
+    "latitude": 41.6740696,
+    "longitude": -71.1395878,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9307196655,
+    "name": "Boat Ramp",
+    "latitude": 41.7354965,
+    "longitude": -71.3252686,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9311668612,
+    "name": "Boat Ramp",
+    "latitude": 41.5179745,
+    "longitude": -71.0480885,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9320045726,
+    "name": "Boat Ramp",
+    "latitude": 41.6880425,
+    "longitude": -71.2424782,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9385732380,
+    "name": "Boat Ramp",
+    "latitude": 41.6695302,
+    "longitude": -69.9616276,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9393784940,
+    "name": "Boat Ramp",
+    "latitude": 41.666412,
+    "longitude": -69.9683317,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9476501422,
+    "name": "Boat Ramp",
+    "latitude": 41.7772652,
+    "longitude": -71.414204,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9520304225,
+    "name": "Weir Village Riverfront Park",
+    "latitude": 41.8828513,
+    "longitude": -71.0907879,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Weir Village Riverfront Park"
+    }
+  },
+  {
+    "id": 9520900222,
+    "name": "Boat Ramp",
+    "latitude": 41.8817271,
+    "longitude": -71.0919004,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9623188620,
+    "name": "Boat Ramp",
+    "latitude": 41.6699891,
+    "longitude": -71.2784243,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9986164504,
+    "name": "Boat Ramp",
+    "latitude": 41.6486857,
+    "longitude": -70.8251224,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10037867446,
+    "name": "Boat Ramp",
+    "latitude": 41.5790169,
+    "longitude": -70.531633,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10090384069,
+    "name": "Brownell Street Boat Ramp",
+    "latitude": 41.7179859,
+    "longitude": -71.1578492,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Brownell Street Boat Ramp",
+      "parking": "yes"
+    }
+  },
+  {
+    "id": 10301296198,
+    "name": "Boat Ramp",
+    "latitude": 41.6185273,
+    "longitude": -71.4146978,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10844166119,
+    "name": "Boat Ramp",
+    "latitude": 41.552523,
+    "longitude": -70.5686938,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10924612870,
+    "name": "Boat Ramp",
+    "latitude": 41.6716762,
+    "longitude": -69.9899945,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11001801798,
+    "name": "Boat Ramp",
+    "latitude": 41.6666336,
+    "longitude": -69.9664139,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11022525552,
+    "name": "Boat Ramp",
+    "latitude": 41.6749193,
+    "longitude": -69.9848816,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11025620077,
+    "name": "Boat Ramp",
+    "latitude": 41.6775998,
+    "longitude": -69.9814604,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "operator": "Town of Chatham"
+    }
+  },
+  {
+    "id": 11028255470,
+    "name": "Boat Ramp",
+    "latitude": 41.7046144,
+    "longitude": -69.9780848,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11065775829,
+    "name": "Boat Ramp",
+    "latitude": 41.5292859,
+    "longitude": -71.3445445,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11065775830,
+    "name": "Boat Ramp",
+    "latitude": 41.5304433,
+    "longitude": -71.3428466,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11065793892,
+    "name": "Boat Ramp",
+    "latitude": 41.3637994,
+    "longitude": -71.6267403,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11065793893,
+    "name": "Boat Ramp",
+    "latitude": 41.3644062,
+    "longitude": -71.6266916,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11065793894,
+    "name": "Boat Ramp",
+    "latitude": 41.3651761,
+    "longitude": -71.6267527,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11256617723,
+    "name": "Boat Ramp",
+    "latitude": 41.7427276,
+    "longitude": -70.6155728,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11705162512,
+    "name": "Boat Ramp",
+    "latitude": 41.6760777,
+    "longitude": -71.2888937,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12081730622,
+    "name": "Boat Ramp",
+    "latitude": 41.7405316,
+    "longitude": -70.6485835,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12175691094,
+    "name": "Camp Fuller Kayaks",
+    "latitude": 41.4096099,
+    "longitude": -71.5088103,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Camp Fuller Kayaks"
+    }
+  },
+  {
+    "id": 12329043029,
+    "name": "Lovells Pond Boat Ramp",
+    "latitude": 41.6488848,
+    "longitude": -70.4453566,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lovells Pond Boat Ramp",
+      "tidal": "no",
+      "waterbody:name": "Lovells Pond"
+    }
+  },
+  {
+    "id": 12984691924,
+    "name": "Boat Ramp",
+    "latitude": 41.9772324,
+    "longitude": -71.2002581,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13256162487,
+    "name": "Boat Ramp",
+    "latitude": 41.5739214,
+    "longitude": -71.2880663,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13704221306,
+    "name": "Batcheller Ave Boat Launch",
+    "latitude": 41.7890659,
+    "longitude": -71.4675804,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Batcheller Ave Boat Launch",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 9016707,
+    "name": "Kayak Launch",
+    "latitude": 41.8176403,
+    "longitude": -70.0012959,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Kayak Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 9198655,
+    "name": "Boat Ramp",
+    "latitude": 41.9688053,
+    "longitude": -71.3263318,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 179110565,
+    "name": "Westport River Boat Ramp",
+    "latitude": 41.5148203,
+    "longitude": -71.06807,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Westport River Boat Ramp"
+    }
+  },
+  {
+    "id": 356375030,
+    "name": "Boat Ramp",
+    "latitude": 41.7999827,
+    "longitude": -70.0084163,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 356986421,
+    "name": "Boat Ramp",
+    "latitude": 41.7525846,
+    "longitude": -70.1538459,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 356986422,
+    "name": "Boat Ramp",
+    "latitude": 41.7536195,
+    "longitude": -70.1513595,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 356986423,
+    "name": "Boat Ramp",
+    "latitude": 41.7524934,
+    "longitude": -70.1538776,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 358560668,
+    "name": "Boat Ramp",
+    "latitude": 41.8006044,
+    "longitude": -70.0064704,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 362762742,
+    "name": "West Falmouth Public Boat Launch",
+    "latitude": 41.6038679,
+    "longitude": -70.6384675,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "West Falmouth Public Boat Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 366888927,
+    "name": "Boat Ramp",
+    "latitude": 41.8083331,
+    "longitude": -69.9674521,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 367102386,
+    "name": "Boat Ramp",
+    "latitude": 41.8103162,
+    "longitude": -69.9666856,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 367132654,
+    "name": "Boat Ramp",
+    "latitude": 41.7951389,
+    "longitude": -69.9822231,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 367132655,
+    "name": "Boat Ramp",
+    "latitude": 41.8000982,
+    "longitude": -69.9806649,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 367723360,
+    "name": "Boat Ramp",
+    "latitude": 41.7962329,
+    "longitude": -69.9497522,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 367888919,
+    "name": "Boat Ramp",
+    "latitude": 41.7880299,
+    "longitude": -69.9858312,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "fee": "no",
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 428107868,
+    "name": "Boat Ramp",
+    "latitude": 41.7931427,
+    "longitude": -69.9475125,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 435715075,
+    "name": "Boat Ramp",
+    "latitude": 41.5314865,
+    "longitude": -70.6705666,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 648737452,
+    "name": "Boat Ramp",
+    "latitude": 41.7614396,
+    "longitude": -69.982036,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 648823469,
+    "name": "Boat Ramp",
+    "latitude": 41.7539489,
+    "longitude": -69.9694366,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 667242635,
+    "name": "Boat Ramp",
+    "latitude": 41.4939197,
+    "longitude": -71.321523,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 667242636,
+    "name": "Boat Ramp",
+    "latitude": 41.4932742,
+    "longitude": -71.3215245,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 667242648,
+    "name": "Boat Ramp",
+    "latitude": 41.4926267,
+    "longitude": -71.3215742,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 690765193,
+    "name": "Boat Ramp",
+    "latitude": 41.6967786,
+    "longitude": -70.6287644,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 693944540,
+    "name": "Boat Ramp",
+    "latitude": 41.7390049,
+    "longitude": -70.7153669,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 718040354,
+    "name": "Boat Ramp",
+    "latitude": 41.8003912,
+    "longitude": -69.980444,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 754580041,
+    "name": "Boat Ramp",
+    "latitude": 41.9480164,
+    "longitude": -70.6368867,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "destination",
+      "condition": "fair",
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "service": "driveway",
+      "width": "7.6"
+    }
+  },
+  {
+    "id": 754580042,
+    "name": "Boat Ramp",
+    "latitude": 41.9478625,
+    "longitude": -70.6370776,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "track",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 839100460,
+    "name": "Boat Ramp",
+    "latitude": 41.7388506,
+    "longitude": -70.7151472,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "tidal": "yes"
+    }
+  },
+  {
+    "id": 839532186,
+    "name": "Boat Ramp",
+    "latitude": 41.6649188,
+    "longitude": -71.4171695,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 844435555,
+    "name": "Boat Ramp",
+    "latitude": 41.4932825,
+    "longitude": -71.3214059,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 846160781,
+    "name": "Hemenway Landing",
+    "latitude": 41.8229743,
+    "longitude": -69.9648736,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "covered": "no",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "name": "Hemenway Landing",
+      "oneway": "no",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 847371318,
+    "name": "Boat Ramp",
+    "latitude": 41.9299164,
+    "longitude": -70.0286007,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "fee": "yes",
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 848226998,
+    "name": "Salt Pond Landing",
+    "latitude": 41.8350928,
+    "longitude": -69.9733717,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "name": "Salt Pond Landing",
+      "service": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 854280688,
+    "name": "Boat Ramp",
+    "latitude": 41.9913078,
+    "longitude": -70.0723386,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "operator": "Town of Truro Harbormaster",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 865548354,
+    "name": "Boat Ramp",
+    "latitude": 41.7792436,
+    "longitude": -69.9715171,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 868489420,
+    "name": "Boat Ramp",
+    "latitude": 41.8324959,
+    "longitude": -69.9838594,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 884551870,
+    "name": "Boat Ramp",
+    "latitude": 41.8041163,
+    "longitude": -69.9517871,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 884579170,
+    "name": "Boat Ramp",
+    "latitude": 41.7798713,
+    "longitude": -69.9617899,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 889964342,
+    "name": "Boat Ramp",
+    "latitude": 41.7701487,
+    "longitude": -69.9784245,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 889970356,
+    "name": "Boat Ramp",
+    "latitude": 41.7615084,
+    "longitude": -69.9821843,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 901693572,
+    "name": "Boat Ramp",
+    "latitude": 41.4221524,
+    "longitude": -71.4554379,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "layer": "1",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 901985508,
+    "name": "Boat Ramp",
+    "latitude": 41.3831276,
+    "longitude": -71.5075368,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 902035369,
+    "name": "Boat Ramp",
+    "latitude": 41.3804337,
+    "longitude": -71.516531,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 902091552,
+    "name": "Boat Ramp",
+    "latitude": 41.3852916,
+    "longitude": -71.5256064,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 902098342,
+    "name": "Boat Ramp",
+    "latitude": 41.3858525,
+    "longitude": -71.5195552,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 903748198,
+    "name": "Boat Ramp",
+    "latitude": 41.6202545,
+    "longitude": -70.9144827,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 904272577,
+    "name": "Boat Ramp",
+    "latitude": 41.6001777,
+    "longitude": -70.9132975,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 904678884,
+    "name": "Boat Ramp",
+    "latitude": 41.6389242,
+    "longitude": -70.9070703,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 904678885,
+    "name": "Boat Ramp",
+    "latitude": 41.6388642,
+    "longitude": -70.9070548,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 904700670,
+    "name": "Boat Ramp",
+    "latitude": 41.6538692,
+    "longitude": -70.9149662,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 905237219,
+    "name": "Boat Ramp",
+    "latitude": 41.6453372,
+    "longitude": -70.909491,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 905240658,
+    "name": "Boat Ramp",
+    "latitude": 41.6422921,
+    "longitude": -70.9171246,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 909098226,
+    "name": "Boat Ramp",
+    "latitude": 41.5263777,
+    "longitude": -70.6738721,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 915927616,
+    "name": "Boat Ramp",
+    "latitude": 41.8894311,
+    "longitude": -71.5081433,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 915947048,
+    "name": "Boat Ramp",
+    "latitude": 41.6855392,
+    "longitude": -71.2955077,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 942337224,
+    "name": "Boat Ramp",
+    "latitude": 41.5250846,
+    "longitude": -70.6710653,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 944801928,
+    "name": "Boat Ramp",
+    "latitude": 41.5317513,
+    "longitude": -70.6706916,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 966547944,
+    "name": "Cartopper Only Launch",
+    "latitude": 41.5651753,
+    "longitude": -70.5533245,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Cartopper Only Launch",
+      "service": "slipway",
+      "surface": "dirt"
+    }
+  },
+  {
+    "id": 966553675,
+    "name": "Green Pond Town Landing",
+    "latitude": 41.5525137,
+    "longitude": -70.5686204,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Green Pond Town Landing",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 966555161,
+    "name": "Great Bay Boat Launch",
+    "latitude": 41.5598519,
+    "longitude": -70.586174,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "name": "Great Bay Boat Launch",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 967647561,
+    "name": "White'S Landing",
+    "latitude": 41.5790181,
+    "longitude": -70.5316884,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "White's Landing",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 967693920,
+    "name": "Waquoit Bay Landing",
+    "latitude": 41.5762623,
+    "longitude": -70.5277364,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "name": "Waquoit Bay Landing",
+      "service": "slipway",
+      "source": "https://www.falmouthma.gov/DocumentCenter/View/900/Town-Ramps-PDF",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 967697538,
+    "name": "Magansett Bay Landing",
+    "latitude": 41.6561055,
+    "longitude": -70.6236674,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "name": "Magansett Bay Landing",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 971763191,
+    "name": "Boat Ramp",
+    "latitude": 41.6242983,
+    "longitude": -70.3726582,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 971894952,
+    "name": "Worden'S Pond Boat Launch",
+    "latitude": 41.4294867,
+    "longitude": -71.5678099,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Worden's Pond Boat Launch",
+      "service": "slipway",
+      "surface": "paved",
+      "width": "7.5"
+    }
+  },
+  {
+    "id": 977030783,
+    "name": "Boat Ramp",
+    "latitude": 41.5436483,
+    "longitude": -70.6050779,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 992815727,
+    "name": "Boat Ramp",
+    "latitude": 41.6740876,
+    "longitude": -71.1396304,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 992815728,
+    "name": "Boat Ramp",
+    "latitude": 41.674043,
+    "longitude": -71.1396635,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 993069231,
+    "name": "Boat Ramp",
+    "latitude": 41.9969454,
+    "longitude": -71.4942456,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 998960325,
+    "name": "Children’S Beach Boat Ramp",
+    "latitude": 41.2878901,
+    "longitude": -70.0970818,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Children’s Beach Boat Ramp",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1008923961,
+    "name": "Boat Ramp",
+    "latitude": 41.737267,
+    "longitude": -71.2971223,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1017572966,
+    "name": "Boat Ramp",
+    "latitude": 41.6692816,
+    "longitude": -69.9624891,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1019437150,
+    "name": "Boat Ramp",
+    "latitude": 41.4916195,
+    "longitude": -71.0385219,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "highway": "track",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "sand",
+      "tracktype": "grade5"
+    }
+  },
+  {
+    "id": 1037454039,
+    "name": "Boat Ramp",
+    "latitude": 41.55489,
+    "longitude": -71.2135895,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1046431159,
+    "name": "Boat Ramp",
+    "latitude": 41.6700103,
+    "longitude": -71.2783419,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1047624317,
+    "name": "Boat Ramp",
+    "latitude": 41.6742599,
+    "longitude": -71.2796406,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1062721617,
+    "name": "Boat Ramp",
+    "latitude": 41.3518543,
+    "longitude": -70.7675982,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1126558253,
+    "name": "Boat Ramp",
+    "latitude": 41.620463,
+    "longitude": -71.4120314,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1126561330,
+    "name": "Boat Ramp",
+    "latitude": 41.6187648,
+    "longitude": -71.414966,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1127602004,
+    "name": "Boat Ramp",
+    "latitude": 41.4706462,
+    "longitude": -71.3367736,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1127609879,
+    "name": "Boat Ramp",
+    "latitude": 41.4728595,
+    "longitude": -71.3375654,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1127994429,
+    "name": "Boat Ramp",
+    "latitude": 41.5050395,
+    "longitude": -71.327259,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1131817240,
+    "name": "Stillwater Basin",
+    "latitude": 41.5349491,
+    "longitude": -71.313678,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Stillwater Basin",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "service": "slipway",
+      "source": "https://www.navsea.navy.mil/Portals/103/Documents/NUWC_Newport/ANTXdocs/NAVSTA%20Map.pdf?ver=2018-06-21-093352-543",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1137660552,
+    "name": "Boat Ramp",
+    "latitude": 41.6219402,
+    "longitude": -70.3953772,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1137678775,
+    "name": "Boat Ramp",
+    "latitude": 41.623506,
+    "longitude": -70.3971144,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1161473064,
+    "name": "Boat Ramp",
+    "latitude": 41.6421551,
+    "longitude": -70.6444097,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1161766871,
+    "name": "Boat Ramp",
+    "latitude": 41.597408,
+    "longitude": -70.8444745,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1163097712,
+    "name": "Boat Ramp",
+    "latitude": 41.6595316,
+    "longitude": -70.6433011,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "sand"
+    }
+  },
+  {
+    "id": 1163097713,
+    "name": "Boat Ramp",
+    "latitude": 41.6595535,
+    "longitude": -70.6440987,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1163465021,
+    "name": "Boat Ramp",
+    "latitude": 41.6702456,
+    "longitude": -70.6473854,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1163672149,
+    "name": "Boat Ramp",
+    "latitude": 41.6679645,
+    "longitude": -70.6257484,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1163739077,
+    "name": "Boat Ramp",
+    "latitude": 41.6748266,
+    "longitude": -70.6141219,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1163972242,
+    "name": "Boat Ramp",
+    "latitude": 41.6861318,
+    "longitude": -70.6190184,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1164000835,
+    "name": "Boat Ramp",
+    "latitude": 41.6863357,
+    "longitude": -70.6284807,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1164018105,
+    "name": "Boat Ramp",
+    "latitude": 41.6910545,
+    "longitude": -70.6267329,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1164213977,
+    "name": "Boat Ramp",
+    "latitude": 41.6807837,
+    "longitude": -70.651296,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1164289110,
+    "name": "Boat Ramp",
+    "latitude": 41.6952928,
+    "longitude": -70.6412493,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1164744377,
+    "name": "Boat Ramp",
+    "latitude": 41.6963844,
+    "longitude": -70.6331952,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1165479440,
+    "name": "Boat Ramp",
+    "latitude": 41.5115161,
+    "longitude": -70.7068753,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1165486383,
+    "name": "Boat Ramp",
+    "latitude": 41.5116828,
+    "longitude": -70.7073676,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1202023157,
+    "name": "Wequaquet Lake Boat Ramp",
+    "latitude": 41.6795622,
+    "longitude": -70.3487254,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Wequaquet Lake Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1218630998,
+    "name": "Boat Ramp",
+    "latitude": 41.5274397,
+    "longitude": -70.6758586,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1218837280,
+    "name": "Boat Ramp",
+    "latitude": 41.523048,
+    "longitude": -70.6671495,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1218837281,
+    "name": "Boat Ramp",
+    "latitude": 41.5228094,
+    "longitude": -70.6645331,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1219523486,
+    "name": "Boat Ramp",
+    "latitude": 41.543927,
+    "longitude": -70.6524284,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1219523488,
+    "name": "Boat Ramp",
+    "latitude": 41.5441356,
+    "longitude": -70.6522772,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1223955763,
+    "name": "Boat Ramp",
+    "latitude": 41.5825074,
+    "longitude": -70.4614637,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1225540941,
+    "name": "Boat Ramp",
+    "latitude": 41.6002165,
+    "longitude": -70.4662454,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1225714970,
+    "name": "Boat Ramp",
+    "latitude": 41.6026736,
+    "longitude": -70.4650822,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1229742280,
+    "name": "Boat Ramp",
+    "latitude": 41.6850315,
+    "longitude": -71.3930999,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1233813601,
+    "name": "Boat Ramp",
+    "latitude": 41.7230358,
+    "longitude": -70.2354189,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1252878293,
+    "name": "Lake Street Landing",
+    "latitude": 41.4561611,
+    "longitude": -70.6216055,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Lake Street Landing",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1259167562,
+    "name": "Boat Ramp",
+    "latitude": 41.6758634,
+    "longitude": -71.2894688,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "maxar"
+    }
+  },
+  {
+    "id": 1289206081,
+    "name": "Boat Ramp",
+    "latitude": 41.5722664,
+    "longitude": -70.5040983,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1290263133,
+    "name": "Boat Ramp",
+    "latitude": 41.5657407,
+    "longitude": -70.5108441,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1290263135,
+    "name": "Boat Ramp",
+    "latitude": 41.5660855,
+    "longitude": -70.5103576,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1290317908,
+    "name": "Boat Ramp",
+    "latitude": 41.5653516,
+    "longitude": -70.5112946,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1296669242,
+    "name": "Boat Ramp",
+    "latitude": 41.6674636,
+    "longitude": -70.0898189,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1301642949,
+    "name": "Boat Ramp",
+    "latitude": 41.4740719,
+    "longitude": -71.4694277,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1307332096,
+    "name": "Boat Ramp",
+    "latitude": 41.3966344,
+    "longitude": -70.5113646,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "condition": "good",
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "service": "slipway",
+      "width": "9.1"
+    }
+  },
+  {
+    "id": 1309519808,
+    "name": "Boat Ramp",
+    "latitude": 41.4635954,
+    "longitude": -71.1934094,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1310588161,
+    "name": "Boat Ramp",
+    "latitude": 41.6640992,
+    "longitude": -71.4142988,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:name_base": "Robert",
+      "tiger:name_type": "Ave",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1311284250,
+    "name": "Boat Ramp",
+    "latitude": 41.6817799,
+    "longitude": -69.9680852,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1315189714,
+    "name": "Boat Ramp",
+    "latitude": 41.6760106,
+    "longitude": -70.4756333,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1315838884,
+    "name": "Boat Ramp",
+    "latitude": 41.6674374,
+    "longitude": -70.4310609,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1343820807,
+    "name": "Boat Ramp",
+    "latitude": 41.5856242,
+    "longitude": -70.4751595,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1412069435,
+    "name": "Boat Ramp",
+    "latitude": 41.2747121,
+    "longitude": -70.2027181,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1412069436,
+    "name": "Boat Ramp",
+    "latitude": 41.2747164,
+    "longitude": -70.2025322,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1412069437,
+    "name": "Boat Ramp",
+    "latitude": 41.2747904,
+    "longitude": -70.2025295,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1414296543,
+    "name": "Boat Ramp",
+    "latitude": 41.7181782,
+    "longitude": -71.1662805,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1424119458,
+    "name": "Boat Ramp",
+    "latitude": 41.7208272,
+    "longitude": -71.2560032,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1425845605,
+    "name": "Boat Ramp",
+    "latitude": 41.6942551,
+    "longitude": -70.4901099,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1429396063,
+    "name": "Boat Ramp",
+    "latitude": 41.5632273,
+    "longitude": -70.5089927,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1449710575,
+    "name": "Boat Ramp",
+    "latitude": 41.568094,
+    "longitude": -71.4528298,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1466089395,
+    "name": "Lovells Pond Boat Ramp",
+    "latitude": 41.6488873,
+    "longitude": -70.4453781,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Lovells Pond Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1467336902,
+    "name": "Boat Ramp",
+    "latitude": 41.3176587,
+    "longitude": -70.766671,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1469630640,
+    "name": "Hoopers Landing",
+    "latitude": 41.6197846,
+    "longitude": -70.4330781,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Hoopers Landing",
+      "operator": "Town of Barnstable",
+      "service": "slipway",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 1479407782,
+    "name": "Boat Ramp",
+    "latitude": 41.5090067,
+    "longitude": -71.4178189,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1495922461,
+    "name": "Batcheller Ave Boat Launch",
+    "latitude": 41.7889955,
+    "longitude": -71.4674517,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Batcheller Ave Boat Launch",
+      "surface": "unpaved",
+      "trailer": "no"
+    }
+  },
+  {
+    "id": 41462369,
+    "name": "Boat Ramp",
+    "latitude": 42.772873,
+    "longitude": -71.4253769,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 61779700,
+    "name": "Petapawag Boat Launch",
+    "latitude": 42.6283738,
+    "longitude": -71.5933246,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Petapawag Boat Launch",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 63584561,
+    "name": "Boat Ramp",
+    "latitude": 42.3075209,
+    "longitude": -72.828743,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 66816060,
+    "name": "Boat Ramp",
+    "latitude": 42.730884,
+    "longitude": -71.2483156,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 67762298,
+    "name": "Boat Ramp",
+    "latitude": 42.1750492,
+    "longitude": -73.279754,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 69244371,
+    "name": "Boat Ramp",
+    "latitude": 42.7155667,
+    "longitude": -72.4525986,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 74970956,
+    "name": "Boat Ramp",
+    "latitude": 42.0693011,
+    "longitude": -71.3547335,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 194388997,
+    "name": "Frost Pond Boat Ramp",
+    "latitude": 42.8632198,
+    "longitude": -72.018527,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Frost Pond boat ramp",
+      "surface": "dirt"
+    }
+  },
+  {
+    "id": 240184102,
+    "name": "Boat Ramp",
+    "latitude": 42.6924294,
+    "longitude": -71.1761033,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 326803416,
+    "name": "Boat Ramp",
+    "latitude": 42.8427752,
+    "longitude": -70.9820425,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "waterbody:name": "Lake Attitash"
+    }
+  },
+  {
+    "id": 326840005,
+    "name": "Boat Ramp",
+    "latitude": 42.7898493,
+    "longitude": -70.8109265,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImagery"
+    }
+  },
+  {
+    "id": 335871951,
+    "name": "Boat Ramp",
+    "latitude": 42.7873507,
+    "longitude": -72.5053414,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 358261009,
+    "name": "Kernwood Marina",
+    "latitude": 42.5405693,
+    "longitude": -70.8988854,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "ele": "9",
+      "leisure": "slipway",
+      "name": "Kernwood Marina"
+    }
+  },
+  {
+    "id": 417056233,
+    "name": "Boat Ramp",
+    "latitude": 42.2929152,
+    "longitude": -71.3106571,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 588334227,
+    "name": "Boat Ramp",
+    "latitude": 42.8793951,
+    "longitude": -71.0662587,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "waterbody:name": "Country Pond"
+    }
+  },
+  {
+    "id": 595519372,
+    "name": "Boat Ramp",
+    "latitude": 42.768417,
+    "longitude": -71.302256,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 596436472,
+    "name": "Lorraine Larrabee Boat Launch",
+    "latitude": 42.2064108,
+    "longitude": -70.9427372,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lorraine Larrabee Boat Launch"
+    }
+  },
+  {
+    "id": 598225001,
+    "name": "Boat Ramp",
+    "latitude": 42.2519325,
+    "longitude": -70.9363264,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 602821396,
+    "name": "Cartopper Only Launch",
+    "latitude": 42.419448,
+    "longitude": -71.360505,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Cartopper Only Launch"
+    }
+  },
+  {
+    "id": 635386825,
+    "name": "Boat Ramp",
+    "latitude": 42.2086437,
+    "longitude": -70.8302601,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 687762814,
+    "name": "Boat Ramp",
+    "latitude": 42.6134258,
+    "longitude": -70.6782131,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "yes"
+    }
+  },
+  {
+    "id": 760485950,
+    "name": "Boat Ramp",
+    "latitude": 42.8905573,
+    "longitude": -73.0279932,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "tidal": "no",
+      "waterbody:name": "Red Mill Pond",
+      "website": "https://anrweb.vt.gov/FWD/FW/FishingAccessAreas.aspx?ID=124"
+    }
+  },
+  {
+    "id": 761310787,
+    "name": "South Pond",
+    "latitude": 42.8465454,
+    "longitude": -72.7096893,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "amenity": "parking",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "South Pond",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 761311398,
+    "name": "Old Ferry Road Boat Launch",
+    "latitude": 42.8930027,
+    "longitude": -72.536113,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Old Ferry Road Boat Launch",
+      "parking": "yes",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 766217978,
+    "name": "Corliss Landing",
+    "latitude": 42.6336006,
+    "longitude": -70.6853236,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Corliss Landing"
+    }
+  },
+  {
+    "id": 766218090,
+    "name": "Boat Ramp",
+    "latitude": 42.6441179,
+    "longitude": -70.679486,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 766704812,
+    "name": "Long Wharf Landing",
+    "latitude": 42.6412652,
+    "longitude": -70.6937969,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Long Wharf Landing"
+    }
+  },
+  {
+    "id": 766748427,
+    "name": "Boat Ramp",
+    "latitude": 42.6230383,
+    "longitude": -70.6942996,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 801327110,
+    "name": "Boat Ramp",
+    "latitude": 42.3305698,
+    "longitude": -71.3671968,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 940894085,
+    "name": "Boat Ramp",
+    "latitude": 42.2499545,
+    "longitude": -70.925232,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 951679926,
+    "name": "Margin Street Boat Ramp",
+    "latitude": 42.5503549,
+    "longitude": -70.8870392,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Margin Street Boat Ramp"
+    }
+  },
+  {
+    "id": 951708469,
+    "name": "Draper'S Point",
+    "latitude": 42.5537791,
+    "longitude": -70.8865144,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Draper's Point"
+    }
+  },
+  {
+    "id": 960032232,
+    "name": "Boat Ramp",
+    "latitude": 42.6955231,
+    "longitude": -71.3428333,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 997067742,
+    "name": "Boat Ramp",
+    "latitude": 42.1789543,
+    "longitude": -71.841464,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 997089180,
+    "name": "Boat Ramp",
+    "latitude": 42.091284,
+    "longitude": -71.7685653,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 997368091,
+    "name": "Boat Ramp",
+    "latitude": 42.2426481,
+    "longitude": -71.737407,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1001629628,
+    "name": "Boat Ramp",
+    "latitude": 42.3929663,
+    "longitude": -71.0488157,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1001643401,
+    "name": "Boat Ramp",
+    "latitude": 42.4005822,
+    "longitude": -71.0801936,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1001666259,
+    "name": "Boat Ramp",
+    "latitude": 42.3957155,
+    "longitude": -71.0778492,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1001700761,
+    "name": "Boat Ramp",
+    "latitude": 42.3856862,
+    "longitude": -71.0679969,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "waterway": "s"
+    }
+  },
+  {
+    "id": 1032450496,
+    "name": "Boat Ramp",
+    "latitude": 42.2932739,
+    "longitude": -71.8162648,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1039593393,
+    "name": "Boat Ramp",
+    "latitude": 42.272924,
+    "longitude": -71.3643919,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1040272361,
+    "name": "Boat Ramp",
+    "latitude": 42.3617494,
+    "longitude": -71.1669946,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "waterbody:name": "Charles River"
+    }
+  },
+  {
+    "id": 1080807070,
+    "name": "Boat Ramp",
+    "latitude": 42.2462249,
+    "longitude": -70.8860002,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1141470713,
+    "name": "Boat Ramp",
+    "latitude": 42.3617311,
+    "longitude": -71.1679291,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "waterbody:name": "Charles River"
+    }
+  },
+  {
+    "id": 1385178705,
+    "name": "Wayland Town Dock",
+    "latitude": 42.3163689,
+    "longitude": -71.372391,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Wayland Town Dock"
+    }
+  },
+  {
+    "id": 1411666604,
+    "name": "Boat Ramp",
+    "latitude": 42.110747,
+    "longitude": -71.1758369,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "permit",
+      "description": "Town boat permit required.",
+      "ice_skates": "permissive",
+      "leisure": "slipway",
+      "waterbody:name": "Lake Massapoag"
+    }
+  },
+  {
+    "id": 1447159820,
+    "name": "Boat Ramp",
+    "latitude": 42.1898963,
+    "longitude": -71.4272593,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1454607305,
+    "name": "Bade Canoe Launch",
+    "latitude": 42.1777986,
+    "longitude": -71.1895235,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Bade Canoe Launch"
+    }
+  },
+  {
+    "id": 1458206132,
+    "name": "Boat Ramp",
+    "latitude": 42.7998545,
+    "longitude": -73.1909838,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1479194673,
+    "name": "Ware River",
+    "latitude": 42.3946411,
+    "longitude": -72.050951,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "designation": "kayak",
+      "leisure": "slipway",
+      "name": "Ware river"
+    }
+  },
+  {
+    "id": 1504693503,
+    "name": "Boat Ramp",
+    "latitude": 42.6750892,
+    "longitude": -71.4256767,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1633199231,
+    "name": "Canoe Launch",
+    "latitude": 42.2622701,
+    "longitude": -71.4822805,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe Launch"
+    }
+  },
+  {
+    "id": 1677805956,
+    "name": "Boat Ramp",
+    "latitude": 42.5968939,
+    "longitude": -71.5187634,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1678597725,
+    "name": "Route 225 Boat Launch",
+    "latitude": 42.5092238,
+    "longitude": -71.3132938,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Route 225 Boat Launch",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 1678706304,
+    "name": "Spy Pond Boat Launch",
+    "latitude": 42.4110974,
+    "longitude": -71.1510605,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "name": "Spy Pond Boat Launch",
+      "waterbody:name": "Spy Pond"
+    }
+  },
+  {
+    "id": 1679158862,
+    "name": "Boat Ramp",
+    "latitude": 42.6234794,
+    "longitude": -71.5303992,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1721321109,
+    "name": "Boat Ramp",
+    "latitude": 42.2747253,
+    "longitude": -72.6575287,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1721404175,
+    "name": "Boat Ramp",
+    "latitude": 42.3595126,
+    "longitude": -71.1663259,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "whitewater": "put_in;egress"
+    }
+  },
+  {
+    "id": 1726933544,
+    "name": "Boat Ramp",
+    "latitude": 42.3498867,
+    "longitude": -71.3674834,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1727292521,
+    "name": "Duck Boat Ramp",
+    "latitude": 42.3695792,
+    "longitude": -71.0667297,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "boat": "private",
+      "canoe": "no",
+      "fee": "no",
+      "foot": "no",
+      "lanes": "1",
+      "leisure": "slipway",
+      "lit": "no",
+      "motor_vehicle": "no",
+      "name": "Duck Boat Ramp",
+      "operator": "Boston Duck Tours",
+      "surface": "concrete",
+      "tourism": "yes",
+      "width": "6",
+      "wikidata": "Q4947891",
+      "wikipedia": "en:Boston Duck Tours"
+    }
+  },
+  {
+    "id": 1752559159,
+    "name": "Boat Ramp",
+    "latitude": 42.2328185,
+    "longitude": -71.3298886,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 1779755852,
+    "name": "Boat Ramp",
+    "latitude": 42.2323951,
+    "longitude": -71.4684766,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1787183759,
+    "name": "Boat Ramp",
+    "latitude": 42.2322156,
+    "longitude": -71.3504289,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1948388718,
+    "name": "Nashua River Boat Ramp",
+    "latitude": 42.7492793,
+    "longitude": -71.5058338,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "discouraged",
+      "leisure": "slipway",
+      "name": "Nashua River Boat Ramp",
+      "parking": "yes",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 1985559624,
+    "name": "Boat Ramp",
+    "latitude": 42.8430335,
+    "longitude": -71.4838636,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1985578408,
+    "name": "Greeley Park Boat Ramp",
+    "latitude": 42.7837131,
+    "longitude": -71.4577572,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Greeley Park Boat Ramp"
+    }
+  },
+  {
+    "id": 2015673928,
+    "name": "Boat Ramp",
+    "latitude": 42.5664586,
+    "longitude": -71.5088952,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2080659829,
+    "name": "Boat Ramp",
+    "latitude": 42.5287006,
+    "longitude": -71.4769355,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2131171362,
+    "name": "Boat Ramp",
+    "latitude": 42.4671616,
+    "longitude": -70.9092487,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2131171368,
+    "name": "Boat Ramp",
+    "latitude": 42.4671127,
+    "longitude": -70.9095219,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2154586171,
+    "name": "Lake Winthrop Shorefishing Area",
+    "latitude": 42.1872848,
+    "longitude": -71.4200067,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lake Winthrop Shorefishing Area",
+      "ref": "183",
+      "source": "Mass. DFW"
+    }
+  },
+  {
+    "id": 2173725127,
+    "name": "Boat Ramp",
+    "latitude": 42.4211558,
+    "longitude": -70.9178879,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2261656083,
+    "name": "Boat Ramp",
+    "latitude": 42.3351699,
+    "longitude": -72.6202873,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "description": "Connecticut River Greenway State Park Boat Launch (non-motorized)",
+      "leisure": "slipway",
+      "website": "https://www.mass.gov/locations/connecticut-river-greenway-state-park"
+    }
+  },
+  {
+    "id": 2270947359,
+    "name": "Boat Ramp",
+    "latitude": 42.1809435,
+    "longitude": -72.0729754,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2297733953,
+    "name": "Canoe & Kayak Launch",
+    "latitude": 42.4783967,
+    "longitude": -71.4158557,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe & Kayak launch"
+    }
+  },
+  {
+    "id": 2311327062,
+    "name": "White Pond Road Boat Ramp",
+    "latitude": 42.4236626,
+    "longitude": -71.4750121,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "White Pond Road Boat Ramp",
+      "source": "https://oars3rivers.org/wp-content/uploads/2024/07/Assabet-River-Receation-Guide.pdf",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 2316649951,
+    "name": "Peter'S Pond Boat Launch",
+    "latitude": 42.7144671,
+    "longitude": -71.2598349,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "name": "Peter's Pond Boat Launch",
+      "note": "The locals are a little sensitive to who uses this"
+    }
+  },
+  {
+    "id": 2363098654,
+    "name": "Boat Ramp",
+    "latitude": 42.1447289,
+    "longitude": -73.0433447,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2375621484,
+    "name": "Boat Ramp",
+    "latitude": 42.531929,
+    "longitude": -71.4655135,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2382926807,
+    "name": "Boat Ramp",
+    "latitude": 42.7613552,
+    "longitude": -71.4440308,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "operator": "Independence Rowing Club",
+      "website": "http://www.ircnashua.com/"
+    }
+  },
+  {
+    "id": 2394646980,
+    "name": "Boat Ramp",
+    "latitude": 42.0416398,
+    "longitude": -70.1929688,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 2435664508,
+    "name": "Mill Pond Boat Ramp",
+    "latitude": 42.7488686,
+    "longitude": -71.5008423,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Mill Pond Boat Ramp",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 2447145987,
+    "name": "Boat Ramp",
+    "latitude": 42.3627773,
+    "longitude": -71.0815521,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "customers",
+      "canoe": "yes",
+      "fee": "yes",
+      "lanes": "3",
+      "leisure": "slipway",
+      "lit": "no",
+      "surface": "plastic",
+      "width": "4"
+    }
+  },
+  {
+    "id": 2508987763,
+    "name": "Boat Ramp",
+    "latitude": 42.779351,
+    "longitude": -70.8244427,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Mapbox"
+    }
+  },
+  {
+    "id": 2527348281,
+    "name": "Boat Ramp",
+    "latitude": 42.2032674,
+    "longitude": -73.2888105,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2559421935,
+    "name": "Boat Ramp",
+    "latitude": 42.332438,
+    "longitude": -72.3678518,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "permit",
+      "canoe": "no",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 2569980111,
+    "name": "Boat Ramp",
+    "latitude": 42.1532143,
+    "longitude": -72.6256861,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 2589731763,
+    "name": "Boat Ramp",
+    "latitude": 42.7076459,
+    "longitude": -70.944235,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "dirt"
+    }
+  },
+  {
+    "id": 2589871391,
+    "name": "Boat Ramp",
+    "latitude": 42.7612745,
+    "longitude": -70.845626,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "unknown",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2596258029,
+    "name": "Boat Ramp",
+    "latitude": 42.7470191,
+    "longitude": -70.8221092,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2600498501,
+    "name": "Boat Ramp",
+    "latitude": 42.1695114,
+    "longitude": -71.7827204,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2770937501,
+    "name": "Boat Ramp",
+    "latitude": 42.8109458,
+    "longitude": -70.8624039,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "unknown",
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2775910485,
+    "name": "Monponsett Pond Boat Launch",
+    "latitude": 42.0063647,
+    "longitude": -70.8413767,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Monponsett Pond Boat Launch",
+      "type": "concrete_pad"
+    }
+  },
+  {
+    "id": 2794000733,
+    "name": "First Settlers' Landing",
+    "latitude": 42.7628877,
+    "longitude": -70.8371987,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "leisure": "slipway",
+      "name": "First Settlers' Landing",
+      "source": "Bing",
+      "source:attribution": "massgis_import_v0.1_20071009091612",
+      "source:name": "https://web.archive.org/web/20170329214447/https://www.townofnewbury.org/sites/newburyma/files/uploads/guide_to_historic_newbury_0.pdf"
+    }
+  },
+  {
+    "id": 2795716552,
+    "name": "Boat Ramp",
+    "latitude": 42.8134138,
+    "longitude": -70.8728102,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "unknown",
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2795716615,
+    "name": "Boat Ramp",
+    "latitude": 42.813389,
+    "longitude": -70.8727047,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "unknown",
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2832509257,
+    "name": "Boat Ramp",
+    "latitude": 42.8181801,
+    "longitude": -70.8790134,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2832584064,
+    "name": "Boat Ramp",
+    "latitude": 42.8170248,
+    "longitude": -70.8777962,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2832735506,
+    "name": "Boat Ramp",
+    "latitude": 42.8167957,
+    "longitude": -70.871011,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "unknown",
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2832804656,
+    "name": "Somerby'S Landing",
+    "latitude": 42.813103,
+    "longitude": -70.871581,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Somerby's Landing",
+      "source": "Mapbox",
+      "source:name": "http://www.comity.org/HistoricWayes.htm"
+    }
+  },
+  {
+    "id": 2834246749,
+    "name": "Joppa Slip",
+    "latitude": 42.8063923,
+    "longitude": -70.8575661,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "alt_name": "Upper Slip",
+      "leisure": "slipway",
+      "name": "Joppa Slip",
+      "official_name": "Joppa Flats Public Boat Launch",
+      "old_name": "Janvrin's Landing",
+      "source": "Bing",
+      "source:name": "https://www.newburyportnews.com/news/local_news/joppa-slip-shape/article_fef84e6a-c170-5815-b7c7-e925669f8ed6.html",
+      "source:old_name": "http://clipperheritagetrail.com/tour_waytojoppa.php",
+      "surface": "paved",
+      "tidal": "yes"
+    }
+  },
+  {
+    "id": 2873926033,
+    "name": "The Slip",
+    "latitude": 42.7555818,
+    "longitude": -70.9013793,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "The Slip",
+      "note": "The Slip (70) located where Middle Road parallels the Parker River. The remains Of early pilings can be seen.",
+      "source": "Bing",
+      "source:name": "http://www.townofnewbury.org/pages/newburyma_webdocs/Map%20Guide%20to%20Historic%20Newbury.pdf",
+      "source:note": "https://web.archive.org/web/20170329214447/https://www.townofnewbury.org/sites/newburyma/files/uploads/guide_to_historic_newbury_0.pdf"
+    }
+  },
+  {
+    "id": 2875430591,
+    "name": "Boat Ramp",
+    "latitude": 42.6782718,
+    "longitude": -70.772826,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2876847764,
+    "name": "Jericho Boat Launch",
+    "latitude": 42.2015433,
+    "longitude": -70.7261036,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Jericho Boat Launch"
+    }
+  },
+  {
+    "id": 2888062536,
+    "name": "Boat Ramp",
+    "latitude": 42.5347491,
+    "longitude": -71.3010281,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "customers",
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2903548020,
+    "name": "Boat Ramp",
+    "latitude": 42.1554572,
+    "longitude": -70.7752759,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2903685229,
+    "name": "Boat Ramp",
+    "latitude": 42.7250525,
+    "longitude": -70.8554731,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2903685422,
+    "name": "Boat Ramp",
+    "latitude": 42.7248727,
+    "longitude": -70.8560135,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2912268018,
+    "name": "Boat Ramp",
+    "latitude": 42.8961896,
+    "longitude": -71.986044,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2916111680,
+    "name": "Boat Ramp",
+    "latitude": 42.1578126,
+    "longitude": -70.7676489,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2989932852,
+    "name": "Boat Ramp",
+    "latitude": 42.682124,
+    "longitude": -70.8305214,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2994508321,
+    "name": "Boat Ramp",
+    "latitude": 42.721283,
+    "longitude": -70.8594902,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3020133982,
+    "name": "Boat Ramp",
+    "latitude": 42.0482693,
+    "longitude": -70.1887359,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3068561629,
+    "name": "Boat Ramp",
+    "latitude": 42.7183503,
+    "longitude": -71.4001038,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3086167122,
+    "name": "Boat Ramp",
+    "latitude": 42.8231934,
+    "longitude": -70.8849862,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 3114065196,
+    "name": "Boat Ramp",
+    "latitude": 42.0099049,
+    "longitude": -70.6848835,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3123394317,
+    "name": "Leverett Pond Boat Launch",
+    "latitude": 42.4511996,
+    "longitude": -72.5026603,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Leverett Pond Boat Launch"
+    }
+  },
+  {
+    "id": 3137287942,
+    "name": "White Pond Boat Ramp",
+    "latitude": 42.4288182,
+    "longitude": -71.3874558,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "White Pond Boat Ramp",
+      "note": "For kayaks, canoes, small skiffs. Electric motors only."
+    }
+  },
+  {
+    "id": 3201690782,
+    "name": "Boat Ramp",
+    "latitude": 42.4626791,
+    "longitude": -71.356201,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3201837825,
+    "name": "Old Calf Pasture Boat Launch",
+    "latitude": 42.4661257,
+    "longitude": -71.3556943,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Old Calf Pasture Boat Launch",
+      "surface": "unpaved",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 3218149603,
+    "name": "Boat Ramp",
+    "latitude": 42.4377817,
+    "longitude": -71.335619,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "waterbody:name": "Walden Pond"
+    }
+  },
+  {
+    "id": 3303555184,
+    "name": "Boat Ramp",
+    "latitude": 42.7990604,
+    "longitude": -70.8283209,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 3333190341,
+    "name": "Boat Ramp",
+    "latitude": 42.8196895,
+    "longitude": -70.8804289,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 3377339666,
+    "name": "Boat Ramp",
+    "latitude": 42.2884182,
+    "longitude": -72.6183021,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3465366034,
+    "name": "Boat Ramp",
+    "latitude": 42.0427442,
+    "longitude": -70.1926501,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3465383141,
+    "name": "Boat Ramp",
+    "latitude": 42.0453042,
+    "longitude": -70.1910173,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3597268241,
+    "name": "Blessing Of The Bay Boat Ramp",
+    "latitude": 42.3984346,
+    "longitude": -71.0906431,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Blessing of the Bay Boat Ramp",
+      "tidal": "yes"
+    }
+  },
+  {
+    "id": 3629229393,
+    "name": "Boat Ramp",
+    "latitude": 42.6466664,
+    "longitude": -72.0924744,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 3786559396,
+    "name": "Boat Ramp",
+    "latitude": 42.3494452,
+    "longitude": -71.2582334,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3799487964,
+    "name": "Boat Ramp",
+    "latitude": 42.650928,
+    "longitude": -72.208378,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 3801496684,
+    "name": "Boat Ramp",
+    "latitude": 42.6432943,
+    "longitude": -72.2222949,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 4174318822,
+    "name": "Boat Ramp",
+    "latitude": 42.0446038,
+    "longitude": -70.1915065,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4278370733,
+    "name": "Sandy Beach Boat Ramp",
+    "latitude": 42.5403575,
+    "longitude": -70.8779511,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "massgis:ARTICLE97": "9",
+      "massgis:ASSESS_ACR": "0.00000000",
+      "massgis:ATT_DATE": "1996/02/27",
+      "massgis:COMMENTS": "FROM CZM ACCESS GUIDE",
+      "massgis:DCAM_ID": "0",
+      "massgis:DEED_ACRES": "0.00000000",
+      "massgis:EOEAINVOLV": "0",
+      "massgis:FEESYM": "M",
+      "massgis:FEE_OWNER": "City of Beverly",
+      "massgis:FY_FUNDING": "0",
+      "massgis:LEV_PROT": "L",
+      "massgis:OS_DEED_BO": "0",
+      "massgis:OS_DEED_PA": "0",
+      "massgis:OS_ID": "30-1754",
+      "massgis:OWNER_ABRV": "M030",
+      "massgis:OWNER_TYPE": "M",
+      "massgis:POLY_ID": "1754",
+      "massgis:PRIM_PURP": "R",
+      "massgis:PUB_ACCESS": "Y",
+      "massgis:SITE_NAME": "SANDY BEACH BOAT RAMP",
+      "massgis:TOWN_ID": "30",
+      "name": "Sandy Beach Boat Ramp",
+      "owner": "City Of Beverly",
+      "ownership": "municipal",
+      "protected": "limited",
+      "source": "MassGIS OpenSpace (http://www.mass.gov/mgis/osp.htm)"
+    }
+  },
+  {
+    "id": 4304791442,
+    "name": "Boat Ramp",
+    "latitude": 42.5040705,
+    "longitude": -70.8863933,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4312509064,
+    "name": "Boat Ramp",
+    "latitude": 42.4158475,
+    "longitude": -73.3315471,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4323566445,
+    "name": "Fort Pond Boat Launch",
+    "latitude": 42.5204164,
+    "longitude": -71.6907963,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Fort Pond Boat Launch"
+    }
+  },
+  {
+    "id": 4347621405,
+    "name": "Boat Ramp",
+    "latitude": 42.2709833,
+    "longitude": -70.9568852,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4347621408,
+    "name": "Boat Ramp",
+    "latitude": 42.2716745,
+    "longitude": -70.949733,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4380968185,
+    "name": "Boat Ramp",
+    "latitude": 42.5115528,
+    "longitude": -70.8443702,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4390141345,
+    "name": "Boat Ramp",
+    "latitude": 42.2936836,
+    "longitude": -73.0771287,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4395129391,
+    "name": "Boat Ramp",
+    "latitude": 42.4921061,
+    "longitude": -70.85524,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4406798383,
+    "name": "Marshfield Boat Launch Facility",
+    "latitude": 42.0833808,
+    "longitude": -70.6460132,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Marshfield Boat Launch Facility"
+    }
+  },
+  {
+    "id": 4422659846,
+    "name": "Canoe And Kayak Launch",
+    "latitude": 42.5011068,
+    "longitude": -71.2457514,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Canoe and Kayak Launch"
+    }
+  },
+  {
+    "id": 4453280341,
+    "name": "Boat Ramp",
+    "latitude": 42.8155141,
+    "longitude": -70.8658103,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4558822184,
+    "name": "Boat Ramp",
+    "latitude": 42.7079033,
+    "longitude": -71.9258085,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4610790481,
+    "name": "Boat Ramp",
+    "latitude": 42.8152161,
+    "longitude": -70.8656411,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 4740123723,
+    "name": "Boat Ramp",
+    "latitude": 42.1203009,
+    "longitude": -71.9094254,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4816162692,
+    "name": "Boat Ramp",
+    "latitude": 42.3273618,
+    "longitude": -71.2675627,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4942952751,
+    "name": "Boat Ramp",
+    "latitude": 42.309964,
+    "longitude": -71.0426559,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4942952752,
+    "name": "Boat Ramp",
+    "latitude": 42.3100908,
+    "longitude": -71.0438023,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4951737890,
+    "name": "Public Boat Ramp",
+    "latitude": 42.7633626,
+    "longitude": -71.4767329,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Public Boat Ramp",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 4967393371,
+    "name": "Boat Ramp",
+    "latitude": 42.2694348,
+    "longitude": -71.0655178,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4979652605,
+    "name": "Boat Ramp",
+    "latitude": 42.7860293,
+    "longitude": -72.0271748,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4980621834,
+    "name": "Boat Ramp",
+    "latitude": 42.2685412,
+    "longitude": -71.0652187,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4990742612,
+    "name": "Canoe Launch",
+    "latitude": 42.6406378,
+    "longitude": -73.0332055,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "canoe launch"
+    }
+  },
+  {
+    "id": 4991268810,
+    "name": "Boat Ramp",
+    "latitude": 42.6889165,
+    "longitude": -73.0954307,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4993478865,
+    "name": "Boat Ramp",
+    "latitude": 42.5375431,
+    "longitude": -72.9759099,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5010088045,
+    "name": "Boat Ramp",
+    "latitude": 42.6531341,
+    "longitude": -73.0531345,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 5010121848,
+    "name": "Boat Ramp",
+    "latitude": 42.8113117,
+    "longitude": -72.0635787,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5049821635,
+    "name": "Boat Ramp",
+    "latitude": 42.8643482,
+    "longitude": -72.8964868,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5143703917,
+    "name": "Decker Landing",
+    "latitude": 42.3936264,
+    "longitude": -73.2421613,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Decker Landing",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 5171879222,
+    "name": "Boat Ramp",
+    "latitude": 42.2041984,
+    "longitude": -71.0162819,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5180745467,
+    "name": "Boat Ramp",
+    "latitude": 42.039262,
+    "longitude": -70.6700888,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5209426368,
+    "name": "Boat Ramp",
+    "latitude": 42.7976882,
+    "longitude": -70.819475,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 5264409973,
+    "name": "Quaboag Pond Boat Ramp",
+    "latitude": 42.2034737,
+    "longitude": -72.0629627,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Quaboag Pond Boat Ramp"
+    }
+  },
+  {
+    "id": 5316837624,
+    "name": "Boat Ramp",
+    "latitude": 42.7456465,
+    "longitude": -71.5168973,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 5432013646,
+    "name": "Boat Ramp",
+    "latitude": 42.8276682,
+    "longitude": -70.8919512,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "source": "DigitalGlobe-Premium"
+    }
+  },
+  {
+    "id": 5536970177,
+    "name": "Weymouth Landing Access Ramp",
+    "latitude": 42.2234716,
+    "longitude": -70.9664025,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Weymouth Landing Access Ramp",
+      "vehicle": "no"
+    }
+  },
+  {
+    "id": 5653796222,
+    "name": "Boat Ramp",
+    "latitude": 42.0531249,
+    "longitude": -70.1831847,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 5747191410,
+    "name": "Newbury Landing",
+    "latitude": 42.76314,
+    "longitude": -70.8464991,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "alt_name": "Town Landing",
+      "leisure": "slipway",
+      "name": "Newbury Landing",
+      "note": "Marston's Wharf (19) located on the north bank of the Parker River at High Road. Fred \"Shorty\" Marston. called Shorty because he was very tall, ran a sea food restaurant here. The restaurant was torn down in the 1930s.",
+      "old_name": "Marston's Wharf",
+      "source": "Bing",
+      "source:name": "http://mvpc.org/wp-content/uploads/Newbury-Town-Landing.pdf",
+      "source:note": "https://web.archive.org/web/20170329214447/https://www.townofnewbury.org/sites/newburyma/files/uploads/guide_to_historic_newbury_0.pdf",
+      "source:old_name": "https://web.archive.org/web/20161019131849/http://www.townofnewbury.org/sites/newburyma/files/uploads/guide_to_historic_newbury.pdf",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 5753131141,
+    "name": "Boat Ramp",
+    "latitude": 42.6839763,
+    "longitude": -70.8270818,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5753173630,
+    "name": "Boat Ramp",
+    "latitude": 42.7084104,
+    "longitude": -70.7966908,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5834830646,
+    "name": "Boat Ramp",
+    "latitude": 42.2743882,
+    "longitude": -73.2007621,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5835432825,
+    "name": "Boat Ramp",
+    "latitude": 42.5378644,
+    "longitude": -72.9776642,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "layer": "1",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5923240548,
+    "name": "Boat Ramp",
+    "latitude": 42.8315295,
+    "longitude": -71.6310337,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6307167132,
+    "name": "Freshwater Cove Landing",
+    "latitude": 42.5957791,
+    "longitude": -70.6853398,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Freshwater Cove Landing"
+    }
+  },
+  {
+    "id": 6325892879,
+    "name": "Boat Ramp",
+    "latitude": 42.6674213,
+    "longitude": -70.6235044,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6597803367,
+    "name": "Swift River Launch",
+    "latitude": 42.2427231,
+    "longitude": -72.3351657,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Swift River Launch",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 6606611159,
+    "name": "Boat Ramp",
+    "latitude": 42.5221007,
+    "longitude": -72.2706582,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6617880791,
+    "name": "Boat Ramp",
+    "latitude": 42.2438616,
+    "longitude": -72.041612,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6722714739,
+    "name": "Defunct Boat Ramp",
+    "latitude": 42.1675928,
+    "longitude": -70.9729143,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "no",
+      "description": "Blocked boat ramp",
+      "leisure": "slipway",
+      "name": "Defunct Boat Ramp",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 6778378795,
+    "name": "Woerd Avenue Boat Launch",
+    "latitude": 42.3627911,
+    "longitude": -71.2450231,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Woerd Avenue Boat Launch"
+    }
+  },
+  {
+    "id": 6835363732,
+    "name": "Red Wing Bay Boat Launch",
+    "latitude": 42.2598693,
+    "longitude": -71.2647682,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Red Wing Bay Boat Launch",
+      "operator": "Mass DCR",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 6843910055,
+    "name": "Canoe/Kayak Launch",
+    "latitude": 42.8745669,
+    "longitude": -70.9620778,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe/Kayak Launch"
+    }
+  },
+  {
+    "id": 7103368108,
+    "name": "Boat Ramp",
+    "latitude": 42.4553417,
+    "longitude": -70.939624,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7157393256,
+    "name": "Boat Ramp",
+    "latitude": 42.1345209,
+    "longitude": -70.6926091,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7216729307,
+    "name": "Chebacco Lake Boat Ramp",
+    "latitude": 42.604435,
+    "longitude": -70.8109423,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "description": "Seasonal boat ramp",
+      "fee": "no",
+      "lanes": "1",
+      "leisure": "slipway",
+      "name": "Chebacco Lake Boat Ramp",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 7237742372,
+    "name": "Depot Street Boat Ramp",
+    "latitude": 42.8808686,
+    "longitude": -71.4725086,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Depot Street Boat Ramp"
+    }
+  },
+  {
+    "id": 7346482047,
+    "name": "Boat Ramp",
+    "latitude": 42.4510351,
+    "longitude": -71.5442529,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7568134937,
+    "name": "Boat Ramp",
+    "latitude": 42.4546579,
+    "longitude": -72.7984291,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7613380377,
+    "name": "Boat Ramp",
+    "latitude": 42.38165,
+    "longitude": -71.0569853,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7656456821,
+    "name": "Boat Ramp",
+    "latitude": 42.5070164,
+    "longitude": -71.0781949,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "waterbody:name": "Lake Quannapowitt"
+    }
+  },
+  {
+    "id": 7677995651,
+    "name": "Boat Ramp",
+    "latitude": 42.2784423,
+    "longitude": -71.0512821,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7771617321,
+    "name": "Boat Ramp",
+    "latitude": 42.3581187,
+    "longitude": -71.0736343,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "lanes": "1",
+      "leisure": "slipway",
+      "lit": "no",
+      "location": "outdoor",
+      "surface": "wood",
+      "width": "30"
+    }
+  },
+  {
+    "id": 7830611202,
+    "name": "Boat Ramp",
+    "latitude": 42.1089951,
+    "longitude": -72.6121926,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7831030797,
+    "name": "Boat Ramp",
+    "latitude": 42.3546344,
+    "longitude": -71.0701736,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "lanes": "1",
+      "leisure": "slipway",
+      "lit": "yes",
+      "surface": "wood",
+      "width": "0.5"
+    }
+  },
+  {
+    "id": 7836364058,
+    "name": "Boat Ramp",
+    "latitude": 42.3592568,
+    "longitude": -71.0736608,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "customers",
+      "covered": "no",
+      "fee": "yes",
+      "indoor": "no",
+      "lanes": "10",
+      "leisure": "slipway",
+      "lit": "yes",
+      "location": "outdoor",
+      "surface": "wood",
+      "wheelchair": "yes",
+      "width": "2"
+    }
+  },
+  {
+    "id": 7935789749,
+    "name": "Boat Ramp",
+    "latitude": 42.3521163,
+    "longitude": -71.1100624,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "fee": "yes",
+      "lanes": "10",
+      "leisure": "slipway",
+      "lit": "yes",
+      "surface": "wood"
+    }
+  },
+  {
+    "id": 8038484743,
+    "name": "Boat Ramp",
+    "latitude": 42.7504151,
+    "longitude": -71.5489379,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8064017572,
+    "name": "Boat Ramp",
+    "latitude": 42.8992803,
+    "longitude": -70.8174014,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8128947191,
+    "name": "Seabrook Town Boat Ramp",
+    "latitude": 42.8876444,
+    "longitude": -70.820989,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Seabrook Town Boat Ramp"
+    }
+  },
+  {
+    "id": 8212125824,
+    "name": "Kettle Cove Landing",
+    "latitude": 42.5761763,
+    "longitude": -70.7154389,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kettle Cove Landing"
+    }
+  },
+  {
+    "id": 8461811579,
+    "name": "Four-Mile Pond Ramp",
+    "latitude": 42.6880464,
+    "longitude": -71.0142356,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Four-mile Pond Ramp"
+    }
+  },
+  {
+    "id": 8514703648,
+    "name": "Shawsheen Pines Canoe Launch",
+    "latitude": 42.6148593,
+    "longitude": -71.1727716,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Shawsheen Pines Canoe Launch"
+    }
+  },
+  {
+    "id": 8629658265,
+    "name": "Boat Ramp",
+    "latitude": 42.6388089,
+    "longitude": -71.3697651,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9126996155,
+    "name": "Boat Ramp",
+    "latitude": 42.697186,
+    "longitude": -71.0191944,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9127832494,
+    "name": "Baldpate Pond Ramp",
+    "latitude": 42.6977482,
+    "longitude": -71.0076546,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Baldpate Pond Ramp"
+    }
+  },
+  {
+    "id": 9139102229,
+    "name": "Boat Ramp",
+    "latitude": 42.7145902,
+    "longitude": -72.0151246,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9160902137,
+    "name": "Boat Ramp",
+    "latitude": 42.8090526,
+    "longitude": -70.8179239,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9160902138,
+    "name": "Boat Ramp",
+    "latitude": 42.8113231,
+    "longitude": -70.8181971,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Mapbox"
+    }
+  },
+  {
+    "id": 9234096939,
+    "name": "Boat Ramp",
+    "latitude": 42.2010342,
+    "longitude": -73.3676505,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9441236857,
+    "name": "Boat Ramp",
+    "latitude": 42.3584776,
+    "longitude": -71.9922501,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9457881075,
+    "name": "Boat Ramp",
+    "latitude": 42.1958735,
+    "longitude": -70.717981,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9459993251,
+    "name": "Boat Ramp",
+    "latitude": 42.1934687,
+    "longitude": -70.7243377,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9460168837,
+    "name": "Boat Ramp",
+    "latitude": 42.1987707,
+    "longitude": -70.7263822,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9476831508,
+    "name": "Boat Ramp",
+    "latitude": 42.5073265,
+    "longitude": -70.8841982,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "description": "A very steep slipway. It is impossible to back a boat and car straight down it due to car barriers about 15ft in front of it. Good for kayaks, paddle boards and small boats that can be wheeled down by hand. Free to use.",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 9482610126,
+    "name": "Boat Ramp",
+    "latitude": 42.7522385,
+    "longitude": -70.9774721,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9515059039,
+    "name": "Boat Ramp",
+    "latitude": 42.6054813,
+    "longitude": -70.6567874,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9518161818,
+    "name": "Boat Ramp",
+    "latitude": 42.6057233,
+    "longitude": -70.6586507,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9520678523,
+    "name": "Boat Ramp",
+    "latitude": 42.5953839,
+    "longitude": -70.6835189,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9528459302,
+    "name": "Boat Ramp",
+    "latitude": 42.6380418,
+    "longitude": -70.5776202,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9536959101,
+    "name": "Boat Ramp",
+    "latitude": 42.8425565,
+    "longitude": -70.9143616,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9537075933,
+    "name": "Boat Ramp",
+    "latitude": 42.8430178,
+    "longitude": -70.9160527,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9537446074,
+    "name": "Boat Ramp",
+    "latitude": 42.8324947,
+    "longitude": -70.9327558,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9537448601,
+    "name": "Amesbury Public Boat Launch",
+    "latitude": 42.8399886,
+    "longitude": -70.9257931,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Amesbury Public Boat Launch"
+    }
+  },
+  {
+    "id": 9553125893,
+    "name": "Boat Ramp",
+    "latitude": 42.2381907,
+    "longitude": -72.1482737,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9662230350,
+    "name": "Popes Landing",
+    "latitude": 42.5565178,
+    "longitude": -70.9222326,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Popes Landing"
+    }
+  },
+  {
+    "id": 9662230361,
+    "name": "Boat Ramp",
+    "latitude": 42.5584392,
+    "longitude": -70.9220738,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9662230366,
+    "name": "Boat Ramp",
+    "latitude": 42.5580628,
+    "longitude": -70.9213889,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9673153336,
+    "name": "Boat Ramp",
+    "latitude": 42.4485698,
+    "longitude": -71.9793077,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9722616682,
+    "name": "Boat Ramp",
+    "latitude": 42.2688978,
+    "longitude": -72.8800114,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9728502200,
+    "name": "Boat Ramp",
+    "latitude": 42.5543603,
+    "longitude": -71.1287988,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9862040248,
+    "name": "Boat Ramp",
+    "latitude": 42.4312429,
+    "longitude": -71.1475299,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9895649267,
+    "name": "Boat Ramp",
+    "latitude": 42.1102948,
+    "longitude": -72.1393206,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9904650470,
+    "name": "Boat Ramp",
+    "latitude": 42.7857029,
+    "longitude": -72.8767603,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "tidal": "no",
+      "waterbody:name": "Lake Sadawga",
+      "website": "https://anrweb.vt.gov/FWD/FW/FishingAccessAreas.aspx?ID=71"
+    }
+  },
+  {
+    "id": 9905780516,
+    "name": "Boat Ramp",
+    "latitude": 42.4515624,
+    "longitude": -70.9797522,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9908543668,
+    "name": "Boat Ramp",
+    "latitude": 42.4567224,
+    "longitude": -70.9790232,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9908543921,
+    "name": "Boat Ramp",
+    "latitude": 42.4590284,
+    "longitude": -70.9819194,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10032694340,
+    "name": "Boat Ramp",
+    "latitude": 42.4546354,
+    "longitude": -70.9487705,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10042917205,
+    "name": "Boat Ramp",
+    "latitude": 42.2760601,
+    "longitude": -70.8765794,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10082533240,
+    "name": "Boat Ramp",
+    "latitude": 42.7684848,
+    "longitude": -71.0294221,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10086214591,
+    "name": "Boat Ramp",
+    "latitude": 42.7183833,
+    "longitude": -71.0715351,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10104764413,
+    "name": "Boat Ramp",
+    "latitude": 42.669291,
+    "longitude": -70.9562799,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10107503692,
+    "name": "Boat Ramp",
+    "latitude": 42.7342017,
+    "longitude": -71.0568235,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10164084977,
+    "name": "Boat Ramp",
+    "latitude": 42.2249721,
+    "longitude": -71.3408335,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10166482149,
+    "name": "Boat Ramp",
+    "latitude": 42.2077542,
+    "longitude": -72.1020062,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10185406704,
+    "name": "Boat Ramp",
+    "latitude": 42.0075943,
+    "longitude": -71.5250116,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10243730617,
+    "name": "West River Park Kayak Lauch",
+    "latitude": 42.8787494,
+    "longitude": -72.5731638,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "West River Park Kayak Lauch",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 10266059447,
+    "name": "Boat Ramp",
+    "latitude": 42.8064039,
+    "longitude": -70.8161308,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "source": "Mapbox"
+    }
+  },
+  {
+    "id": 10279216948,
+    "name": "Boat Ramp",
+    "latitude": 42.7437581,
+    "longitude": -71.0835529,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10279237012,
+    "name": "Boat Ramp",
+    "latitude": 42.7409322,
+    "longitude": -71.0751821,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10296876661,
+    "name": "Boat Ramp",
+    "latitude": 42.3796932,
+    "longitude": -71.0510992,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10542238718,
+    "name": "Boat Ramp",
+    "latitude": 42.5451661,
+    "longitude": -71.2912251,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10803340027,
+    "name": "Cheshire Boat Launch",
+    "latitude": 42.5557036,
+    "longitude": -73.1665921,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "canoe": "discouraged",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Cheshire Boat Launch",
+      "picnic_table": "yes",
+      "surface": "asphalt",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 10803340028,
+    "name": "Boat Ramp",
+    "latitude": 42.5382487,
+    "longitude": -73.1833331,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "parking": "yes",
+      "surface": "gravel",
+      "tidal": "no",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 10803340031,
+    "name": "Boat Ramp",
+    "latitude": 42.4849825,
+    "longitude": -73.2472412,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 10803340043,
+    "name": "Boat Ramp",
+    "latitude": 42.4657047,
+    "longitude": -73.2797086,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 10827787625,
+    "name": "Boat Ramp",
+    "latitude": 42.8164036,
+    "longitude": -71.5277526,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10925661350,
+    "name": "Boat Ramp",
+    "latitude": 42.8033187,
+    "longitude": -72.0287401,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11014363355,
+    "name": "Boat Ramp",
+    "latitude": 42.3026543,
+    "longitude": -71.3702513,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11177960695,
+    "name": "Boat Ramp",
+    "latitude": 42.210577,
+    "longitude": -72.5909976,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11177960723,
+    "name": "Gill Boat Launch",
+    "latitude": 42.6075858,
+    "longitude": -72.5417763,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Gill Boat Launch",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 11377877527,
+    "name": "Boat Ramp",
+    "latitude": 42.5770444,
+    "longitude": -71.1365122,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11388698421,
+    "name": "Boat Ramp",
+    "latitude": 42.5183854,
+    "longitude": -72.2955052,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "permit",
+      "canoe": "no",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 11388698422,
+    "name": "Boat Ramp",
+    "latitude": 42.5181556,
+    "longitude": -72.2938909,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "permit",
+      "canoe": "no",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 11388698442,
+    "name": "Boat Ramp",
+    "latitude": 42.3920375,
+    "longitude": -72.2385859,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "no",
+      "canoe:description": "Private canoe and kayak access to Quabbin Reservoir is not allowed due to concerns with the introduction of aquatic invasive species.",
+      "leisure": "slipway",
+      "motorboat": "permit",
+      "source:canoe": "https://www.mass.gov/info-details/quabbin-reservoir-fishing-guide",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 11494810035,
+    "name": "Boat Ramp",
+    "latitude": 42.0375262,
+    "longitude": -70.6700218,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11494810044,
+    "name": "Boat Ramp",
+    "latitude": 42.0380441,
+    "longitude": -70.6700404,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11608266802,
+    "name": "Queechy Lake Canoe Launch",
+    "latitude": 42.4106079,
+    "longitude": -73.4110919,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Queechy Lake Canoe Launch",
+      "operator": "NYSDEC",
+      "parking": "yes",
+      "tidal": "no",
+      "trailer": "no"
+    }
+  },
+  {
+    "id": 11625309551,
+    "name": "Boat Ramp",
+    "latitude": 42.4055842,
+    "longitude": -71.2418887,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11864748997,
+    "name": "Car Top Boat Only Launch",
+    "latitude": 42.3804076,
+    "longitude": -71.5843176,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Car top boat Only Launch",
+      "surface": "ground"
+    }
+  },
+  {
+    "id": 11867543198,
+    "name": "Lake Boon",
+    "latitude": 42.3962049,
+    "longitude": -71.4835736,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Lake Boon",
+      "surface": "ground"
+    }
+  },
+  {
+    "id": 11874946516,
+    "name": "Boat Ramp",
+    "latitude": 42.3365001,
+    "longitude": -72.6155106,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11893876164,
+    "name": "Seasonal Car Top Boat Slipway",
+    "latitude": 42.3685242,
+    "longitude": -71.560882,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "seasonal car top boat slipway",
+      "surface": "plastic"
+    }
+  },
+  {
+    "id": 12049852687,
+    "name": "Boat Ramp",
+    "latitude": 42.7396571,
+    "longitude": -71.5263659,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12077588270,
+    "name": "Boat Ramp",
+    "latitude": 42.560748,
+    "longitude": -72.2748027,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "source": "https://www.mass.gov/doc/rohunta-lake/download",
+      "surface": "concrete",
+      "tidal": "no",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 12078518322,
+    "name": "Canoe And Kayak Lanch Point",
+    "latitude": 42.3998171,
+    "longitude": -71.545726,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe and kayak lanch point",
+      "surface": "ground"
+    }
+  },
+  {
+    "id": 12121128620,
+    "name": "Boat Ramp",
+    "latitude": 42.1860235,
+    "longitude": -71.2427598,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12154547703,
+    "name": "Canoe Launchpoint",
+    "latitude": 42.4050485,
+    "longitude": -71.4432271,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "canoe launchpoint",
+      "surface": "ground"
+    }
+  },
+  {
+    "id": 12186688107,
+    "name": "Leovich Landing",
+    "latitude": 42.1073694,
+    "longitude": -71.8832563,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Leovich Landing"
+    }
+  },
+  {
+    "id": 12233634958,
+    "name": "Boat Ramp",
+    "latitude": 42.7362997,
+    "longitude": -71.6721952,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12385137485,
+    "name": "Briarcliff Lodge Boat Ramp",
+    "latitude": 42.4924128,
+    "longitude": -70.9712198,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Briarcliff Lodge Boat Ramp"
+    }
+  },
+  {
+    "id": 12424743004,
+    "name": "Boat Ramp",
+    "latitude": 42.7452749,
+    "longitude": -72.9265621,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12435875588,
+    "name": "Lake Mascuppic Access",
+    "latitude": 42.6792558,
+    "longitude": -71.3749542,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lake Mascuppic Access"
+    }
+  },
+  {
+    "id": 12440005628,
+    "name": "Boat Ramp",
+    "latitude": 42.7504236,
+    "longitude": -72.6364705,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12610680694,
+    "name": "Boat Ramp",
+    "latitude": 42.4282408,
+    "longitude": -71.1868999,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12744930281,
+    "name": "Small Roof Top Boat Launch",
+    "latitude": 42.4896737,
+    "longitude": -71.3196976,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "put_in",
+      "leisure": "slipway",
+      "name": "small roof top boat launch"
+    }
+  },
+  {
+    "id": 12849014384,
+    "name": "Canoe Kayak Launch",
+    "latitude": 42.3634536,
+    "longitude": -71.3743708,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe Kayak Launch"
+    }
+  },
+  {
+    "id": 12887817003,
+    "name": "Canoe And Kayak Launch",
+    "latitude": 42.3656609,
+    "longitude": -71.5545727,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Canoe and Kayak launch"
+    }
+  },
+  {
+    "id": 12982689403,
+    "name": "Boat Ramp",
+    "latitude": 42.7929323,
+    "longitude": -73.4346502,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12982795227,
+    "name": "Boat Ramp",
+    "latitude": 42.7596218,
+    "longitude": -73.4732587,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12982795240,
+    "name": "Boat Ramp",
+    "latitude": 42.7498941,
+    "longitude": -73.483077,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13009418936,
+    "name": "Boat Ramp",
+    "latitude": 42.4173046,
+    "longitude": -71.1098767,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "unknown",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13104323050,
+    "name": "Boat Ramp",
+    "latitude": 42.8887766,
+    "longitude": -70.8452143,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "concrete",
+      "tidal": "yes"
+    }
+  },
+  {
+    "id": 13173568976,
+    "name": "Big Alum Boat Ramp",
+    "latitude": 42.1345464,
+    "longitude": -72.1182643,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Big Alum Boat Ramp",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 13326986238,
+    "name": "Boat Ramp",
+    "latitude": 42.1311416,
+    "longitude": -71.3766808,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 13388539735,
+    "name": "Boat Ramp",
+    "latitude": 42.7701612,
+    "longitude": -72.043314,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "waterbody:name": "Pool Pond"
+    }
+  },
+  {
+    "id": 13396062082,
+    "name": "Boat Ramp",
+    "latitude": 42.6190495,
+    "longitude": -71.0724122,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "waterbody:name": "Stearns Pond"
+    }
+  },
+  {
+    "id": 13608250011,
+    "name": "Boat Ramp",
+    "latitude": 42.5202672,
+    "longitude": -70.8870707,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13623976084,
+    "name": "Red Bridge Boat Launch",
+    "latitude": 42.1772379,
+    "longitude": -72.4076768,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Red Bridge Boat Launch"
+    }
+  },
+  {
+    "id": 13694235692,
+    "name": "Boat Ramp",
+    "latitude": 42.6403688,
+    "longitude": -71.3530461,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8811952,
+    "name": "Boat Ramp",
+    "latitude": 42.2761986,
+    "longitude": -70.8765422,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9589316,
+    "name": "Boat Ramp",
+    "latitude": 42.4735335,
+    "longitude": -71.1574483,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 230709347,
+    "name": "Boat Ramp",
+    "latitude": 42.2409674,
+    "longitude": -71.5723419,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "service": "driveway"
+    }
+  },
+  {
+    "id": 234065543,
+    "name": "Boat Ramp",
+    "latitude": 42.7631119,
+    "longitude": -70.8464939,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "Bing",
+      "tidal": "yes"
+    }
+  },
+  {
+    "id": 283541359,
+    "name": "Boat Ramp",
+    "latitude": 42.7555846,
+    "longitude": -70.9013974,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 370252319,
+    "name": "Winthrop Boat Ramp",
+    "latitude": 42.3665938,
+    "longitude": -70.9711812,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "charge": "$10",
+      "fee": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Winthrop Boat Ramp",
+      "service": "slipway",
+      "surface": "asphalt",
+      "website": "https://www.winthropma.gov/187/Parking-Rules-at-the-Public-Landing"
+    }
+  },
+  {
+    "id": 370305040,
+    "name": "Boat Ramp",
+    "latitude": 42.3705939,
+    "longitude": -70.9711013,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 452467468,
+    "name": "Boat Ramp",
+    "latitude": 42.8999956,
+    "longitude": -72.4485194,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 505087908,
+    "name": "Boat Ramp",
+    "latitude": 42.280664,
+    "longitude": -72.3479216,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 511577087,
+    "name": "Naticook Boat Ramp",
+    "latitude": 42.8163857,
+    "longitude": -71.5279121,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Naticook Boat Ramp",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 551978725,
+    "name": "Boat Ramp",
+    "latitude": 42.8230812,
+    "longitude": -70.8265539,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "surface": "paved",
+      "tidal": "yes"
+    }
+  },
+  {
+    "id": 551978731,
+    "name": "Boat Ramp",
+    "latitude": 42.823058,
+    "longitude": -70.8275254,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "DigitalGlobe Premium",
+      "surface": "paved",
+      "tidal": "yes"
+    }
+  },
+  {
+    "id": 600820607,
+    "name": "Boat Ramp",
+    "latitude": 42.7932574,
+    "longitude": -71.0606934,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 675282077,
+    "name": "Boat Ramp",
+    "latitude": 42.596181,
+    "longitude": -70.6838145,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "description": "Boathouse and launching rails of the former Dolliver's Neck Coast Guard Station. The Coast Guard Station relocated to its current site in 1974.",
+      "historic": "maritime",
+      "leisure": "slipway",
+      "railway": "disused",
+      "service": "yard",
+      "source_ref": "https://uslife-savingservice.org/station-buildings/gloucester-station-house/",
+      "usage": "military",
+      "website": "https://wow.uscgaux.info/Uploads_wowII/013-04-06/MeetFlotilla46.pdf"
+    }
+  },
+  {
+    "id": 675490511,
+    "name": "Boat Ramp",
+    "latitude": 42.604424,
+    "longitude": -70.8109062,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 677759363,
+    "name": "Boat Ramp",
+    "latitude": 42.3547016,
+    "longitude": -70.9906018,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 677759568,
+    "name": "Boat Ramp",
+    "latitude": 42.3513074,
+    "longitude": -71.0146016,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 677767979,
+    "name": "Boat Ramp",
+    "latitude": 42.3539359,
+    "longitude": -70.9918661,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 712523236,
+    "name": "Boat Ramp",
+    "latitude": 42.3672505,
+    "longitude": -71.042434,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "no",
+      "bicycle": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 712725775,
+    "name": "Boat Ramp",
+    "latitude": 42.2716868,
+    "longitude": -70.95007,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 739684816,
+    "name": "Boat Ramp",
+    "latitude": 42.2428946,
+    "longitude": -70.7896051,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 740048489,
+    "name": "Boat Ramp",
+    "latitude": 42.2390869,
+    "longitude": -70.7868335,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 740597961,
+    "name": "Boat Ramp",
+    "latitude": 42.2386065,
+    "longitude": -70.7902093,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 742320872,
+    "name": "Stockbridge Boat Launch",
+    "latitude": 42.3417858,
+    "longitude": -73.3240891,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Stockbridge Boat Launch"
+    }
+  },
+  {
+    "id": 758456432,
+    "name": "Boat Ramp",
+    "latitude": 42.510192,
+    "longitude": -70.8700054,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 815022584,
+    "name": "Boat Ramp",
+    "latitude": 42.5258254,
+    "longitude": -72.1166221,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 912826412,
+    "name": "Boat Ramp",
+    "latitude": 42.1129948,
+    "longitude": -72.1316277,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+      "highway": "service",
+      "leisure": "slipway",
+      "massgis:way_id": "287",
+      "service": "slipway",
+      "source": "massgis_import_v0.1_20071009093615"
+    }
+  },
+  {
+    "id": 931566209,
+    "name": "Boat Ramp",
+    "latitude": 42.178902,
+    "longitude": -72.6969747,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 937917212,
+    "name": "Boat Ramp",
+    "latitude": 42.2697986,
+    "longitude": -70.8573633,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 957459705,
+    "name": "Boat Ramp",
+    "latitude": 42.308128,
+    "longitude": -71.9984244,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 968332147,
+    "name": "Boat Ramp",
+    "latitude": 42.5259666,
+    "longitude": -70.8691762,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 991526016,
+    "name": "Boat Ramp",
+    "latitude": 42.8090337,
+    "longitude": -70.8180482,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Mapbox"
+    }
+  },
+  {
+    "id": 992027759,
+    "name": "Boat Ramp",
+    "latitude": 42.7379427,
+    "longitude": -72.6142287,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 1026052099,
+    "name": "Boat Ramp",
+    "latitude": 42.1935779,
+    "longitude": -70.7241954,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1026073766,
+    "name": "Boat Ramp",
+    "latitude": 42.1993163,
+    "longitude": -70.7267308,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1026089980,
+    "name": "Boat Ramp",
+    "latitude": 42.2014482,
+    "longitude": -70.7259264,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1026089981,
+    "name": "Boat Ramp",
+    "latitude": 42.2014303,
+    "longitude": -70.7259442,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1031497091,
+    "name": "Boat Ramp",
+    "latitude": 42.6148127,
+    "longitude": -70.6487496,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1035349839,
+    "name": "Boat Ramp",
+    "latitude": 42.8430521,
+    "longitude": -70.916051,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1035384187,
+    "name": "Boat Ramp",
+    "latitude": 42.8324464,
+    "longitude": -70.9329237,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1035393247,
+    "name": "Boat Ramp",
+    "latitude": 42.8400552,
+    "longitude": -70.9258579,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1056780731,
+    "name": "Boat Ramp",
+    "latitude": 42.3761031,
+    "longitude": -70.9952789,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1115623991,
+    "name": "Boat Ramp",
+    "latitude": 42.2935279,
+    "longitude": -72.8995082,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1156041209,
+    "name": "Boat Ramp",
+    "latitude": 42.5073247,
+    "longitude": -70.884202,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1158491855,
+    "name": "Boat Ramp",
+    "latitude": 42.8705274,
+    "longitude": -72.9035098,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1243035082,
+    "name": "Boat Ramp",
+    "latitude": 42.4111626,
+    "longitude": -71.1509877,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1310535239,
+    "name": "Boat Launch",
+    "latitude": 42.4660784,
+    "longitude": -71.3556277,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Boat Launch",
+      "service": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1317485970,
+    "name": "Boat Ramp",
+    "latitude": 42.2785267,
+    "longitude": -71.0514502,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1334840824,
+    "name": "Boat Ramp",
+    "latitude": 42.2769695,
+    "longitude": -71.0533243,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1362058921,
+    "name": "Boat Ramp",
+    "latitude": 42.4282362,
+    "longitude": -71.1868281,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1390734765,
+    "name": "Boat Ramp",
+    "latitude": 42.3977153,
+    "longitude": -71.6872759,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1392243043,
+    "name": "Boat Ramp",
+    "latitude": 42.3656684,
+    "longitude": -71.5548224,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1434643168,
+    "name": "Boat Ramp",
+    "latitude": 42.3177085,
+    "longitude": -71.615873,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1469525136,
+    "name": "Boat Ramp",
+    "latitude": 42.3938272,
+    "longitude": -72.5902865,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1474001611,
+    "name": "Boat Ramp",
+    "latitude": 42.5190427,
+    "longitude": -71.736868,
+    "state": "Massachusetts",
+    "stateAbbr": "MA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  }
+]

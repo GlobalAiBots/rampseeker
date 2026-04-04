@@ -1,0 +1,4993 @@
+[
+  {
+    "id": 31405572,
+    "name": "Echo Lake Boat Launch",
+    "latitude": 44.1729335,
+    "longitude": -71.6914438,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Echo Lake Boat Launch"
+    }
+  },
+  {
+    "id": 41315143,
+    "name": "Boat Ramp",
+    "latitude": 42.9557478,
+    "longitude": -71.897294,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 41416296,
+    "name": "Boat Ramp",
+    "latitude": 42.9962334,
+    "longitude": -72.0465794,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 41805418,
+    "name": "Boat Ramp",
+    "latitude": 43.0186724,
+    "longitude": -72.0204856,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 87509972,
+    "name": "Everett Arena Boat Ramp",
+    "latitude": 43.2096002,
+    "longitude": -71.5287135,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Everett Arena Boat Ramp",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 194283992,
+    "name": "Boat Ramp",
+    "latitude": 43.5803752,
+    "longitude": -71.3923277,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 194379704,
+    "name": "Boat Ramp",
+    "latitude": 43.5831957,
+    "longitude": -71.2152026,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 194499217,
+    "name": "Lakefront Landing Marina Ramp",
+    "latitude": 43.7856266,
+    "longitude": -71.1097571,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "Lakefront Landing Marina Ramp"
+    }
+  },
+  {
+    "id": 194573543,
+    "name": "Cedar Pond Boat Access",
+    "latitude": 44.5958414,
+    "longitude": -71.2692766,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Cedar Pond Boat Access",
+      "parking": "yes",
+      "tidal": "no",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 194635804,
+    "name": "Boat Ramp",
+    "latitude": 44.0989253,
+    "longitude": -71.9678856,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 194657677,
+    "name": "Boat Ramp",
+    "latitude": 43.648359,
+    "longitude": -72.1812184,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "waterbody:name": "Mascoma Lake"
+    }
+  },
+  {
+    "id": 194665093,
+    "name": "Boat Launch",
+    "latitude": 43.6656887,
+    "longitude": -72.0415461,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Launch"
+    }
+  },
+  {
+    "id": 194667455,
+    "name": "Boat Ramp",
+    "latitude": 44.2651526,
+    "longitude": -71.9077455,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 194714392,
+    "name": "Boat Ramp",
+    "latitude": 44.6339598,
+    "longitude": -71.249464,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "source": "GRANIT",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 194730288,
+    "name": "Boat Ramp",
+    "latitude": 43.8299159,
+    "longitude": -72.1459135,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "waterbody:name": "Post Pond"
+    }
+  },
+  {
+    "id": 194734852,
+    "name": "Boat Ramp",
+    "latitude": 44.384622,
+    "longitude": -71.606235,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 194756435,
+    "name": "Crystal Lake Boat Access",
+    "latitude": 43.5935943,
+    "longitude": -72.0926299,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Crystal Lake Boat Access",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 194794103,
+    "name": "Boat Ramp",
+    "latitude": 43.7134514,
+    "longitude": -71.8335469,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 194958201,
+    "name": "Boat Ramp",
+    "latitude": 42.9103522,
+    "longitude": -70.8254296,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 195198376,
+    "name": "Boat Ramp",
+    "latitude": 43.4107454,
+    "longitude": -72.1108593,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 204721668,
+    "name": "Boat Ramp",
+    "latitude": 44.9585798,
+    "longitude": -72.1221507,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "waterbody:name": "Derby Pond",
+      "website": "https://anrweb.vt.gov/FWD/FW/FishingAccessAreas.aspx?ID=20"
+    }
+  },
+  {
+    "id": 412645266,
+    "name": "Boat Ramp",
+    "latitude": 45.2742653,
+    "longitude": -71.9754833,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 579832409,
+    "name": "Boat Ramp",
+    "latitude": 43.908672,
+    "longitude": -71.235262,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 586171086,
+    "name": "Boat Ramp",
+    "latitude": 42.9117532,
+    "longitude": -70.8512928,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 659770786,
+    "name": "Boat Ramp",
+    "latitude": 43.369912,
+    "longitude": -72.039165,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 661002686,
+    "name": "Boat Ramp",
+    "latitude": 43.606405,
+    "longitude": -72.3268315,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 662003936,
+    "name": "Boat Ramp",
+    "latitude": 43.9026593,
+    "longitude": -72.147269,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 662010259,
+    "name": "Bedell Bridge Boat Ramp",
+    "latitude": 44.04488,
+    "longitude": -72.074198,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Bedell Bridge Boat Ramp",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 760485869,
+    "name": "Boat Ramp",
+    "latitude": 44.4435929,
+    "longitude": -72.4472663,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 760485879,
+    "name": "Echo Lake Charleston Boat Ramp",
+    "latitude": 44.8513776,
+    "longitude": -71.9899424,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Echo Lake Charleston Boat Ramp",
+      "tidal": "no",
+      "website": "https://anrweb.vt.gov/FWD/FW/FishingAccessAreas.aspx?ID=25"
+    }
+  },
+  {
+    "id": 760485888,
+    "name": "<Different> Boat Ramp",
+    "latitude": 44.1513506,
+    "longitude": -72.0699988,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "amenity": "parking",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "<different> Boat Ramp",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 760485890,
+    "name": "<Different> Boat Ramp",
+    "latitude": 44.71934,
+    "longitude": -72.145854,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "amenity": "parking",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "<different> Boat Ramp",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 760485893,
+    "name": "Boat Ramp",
+    "latitude": 44.9539107,
+    "longitude": -72.2337651,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Boat Ramp",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 760485896,
+    "name": "Boat Ramp",
+    "latitude": 44.3765738,
+    "longitude": -72.5005449,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Boat Ramp",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 760485897,
+    "name": "Boat Ramp",
+    "latitude": 44.5666174,
+    "longitude": -72.4267916,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 760485906,
+    "name": "Boat Ramp",
+    "latitude": 44.6462188,
+    "longitude": -72.2026237,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "tidal": "no",
+      "waterbody:name": "Clarks Pond",
+      "website": "https://anrweb.vt.gov/FWD/FW/FishingAccessAreas.aspx?ID=8"
+    }
+  },
+  {
+    "id": 760485911,
+    "name": "Clyde River Charleston  Boat Ramp",
+    "latitude": 44.8274865,
+    "longitude": -71.9737809,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Clyde River Charleston  Boat Ramp",
+      "tidal": "no",
+      "website": "https://anrweb.vt.gov/FWD/FW/FishingAccessAreas.aspx?ID=10"
+    }
+  },
+  {
+    "id": 760485913,
+    "name": "Boat Ramp",
+    "latitude": 44.443785,
+    "longitude": -72.3254021,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 760485932,
+    "name": "Boat Ramp",
+    "latitude": 44.7143524,
+    "longitude": -71.9223876,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Boat Ramp",
+      "url": "https://vtfishandwildlife.com/node/476"
+    }
+  },
+  {
+    "id": 760485941,
+    "name": "<Different> Boat Ramp",
+    "latitude": 44.333568,
+    "longitude": -72.265437,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "amenity": "parking",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "<different> Boat Ramp",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 760485956,
+    "name": "Boat Ramp",
+    "latitude": 44.0778183,
+    "longitude": -72.5881163,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "tidal": "yes",
+      "waterbody:name": "Rood Pond",
+      "website": "https://anrweb.vt.gov/FWD/FW/FishingAccessAreas.aspx?ID=143"
+    }
+  },
+  {
+    "id": 760485968,
+    "name": "Boat Ramp",
+    "latitude": 44.74194,
+    "longitude": -72.123048,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "tidal": "no",
+      "waterbody:name": "May Pond",
+      "website": "https://anrweb.vt.gov/FWD/FW/FishingAccessAreas.aspx?ID=98"
+    }
+  },
+  {
+    "id": 760485971,
+    "name": "Boat Ramp",
+    "latitude": 43.8897227,
+    "longitude": -72.3099347,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "tidal": "no",
+      "waterbody:name": "Miller Pond",
+      "website": "https://anrweb.vt.gov/FWD/FW/FishingAccessAreas.aspx?ID=102"
+    }
+  },
+  {
+    "id": 760485994,
+    "name": "Boat Ramp",
+    "latitude": 44.304208,
+    "longitude": -72.205608,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 760485997,
+    "name": "<Different> Boat Ramp",
+    "latitude": 44.446753,
+    "longitude": -72.246865,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "amenity": "parking",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "<different> Boat Ramp",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 760485999,
+    "name": "Lake Fairlee Boat Ramp",
+    "latitude": 43.89041,
+    "longitude": -72.2268542,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "addr:city": "West Fairlee",
+      "addr:country": "US",
+      "addr:housenumber": "3795",
+      "addr:postcode": "05045",
+      "addr:state": "VT",
+      "addr:street": "Vermont Route 244",
+      "fee": "no",
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "name": "Lake Fairlee Boat Ramp",
+      "ref:vcgi:esiteid": "450539",
+      "waterbody:name": "Lake Fairlee",
+      "website": "https://anrweb.vt.gov/FWD/FW/FishingAccessAreas.aspx?wb=Lake%20Fairlee"
+    }
+  },
+  {
+    "id": 760486013,
+    "name": "<Different> Boat Ramp",
+    "latitude": 44.726137,
+    "longitude": -72.231358,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "amenity": "parking",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "<different> Boat Ramp",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 760486056,
+    "name": "Keiser Pond Access Area",
+    "latitude": 44.384826,
+    "longitude": -72.1707321,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Keiser Pond Access Area",
+      "url": "https://anrweb.vt.gov/FWD/FW/FishingAccessAreas.aspx?wb=Keiser%20Pond"
+    }
+  },
+  {
+    "id": 760486060,
+    "name": "Fosters Pond Access Area",
+    "latitude": 44.3295156,
+    "longitude": -72.2143886,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Fosters Pond Access Area",
+      "url": "https://vtfishandwildlife.com/fish/boating-in-vermont/fishing-access-areas-statewide-map"
+    }
+  },
+  {
+    "id": 760486064,
+    "name": "Boat Ramp",
+    "latitude": 44.3608925,
+    "longitude": -72.1674829,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 760486071,
+    "name": "Boat Ramp",
+    "latitude": 44.2840429,
+    "longitude": -72.1393505,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 760486072,
+    "name": "Boat Ramp",
+    "latitude": 44.4550188,
+    "longitude": -72.4204635,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Boat Ramp",
+      "url": "https://vtfishandwildlife.com/node/476"
+    }
+  },
+  {
+    "id": 761310705,
+    "name": "Big Salem Lake",
+    "latitude": 44.9208088,
+    "longitude": -72.0985194,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "amenity": "parking",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Big Salem Lake",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 761310771,
+    "name": "Crystal Lake",
+    "latitude": 44.71934,
+    "longitude": -72.145854,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "amenity": "parking",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Crystal Lake",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 761310775,
+    "name": "Curtis Pond",
+    "latitude": 44.3764455,
+    "longitude": -72.5009605,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "amenity": "parking",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Curtis Pond",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 761310782,
+    "name": "Coventry Station",
+    "latitude": 44.8717944,
+    "longitude": -72.1995289,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "amenity": "parking",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Coventry Station",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 761310950,
+    "name": "Wolcott Pond",
+    "latitude": 44.5664726,
+    "longitude": -72.426969,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "amenity": "parking",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Wolcott Pond",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 761310981,
+    "name": "Wells River",
+    "latitude": 44.15135,
+    "longitude": -72.070009,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "amenity": "parking",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Wells River",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 761310994,
+    "name": "Dummerston",
+    "latitude": 42.9575102,
+    "longitude": -72.5273857,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "amenity": "parking",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Dummerston",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 761311222,
+    "name": "Little Hosmer",
+    "latitude": 44.6663398,
+    "longitude": -72.3761649,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "amenity": "parking",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Little Hosmer",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 761311278,
+    "name": "Lake Parker",
+    "latitude": 44.726137,
+    "longitude": -72.231358,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "amenity": "parking",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Lake Parker",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 761311351,
+    "name": "Long Pond Access",
+    "latitude": 44.7562092,
+    "longitude": -72.0202055,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Long Pond Access"
+    }
+  },
+  {
+    "id": 761311357,
+    "name": "Little Salem Lake",
+    "latitude": 44.919254,
+    "longitude": -72.099639,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "amenity": "parking",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Little Salem Lake",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 761311360,
+    "name": "Lyford Pond",
+    "latitude": 44.4466994,
+    "longitude": -72.2467953,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "amenity": "parking",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Lyford Pond",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 761311406,
+    "name": "Peacham Pond",
+    "latitude": 44.333568,
+    "longitude": -72.265437,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "amenity": "parking",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Peacham Pond",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 761311415,
+    "name": "Putney Landing",
+    "latitude": 42.9618767,
+    "longitude": -72.5205503,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Putney Landing",
+      "website": "https://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 790690985,
+    "name": "Green River Reservoir Boat Launch",
+    "latitude": 44.6224354,
+    "longitude": -72.5259931,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "Green River Reservoir Boat Launch",
+      "surface": "ground"
+    }
+  },
+  {
+    "id": 799298482,
+    "name": "Boat Ramp",
+    "latitude": 42.9048749,
+    "longitude": -71.30252,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1114799563,
+    "name": "Pierce Island Boat Launch",
+    "latitude": 43.0743172,
+    "longitude": -70.7484837,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "Pierce Island Boat Launch",
+      "tidal": "yes"
+    }
+  },
+  {
+    "id": 1486102328,
+    "name": "Boat Ramp",
+    "latitude": 44.495855,
+    "longitude": -71.5938623,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1631597289,
+    "name": "Boat Ramp",
+    "latitude": 43.741208,
+    "longitude": -71.3932787,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1666430110,
+    "name": "Pickering Park Boat Ramp",
+    "latitude": 43.6048401,
+    "longitude": -71.5508546,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Pickering Park Boat Ramp",
+      "waterbody:name": "Lake Wicwas"
+    }
+  },
+  {
+    "id": 1764632062,
+    "name": "Holderness Landing",
+    "latitude": 43.732421,
+    "longitude": -71.587633,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Holderness Landing"
+    }
+  },
+  {
+    "id": 1914266363,
+    "name": "Boat Ramp",
+    "latitude": 43.0054601,
+    "longitude": -71.4717346,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 2026732234,
+    "name": "Mooney Clark Landing",
+    "latitude": 43.6073211,
+    "longitude": -71.6634457,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Mooney Clark Landing",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 2232765413,
+    "name": "Boat Ramp",
+    "latitude": 43.2295389,
+    "longitude": -71.5380524,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 2278682489,
+    "name": "Piscassic Park Boat Launch",
+    "latitude": 43.0885289,
+    "longitude": -70.942094,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "name": "Piscassic Park Boat Launch",
+      "waterbody:name": "Piscassic River"
+    }
+  },
+  {
+    "id": 2308667289,
+    "name": "Boat Ramp",
+    "latitude": 44.6835035,
+    "longitude": -72.3623445,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2380060994,
+    "name": "Boat Ramp",
+    "latitude": 43.1105425,
+    "longitude": -71.7796328,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2732988221,
+    "name": "Pawtuckaway Lake Boat Access",
+    "latitude": 43.1091073,
+    "longitude": -71.1479185,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Pawtuckaway Lake Boat Access",
+      "tidal": "no",
+      "waterbody:name": "Pawtuckaway Lake"
+    }
+  },
+  {
+    "id": 2788806162,
+    "name": "Boat Ramp",
+    "latitude": 43.6883675,
+    "longitude": -71.3051496,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 2940952975,
+    "name": "Lees Mill",
+    "latitude": 43.7344294,
+    "longitude": -71.3901684,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lees Mill",
+      "note": "Paved launch, several docks for short-term tieup",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 2948783383,
+    "name": "Town Docks",
+    "latitude": 43.5839581,
+    "longitude": -71.2123043,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Town Docks"
+    }
+  },
+  {
+    "id": 3047095604,
+    "name": "Sunapee Harbor Boat Ramp",
+    "latitude": 43.3855357,
+    "longitude": -72.0804375,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "lanes": "1",
+      "leisure": "slipway",
+      "name": "Sunapee Harbor Boat Ramp",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 3129575919,
+    "name": "Boat Ramp",
+    "latitude": 43.605391,
+    "longitude": -72.3651056,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3134390226,
+    "name": "Ashley Ferry Boat Ramp",
+    "latitude": 43.3584163,
+    "longitude": -72.3888667,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "alt_name": "Claremont Boat Launch",
+      "leisure": "slipway",
+      "name": "Ashley Ferry Boat Ramp"
+    }
+  },
+  {
+    "id": 3134403560,
+    "name": "Boat Ramp",
+    "latitude": 43.4323914,
+    "longitude": -72.3937308,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "customers",
+      "leisure": "slipway",
+      "whitewater": "egress"
+    }
+  },
+  {
+    "id": 3134403561,
+    "name": "Boat Ramp",
+    "latitude": 43.4804562,
+    "longitude": -72.3793818,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no",
+      "whitewater": "put_in;egress"
+    }
+  },
+  {
+    "id": 3310910994,
+    "name": "Boat Ramp",
+    "latitude": 43.1560741,
+    "longitude": -71.5508926,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3501912619,
+    "name": "Stevens Pond Park And Boat Landing",
+    "latitude": 42.9939963,
+    "longitude": -71.4211611,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "name": "Stevens Pond Park and Boat Landing",
+      "waterbody:name": "Stevens Pond"
+    }
+  },
+  {
+    "id": 3596862104,
+    "name": "Boat Ramp",
+    "latitude": 43.0951441,
+    "longitude": -70.8672677,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3597071133,
+    "name": "Boat Ramp",
+    "latitude": 43.7765534,
+    "longitude": -72.0088909,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3663054570,
+    "name": "Boat Ramp",
+    "latitude": 43.1019606,
+    "longitude": -71.6596447,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3672534861,
+    "name": "Wrightsville Reservoir Boat Launch",
+    "latitude": 44.3231982,
+    "longitude": -72.5771612,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Middlesex",
+      "addr:housenumber": "509",
+      "addr:postcode": "05602",
+      "addr:state": "VT",
+      "addr:street": "Vermont Route 12",
+      "leisure": "slipway",
+      "name": "Wrightsville Reservoir Boat Launch",
+      "ref:vcgi:esiteid": "157134"
+    }
+  },
+  {
+    "id": 3784048505,
+    "name": "Springfield Boat Launch",
+    "latitude": 43.4900499,
+    "longitude": -72.0467356,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Springfield Boat Launch"
+    }
+  },
+  {
+    "id": 3987134825,
+    "name": "Perkins Landing",
+    "latitude": 44.3700034,
+    "longitude": -71.8085398,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Perkins Landing"
+    }
+  },
+  {
+    "id": 4003519092,
+    "name": "Dodge Hill Boat Launch",
+    "latitude": 44.340341,
+    "longitude": -71.8382376,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Dodge Hill Boat Launch"
+    }
+  },
+  {
+    "id": 4031609102,
+    "name": "Warren Lake Boat Access",
+    "latitude": 43.1226495,
+    "longitude": -72.2961243,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Warren Lake Boat Access"
+    }
+  },
+  {
+    "id": 4164272207,
+    "name": "Boat Ramp",
+    "latitude": 45.2109053,
+    "longitude": -72.1971738,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4164272208,
+    "name": "Boat Ramp",
+    "latitude": 45.1397463,
+    "longitude": -72.2557348,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4178840999,
+    "name": "Boat Ramp",
+    "latitude": 43.7758328,
+    "longitude": -71.2304932,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "vehicle": "no",
+      "website": "https://wildlife.state.nh.us/maps/bathymetry/connor_ossipee.pdf"
+    }
+  },
+  {
+    "id": 4328431900,
+    "name": "Boat Ramp",
+    "latitude": 45.2704328,
+    "longitude": -72.1746871,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4328431903,
+    "name": "Boat Ramp",
+    "latitude": 45.2702025,
+    "longitude": -72.1694726,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4340271286,
+    "name": "Boat Ramp",
+    "latitude": 45.2632979,
+    "longitude": -72.1481423,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4340271288,
+    "name": "Boat Ramp",
+    "latitude": 45.263346,
+    "longitude": -72.1482817,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4340271326,
+    "name": "Boat Ramp",
+    "latitude": 45.264195,
+    "longitude": -72.1530399,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4343699891,
+    "name": "Boat Ramp",
+    "latitude": 45.1870982,
+    "longitude": -72.233668,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4345832338,
+    "name": "Boat Ramp",
+    "latitude": 45.0231145,
+    "longitude": -72.2168626,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4346491119,
+    "name": "Boat Ramp",
+    "latitude": 45.0919154,
+    "longitude": -72.2949504,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4347480230,
+    "name": "Boat Ramp",
+    "latitude": 45.0324976,
+    "longitude": -71.9189794,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4347686136,
+    "name": "Boat Ramp",
+    "latitude": 45.19011,
+    "longitude": -72.0555379,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4347686137,
+    "name": "Boat Ramp",
+    "latitude": 45.1760806,
+    "longitude": -72.0663646,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4348833353,
+    "name": "Boat Ramp",
+    "latitude": 45.125033,
+    "longitude": -72.285876,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4352658189,
+    "name": "Snug Harbour",
+    "latitude": 45.2159032,
+    "longitude": -72.1952755,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Snug Harbour"
+    }
+  },
+  {
+    "id": 4382680933,
+    "name": "Boat Ramp",
+    "latitude": 45.1072688,
+    "longitude": -72.1821296,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4390339598,
+    "name": "Boat Ramp",
+    "latitude": 43.0485106,
+    "longitude": -70.7277245,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 4410385222,
+    "name": "Boat Ramp",
+    "latitude": 43.5239902,
+    "longitude": -71.4770655,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 4410385778,
+    "name": "Boat Ramp",
+    "latitude": 43.551818,
+    "longitude": -71.4627074,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 4644996557,
+    "name": "Boat Ramp",
+    "latitude": 44.9103696,
+    "longitude": -71.982028,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 4657131001,
+    "name": "Boat Ramp",
+    "latitude": 43.0779295,
+    "longitude": -70.9356238,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4690561662,
+    "name": "Boat Ramp",
+    "latitude": 45.0919801,
+    "longitude": -72.2943761,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 4927692764,
+    "name": "Goose Pond Boat Launch",
+    "latitude": 43.7164289,
+    "longitude": -72.0957052,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Goose Pond Boat Launch",
+      "url": "https://nhfg.maps.arcgis.com/apps/webappviewer/index.html?id=2243091f322449819c244c0c3b2f3f43"
+    }
+  },
+  {
+    "id": 4938772118,
+    "name": "Boat Ramp",
+    "latitude": 45.2684727,
+    "longitude": -72.0483269,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4944202444,
+    "name": "Boat Ramp",
+    "latitude": 45.1794116,
+    "longitude": -71.544977,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4972144086,
+    "name": "Lake Willoughby Access",
+    "latitude": 44.7685497,
+    "longitude": -72.0533316,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lake Willoughby Access"
+    }
+  },
+  {
+    "id": 4981580836,
+    "name": "River Road Boat Launch",
+    "latitude": 43.1663762,
+    "longitude": -71.7716032,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "River Road Boat Launch",
+      "operator": "United States Army Corps of Engineers",
+      "operator:short": "USACE",
+      "operator:type": "government",
+      "operator:wikidata": "Q1049334"
+    }
+  },
+  {
+    "id": 4985624970,
+    "name": "Canoe/Kayak Launch",
+    "latitude": 43.0179613,
+    "longitude": -71.5943036,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "description": "Small Craft Launch",
+      "leisure": "slipway",
+      "name": "Canoe/kayak Launch"
+    }
+  },
+  {
+    "id": 5010126057,
+    "name": "Boat Ramp",
+    "latitude": 42.9049775,
+    "longitude": -72.0899148,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5010149135,
+    "name": "Boat Ramp",
+    "latitude": 43.0147747,
+    "longitude": -72.1451955,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5010485498,
+    "name": "Boat Ramp",
+    "latitude": 43.0808286,
+    "longitude": -70.7654643,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "yes"
+    }
+  },
+  {
+    "id": 5049165343,
+    "name": "Canoe Kayak",
+    "latitude": 45.2735361,
+    "longitude": -72.1685417,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe Kayak"
+    }
+  },
+  {
+    "id": 5093478342,
+    "name": "Boat Ramp",
+    "latitude": 45.2564916,
+    "longitude": -72.4953189,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5156054439,
+    "name": "Boat Ramp",
+    "latitude": 45.1766946,
+    "longitude": -72.1602973,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5156054445,
+    "name": "Boat Ramp",
+    "latitude": 45.1839712,
+    "longitude": -72.1713052,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5310926252,
+    "name": "Boat Ramp",
+    "latitude": 43.5536676,
+    "longitude": -71.4754516,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5343987730,
+    "name": "Messer Street Boat Ramp",
+    "latitude": 43.5368593,
+    "longitude": -71.4686127,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Messer Street Boat Ramp"
+    }
+  },
+  {
+    "id": 5583231466,
+    "name": "Boat Ramp",
+    "latitude": 43.49853,
+    "longitude": -71.5185053,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5713961530,
+    "name": "Lake Francis State Park Boat Ramp",
+    "latitude": 45.0576135,
+    "longitude": -71.3028792,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Lake Francis State Park Boat Ramp"
+    }
+  },
+  {
+    "id": 5774158713,
+    "name": "Boat Ramp",
+    "latitude": 43.9615901,
+    "longitude": -71.9628065,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5777689807,
+    "name": "Boat Ramp",
+    "latitude": 44.4097441,
+    "longitude": -72.4466189,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Boat Ramp",
+      "url": "https://vtfishandwildlife.com/node/476"
+    }
+  },
+  {
+    "id": 5787947750,
+    "name": "Boat Launch",
+    "latitude": 43.0793573,
+    "longitude": -71.1501823,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Launch",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 5853752096,
+    "name": "Boat Ramp",
+    "latitude": 45.2640805,
+    "longitude": -72.1523329,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5941596022,
+    "name": "Candia Road Boat Launch",
+    "latitude": 43.0067088,
+    "longitude": -71.3853112,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Candia Road Boat Launch",
+      "swimming": "no",
+      "tidal": "no",
+      "waterbody:name": "Massabesic Lake"
+    }
+  },
+  {
+    "id": 5983794856,
+    "name": "Boat Ramp",
+    "latitude": 45.2306218,
+    "longitude": -72.5307509,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6026068698,
+    "name": "Boat Ramp",
+    "latitude": 45.0851155,
+    "longitude": -72.2069944,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6405144003,
+    "name": "Boat Ramp",
+    "latitude": 44.3916297,
+    "longitude": -72.4474783,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6417186316,
+    "name": "Boat Ramp",
+    "latitude": 42.9830223,
+    "longitude": -70.9486064,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 6418635075,
+    "name": "Boat Ramp",
+    "latitude": 43.0560949,
+    "longitude": -70.8966976,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "tidal": "yes"
+    }
+  },
+  {
+    "id": 6453472346,
+    "name": "Chapmans Landing",
+    "latitude": 43.0396532,
+    "longitude": -70.9275758,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Chapmans Landing",
+      "tidal": "yes"
+    }
+  },
+  {
+    "id": 6597396845,
+    "name": "Boat Launch",
+    "latitude": 43.1929179,
+    "longitude": -71.7403622,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Boat Launch",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 6743161959,
+    "name": "Boat Ramp",
+    "latitude": 43.3708231,
+    "longitude": -72.0398391,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6912981072,
+    "name": "Boat Ramp",
+    "latitude": 43.2480845,
+    "longitude": -71.2923853,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6943688616,
+    "name": "Bradford Town Boat Ramp",
+    "latitude": 43.2360282,
+    "longitude": -71.9091497,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "name": "Bradford Town Boat Ramp",
+      "waterbody:name": "Lake Massasecum"
+    }
+  },
+  {
+    "id": 6988836386,
+    "name": "Boat Ramp",
+    "latitude": 43.3633086,
+    "longitude": -71.6465414,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 7024567063,
+    "name": "Boat Ramp",
+    "latitude": 43.6910846,
+    "longitude": -71.7714704,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7147575929,
+    "name": "Boat Ramp",
+    "latitude": 43.2227298,
+    "longitude": -71.5246875,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 7155655636,
+    "name": "Boat Ramp",
+    "latitude": 43.6368465,
+    "longitude": -71.7758808,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7333711912,
+    "name": "Boat Ramp",
+    "latitude": 43.4830534,
+    "longitude": -71.3463887,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7558038199,
+    "name": "Boat Ramp",
+    "latitude": 43.3790973,
+    "longitude": -71.2470339,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7683269670,
+    "name": "Boat Ramp",
+    "latitude": 43.5135923,
+    "longitude": -72.1160855,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7726494228,
+    "name": "Boat Ramp",
+    "latitude": 43.4555713,
+    "longitude": -72.1209574,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "website": "https://www.wildlife.state.nh.us/maps/bathymetry/coniston_croydon.pdf"
+    }
+  },
+  {
+    "id": 8022222551,
+    "name": "Newfields Town Landing",
+    "latitude": 43.0348476,
+    "longitude": -70.9363196,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Newfields Town Landing",
+      "tidal": "yes"
+    }
+  },
+  {
+    "id": 8024111829,
+    "name": "Boat Ramp",
+    "latitude": 43.8016519,
+    "longitude": -71.1624807,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8064076850,
+    "name": "Boat Ramp",
+    "latitude": 42.9021141,
+    "longitude": -70.8181287,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8083011875,
+    "name": "Boat Ramp",
+    "latitude": 43.7606736,
+    "longitude": -71.1342835,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 8148954762,
+    "name": "Boat Ramp",
+    "latitude": 43.0134761,
+    "longitude": -71.4544582,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "waterbody:name": "Dorrs Pond"
+    }
+  },
+  {
+    "id": 8495972857,
+    "name": "Boat Ramp",
+    "latitude": 43.2015503,
+    "longitude": -71.2703096,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8723383206,
+    "name": "Boat Ramp",
+    "latitude": 43.1064948,
+    "longitude": -71.4640237,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "lit": "no",
+      "surface": "concrete",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 8828515240,
+    "name": "Boat Ramp",
+    "latitude": 45.1060732,
+    "longitude": -72.1789196,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8851699107,
+    "name": "Newark Pond Access",
+    "latitude": 44.7230205,
+    "longitude": -71.9808501,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Newark Pond Access",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 8864516789,
+    "name": "Boat Ramp",
+    "latitude": 42.9479556,
+    "longitude": -71.4630903,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8893454215,
+    "name": "East Wilder Boat Launch",
+    "latitude": 43.6786085,
+    "longitude": -72.3010634,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "East Wilder Boat Launch"
+    }
+  },
+  {
+    "id": 8899617209,
+    "name": "Boat Ramp",
+    "latitude": 43.7262601,
+    "longitude": -72.0570686,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8984265142,
+    "name": "Boat Ramp",
+    "latitude": 43.8159392,
+    "longitude": -72.3925973,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8984265158,
+    "name": "Boat Ramp",
+    "latitude": 44.879743,
+    "longitude": -72.1514528,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Boat Ramp",
+      "url": "https://vtfishandwildlife.com/node/476"
+    }
+  },
+  {
+    "id": 8997362970,
+    "name": "Kittery Point Boat Ramp",
+    "latitude": 43.0824353,
+    "longitude": -70.7031391,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "yes",
+      "intermittent": "no",
+      "leisure": "slipway",
+      "name": "Kittery Point Boat Ramp",
+      "tidal": "yes",
+      "waterbody:name": "Pepperrell Cove",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "id": 9071298306,
+    "name": "Boat Ramp",
+    "latitude": 44.5715731,
+    "longitude": -71.28574,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "source": "GRANIT",
+      "tidal": "no",
+      "waterbody:name": "Nay Pond"
+    }
+  },
+  {
+    "id": 9073433052,
+    "name": "Boat Ramp",
+    "latitude": 44.56714,
+    "longitude": -71.2784144,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9106388112,
+    "name": "Hoyts Landing",
+    "latitude": 43.2604674,
+    "longitude": -72.430305,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Hoyts Landing",
+      "parking": "yes",
+      "surface": "concrete",
+      "toilets": "yes",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 9125471158,
+    "name": "Bald Hill Pond Access",
+    "latitude": 44.7363648,
+    "longitude": -71.9737,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Bald Hill Pond Access"
+    }
+  },
+  {
+    "id": 9125555120,
+    "name": "Jobs Pond Public Boat Launch",
+    "latitude": 44.7604676,
+    "longitude": -71.9522057,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Jobs Pond Public Boat Launch"
+    }
+  },
+  {
+    "id": 9217564867,
+    "name": "Great Cove Boat Club Boat Ramp",
+    "latitude": 43.0963068,
+    "longitude": -70.7678499,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "no",
+      "leisure": "slipway",
+      "name": "Great Cove Boat Club Boat Ramp",
+      "tidal": "yes",
+      "waterbody:name": "Spinney Creek"
+    }
+  },
+  {
+    "id": 9218715550,
+    "name": "Job'S Pond Access",
+    "latitude": 44.7604698,
+    "longitude": -71.9522632,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Job's Pond Access"
+    }
+  },
+  {
+    "id": 9257116756,
+    "name": "Mascoma Lake Boat Launch",
+    "latitude": 43.6309208,
+    "longitude": -72.1571586,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "name": "Mascoma Lake Boat Launch",
+      "sport": "ice_skating",
+      "waterbody:name": "Mascoma Lake",
+      "website": "https://nhfg.maps.arcgis.com/apps/webappviewer/index.html?id=2243091f322449819c244c0c3b2f3f43"
+    }
+  },
+  {
+    "id": 9257580437,
+    "name": "Boat Ramp",
+    "latitude": 43.6368719,
+    "longitude": -72.3243011,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9257580448,
+    "name": "Boat Ramp",
+    "latitude": 43.6502966,
+    "longitude": -72.3136838,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9257832943,
+    "name": "Boat Ramp",
+    "latitude": 44.0665469,
+    "longitude": -72.0516158,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "addr:housenumber": "391",
+      "addr:state": "VT",
+      "addr:street": "Newbury Crossing Road",
+      "leisure": "slipway",
+      "ref:vcgi:esiteid": "751770"
+    }
+  },
+  {
+    "id": 9258068244,
+    "name": "Boat Ramp",
+    "latitude": 44.0014148,
+    "longitude": -71.9261847,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9258328120,
+    "name": "Boat Ramp",
+    "latitude": 43.985873,
+    "longitude": -71.9796981,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "description": "Cartop Launch",
+      "leisure": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 9258328154,
+    "name": "Boat Ramp",
+    "latitude": 43.9675637,
+    "longitude": -71.9632193,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9320595632,
+    "name": "Traip Academy Boat Launch",
+    "latitude": 43.0858235,
+    "longitude": -70.73943,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "description": "This paved, all-tide boat ramp with a floating dock provides access to the Piscataqua River. There’s a picnic table and some parking next to the ramp. When the school is not in use, visitors may park there.",
+      "fee": "yes",
+      "intermittent": "no",
+      "leisure": "slipway",
+      "name": "Traip Academy Boat Launch",
+      "surface": "concrete",
+      "tidal": "yes",
+      "waterbody:name": "Piscataqua River"
+    }
+  },
+  {
+    "id": 9354575441,
+    "name": "Boat Ramp",
+    "latitude": 43.0019606,
+    "longitude": -70.7515421,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9365262615,
+    "name": "Boat Ramp",
+    "latitude": 44.4058358,
+    "longitude": -71.8694895,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9594461150,
+    "name": "Georges Mills Boat Launch",
+    "latitude": 43.4301263,
+    "longitude": -72.0667138,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "permit",
+      "fee": "no",
+      "leisure": "slipway",
+      "lit": "no",
+      "name": "Georges Mills Boat Launch",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 9790708423,
+    "name": "Boat Ramp",
+    "latitude": 44.9291564,
+    "longitude": -72.2129002,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 9790708432,
+    "name": "Boat Ramp",
+    "latitude": 44.9289555,
+    "longitude": -72.2128078,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 9947797686,
+    "name": "Boat Ramp",
+    "latitude": 42.9819501,
+    "longitude": -71.467508,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 9947908430,
+    "name": "Boat Ramp",
+    "latitude": 43.4793608,
+    "longitude": -71.3284278,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10027640440,
+    "name": "Third Connecticut Lake Boat Ramp",
+    "latitude": 45.2391895,
+    "longitude": -71.1964769,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Third Connecticut Lake boat ramp"
+    }
+  },
+  {
+    "id": 10053766710,
+    "name": "Edgewood Avenue Boat Ramp",
+    "latitude": 44.4036602,
+    "longitude": -72.2185081,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Edgewood Avenue Boat Ramp",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 10061041339,
+    "name": "Boat Ramp",
+    "latitude": 44.7928116,
+    "longitude": -71.866222,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "tidal": "no",
+      "waterbody:name": "Island Pond",
+      "website": "https://anrweb.vt.gov/FWD/FW/FishingAccessAreas.aspx?ID=49"
+    }
+  },
+  {
+    "id": 10062510666,
+    "name": "Boat Ramp",
+    "latitude": 42.9001371,
+    "longitude": -72.4485554,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "waterbody:name": "Spofford Lake"
+    }
+  },
+  {
+    "id": 10098518650,
+    "name": "Bow Boat Ramp",
+    "latitude": 43.1302988,
+    "longitude": -71.4647417,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Bow Boat Ramp",
+      "parking": "yes",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 10110404078,
+    "name": "Middle Pond",
+    "latitude": 45.0903873,
+    "longitude": -71.3752335,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Middle Pond"
+    }
+  },
+  {
+    "id": 10110404079,
+    "name": "Moose Pond",
+    "latitude": 45.0959982,
+    "longitude": -71.3806373,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Moose Pond"
+    }
+  },
+  {
+    "id": 10110435107,
+    "name": "Back Lake",
+    "latitude": 45.0799498,
+    "longitude": -71.339402,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Back Lake"
+    }
+  },
+  {
+    "id": 10114445025,
+    "name": "Bacon Boat Launch",
+    "latitude": 45.0716945,
+    "longitude": -71.3448474,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Bacon Boat Launch",
+      "waterbody:name": "Back Lake"
+    }
+  },
+  {
+    "id": 10114759388,
+    "name": "Boat Ramp",
+    "latitude": 43.307411,
+    "longitude": -71.3231056,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10115007985,
+    "name": "Boat Ramp",
+    "latitude": 42.9165094,
+    "longitude": -70.8206733,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10115286754,
+    "name": "Boat Ramp",
+    "latitude": 42.9166597,
+    "longitude": -70.8226776,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10115581926,
+    "name": "Lake Francis Boat Launch",
+    "latitude": 45.0495574,
+    "longitude": -71.362953,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Lake Francis Boat Launch"
+    }
+  },
+  {
+    "id": 10117369900,
+    "name": "First Connecticut Lake Picnic And Launch Area Ramp",
+    "latitude": 45.0906634,
+    "longitude": -71.2873696,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "First Connecticut Lake Picnic and Launch Area Ramp"
+    }
+  },
+  {
+    "id": 10119309235,
+    "name": "Second Connecticut Lake Boat Launch",
+    "latitude": 45.1504306,
+    "longitude": -71.1743462,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Second Connecticut Lake Boat Launch",
+      "surface": "unpaved",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 10127004143,
+    "name": "East Inlet Boat Launch",
+    "latitude": 45.1795711,
+    "longitude": -71.1611417,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "East Inlet Boat Launch"
+    }
+  },
+  {
+    "id": 10276096985,
+    "name": "Boat Ramp",
+    "latitude": 44.944715,
+    "longitude": -71.3278892,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "waterbody:name": "Little Diamond Pond"
+    }
+  },
+  {
+    "id": 10302540854,
+    "name": "Round Pond Boat Ramp",
+    "latitude": 45.1268921,
+    "longitude": -71.2642313,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Round Pond Boat Ramp"
+    }
+  },
+  {
+    "id": 10311434656,
+    "name": "Boat Ramp",
+    "latitude": 44.4071583,
+    "longitude": -72.4138744,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "tidal": "no",
+      "waterbody:name": "Sabin Pond",
+      "website": "https://anrweb.vt.gov/FWD/FW/FishingAccessAreas.aspx?ID=186"
+    }
+  },
+  {
+    "id": 10570800159,
+    "name": "Clair'S Landing Boat Ramp",
+    "latitude": 42.9997808,
+    "longitude": -71.3454706,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Clair's Landing Boat Ramp",
+      "swimming": "no",
+      "tidal": "no",
+      "waterbody:name": "Massabesic Lake"
+    }
+  },
+  {
+    "id": 10596787011,
+    "name": "Boat Ramp",
+    "latitude": 43.1281135,
+    "longitude": -71.4632777,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 10597315058,
+    "name": "Little Sunapee Dam Boat Launch",
+    "latitude": 43.4278944,
+    "longitude": -72.0342274,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Little Sunapee Dam Boat Launch",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 10600056890,
+    "name": "Boat Ramp",
+    "latitude": 43.270516,
+    "longitude": -71.5642531,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 10804470660,
+    "name": "Boat Ramp",
+    "latitude": 43.6428677,
+    "longitude": -71.7741674,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "waterbody:name": "Newfound Lake"
+    }
+  },
+  {
+    "id": 10881173185,
+    "name": "Scott Bog Boat Launch",
+    "latitude": 45.2104217,
+    "longitude": -71.1680091,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Scott Bog Boat Launch"
+    }
+  },
+  {
+    "id": 10979050361,
+    "name": "Boat Ramp",
+    "latitude": 43.0477187,
+    "longitude": -70.7283502,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11007850096,
+    "name": "Boat Ramp",
+    "latitude": 45.10211,
+    "longitude": -71.2863636,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no",
+      "waterbody:name": "First Connecticut Lake"
+    }
+  },
+  {
+    "id": 11125071478,
+    "name": "Boat Ramp",
+    "latitude": 45.2524047,
+    "longitude": -72.4933424,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11177918376,
+    "name": "Boat Ramp",
+    "latitude": 44.8041313,
+    "longitude": -71.8552029,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "tidal": "no",
+      "waterbody:name": "Spectacle Pond",
+      "website": "https://anrweb.vt.gov/FWD/FW/FishingAccessAreas.aspx?ID=159"
+    }
+  },
+  {
+    "id": 11182116098,
+    "name": "Boat Ramp",
+    "latitude": 43.1422297,
+    "longitude": -72.4515796,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 11182133371,
+    "name": "Boat Ramp",
+    "latitude": 44.3240856,
+    "longitude": -71.9982311,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 11200609244,
+    "name": "Errol Dam Boat Ramp",
+    "latitude": 44.7873076,
+    "longitude": -71.1208955,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Errol Dam Boat Ramp",
+      "source": "GRANIT",
+      "tidal": "no",
+      "waterbody:name": "Androscoggin River"
+    }
+  },
+  {
+    "id": 11216939618,
+    "name": "Boat Ramp",
+    "latitude": 43.1893572,
+    "longitude": -71.7325486,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11218603937,
+    "name": "Stumpfield Boat Launch",
+    "latitude": 43.1834692,
+    "longitude": -71.7214439,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Stumpfield Boat Launch",
+      "operator": "United States Army Corps of Engineers",
+      "operator:short": "USACE",
+      "operator:type": "government",
+      "operator:wikidata": "Q1049334"
+    }
+  },
+  {
+    "id": 11296505743,
+    "name": "Boat Ramp",
+    "latitude": 43.7583603,
+    "longitude": -71.3921957,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11298598765,
+    "name": "Boat Ramp",
+    "latitude": 43.656659,
+    "longitude": -71.4983661,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11306387097,
+    "name": "Boat Ramp",
+    "latitude": 43.7153658,
+    "longitude": -71.4455781,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11311105968,
+    "name": "Boat Ramp",
+    "latitude": 43.7081189,
+    "longitude": -71.4599737,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11345586124,
+    "name": "Mascoma Lakeside Park Boat Ramp",
+    "latitude": 43.6350899,
+    "longitude": -72.1543248,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "name": "Mascoma Lakeside Park Boat Ramp",
+      "waterbody:name": "Mascoma Lake"
+    }
+  },
+  {
+    "id": 11355737692,
+    "name": "Turtletown Pond Boat Launch",
+    "latitude": 43.2552238,
+    "longitude": -71.521283,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "name": "Turtletown Pond Boat Launch",
+      "operator:wikidata": "Q17021262",
+      "waterbody:name": "Turtletown Pond"
+    }
+  },
+  {
+    "id": 11360497910,
+    "name": "Grafton Pond Boat Launch",
+    "latitude": 43.579885,
+    "longitude": -72.045205,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Grafton Pond Boat Launch"
+    }
+  },
+  {
+    "id": 11360685862,
+    "name": "Shadow Hill State Forest Boat Access",
+    "latitude": 43.3533738,
+    "longitude": -71.9314861,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Shadow Hill State Forest Boat Access",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 11360700206,
+    "name": "Kezar Lake Boat Ramp",
+    "latitude": 43.3631021,
+    "longitude": -71.9404742,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Kezar Lake Boat Ramp",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 11360712277,
+    "name": "Gile Pond Boat Access",
+    "latitude": 43.3489694,
+    "longitude": -71.9305075,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Gile Pond Boat Access"
+    }
+  },
+  {
+    "id": 11366091036,
+    "name": "Boat Ramp",
+    "latitude": 43.9965308,
+    "longitude": -72.1224958,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11380100910,
+    "name": "Coles Pond Boat Access",
+    "latitude": 44.5024616,
+    "longitude": -72.2144464,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "permissive",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Coles Pond Boat Access",
+      "surface": "ground"
+    }
+  },
+  {
+    "id": 11388713492,
+    "name": "Boat Ramp",
+    "latitude": 44.9105217,
+    "longitude": -71.9821628,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 11391867331,
+    "name": "Steamer Diamond Boat Ramp",
+    "latitude": 44.7914596,
+    "longitude": -71.1082553,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Steamer Diamond Boat Ramp",
+      "source": "GRANIT",
+      "tidal": "no",
+      "waterbody:name": "Androscoggin River"
+    }
+  },
+  {
+    "id": 11391876478,
+    "name": "Nansen Wayside State Park Boat Ramp",
+    "latitude": 44.5308115,
+    "longitude": -71.1635429,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "designated",
+      "leisure": "slipway",
+      "name": "Nansen Wayside State Park Boat Ramp",
+      "source": "GRANIT",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 11614902953,
+    "name": "Lake Sunapee State Park Boat Ramp",
+    "latitude": 43.3440553,
+    "longitude": -72.0622369,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "Lake Sunapee State Park Boat Ramp",
+      "waterbody:name": "Lake Sunapee"
+    }
+  },
+  {
+    "id": 11627725688,
+    "name": "Boat Ramp",
+    "latitude": 42.9733924,
+    "longitude": -71.9858841,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11691071066,
+    "name": "Boat Ramp",
+    "latitude": 43.7308171,
+    "longitude": -71.587098,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "ice_skates": "permissive",
+      "leisure": "slipway",
+      "waterbody:name": "Little Squam Lake"
+    }
+  },
+  {
+    "id": 11917003477,
+    "name": "Lagace Beach Boat Launch",
+    "latitude": 43.4586397,
+    "longitude": -71.6790252,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Lagace Beach Boat Launch",
+      "parking": "yes"
+    }
+  },
+  {
+    "id": 11939637043,
+    "name": "Boat Ramp",
+    "latitude": 43.8276342,
+    "longitude": -72.4836764,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "tidal": "no",
+      "waterbody:name": "McIntosh Pond",
+      "website": "https://anrweb.vt.gov/FWD/FW/FishingAccessAreas.aspx?ID=100"
+    }
+  },
+  {
+    "id": 12062304016,
+    "name": "Boat Ramp",
+    "latitude": 43.9085292,
+    "longitude": -71.2349036,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12124304357,
+    "name": "Boat Ramp",
+    "latitude": 43.2861985,
+    "longitude": -71.5908993,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12124364130,
+    "name": "Boat Ramp",
+    "latitude": 43.2664551,
+    "longitude": -71.6138877,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12142378849,
+    "name": "Boat Ramp",
+    "latitude": 43.1262596,
+    "longitude": -71.4646455,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "permit",
+      "leisure": "slipway",
+      "ramp": "yes",
+      "tidal": "no",
+      "trailer": "permit"
+    }
+  },
+  {
+    "id": 12210088332,
+    "name": "Boat Ramp",
+    "latitude": 43.8488352,
+    "longitude": -71.1711422,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12255171325,
+    "name": "Franklin Public Boat Ramp",
+    "latitude": 43.4501046,
+    "longitude": -71.6552317,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Franklin Public Boat Ramp",
+      "waterbody:name": "Pemigewasset River"
+    }
+  },
+  {
+    "id": 12255309915,
+    "name": "Boat Ramp",
+    "latitude": 43.4400006,
+    "longitude": -71.6516188,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12286113111,
+    "name": "Boat Ramp",
+    "latitude": 43.0998177,
+    "longitude": -71.4628234,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "asphalt",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12361885725,
+    "name": "Boat Ramp",
+    "latitude": 43.3965037,
+    "longitude": -72.063127,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12397105767,
+    "name": "Boat Ramp",
+    "latitude": 43.4502733,
+    "longitude": -71.5612639,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12630122698,
+    "name": "Merrymeeting Marsh Boat Ramp",
+    "latitude": 43.4333559,
+    "longitude": -71.1704178,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Merrymeeting Marsh Boat Ramp",
+      "tidal": "no",
+      "waterway": "access_point"
+    }
+  },
+  {
+    "id": 12669258672,
+    "name": "Boat Ramp",
+    "latitude": 43.6494957,
+    "longitude": -71.5054532,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12770582651,
+    "name": "Boffinger Conservation Area Boat Ramp",
+    "latitude": 44.6150286,
+    "longitude": -71.2217612,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Boffinger Conservation Area Boat Ramp",
+      "tidal": "no",
+      "waterbody:name": "Androscoggin River",
+      "whitewater": "egress"
+    }
+  },
+  {
+    "id": 12772713434,
+    "name": "Martin Meadow Pond Boat Launch",
+    "latitude": 44.4404794,
+    "longitude": -71.5970412,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Martin Meadow Pond Boat Launch"
+    }
+  },
+  {
+    "id": 12791594275,
+    "name": "Boat Ramp",
+    "latitude": 43.0450213,
+    "longitude": -71.2235734,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12791636038,
+    "name": "Boat Ramp",
+    "latitude": 43.4709263,
+    "longitude": -71.233593,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12834571057,
+    "name": "Tewksbury Pond Boat Access",
+    "latitude": 43.6069989,
+    "longitude": -71.9663782,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Tewksbury Pond Boat Access"
+    }
+  },
+  {
+    "id": 12949923670,
+    "name": "Boat Ramp",
+    "latitude": 43.6482279,
+    "longitude": -71.5154929,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13012826893,
+    "name": "Boat Ramp",
+    "latitude": 43.5272223,
+    "longitude": -72.1214721,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 13012826895,
+    "name": "Boat Ramp",
+    "latitude": 43.5269444,
+    "longitude": -72.1215312,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13013502537,
+    "name": "Boat Ramp",
+    "latitude": 43.5240425,
+    "longitude": -72.1233943,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13013502539,
+    "name": "Boat Ramp",
+    "latitude": 43.5277005,
+    "longitude": -72.126393,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13014052707,
+    "name": "Boat Ramp",
+    "latitude": 43.3383082,
+    "longitude": -71.25954,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 13014548552,
+    "name": "Boat Ramp",
+    "latitude": 45.091107,
+    "longitude": -71.2846973,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13041228399,
+    "name": "Boat Ramp",
+    "latitude": 44.3590073,
+    "longitude": -71.6348653,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13048555864,
+    "name": "Suncook River Access",
+    "latitude": 43.3313128,
+    "longitude": -71.2916339,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Suncook River Access"
+    }
+  },
+  {
+    "id": 13151158625,
+    "name": "Boat Ramp",
+    "latitude": 43.2222296,
+    "longitude": -71.2548029,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13328865950,
+    "name": "Boat Ramp",
+    "latitude": 43.0537234,
+    "longitude": -70.7443895,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "yes"
+    }
+  },
+  {
+    "id": 13341579240,
+    "name": "Boat Ramp",
+    "latitude": 43.7116629,
+    "longitude": -72.4182339,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "kayak": "yes",
+      "leisure": "slipway",
+      "note": "kayak access/water access theres a sign at the corner of Quechee W Hartford Rd and Vt 14 pointing to the access parking is very limited"
+    }
+  },
+  {
+    "id": 13376170188,
+    "name": "Boat Ramp",
+    "latitude": 44.3997711,
+    "longitude": -71.1268914,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "informal": "yes",
+      "leisure": "slipway",
+      "source": "https://elibrary.ferc.gov/eLibrary/filelist?accession_number=20230412-5201",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 13381758843,
+    "name": "Boat Ramp",
+    "latitude": 44.4841669,
+    "longitude": -71.1658434,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 13389665434,
+    "name": "Boat Ramp",
+    "latitude": 43.4198301,
+    "longitude": -71.9400541,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "tidal": "no",
+      "waterbody:name": "Pleasant Lake"
+    }
+  },
+  {
+    "id": 13390619306,
+    "name": "Town Boat Launch",
+    "latitude": 43.6245855,
+    "longitude": -71.275923,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "name": "Town Boat Launch",
+      "waterbody:name": "Mirror Lake"
+    }
+  },
+  {
+    "id": 13390623864,
+    "name": "Boat Ramp",
+    "latitude": 43.7260089,
+    "longitude": -71.5630416,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13391694171,
+    "name": "Mast Landing Boat Launch",
+    "latitude": 43.5933738,
+    "longitude": -71.2004869,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mast Landing Boat Launch"
+    }
+  },
+  {
+    "id": 13391694179,
+    "name": "Back Bay Boat Landing",
+    "latitude": 43.5859724,
+    "longitude": -71.2131071,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Back Bay Boat Landing"
+    }
+  },
+  {
+    "id": 13391719801,
+    "name": "Boat Ramp",
+    "latitude": 43.5927788,
+    "longitude": -71.1221143,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13395438601,
+    "name": "Spectacle Pond Boat Ramp",
+    "latitude": 43.6078517,
+    "longitude": -72.0335359,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "name": "Spectacle Pond Boat Ramp",
+      "waterbody:name": "Spectacle Pond"
+    }
+  },
+  {
+    "id": 13397404177,
+    "name": "Boat Ramp",
+    "latitude": 43.1646468,
+    "longitude": -71.6936269,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "waterbody:name": "Drew Lake"
+    }
+  },
+  {
+    "id": 13408605677,
+    "name": "Nugent Boat Ramp",
+    "latitude": 44.9489469,
+    "longitude": -71.3120567,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "ice_skates": "yes",
+      "leisure": "slipway",
+      "name": "Nugent Boat Ramp",
+      "waterbody:name": "Big Diamond Pond"
+    }
+  },
+  {
+    "id": 13415594782,
+    "name": "Salmon Brook Station Ramp",
+    "latitude": 43.4847649,
+    "longitude": -71.6499215,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Salmon Brook Station Ramp"
+    }
+  },
+  {
+    "id": 13442492834,
+    "name": "Boat Ramp",
+    "latitude": 44.9831565,
+    "longitude": -71.5120467,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "waterbody:name": "Back Pond"
+    }
+  },
+  {
+    "id": 13442492874,
+    "name": "Boat Ramp",
+    "latitude": 44.855219,
+    "longitude": -71.4825508,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "source": "GRANIT",
+      "tidal": "no",
+      "waterbody:name": "Fish Pond"
+    }
+  },
+  {
+    "id": 13442492876,
+    "name": "Lemington Access",
+    "latitude": 44.8309909,
+    "longitude": -71.5592782,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Lemington Access",
+      "source": "GRANIT",
+      "tidal": "no",
+      "waterbody:name": "Connecticut River"
+    }
+  },
+  {
+    "id": 13442493434,
+    "name": "Akers Pond Boat Ramp",
+    "latitude": 44.7927958,
+    "longitude": -71.1544069,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Akers Pond Boat Ramp",
+      "source": "GRANIT",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 13442912297,
+    "name": "Millsfield Pond Boat Launch",
+    "latitude": 44.7676566,
+    "longitude": -71.2646412,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "permissive",
+      "description": "Private access road subject to closure",
+      "leisure": "slipway",
+      "name": "Millsfield Pond Boat Launch",
+      "source": "GRANIT",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 13442912300,
+    "name": "Boat Ramp",
+    "latitude": 44.7406532,
+    "longitude": -71.1809502,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13442920943,
+    "name": "Boat Ramp",
+    "latitude": 44.6285403,
+    "longitude": -71.3915437,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "source": "GRANIT",
+      "tidal": "no",
+      "waterbody:name": "Christine Lake"
+    }
+  },
+  {
+    "id": 13442949173,
+    "name": "Boat Ramp",
+    "latitude": 44.6066605,
+    "longitude": -71.3647445,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "source": "GRANIT",
+      "tidal": "no",
+      "waterbody:name": "South Pond"
+    }
+  },
+  {
+    "id": 13443467401,
+    "name": "Jericho Mountain State Park Boat Ramp",
+    "latitude": 44.5001114,
+    "longitude": -71.2596942,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Jericho Mountain State Park Boat Ramp",
+      "source": "GRANIT",
+      "waterbody:name": "Jericho Lake"
+    }
+  },
+  {
+    "id": 13613245439,
+    "name": "Boat Ramp",
+    "latitude": 45.2681688,
+    "longitude": -72.1610549,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "permit",
+      "leisure": "slipway",
+      "surface": "concrete",
+      "trailer": "no"
+    }
+  },
+  {
+    "id": 13704092195,
+    "name": "Lower Baker Pond Boat Access",
+    "latitude": 43.8990794,
+    "longitude": -71.9770554,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Lower Baker Pond Boat Access",
+      "operator": "Town of Orford",
+      "surface": "gravel",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 18813468,
+    "name": "Boat Ramp",
+    "latitude": 43.3636075,
+    "longitude": -71.246458,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Boat Ramp",
+      "service": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Belknap, NH",
+      "tiger:name_base": "Boat",
+      "tiger:name_type": "Ramp",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 19692027,
+    "name": "Vermont Fish And Game Boat Launch",
+    "latitude": 44.4826563,
+    "longitude": -71.6911275,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Vermont Fish and Game Boat Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 338373842,
+    "name": "Nutts Pond Boatlaunch",
+    "latitude": 42.9624583,
+    "longitude": -71.4486166,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Nutts Pond Boatlaunch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 350488829,
+    "name": "Boat Ramp",
+    "latitude": 42.9948076,
+    "longitude": -71.4945263,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 440526451,
+    "name": "Boat Ramp",
+    "latitude": 44.4670893,
+    "longitude": -72.3966105,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "website": "https://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 584030609,
+    "name": "Boat Ramp",
+    "latitude": 43.4984928,
+    "longitude": -71.5185179,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 601116238,
+    "name": "Boat Ramp",
+    "latitude": 45.0579262,
+    "longitude": -71.3029751,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 616383592,
+    "name": "Boat Ramp",
+    "latitude": 44.5763443,
+    "longitude": -72.2983131,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 733914860,
+    "name": "Wilson'S Landing",
+    "latitude": 43.741779,
+    "longitude": -72.2440608,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Wilson's Landing",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 740553711,
+    "name": "Boat Ramp",
+    "latitude": 43.194338,
+    "longitude": -71.7755728,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 743335035,
+    "name": "Boat Ramp",
+    "latitude": 44.3631077,
+    "longitude": -72.3032124,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 751421594,
+    "name": "Boat Ramp",
+    "latitude": 43.6911558,
+    "longitude": -71.7707207,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 758841624,
+    "name": "Boat Ramp",
+    "latitude": 43.8617845,
+    "longitude": -71.8053592,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 766152355,
+    "name": "Boat Ramp",
+    "latitude": 43.6356792,
+    "longitude": -71.7751119,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 766152356,
+    "name": "Boat Ramp",
+    "latitude": 43.6367575,
+    "longitude": -71.7759496,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 831855255,
+    "name": "Boat Ramp",
+    "latitude": 45.161817,
+    "longitude": -72.162234,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "lit": "no",
+      "service": "slipway",
+      "surface": "ground"
+    }
+  },
+  {
+    "id": 860243435,
+    "name": "Bow Lake Public Boat Ramp",
+    "latitude": 43.2406241,
+    "longitude": -71.1554425,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Bow Lake Public Boat Ramp",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 902921393,
+    "name": "Boat Ramp",
+    "latitude": 43.2551908,
+    "longitude": -71.1962045,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 914237796,
+    "name": "Boat Ramp",
+    "latitude": 44.6664585,
+    "longitude": -72.3760461,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 918866958,
+    "name": "Boat Ramp",
+    "latitude": 44.6645809,
+    "longitude": -71.6489597,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 956433350,
+    "name": "Kooakee Island Boat Launch - Beach",
+    "latitude": 43.254153,
+    "longitude": -71.1937434,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Kooakee Island Boat Launch - Beach",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 956433351,
+    "name": "Kooakee Island Boat Launch - Cove",
+    "latitude": 43.2580038,
+    "longitude": -71.1932898,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Kooakee Island Boat Launch - Cove",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 967957679,
+    "name": "Boat Ramp",
+    "latitude": 43.8413822,
+    "longitude": -72.1834544,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 972030715,
+    "name": "Campers Lane",
+    "latitude": 44.4462277,
+    "longitude": -71.7977251,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Campers Lane",
+      "service": "slipway",
+      "tiger:name_base": "Campers",
+      "tiger:name_type": "Ln",
+      "tiger:reviewed": "no",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 980376322,
+    "name": "Boat Ramp",
+    "latitude": 43.0829806,
+    "longitude": -70.7226825,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 985360881,
+    "name": "Vaughn M. Douglass Access Area",
+    "latitude": 44.5268343,
+    "longitude": -72.5211859,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Vaughn M. Douglass Access Area",
+      "service": "slipway",
+      "surface": "concrete",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 988607609,
+    "name": "Boat Ramp",
+    "latitude": 44.6035298,
+    "longitude": -72.3578059,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Boat Ramp",
+      "service": "driveway",
+      "surface": "unpaved",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 988607618,
+    "name": "Boat Ramp",
+    "latitude": 44.3061063,
+    "longitude": -72.4463419,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Boat Ramp",
+      "service": "slipway",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 993057226,
+    "name": "Boat Ramp",
+    "latitude": 44.8773203,
+    "longitude": -72.0523904,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "toll": "no",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 993472929,
+    "name": "Boat Ramp",
+    "latitude": 43.3073577,
+    "longitude": -71.3231201,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1006918791,
+    "name": "Boat Ramp",
+    "latitude": 43.0816744,
+    "longitude": -70.7550419,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1007862799,
+    "name": "Boat Ramp",
+    "latitude": 43.081696,
+    "longitude": -70.7551627,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1007862809,
+    "name": "Boat Ramp",
+    "latitude": 43.0825299,
+    "longitude": -70.7527257,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "driveway"
+    }
+  },
+  {
+    "id": 1027428406,
+    "name": "Boat Ramp",
+    "latitude": 44.1920475,
+    "longitude": -72.0969638,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 1049455241,
+    "name": "Boat Ramp",
+    "latitude": 43.7552639,
+    "longitude": -72.230843,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1064371780,
+    "name": "Boat Ramp",
+    "latitude": 44.4036396,
+    "longitude": -72.2184171,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 1084113112,
+    "name": "Boat Ramp",
+    "latitude": 43.2015642,
+    "longitude": -71.2703402,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1085659497,
+    "name": "Boat Ramp",
+    "latitude": 43.47948,
+    "longitude": -71.3284804,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1096998104,
+    "name": "Boat Ramp",
+    "latitude": 44.4038644,
+    "longitude": -71.7495915,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1097291674,
+    "name": "Boat Ramp",
+    "latitude": 44.728823,
+    "longitude": -72.4957895,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "toll": "no",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 1105624943,
+    "name": "First Connecticut Lake Boat Launch",
+    "latitude": 45.0906964,
+    "longitude": -71.2875643,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "First Connecticut Lake Boat Launch",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1116428189,
+    "name": "Boat Ramp",
+    "latitude": 44.3403404,
+    "longitude": -71.8382491,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1116428192,
+    "name": "Boat Ramp",
+    "latitude": 44.3191487,
+    "longitude": -71.8564933,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1116428214,
+    "name": "Boat Ramp",
+    "latitude": 44.3118904,
+    "longitude": -71.8672164,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1116428226,
+    "name": "Boat Ramp",
+    "latitude": 44.3312843,
+    "longitude": -71.87335,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1116714874,
+    "name": "Boat Ramp",
+    "latitude": 44.3055803,
+    "longitude": -71.8907255,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1125300748,
+    "name": "Boat Ramp",
+    "latitude": 44.9961888,
+    "longitude": -72.1805835,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1125826587,
+    "name": "Boat Ramp",
+    "latitude": 43.082917,
+    "longitude": -70.7329306,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1129051728,
+    "name": "Fishing Access Road",
+    "latitude": 44.9856637,
+    "longitude": -71.9343682,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Fishing Access Road",
+      "service": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 1130931244,
+    "name": "Boat Ramp",
+    "latitude": 45.0105532,
+    "longitude": -71.6357321,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete",
+      "toll": "no"
+    }
+  },
+  {
+    "id": 1133552317,
+    "name": "Boat Ramp",
+    "latitude": 43.4459835,
+    "longitude": -72.5660983,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1133552318,
+    "name": "Boat Ramp",
+    "latitude": 43.4454183,
+    "longitude": -72.5621041,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1152318434,
+    "name": "Boat Ramp",
+    "latitude": 44.9238869,
+    "longitude": -71.8713144,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete",
+      "toll": "no"
+    }
+  },
+  {
+    "id": 1165343951,
+    "name": "Boat Ramp",
+    "latitude": 43.6140274,
+    "longitude": -71.2589045,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 1165344037,
+    "name": "Boat Ramp",
+    "latitude": 43.650694,
+    "longitude": -71.277255,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 1177232030,
+    "name": "Boat Ramp",
+    "latitude": 44.3232105,
+    "longitude": -72.5773499,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1177565466,
+    "name": "Boat Ramp",
+    "latitude": 43.3752844,
+    "longitude": -72.0706926,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 1188471069,
+    "name": "Boat Ramp",
+    "latitude": 44.6637105,
+    "longitude": -72.2205623,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1211286655,
+    "name": "Boat Ramp",
+    "latitude": 44.9946124,
+    "longitude": -71.7060685,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "concrete",
+      "url": "http://www.vtfishandwildlife.com/access-areas-map.cfm"
+    }
+  },
+  {
+    "id": 1228120148,
+    "name": "Boat Ramp",
+    "latitude": 44.9639672,
+    "longitude": -71.706501,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 1245744655,
+    "name": "Boat Ramp",
+    "latitude": 42.9493349,
+    "longitude": -72.1332224,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1250032232,
+    "name": "Boat Ramp",
+    "latitude": 43.01926,
+    "longitude": -71.5695097,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 1254627840,
+    "name": "Long Pond Day Use Area Boat Ramp",
+    "latitude": 44.0594171,
+    "longitude": -71.8893491,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Long Pond Day Use Area Boat Ramp",
+      "website": "https://www.fs.usda.gov/recarea/whitemountain/recarea/?recid=74673"
+    }
+  },
+  {
+    "id": 1271175494,
+    "name": "Boat Ramp",
+    "latitude": 44.6744552,
+    "longitude": -72.2574208,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "winter_service": "no"
+    }
+  },
+  {
+    "id": 1309327870,
+    "name": "Boat Ramp",
+    "latitude": 43.2861061,
+    "longitude": -71.5909213,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1309327881,
+    "name": "Boat Ramp",
+    "latitude": 43.2295994,
+    "longitude": -71.5380651,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1309336996,
+    "name": "Boat Ramp",
+    "latitude": 43.2664723,
+    "longitude": -71.613781,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1347152177,
+    "name": "Boat Ramp",
+    "latitude": 43.0766306,
+    "longitude": -71.5968449,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "dirt"
+    }
+  },
+  {
+    "id": 1391372638,
+    "name": "States Landing",
+    "latitude": 43.7268698,
+    "longitude": -71.3742357,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "States Landing",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1421828693,
+    "name": "Boat Ramp",
+    "latitude": 43.2286589,
+    "longitude": -72.4319808,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1436291745,
+    "name": "Boat Ramp",
+    "latitude": 43.1816782,
+    "longitude": -72.4442741,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1446294638,
+    "name": "Lake Morey Fishing Access Area",
+    "latitude": 43.9211965,
+    "longitude": -72.1592082,
+    "state": "New Hampshire",
+    "stateAbbr": "NH",
+    "tags": {
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Lake Morey Fishing Access Area",
+      "service": "slipway",
+      "url": "https://anrweb.vt.gov/FWD/FW/FishingAccessAreas.aspx?wb=Lake%20Morey"
+    }
+  }
+]

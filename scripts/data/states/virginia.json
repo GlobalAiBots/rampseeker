@@ -1,0 +1,5494 @@
+[
+  {
+    "id": 205686733,
+    "name": "Boat Ramp",
+    "latitude": 37.758578,
+    "longitude": -78.512563,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "amenity": "ferry_terminal",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 207493364,
+    "name": "Horseshoe Bend",
+    "latitude": 37.5891091,
+    "longitude": -79.7277945,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Horseshoe Bend",
+      "operator": "Virginia Department of Game and Inland Fisheries",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 208684178,
+    "name": "Boat Ramp",
+    "latitude": 37.756927,
+    "longitude": -78.511874,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "amenity": "ferry_terminal",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 208902020,
+    "name": "Boat Ramp",
+    "latitude": 37.689321,
+    "longitude": -78.6703824,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 208945022,
+    "name": "Boat Ramp",
+    "latitude": 37.6967313,
+    "longitude": -78.6794534,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 208945552,
+    "name": "Boat Ramp",
+    "latitude": 37.6983269,
+    "longitude": -78.688202,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 209273518,
+    "name": "Long Island Boat Ramp",
+    "latitude": 37.075118,
+    "longitude": -79.098385,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "addr:city": "Long Island",
+      "addr:housenumber": "319",
+      "addr:postcode": "24569",
+      "addr:state": "VA",
+      "addr:street": "Railroad Avenue",
+      "leisure": "slipway",
+      "name": "Long Island Boat Ramp"
+    }
+  },
+  {
+    "id": 209308157,
+    "name": "Boat Ramp",
+    "latitude": 37.362866,
+    "longitude": -76.9125401,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 211754484,
+    "name": "Boat Ramp",
+    "latitude": 37.025598,
+    "longitude": -79.643159,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 213903646,
+    "name": "Cappahosic Beach Boat Landing",
+    "latitude": 37.3803169,
+    "longitude": -76.6356887,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Cappahosic Beach Boat Landing"
+    }
+  },
+  {
+    "id": 214066177,
+    "name": "Boat Ramp",
+    "latitude": 37.3092341,
+    "longitude": -76.4466968,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 215782976,
+    "name": "Boat Ramp",
+    "latitude": 37.7230095,
+    "longitude": -76.5446747,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 216152846,
+    "name": "Boat Ramp",
+    "latitude": 36.6336239,
+    "longitude": -78.5352702,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "permit",
+      "charge": "3 USD",
+      "fee": "yes",
+      "fee:conditional": "no @ permit",
+      "leisure": "slipway",
+      "operator": "Virginia Department of Conservation and Recreation",
+      "operator:type": "government",
+      "operator:wikidata": "Q7934237",
+      "operator:wikipedia": "https://en.wikipedia.org/wiki/Virginia_Department_of_Conservation_and_Recreation",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": 216195455,
+    "name": "Boat Ramp",
+    "latitude": 37.564916,
+    "longitude": -76.393322,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 216441390,
+    "name": "Boat Ramp",
+    "latitude": 36.6238743,
+    "longitude": -78.5245523,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "permit",
+      "charge": "3 USD",
+      "fee": "yes",
+      "fee:conditional": "no @ permit",
+      "leisure": "slipway",
+      "operator": "Virginia Department of Conservation and Recreation",
+      "operator:type": "government",
+      "operator:wikidata": "Q7934237",
+      "operator:wikipedia": "https://en.wikipedia.org/wiki/Virginia_Department_of_Conservation_and_Recreation",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility"
+    }
+  },
+  {
+    "id": 216745124,
+    "name": "Boat Ramp",
+    "latitude": 37.8244379,
+    "longitude": -76.271628,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 217704794,
+    "name": "Boat Ramp",
+    "latitude": 37.588173,
+    "longitude": -77.7129504,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 220601658,
+    "name": "Boat Ramp",
+    "latitude": 36.88862,
+    "longitude": -80.855109,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 220679256,
+    "name": "Boat Ramp",
+    "latitude": 37.278829,
+    "longitude": -77.366769,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 220680063,
+    "name": "Boat Ramp",
+    "latitude": 37.278957,
+    "longitude": -77.366519,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 221287825,
+    "name": "Bennett'S Creek Boat Ramp",
+    "latitude": 36.8509357,
+    "longitude": -76.484258,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Bennett's Creek Boat Ramp"
+    }
+  },
+  {
+    "id": 221520306,
+    "name": "Boat Ramp",
+    "latitude": 36.8795315,
+    "longitude": -76.033379,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 411855312,
+    "name": "Irongate",
+    "latitude": 37.7736572,
+    "longitude": -79.7826584,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Irongate",
+      "operator": "Virginia Department of Game and Inland Fisheries",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 411855313,
+    "name": "Craig Creek",
+    "latitude": 37.6456702,
+    "longitude": -79.8148329,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Craig Creek",
+      "operator": "Virginia Department of Game and Inland Fisheries",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 411855318,
+    "name": "Buchanan",
+    "latitude": 37.5299905,
+    "longitude": -79.6794041,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Buchanan",
+      "operator": "Virginia Department of Game and Inland Fisheries",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 474105883,
+    "name": "Boat Ramp",
+    "latitude": 37.0460096,
+    "longitude": -79.6406744,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 474394791,
+    "name": "Boat Ramp",
+    "latitude": 37.1332382,
+    "longitude": -79.6677548,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 475211165,
+    "name": "Boat Ramp",
+    "latitude": 36.9671654,
+    "longitude": -79.9444013,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 507734377,
+    "name": "Boat Ramp",
+    "latitude": 36.9928262,
+    "longitude": -78.211353,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 543560893,
+    "name": "Boat Ramp",
+    "latitude": 37.0846607,
+    "longitude": -80.5777195,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 543620995,
+    "name": "Boat Ramp",
+    "latitude": 36.988253,
+    "longitude": -80.723191,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 728739062,
+    "name": "Boat Ramp",
+    "latitude": 37.1871319,
+    "longitude": -76.5576105,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 899153693,
+    "name": "Reedy Creek Boat Launch",
+    "latitude": 37.5244377,
+    "longitude": -77.4695256,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Reedy Creek Boat Launch"
+    }
+  },
+  {
+    "id": 1494516702,
+    "name": "Boat Ramp",
+    "latitude": 37.6652593,
+    "longitude": -77.8866318,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1494533139,
+    "name": "Boat Ramp",
+    "latitude": 37.6644412,
+    "longitude": -77.8905185,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1651159423,
+    "name": "Boat Ramp",
+    "latitude": 37.7886173,
+    "longitude": -77.3701059,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1724631075,
+    "name": "Boat Ramp",
+    "latitude": 37.7598335,
+    "longitude": -77.6120454,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1773598639,
+    "name": "Boat Rental And Launch",
+    "latitude": 37.052294,
+    "longitude": -76.4863673,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat rental and launch"
+    }
+  },
+  {
+    "id": 2047754872,
+    "name": "Boat Ramp",
+    "latitude": 39.4816086,
+    "longitude": -80.1407472,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2135457263,
+    "name": "Boat Ramp",
+    "latitude": 37.1787984,
+    "longitude": -78.4562316,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2152592696,
+    "name": "Boat Ramp",
+    "latitude": 37.2567498,
+    "longitude": -78.3196738,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2191242786,
+    "name": "Sunset Creek Boat Ramp",
+    "latitude": 37.0163958,
+    "longitude": -76.346191,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Sunset Creek Boat Ramp"
+    }
+  },
+  {
+    "id": 2332623219,
+    "name": "Boat Ramp",
+    "latitude": 37.5888397,
+    "longitude": -77.9081035,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2342446998,
+    "name": "Boat Ramp",
+    "latitude": 37.5393739,
+    "longitude": -78.09779,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2342704954,
+    "name": "Boat Ramp",
+    "latitude": 37.4935655,
+    "longitude": -77.9165553,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2351562569,
+    "name": "Hales Ford Public Boat Ramp",
+    "latitude": 37.1429005,
+    "longitude": -79.6568937,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "addr:city": "Moneta",
+      "addr:housenumber": "219",
+      "addr:postcode": "24121",
+      "addr:state": "VA",
+      "addr:street": "Meadow Point Drive",
+      "leisure": "slipway",
+      "name": "Hales Ford public boat ramp"
+    }
+  },
+  {
+    "id": 2351562607,
+    "name": "Hardy Ford Public Boat Ramp",
+    "latitude": 37.2200668,
+    "longitude": -79.8013839,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Hardy Ford public boat ramp"
+    }
+  },
+  {
+    "id": 2351562611,
+    "name": "Hardy Ford Public Boat Ramp",
+    "latitude": 37.2200352,
+    "longitude": -79.8013116,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Hardy Ford public boat ramp"
+    }
+  },
+  {
+    "id": 2352990145,
+    "name": "Boat Ramp",
+    "latitude": 37.0749059,
+    "longitude": -76.3293567,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2355597900,
+    "name": "Boat Ramp",
+    "latitude": 37.0922055,
+    "longitude": -76.4272813,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2389069861,
+    "name": "Boat Ramp",
+    "latitude": 37.2209684,
+    "longitude": -77.5284462,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2413657280,
+    "name": "Boat Ramp",
+    "latitude": 37.2289157,
+    "longitude": -77.5280332,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2420282690,
+    "name": "Boat Ramp",
+    "latitude": 37.3895697,
+    "longitude": -77.5758933,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2423429828,
+    "name": "Boat Ramp",
+    "latitude": 37.3626478,
+    "longitude": -77.5516416,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2531153697,
+    "name": "Boat Ramp",
+    "latitude": 36.9837228,
+    "longitude": -76.3976568,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2748558564,
+    "name": "Boat Ramp",
+    "latitude": 38.0081371,
+    "longitude": -80.0096576,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 2889176345,
+    "name": "Boat Ramp",
+    "latitude": 37.3842854,
+    "longitude": -79.9470449,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "GPS"
+    }
+  },
+  {
+    "id": 2889258859,
+    "name": "Boat Ramp",
+    "latitude": 37.3842742,
+    "longitude": -79.9471378,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "GPS"
+    }
+  },
+  {
+    "id": 2932302101,
+    "name": "Boat Ramp",
+    "latitude": 38.2990761,
+    "longitude": -80.7695389,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 3004848616,
+    "name": "Boat Ramp",
+    "latitude": 37.5344402,
+    "longitude": -77.4455218,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3023091309,
+    "name": "Boat Ramp",
+    "latitude": 37.3488002,
+    "longitude": -77.2688006,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3033225497,
+    "name": "Boat Ramp",
+    "latitude": 38.9420016,
+    "longitude": -80.4907522,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3033227357,
+    "name": "Boat Ramp",
+    "latitude": 38.9556376,
+    "longitude": -80.4899909,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3033521793,
+    "name": "South Anna Public Boat Landing",
+    "latitude": 37.7966366,
+    "longitude": -77.5499317,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "South Anna Public Boat Landing"
+    }
+  },
+  {
+    "id": 3038419320,
+    "name": "Boat Ramp",
+    "latitude": 37.7356156,
+    "longitude": -81.0856408,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3078432464,
+    "name": "Boat Ramp",
+    "latitude": 37.5343422,
+    "longitude": -77.4457848,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3086932038,
+    "name": "Glass Island Public Boat Ramp",
+    "latitude": 37.5407854,
+    "longitude": -76.7897565,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Glass Island Public Boat Ramp"
+    }
+  },
+  {
+    "id": 3182190004,
+    "name": "Boat Ramp",
+    "latitude": 36.742495,
+    "longitude": -76.3006263,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3187714707,
+    "name": "Boat Ramp",
+    "latitude": 36.7254405,
+    "longitude": -76.2468641,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3201082334,
+    "name": "Boat Ramp",
+    "latitude": 36.6033179,
+    "longitude": -78.2976223,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3238450597,
+    "name": "Canoe Launch",
+    "latitude": 37.4008294,
+    "longitude": -77.3866927,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe Launch"
+    }
+  },
+  {
+    "id": 3238455677,
+    "name": "Osborne Boat Launch",
+    "latitude": 37.4009171,
+    "longitude": -77.3858275,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Osborne Boat Launch"
+    }
+  },
+  {
+    "id": 3238474043,
+    "name": "Canoe Launch",
+    "latitude": 37.4015463,
+    "longitude": -77.3873142,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe Launch"
+    }
+  },
+  {
+    "id": 3407605400,
+    "name": "Boat Ramp",
+    "latitude": 36.8227745,
+    "longitude": -75.9814137,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3421817005,
+    "name": "Public Boat Ramp",
+    "latitude": 38.991117,
+    "longitude": -80.2120509,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Public Boat Ramp"
+    }
+  },
+  {
+    "id": 3613980424,
+    "name": "Boat Ramp",
+    "latitude": 36.9836542,
+    "longitude": -76.3975683,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3667017079,
+    "name": "Boat Ramp",
+    "latitude": 37.9925538,
+    "longitude": -79.9475451,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3679653932,
+    "name": "Boat Ramp",
+    "latitude": 37.2268102,
+    "longitude": -76.7788156,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3679653951,
+    "name": "Boat Ramp",
+    "latitude": 37.2266843,
+    "longitude": -76.7778809,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3736603494,
+    "name": "Boat Ramp",
+    "latitude": 36.6741642,
+    "longitude": -76.9169765,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3817180995,
+    "name": "Gerald L. Scott Boat Ramp",
+    "latitude": 38.9393652,
+    "longitude": -80.2389152,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "alt_name": "Hampton - Ivanhoe Boat Ramp",
+      "designation": "County Park",
+      "leisure": "slipway",
+      "name": "Gerald L. Scott Boat Ramp",
+      "source": "Upshur County"
+    }
+  },
+  {
+    "id": 3930578045,
+    "name": "Boat Ramp",
+    "latitude": 37.9082256,
+    "longitude": -79.796272,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3936409288,
+    "name": "Boat Ramp",
+    "latitude": 37.4219095,
+    "longitude": -77.6494472,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3937028841,
+    "name": "Boat Ramp",
+    "latitude": 37.4355696,
+    "longitude": -77.6583965,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3994580479,
+    "name": "Boat Ramp",
+    "latitude": 37.4060067,
+    "longitude": -79.2335512,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4408435643,
+    "name": "Boat Ramp",
+    "latitude": 37.6763917,
+    "longitude": -77.9484937,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 4568788933,
+    "name": "Haven Creek Boat Ramp",
+    "latitude": 36.8836032,
+    "longitude": -76.2840369,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Haven Creek Boat Ramp"
+    }
+  },
+  {
+    "id": 4665898195,
+    "name": "Boat Ramp",
+    "latitude": 37.5255893,
+    "longitude": -76.403257,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4673824087,
+    "name": "Boat Ramp",
+    "latitude": 37.0554673,
+    "longitude": -80.6206022,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4673891543,
+    "name": "Boat Ramp",
+    "latitude": 37.29735,
+    "longitude": -76.442259,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4673894909,
+    "name": "Boat Ramp",
+    "latitude": 37.304477,
+    "longitude": -76.4546187,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4680369772,
+    "name": "Boat Ramp",
+    "latitude": 36.9641427,
+    "longitude": -76.2880395,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4680369777,
+    "name": "Boat Ramp",
+    "latitude": 36.9643884,
+    "longitude": -76.2880484,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4692253109,
+    "name": "Boat Ramp",
+    "latitude": 37.1546242,
+    "longitude": -76.4061462,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4717718422,
+    "name": "Arcadia",
+    "latitude": 37.5548891,
+    "longitude": -79.6369093,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Arcadia",
+      "operator": "Virginia Department of Game and Inland Fisheries",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 4984038023,
+    "name": "Boat Ramp",
+    "latitude": 37.0857413,
+    "longitude": -76.5206552,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5134097445,
+    "name": "Boat Ramp",
+    "latitude": 37.1984681,
+    "longitude": -80.5654022,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "description": "Whitehorne Public Boat Launch",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5141089015,
+    "name": "Boat Ramp",
+    "latitude": 37.6359396,
+    "longitude": -78.7198138,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "whitewater": "put_in"
+    }
+  },
+  {
+    "id": 5141089016,
+    "name": "Boat Ramp",
+    "latitude": 37.6347835,
+    "longitude": -78.8112915,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "whitewater": "put_in"
+    }
+  },
+  {
+    "id": 5173885488,
+    "name": "Boat Ramp",
+    "latitude": 37.0927345,
+    "longitude": -79.6034289,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5173885489,
+    "name": "Boat Ramp",
+    "latitude": 37.0927334,
+    "longitude": -79.6033543,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5312778532,
+    "name": "Boat Ramp",
+    "latitude": 37.7329504,
+    "longitude": -78.6450749,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "whitewater": "put_in"
+    }
+  },
+  {
+    "id": 5615951813,
+    "name": "Brookneal Boat Ramp",
+    "latitude": 37.038315,
+    "longitude": -78.9438447,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "addr:city": "Brookneal",
+      "addr:housenumber": "33",
+      "addr:postcode": "24528",
+      "addr:state": "VA",
+      "addr:street": "Radio Road",
+      "leisure": "slipway",
+      "name": "Brookneal Boat Ramp"
+    }
+  },
+  {
+    "id": 5654835256,
+    "name": "Boat Ramp",
+    "latitude": 36.8345122,
+    "longitude": -76.371665,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5816875632,
+    "name": "Kayak Launch",
+    "latitude": 36.9758032,
+    "longitude": -76.6211875,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kayak Launch"
+    }
+  },
+  {
+    "id": 5852317267,
+    "name": "Kayak Launch",
+    "latitude": 36.8937422,
+    "longitude": -76.4038482,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kayak Launch"
+    }
+  },
+  {
+    "id": 5868932550,
+    "name": "Boat Ramp",
+    "latitude": 37.284424,
+    "longitude": -77.3779669,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5874604180,
+    "name": "Boat Ramp",
+    "latitude": 36.9885207,
+    "longitude": -76.6292985,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5883267803,
+    "name": "Boat Ramp",
+    "latitude": 36.8520294,
+    "longitude": -76.569029,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5883268070,
+    "name": "Boat Ramp",
+    "latitude": 36.8520303,
+    "longitude": -76.5692644,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5883268099,
+    "name": "Boat Ramp",
+    "latitude": 36.85677,
+    "longitude": -76.569238,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5886048219,
+    "name": "Boat Ramp",
+    "latitude": 36.8635282,
+    "longitude": -76.5715963,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5886048221,
+    "name": "Boat Ramp",
+    "latitude": 36.8639023,
+    "longitude": -76.5713086,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6097100913,
+    "name": "Boat Ramp",
+    "latitude": 37.2457842,
+    "longitude": -76.5047714,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6097113698,
+    "name": "Boat Ramp",
+    "latitude": 37.281162,
+    "longitude": -76.3899436,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6101360320,
+    "name": "Boat Ramp",
+    "latitude": 37.4040975,
+    "longitude": -76.3456215,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6181794701,
+    "name": "Boat Ramp",
+    "latitude": 37.2445588,
+    "longitude": -77.3809171,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 6204823759,
+    "name": "Sailboat Launch",
+    "latitude": 36.8344217,
+    "longitude": -76.3699941,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Sailboat launch"
+    }
+  },
+  {
+    "id": 6204823831,
+    "name": "Boat Ramp",
+    "latitude": 36.8344795,
+    "longitude": -76.3715273,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6242147433,
+    "name": "Boat Ramp",
+    "latitude": 37.6917349,
+    "longitude": -77.9194712,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6248113831,
+    "name": "Ware House Landing",
+    "latitude": 37.4032272,
+    "longitude": -76.4897819,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Ware House Landing",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 6348833743,
+    "name": "Boat Ramp",
+    "latitude": 37.611373,
+    "longitude": -76.4447657,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "private",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6456616933,
+    "name": "Deep Bottom Boat Ramp",
+    "latitude": 37.4071953,
+    "longitude": -77.3053915,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Deep Bottom Boat Ramp"
+    }
+  },
+  {
+    "id": 6456659826,
+    "name": "Boat Ramp",
+    "latitude": 37.3910154,
+    "longitude": -77.3629129,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6510756652,
+    "name": "Boat Ramp",
+    "latitude": 36.8559617,
+    "longitude": -76.1644838,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6569814877,
+    "name": "Boat Ramp",
+    "latitude": 36.944955,
+    "longitude": -80.7318011,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 6569814882,
+    "name": "Boat Ramp",
+    "latitude": 36.9201278,
+    "longitude": -80.8056291,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 6586893643,
+    "name": "Boat Launch",
+    "latitude": 37.5458252,
+    "longitude": -76.525365,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Launch"
+    }
+  },
+  {
+    "id": 6602826840,
+    "name": "Boat Ramp",
+    "latitude": 37.1484866,
+    "longitude": -76.4775834,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6644599582,
+    "name": "Palmyra Boat Landing",
+    "latitude": 37.857756,
+    "longitude": -78.2668979,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Palmyra Boat Landing"
+    }
+  },
+  {
+    "id": 6689468220,
+    "name": "Boat Ramp",
+    "latitude": 37.4066992,
+    "longitude": -76.9366286,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6775612287,
+    "name": "Alanton Boat Ramp",
+    "latitude": 36.8902246,
+    "longitude": -76.0213432,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "name": "Alanton Boat Ramp",
+      "surface": "asphalt_and_Gravel"
+    }
+  },
+  {
+    "id": 6859735595,
+    "name": "Boat Ramp",
+    "latitude": 37.289901,
+    "longitude": -80.6157257,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 6859757299,
+    "name": "Boat Ramp",
+    "latitude": 37.0033968,
+    "longitude": -80.685581,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 6920802648,
+    "name": "Boat Ramp",
+    "latitude": 37.5703464,
+    "longitude": -76.3896275,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6923445171,
+    "name": "Boat Ramp",
+    "latitude": 37.654429,
+    "longitude": -76.5910164,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6923446683,
+    "name": "Boat Ramp",
+    "latitude": 37.6526027,
+    "longitude": -76.5873974,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6924869523,
+    "name": "Boat Ramp",
+    "latitude": 37.7998645,
+    "longitude": -76.6503234,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6925740781,
+    "name": "Boat Ramp",
+    "latitude": 37.8115472,
+    "longitude": -76.7439024,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6985889282,
+    "name": "Boat Ramp",
+    "latitude": 37.775061,
+    "longitude": -75.5613331,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "tidal": "yes"
+    }
+  },
+  {
+    "id": 7157231434,
+    "name": "Boat Ramp",
+    "latitude": 38.532172,
+    "longitude": -79.7028931,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 7178791564,
+    "name": "Boat Ramp",
+    "latitude": 37.5755495,
+    "longitude": -77.9971132,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7224204854,
+    "name": "Boat Ramp",
+    "latitude": 37.680371,
+    "longitude": -77.9448695,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7239069584,
+    "name": "Boat Ramp",
+    "latitude": 37.66931,
+    "longitude": -78.7145774,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7332888319,
+    "name": "Boat Ramp",
+    "latitude": 37.5591832,
+    "longitude": -77.6473483,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7333597690,
+    "name": "Boat Ramp",
+    "latitude": 39.1528859,
+    "longitude": -80.04358,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7368580498,
+    "name": "Boat Ramp",
+    "latitude": 37.0591864,
+    "longitude": -79.4462718,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "fixme": "doesn't look in great condition",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7407593389,
+    "name": "Boat Ramp",
+    "latitude": 36.732841,
+    "longitude": -76.916005,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7413187629,
+    "name": "Boat Ramp",
+    "latitude": 37.0467985,
+    "longitude": -78.1509715,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7415535182,
+    "name": "Boat Ramp",
+    "latitude": 37.0512246,
+    "longitude": -79.6632796,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7415535186,
+    "name": "Boat Ramp",
+    "latitude": 37.0130873,
+    "longitude": -79.6255708,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7483219420,
+    "name": "Boat Ramp",
+    "latitude": 37.6939624,
+    "longitude": -76.4899281,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7483287305,
+    "name": "Boat Ramp",
+    "latitude": 37.6938543,
+    "longitude": -76.4899486,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7509199421,
+    "name": "Boat Ramp",
+    "latitude": 37.0628289,
+    "longitude": -80.6316442,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7658594498,
+    "name": "Boat Ramp",
+    "latitude": 37.2963897,
+    "longitude": -76.6323624,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7658594499,
+    "name": "Canoe/Kayak Launch",
+    "latitude": 37.2967803,
+    "longitude": -76.6327302,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe/Kayak Launch"
+    }
+  },
+  {
+    "id": 7686102916,
+    "name": "Boat Ramp",
+    "latitude": 37.1236561,
+    "longitude": -76.5684316,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7689359716,
+    "name": "Boat Ramp",
+    "latitude": 37.0168826,
+    "longitude": -76.4559154,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7689359717,
+    "name": "Boat Ramp",
+    "latitude": 37.0167821,
+    "longitude": -76.455882,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7699807805,
+    "name": "Boat Ramp",
+    "latitude": 37.488127,
+    "longitude": -76.308352,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7741544159,
+    "name": "Pepper'S Ferry Boat Ramp",
+    "latitude": 37.1611638,
+    "longitude": -80.5525093,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Pepper's Ferry Boat Ramp",
+      "surface": "sand"
+    }
+  },
+  {
+    "id": 7857853696,
+    "name": "Boat Ramp",
+    "latitude": 37.0857029,
+    "longitude": -76.5236193,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "man_made": "crane"
+    }
+  },
+  {
+    "id": 7891347111,
+    "name": "Boat Ramp",
+    "latitude": 37.8889749,
+    "longitude": -77.4659018,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7906863585,
+    "name": "Boat Ramp",
+    "latitude": 36.8794297,
+    "longitude": -76.5770526,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7906863734,
+    "name": "Boat Ramp",
+    "latitude": 36.8695544,
+    "longitude": -76.5755358,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7994344895,
+    "name": "Boat Ramp",
+    "latitude": 37.7095092,
+    "longitude": -78.2999741,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8009536830,
+    "name": "Boat Ramp",
+    "latitude": 37.7491957,
+    "longitude": -78.1627844,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8026043629,
+    "name": "Mill Creek Landing Public Boat Ramp",
+    "latitude": 37.5842539,
+    "longitude": -76.4244581,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mill Creek Landing Public Boat Ramp"
+    }
+  },
+  {
+    "id": 8027596335,
+    "name": "Boat Ramp",
+    "latitude": 37.7447227,
+    "longitude": -80.4661956,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8027655995,
+    "name": "Boat Ramp",
+    "latitude": 37.0885903,
+    "longitude": -80.5789181,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8027655998,
+    "name": "Boat Ramp",
+    "latitude": 37.0696824,
+    "longitude": -80.5920287,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8085758054,
+    "name": "Boat Ramp",
+    "latitude": 36.6948637,
+    "longitude": -78.882107,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8085758056,
+    "name": "Boat Ramp",
+    "latitude": 36.6601163,
+    "longitude": -78.6268453,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8146734205,
+    "name": "Boat Ramp",
+    "latitude": 37.7247046,
+    "longitude": -77.0231137,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 8146734208,
+    "name": "Boat Ramp",
+    "latitude": 37.7245771,
+    "longitude": -77.0242563,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 8171656304,
+    "name": "Boat Ramp",
+    "latitude": 36.9948377,
+    "longitude": -76.562253,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8173406624,
+    "name": "Boat Ramp",
+    "latitude": 36.8662456,
+    "longitude": -76.5724391,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8177839562,
+    "name": "Boat Ramp",
+    "latitude": 36.9746736,
+    "longitude": -76.5629666,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8177839563,
+    "name": "Boat Ramp",
+    "latitude": 36.9746266,
+    "longitude": -76.5629282,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8223341793,
+    "name": "Boat Ramp",
+    "latitude": 37.2228329,
+    "longitude": -76.6622096,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8255390127,
+    "name": "Boat Ramp",
+    "latitude": 37.2429283,
+    "longitude": -76.8646715,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8260109523,
+    "name": "Boat Ramp",
+    "latitude": 37.5521039,
+    "longitude": -77.2713573,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8264314348,
+    "name": "Boat Ramp",
+    "latitude": 37.311413,
+    "longitude": -77.2209808,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8278349971,
+    "name": "Boat Ramp",
+    "latitude": 37.3106569,
+    "longitude": -77.2986247,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8426746305,
+    "name": "Boat Ramp",
+    "latitude": 36.9600438,
+    "longitude": -76.565151,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8434920356,
+    "name": "Boat Ramp",
+    "latitude": 37.5488753,
+    "longitude": -76.498266,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8478822217,
+    "name": "Boat Ramp",
+    "latitude": 37.083394,
+    "longitude": -76.6654805,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8491460241,
+    "name": "Boat Ramp",
+    "latitude": 37.6053942,
+    "longitude": -75.6876378,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8653279897,
+    "name": "Boat Ramp",
+    "latitude": 37.6517736,
+    "longitude": -80.8857683,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8688808417,
+    "name": "Boat Ramp",
+    "latitude": 36.9766011,
+    "longitude": -76.6649724,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8753707404,
+    "name": "Boat Ramp",
+    "latitude": 37.0856076,
+    "longitude": -76.3396708,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8753707405,
+    "name": "Boat Ramp",
+    "latitude": 37.0845406,
+    "longitude": -76.3401077,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8756556236,
+    "name": "Boat Ramp",
+    "latitude": 36.9931573,
+    "longitude": -76.6248278,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8809738663,
+    "name": "Boat Ramp",
+    "latitude": 37.177415,
+    "longitude": -76.8055707,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8927480085,
+    "name": "Tug Creek River Access",
+    "latitude": 37.6973664,
+    "longitude": -80.884716,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Tug Creek River Access"
+    }
+  },
+  {
+    "id": 8927480093,
+    "name": "Brooks Falls River Access",
+    "latitude": 37.723197,
+    "longitude": -80.8948628,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Brooks Falls River Access"
+    }
+  },
+  {
+    "id": 8927480097,
+    "name": "Sandstone Falls River Access",
+    "latitude": 37.7608149,
+    "longitude": -80.8994835,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Sandstone Falls River Access"
+    }
+  },
+  {
+    "id": 8927480108,
+    "name": "Meadow Creek River Access",
+    "latitude": 37.7962176,
+    "longitude": -80.9218672,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Meadow Creek River Access"
+    }
+  },
+  {
+    "id": 8927480109,
+    "name": "Grandview Sandbar River Access",
+    "latitude": 37.8574992,
+    "longitude": -81.0538416,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Grandview Sandbar River Access"
+    }
+  },
+  {
+    "id": 8927488533,
+    "name": "Stone Cliff River Access",
+    "latitude": 37.933679,
+    "longitude": -81.0632438,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Stone Cliff River Access"
+    }
+  },
+  {
+    "id": 8927488534,
+    "name": "Cunard River Access",
+    "latitude": 37.9990584,
+    "longitude": -81.0222588,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Cunard River Access"
+    }
+  },
+  {
+    "id": 8927488536,
+    "name": "Fayette River Access",
+    "latitude": 38.0672666,
+    "longitude": -81.0818257,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Fayette River Access"
+    }
+  },
+  {
+    "id": 9056352123,
+    "name": "Boat Ramp",
+    "latitude": 37.6616274,
+    "longitude": -76.9130375,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9146680635,
+    "name": "Old Wormley Creek Landing",
+    "latitude": 37.2052798,
+    "longitude": -76.4704914,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "lanes": "1",
+      "leisure": "slipway",
+      "name": "Old Wormley Creek Landing",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 9146702985,
+    "name": "Old Wormley Creek Kayak Launch",
+    "latitude": 37.2055751,
+    "longitude": -76.4704493,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "lanes": "1",
+      "leisure": "slipway",
+      "name": "Old Wormley Creek Kayak Launch"
+    }
+  },
+  {
+    "id": 9221469793,
+    "name": "Boat Ramp",
+    "latitude": 37.1858157,
+    "longitude": -76.5574173,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9270923908,
+    "name": "Boat Ramp",
+    "latitude": 37.8180807,
+    "longitude": -79.9873045,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9442838693,
+    "name": "Walhonde Water Trail Access Ramp",
+    "latitude": 38.0594211,
+    "longitude": -81.8249284,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Walhonde Water Trail Access Ramp"
+    }
+  },
+  {
+    "id": 9453294415,
+    "name": "Boat Ramp",
+    "latitude": 37.5257284,
+    "longitude": -77.4217655,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9498404123,
+    "name": "Boat Ramp",
+    "latitude": 37.0683288,
+    "longitude": -79.6470543,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9498405587,
+    "name": "Boat Ramp",
+    "latitude": 37.0665305,
+    "longitude": -79.6462934,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9498419163,
+    "name": "Boat Ramp",
+    "latitude": 37.0537102,
+    "longitude": -79.6742918,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9498499903,
+    "name": "Boat Ramp",
+    "latitude": 37.0299499,
+    "longitude": -79.6364198,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9653995064,
+    "name": "Highland Park Veterans Kayak Launch",
+    "latitude": 36.8843822,
+    "longitude": -76.294042,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Highland Park Veterans Kayak Launch"
+    }
+  },
+  {
+    "id": 9654083532,
+    "name": "Plum Point Kayak Launch",
+    "latitude": 36.8600221,
+    "longitude": -76.3076136,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Plum Point Kayak Launch",
+      "trailer": "no"
+    }
+  },
+  {
+    "id": 9710142848,
+    "name": "Boat Ramp",
+    "latitude": 37.4175224,
+    "longitude": -79.1377561,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "motorboat": "no",
+      "sailboat": "no"
+    }
+  },
+  {
+    "id": 9744138950,
+    "name": "Johnson Spring Boat Ramp",
+    "latitude": 37.9145889,
+    "longitude": -79.971456,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Johnson Spring Boat Ramp"
+    }
+  },
+  {
+    "id": 9822113244,
+    "name": "Boat Ramp",
+    "latitude": 37.8313992,
+    "longitude": -75.9979749,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9904658190,
+    "name": "Relic River Canoe Launch",
+    "latitude": 37.3747181,
+    "longitude": -77.364151,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Relic River Canoe Launch",
+      "surface": "plastic"
+    }
+  },
+  {
+    "id": 9955905346,
+    "name": "Boat Ramp",
+    "latitude": 37.2610228,
+    "longitude": -76.478368,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9955918881,
+    "name": "Boat Ramp",
+    "latitude": 37.2452958,
+    "longitude": -76.5039958,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9955932483,
+    "name": "Boat Ramp",
+    "latitude": 37.3016055,
+    "longitude": -76.4690975,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "customers",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9987033369,
+    "name": "Boat Ramp",
+    "latitude": 36.7454205,
+    "longitude": -79.8707233,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10009920057,
+    "name": "Boat Ramp",
+    "latitude": 37.0682931,
+    "longitude": -79.5835656,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "customers",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10009941952,
+    "name": "Boat Ramp",
+    "latitude": 37.0572217,
+    "longitude": -79.6072158,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10019052094,
+    "name": "Boat Ramp",
+    "latitude": 37.6352342,
+    "longitude": -76.5728691,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10019052171,
+    "name": "Boat Ramp",
+    "latitude": 37.6375967,
+    "longitude": -76.5708105,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10045314766,
+    "name": "Boat Ramp",
+    "latitude": 38.3959615,
+    "longitude": -81.5855516,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10045933184,
+    "name": "Boat Ramp",
+    "latitude": 37.6059671,
+    "longitude": -77.0927775,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10057415655,
+    "name": "Boat Ramp",
+    "latitude": 36.8870202,
+    "longitude": -81.5236442,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 10078126966,
+    "name": "Boat Ramp",
+    "latitude": 37.416106,
+    "longitude": -79.1367459,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10109836690,
+    "name": "Boat Ramp",
+    "latitude": 37.4633585,
+    "longitude": -77.9217637,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10176345278,
+    "name": "Boat Ramp",
+    "latitude": 38.3299498,
+    "longitude": -81.5832569,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10222554424,
+    "name": "Huguenot Flatwater Boat Ramp",
+    "latitude": 37.5605156,
+    "longitude": -77.5457969,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Huguenot Flatwater Boat Ramp",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": 10282365740,
+    "name": "Boat Ramp",
+    "latitude": 36.6912626,
+    "longitude": -76.3584452,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10658316665,
+    "name": "Boat Ramp",
+    "latitude": 37.4121797,
+    "longitude": -76.941756,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10684341078,
+    "name": "Boat Ramp",
+    "latitude": 37.0856224,
+    "longitude": -76.3396955,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10684341079,
+    "name": "Boat Ramp",
+    "latitude": 37.084545,
+    "longitude": -76.3401381,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10759360470,
+    "name": "Boat Ramp",
+    "latitude": 38.3389091,
+    "longitude": -81.6278499,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10770020504,
+    "name": "Boat Ramp",
+    "latitude": 37.2675282,
+    "longitude": -76.4220497,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10805405294,
+    "name": "Kayak Launch",
+    "latitude": 36.8934883,
+    "longitude": -76.4033882,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kayak Launch"
+    }
+  },
+  {
+    "id": 10834166775,
+    "name": "Boat Ramp",
+    "latitude": 39.4816827,
+    "longitude": -80.1405984,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10836259644,
+    "name": "Boat Ramp",
+    "latitude": 37.3381199,
+    "longitude": -76.5905458,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10846824875,
+    "name": "Boat Ramp",
+    "latitude": 36.8921917,
+    "longitude": -76.0184174,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "lanes": "4",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10863591740,
+    "name": "Boat Ramp",
+    "latitude": 37.386912,
+    "longitude": -76.6420733,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10990160086,
+    "name": "Kayak Launch",
+    "latitude": 37.3842386,
+    "longitude": -79.9469037,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kayak Launch"
+    }
+  },
+  {
+    "id": 11103212431,
+    "name": "Boat Ramp",
+    "latitude": 37.096246,
+    "longitude": -76.2946272,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11229843038,
+    "name": "Scotts Ford Public Access Site",
+    "latitude": 38.9083614,
+    "longitude": -79.8616005,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "description": "concrete boat ramp and ADA kayak/canoe boat launch",
+      "leisure": "slipway",
+      "name": "Scotts Ford Public Access Site",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "id": 11265137355,
+    "name": "Boat Ramp",
+    "latitude": 37.1107415,
+    "longitude": -76.3192228,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11265137356,
+    "name": "Boat Ramp",
+    "latitude": 37.1106571,
+    "longitude": -76.3191647,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11267504739,
+    "name": "Boat Ramp",
+    "latitude": 37.0725594,
+    "longitude": -76.3030873,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11293946826,
+    "name": "Boat Ramp",
+    "latitude": 36.8829979,
+    "longitude": -80.8609468,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11309937263,
+    "name": "Boat Ramp",
+    "latitude": 37.492532,
+    "longitude": -76.3099913,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11395163178,
+    "name": "Boat Ramp",
+    "latitude": 36.8014877,
+    "longitude": -76.3064778,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11701038064,
+    "name": "Boat Ramp",
+    "latitude": 37.7970347,
+    "longitude": -78.4932448,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11702210526,
+    "name": "Boat Ramp",
+    "latitude": 37.5325006,
+    "longitude": -78.2759604,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11734304965,
+    "name": "Boat Ramp",
+    "latitude": 37.9490893,
+    "longitude": -79.9681696,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImagery"
+    }
+  },
+  {
+    "id": 11764460603,
+    "name": "Boat Ramp",
+    "latitude": 37.7805301,
+    "longitude": -78.5092939,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11766071164,
+    "name": "Boat Ramp",
+    "latitude": 36.7736679,
+    "longitude": -80.9366683,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11907561554,
+    "name": "Hardware Road Boat Ramp",
+    "latitude": 37.7402355,
+    "longitude": -78.4078129,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Hardware Road Boat Ramp",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 11928488160,
+    "name": "Boat Ramp",
+    "latitude": 37.4118759,
+    "longitude": -79.1347024,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12066947880,
+    "name": "Scottsville Boat Ramp",
+    "latitude": 37.7975798,
+    "longitude": -78.4905606,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Scottsville Boat Ramp",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 12121877447,
+    "name": "Boat Ramp",
+    "latitude": 36.6041028,
+    "longitude": -76.3816451,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12124965952,
+    "name": "Boat Ramp",
+    "latitude": 36.6018666,
+    "longitude": -76.2766622,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12135365873,
+    "name": "Smith River Sports Complex Canoe Access",
+    "latitude": 36.6335842,
+    "longitude": -79.8251986,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Smith River Sports Complex Canoe Access"
+    }
+  },
+  {
+    "id": 12172909343,
+    "name": "Mill Landing Boat Ramp",
+    "latitude": 36.6339884,
+    "longitude": -75.9924895,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Mill Landing Boat Ramp",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 12173559325,
+    "name": "Dozier Bridge Canoe Launch",
+    "latitude": 36.7559778,
+    "longitude": -76.0398299,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Dozier Bridge Canoe Launch",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 12227841363,
+    "name": "Ingles Landing",
+    "latitude": 37.285687,
+    "longitude": -80.6168097,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Ingles Landing"
+    }
+  },
+  {
+    "id": 12290935852,
+    "name": "Boat Ramp",
+    "latitude": 36.9668833,
+    "longitude": -79.9414675,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12318764049,
+    "name": "Boat Ramp",
+    "latitude": 37.1371013,
+    "longitude": -81.4998087,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12322559974,
+    "name": "Boat Ramp",
+    "latitude": 37.8900118,
+    "longitude": -78.3742336,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "permit",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12385167924,
+    "name": "Boat Ramp",
+    "latitude": 37.1760529,
+    "longitude": -81.5195847,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12408058619,
+    "name": "Carolanne Park Kayak Launch",
+    "latitude": 36.8255562,
+    "longitude": -76.1825952,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Carolanne Park Kayak Launch"
+    }
+  },
+  {
+    "id": 12412977208,
+    "name": "Boat Ramp",
+    "latitude": 37.7079765,
+    "longitude": -78.2881471,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12412977210,
+    "name": "Boat Ramp",
+    "latitude": 37.7085996,
+    "longitude": -78.2895904,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12416549579,
+    "name": "Hardware River Boat Ramp (Kayaks Only)",
+    "latitude": 37.7866681,
+    "longitude": -78.4063256,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Hardware River Boat Ramp (Kayaks Only)"
+    }
+  },
+  {
+    "id": 12425547611,
+    "name": "Boat Ramp",
+    "latitude": 38.066872,
+    "longitude": -81.081141,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "description": "public boat launch",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12500876543,
+    "name": "Boat Ramp",
+    "latitude": 37.5311034,
+    "longitude": -77.4322422,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "waterway": "access_point",
+      "whitewater": "egress"
+    }
+  },
+  {
+    "id": 12560234002,
+    "name": "Boat Ramp",
+    "latitude": 38.1559765,
+    "longitude": -81.1845107,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12604062974,
+    "name": "Mitchell Bridge Kayak And Canoe Access",
+    "latitude": 36.6028377,
+    "longitude": -79.7767018,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Mitchell Bridge Kayak and Canoe Access",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 12604096795,
+    "name": "Marrowbone Creek Kayak And Canoe Access",
+    "latitude": 36.6132737,
+    "longitude": -79.823679,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Marrowbone Creek Kayak and Canoe Access",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 12649767044,
+    "name": "Boat Ramp",
+    "latitude": 36.8392439,
+    "longitude": -79.1764334,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12663144232,
+    "name": "Boat Ramp",
+    "latitude": 37.4112907,
+    "longitude": -77.6787751,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12795990423,
+    "name": "Public Canoe Launch",
+    "latitude": 37.4183652,
+    "longitude": -79.1395379,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Public Canoe Launch"
+    }
+  },
+  {
+    "id": 12924995968,
+    "name": "Boat Ramp",
+    "latitude": 36.664453,
+    "longitude": -78.5696667,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "permit",
+      "charge": "5 USD",
+      "fee": "yes",
+      "fee:conditional": "no @ permit",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12926651656,
+    "name": "Boat Ramp",
+    "latitude": 36.6324895,
+    "longitude": -78.5350222,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "permit",
+      "charge": "3 USD",
+      "fee": "yes",
+      "fee:conditional": "no @ permit",
+      "leisure": "slipway",
+      "operator": "Virginia Department of Conservation and Recreation",
+      "operator:type": "government",
+      "operator:wikidata": "Q7934237",
+      "operator:wikipedia": "https://en.wikipedia.org/wiki/Virginia_Department_of_Conservation_and_Recreation",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility"
+    }
+  },
+  {
+    "id": 13012064109,
+    "name": "Ancarrow'S Landing Boat Ramp",
+    "latitude": 37.5197243,
+    "longitude": -77.4189961,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Ancarrow's Landing Boat Ramp"
+    }
+  },
+  {
+    "id": 13251939931,
+    "name": "Boat Ramp",
+    "latitude": 36.8700979,
+    "longitude": -79.532956,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "permit",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13300852476,
+    "name": "Boat Ramp",
+    "latitude": 36.8493076,
+    "longitude": -80.0639867,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "lit": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 13422336875,
+    "name": "Boat Ramp",
+    "latitude": 36.745527,
+    "longitude": -76.0260606,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13477946576,
+    "name": "Boat Ramp",
+    "latitude": 39.1217829,
+    "longitude": -79.6751604,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "canoe": "put_in",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 13598912587,
+    "name": "Roane Point Landing Boat Ramp",
+    "latitude": 37.5250135,
+    "longitude": -76.3788188,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Roane Point Landing Boat Ramp"
+    }
+  },
+  {
+    "id": 13670403784,
+    "name": "Pony Pasture Boat Ramp",
+    "latitude": 37.5515784,
+    "longitude": -77.5205457,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Pony Pasture Boat Ramp",
+      "operator": "City of Richmond",
+      "operator:wikidata": "Q136502539",
+      "trailer": "no",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": 20347762,
+    "name": "Boat Ramp",
+    "latitude": 37.5258345,
+    "longitude": -76.42038,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "private",
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Middlesex, VA",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 193816707,
+    "name": "Wilck'S Lake Boat Ramp",
+    "latitude": 37.3032696,
+    "longitude": -78.4085652,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Wilck's Lake Boat Ramp",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 222585372,
+    "name": "Wise Point Boat Ramp",
+    "latitude": 37.1276193,
+    "longitude": -75.9502064,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "addr:city": "Cape Charles",
+      "addr:postcode": "23310",
+      "addr:street": "Ramp Road",
+      "alt_name": "ESV NWR Boat Ramp",
+      "leisure": "slipway",
+      "name": "Wise Point Boat Ramp",
+      "operator": "Eastern Shore Of Virginia National Wildlife Refuge",
+      "source": "local_knowledge",
+      "website": "https://www.fws.gov/refuge/Eastern_Shore_of_Virginia/visit/boatlaunch.html",
+      "wifi": "no"
+    }
+  },
+  {
+    "id": 224737261,
+    "name": "Captain Zed'S Boat Ramp",
+    "latitude": 37.6037219,
+    "longitude": -75.6878963,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "addr:city": "Wachapreague",
+      "addr:postcode": "23480",
+      "addr:street": "Atlantic Avenue",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Captain Zed's Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 224738392,
+    "name": "Boat Ramp",
+    "latitude": 37.604176,
+    "longitude": -75.6876545,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 224739022,
+    "name": "VIMS Boat Ramp",
+    "latitude": 37.6081332,
+    "longitude": -75.6863259,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "addr:city": "Wachapreague",
+      "addr:postcode": "23480",
+      "addr:street": "Atlantic Avenue",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "VIMS Boat Ramp",
+      "operator": "Virginia Institute Of Marine Sciences",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 225596054,
+    "name": "Boat Ramp",
+    "latitude": 37.6070188,
+    "longitude": -75.6869616,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 307023915,
+    "name": "Dutch Gap Slipway",
+    "latitude": 37.3820372,
+    "longitude": -77.3767415,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Dutch Gap Slipway"
+    }
+  },
+  {
+    "id": 317567187,
+    "name": "Boat Ramp",
+    "latitude": 37.4008993,
+    "longitude": -77.3860601,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 317567188,
+    "name": "Boat Ramp",
+    "latitude": 37.4009989,
+    "longitude": -77.3859793,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 317567189,
+    "name": "Boat Ramp",
+    "latitude": 37.4010839,
+    "longitude": -77.3859063,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 334108558,
+    "name": "Boat Ramp",
+    "latitude": 38.3388784,
+    "longitude": -81.6280431,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 366543659,
+    "name": "Locher Landing",
+    "latitude": 37.6248478,
+    "longitude": -79.4444582,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Locher Landing",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 368080072,
+    "name": "Boat Ramp",
+    "latitude": 36.8900038,
+    "longitude": -76.0214056,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 379687588,
+    "name": "Boat Ramp",
+    "latitude": 38.3620666,
+    "longitude": -81.6641369,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 393485328,
+    "name": "Boat Ramp",
+    "latitude": 36.9069406,
+    "longitude": -76.094907,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 393485329,
+    "name": "Lynnhaven Boat Ramp & Beach Facility",
+    "latitude": 36.9070424,
+    "longitude": -76.094893,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Lynnhaven Boat Ramp & Beach Facility",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 396637175,
+    "name": "Boat Ramp",
+    "latitude": 37.4060207,
+    "longitude": -79.2335255,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 422328560,
+    "name": "Boat Ramp",
+    "latitude": 37.2050562,
+    "longitude": -76.4377693,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 422328563,
+    "name": "Boat Ramp",
+    "latitude": 37.2052442,
+    "longitude": -76.4375916,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 422832201,
+    "name": "Boat Ramp",
+    "latitude": 37.1393348,
+    "longitude": -76.6760879,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 424677271,
+    "name": "Boat Ramp",
+    "latitude": 37.1673703,
+    "longitude": -75.9872598,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 437257648,
+    "name": "Boat Ramp",
+    "latitude": 36.9151932,
+    "longitude": -78.7411874,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 446187841,
+    "name": "Boat Ramp",
+    "latitude": 37.8094237,
+    "longitude": -80.9247783,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 480293622,
+    "name": "Boat Ramp",
+    "latitude": 37.1434112,
+    "longitude": -80.5621237,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "boat ramp"
+    }
+  },
+  {
+    "id": 523417131,
+    "name": "Boat Ramp",
+    "latitude": 36.8921529,
+    "longitude": -76.1640939,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 541372426,
+    "name": "Boat Ramp",
+    "latitude": 37.4922695,
+    "longitude": -79.2216083,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 543601322,
+    "name": "Boat Ramp",
+    "latitude": 37.5968286,
+    "longitude": -79.3892768,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 553605092,
+    "name": "Boat Ramp",
+    "latitude": 37.5569533,
+    "longitude": -76.3150902,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 562330143,
+    "name": "Boat Ramp",
+    "latitude": 37.4162871,
+    "longitude": -79.1367462,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 575094035,
+    "name": "Boat Ramp",
+    "latitude": 37.6344675,
+    "longitude": -78.811335,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 591242441,
+    "name": "Boat Ramp Stonecoal Reservoir",
+    "latitude": 38.9776196,
+    "longitude": -80.3790474,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat ramp Stonecoal Reservoir"
+    }
+  },
+  {
+    "id": 723617505,
+    "name": "Boat Ramp",
+    "latitude": 37.1444634,
+    "longitude": -76.5675956,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 738372571,
+    "name": "Boat Ramp",
+    "latitude": 37.4293342,
+    "longitude": -76.8908275,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 739201257,
+    "name": "Boat Ramp",
+    "latitude": 36.8842511,
+    "longitude": -76.2838608,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 744515398,
+    "name": "Boat Ramp",
+    "latitude": 37.1716297,
+    "longitude": -78.2808875,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 745113663,
+    "name": "Boat Ramp",
+    "latitude": 37.2826637,
+    "longitude": -76.0097581,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 745387317,
+    "name": "Boat Ramp",
+    "latitude": 37.1275853,
+    "longitude": -75.9502119,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 745387318,
+    "name": "Boat Ramp",
+    "latitude": 37.1276171,
+    "longitude": -75.9501781,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 746503168,
+    "name": "Boat Ramp",
+    "latitude": 37.8366671,
+    "longitude": -75.6738889,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 762418540,
+    "name": "Boat Ramp",
+    "latitude": 37.2647807,
+    "longitude": -76.0167095,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 762418541,
+    "name": "Boat Ramp",
+    "latitude": 37.2647931,
+    "longitude": -76.0165676,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 762418542,
+    "name": "Boat Ramp",
+    "latitude": 37.2648004,
+    "longitude": -76.016435,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 766329076,
+    "name": "Boat Ramp",
+    "latitude": 38.5322482,
+    "longitude": -79.702848,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 769033755,
+    "name": "Boat Ramp",
+    "latitude": 37.5758246,
+    "longitude": -77.99231,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 769033760,
+    "name": "Boat Ramp",
+    "latitude": 37.5755052,
+    "longitude": -77.9970201,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 770082619,
+    "name": "Boat Ramp",
+    "latitude": 37.3703099,
+    "longitude": -76.8801581,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 784885015,
+    "name": "Boat Ramp",
+    "latitude": 37.5590234,
+    "longitude": -77.6474281,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 786813430,
+    "name": "Boat Ramp",
+    "latitude": 38.3299978,
+    "longitude": -81.5830826,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 788127022,
+    "name": "Boat Ramp",
+    "latitude": 37.0624205,
+    "longitude": -79.4863571,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 788127023,
+    "name": "Boat Ramp",
+    "latitude": 37.0906213,
+    "longitude": -79.4025898,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 791564710,
+    "name": "Boat Ramp",
+    "latitude": 36.6533731,
+    "longitude": -77.0032824,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 793024660,
+    "name": "Boat Ramp",
+    "latitude": 37.0928608,
+    "longitude": -79.6033477,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 793024661,
+    "name": "Boat Ramp",
+    "latitude": 37.0928626,
+    "longitude": -79.6034196,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 808640976,
+    "name": "Pringle Tree Park",
+    "latitude": 39.0186143,
+    "longitude": -80.2073037,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Pringle Tree Park",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 824593605,
+    "name": "U. S. Coast Guard - Station Milford Haven",
+    "latitude": 37.488063,
+    "longitude": -76.3083366,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "U. S. Coast Guard - Station Milford Haven",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 824851213,
+    "name": "U.S. Coast Guard - Base Portsmouth",
+    "latitude": 36.8845939,
+    "longitude": -76.3531581,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "U.S. Coast Guard - Base Portsmouth",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 843728883,
+    "name": "Boat Ramp",
+    "latitude": 38.3960049,
+    "longitude": -81.5856211,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 844068140,
+    "name": "Boat Ramp",
+    "latitude": 38.3392904,
+    "longitude": -81.8408963,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 856360728,
+    "name": "U.S. Army 3rd Port",
+    "latitude": 37.1674586,
+    "longitude": -76.6069243,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "U.S. Army 3rd Port",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 856360730,
+    "name": "U.S. Army 3rd Port",
+    "latitude": 37.1670392,
+    "longitude": -76.6067308,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "U.S. Army 3rd Port",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 856360731,
+    "name": "U.S. Army 3rd Port",
+    "latitude": 37.1665586,
+    "longitude": -76.6065047,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "U.S. Army 3rd Port",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 856360732,
+    "name": "U.S. Army 3rd Port",
+    "latitude": 37.1665829,
+    "longitude": -76.6091848,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "U.S. Army 3rd Port",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 856360733,
+    "name": "U.S. Army 3rd Port",
+    "latitude": 37.1662887,
+    "longitude": -76.6090702,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "U.S. Army 3rd Port",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 856360734,
+    "name": "U.S. Army 3rd Port",
+    "latitude": 37.1690729,
+    "longitude": -76.6046133,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "U.S. Army 3rd Port",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 888274656,
+    "name": "Boat Ramp",
+    "latitude": 37.1599873,
+    "longitude": -79.6635584,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "private",
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 888284221,
+    "name": "Boat Ramp",
+    "latitude": 37.158686,
+    "longitude": -79.662842,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 933605966,
+    "name": "Boat Ramp",
+    "latitude": 37.6519496,
+    "longitude": -80.8855068,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "water"
+    }
+  },
+  {
+    "id": 936892399,
+    "name": "Boat Ramp",
+    "latitude": 37.0793788,
+    "longitude": -76.3422165,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 951791068,
+    "name": "Cypress Point Boat Ramp",
+    "latitude": 37.2157423,
+    "longitude": -76.9262014,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Cypress Point Boat Ramp",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 978752510,
+    "name": "Boat Ramp",
+    "latitude": 37.6590384,
+    "longitude": -76.8846032,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 978752511,
+    "name": "Boat Ramp",
+    "latitude": 37.6590777,
+    "longitude": -76.8844996,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 978755589,
+    "name": "Boat Ramp",
+    "latitude": 37.6615976,
+    "longitude": -76.9131609,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 991508761,
+    "name": "Boat Ramp",
+    "latitude": 37.0937884,
+    "longitude": -79.3995512,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 992311925,
+    "name": "Boat Ramp",
+    "latitude": 36.8428998,
+    "longitude": -76.6265591,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 992328317,
+    "name": "Boat Ramp",
+    "latitude": 36.8084208,
+    "longitude": -76.6186934,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 999282171,
+    "name": "Boat Ramp",
+    "latitude": 37.6059428,
+    "longitude": -77.0928729,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1000261293,
+    "name": "Boat Ramp",
+    "latitude": 37.2885747,
+    "longitude": -75.9235162,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1000261294,
+    "name": "Boat Ramp",
+    "latitude": 37.2886166,
+    "longitude": -75.9235026,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1000261295,
+    "name": "Boat Ramp",
+    "latitude": 37.28861,
+    "longitude": -75.9234591,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1000261296,
+    "name": "Boat Ramp",
+    "latitude": 37.2886338,
+    "longitude": -75.9234301,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1007861361,
+    "name": "Boat Ramp",
+    "latitude": 37.3946651,
+    "longitude": -78.6406848,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1008653512,
+    "name": "Boat Ramp",
+    "latitude": 37.5247963,
+    "longitude": -79.3500109,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1038772679,
+    "name": "Boat Ramp",
+    "latitude": 37.2197459,
+    "longitude": -77.5239407,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1040227119,
+    "name": "Boat Ramp",
+    "latitude": 37.8769643,
+    "longitude": -79.9762489,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1040233509,
+    "name": "Fortney Branch Boat Launch",
+    "latitude": 37.9287956,
+    "longitude": -79.9808776,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Fortney Branch Boat Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1060586390,
+    "name": "Boat Ramp",
+    "latitude": 37.9146422,
+    "longitude": -79.9711604,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1070102585,
+    "name": "Boat Ramp",
+    "latitude": 39.2685318,
+    "longitude": -80.3602,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1070953500,
+    "name": "Boat Ramp",
+    "latitude": 37.0026034,
+    "longitude": -76.3145212,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1081642697,
+    "name": "Boat Ramp",
+    "latitude": 38.2407449,
+    "longitude": -80.8832895,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1081643325,
+    "name": "Boat Ramp",
+    "latitude": 38.2255551,
+    "longitude": -80.9104296,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1081643326,
+    "name": "Boat Ramp",
+    "latitude": 38.226906,
+    "longitude": -80.9110587,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1081643349,
+    "name": "Boat Ramp",
+    "latitude": 38.2453215,
+    "longitude": -80.8601326,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1081643350,
+    "name": "Boat Ramp",
+    "latitude": 38.2429879,
+    "longitude": -80.8590035,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1082571953,
+    "name": "Tanyard Boat Ramp",
+    "latitude": 37.454791,
+    "longitude": -76.6679487,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Tanyard Boat Ramp",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1085882616,
+    "name": "Boat Ramp",
+    "latitude": 37.7279663,
+    "longitude": -75.6086782,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1086130298,
+    "name": "Boat Ramp",
+    "latitude": 37.5499634,
+    "longitude": -75.8764828,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1086130299,
+    "name": "Boat Ramp",
+    "latitude": 37.5499065,
+    "longitude": -75.876455,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1086510605,
+    "name": "Boat Ramp",
+    "latitude": 37.3402521,
+    "longitude": -76.2743096,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1086510606,
+    "name": "Boat Ramp",
+    "latitude": 37.3402214,
+    "longitude": -76.2743483,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1086552971,
+    "name": "Boat Ramp",
+    "latitude": 37.2649255,
+    "longitude": -76.4859562,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1087753155,
+    "name": "Boat Ramp",
+    "latitude": 36.7784909,
+    "longitude": -77.8906444,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1090301865,
+    "name": "Boat Ramp",
+    "latitude": 36.8725614,
+    "longitude": -81.5136595,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "oneway": "no",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1090341699,
+    "name": "Boat Ramp",
+    "latitude": 36.7454396,
+    "longitude": -79.8707083,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1090522354,
+    "name": "Boat Ramp",
+    "latitude": 36.9574937,
+    "longitude": -81.8133318,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1090575227,
+    "name": "Boat Ramp",
+    "latitude": 36.8729636,
+    "longitude": -81.8129895,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1090890100,
+    "name": "Boat Ramp",
+    "latitude": 36.9546813,
+    "longitude": -76.3091824,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1090890244,
+    "name": "Boat Ramp",
+    "latitude": 36.9460626,
+    "longitude": -76.2919858,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1092250926,
+    "name": "Boat Ramp",
+    "latitude": 37.4488395,
+    "longitude": -76.5345837,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "permissive",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1092703781,
+    "name": "Boat Ramp",
+    "latitude": 37.2139157,
+    "longitude": -76.4668335,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1104793712,
+    "name": "Boat Ramp",
+    "latitude": 37.7933451,
+    "longitude": -79.4312545,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 1118749285,
+    "name": "St.Albans Boat Ramp",
+    "latitude": 38.3893408,
+    "longitude": -81.8282636,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "St.Albans Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1137299049,
+    "name": "Boat Ramp",
+    "latitude": 37.2445902,
+    "longitude": -77.380976,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1152608787,
+    "name": "Shipway 5",
+    "latitude": 36.9880742,
+    "longitude": -76.4416002,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "no",
+      "leisure": "slipway",
+      "name": "Shipway 5"
+    }
+  },
+  {
+    "id": 1152608788,
+    "name": "Shipway 6",
+    "latitude": 36.9884034,
+    "longitude": -76.4418312,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "no",
+      "leisure": "slipway",
+      "name": "Shipway 6"
+    }
+  },
+  {
+    "id": 1201086582,
+    "name": "Coonskin Boat Launch",
+    "latitude": 38.3892012,
+    "longitude": -81.5841621,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Coonskin Boat Launch",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 1201477068,
+    "name": "Boat Ramp",
+    "latitude": 37.8490774,
+    "longitude": -81.0916149,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1202897690,
+    "name": "Boat Ramp",
+    "latitude": 38.8904368,
+    "longitude": -80.4893247,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1205265110,
+    "name": "Boat Ramp",
+    "latitude": 37.320271,
+    "longitude": -77.3470344,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1205265111,
+    "name": "Boat Ramp",
+    "latitude": 37.3203822,
+    "longitude": -77.3467074,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1205265112,
+    "name": "Boat Ramp",
+    "latitude": 37.3199846,
+    "longitude": -77.3483987,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1205265113,
+    "name": "Boat Ramp",
+    "latitude": 37.3192457,
+    "longitude": -77.3499045,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Chesterfield, VA",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1205500347,
+    "name": "Boat Ramp",
+    "latitude": 37.2348059,
+    "longitude": -77.5969373,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Dinwiddie, VA",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1205515427,
+    "name": "Boat Ramp",
+    "latitude": 37.273004,
+    "longitude": -77.6527352,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1214837756,
+    "name": "Staunton River Boat Launch",
+    "latitude": 37.1058072,
+    "longitude": -79.2863038,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Staunton River Boat Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1215845689,
+    "name": "Boat Ramp",
+    "latitude": 37.1162456,
+    "longitude": -76.3677832,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1216347370,
+    "name": "Boat Ramp",
+    "latitude": 37.0929739,
+    "longitude": -79.3992914,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1221795771,
+    "name": "Boat Ramp",
+    "latitude": 36.6014768,
+    "longitude": -78.3694057,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1227406203,
+    "name": "Boat Ramp",
+    "latitude": 37.4192321,
+    "longitude": -79.0404071,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1244698725,
+    "name": "Boat Ramp",
+    "latitude": 37.7855981,
+    "longitude": -77.1031081,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1252371371,
+    "name": "Windmill Point Landing / Frederick Ajootian Boat Ramp",
+    "latitude": 37.6164007,
+    "longitude": -76.2889832,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Windmill Point Landing / Frederick Ajootian Boat Ramp",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1296769346,
+    "name": "Boat Ramp",
+    "latitude": 37.2683502,
+    "longitude": -76.8725292,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1313068802,
+    "name": "Boat Ramp",
+    "latitude": 37.3940807,
+    "longitude": -79.3109446,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1341842523,
+    "name": "Boat Ramp",
+    "latitude": 37.7086727,
+    "longitude": -78.2895446,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1343860171,
+    "name": "Boat Ramp",
+    "latitude": 37.4582132,
+    "longitude": -78.6426236,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1365973664,
+    "name": "Boat Ramp",
+    "latitude": 36.8393241,
+    "longitude": -79.1765035,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1410717729,
+    "name": "Boat Ramp",
+    "latitude": 37.4415697,
+    "longitude": -77.6846901,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1410717738,
+    "name": "Boat Ramp",
+    "latitude": 37.4421437,
+    "longitude": -77.6843317,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1410719041,
+    "name": "Boat Ramp",
+    "latitude": 37.4352069,
+    "longitude": -77.6854158,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1415928564,
+    "name": "Boat Ramp",
+    "latitude": 37.5197373,
+    "longitude": -77.4189641,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "bicycle": "yes",
+      "cycleway": "no",
+      "foot": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "oneway": "no",
+      "service": "slipway",
+      "sidewalk": "no",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1424477777,
+    "name": "Boat Ramp",
+    "latitude": 36.8468737,
+    "longitude": -77.5607798,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1427022802,
+    "name": "Boat Ramp",
+    "latitude": 37.4411981,
+    "longitude": -77.6855258,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1433875608,
+    "name": "Boat Ramp",
+    "latitude": 37.537043,
+    "longitude": -76.7965499,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1433882612,
+    "name": "Boat Ramp",
+    "latitude": 37.5395143,
+    "longitude": -76.7947986,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1435711026,
+    "name": "Boat Ramp",
+    "latitude": 37.1073304,
+    "longitude": -80.5916442,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1435779731,
+    "name": "Boat Ramp",
+    "latitude": 38.2497392,
+    "longitude": -80.4349211,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1462182884,
+    "name": "Boat Ramp",
+    "latitude": 36.7455268,
+    "longitude": -76.0260622,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1464894135,
+    "name": "Boat Ramp",
+    "latitude": 37.1722611,
+    "longitude": -78.2749048,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1491667008,
+    "name": "Boat Ramp",
+    "latitude": 37.5515497,
+    "longitude": -77.5205536,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "highway": "steps",
+      "leisure": "slipway",
+      "operator": "City of Richmond",
+      "operator:wikidata": "Q136502539",
+      "trailer": "no"
+    }
+  },
+  {
+    "id": 1495677279,
+    "name": "Boat Ramp",
+    "latitude": 37.7740974,
+    "longitude": -76.5841875,
+    "state": "Virginia",
+    "stateAbbr": "VA",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  }
+]

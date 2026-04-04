@@ -1,0 +1,9119 @@
+[
+  {
+    "id": 50395909,
+    "name": "Boat Ramp",
+    "latitude": 48.2359698,
+    "longitude": -117.193838,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 126654028,
+    "name": "Boat Ramp",
+    "latitude": 47.3236468,
+    "longitude": -116.3935186,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 126669127,
+    "name": "Boat Ramp",
+    "latitude": 45.1295145,
+    "longitude": -116.7402483,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 127137633,
+    "name": "Boat Ramp",
+    "latitude": 48.1589666,
+    "longitude": -116.7720797,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 129127078,
+    "name": "Boat Ramp",
+    "latitude": 44.333492,
+    "longitude": -116.1786643,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 129397331,
+    "name": "Pittsburg Landing",
+    "latitude": 45.6324269,
+    "longitude": -116.4759747,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "camping": "yes",
+      "leisure": "slipway",
+      "name": "Pittsburg Landing",
+      "parking": "yes",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 129760962,
+    "name": "Boat Ramp",
+    "latitude": 47.7704528,
+    "longitude": -117.0180202,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 129869987,
+    "name": "Fernan Park Public Boat Launch",
+    "latitude": 47.670348,
+    "longitude": -116.747847,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "Fernan Park Public Boat Launch",
+      "source": "Bing",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 129936284,
+    "name": "Boat Ramp",
+    "latitude": 47.8928508,
+    "longitude": -116.8866325,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 132370131,
+    "name": "Boat Ramp",
+    "latitude": 44.529123,
+    "longitude": -116.1062984,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 132592477,
+    "name": "Boat Ramp",
+    "latitude": 44.9134611,
+    "longitude": -116.0969939,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 424666156,
+    "name": "Boat Ramp",
+    "latitude": 45.0502702,
+    "longitude": -116.1215549,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 440967956,
+    "name": "Bob Creek Boat Launch",
+    "latitude": 45.0001887,
+    "longitude": -116.8476916,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Bob Creek Boat Launch"
+    }
+  },
+  {
+    "id": 448888372,
+    "name": "Lenore Rest Area Boat Ramp",
+    "latitude": 46.5088781,
+    "longitude": -116.5632614,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lenore Rest Area Boat Ramp"
+    }
+  },
+  {
+    "id": 448898792,
+    "name": "Gibbs Eddy Boat Ramp",
+    "latitude": 46.4794526,
+    "longitude": -116.7533142,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Gibbs Eddy Boat Ramp"
+    }
+  },
+  {
+    "id": 449221886,
+    "name": "Boat Ramp",
+    "latitude": 46.4223807,
+    "longitude": -117.0717677,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 452573378,
+    "name": "North Fork Access",
+    "latitude": 46.5057071,
+    "longitude": -116.3165616,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "North Fork Access"
+    }
+  },
+  {
+    "id": 452574911,
+    "name": "Boat Ramp",
+    "latitude": 46.5109768,
+    "longitude": -116.2870952,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 664282715,
+    "name": "Boat Ramp",
+    "latitude": 48.1875578,
+    "longitude": -117.0387937,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 664287485,
+    "name": "Boat Ramp",
+    "latitude": 48.1794139,
+    "longitude": -116.9964528,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 664297037,
+    "name": "Boat Ramp",
+    "latitude": 48.234309,
+    "longitude": -117.1209621,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 844400229,
+    "name": "Honeysuckle Beach Boat Ramp",
+    "latitude": 47.7540487,
+    "longitude": -116.7550694,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "Honeysuckle Beach Boat Ramp",
+      "operator": "Hayden City Parks",
+      "operator:website": "https://www.cityofhaydenid.us/parks.php",
+      "payment:credit_cards": "yes",
+      "website": "https://www.cityofhaydenid.us/government/finance/boat_launch_permits.php"
+    }
+  },
+  {
+    "id": 1322682322,
+    "name": "Boat Ramp",
+    "latitude": 46.5265871,
+    "longitude": -116.3052558,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 1631437497,
+    "name": "Boat Ramp",
+    "latitude": 47.4658678,
+    "longitude": -116.7649714,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1631901491,
+    "name": "Old Mission",
+    "latitude": 47.5524731,
+    "longitude": -116.366811,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Old Mission",
+      "source": "Bing",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 1643367987,
+    "name": "Boat Ramp",
+    "latitude": 48.2504427,
+    "longitude": -116.3154449,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1646261533,
+    "name": "Boat Ramp",
+    "latitude": 47.9649862,
+    "longitude": -116.545792,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1647995335,
+    "name": "Boat Ramp",
+    "latitude": 48.1388872,
+    "longitude": -116.228762,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1648041307,
+    "name": "Boat Ramp",
+    "latitude": 48.1442944,
+    "longitude": -116.2101751,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1812667828,
+    "name": "Boat Ramp",
+    "latitude": 48.2643236,
+    "longitude": -116.5578957,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2095180758,
+    "name": "Boat Ramp",
+    "latitude": 47.3742239,
+    "longitude": -116.7612159,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 2283880634,
+    "name": "Boat Ramp",
+    "latitude": 43.6850596,
+    "longitude": -116.7140979,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2283880664,
+    "name": "Boat Ramp",
+    "latitude": 43.6855289,
+    "longitude": -116.7147733,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2287815429,
+    "name": "Boat Ramp",
+    "latitude": 43.8761707,
+    "longitude": -116.9824884,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2328796887,
+    "name": "Boat Ramp",
+    "latitude": 48.1524552,
+    "longitude": -116.76846,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2336659811,
+    "name": "Boat Ramp",
+    "latitude": 47.7714989,
+    "longitude": -117.0817227,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2399775396,
+    "name": "Lake Lowell East Boat Ramp",
+    "latitude": 43.5581622,
+    "longitude": -116.6478937,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lake Lowell East Boat Ramp"
+    }
+  },
+  {
+    "id": 2525192827,
+    "name": "Boat Ramp",
+    "latitude": 43.2453669,
+    "longitude": -116.3787103,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "bin": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no",
+      "toilets": "yes",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 2525251632,
+    "name": "Boat Ramp",
+    "latitude": 43.2988664,
+    "longitude": -116.5229857,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 2601463206,
+    "name": "Boat Ramp",
+    "latitude": 46.4042436,
+    "longitude": -117.0350806,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2603044848,
+    "name": "Boat Ramp",
+    "latitude": 46.4212321,
+    "longitude": -117.0382583,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2606564905,
+    "name": "Boat Ramp",
+    "latitude": 46.3696849,
+    "longitude": -117.055506,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 2619673605,
+    "name": "Boat Ramp",
+    "latitude": 46.4159478,
+    "longitude": -117.1959642,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2623013635,
+    "name": "Waha Lake Boat Ramp",
+    "latitude": 46.2099625,
+    "longitude": -116.8407526,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Waha Lake Boat Ramp"
+    }
+  },
+  {
+    "id": 2956796044,
+    "name": "Boat Ramp",
+    "latitude": 44.3337142,
+    "longitude": -116.1877499,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3008253083,
+    "name": "Boat Ramp",
+    "latitude": 48.9987033,
+    "longitude": -116.5031308,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3096449473,
+    "name": "Boat Ramp",
+    "latitude": 48.2230573,
+    "longitude": -117.0324615,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 3111437126,
+    "name": "Boat Ramp",
+    "latitude": 45.0470126,
+    "longitude": -116.8129906,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3227427545,
+    "name": "Boat Ramp",
+    "latitude": 47.6922841,
+    "longitude": -116.919091,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3593267836,
+    "name": "Boat Ramp",
+    "latitude": 48.2449879,
+    "longitude": -116.6146522,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3617755454,
+    "name": "Boat Ramp",
+    "latitude": 43.5206081,
+    "longitude": -116.0529358,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3617755455,
+    "name": "Boat Ramp",
+    "latitude": 43.5184124,
+    "longitude": -116.0464614,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3709823483,
+    "name": "Boat Ramp",
+    "latitude": 42.0545463,
+    "longitude": -116.166091,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3711358268,
+    "name": "3rd Street Boat Ramp",
+    "latitude": 47.671408,
+    "longitude": -116.782677,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "3rd Street Boat Ramp",
+      "source": "Bing",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 3716005169,
+    "name": "Boat Ramp",
+    "latitude": 43.388268,
+    "longitude": -116.6704298,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 3734137074,
+    "name": "Blackwell Island Boat Launch",
+    "latitude": 47.6862582,
+    "longitude": -116.8054513,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Blackwell Island Boat Launch",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 3735399028,
+    "name": "Boat Ramp",
+    "latitude": 47.5366798,
+    "longitude": -116.7751059,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3774569771,
+    "name": "Boat Ramp",
+    "latitude": 44.7205896,
+    "longitude": -116.0945781,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4243451296,
+    "name": "Sandpoint Landing",
+    "latitude": 48.2748025,
+    "longitude": -116.5467343,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Sandpoint Landing"
+    }
+  },
+  {
+    "id": 4293621845,
+    "name": "Kalispell Bay Boat Launch",
+    "latitude": 48.5602121,
+    "longitude": -116.9257103,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Kalispell Bay Boat Launch",
+      "note": "Fee to park",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 4414275165,
+    "name": "Boat Ramp",
+    "latitude": 47.6972277,
+    "longitude": -117.0423959,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4415279059,
+    "name": "Three Forks Launch Site",
+    "latitude": 42.5444217,
+    "longitude": -117.1691112,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Three Forks Launch Site",
+      "whitewater": "put_in"
+    }
+  },
+  {
+    "id": 4449951852,
+    "name": "Swallows Park Boat Ramp",
+    "latitude": 46.3868183,
+    "longitude": -117.0468211,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Swallows Park Boat Ramp"
+    }
+  },
+  {
+    "id": 4591256438,
+    "name": "Boat Ramp",
+    "latitude": 47.4871112,
+    "longitude": -116.9145018,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4903062366,
+    "name": "Boat Ramp",
+    "latitude": 44.9934168,
+    "longitude": -116.0707068,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5018422316,
+    "name": "Pink House",
+    "latitude": 46.5027344,
+    "longitude": -116.3512579,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Pink House"
+    }
+  },
+  {
+    "id": 5018819071,
+    "name": "Boat Ramp",
+    "latitude": 46.5061921,
+    "longitude": -116.5491853,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5041902863,
+    "name": "Boat Ramp",
+    "latitude": 43.9978362,
+    "longitude": -116.9600923,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5054586063,
+    "name": "Boat Ramp",
+    "latitude": 44.5008937,
+    "longitude": -116.0235171,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5054586064,
+    "name": "Cabarton Bridge Access",
+    "latitude": 44.4137512,
+    "longitude": -116.0320385,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "permissive",
+      "leisure": "slipway",
+      "name": "Cabarton Bridge Access"
+    }
+  },
+  {
+    "id": 5054586065,
+    "name": "Smiths Ferry Access",
+    "latitude": 44.3024205,
+    "longitude": -116.0869941,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "permissive",
+      "leisure": "slipway",
+      "name": "Smiths Ferry Access"
+    }
+  },
+  {
+    "id": 5066941689,
+    "name": "Boat Ramp",
+    "latitude": 44.769928,
+    "longitude": -117.0690256,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5066941736,
+    "name": "Boat Ramp",
+    "latitude": 44.7593928,
+    "longitude": -117.1229467,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5066941794,
+    "name": "Boat Ramp",
+    "latitude": 44.755823,
+    "longitude": -117.1315968,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5068662496,
+    "name": "Boat Ramp",
+    "latitude": 44.4999882,
+    "longitude": -116.0844212,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5070239138,
+    "name": "Hells Canyon Creek Boat Launch",
+    "latitude": 45.2538886,
+    "longitude": -116.6963311,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "permit",
+      "leisure": "slipway",
+      "name": "Hells Canyon Creek Boat Launch",
+      "parking": "yes",
+      "source:canoe": "https://www.recreation.gov/permits/234625",
+      "tidal": "no",
+      "website": "https://www.fs.usda.gov/r06/wallowa-whitman/recreation/hells-canyon-creek-boat-launch"
+    }
+  },
+  {
+    "id": 5089225942,
+    "name": "Boat Ramp",
+    "latitude": 48.2889379,
+    "longitude": -117.1101019,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "fee": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5108936273,
+    "name": "Boat Ramp",
+    "latitude": 48.1778449,
+    "longitude": -116.8925933,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5211280170,
+    "name": "Pine Bar Boat Ramp",
+    "latitude": 45.890224,
+    "longitude": -116.3421301,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Pine Bar Boat Ramp"
+    }
+  },
+  {
+    "id": 5611772978,
+    "name": "Boat Ramp",
+    "latitude": 44.5168381,
+    "longitude": -116.0552434,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5694137940,
+    "name": "Hammer Creek Boat Ramp",
+    "latitude": 45.7649484,
+    "longitude": -116.3242207,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Hammer Creek Boat Ramp"
+    }
+  },
+  {
+    "id": 5869863549,
+    "name": "Tolo Lake",
+    "latitude": 45.9171071,
+    "longitude": -116.2380467,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Tolo Lake"
+    }
+  },
+  {
+    "id": 6038669564,
+    "name": "Boat Ramp",
+    "latitude": 47.7729937,
+    "longitude": -117.0852253,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6411538014,
+    "name": "Boat Ramp",
+    "latitude": 44.2469167,
+    "longitude": -116.9876871,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6818214933,
+    "name": "Boat Ramp",
+    "latitude": 44.2641195,
+    "longitude": -117.1269864,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6818214934,
+    "name": "Boat Ramp",
+    "latitude": 44.2642044,
+    "longitude": -117.1269263,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6831363699,
+    "name": "Boat Ramp",
+    "latitude": 44.26298,
+    "longitude": -117.1277898,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7152414323,
+    "name": "Winchester Lake Boat Ramp",
+    "latitude": 46.2330191,
+    "longitude": -116.6218763,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Winchester Lake Boat Ramp"
+    }
+  },
+  {
+    "id": 7177820831,
+    "name": "Ebsen Boat Launch",
+    "latitude": 46.0627387,
+    "longitude": -116.9967181,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Ebsen Boat Launch",
+      "operator": "Washington Department of Fish and Wildlife",
+      "website": "https://wdfw.wa.gov/places-to-go/water-access-sites/30015"
+    }
+  },
+  {
+    "id": 7177821542,
+    "name": "Heller Bar Boat Ramp",
+    "latitude": 46.0859965,
+    "longitude": -116.9829945,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Heller Bar Boat Ramp",
+      "source": "Esri World Imagery",
+      "surface": "concrete",
+      "website": "https://wdfw.wa.gov/places-to-go/water-access-sites/30019"
+    }
+  },
+  {
+    "id": 7177832143,
+    "name": "Couse Creek Boat Launch",
+    "latitude": 46.2056183,
+    "longitude": -116.9669589,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Couse Creek Boat Launch",
+      "operator": "Washington Department of Fish and Wildlife",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 7200999054,
+    "name": "Harpers Bend Access",
+    "latitude": 46.4913266,
+    "longitude": -116.4502912,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Harpers Bend Access"
+    }
+  },
+  {
+    "id": 7306350809,
+    "name": "Campbell Flat Boat Ramp",
+    "latitude": 45.6863423,
+    "longitude": -116.3088163,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Campbell Flat Boat Ramp"
+    }
+  },
+  {
+    "id": 7306352113,
+    "name": "Slate Creek Boat Ramp",
+    "latitude": 45.6472598,
+    "longitude": -116.2945268,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "camping": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Slate Creek Boat Ramp"
+    }
+  },
+  {
+    "id": 7306461992,
+    "name": "Lucile Boat Ramp",
+    "latitude": 45.5253976,
+    "longitude": -116.30503,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Lucile Boat Ramp",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 7560987269,
+    "name": "Riggins City Park Boat Ramp",
+    "latitude": 45.425561,
+    "longitude": -116.311552,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Riggins City Park Boat Ramp"
+    }
+  },
+  {
+    "id": 8165170934,
+    "name": "Jackass Flat Boat Launch",
+    "latitude": 45.5014478,
+    "longitude": -116.2982574,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Jackass Flat Boat Launch",
+      "surface": "ground"
+    }
+  },
+  {
+    "id": 8185672367,
+    "name": "Boat Ramp",
+    "latitude": 46.7855737,
+    "longitude": -116.7551432,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8185774846,
+    "name": "Boat Ramp",
+    "latitude": 46.7722744,
+    "longitude": -116.1746402,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8188214495,
+    "name": "Lightning Creek Boat Ramp",
+    "latitude": 45.4657306,
+    "longitude": -116.3076059,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lightning Creek Boat Ramp"
+    }
+  },
+  {
+    "id": 8188214507,
+    "name": "Maynard Hole",
+    "latitude": 45.5969979,
+    "longitude": -116.2737926,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Maynard Hole",
+      "parking": "yes"
+    }
+  },
+  {
+    "id": 8188214513,
+    "name": "Twin Bridges Boat Ramp",
+    "latitude": 45.6609531,
+    "longitude": -116.2925846,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Twin Bridges Boat Ramp"
+    }
+  },
+  {
+    "id": 8188214515,
+    "name": "Old Lucile Boat Ramp",
+    "latitude": 45.5186748,
+    "longitude": -116.3064569,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Old Lucile Boat Ramp"
+    }
+  },
+  {
+    "id": 8188243737,
+    "name": "White Bird Gravel Pit Boat Ramp",
+    "latitude": 45.7382423,
+    "longitude": -116.3164632,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "White Bird Gravel Pit Boat Ramp",
+      "parking": "yes"
+    }
+  },
+  {
+    "id": 8188243765,
+    "name": "Shorts Bar Boat Ramp",
+    "latitude": 45.4146737,
+    "longitude": -116.302173,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Shorts Bar Boat Ramp"
+    }
+  },
+  {
+    "id": 8188243777,
+    "name": "Spring Bar Boat Ramp",
+    "latitude": 45.4251336,
+    "longitude": -116.1537631,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Spring Bar Boat Ramp"
+    }
+  },
+  {
+    "id": 8242004330,
+    "name": "Boat Ramp",
+    "latitude": 48.210213,
+    "longitude": -117.0547625,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8243419832,
+    "name": "Boat Ramp",
+    "latitude": 48.1853781,
+    "longitude": -117.0323323,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 8304758834,
+    "name": "Steelhead Park Boat Ramp",
+    "latitude": 46.4300454,
+    "longitude": -116.9835162,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Steelhead Park Boat Ramp"
+    }
+  },
+  {
+    "id": 8304758883,
+    "name": "Upper Hog Boat Ramp",
+    "latitude": 46.4467649,
+    "longitude": -116.8606272,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Upper Hog Boat Ramp"
+    }
+  },
+  {
+    "id": 8304758889,
+    "name": "Cherrylane Boat Ramp",
+    "latitude": 46.5120955,
+    "longitude": -116.6840226,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Cherrylane Boat Ramp"
+    }
+  },
+  {
+    "id": 8304780682,
+    "name": "Ahsahka Access",
+    "latitude": 46.5005118,
+    "longitude": -116.3177061,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Ahsahka Access"
+    }
+  },
+  {
+    "id": 8304780684,
+    "name": "Ahsahka Access",
+    "latitude": 46.4999106,
+    "longitude": -116.3147111,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Ahsahka Access"
+    }
+  },
+  {
+    "id": 8304780688,
+    "name": "Zans",
+    "latitude": 46.418478,
+    "longitude": -116.2058818,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Zans"
+    }
+  },
+  {
+    "id": 8304780696,
+    "name": "Fivemile",
+    "latitude": 46.355718,
+    "longitude": -116.1641048,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Fivemile"
+    }
+  },
+  {
+    "id": 8304780712,
+    "name": "Long Camp Boat Ramp",
+    "latitude": 46.2766602,
+    "longitude": -116.0977755,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Long Camp Boat Ramp"
+    }
+  },
+  {
+    "id": 8304780759,
+    "name": "Kamiah City Park Boat Ramp",
+    "latitude": 46.2305711,
+    "longitude": -116.0187983,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kamiah City Park Boat Ramp"
+    }
+  },
+  {
+    "id": 8316524676,
+    "name": "Boat Ramp",
+    "latitude": 46.1670086,
+    "longitude": -116.7360978,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8316529741,
+    "name": "Asotin Boat Ramp",
+    "latitude": 46.3390549,
+    "longitude": -117.0302216,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Asotin Boat Ramp"
+    }
+  },
+  {
+    "id": 8316529743,
+    "name": "Heller Bar Alternate Boat Ramp",
+    "latitude": 46.0834067,
+    "longitude": -116.982083,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Heller Bar Alternate Boat Ramp"
+    }
+  },
+  {
+    "id": 8316539366,
+    "name": "Mann Lake Boat Ramp",
+    "latitude": 46.3697045,
+    "longitude": -116.8584963,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mann Lake Boat Ramp"
+    }
+  },
+  {
+    "id": 8316558455,
+    "name": "Dug Bar Landing",
+    "latitude": 45.804452,
+    "longitude": -116.686255,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Dug Bar Landing"
+    }
+  },
+  {
+    "id": 8317125168,
+    "name": "Shumaker Access",
+    "latitude": 46.0247779,
+    "longitude": -117.1456094,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Shumaker Access",
+      "parking": "yes",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 8319432221,
+    "name": "Island Bar Boat Launch",
+    "latitude": 45.4160822,
+    "longitude": -116.2574872,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Island Bar Boat Launch"
+    }
+  },
+  {
+    "id": 8321647562,
+    "name": "Banks River Access",
+    "latitude": 44.0843811,
+    "longitude": -116.1165029,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Banks River Access"
+    }
+  },
+  {
+    "id": 8321741659,
+    "name": "Deer Creek Boat Launch",
+    "latitude": 44.0925419,
+    "longitude": -116.0427743,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Deer Creek Boat Launch"
+    }
+  },
+  {
+    "id": 8322586307,
+    "name": "Church Creek Bridge River Access",
+    "latitude": 43.9310547,
+    "longitude": -116.3360417,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Church Creek Bridge River Access"
+    }
+  },
+  {
+    "id": 8322603835,
+    "name": "Beehive Bend River Access",
+    "latitude": 44.0062511,
+    "longitude": -116.1797708,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Beehive Bend River Access"
+    }
+  },
+  {
+    "id": 8322603841,
+    "name": "Horseshoe Dam Boat Ramp",
+    "latitude": 43.9380527,
+    "longitude": -116.1933643,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Horseshoe Dam Boat Ramp"
+    }
+  },
+  {
+    "id": 8336373812,
+    "name": "Boat Ramp",
+    "latitude": 47.9596888,
+    "longitude": -116.8734491,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8336373813,
+    "name": "Boat Ramp",
+    "latitude": 47.9423265,
+    "longitude": -116.8622599,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8340407004,
+    "name": "Canyon Creek Boat Ramp",
+    "latitude": 46.556336,
+    "longitude": -116.2332583,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canyon Creek Boat Ramp"
+    }
+  },
+  {
+    "id": 8340409592,
+    "name": "Dent Acres Boat Ramp",
+    "latitude": 46.623333,
+    "longitude": -116.2220523,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Dent Acres Boat Ramp"
+    }
+  },
+  {
+    "id": 8340409623,
+    "name": "Freeman Creek Boat Ramp",
+    "latitude": 46.5727642,
+    "longitude": -116.2753344,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Freeman Creek Boat Ramp"
+    }
+  },
+  {
+    "id": 8340409626,
+    "name": "Boat Ramp",
+    "latitude": 46.5112618,
+    "longitude": -116.2891639,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8365817417,
+    "name": "Boat Ramp",
+    "latitude": 45.101887,
+    "longitude": -116.0829155,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8365817448,
+    "name": "Boat Ramp",
+    "latitude": 45.2006446,
+    "longitude": -116.1423379,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8368132761,
+    "name": "Boat Ramp",
+    "latitude": 44.5873842,
+    "longitude": -116.0676009,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8596798893,
+    "name": "Boat Ramp",
+    "latitude": 47.7035154,
+    "longitude": -116.9531727,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "motor_vehicle": "yes",
+      "parking": "yes",
+      "tidal": "no",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 8596798895,
+    "name": "Boat Ramp",
+    "latitude": 47.7035076,
+    "longitude": -116.9530304,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "motor_vehicle": "yes",
+      "parking": "yes",
+      "tidal": "no",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 8596847850,
+    "name": "Boat Ramp",
+    "latitude": 47.3541436,
+    "longitude": -116.7519563,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8600624693,
+    "name": "Boat Ramp",
+    "latitude": 46.4160099,
+    "longitude": -117.1960357,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8600624695,
+    "name": "Boat Ramp",
+    "latitude": 46.4158968,
+    "longitude": -117.1959042,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8685969983,
+    "name": "Copperfield Boat Ramp",
+    "latitude": 44.9842044,
+    "longitude": -116.8586201,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Copperfield Boat Ramp",
+      "parking": "yes",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 8857931055,
+    "name": "Higgens Point Boat Launch",
+    "latitude": 47.6298692,
+    "longitude": -116.6912875,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Higgens Point Boat Launch",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 8869038068,
+    "name": "Steamboat",
+    "latitude": 47.6618459,
+    "longitude": -116.1515849,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Steamboat",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 8869045951,
+    "name": "Freeman'S Eddy",
+    "latitude": 47.5763214,
+    "longitude": -116.2552809,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Freeman's Eddy",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 8908642028,
+    "name": "Hayden Lake Sportsman Park",
+    "latitude": 47.8112444,
+    "longitude": -116.6972853,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Hayden Lake Sportsman Park",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 8908811452,
+    "name": "Hayden Lake Marina",
+    "latitude": 47.7488106,
+    "longitude": -116.7398979,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "name": "Hayden Lake Marina",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 8908811453,
+    "name": "Hayden Lake Marina",
+    "latitude": 47.7488057,
+    "longitude": -116.7395534,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "name": "Hayden Lake Marina",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 8927437603,
+    "name": "Boat Ramp",
+    "latitude": 48.2718889,
+    "longitude": -116.5413989,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8928993342,
+    "name": "Blackwell Island Boat Launch",
+    "latitude": 47.6862826,
+    "longitude": -116.8053085,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Blackwell Island Boat Launch",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 8929019133,
+    "name": "Boat Ramp",
+    "latitude": 47.6800253,
+    "longitude": -116.8057677,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9033555645,
+    "name": "Mineral Ridge Public Boat Ramp",
+    "latitude": 47.6186696,
+    "longitude": -116.6604357,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "Mineral Ridge Public Boat Ramp",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 9038332071,
+    "name": "Bayview Public Boat Launch",
+    "latitude": 47.9807712,
+    "longitude": -116.5584271,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Bayview Public Boat Launch",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 9064267597,
+    "name": "Calder Boat Launch",
+    "latitude": 47.2747274,
+    "longitude": -116.1887827,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Calder Boat Launch",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 9115664057,
+    "name": "Fernan East Boat Launch",
+    "latitude": 47.6787513,
+    "longitude": -116.7092849,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Fernan East Boat Launch",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 9598847195,
+    "name": "Poison Creek Campground",
+    "latitude": 44.6683942,
+    "longitude": -116.1089493,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Poison Creek Campground"
+    }
+  },
+  {
+    "id": 9598847196,
+    "name": "Buttercup",
+    "latitude": 44.6817713,
+    "longitude": -116.1121759,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Buttercup"
+    }
+  },
+  {
+    "id": 9598847197,
+    "name": "Rainbow Point",
+    "latitude": 44.7036288,
+    "longitude": -116.1311206,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Rainbow Point"
+    }
+  },
+  {
+    "id": 9670559676,
+    "name": "Boat Ramp",
+    "latitude": 47.6922138,
+    "longitude": -116.9190953,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "dirt"
+    }
+  },
+  {
+    "id": 9972407146,
+    "name": "Boat Ramp",
+    "latitude": 48.1768502,
+    "longitude": -116.9042764,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10143421709,
+    "name": "Boat Ramp",
+    "latitude": 46.4223128,
+    "longitude": -117.0717696,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10258714722,
+    "name": "Boat Ramp",
+    "latitude": 44.4010606,
+    "longitude": -116.900135,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10311523708,
+    "name": "Boat Ramp",
+    "latitude": 45.06818,
+    "longitude": -116.1688646,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10743286036,
+    "name": "Boat Ramp",
+    "latitude": 43.5610081,
+    "longitude": -116.6615647,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10743286037,
+    "name": "Boat Ramp",
+    "latitude": 43.5878156,
+    "longitude": -116.7286621,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10803120397,
+    "name": "Boat Ramp",
+    "latitude": 47.9650103,
+    "longitude": -116.5456232,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11012509873,
+    "name": "Boat Ramp",
+    "latitude": 47.4856342,
+    "longitude": -116.7249752,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11142723666,
+    "name": "Boat Ramp",
+    "latitude": 47.4542154,
+    "longitude": -116.7874398,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11151745424,
+    "name": "Boat Ramp",
+    "latitude": 47.5381456,
+    "longitude": -116.4719201,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11155234847,
+    "name": "Boat Ramp",
+    "latitude": 47.4779512,
+    "longitude": -116.5954685,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11237206255,
+    "name": "Boat Ramp",
+    "latitude": 47.4635307,
+    "longitude": -116.8806553,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11879539520,
+    "name": "Boat Ramp",
+    "latitude": 47.4034295,
+    "longitude": -116.7563709,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11897310976,
+    "name": "Boat Ramp",
+    "latitude": 47.4472477,
+    "longitude": -116.8099357,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11897310977,
+    "name": "Boat Ramp",
+    "latitude": 47.4471282,
+    "longitude": -116.8094897,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12162606396,
+    "name": "Boat Ramp",
+    "latitude": 47.4689606,
+    "longitude": -116.9321341,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12195549991,
+    "name": "Boat Ramp",
+    "latitude": 47.5069577,
+    "longitude": -116.9037934,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12257417321,
+    "name": "Boat Ramp",
+    "latitude": 43.0403012,
+    "longitude": -116.1558601,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "unpaved",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12349151668,
+    "name": "Boat Ramp",
+    "latitude": 43.5203732,
+    "longitude": -116.0526882,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12398913026,
+    "name": "Boat Ramp",
+    "latitude": 48.4366241,
+    "longitude": -117.1955944,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12458839081,
+    "name": "Boat Ramp",
+    "latitude": 48.3927522,
+    "longitude": -117.1838094,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 12463978804,
+    "name": "Boat Ramp",
+    "latitude": 47.9472286,
+    "longitude": -116.898068,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12479169086,
+    "name": "Boat Ramp",
+    "latitude": 47.7023771,
+    "longitude": -116.9899531,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "picnic_table": "yes",
+      "tidal": "no",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 12479681889,
+    "name": "Boat Ramp",
+    "latitude": 43.3416378,
+    "longitude": -116.6033923,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 12479709389,
+    "name": "Boat Ramp",
+    "latitude": 43.235117,
+    "longitude": -116.3750382,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no",
+      "toilets": "yes",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 12479709415,
+    "name": "Boat Ramp",
+    "latitude": 43.0852299,
+    "longitude": -116.1956544,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12479735828,
+    "name": "Boat Ramp",
+    "latitude": 43.5501881,
+    "longitude": -116.8020912,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12479735829,
+    "name": "Boat Ramp",
+    "latitude": 43.5486764,
+    "longitude": -116.801613,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12482314316,
+    "name": "Boat Ramp",
+    "latitude": 44.8507458,
+    "longitude": -116.8959971,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12487230854,
+    "name": "Boat Ramp",
+    "latitude": 44.7563924,
+    "longitude": -117.1272845,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12487230969,
+    "name": "Boat Ramp",
+    "latitude": 44.8028939,
+    "longitude": -116.9217705,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12487230973,
+    "name": "Boat Ramp",
+    "latitude": 44.803143,
+    "longitude": -116.9226221,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12511748708,
+    "name": "Boat Ramp",
+    "latitude": 47.8932716,
+    "longitude": -116.9097484,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12528739937,
+    "name": "Boat Ramp",
+    "latitude": 47.6765752,
+    "longitude": -116.8081459,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12528740015,
+    "name": "Boat Ramp",
+    "latitude": 47.6888787,
+    "longitude": -116.8084511,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12548413147,
+    "name": "Boat Ramp",
+    "latitude": 47.7059577,
+    "longitude": -116.9492481,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12843507096,
+    "name": "Boat Ramp",
+    "latitude": 48.1613089,
+    "longitude": -116.7540779,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 12844141124,
+    "name": "Boat Ramp",
+    "latitude": 48.164799,
+    "longitude": -116.7297261,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 12906105245,
+    "name": "Boat Ramp",
+    "latitude": 48.1764998,
+    "longitude": -116.9971128,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13051266801,
+    "name": "Boat Ramp",
+    "latitude": 47.605118,
+    "longitude": -116.8339903,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13075371792,
+    "name": "Boat Ramp",
+    "latitude": 47.6328053,
+    "longitude": -116.8063903,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13095808788,
+    "name": "Boat Ramp",
+    "latitude": 48.2390986,
+    "longitude": -116.2934272,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13098798060,
+    "name": "Boat Ramp",
+    "latitude": 48.2786459,
+    "longitude": -116.3510408,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13098798079,
+    "name": "Boat Ramp",
+    "latitude": 48.276748,
+    "longitude": -116.3470842,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13122898795,
+    "name": "Boat Ramp",
+    "latitude": 48.1686993,
+    "longitude": -116.5030886,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13819685,
+    "name": "Boat Ramp",
+    "latitude": 44.3338451,
+    "longitude": -116.1877451,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Gem, ID",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 152244673,
+    "name": "Boat Ramp",
+    "latitude": 48.2718572,
+    "longitude": -116.5414174,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "service": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 356319272,
+    "name": "Boat Ramp",
+    "latitude": 43.5207753,
+    "longitude": -116.0533703,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 356319273,
+    "name": "Boat Ramp",
+    "latitude": 43.5180631,
+    "longitude": -116.046239,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 369787453,
+    "name": "Farragut Boat Launch West Ramp",
+    "latitude": 47.9651748,
+    "longitude": -116.5459048,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "customers",
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "name": "Farragut Boat Launch West Ramp",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 507016754,
+    "name": "Boat Ramp",
+    "latitude": 44.0490406,
+    "longitude": -116.9738663,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 519918181,
+    "name": "Boat Ramp",
+    "latitude": 44.4998755,
+    "longitude": -116.0846367,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 520387607,
+    "name": "Boat Ramp",
+    "latitude": 43.8760561,
+    "longitude": -116.9847846,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "area": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 564003140,
+    "name": "Boat Ramp",
+    "latitude": 43.852726,
+    "longitude": -117.0193842,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 685044061,
+    "name": "Boat Ramp",
+    "latitude": 44.2393856,
+    "longitude": -116.9709419,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 689243026,
+    "name": "Boat Ramp",
+    "latitude": 44.192593,
+    "longitude": -116.9518126,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 762500000,
+    "name": "Liberty Lake Boat Launch",
+    "latitude": 47.6539548,
+    "longitude": -117.0840737,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "name": "Liberty Lake Boat Launch",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 768277174,
+    "name": "Boat Ramp",
+    "latitude": 44.9373081,
+    "longitude": -116.0819543,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 879990286,
+    "name": "Boat Ramp",
+    "latitude": 46.7856703,
+    "longitude": -116.755089,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "smoothness": "bad",
+      "surface": "compacted"
+    }
+  },
+  {
+    "id": 886375031,
+    "name": "Boat Ramp",
+    "latitude": 48.2102993,
+    "longitude": -117.0542632,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 886523864,
+    "name": "Boat Ramp",
+    "latitude": 48.1854827,
+    "longitude": -117.0320942,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 926398208,
+    "name": "ROCKY POINT Boat Launch",
+    "latitude": 47.3540533,
+    "longitude": -116.7519592,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "name": "ROCKY POINT Boat Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1035229020,
+    "name": "Boat Ramp",
+    "latitude": 46.3695715,
+    "longitude": -117.0553484,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1088468488,
+    "name": "Boat Ramp",
+    "latitude": 48.1769779,
+    "longitude": -116.9042571,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1121615340,
+    "name": "Boat Ramp",
+    "latitude": 44.4011819,
+    "longitude": -116.9000816,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1155221538,
+    "name": "Boat Ramp",
+    "latitude": 43.5611492,
+    "longitude": -116.6616161,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1155221539,
+    "name": "Boat Ramp",
+    "latitude": 43.5879223,
+    "longitude": -116.7287118,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1161530495,
+    "name": "Farragut Boat Launch East Ramp",
+    "latitude": 47.965159,
+    "longitude": -116.5456694,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "customers",
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "name": "Farragut Boat Launch East Ramp",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 1238940664,
+    "name": "Boat Ramp",
+    "latitude": 48.1291115,
+    "longitude": -117.1867872,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1238940665,
+    "name": "Boat Ramp",
+    "latitude": 48.1291583,
+    "longitude": -117.1867355,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1239200683,
+    "name": "Boat Ramp",
+    "latitude": 48.2565094,
+    "longitude": -117.0786191,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1251526226,
+    "name": "Boat Ramp",
+    "latitude": 48.2290811,
+    "longitude": -116.2765879,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1267020873,
+    "name": "Boat Ramp",
+    "latitude": 48.2719505,
+    "longitude": -116.541758,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1304321145,
+    "name": "Boat Ramp",
+    "latitude": 43.6929179,
+    "longitude": -116.6170867,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1321862266,
+    "name": "Boat Ramp",
+    "latitude": 47.5535415,
+    "longitude": -116.4586604,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Kootenai, ID",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1321862270,
+    "name": "Boat Ramp",
+    "latitude": 47.5547466,
+    "longitude": -116.4595767,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1322653110,
+    "name": "Boat Ramp",
+    "latitude": 43.6407901,
+    "longitude": -116.2481093,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1332721182,
+    "name": "Boat Ramp",
+    "latitude": 48.4910634,
+    "longitude": -116.9019565,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1332721220,
+    "name": "Boat Ramp",
+    "latitude": 48.4942607,
+    "longitude": -116.8909655,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1332721231,
+    "name": "Boat Ramp",
+    "latitude": 48.4913085,
+    "longitude": -116.9010174,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1334870764,
+    "name": "Boat Ramp",
+    "latitude": 43.5205758,
+    "longitude": -116.0531845,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1355308474,
+    "name": "Priest River Raft Slide",
+    "latitude": 48.4886901,
+    "longitude": -116.9088495,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Priest River Raft Slide",
+      "website": "https://www.fs.usda.gov/detail/ipnf/news-events/?cid=FSEPRD580723"
+    }
+  },
+  {
+    "id": 1356046749,
+    "name": "Boat Ramp",
+    "latitude": 48.6345369,
+    "longitude": -116.8656914,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1356046771,
+    "name": "Boat Ramp",
+    "latitude": 48.6219931,
+    "longitude": -116.8961659,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 1384396500,
+    "name": "Boat Ramp",
+    "latitude": 47.7024739,
+    "longitude": -116.9898616,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1384396506,
+    "name": "Boat Ramp",
+    "latitude": 47.7027633,
+    "longitude": -116.9882109,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1388432840,
+    "name": "Boat Ramp",
+    "latitude": 48.6102224,
+    "longitude": -116.8309479,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 1388474198,
+    "name": "Boat Ramp",
+    "latitude": 48.608551,
+    "longitude": -116.8306847,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 1393743585,
+    "name": "Boat Ramp",
+    "latitude": 48.6384309,
+    "longitude": -117.0878938,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "ground"
+    }
+  },
+  {
+    "id": 1409619390,
+    "name": "Four Miles South Boat Ramp",
+    "latitude": 43.4978031,
+    "longitude": -116.7850228,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Four Miles South Boat Ramp",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1410133413,
+    "name": "Boat Ramp",
+    "latitude": 46.1625061,
+    "longitude": -116.9234986,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1410468256,
+    "name": "Boat Ramp",
+    "latitude": 48.2175856,
+    "longitude": -116.2887163,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 1410506276,
+    "name": "Boat Ramp",
+    "latitude": 48.1939286,
+    "longitude": -116.2853434,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1415263497,
+    "name": "Boat Ramp",
+    "latitude": 43.6848466,
+    "longitude": -116.5738625,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "dirt"
+    }
+  },
+  {
+    "id": 32290074,
+    "name": "Boat Ramp",
+    "latitude": 48.6516529,
+    "longitude": -115.3133338,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 43705654,
+    "name": "Boat Ramp",
+    "latitude": 48.3066185,
+    "longitude": -111.0909136,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 43741184,
+    "name": "Boat Ramp",
+    "latitude": 48.3204725,
+    "longitude": -111.1077196,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 44070623,
+    "name": "Boat Ramp",
+    "latitude": 48.4830582,
+    "longitude": -115.2716436,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 45252771,
+    "name": "Boat Ramp",
+    "latitude": 46.9516376,
+    "longitude": -113.0108498,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 127100815,
+    "name": "Boat Ramp",
+    "latitude": 43.453545,
+    "longitude": -112.087978,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 127931234,
+    "name": "Boat Ramp",
+    "latitude": 42.8446882,
+    "longitude": -111.6020314,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 127971555,
+    "name": "Boat Ramp",
+    "latitude": 42.8388887,
+    "longitude": -111.5981783,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 127996324,
+    "name": "Boat Ramp",
+    "latitude": 42.8461899,
+    "longitude": -111.6016781,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 128003038,
+    "name": "Boat Ramp",
+    "latitude": 42.8382021,
+    "longitude": -111.5988728,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 128379080,
+    "name": "Boat Ramp",
+    "latitude": 44.1376103,
+    "longitude": -114.9161692,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 128942783,
+    "name": "Boat Ramp",
+    "latitude": 43.3481963,
+    "longitude": -115.3907567,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 129084438,
+    "name": "Boat Ramp",
+    "latitude": 44.4361553,
+    "longitude": -111.3764972,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 130937033,
+    "name": "Boat Ramp",
+    "latitude": 42.8232828,
+    "longitude": -112.8099618,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 130939761,
+    "name": "Boat Ramp",
+    "latitude": 42.7423263,
+    "longitude": -112.8996075,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 131089466,
+    "name": "Boat Ramp",
+    "latitude": 42.7419362,
+    "longitude": -112.9205279,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 431218294,
+    "name": "Boat Ramp",
+    "latitude": 42.137283,
+    "longitude": -111.8023688,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 448727206,
+    "name": "Button Beach Boat Ramp",
+    "latitude": 46.1662933,
+    "longitude": -115.995789,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Button Beach Boat Ramp"
+    }
+  },
+  {
+    "id": 448744810,
+    "name": "Kooskia Bridge Boat Ramp",
+    "latitude": 46.1468235,
+    "longitude": -115.9802891,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kooskia Bridge Boat Ramp",
+      "parking": "yes",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 470379487,
+    "name": "Boat Ramp",
+    "latitude": 45.6240757,
+    "longitude": -111.548021,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 470392308,
+    "name": "Boat Ramp",
+    "latitude": 45.1255528,
+    "longitude": -111.6754333,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 491484539,
+    "name": "Boat Ramp",
+    "latitude": 48.0307947,
+    "longitude": -114.8992703,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 519175875,
+    "name": "Boat Ramp",
+    "latitude": 46.6563605,
+    "longitude": -111.7370068,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 568463991,
+    "name": "Boat Ramp",
+    "latitude": 48.3114888,
+    "longitude": -113.9647468,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 667429547,
+    "name": "Boat Ramp",
+    "latitude": 45.9878981,
+    "longitude": -112.3527491,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 900052483,
+    "name": "Deadwood Put-In/Take-Out",
+    "latitude": 44.0807369,
+    "longitude": -115.6577827,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Deadwood Put-In/Take-out",
+      "whitewater": "put_in_out;put_in;egress",
+      "whitewater:put_in;egress": "steps"
+    }
+  },
+  {
+    "id": 900053077,
+    "name": "Danskin Station Boat Launch",
+    "latitude": 44.062118,
+    "longitude": -115.8129412,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Danskin Station Boat Launch",
+      "whitewater": "put_in;egress"
+    }
+  },
+  {
+    "id": 964135539,
+    "name": "Ford River Access Boating Site",
+    "latitude": 48.874916,
+    "longitude": -114.3738895,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Ford River Access Boating Site",
+      "operator": "Flathead National Forest",
+      "operator:short": "USFS",
+      "surface": "wood",
+      "toilets:disposal": "pitlatrine",
+      "website": "https://www.fs.usda.gov/recarea/flathead/recarea/?recid=66204"
+    }
+  },
+  {
+    "id": 964179770,
+    "name": "Teppe Lake Public Access",
+    "latitude": 48.9056007,
+    "longitude": -114.4194869,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Teppe Lake Public Access"
+    }
+  },
+  {
+    "id": 979229257,
+    "name": "Boat Ramp",
+    "latitude": 44.9885665,
+    "longitude": -112.886122,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1062693198,
+    "name": "Boat Ramp",
+    "latitude": 48.7252955,
+    "longitude": -115.3074239,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1062987693,
+    "name": "Boat Ramp",
+    "latitude": 48.4839093,
+    "longitude": -115.2969447,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1062987785,
+    "name": "Boat Ramp",
+    "latitude": 48.5148982,
+    "longitude": -115.2881255,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1064785597,
+    "name": "Boat Ramp",
+    "latitude": 48.5974871,
+    "longitude": -115.6717358,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1479724062,
+    "name": "Boat Ramp",
+    "latitude": 43.576521,
+    "longitude": -111.7349938,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1479724080,
+    "name": "Boat Ramp",
+    "latitude": 43.5046721,
+    "longitude": -111.7612399,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1587819939,
+    "name": "Boat Ramp",
+    "latitude": 45.3149982,
+    "longitude": -111.7476044,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 1602295901,
+    "name": "York Bridge",
+    "latitude": 46.7111876,
+    "longitude": -111.8100919,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "York Bridge"
+    }
+  },
+  {
+    "id": 1618435904,
+    "name": "Boat Ramp",
+    "latitude": 45.4208997,
+    "longitude": -111.7109037,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1643230814,
+    "name": "Boat Ramp",
+    "latitude": 47.6967879,
+    "longitude": -114.1587763,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1644401207,
+    "name": "Boat Ramp",
+    "latitude": 46.6496224,
+    "longitude": -111.7178997,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "source": "Bing",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 1647873838,
+    "name": "Boat Ramp",
+    "latitude": 46.9931115,
+    "longitude": -111.9917027,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "operator": "Holter Lake State Recreation Area"
+    }
+  },
+  {
+    "id": 1648570432,
+    "name": "Boat Ramp",
+    "latitude": 46.9613865,
+    "longitude": -111.9448296,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1718626387,
+    "name": "Kootenai River Boat Ramp",
+    "latitude": 48.4700067,
+    "longitude": -115.8885245,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "alt_name": "Roosevelt Park Boat Ramp",
+      "leisure": "slipway",
+      "name": "Kootenai River Boat Ramp"
+    }
+  },
+  {
+    "id": 1774541070,
+    "name": "Boat Ramp",
+    "latitude": 43.5047795,
+    "longitude": -111.7612038,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1916620774,
+    "name": "Boat Ramp",
+    "latitude": 47.860666,
+    "longitude": -115.6326713,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1916621102,
+    "name": "Boat Ramp",
+    "latitude": 47.8818186,
+    "longitude": -115.7455109,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2018401434,
+    "name": "Boat Ramp",
+    "latitude": 46.1673737,
+    "longitude": -112.762342,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2029104007,
+    "name": "Boat Ramp",
+    "latitude": 42.6733979,
+    "longitude": -113.4902468,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "toilets": "yes",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 2097228003,
+    "name": "Boat Ramp",
+    "latitude": 47.5013344,
+    "longitude": -111.3083589,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 2209572474,
+    "name": "Boat Ramp",
+    "latitude": 43.4175012,
+    "longitude": -115.2792192,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2209932108,
+    "name": "Boat Ramp",
+    "latitude": 43.9602617,
+    "longitude": -113.6831814,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2218183332,
+    "name": "Boat Ramp",
+    "latitude": 42.5808312,
+    "longitude": -113.6283594,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2218302149,
+    "name": "Boat Ramp",
+    "latitude": 42.5446424,
+    "longitude": -113.7636534,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2218395141,
+    "name": "Boat Ramp",
+    "latitude": 42.5461443,
+    "longitude": -113.807482,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2218499562,
+    "name": "Boat Ramp",
+    "latitude": 42.5557205,
+    "longitude": -113.7948125,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2309896175,
+    "name": "Boat Ramp",
+    "latitude": 44.845277,
+    "longitude": -111.308688,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2329346542,
+    "name": "Boat Ramp",
+    "latitude": 44.6202673,
+    "longitude": -111.3732063,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2418284119,
+    "name": "Boat Ramp",
+    "latitude": 48.4845545,
+    "longitude": -115.2969923,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2425994360,
+    "name": "Boat Ramp",
+    "latitude": 43.4500747,
+    "longitude": -111.3983324,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2429582368,
+    "name": "Boat Ramp",
+    "latitude": 48.4142656,
+    "longitude": -115.3167075,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2431624529,
+    "name": "Boat Ramp",
+    "latitude": 48.3720389,
+    "longitude": -115.4280683,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2447533572,
+    "name": "Doris Point Boat Launch",
+    "latitude": 48.31401,
+    "longitude": -113.9721583,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Doris Point Boat Launch",
+      "operator": "US Forest Service",
+      "source": "http://www.fs.usda.gov/recarea/flathead/recreation/wateractivities/recarea/?recid=77690&actid=78",
+      "website": "https://www.fs.usda.gov/recarea/flathead/recreation/wateractivities/recarea/?recid=77690&actid=78"
+    }
+  },
+  {
+    "id": 2447854258,
+    "name": "Boat Ramp",
+    "latitude": 48.5959231,
+    "longitude": -115.8881438,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2579608623,
+    "name": "Boat Ramp",
+    "latitude": 48.2667574,
+    "longitude": -115.8536507,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2669667891,
+    "name": "Boat Ramp",
+    "latitude": 43.1679352,
+    "longitude": -111.0224246,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2817731016,
+    "name": "Boat Ramp",
+    "latitude": 47.3033798,
+    "longitude": -114.8213815,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2951625846,
+    "name": "Boat Ramp",
+    "latitude": 48.4167865,
+    "longitude": -114.3522922,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2993329202,
+    "name": "Boat Ramp",
+    "latitude": 44.8546072,
+    "longitude": -111.3876311,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3008252886,
+    "name": "Boat Ramp",
+    "latitude": 48.960704,
+    "longitude": -115.151723,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3094826509,
+    "name": "Pettit Boat Dock",
+    "latitude": 43.9806848,
+    "longitude": -114.86346,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Pettit Boat Dock"
+    }
+  },
+  {
+    "id": 3101294602,
+    "name": "Mormon Bend Boat Ramp",
+    "latitude": 44.2625676,
+    "longitude": -114.843858,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mormon Bend Boat Ramp"
+    }
+  },
+  {
+    "id": 3101296134,
+    "name": "Torrey'S Hole Boat Ramp",
+    "latitude": 44.2556085,
+    "longitude": -114.5934952,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Torrey's Hole Boat Ramp"
+    }
+  },
+  {
+    "id": 3141021059,
+    "name": "Riverside Boat Ramp",
+    "latitude": 48.2724342,
+    "longitude": -113.8184089,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Riverside Boat Ramp"
+    }
+  },
+  {
+    "id": 3163823112,
+    "name": "Abbot Bay Boat Launch",
+    "latitude": 48.3427157,
+    "longitude": -113.9812852,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Abbot Bay Boat Launch"
+    }
+  },
+  {
+    "id": 3281385483,
+    "name": "Morgan Bar Boat Ramp",
+    "latitude": 45.2539032,
+    "longitude": -113.9071931,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "camping": "yes",
+      "leisure": "slipway",
+      "name": "Morgan Bar Boat Ramp",
+      "tidal": "no",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 3306200572,
+    "name": "Boat Launch",
+    "latitude": 46.6434965,
+    "longitude": -111.6848279,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Launch"
+    }
+  },
+  {
+    "id": 3431263251,
+    "name": "Boat Ramp",
+    "latitude": 47.3230551,
+    "longitude": -113.5846965,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3522724736,
+    "name": "Boat Ramp",
+    "latitude": 44.4258994,
+    "longitude": -111.3893771,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3522747953,
+    "name": "Boat Ramp",
+    "latitude": 44.4360539,
+    "longitude": -111.3745445,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3523845296,
+    "name": "Boat Ramp",
+    "latitude": 44.3711539,
+    "longitude": -111.4027487,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3524294416,
+    "name": "Boat Ramp",
+    "latitude": 44.4614125,
+    "longitude": -111.4015898,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3620977523,
+    "name": "Boat Ramp",
+    "latitude": 44.2667831,
+    "longitude": -111.4561505,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3658964290,
+    "name": "Boat Ramp",
+    "latitude": 43.4034513,
+    "longitude": -115.5626106,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 3729910442,
+    "name": "Boat Ramp",
+    "latitude": 42.2016879,
+    "longitude": -114.898667,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3729925144,
+    "name": "Boat Ramp",
+    "latitude": 42.206299,
+    "longitude": -114.7312036,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3739418130,
+    "name": "Boat Ramp",
+    "latitude": 45.179922,
+    "longitude": -113.8959299,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3739418192,
+    "name": "Boat Ramp",
+    "latitude": 45.1801531,
+    "longitude": -113.8956574,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3741800611,
+    "name": "Boat Ramp",
+    "latitude": 43.9633348,
+    "longitude": -113.7027513,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3759073002,
+    "name": "Boat Ramp",
+    "latitude": 43.5924491,
+    "longitude": -115.9801547,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3759073007,
+    "name": "Boat Ramp",
+    "latitude": 43.5939407,
+    "longitude": -115.9739189,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3759095242,
+    "name": "Boat Ramp",
+    "latitude": 43.6283684,
+    "longitude": -115.9951646,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3760851027,
+    "name": "Cottonwood Campground Boat Ramp",
+    "latitude": 44.6685217,
+    "longitude": -114.0805181,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Cottonwood Campground Boat Ramp"
+    }
+  },
+  {
+    "id": 3760853696,
+    "name": "Shoup Bridge Boat Ramp",
+    "latitude": 45.0980873,
+    "longitude": -113.8939428,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Shoup Bridge Boat Ramp"
+    }
+  },
+  {
+    "id": 3760974114,
+    "name": "Boat Ramp",
+    "latitude": 42.7737998,
+    "longitude": -112.874284,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 3762966499,
+    "name": "Boat Ramp",
+    "latitude": 42.6615282,
+    "longitude": -113.004563,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4282028273,
+    "name": "Boat Ramp",
+    "latitude": 42.5963914,
+    "longitude": -114.3984112,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 4316366290,
+    "name": "Murray Bay Boat Launch",
+    "latitude": 48.2675229,
+    "longitude": -113.8161669,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Murray Bay boat launch"
+    }
+  },
+  {
+    "id": 4496369523,
+    "name": "Boat Ramp",
+    "latitude": 45.8538091,
+    "longitude": -111.9516824,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4498140462,
+    "name": "Boat Ramp",
+    "latitude": 45.0955827,
+    "longitude": -111.6622207,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no",
+      "toilets": "yes",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 4911305972,
+    "name": "Boat Ramp",
+    "latitude": 42.5876999,
+    "longitude": -114.3528243,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 5066944791,
+    "name": "Boat Ramp",
+    "latitude": 44.6524253,
+    "longitude": -115.6655035,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5102491943,
+    "name": "Boat Ramp",
+    "latitude": 47.0145878,
+    "longitude": -114.739467,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5103764214,
+    "name": "Boat Ramp",
+    "latitude": 46.9915264,
+    "longitude": -114.4457142,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5674202226,
+    "name": "Boat Ramp",
+    "latitude": 45.6461072,
+    "longitude": -111.523707,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5674211649,
+    "name": "Boat Ramp",
+    "latitude": 45.5850503,
+    "longitude": -111.5940794,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 5684798488,
+    "name": "Boat Ramp",
+    "latitude": 43.3483812,
+    "longitude": -115.3900051,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5711766249,
+    "name": "Boat Ramp",
+    "latitude": 43.9273573,
+    "longitude": -111.7784731,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 5763657518,
+    "name": "Boat Ramp",
+    "latitude": 45.7848547,
+    "longitude": -112.9142938,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5907136209,
+    "name": "Boat Ramp",
+    "latitude": 42.9027247,
+    "longitude": -115.6885995,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5982044940,
+    "name": "Boat Ramp",
+    "latitude": 48.0539047,
+    "longitude": -114.0835204,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6709422901,
+    "name": "Boat Ramp",
+    "latitude": 44.1304199,
+    "longitude": -114.918784,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6800647482,
+    "name": "Corn Creek Boat Ramp",
+    "latitude": 45.3699522,
+    "longitude": -114.6877464,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "camping": "yes",
+      "canoe": "yes",
+      "canoe:put_in": "permit",
+      "canoe:take_out": "yes",
+      "drinking_water": "yes",
+      "leisure": "slipway",
+      "name": "Corn Creek Boat Ramp",
+      "put_in": "permit",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 6809834108,
+    "name": "Boat Ramp",
+    "latitude": 42.7805215,
+    "longitude": -112.8806814,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6809834109,
+    "name": "Boat Ramp",
+    "latitude": 42.949986,
+    "longitude": -112.7737057,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6861934655,
+    "name": "Boat Ramp",
+    "latitude": 43.5020492,
+    "longitude": -111.7635022,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6865287059,
+    "name": "Boat Ramp",
+    "latitude": 43.5047632,
+    "longitude": -112.050038,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6865287062,
+    "name": "Boat Ramp",
+    "latitude": 43.5049877,
+    "longitude": -112.0500264,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7396327829,
+    "name": "Carey Creek Boat Ramp",
+    "latitude": 45.4534033,
+    "longitude": -115.945542,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Carey Creek Boat Ramp"
+    }
+  },
+  {
+    "id": 7426795903,
+    "name": "Boat Ramp",
+    "latitude": 48.3977383,
+    "longitude": -115.5504839,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "description": "Open till dark",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 7577961429,
+    "name": "Cove Creek Boat Ramp",
+    "latitude": 45.3261027,
+    "longitude": -114.4284066,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Cove Creek Boat Ramp",
+      "parking": "yes",
+      "tidal": "no",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 7625327687,
+    "name": "Boat Ramp",
+    "latitude": 47.6924468,
+    "longitude": -114.1676885,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7729298664,
+    "name": "Boat Ramp",
+    "latitude": 46.700695,
+    "longitude": -111.8037298,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7729306068,
+    "name": "Boat Ramp",
+    "latitude": 46.6940768,
+    "longitude": -111.8134262,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7738704356,
+    "name": "Boat Ramp",
+    "latitude": 47.9248319,
+    "longitude": -114.3856659,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7741385293,
+    "name": "Boat Ramp",
+    "latitude": 48.023813,
+    "longitude": -114.2257862,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7745645274,
+    "name": "Sappington Bridge",
+    "latitude": 45.8038127,
+    "longitude": -111.7513073,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Sappington Bridge"
+    }
+  },
+  {
+    "id": 7820713057,
+    "name": "Boat Ramp",
+    "latitude": 46.8798453,
+    "longitude": -113.8527864,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 7828096949,
+    "name": "Boat Ramp",
+    "latitude": 47.2819885,
+    "longitude": -111.6892094,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7828096953,
+    "name": "Boat Ramp",
+    "latitude": 47.2817511,
+    "longitude": -111.6894145,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7867923771,
+    "name": "Boat Ramp",
+    "latitude": 44.1094226,
+    "longitude": -111.3380146,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 7884106021,
+    "name": "Boat Ramp",
+    "latitude": 43.3222782,
+    "longitude": -111.1264355,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7973667824,
+    "name": "Boat Ramp",
+    "latitude": 46.6359482,
+    "longitude": -111.7214898,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7973685948,
+    "name": "Boat Ramp",
+    "latitude": 46.5218865,
+    "longitude": -111.5875104,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7973729731,
+    "name": "Boat Ramp",
+    "latitude": 46.4129188,
+    "longitude": -111.5733875,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7973729732,
+    "name": "Boat Ramp",
+    "latitude": 46.4129496,
+    "longitude": -111.5732655,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7973729733,
+    "name": "Boat Ramp",
+    "latitude": 46.4155787,
+    "longitude": -111.5733773,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7973739689,
+    "name": "Boat Ramp",
+    "latitude": 46.4128876,
+    "longitude": -111.573495,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7973739718,
+    "name": "Boat Ramp",
+    "latitude": 46.4109376,
+    "longitude": -111.5721821,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7973739719,
+    "name": "Boat Ramp",
+    "latitude": 46.41002,
+    "longitude": -111.5714513,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7973739734,
+    "name": "Boat Ramp",
+    "latitude": 46.4055997,
+    "longitude": -111.5734811,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7978189561,
+    "name": "Camp Baker Access",
+    "latitude": 46.8039105,
+    "longitude": -111.1822583,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "permit",
+      "leisure": "slipway",
+      "motorboat": "no",
+      "name": "Camp Baker Access",
+      "tidal": "no",
+      "trailer": "no"
+    }
+  },
+  {
+    "id": 7978189562,
+    "name": "Camp Baker Access",
+    "latitude": 46.8038468,
+    "longitude": -111.1830875,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "permit",
+      "leisure": "slipway",
+      "motorboat": "no",
+      "name": "Camp Baker Access",
+      "tidal": "no",
+      "trailer": "no"
+    }
+  },
+  {
+    "id": 7978275491,
+    "name": "Eden Bridge Access",
+    "latitude": 47.2359485,
+    "longitude": -111.3886288,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "permit",
+      "leisure": "slipway",
+      "name": "Eden Bridge Access"
+    }
+  },
+  {
+    "id": 7978743501,
+    "name": "Boat Ramp",
+    "latitude": 47.0862084,
+    "longitude": -113.394126,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8010543736,
+    "name": "Boat Ramp",
+    "latitude": 48.4263554,
+    "longitude": -114.3732103,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8188243767,
+    "name": "Vinegar Creek Boat Ramp",
+    "latitude": 45.4597443,
+    "longitude": -115.8937453,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Vinegar Creek Boat Ramp"
+    }
+  },
+  {
+    "id": 8188243770,
+    "name": "Vinegar Creek Boat Ramp",
+    "latitude": 45.4594212,
+    "longitude": -115.8916202,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Vinegar Creek Boat Ramp"
+    }
+  },
+  {
+    "id": 8300676125,
+    "name": "Confluence Takeout",
+    "latitude": 45.2990678,
+    "longitude": -114.5956091,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Confluence Takeout"
+    }
+  },
+  {
+    "id": 8300677455,
+    "name": "Cache Bar Boat Ramp",
+    "latitude": 45.3185601,
+    "longitude": -114.6367133,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Cache Bar Boat Ramp"
+    }
+  },
+  {
+    "id": 8316204672,
+    "name": "Boat Ramp",
+    "latitude": 46.0865955,
+    "longitude": -115.5177616,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8316204684,
+    "name": "Race Track Take Out",
+    "latitude": 46.0453711,
+    "longitude": -115.2946609,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "alt_name": "Race Creek Take Out",
+      "canoe": "permit",
+      "leisure": "slipway",
+      "name": "Race Track Take Out",
+      "source:canoe": "https://www.recreation.gov/permits/234624"
+    }
+  },
+  {
+    "id": 8340002732,
+    "name": "Elk Creek Boat Launch",
+    "latitude": 44.2658239,
+    "longitude": -114.7225776,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Elk Creek Boat Launch"
+    }
+  },
+  {
+    "id": 8340002862,
+    "name": "Salmon River Bridge Access",
+    "latitude": 44.223529,
+    "longitude": -114.9276835,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Salmon River Bridge Access"
+    }
+  },
+  {
+    "id": 8343296775,
+    "name": "Watts Bridge Boat Ramp",
+    "latitude": 44.6319869,
+    "longitude": -114.145458,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Watts Bridge Boat Ramp",
+      "parking": "yes",
+      "picnic_table": "yes",
+      "surface": "concrete",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 8343305037,
+    "name": "Challis Bridge Boat Ramp",
+    "latitude": 44.470811,
+    "longitude": -114.2002582,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Challis Bridge Boat Ramp"
+    }
+  },
+  {
+    "id": 8343305050,
+    "name": "Dugway River Access",
+    "latitude": 44.3935602,
+    "longitude": -114.2633185,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Dugway River Access"
+    }
+  },
+  {
+    "id": 8343305207,
+    "name": "South Butte Boat Ramp",
+    "latitude": 44.2493282,
+    "longitude": -114.4541997,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "South Butte Boat Ramp",
+      "parking": "yes",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 8343307851,
+    "name": "Deadman Hole Boat Ramp",
+    "latitude": 44.3471384,
+    "longitude": -114.2659021,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Deadman Hole Boat Ramp"
+    }
+  },
+  {
+    "id": 8343494880,
+    "name": "Grandad Boat Ramp",
+    "latitude": 46.8243744,
+    "longitude": -115.9121946,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Grandad Boat Ramp"
+    }
+  },
+  {
+    "id": 8345916683,
+    "name": "Tower Rock Boat Ramp",
+    "latitude": 45.3114706,
+    "longitude": -113.906999,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Tower Rock Boat Ramp"
+    }
+  },
+  {
+    "id": 8345916701,
+    "name": "Morgan Bar Boat Ramp",
+    "latitude": 45.2533363,
+    "longitude": -113.9062454,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "camping": "yes",
+      "leisure": "slipway",
+      "name": "Morgan Bar Boat Ramp",
+      "tidal": "no",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 8345918479,
+    "name": "Carmen Bridge Boat Ramp",
+    "latitude": 45.2312026,
+    "longitude": -113.8944822,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Carmen Bridge Boat Ramp"
+    }
+  },
+  {
+    "id": 8345918540,
+    "name": "Elevenmile Boat Ramp",
+    "latitude": 45.0262086,
+    "longitude": -113.918306,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Elevenmile Boat Ramp"
+    }
+  },
+  {
+    "id": 8345918595,
+    "name": "Williams Lake Boat Ramp",
+    "latitude": 45.0169985,
+    "longitude": -113.9820543,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Williams Lake Boat Ramp"
+    }
+  },
+  {
+    "id": 8345918822,
+    "name": "Elk Bend Boat Ramp",
+    "latitude": 44.9043331,
+    "longitude": -113.9688934,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Elk Bend Boat Ramp"
+    }
+  },
+  {
+    "id": 8345918832,
+    "name": "Kilpatrick Boat Ramp",
+    "latitude": 44.8301041,
+    "longitude": -113.9872386,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kilpatrick Boat Ramp"
+    }
+  },
+  {
+    "id": 8345918846,
+    "name": "McKim Boat Access",
+    "latitude": 44.7973262,
+    "longitude": -114.0041716,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "McKim Boat Access",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 8345918882,
+    "name": "Colston Creek Boat Access",
+    "latitude": 44.7526105,
+    "longitude": -113.9953338,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "camping": "yes",
+      "leisure": "slipway",
+      "name": "Colston Creek Boat Access",
+      "parking": "yes",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 8345918892,
+    "name": "Cronk'S Canyon Boat Access",
+    "latitude": 44.7294324,
+    "longitude": -114.0038977,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Cronk's Canyon Boat Access"
+    }
+  },
+  {
+    "id": 8345918902,
+    "name": "Boat Ramp",
+    "latitude": 44.7153841,
+    "longitude": -114.0230714,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8345918918,
+    "name": "Deer Gulch",
+    "latitude": 44.6998188,
+    "longitude": -114.043767,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Deer Gulch"
+    }
+  },
+  {
+    "id": 8346112652,
+    "name": "Spring Creek Boat Ramp",
+    "latitude": 45.3906927,
+    "longitude": -114.2564814,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "camping": "yes",
+      "leisure": "slipway",
+      "name": "Spring Creek Boat Ramp",
+      "parking": "yes",
+      "picnic_table": "yes",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 8346123121,
+    "name": "Dead Water Boat Ramp",
+    "latitude": 45.3871993,
+    "longitude": -114.0516451,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Dead Water Boat Ramp",
+      "parking": "yes",
+      "picnic_table": "yes",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 8346123143,
+    "name": "North Fork Boat Ramp",
+    "latitude": 45.4050252,
+    "longitude": -113.9953524,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "North Fork Boat Ramp"
+    }
+  },
+  {
+    "id": 8346123159,
+    "name": "Bobcat Gulch Boat Ramp",
+    "latitude": 45.3660361,
+    "longitude": -113.9655169,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "camping": "yes",
+      "leisure": "slipway",
+      "name": "Bobcat Gulch Boat Ramp",
+      "parking": "yes",
+      "picnic_table": "yes",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 8346123195,
+    "name": "Fourth Of July Creek Boat Access",
+    "latitude": 45.360411,
+    "longitude": -113.9448609,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Fourth of July Creek Boat Access"
+    }
+  },
+  {
+    "id": 8346123230,
+    "name": "Red Rock Boat Ramp",
+    "latitude": 45.3481534,
+    "longitude": -113.9200708,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Red Rock Boat Ramp",
+      "parking": "yes",
+      "tidal": "no",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 8346129362,
+    "name": "Duncans Outpost Boat Ramp",
+    "latitude": 45.3158768,
+    "longitude": -114.4068154,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Duncans Outpost Boat Ramp"
+    }
+  },
+  {
+    "id": 8461267860,
+    "name": "Boat Ramp",
+    "latitude": 44.9987564,
+    "longitude": -112.8572129,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 8997147135,
+    "name": "Boat Ramp",
+    "latitude": 46.6608588,
+    "longitude": -111.7852003,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9108632979,
+    "name": "Boat Ramp",
+    "latitude": 46.7427107,
+    "longitude": -111.886815,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9108632980,
+    "name": "Boat Ramp",
+    "latitude": 46.7454466,
+    "longitude": -111.8862328,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9108643727,
+    "name": "Boat Ramp",
+    "latitude": 46.7062323,
+    "longitude": -111.9151593,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9108643728,
+    "name": "Boat Ramp",
+    "latitude": 46.7018917,
+    "longitude": -111.957603,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9108643790,
+    "name": "Boat Ramp",
+    "latitude": 46.6428533,
+    "longitude": -111.88015,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9121030650,
+    "name": "Boat Ramp",
+    "latitude": 43.4628473,
+    "longitude": -111.4275436,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 9178316256,
+    "name": "Boat Ramp",
+    "latitude": 48.5661341,
+    "longitude": -115.9766498,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9241836870,
+    "name": "Boat Ramp",
+    "latitude": 47.3830628,
+    "longitude": -114.7985241,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "concrete",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 9458775012,
+    "name": "Boat Ramp",
+    "latitude": 47.8487396,
+    "longitude": -114.2743936,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9467278597,
+    "name": "Boat Ramp",
+    "latitude": 44.2466538,
+    "longitude": -115.0632542,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9472241596,
+    "name": "Boat Ramp",
+    "latitude": 42.2348513,
+    "longitude": -111.8574369,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9472241598,
+    "name": "Boat Ramp",
+    "latitude": 42.2412051,
+    "longitude": -111.8541064,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9768385832,
+    "name": "Boat Ramp",
+    "latitude": 42.5709608,
+    "longitude": -113.6287497,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9896405057,
+    "name": "Boat Ramp",
+    "latitude": 42.2638269,
+    "longitude": -111.752707,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9896405066,
+    "name": "Boat Ramp",
+    "latitude": 42.2123369,
+    "longitude": -111.780734,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9950488108,
+    "name": "Boat Ramp",
+    "latitude": 42.5216198,
+    "longitude": -113.6822354,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9950488109,
+    "name": "Boat Ramp",
+    "latitude": 42.5204691,
+    "longitude": -113.6874625,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9950542735,
+    "name": "Boat Ramp",
+    "latitude": 42.526302,
+    "longitude": -113.9937908,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 9950542776,
+    "name": "Boat Ramp",
+    "latitude": 42.5244859,
+    "longitude": -113.9970711,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 9950573583,
+    "name": "Boat Ramp",
+    "latitude": 42.5332164,
+    "longitude": -113.9791465,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9950587149,
+    "name": "Boat Ramp",
+    "latitude": 42.6103866,
+    "longitude": -114.1474616,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9953641643,
+    "name": "Windy Point Boat Launch",
+    "latitude": 44.9667524,
+    "longitude": -111.6419706,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Windy Point Boat Launch",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 9957630566,
+    "name": "Boat Ramp",
+    "latitude": 42.274201,
+    "longitude": -111.7438606,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9957641738,
+    "name": "Boat Ramp",
+    "latitude": 42.285129,
+    "longitude": -111.7312684,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9966806261,
+    "name": "Boat Ramp",
+    "latitude": 43.3352495,
+    "longitude": -114.4327052,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9990820339,
+    "name": "Boat Ramp",
+    "latitude": 48.8504381,
+    "longitude": -115.0973083,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10199861609,
+    "name": "Boat Ramp",
+    "latitude": 42.5198811,
+    "longitude": -113.6910132,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10599366676,
+    "name": "Boat Ramp",
+    "latitude": 42.3000219,
+    "longitude": -112.2058544,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10748442535,
+    "name": "Boat Ramp",
+    "latitude": 43.0244714,
+    "longitude": -111.7107553,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10992439975,
+    "name": "Boat Ramp",
+    "latitude": 42.1195966,
+    "longitude": -111.2981455,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10997384444,
+    "name": "Lena Lane Boat Ramp",
+    "latitude": 46.8617825,
+    "longitude": -114.1014634,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lena Lane Boat Ramp"
+    }
+  },
+  {
+    "id": 11153614450,
+    "name": "Boat Ramp",
+    "latitude": 45.444299,
+    "longitude": -112.5279182,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 11179692511,
+    "name": "Boat Ramp",
+    "latitude": 46.8992425,
+    "longitude": -114.1515499,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11268350281,
+    "name": "Boat Ramp",
+    "latitude": 48.6035854,
+    "longitude": -114.655746,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11282029984,
+    "name": "Blowout Boat Ramp",
+    "latitude": 43.2822823,
+    "longitude": -111.1203736,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Blowout Boat Ramp"
+    }
+  },
+  {
+    "id": 11298120288,
+    "name": "Boat Ramp",
+    "latitude": 48.6213599,
+    "longitude": -114.6777887,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11391977538,
+    "name": "Boat Ramp",
+    "latitude": 48.1375316,
+    "longitude": -113.7139993,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "operator": "Flathead National Forest"
+    }
+  },
+  {
+    "id": 11391984869,
+    "name": "Boat Ramp",
+    "latitude": 48.1099632,
+    "longitude": -113.6976273,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "operator": "Flathead National Forest",
+      "operator:short": "USFS"
+    }
+  },
+  {
+    "id": 11447482991,
+    "name": "Boat Ramp",
+    "latitude": 47.8117719,
+    "longitude": -114.2654979,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11784519563,
+    "name": "Boat Ramp",
+    "latitude": 44.6600303,
+    "longitude": -111.433937,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11784519566,
+    "name": "Boat Ramp",
+    "latitude": 44.6503525,
+    "longitude": -111.4367684,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11784537564,
+    "name": "Boat Ramp",
+    "latitude": 44.6680897,
+    "longitude": -111.4015222,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11784537565,
+    "name": "Boat Ramp",
+    "latitude": 44.6679309,
+    "longitude": -111.4013297,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11895508385,
+    "name": "Bell Rapids Launch",
+    "latitude": 42.7931359,
+    "longitude": -114.9383131,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Bell Rapids Launch"
+    }
+  },
+  {
+    "id": 11901821746,
+    "name": "Boat Ramp",
+    "latitude": 42.8952763,
+    "longitude": -115.6975099,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11936110764,
+    "name": "Boat Ramp",
+    "latitude": 42.95393,
+    "longitude": -115.9689571,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11954337385,
+    "name": "Boat Ramp",
+    "latitude": 42.6599554,
+    "longitude": -114.6703856,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11954359434,
+    "name": "Boat Ramp",
+    "latitude": 42.6641975,
+    "longitude": -114.7805013,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "private",
+      "description": "Part of the Kanaka Rapids Ranch private gated community.",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11956173054,
+    "name": "Boat Ramp",
+    "latitude": 42.6763447,
+    "longitude": -113.4737195,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11958700723,
+    "name": "Boat Ramp",
+    "latitude": 43.9829027,
+    "longitude": -111.6239419,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 12010167766,
+    "name": "West End Boat Ramp",
+    "latitude": 44.376483,
+    "longitude": -111.5318184,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "West End Boat Ramp",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 12071929446,
+    "name": "Grassy Point Boat Launch",
+    "latitude": 46.1829433,
+    "longitude": -113.2671916,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Grassy Point Boat Launch"
+    }
+  },
+  {
+    "id": 12076066030,
+    "name": "Boat Ramp",
+    "latitude": 46.9430941,
+    "longitude": -113.601662,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12076071834,
+    "name": "Boat Ramp",
+    "latitude": 46.9504241,
+    "longitude": -113.5358323,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12076084658,
+    "name": "Boat Ramp",
+    "latitude": 47.0225752,
+    "longitude": -113.3071808,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12076088763,
+    "name": "Boat Ramp",
+    "latitude": 47.000054,
+    "longitude": -113.3817456,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12077499042,
+    "name": "Boat Ramp",
+    "latitude": 46.8972915,
+    "longitude": -113.0589117,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "fishing": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12077525673,
+    "name": "Boat Ramp",
+    "latitude": 46.9513831,
+    "longitude": -113.0103839,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12077550456,
+    "name": "Boat Ramp",
+    "latitude": 46.9841408,
+    "longitude": -113.1296995,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12077589751,
+    "name": "Boat Ramp",
+    "latitude": 46.9798658,
+    "longitude": -113.1000348,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12077602096,
+    "name": "Boat Ramp",
+    "latitude": 47.0736207,
+    "longitude": -113.2296762,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12078800271,
+    "name": "Boat Ramp",
+    "latitude": 47.1090557,
+    "longitude": -113.4240244,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12079341291,
+    "name": "Boat Ramp",
+    "latitude": 47.1184554,
+    "longitude": -113.5034411,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12079408013,
+    "name": "Boat Ramp",
+    "latitude": 47.1812214,
+    "longitude": -113.490581,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12079408018,
+    "name": "Boat Ramp",
+    "latitude": 47.1812103,
+    "longitude": -113.4904803,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12080487993,
+    "name": "Boat Ramp",
+    "latitude": 46.9314357,
+    "longitude": -114.207936,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12081724625,
+    "name": "Boat Ramp",
+    "latitude": 47.6047966,
+    "longitude": -112.7666847,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12082185158,
+    "name": "Boat Ramp",
+    "latitude": 47.4414281,
+    "longitude": -113.6161096,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12085283663,
+    "name": "Boat Ramp",
+    "latitude": 46.723336,
+    "longitude": -113.5710056,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12085331341,
+    "name": "Boat Ramp",
+    "latitude": 45.1775085,
+    "longitude": -113.8985018,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12085345871,
+    "name": "Boat Ramp",
+    "latitude": 46.6620404,
+    "longitude": -113.1497269,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12087482272,
+    "name": "Boat Ramp",
+    "latitude": 47.6732076,
+    "longitude": -113.8100313,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12087486241,
+    "name": "Boat Ramp",
+    "latitude": 47.6982843,
+    "longitude": -113.7690931,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12087631219,
+    "name": "Boat Ramp",
+    "latitude": 47.5841295,
+    "longitude": -113.7584472,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12087661104,
+    "name": "Boat Ramp",
+    "latitude": 47.9351181,
+    "longitude": -113.8538599,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12087667012,
+    "name": "Kearney Rapids Boat Launch",
+    "latitude": 48.0554098,
+    "longitude": -114.0293022,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kearney Rapids Boat Launch"
+    }
+  },
+  {
+    "id": 12087668268,
+    "name": "Boat Ramp",
+    "latitude": 48.0255686,
+    "longitude": -113.990361,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12087727952,
+    "name": "Boat Ramp",
+    "latitude": 48.061412,
+    "longitude": -114.0518216,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12087752328,
+    "name": "Boat Ramp",
+    "latitude": 48.2132514,
+    "longitude": -114.6166462,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12087945925,
+    "name": "Boat Ramp",
+    "latitude": 47.0768268,
+    "longitude": -114.761929,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12089336334,
+    "name": "Boat Ramp",
+    "latitude": 46.8747225,
+    "longitude": -114.0086958,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12089472883,
+    "name": "Boat Ramp",
+    "latitude": 46.931902,
+    "longitude": -114.2104845,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 12089524437,
+    "name": "Boat Ramp",
+    "latitude": 47.2320155,
+    "longitude": -115.0217003,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12089524457,
+    "name": "Boat Ramp",
+    "latitude": 47.2257136,
+    "longitude": -114.9641066,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12089527510,
+    "name": "Boat Ramp",
+    "latitude": 47.1925801,
+    "longitude": -114.8805766,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12089546754,
+    "name": "Boat Ramp",
+    "latitude": 47.3223647,
+    "longitude": -114.8913388,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12113799828,
+    "name": "Boat Ramp",
+    "latitude": 48.3328428,
+    "longitude": -113.9500245,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12271026669,
+    "name": "Boat Ramp",
+    "latitude": 47.8068485,
+    "longitude": -114.3110256,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12297538569,
+    "name": "Boat Ramp",
+    "latitude": 43.5987516,
+    "longitude": -111.4946913,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12307799715,
+    "name": "Boat Ramp",
+    "latitude": 42.8987959,
+    "longitude": -115.8570048,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 12416643229,
+    "name": "Boat Ramp",
+    "latitude": 45.9400622,
+    "longitude": -111.4906561,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12466242277,
+    "name": "Buffalo Bridge Access",
+    "latitude": 47.6503854,
+    "longitude": -114.3442419,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Buffalo Bridge Access",
+      "parking": "yes"
+    }
+  },
+  {
+    "id": 12467013519,
+    "name": "Boat Ramp",
+    "latitude": 47.5924872,
+    "longitude": -115.3364552,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12467051320,
+    "name": "Boat Ramp",
+    "latitude": 46.9935211,
+    "longitude": -112.0101038,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no",
+      "toilets": "yes",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 12467150375,
+    "name": "Boat Ramp",
+    "latitude": 45.717389,
+    "longitude": -111.5179482,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12467150397,
+    "name": "Boat Ramp",
+    "latitude": 45.8994441,
+    "longitude": -111.5248181,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12467172717,
+    "name": "Boat Ramp",
+    "latitude": 45.2973489,
+    "longitude": -111.2097014,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12474198452,
+    "name": "Boat Ramp",
+    "latitude": 43.3373377,
+    "longitude": -111.204033,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 12474198476,
+    "name": "Boat Ramp",
+    "latitude": 43.3656757,
+    "longitude": -111.2376978,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12474221047,
+    "name": "Boat Ramp",
+    "latitude": 43.4637215,
+    "longitude": -111.4265909,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 12474281834,
+    "name": "Boat Ramp",
+    "latitude": 44.3451367,
+    "longitude": -114.2700395,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "camping": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 12474289542,
+    "name": "Boat Ramp",
+    "latitude": 43.8250984,
+    "longitude": -111.2332606,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12474291221,
+    "name": "Boat Ramp",
+    "latitude": 43.7813708,
+    "longitude": -111.209778,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 12474291262,
+    "name": "Boat Ramp",
+    "latitude": 43.7522618,
+    "longitude": -111.2045464,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12474291291,
+    "name": "Boat Ramp",
+    "latitude": 43.7236468,
+    "longitude": -111.1877625,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12474969641,
+    "name": "Boat Ramp",
+    "latitude": 43.1866846,
+    "longitude": -112.3959443,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12474969692,
+    "name": "Boat Ramp",
+    "latitude": 43.126739,
+    "longitude": -112.5156847,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12474991104,
+    "name": "Boat Ramp",
+    "latitude": 43.6093478,
+    "longitude": -115.9408328,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12475016504,
+    "name": "Boat Ramp",
+    "latitude": 42.9158353,
+    "longitude": -114.9680957,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12475016537,
+    "name": "Boat Ramp",
+    "latitude": 42.9138638,
+    "longitude": -115.0624718,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "picnic_table": "yes",
+      "tidal": "no",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 12475039818,
+    "name": "Boat Ramp",
+    "latitude": 43.146136,
+    "longitude": -112.4586108,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12475767377,
+    "name": "Boat Ramp",
+    "latitude": 48.4802352,
+    "longitude": -113.847216,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12475865113,
+    "name": "Boat Ramp",
+    "latitude": 48.2106181,
+    "longitude": -114.2583652,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12475934955,
+    "name": "Boat Ramp",
+    "latitude": 48.1739693,
+    "longitude": -114.2754059,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12479416388,
+    "name": "Boat Ramp",
+    "latitude": 42.9151648,
+    "longitude": -115.0749219,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "fixme": "Is this public canoe access?",
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12479709303,
+    "name": "Boat Ramp",
+    "latitude": 42.9472087,
+    "longitude": -115.9811814,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "picnic_table": "yes",
+      "tidal": "no",
+      "toilets": "yes",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 12481087174,
+    "name": "Boat Ramp",
+    "latitude": 42.8391383,
+    "longitude": -114.9046762,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 12484649857,
+    "name": "Boat Ramp",
+    "latitude": 42.6405011,
+    "longitude": -114.5908835,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12491451758,
+    "name": "Boat Ramp",
+    "latitude": 42.7635927,
+    "longitude": -114.8906106,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "picnic_table": "yes",
+      "tidal": "no",
+      "toilets": "yes",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 12566012626,
+    "name": "Boat Ramp",
+    "latitude": 47.863386,
+    "longitude": -114.2758045,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12566012701,
+    "name": "Boat Ramp",
+    "latitude": 47.83423,
+    "longitude": -114.3333817,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12705202814,
+    "name": "Boat Ramp",
+    "latitude": 44.8258583,
+    "longitude": -111.4582144,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12832454582,
+    "name": "Boat Ramp",
+    "latitude": 46.1220602,
+    "longitude": -111.4097819,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 12832458410,
+    "name": "Boat Ramp",
+    "latitude": 46.1214753,
+    "longitude": -111.3984395,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 12832761481,
+    "name": "Boat Ramp",
+    "latitude": 47.5382072,
+    "longitude": -111.2176781,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12832787001,
+    "name": "Boat Ramp",
+    "latitude": 47.570305,
+    "longitude": -111.1263616,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12892200763,
+    "name": "Boat Ramp",
+    "latitude": 46.7064178,
+    "longitude": -111.9035998,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12895899038,
+    "name": "Boat Ramp",
+    "latitude": 44.8264942,
+    "longitude": -111.4857107,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12898372030,
+    "name": "Boat Ramp",
+    "latitude": 45.8910884,
+    "longitude": -111.3367474,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12899809764,
+    "name": "Boat Ramp",
+    "latitude": 48.3099872,
+    "longitude": -111.0899585,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12915297693,
+    "name": "Boat Ramp",
+    "latitude": 43.3275658,
+    "longitude": -111.2132055,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13048563238,
+    "name": "Boat Ramp",
+    "latitude": 42.6011507,
+    "longitude": -114.4693217,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 13048673608,
+    "name": "Boat Ramp",
+    "latitude": 42.650965,
+    "longitude": -114.6306917,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13049035820,
+    "name": "Boat Ramp",
+    "latitude": 42.5944906,
+    "longitude": -114.391869,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13049950713,
+    "name": "Boat Ramp",
+    "latitude": 43.7518089,
+    "longitude": -111.9788904,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 13049950755,
+    "name": "Boat Ramp",
+    "latitude": 43.6226969,
+    "longitude": -111.6651931,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 13050163567,
+    "name": "Boat Ramp",
+    "latitude": 43.8251352,
+    "longitude": -111.9052373,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 13050163598,
+    "name": "Boat Ramp",
+    "latitude": 43.8705989,
+    "longitude": -111.8644552,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 13050196693,
+    "name": "Boat Ramp",
+    "latitude": 44.4161257,
+    "longitude": -111.3950134,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 13052310482,
+    "name": "Boat Ramp",
+    "latitude": 44.8651401,
+    "longitude": -111.5548385,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "surface": "ground",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 13052335505,
+    "name": "Boat Ramp",
+    "latitude": 44.8997138,
+    "longitude": -111.5924033,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no",
+      "toilets": "yes",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 13052335508,
+    "name": "Boat Ramp",
+    "latitude": 44.8996351,
+    "longitude": -111.5923373,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no",
+      "toilets": "yes",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 13052335521,
+    "name": "Boat Ramp",
+    "latitude": 44.9871528,
+    "longitude": -111.6587829,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no",
+      "toilets": "yes",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 13052335552,
+    "name": "Boat Ramp",
+    "latitude": 45.2307642,
+    "longitude": -111.7515381,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "toilets": "yes",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 13052335555,
+    "name": "Boat Ramp",
+    "latitude": 45.2985105,
+    "longitude": -111.7550675,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "toilets": "yes",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 13052360761,
+    "name": "Boat Ramp",
+    "latitude": 45.4482286,
+    "longitude": -111.6732251,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13086887387,
+    "name": "Boat Ramp",
+    "latitude": 44.8030141,
+    "longitude": -111.2168591,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13284610471,
+    "name": "Boat Ramp",
+    "latitude": 46.2691085,
+    "longitude": -112.7428868,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13446961905,
+    "name": "Boat Ramp",
+    "latitude": 44.0173738,
+    "longitude": -111.5843187,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 13446961907,
+    "name": "Boat Ramp",
+    "latitude": 44.0181582,
+    "longitude": -111.5824497,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "surface": "concrete",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 13446962129,
+    "name": "Boat Ramp",
+    "latitude": 44.0699452,
+    "longitude": -111.5105416,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "surface": "concrete",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 13888316,
+    "name": "Boat Ramp",
+    "latitude": 42.5454355,
+    "longitude": -113.647489,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Minidoka, ID",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 132062280,
+    "name": "West River Road Boat Ramp",
+    "latitude": 43.5843868,
+    "longitude": -112.0574007,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "West River Road Boat Ramp",
+      "source": "gps survey"
+    }
+  },
+  {
+    "id": 195065411,
+    "name": "Boat Ramp",
+    "latitude": 48.7191718,
+    "longitude": -114.8316265,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 234347319,
+    "name": "Spring Creek Boat Ramp",
+    "latitude": 43.4499977,
+    "longitude": -111.3983397,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Spring Creek Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 274175117,
+    "name": "Boat Ramp",
+    "latitude": 47.626712,
+    "longitude": -115.4056405,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 274175120,
+    "name": "Boat Ramp",
+    "latitude": 47.6159407,
+    "longitude": -115.3896304,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 336042592,
+    "name": "Boat Ramp",
+    "latitude": 47.3231756,
+    "longitude": -113.5843916,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 436413986,
+    "name": "Boat Ramp",
+    "latitude": 43.0004085,
+    "longitude": -115.2144105,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "motor_vehicle": "yes",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 547248989,
+    "name": "South Lake Como Boating Site",
+    "latitude": 46.0619535,
+    "longitude": -114.2338154,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "South Lake Como Boating Site",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 633741904,
+    "name": "Boat Ramp",
+    "latitude": 48.0537944,
+    "longitude": -114.0833997,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 726511081,
+    "name": "Boat Ramp",
+    "latitude": 42.9497287,
+    "longitude": -112.7740276,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 847798449,
+    "name": "Boat Ramp",
+    "latitude": 46.5396537,
+    "longitude": -111.5640691,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 898074241,
+    "name": "Boat Ramp",
+    "latitude": 45.3908464,
+    "longitude": -114.2564161,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 937411179,
+    "name": "Boat Ramp",
+    "latitude": 48.9046091,
+    "longitude": -115.1637322,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 937411180,
+    "name": "Boat Ramp",
+    "latitude": 48.9045017,
+    "longitude": -115.1637977,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 937411182,
+    "name": "Boat Ramp",
+    "latitude": 48.9041643,
+    "longitude": -115.1635382,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "Bing",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Lincoln, MT"
+    }
+  },
+  {
+    "id": 946141124,
+    "name": "Boat Ramp",
+    "latitude": 48.3443247,
+    "longitude": -114.8187326,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 963440257,
+    "name": "Boat Ramp",
+    "latitude": 47.0199441,
+    "longitude": -112.011725,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 980665054,
+    "name": "Boat Ramp",
+    "latitude": 48.4471385,
+    "longitude": -115.6627158,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1001239034,
+    "name": "Boat Ramp",
+    "latitude": 47.3831403,
+    "longitude": -114.7982465,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1001584907,
+    "name": "Boat Ramp",
+    "latitude": 47.4006457,
+    "longitude": -114.8242101,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1025919011,
+    "name": "Boat Ramp",
+    "latitude": 47.8490501,
+    "longitude": -114.2713159,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1026856806,
+    "name": "Boat Ramp",
+    "latitude": 44.2467351,
+    "longitude": -115.0632834,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1027461455,
+    "name": "Boat Ramp",
+    "latitude": 42.2349786,
+    "longitude": -111.8575913,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1027461456,
+    "name": "Boat Ramp",
+    "latitude": 42.2413214,
+    "longitude": -111.8541675,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1038381175,
+    "name": "Boat Ramp",
+    "latitude": 48.2923126,
+    "longitude": -114.2226204,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1038381176,
+    "name": "Boat Ramp",
+    "latitude": 48.2920359,
+    "longitude": -114.2225786,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1046350214,
+    "name": "Boat Ramp",
+    "latitude": 48.2571141,
+    "longitude": -114.300274,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1047210686,
+    "name": "Boat Ramp",
+    "latitude": 45.7600467,
+    "longitude": -112.8014213,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1059447623,
+    "name": "Boat Ramp",
+    "latitude": 48.2197386,
+    "longitude": -114.2055276,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1083628273,
+    "name": "Boat Ramp",
+    "latitude": 42.2082314,
+    "longitude": -111.3395997,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1085950821,
+    "name": "Boat Ramp",
+    "latitude": 42.3001594,
+    "longitude": -112.2059773,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Oneida, ID",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1085958045,
+    "name": "Boat Ramp",
+    "latitude": 42.5423543,
+    "longitude": -113.8129957,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1090770255,
+    "name": "Boat Ramp",
+    "latitude": 42.263578,
+    "longitude": -111.752718,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1090770263,
+    "name": "Boat Ramp",
+    "latitude": 42.263849,
+    "longitude": -111.753299,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1090770271,
+    "name": "Oneida Narrows Road",
+    "latitude": 42.231128,
+    "longitude": -111.7680018,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Oneida Narrows Road",
+      "name_1": "Oneida Narrows Bear River Road",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1090770279,
+    "name": "Boat Ramp",
+    "latitude": 42.2638022,
+    "longitude": -111.7525764,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1090860400,
+    "name": "Boat Ramp",
+    "latitude": 48.0763132,
+    "longitude": -115.1377681,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 1192787260,
+    "name": "Boat Ramp",
+    "latitude": 43.6086561,
+    "longitude": -115.2426025,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1202961835,
+    "name": "Boat Ramp",
+    "latitude": 45.4681018,
+    "longitude": -112.6674482,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1267701838,
+    "name": "Boat Ramp",
+    "latitude": 43.6022049,
+    "longitude": -115.8947927,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1282296701,
+    "name": "Boat Ramp",
+    "latitude": 42.6569573,
+    "longitude": -111.6532345,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1288179220,
+    "name": "Boat Ramp",
+    "latitude": 43.4568422,
+    "longitude": -115.3121278,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1289202275,
+    "name": "Boat Ramp",
+    "latitude": 42.7101954,
+    "longitude": -114.8441138,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1289410589,
+    "name": "Boat Ramp",
+    "latitude": 42.807085,
+    "longitude": -112.8353413,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1289716535,
+    "name": "Boat Ramp",
+    "latitude": 42.6420725,
+    "longitude": -111.6807132,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1292952096,
+    "name": "Boat Ramp",
+    "latitude": 42.0273259,
+    "longitude": -111.2592528,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1294820495,
+    "name": "Boat Ramp",
+    "latitude": 44.7828176,
+    "longitude": -111.1588962,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 1303510584,
+    "name": "Boat Ramp",
+    "latitude": 46.1770193,
+    "longitude": -113.2724159,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1303517425,
+    "name": "Boat Ramp",
+    "latitude": 46.1960943,
+    "longitude": -113.2996079,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1303519380,
+    "name": "Boat Ramp",
+    "latitude": 46.2065613,
+    "longitude": -113.2856397,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1303519960,
+    "name": "Boat Ramp",
+    "latitude": 46.2096443,
+    "longitude": -113.2752021,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1303520201,
+    "name": "Boat Ramp",
+    "latitude": 46.1824003,
+    "longitude": -113.2668214,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1303520202,
+    "name": "Boat Ramp",
+    "latitude": 46.183283,
+    "longitude": -113.2677185,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1303982265,
+    "name": "Boat Ramp",
+    "latitude": 46.9106974,
+    "longitude": -113.6910158,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1303984667,
+    "name": "Boat Ramp",
+    "latitude": 46.9179195,
+    "longitude": -113.678733,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1303987667,
+    "name": "Boat Ramp",
+    "latitude": 46.9455227,
+    "longitude": -113.4328474,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1303987680,
+    "name": "Boat Ramp",
+    "latitude": 47.0000115,
+    "longitude": -113.3818873,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1303989830,
+    "name": "Boat Ramp",
+    "latitude": 47.0224546,
+    "longitude": -113.3073292,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1304152969,
+    "name": "Boat Ramp",
+    "latitude": 46.9517,
+    "longitude": -113.0107889,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1304152970,
+    "name": "Boat Ramp",
+    "latitude": 46.9513691,
+    "longitude": -113.0102884,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1304160891,
+    "name": "Boat Ramp",
+    "latitude": 47.073591,
+    "longitude": -113.2294823,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1304298776,
+    "name": "Boat Ramp",
+    "latitude": 47.086242,
+    "longitude": -113.3943727,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1304301282,
+    "name": "Boat Ramp",
+    "latitude": 47.108952,
+    "longitude": -113.423964,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1304364031,
+    "name": "Boat Ramp",
+    "latitude": 47.1184112,
+    "longitude": -113.5035517,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1304367113,
+    "name": "Boat Ramp",
+    "latitude": 47.1811478,
+    "longitude": -113.4906236,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1304367114,
+    "name": "Boat Ramp",
+    "latitude": 47.181152,
+    "longitude": -113.4905209,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1304478329,
+    "name": "Boat Ramp",
+    "latitude": 46.8992364,
+    "longitude": -114.1513886,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1304529644,
+    "name": "Boat Ramp",
+    "latitude": 47.6045213,
+    "longitude": -112.7665857,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1304569625,
+    "name": "Boat Ramp",
+    "latitude": 47.4414318,
+    "longitude": -113.6162389,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1304697182,
+    "name": "Boat Ramp",
+    "latitude": 47.4041659,
+    "longitude": -113.7256703,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1304851884,
+    "name": "Boat Ramp",
+    "latitude": 46.8219938,
+    "longitude": -113.8077155,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1304852507,
+    "name": "Boat Ramp",
+    "latitude": 46.7519331,
+    "longitude": -113.7195622,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1304857187,
+    "name": "Boat Ramp",
+    "latitude": 46.7232827,
+    "longitude": -113.5710533,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1304860375,
+    "name": "Boat Ramp",
+    "latitude": 46.6619434,
+    "longitude": -113.1498158,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1304862913,
+    "name": "Boat Ramp",
+    "latitude": 45.1774117,
+    "longitude": -113.8984894,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1305079473,
+    "name": "Boat Ramp",
+    "latitude": 47.67321,
+    "longitude": -113.8099514,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1305080265,
+    "name": "Boat Ramp",
+    "latitude": 47.69812,
+    "longitude": -113.7692558,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1305095168,
+    "name": "Boat Ramp",
+    "latitude": 47.5841529,
+    "longitude": -113.7584854,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1305097920,
+    "name": "Boat Ramp",
+    "latitude": 47.9351924,
+    "longitude": -113.8537504,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1305099754,
+    "name": "Boat Ramp",
+    "latitude": 48.0257552,
+    "longitude": -113.9904166,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1305107295,
+    "name": "Boat Ramp",
+    "latitude": 48.2133925,
+    "longitude": -114.616556,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1305125114,
+    "name": "Boat Ramp",
+    "latitude": 47.0145557,
+    "longitude": -114.7392376,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1305126728,
+    "name": "Boat Ramp",
+    "latitude": 47.00609,
+    "longitude": -114.5789733,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1305271388,
+    "name": "Boat Ramp",
+    "latitude": 46.8842219,
+    "longitude": -113.9319594,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1305282066,
+    "name": "Boat Ramp",
+    "latitude": 46.9593693,
+    "longitude": -114.2212818,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1305289465,
+    "name": "EMS Boat Ramp (Emergency Only)",
+    "latitude": 46.8735197,
+    "longitude": -114.0028742,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "EMS Boat Ramp (Emergency Only)",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1305311111,
+    "name": "Boat Ramp",
+    "latitude": 47.3018151,
+    "longitude": -115.0879295,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1305315025,
+    "name": "Boat Ramp",
+    "latitude": 47.5236214,
+    "longitude": -114.7595054,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1305315029,
+    "name": "Boat Ramp",
+    "latitude": 47.5276346,
+    "longitude": -114.7499212,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1305326580,
+    "name": "Boat Ramp",
+    "latitude": 47.6937213,
+    "longitude": -114.166258,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1305425486,
+    "name": "Wisherd Bridge",
+    "latitude": 46.8927468,
+    "longitude": -113.7768582,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Wisherd Bridge"
+    }
+  },
+  {
+    "id": 1305427768,
+    "name": "Boat Ramp",
+    "latitude": 46.9152067,
+    "longitude": -113.6780989,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1305489147,
+    "name": "Boat Ramp",
+    "latitude": 46.7691448,
+    "longitude": -114.0591063,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1305489895,
+    "name": "Boat Ramp",
+    "latitude": 46.6634054,
+    "longitude": -114.0535414,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1305489970,
+    "name": "Boat Ramp",
+    "latitude": 46.6323309,
+    "longitude": -114.0514706,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1305589019,
+    "name": "Boat Ramp",
+    "latitude": 46.4440471,
+    "longitude": -114.1244619,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1305589604,
+    "name": "Boat Ramp",
+    "latitude": 46.3703038,
+    "longitude": -114.1398502,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1305590549,
+    "name": "Boat Ramp",
+    "latitude": 46.3128338,
+    "longitude": -114.1453714,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1305602558,
+    "name": "Boat Ramp",
+    "latitude": 46.2003368,
+    "longitude": -114.1679056,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1305625532,
+    "name": "Boat Ramp",
+    "latitude": 46.0921172,
+    "longitude": -114.1749267,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1305626951,
+    "name": "Boat Ramp",
+    "latitude": 46.0147434,
+    "longitude": -114.1640311,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1305627770,
+    "name": "Boat Ramp",
+    "latitude": 45.9734955,
+    "longitude": -114.1410372,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1305628938,
+    "name": "Boat Ramp",
+    "latitude": 45.9217833,
+    "longitude": -114.1420984,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1305629779,
+    "name": "Boat Ramp",
+    "latitude": 45.8149241,
+    "longitude": -114.2532878,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1305629786,
+    "name": "Boat Ramp",
+    "latitude": 45.829023,
+    "longitude": -114.2331248,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1305630660,
+    "name": "Boat Ramp",
+    "latitude": 45.7160692,
+    "longitude": -114.277934,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1305632679,
+    "name": "Boat Ramp",
+    "latitude": 45.6980877,
+    "longitude": -114.2886436,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1306396130,
+    "name": "Boat Ramp",
+    "latitude": 46.1565351,
+    "longitude": -114.4975535,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1307540278,
+    "name": "Boat Ramp",
+    "latitude": 48.6843815,
+    "longitude": -114.5751345,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1307544869,
+    "name": "Boat Ramp",
+    "latitude": 48.6026871,
+    "longitude": -114.1620753,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1307544879,
+    "name": "Boat Ramp",
+    "latitude": 48.4923899,
+    "longitude": -114.1256393,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1307544884,
+    "name": "Boat Ramp",
+    "latitude": 48.465527,
+    "longitude": -114.0709069,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1307544894,
+    "name": "Boat Ramp",
+    "latitude": 48.4616758,
+    "longitude": -114.0245767,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1307594686,
+    "name": "Boat Ramp",
+    "latitude": 48.1264488,
+    "longitude": -113.8084805,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1307603765,
+    "name": "Boat Ramp",
+    "latitude": 48.016798,
+    "longitude": -113.5849433,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1307882236,
+    "name": "Boat Ramp",
+    "latitude": 44.9957835,
+    "longitude": -112.8675029,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1307883375,
+    "name": "Boat Ramp",
+    "latitude": 44.9940985,
+    "longitude": -112.8556719,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1307986882,
+    "name": "Boat Ramp",
+    "latitude": 45.0055692,
+    "longitude": -112.8497732,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1307986883,
+    "name": "Boat Ramp",
+    "latitude": 45.0175412,
+    "longitude": -112.8387382,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1307988993,
+    "name": "Boat Ramp",
+    "latitude": 45.0549196,
+    "longitude": -112.8150414,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1307989001,
+    "name": "Boat Ramp",
+    "latitude": 45.065727,
+    "longitude": -112.8010269,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1307998002,
+    "name": "Boat Ramp",
+    "latitude": 45.1003164,
+    "longitude": -112.7773477,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1308544849,
+    "name": "Boat Ramp",
+    "latitude": 46.569133,
+    "longitude": -113.6893262,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1308544852,
+    "name": "Boat Ramp",
+    "latitude": 46.5077271,
+    "longitude": -113.7741891,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1308545444,
+    "name": "Boat Ramp",
+    "latitude": 46.4778517,
+    "longitude": -113.7781815,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1308546932,
+    "name": "Boat Ramp",
+    "latitude": 46.4290677,
+    "longitude": -113.7267984,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1308546935,
+    "name": "Boat Ramp",
+    "latitude": 46.4102923,
+    "longitude": -113.705384,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1308546937,
+    "name": "Boat Ramp",
+    "latitude": 46.3745327,
+    "longitude": -113.6474143,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1308547132,
+    "name": "Boat Ramp",
+    "latitude": 46.3569028,
+    "longitude": -113.6265897,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1309479971,
+    "name": "Boat Ramp",
+    "latitude": 46.0521306,
+    "longitude": -113.5298359,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1309899361,
+    "name": "Boat Ramp",
+    "latitude": 48.7815305,
+    "longitude": -114.2810639,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1311166697,
+    "name": "Boat Ramp",
+    "latitude": 45.5284408,
+    "longitude": -112.8193001,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1311377094,
+    "name": "Boat Ramp",
+    "latitude": 45.7564613,
+    "longitude": -112.7813014,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1311559064,
+    "name": "Boat Ramp",
+    "latitude": 45.7913509,
+    "longitude": -113.6109449,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1319663984,
+    "name": "Boat Ramp",
+    "latitude": 46.5211002,
+    "longitude": -114.1072746,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1331223955,
+    "name": "Boat Ramp",
+    "latitude": 46.4276887,
+    "longitude": -112.9413777,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1331656290,
+    "name": "Boat Ramp",
+    "latitude": 45.2170806,
+    "longitude": -112.6604605,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1338749368,
+    "name": "Boat Ramp",
+    "latitude": 47.4260871,
+    "longitude": -113.9908049,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1343237688,
+    "name": "Boat Ramp",
+    "latitude": 47.9179618,
+    "longitude": -114.3826169,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1346211003,
+    "name": "Boat Ramp",
+    "latitude": 47.8332071,
+    "longitude": -114.3403828,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1361251622,
+    "name": "Boat Ramp",
+    "latitude": 44.4117088,
+    "longitude": -114.4017277,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1363470153,
+    "name": "Jensen Grove Boat Ramp",
+    "latitude": 43.2024316,
+    "longitude": -112.3542618,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Jensen Grove Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1374554884,
+    "name": "Boat Ramp",
+    "latitude": 43.311934,
+    "longitude": -112.1835115,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1376566389,
+    "name": "Boat Ramp",
+    "latitude": 43.3753976,
+    "longitude": -112.1683038,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1393900872,
+    "name": "Boat Ramp",
+    "latitude": 47.7553583,
+    "longitude": -114.0848031,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1413157327,
+    "name": "Boat Ramp",
+    "latitude": 47.2010059,
+    "longitude": -111.7727283,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1414688685,
+    "name": "Boat Ramp",
+    "latitude": 48.0742736,
+    "longitude": -114.2271612,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1443254969,
+    "name": "Boat Ramp",
+    "latitude": 42.9354369,
+    "longitude": -115.9646877,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1443330992,
+    "name": "Boat Ramp",
+    "latitude": 42.9117905,
+    "longitude": -115.8849253,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1451997428,
+    "name": "Boat Ramp",
+    "latitude": 42.9374678,
+    "longitude": -115.7491618,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1459931424,
+    "name": "Boat Ramp",
+    "latitude": 48.3087312,
+    "longitude": -112.2886822,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1479490049,
+    "name": "Beartracks Take-Out",
+    "latitude": 46.8674364,
+    "longitude": -113.9968796,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Beartracks Take-Out",
+      "waterway": "access_poin"
+    }
+  },
+  {
+    "id": 1481198901,
+    "name": "Boat Ramp",
+    "latitude": 47.3536749,
+    "longitude": -115.29425,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1486897427,
+    "name": "Boat Ramp",
+    "latitude": 43.308112,
+    "longitude": -112.200816,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1494127563,
+    "name": "Boat Ramp",
+    "latitude": 46.3346292,
+    "longitude": -115.3446788,
+    "state": "Idaho",
+    "stateAbbr": "ID",
+    "tags": {
+      "leisure": "slipway"
+    }
+  }
+]

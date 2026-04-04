@@ -1,0 +1,8723 @@
+[
+  {
+    "id": 52517377,
+    "name": "Boat Ramp",
+    "latitude": 34.1881922,
+    "longitude": -85.659088,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 52593986,
+    "name": "Boat Ramp",
+    "latitude": 34.1832997,
+    "longitude": -85.7232989,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 52604857,
+    "name": "Boat Ramp",
+    "latitude": 34.2226763,
+    "longitude": -85.7161804,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 52939010,
+    "name": "Boat Ramp",
+    "latitude": 33.7805702,
+    "longitude": -85.558037,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 55709224,
+    "name": "Scott Landing Boat Launch",
+    "latitude": 34.3675334,
+    "longitude": -87.9238175,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Scott Landing Boat Launch"
+    }
+  },
+  {
+    "id": 55894568,
+    "name": "Boat Ramp",
+    "latitude": 32.7808411,
+    "longitude": -87.842824,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 56192449,
+    "name": "Hwy 2 Public Ramp (Mud Creek)",
+    "latitude": 34.7546596,
+    "longitude": -85.9004168,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "boat": "yes",
+      "canoe": "put_in",
+      "fee": "no",
+      "leisure": "slipway",
+      "motorboat": "yes",
+      "name": "Hwy 2 Public Ramp (Mud Creek)"
+    }
+  },
+  {
+    "id": 56252137,
+    "name": "Co Rd 676 (Long Island Cove)",
+    "latitude": 34.8989357,
+    "longitude": -85.7087125,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "canoe": "put_in",
+      "fee": "no",
+      "leisure": "slipway",
+      "motorboat": "yes",
+      "name": "Co Rd 676 (Long Island Cove)"
+    }
+  },
+  {
+    "id": 56341518,
+    "name": "Hwy 46 (TN River)",
+    "latitude": 34.7574096,
+    "longitude": -85.8588966,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "boat": "yes",
+      "canoe": "put_in",
+      "fee": "no",
+      "leisure": "slipway",
+      "motorboat": "yes",
+      "name": "Hwy 46 (TN River)"
+    }
+  },
+  {
+    "id": 56355268,
+    "name": "Lee Row (TN River)",
+    "latitude": 34.9412339,
+    "longitude": -85.6980714,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "canoe": "put_in",
+      "fee": "no",
+      "leisure": "slipway",
+      "motorboat": "yes",
+      "name": "Lee Row (TN River)"
+    }
+  },
+  {
+    "id": 56726584,
+    "name": "Shoal Creek US 72 Boat Ramp",
+    "latitude": 34.8492171,
+    "longitude": -87.570927,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Shoal Creek US 72 Boat Ramp"
+    }
+  },
+  {
+    "id": 56815079,
+    "name": "Barnetts Landing Ramp",
+    "latitude": 34.7868735,
+    "longitude": -87.2728345,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Barnetts Landing Ramp"
+    }
+  },
+  {
+    "id": 56952810,
+    "name": "Boat Ramp",
+    "latitude": 34.8785766,
+    "longitude": -87.1043745,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 57072552,
+    "name": "Madison County Park Boat Ramp",
+    "latitude": 34.5622529,
+    "longitude": -86.5459117,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Madison County Park Boat Ramp"
+    }
+  },
+  {
+    "id": 58270449,
+    "name": "Saraland Boat Launch",
+    "latitude": 30.8202734,
+    "longitude": -88.0588231,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Saraland Boat Launch"
+    }
+  },
+  {
+    "id": 58337701,
+    "name": "Cedar Creek Landing",
+    "latitude": 31.065791,
+    "longitude": -88.009425,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Cedar Creek Landing"
+    }
+  },
+  {
+    "id": 59084243,
+    "name": "Bluff City Boat Ramp",
+    "latitude": 34.5483219,
+    "longitude": -86.7811627,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Bluff City Boat Ramp"
+    }
+  },
+  {
+    "id": 59323285,
+    "name": "Boat Ramp",
+    "latitude": 33.3294086,
+    "longitude": -85.5571319,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 61440733,
+    "name": "Canoe Creek Boat Launch",
+    "latitude": 33.8648541,
+    "longitude": -86.1040279,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe Creek Boat Launch",
+      "website": "https://www.stclairco.com/347/Parks-and-Recreation"
+    }
+  },
+  {
+    "id": 61514554,
+    "name": "Boat Ramp",
+    "latitude": 33.6738165,
+    "longitude": -86.1523408,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 64400245,
+    "name": "Boat Ramp",
+    "latitude": 33.3472396,
+    "longitude": -87.608035,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 68084396,
+    "name": "Boat Ramp",
+    "latitude": 34.7824167,
+    "longitude": -85.4854534,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 70267888,
+    "name": "Boat Ramp",
+    "latitude": 33.3284376,
+    "longitude": -85.067718,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "fee": "yes",
+      "leisure": "slipway",
+      "opening_hours": "Mo-Su 07:00-22:00",
+      "width": "2"
+    }
+  },
+  {
+    "id": 73005927,
+    "name": "Ringer Access",
+    "latitude": 33.1459264,
+    "longitude": -85.0487818,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Ringer Access"
+    }
+  },
+  {
+    "id": 73007545,
+    "name": "Boat Ramp",
+    "latitude": 32.9708213,
+    "longitude": -85.185429,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 97790848,
+    "name": "Baker Landing",
+    "latitude": 30.890517,
+    "longitude": -85.882323,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Baker Landing"
+    }
+  },
+  {
+    "id": 97838002,
+    "name": "Cerrogordo Landing",
+    "latitude": 30.835512,
+    "longitude": -85.87851,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Cerrogordo Landing"
+    }
+  },
+  {
+    "id": 101138859,
+    "name": "Berrian Lake Landing II",
+    "latitude": 30.7006235,
+    "longitude": -85.8609286,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Berrian Lake Landing II"
+    }
+  },
+  {
+    "id": 101143711,
+    "name": "Berrian Lake Landing I",
+    "latitude": 30.693711,
+    "longitude": -85.866175,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Berrian Lake Landing I"
+    }
+  },
+  {
+    "id": 101196205,
+    "name": "Boynton Landing",
+    "latitude": 30.5239614,
+    "longitude": -85.8711152,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boynton Landing"
+    }
+  },
+  {
+    "id": 101205500,
+    "name": "Cedar Tree Landing",
+    "latitude": 30.470496,
+    "longitude": -85.875368,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Cedar Tree Landing"
+    }
+  },
+  {
+    "id": 101223164,
+    "name": "Shell Landing",
+    "latitude": 30.538138,
+    "longitude": -85.862411,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Shell Landing"
+    }
+  },
+  {
+    "id": 101245526,
+    "name": "Caryville Landing",
+    "latitude": 30.7753296,
+    "longitude": -85.8269463,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Caryville Landing"
+    }
+  },
+  {
+    "id": 101246706,
+    "name": "Live Oak Landing",
+    "latitude": 30.5902382,
+    "longitude": -85.839268,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Live Oak Landing"
+    }
+  },
+  {
+    "id": 101251550,
+    "name": "Strickland Landing Park And Boat Ramp",
+    "latitude": 30.5690054,
+    "longitude": -85.8455698,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Strickland Landing Park and Boat Ramp"
+    }
+  },
+  {
+    "id": 101253882,
+    "name": "Potter Springs Public Boat Ramp",
+    "latitude": 30.5371052,
+    "longitude": -85.8592258,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Potter Springs Public Boat Ramp"
+    }
+  },
+  {
+    "id": 101257622,
+    "name": "Jenkins Landing",
+    "latitude": 30.5806058,
+    "longitude": -85.8881279,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Jenkins Landing"
+    }
+  },
+  {
+    "id": 101258485,
+    "name": "Spurling Landing",
+    "latitude": 30.606423,
+    "longitude": -85.8078087,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Spurling Landing"
+    }
+  },
+  {
+    "id": 240249386,
+    "name": "Boat Ramp",
+    "latitude": 30.326114,
+    "longitude": -87.3686226,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 345643641,
+    "name": "Neels Landing Canoe/Kayak Launch",
+    "latitude": 34.2083171,
+    "longitude": -84.9787409,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "boat": "no",
+      "canoe": "yes",
+      "fee": "no",
+      "kayak": "yes",
+      "leisure": "slipway",
+      "name": "Neels Landing Canoe/Kayak Launch"
+    }
+  },
+  {
+    "id": 372404843,
+    "name": "Jay Landings Marina Boat Ramp",
+    "latitude": 34.6225632,
+    "longitude": -87.0093868,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Jay Landings Marina Boat Ramp"
+    }
+  },
+  {
+    "id": 381744231,
+    "name": "Boat Ramp",
+    "latitude": 34.2053365,
+    "longitude": -85.4441988,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 475234701,
+    "name": "Boat Ramp",
+    "latitude": 30.4056805,
+    "longitude": -86.6381998,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 706692933,
+    "name": "Guntersville Dam Reservation - Northside",
+    "latitude": 34.431533,
+    "longitude": -86.4055802,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Guntersville Dam Reservation - Northside"
+    }
+  },
+  {
+    "id": 926196461,
+    "name": "Boat Ramp",
+    "latitude": 34.3303117,
+    "longitude": -86.3189415,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 966661339,
+    "name": "Pride Landing Boat Ramp",
+    "latitude": 34.7328931,
+    "longitude": -87.8167569,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Pride Landing Boat Ramp"
+    }
+  },
+  {
+    "id": 971106421,
+    "name": "Canoe/Kayak Launch",
+    "latitude": 30.3097763,
+    "longitude": -87.402751,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "motor_vehicle": "no",
+      "name": "Canoe/Kayak launch"
+    }
+  },
+  {
+    "id": 971587037,
+    "name": "Boat Ramp",
+    "latitude": 30.3997792,
+    "longitude": -87.2470276,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 971587636,
+    "name": "Boat Ramp",
+    "latitude": 30.4329906,
+    "longitude": -87.1876816,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1074229814,
+    "name": "Boat Ramp",
+    "latitude": 30.696989,
+    "longitude": -86.5711997,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1277531693,
+    "name": "Boat Ramp",
+    "latitude": 30.862086,
+    "longitude": -86.8322632,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1300357197,
+    "name": "Boat Ramp",
+    "latitude": 30.2766396,
+    "longitude": -84.990117,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1314770569,
+    "name": "Elliot Branch Boat Ramp",
+    "latitude": 34.4488263,
+    "longitude": -87.9669444,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Elliot Branch Boat Ramp"
+    }
+  },
+  {
+    "id": 1314770570,
+    "name": "McAfee Boat Ramp",
+    "latitude": 34.4391089,
+    "longitude": -87.9435906,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "McAfee Boat Ramp"
+    }
+  },
+  {
+    "id": 1324418836,
+    "name": "Elk River North US 72 Boat Ramp",
+    "latitude": 34.8071657,
+    "longitude": -87.2335812,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Elk River North US 72 Boat Ramp",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": 1324427400,
+    "name": "Round Island Creek Ramp",
+    "latitude": 34.6850994,
+    "longitude": -87.0699851,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Round Island Creek Ramp"
+    }
+  },
+  {
+    "id": 1324456775,
+    "name": "Cotaco Creek Ramp",
+    "latitude": 34.5434571,
+    "longitude": -86.7269503,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Cotaco Creek Ramp"
+    }
+  },
+  {
+    "id": 1324456778,
+    "name": "Triana Boat Ramp",
+    "latitude": 34.5798259,
+    "longitude": -86.7307722,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Triana Boat Ramp",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": 1327928035,
+    "name": "Boat Ramp",
+    "latitude": 30.2514913,
+    "longitude": -88.0816928,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1328062040,
+    "name": "Second Creek Boat Ramp",
+    "latitude": 34.8461437,
+    "longitude": -87.3671817,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Second Creek Boat Ramp",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": 1338985909,
+    "name": "Muscle Shoals Reservation Boat Ramp",
+    "latitude": 34.792121,
+    "longitude": -87.6372237,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Muscle Shoals Reservation Boat Ramp"
+    }
+  },
+  {
+    "id": 1339980356,
+    "name": "Riverfront Park Boat Launch",
+    "latitude": 34.7670324,
+    "longitude": -87.7119149,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Riverfront Park Boat Launch"
+    }
+  },
+  {
+    "id": 1340661100,
+    "name": "McFarland Park West Boat Ramp",
+    "latitude": 34.7852184,
+    "longitude": -87.674133,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "McFarland Park West Boat Ramp",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": 1352816022,
+    "name": "Boat Ramp",
+    "latitude": 33.2095913,
+    "longitude": -87.5979042,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1355562205,
+    "name": "Wilson Dam Reservation Boat Ramp",
+    "latitude": 34.7919226,
+    "longitude": -87.6228484,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Wilson Dam Reservation Boat Ramp"
+    }
+  },
+  {
+    "id": 1357002676,
+    "name": "Boat Ramp",
+    "latitude": 31.302343,
+    "longitude": -86.2713297,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1362251904,
+    "name": "First Creek Ramp",
+    "latitude": 34.8207467,
+    "longitude": -87.3163808,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "First Creek Ramp"
+    }
+  },
+  {
+    "id": 1362983903,
+    "name": "Boat Ramp",
+    "latitude": 34.6541922,
+    "longitude": -86.9815452,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1362983941,
+    "name": "Boat Ramp",
+    "latitude": 34.6603533,
+    "longitude": -86.9896817,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1363980241,
+    "name": "Wheeler Dam Reservation Ramp",
+    "latitude": 34.7937776,
+    "longitude": -87.3878429,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Wheeler Dam Reservation Ramp"
+    }
+  },
+  {
+    "id": 1364275488,
+    "name": "Boat Ramp",
+    "latitude": 32.9760889,
+    "longitude": -85.7410058,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1391851634,
+    "name": "Boat Ramp",
+    "latitude": 34.8040641,
+    "longitude": -87.6957841,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "sport": "canoe"
+    }
+  },
+  {
+    "id": 1394399514,
+    "name": "Colbert Ferry Boat Ramp",
+    "latitude": 34.8390846,
+    "longitude": -87.9446263,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Colbert Ferry Boat Ramp"
+    }
+  },
+  {
+    "id": 1426197099,
+    "name": "Boat Ramp",
+    "latitude": 34.783722,
+    "longitude": -87.437004,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1431031119,
+    "name": "Boat Ramp",
+    "latitude": 34.6597125,
+    "longitude": -87.1099957,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "description": "Public boat launch, gravel, shallow.",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1505806415,
+    "name": "Boat Ramp",
+    "latitude": 32.4448005,
+    "longitude": -84.97707,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 1574258989,
+    "name": "Fulton Boat Ramp",
+    "latitude": 34.2873623,
+    "longitude": -88.41696,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "Fulton Boat Ramp"
+    }
+  },
+  {
+    "id": 1662369786,
+    "name": "Boat Ramp",
+    "latitude": 34.3802894,
+    "longitude": -85.1237172,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1666179054,
+    "name": "Arrowhead Ramp",
+    "latitude": 34.6019319,
+    "longitude": -86.8917412,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "description": "Shallow draft boats only.",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Arrowhead Ramp",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": 1724791819,
+    "name": "Saint Stephens Park Tombigbee Boat Launch",
+    "latitude": 31.5608354,
+    "longitude": -88.0325103,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Saint Stephens Park Tombigbee Boat Launch"
+    }
+  },
+  {
+    "id": 1760055281,
+    "name": "Boat Ramp",
+    "latitude": 33.4303568,
+    "longitude": -85.0118806,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1778776077,
+    "name": "Boat Ramp",
+    "latitude": 32.4502949,
+    "longitude": -86.3343123,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1863459339,
+    "name": "Boat Ramp",
+    "latitude": 33.3470576,
+    "longitude": -87.6085298,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1863459348,
+    "name": "Boat Ramp",
+    "latitude": 33.3471026,
+    "longitude": -87.6071832,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1863459374,
+    "name": "Boat Ramp",
+    "latitude": 33.3476922,
+    "longitude": -87.6075813,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1863459383,
+    "name": "Boat Ramp",
+    "latitude": 33.3477788,
+    "longitude": -87.6075961,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1888128872,
+    "name": "Johnson'S Creek Boat Ramp",
+    "latitude": 32.828138,
+    "longitude": -86.0173695,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Johnson's Creek Boat Ramp"
+    }
+  },
+  {
+    "id": 1892612177,
+    "name": "Boat Ramp",
+    "latitude": 30.3264966,
+    "longitude": -86.1553904,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1972670138,
+    "name": "Boat Ramp",
+    "latitude": 30.5808828,
+    "longitude": -87.1615847,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2012922130,
+    "name": "Boat Ramp",
+    "latitude": 34.9598956,
+    "longitude": -88.1525694,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2074061374,
+    "name": "Boat Ramp",
+    "latitude": 30.2635755,
+    "longitude": -87.6410077,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 2074061377,
+    "name": "Boat Ramp",
+    "latitude": 30.2535343,
+    "longitude": -87.6658989,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 2091056103,
+    "name": "Boat Ramp",
+    "latitude": 33.7256045,
+    "longitude": -86.5451861,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2091056146,
+    "name": "Boat Ramp",
+    "latitude": 33.7144104,
+    "longitude": -86.5541613,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2091122684,
+    "name": "Boat Ramp",
+    "latitude": 33.6904419,
+    "longitude": -86.5847274,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2102350929,
+    "name": "Boat Ramp",
+    "latitude": 32.5368717,
+    "longitude": -86.209409,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2102350931,
+    "name": "Goldstar Boat Ramp",
+    "latitude": 32.5356029,
+    "longitude": -86.2085733,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Goldstar Boat Ramp"
+    }
+  },
+  {
+    "id": 2102980130,
+    "name": "Bonners Point Boat Ramp",
+    "latitude": 32.6363216,
+    "longitude": -86.2976829,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Bonners Point Boat Ramp"
+    }
+  },
+  {
+    "id": 2156767798,
+    "name": "Boat Ramp",
+    "latitude": 33.0109127,
+    "longitude": -87.6391332,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2162919993,
+    "name": "Boat Ramp",
+    "latitude": 33.6444886,
+    "longitude": -86.5302117,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2392885257,
+    "name": "Boat Launch",
+    "latitude": 30.3116907,
+    "longitude": -87.421952,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "motor_vehicle": "yes",
+      "name": "Boat Launch"
+    }
+  },
+  {
+    "id": 2443519667,
+    "name": "Saint Stephens Park Boat Launch",
+    "latitude": 31.5586934,
+    "longitude": -88.034214,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Saint Stephens Park Boat Launch"
+    }
+  },
+  {
+    "id": 2443797242,
+    "name": "McIntosh Boat Ramp",
+    "latitude": 31.2566917,
+    "longitude": -87.9891073,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "McIntosh Boat Ramp"
+    }
+  },
+  {
+    "id": 2459479507,
+    "name": "Boat Ramp",
+    "latitude": 33.885627,
+    "longitude": -86.414211,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2459525088,
+    "name": "Boat Ramp",
+    "latitude": 33.8944209,
+    "longitude": -86.4110391,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2459795871,
+    "name": "Boat Ramp",
+    "latitude": 33.8315628,
+    "longitude": -86.5492822,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2498051526,
+    "name": "Boat Ramp",
+    "latitude": 30.3513328,
+    "longitude": -87.1744287,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 2498051528,
+    "name": "Boat Ramp",
+    "latitude": 30.3513183,
+    "longitude": -87.17455,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 2511057908,
+    "name": "Guntersville Dam Reservation -Southside",
+    "latitude": 34.425662,
+    "longitude": -86.4026115,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Guntersville Dam Reservation -Southside"
+    }
+  },
+  {
+    "id": 2517039967,
+    "name": "Lake Guntersville State Park Ramp",
+    "latitude": 34.3695001,
+    "longitude": -86.21734,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lake Guntersville State Park Ramp"
+    }
+  },
+  {
+    "id": 2517430668,
+    "name": "Boat Ramp",
+    "latitude": 34.5307511,
+    "longitude": -86.0882363,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2568574581,
+    "name": "Boat Ramp",
+    "latitude": 32.9783185,
+    "longitude": -86.5222342,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2613295397,
+    "name": "Boat Ramp",
+    "latitude": 30.4410852,
+    "longitude": -86.8666989,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2641345798,
+    "name": "Boat Ramp",
+    "latitude": 34.4503705,
+    "longitude": -87.9730689,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2641388397,
+    "name": "Boat Ramp",
+    "latitude": 34.4214649,
+    "longitude": -87.9199511,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2969118542,
+    "name": "Gilbritton Boat Ramp",
+    "latitude": 34.5192634,
+    "longitude": -87.8894879,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Gilbritton Boat Ramp"
+    }
+  },
+  {
+    "id": 2969129882,
+    "name": "Hellum Mill Boat Ramp",
+    "latitude": 34.5222958,
+    "longitude": -87.9473795,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Hellum Mill Boat Ramp"
+    }
+  },
+  {
+    "id": 2969129895,
+    "name": "Cedar Creek Dam Boat Ramp",
+    "latitude": 34.5400654,
+    "longitude": -87.9740048,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Cedar Creek Dam Boat Ramp"
+    }
+  },
+  {
+    "id": 3048394287,
+    "name": "Boat Ramp",
+    "latitude": 33.2705282,
+    "longitude": -87.4183593,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3048395672,
+    "name": "Boat Ramp",
+    "latitude": 33.2631486,
+    "longitude": -87.424135,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3106263391,
+    "name": "Boat Ramp",
+    "latitude": 30.3634922,
+    "longitude": -87.3363042,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3112746014,
+    "name": "Boat Ramp",
+    "latitude": 30.69131,
+    "longitude": -85.7554543,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3117761924,
+    "name": "Rock Quarry Landing",
+    "latitude": 33.2511859,
+    "longitude": -87.434591,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Rock Quarry Landing"
+    }
+  },
+  {
+    "id": 3120608652,
+    "name": "Boat Ramp",
+    "latitude": 30.3084186,
+    "longitude": -85.0400771,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 3199578650,
+    "name": "Hightower Landing",
+    "latitude": 30.6050974,
+    "longitude": -85.7654276,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Hightower Landing"
+    }
+  },
+  {
+    "id": 3227588748,
+    "name": "Boat Ramp",
+    "latitude": 34.2553266,
+    "longitude": -85.1785379,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3242292763,
+    "name": "Boat Ramp",
+    "latitude": 31.6931322,
+    "longitude": -85.0855195,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3245485923,
+    "name": "Boat Ramp",
+    "latitude": 31.3085367,
+    "longitude": -85.0859574,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 3245614497,
+    "name": "Boat Ramp",
+    "latitude": 31.8430798,
+    "longitude": -85.1228439,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3247355825,
+    "name": "Boat Ramp",
+    "latitude": 31.8923979,
+    "longitude": -85.1093457,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 3256173607,
+    "name": "Boat Ramp",
+    "latitude": 30.8267186,
+    "longitude": -84.9141618,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 3262873505,
+    "name": "Boat Ramp",
+    "latitude": 31.4116306,
+    "longitude": -85.0804468,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 3264291925,
+    "name": "Boat Ramp",
+    "latitude": 31.7510607,
+    "longitude": -88.1428099,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 3274176375,
+    "name": "Boat Ramp",
+    "latitude": 31.2762064,
+    "longitude": -85.1160592,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 3337446392,
+    "name": "Boat Ramp",
+    "latitude": 30.7250484,
+    "longitude": -84.9043927,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 3435177866,
+    "name": "Boat Ramp",
+    "latitude": 31.464408,
+    "longitude": -84.9199265,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3437379626,
+    "name": "Boat Ramp",
+    "latitude": 31.4695748,
+    "longitude": -84.9327231,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3440120700,
+    "name": "Billy Lee Landing",
+    "latitude": 30.6693409,
+    "longitude": -85.8700632,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Billy Lee Landing"
+    }
+  },
+  {
+    "id": 3545922700,
+    "name": "Boat Ramp",
+    "latitude": 30.5314484,
+    "longitude": -86.5062829,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3581055293,
+    "name": "Boat Ramp",
+    "latitude": 30.2840102,
+    "longitude": -87.5544944,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3611376615,
+    "name": "Boat Ramp",
+    "latitude": 34.768287,
+    "longitude": -88.0856309,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3616406589,
+    "name": "Boat Ramp",
+    "latitude": 31.0962335,
+    "longitude": -86.9182769,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3616492459,
+    "name": "Bates Landing",
+    "latitude": 34.3242252,
+    "longitude": -87.6619973,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Bates Landing"
+    }
+  },
+  {
+    "id": 3616492711,
+    "name": "Boat Ramp",
+    "latitude": 34.332353,
+    "longitude": -87.6509229,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3619893628,
+    "name": "Boat Ramp",
+    "latitude": 33.4429954,
+    "longitude": -86.3369766,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3633301300,
+    "name": "Beeswax Boat Launch",
+    "latitude": 33.1773445,
+    "longitude": -86.5212931,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Beeswax Boat Launch"
+    }
+  },
+  {
+    "id": 3646772442,
+    "name": "Boat Ramp",
+    "latitude": 30.5697194,
+    "longitude": -86.9236239,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3669409127,
+    "name": "Boat Ramp",
+    "latitude": 30.2316347,
+    "longitude": -88.0176407,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3669428462,
+    "name": "Boat Ramp",
+    "latitude": 30.3115361,
+    "longitude": -88.1377246,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3669428463,
+    "name": "Boat Ramp",
+    "latitude": 30.3412838,
+    "longitude": -88.1267803,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3669428470,
+    "name": "Boat Ramp",
+    "latitude": 30.2391945,
+    "longitude": -87.8901217,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3835876859,
+    "name": "Boat Ramp",
+    "latitude": 30.5377113,
+    "longitude": -87.4400687,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 3913349445,
+    "name": "Canoe Launch",
+    "latitude": 30.481867,
+    "longitude": -85.5233574,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe Launch"
+    }
+  },
+  {
+    "id": 3924646543,
+    "name": "Boat Ramp",
+    "latitude": 30.440231,
+    "longitude": -84.9865288,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 4024878399,
+    "name": "Boat Ramp",
+    "latitude": 32.8512009,
+    "longitude": -85.1572292,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4024952186,
+    "name": "Boat Ramp",
+    "latitude": 32.9336702,
+    "longitude": -85.1994032,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4035594481,
+    "name": "Boat Ramp",
+    "latitude": 33.0565315,
+    "longitude": -85.1099397,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "boat ramp"
+    }
+  },
+  {
+    "id": 4069097784,
+    "name": "Boat Ramp",
+    "latitude": 31.6717565,
+    "longitude": -85.0626376,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4085683038,
+    "name": "Boat Ramp",
+    "latitude": 33.2583966,
+    "longitude": -85.6220822,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4087556532,
+    "name": "Boat Ramp",
+    "latitude": 30.3998602,
+    "longitude": -87.2470027,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4102259203,
+    "name": "Boat Ramp",
+    "latitude": 33.3481638,
+    "longitude": -85.5475005,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4104265673,
+    "name": "Big Fox Creek Boat Ramp",
+    "latitude": 33.2935144,
+    "longitude": -85.6400784,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Big Fox Creek Boat Ramp"
+    }
+  },
+  {
+    "id": 4106626095,
+    "name": "Boat Ramp",
+    "latitude": 33.3021666,
+    "longitude": -85.6449879,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4106645732,
+    "name": "Boat Ramp",
+    "latitude": 33.3066078,
+    "longitude": -85.6274821,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4106673107,
+    "name": "Boat Ramp",
+    "latitude": 33.2754367,
+    "longitude": -85.5978383,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4109418580,
+    "name": "Boat Ramp",
+    "latitude": 33.3517926,
+    "longitude": -85.5278068,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4134239941,
+    "name": "Boat Ramp",
+    "latitude": 33.3087719,
+    "longitude": -85.579056,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4134265497,
+    "name": "Boat Ramp",
+    "latitude": 33.410142,
+    "longitude": -85.5973111,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4134284423,
+    "name": "Boat Ramp",
+    "latitude": 33.4071476,
+    "longitude": -85.6154912,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4134295291,
+    "name": "Boat Ramp",
+    "latitude": 33.4387685,
+    "longitude": -85.6101428,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4134405462,
+    "name": "Boat Ramp",
+    "latitude": 33.4275206,
+    "longitude": -85.6022679,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4134425552,
+    "name": "Boat Ramp",
+    "latitude": 33.361817,
+    "longitude": -85.5871838,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4134432299,
+    "name": "Boat Ramp",
+    "latitude": 33.3612316,
+    "longitude": -85.5796931,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4134439436,
+    "name": "Boat Ramp",
+    "latitude": 33.3512743,
+    "longitude": -85.581578,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4134439441,
+    "name": "Boat Ramp",
+    "latitude": 33.3514165,
+    "longitude": -85.5857388,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4134451001,
+    "name": "Boat Ramp",
+    "latitude": 33.3274328,
+    "longitude": -85.5888179,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4150083072,
+    "name": "Boat Ramp",
+    "latitude": 33.3593807,
+    "longitude": -85.504445,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4150135737,
+    "name": "Boat Ramp",
+    "latitude": 33.3682281,
+    "longitude": -85.4995057,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4150191128,
+    "name": "Boat Ramp",
+    "latitude": 33.329666,
+    "longitude": -85.4952357,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4150193195,
+    "name": "Boat Ramp",
+    "latitude": 33.3254955,
+    "longitude": -85.4891103,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4150193228,
+    "name": "Boat Ramp",
+    "latitude": 33.3349905,
+    "longitude": -85.5057875,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4150193233,
+    "name": "Boat Ramp",
+    "latitude": 33.3353491,
+    "longitude": -85.5074773,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4162120144,
+    "name": "Boat Ramp",
+    "latitude": 33.3362743,
+    "longitude": -85.5108026,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4162169216,
+    "name": "Boat Ramp",
+    "latitude": 33.3470528,
+    "longitude": -85.5428929,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4192399273,
+    "name": "Boat Ramp",
+    "latitude": 32.0244672,
+    "longitude": -85.0371432,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4201775945,
+    "name": "Boat Ramp",
+    "latitude": 32.1357588,
+    "longitude": -85.0610645,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4265546719,
+    "name": "Boat Ramp",
+    "latitude": 34.5870201,
+    "longitude": -84.9683768,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4269282446,
+    "name": "Lake Powell Boat Ramp",
+    "latitude": 30.2680419,
+    "longitude": -85.9748267,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lake Powell Boat Ramp"
+    }
+  },
+  {
+    "id": 4285566122,
+    "name": "Boat Ramp",
+    "latitude": 30.6660645,
+    "longitude": -87.9308935,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4292017687,
+    "name": "Boat Ramp",
+    "latitude": 30.3310273,
+    "longitude": -87.1500423,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4292055512,
+    "name": "Boat Ramp",
+    "latitude": 30.3389336,
+    "longitude": -87.1455177,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4292076901,
+    "name": "Boat Ramp",
+    "latitude": 30.3835511,
+    "longitude": -86.8634557,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4297631697,
+    "name": "Boat Ramp",
+    "latitude": 30.4322362,
+    "longitude": -87.1885418,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4297631700,
+    "name": "Boat Ramp",
+    "latitude": 30.4264375,
+    "longitude": -87.1864238,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4306899316,
+    "name": "Boat Ramp",
+    "latitude": 30.3344701,
+    "longitude": -87.324941,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "permissive",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4306899317,
+    "name": "Boat Ramp",
+    "latitude": 30.3343112,
+    "longitude": -87.3256418,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "permissive",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4322246490,
+    "name": "Boat Ramp",
+    "latitude": 30.535248,
+    "longitude": -87.1235952,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4324716635,
+    "name": "Boat Ramp",
+    "latitude": 30.710401,
+    "longitude": -86.8662769,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4339034385,
+    "name": "Boat Ramp",
+    "latitude": 33.0195354,
+    "longitude": -85.1555864,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4339034386,
+    "name": "Boat Ramp",
+    "latitude": 33.0072298,
+    "longitude": -85.1882044,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4348327510,
+    "name": "Boat Ramp",
+    "latitude": 30.7534288,
+    "longitude": -86.5096712,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4373050380,
+    "name": "Boat Ramp",
+    "latitude": 30.7088373,
+    "longitude": -86.9720384,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4380236803,
+    "name": "Boat Ramp",
+    "latitude": 30.669874,
+    "longitude": -87.2664479,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4381121776,
+    "name": "Boat Ramp",
+    "latitude": 30.7238385,
+    "longitude": -87.3058411,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4381153376,
+    "name": "Boat Ramp",
+    "latitude": 30.9665504,
+    "longitude": -87.2343176,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4381153380,
+    "name": "Boat Ramp",
+    "latitude": 30.9758258,
+    "longitude": -87.1894703,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4393569690,
+    "name": "Elk River North US 72 Boat Ramp",
+    "latitude": 34.8073299,
+    "longitude": -87.233474,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Elk River North US 72 Boat Ramp",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": 4393631290,
+    "name": "Boat Ramp",
+    "latitude": 34.7785832,
+    "longitude": -87.2194378,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4393664454,
+    "name": "Anderson Creek Ramp",
+    "latitude": 34.8239106,
+    "longitude": -87.2426269,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Anderson Creek Ramp",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": 4393693166,
+    "name": "Sportsman'S Park Boat Ramp",
+    "latitude": 34.8474776,
+    "longitude": -87.1172718,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "alt_name": "Elk River Mills Boat Ramp",
+      "leisure": "slipway",
+      "name": "Sportsman's Park Boat Ramp",
+      "wheelchair": "no",
+      "whitewater": "put_in"
+    }
+  },
+  {
+    "id": 4393695394,
+    "name": "Sportsman'S Park Boat Ramp",
+    "latitude": 34.8475755,
+    "longitude": -87.1171377,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "alt_name": "Elk River Mills Boat Ramp",
+      "leisure": "slipway",
+      "name": "Sportsman's Park Boat Ramp",
+      "wheelchair": "no",
+      "whitewater": "put_in"
+    }
+  },
+  {
+    "id": 4394383600,
+    "name": "Corinth Recreational Area Ramp",
+    "latitude": 34.1048833,
+    "longitude": -87.3281378,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Corinth Recreational Area Ramp"
+    }
+  },
+  {
+    "id": 4395438024,
+    "name": "Oyster Pile Boat Ramp",
+    "latitude": 30.6021829,
+    "longitude": -87.0289629,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Oyster Pile Boat Ramp"
+    }
+  },
+  {
+    "id": 4395454298,
+    "name": "Boat Ramp",
+    "latitude": 30.6321561,
+    "longitude": -87.0374462,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4395454299,
+    "name": "Boat Ramp",
+    "latitude": 30.633671,
+    "longitude": -87.0356879,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4395454304,
+    "name": "Boat Ramp",
+    "latitude": 30.6302896,
+    "longitude": -87.0347866,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4395454305,
+    "name": "Russell Landing Park Boat Ramp",
+    "latitude": 30.6273099,
+    "longitude": -87.0333179,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Russell Landing Park Boat Ramp"
+    }
+  },
+  {
+    "id": 4395454308,
+    "name": "Boat Ramp",
+    "latitude": 30.634338,
+    "longitude": -87.0212226,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4395462096,
+    "name": "Boat Ramp",
+    "latitude": 30.6226276,
+    "longitude": -87.0243837,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4395463215,
+    "name": "Boat Ramp",
+    "latitude": 30.5573481,
+    "longitude": -86.9827907,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4399800591,
+    "name": "Boat Ramp",
+    "latitude": 30.6055704,
+    "longitude": -87.3984777,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4418254807,
+    "name": "Boat Ramp",
+    "latitude": 30.6180503,
+    "longitude": -87.263096,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4419040688,
+    "name": "Boat Ramp",
+    "latitude": 34.5488532,
+    "longitude": -85.5899378,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4419498177,
+    "name": "McFarland Park North Boat Ramp",
+    "latitude": 34.7892061,
+    "longitude": -87.6751907,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "McFarland Park North Boat Ramp",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": 4419535120,
+    "name": "Boat Ramp",
+    "latitude": 34.8046557,
+    "longitude": -87.2279599,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4419773525,
+    "name": "Boat Ramp",
+    "latitude": 30.8637758,
+    "longitude": -87.8953307,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4420622936,
+    "name": "McFarland Park East Boat Ramp",
+    "latitude": 34.7867268,
+    "longitude": -87.6737835,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "McFarland Park East Boat Ramp"
+    }
+  },
+  {
+    "id": 4424176072,
+    "name": "Elk River South US 72 Boat Ramp",
+    "latitude": 34.8067915,
+    "longitude": -87.2349633,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Elk River South US 72 Boat Ramp",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": 4426457417,
+    "name": "Boat Ramp",
+    "latitude": 30.4738433,
+    "longitude": -87.8000558,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4436683513,
+    "name": "Lock Six Boat Ramp",
+    "latitude": 34.842719,
+    "longitude": -87.5409056,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lock Six Boat Ramp"
+    }
+  },
+  {
+    "id": 4436869753,
+    "name": "Boat Ramp",
+    "latitude": 34.8449328,
+    "longitude": -87.5433776,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4440959450,
+    "name": "Buck Island Ramp",
+    "latitude": 34.9020591,
+    "longitude": -87.078023,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Buck Island Ramp",
+      "wheelchair": "no",
+      "whitewater": "put_in"
+    }
+  },
+  {
+    "id": 4440959451,
+    "name": "Easter Ferry Ramp",
+    "latitude": 34.9226524,
+    "longitude": -87.0491,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Easter Ferry Ramp",
+      "wheelchair": "no",
+      "whitewater": "put_in"
+    }
+  },
+  {
+    "id": 4449921819,
+    "name": "Boat Ramp",
+    "latitude": 30.3809638,
+    "longitude": -87.2819486,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4449926296,
+    "name": "Boat Ramp",
+    "latitude": 30.3710962,
+    "longitude": -87.3183925,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4449926297,
+    "name": "Boat Ramp",
+    "latitude": 30.3688226,
+    "longitude": -87.3241981,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4489531104,
+    "name": "Horseshoe Bend Boat Ramp",
+    "latitude": 34.3860697,
+    "longitude": -87.9698638,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Horseshoe Bend Boat Ramp"
+    }
+  },
+  {
+    "id": 4518472559,
+    "name": "Boat Ramp",
+    "latitude": 32.9287716,
+    "longitude": -85.1679726,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4518472561,
+    "name": "Boat Ramp",
+    "latitude": 32.9288562,
+    "longitude": -85.1678794,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4518483727,
+    "name": "Boat Ramp",
+    "latitude": 32.9209985,
+    "longitude": -85.1642883,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4518483728,
+    "name": "Boat Ramp",
+    "latitude": 32.920993,
+    "longitude": -85.1643592,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4518483729,
+    "name": "Boat Ramp",
+    "latitude": 32.9209892,
+    "longitude": -85.1644256,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4518485759,
+    "name": "Boat Ramp",
+    "latitude": 32.9211113,
+    "longitude": -85.1643737,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4527035559,
+    "name": "Boat Ramp",
+    "latitude": 33.3304611,
+    "longitude": -85.5088811,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4532902108,
+    "name": "Spring Creek Boat Ramp",
+    "latitude": 34.7296379,
+    "longitude": -87.2837707,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Spring Creek Boat Ramp"
+    }
+  },
+  {
+    "id": 4532913537,
+    "name": "Goldfield Branch Ramp",
+    "latitude": 34.7377272,
+    "longitude": -87.245758,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Goldfield Branch Ramp"
+    }
+  },
+  {
+    "id": 4532918180,
+    "name": "Joe Wheeler State Park Ramp",
+    "latitude": 34.7930908,
+    "longitude": -87.3695086,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Joe Wheeler State Park Ramp"
+    }
+  },
+  {
+    "id": 4532920048,
+    "name": "Fisherman'S Resort Ramp",
+    "latitude": 34.7861292,
+    "longitude": -87.3934524,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Fisherman's Resort Ramp"
+    }
+  },
+  {
+    "id": 4534139668,
+    "name": "Doublehead Resort Ramp",
+    "latitude": 34.7736462,
+    "longitude": -87.4307364,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Doublehead Resort Ramp"
+    }
+  },
+  {
+    "id": 4534405846,
+    "name": "Ingalls Harbor Boat Ramp",
+    "latitude": 34.6226729,
+    "longitude": -86.9955147,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Ingalls Harbor Boat Ramp"
+    }
+  },
+  {
+    "id": 4534446798,
+    "name": "Ingalls Harbor Decatur Ramp",
+    "latitude": 34.6246661,
+    "longitude": -86.995311,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Ingalls Harbor Decatur Ramp"
+    }
+  },
+  {
+    "id": 4534456598,
+    "name": "Riverwalk Marina Boat Ramp",
+    "latitude": 34.6162565,
+    "longitude": -86.9719534,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Riverwalk Marina Boat Ramp"
+    }
+  },
+  {
+    "id": 4534832907,
+    "name": "Sunnyside Boat Ramp",
+    "latitude": 34.5757167,
+    "longitude": -86.7261044,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Sunnyside Boat Ramp"
+    }
+  },
+  {
+    "id": 4540156931,
+    "name": "Maples Bridge Boat Ramp",
+    "latitude": 34.9675771,
+    "longitude": -87.0181978,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Maples Bridge Boat Ramp",
+      "wheelchair": "no",
+      "whitewater": "put_in"
+    }
+  },
+  {
+    "id": 4540187761,
+    "name": "Emerald Beach Marina Boat Ramp",
+    "latitude": 34.8601582,
+    "longitude": -87.5661236,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Emerald Beach Marina Boat Ramp"
+    }
+  },
+  {
+    "id": 4540283563,
+    "name": "Boat Ramp",
+    "latitude": 34.913233,
+    "longitude": -87.5893648,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4541694574,
+    "name": "Ditto Landing Marina Boat Ramp",
+    "latitude": 34.5768478,
+    "longitude": -86.5593913,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Ditto Landing Marina Boat Ramp"
+    }
+  },
+  {
+    "id": 4555739244,
+    "name": "Waterloo Riverside Boat Ramp",
+    "latitude": 34.9134539,
+    "longitude": -88.0606747,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Waterloo Riverside Boat Ramp"
+    }
+  },
+  {
+    "id": 4555739247,
+    "name": "Waterloo Second Creek Boat Ramp",
+    "latitude": 34.9161496,
+    "longitude": -88.0585383,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Waterloo Second Creek Boat Ramp"
+    }
+  },
+  {
+    "id": 4555818336,
+    "name": "Cane Creek Boat Ramp",
+    "latitude": 34.754456,
+    "longitude": -87.8612331,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Cane Creek Boat Ramp"
+    }
+  },
+  {
+    "id": 4569162384,
+    "name": "Prairie Creek Boat Ramp & Dock",
+    "latitude": 32.3405028,
+    "longitude": -86.7696084,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "capacity": "3",
+      "leisure": "slipway",
+      "name": "Prairie Creek Boat Ramp & Dock"
+    }
+  },
+  {
+    "id": 4629610207,
+    "name": "Disney Lake Boat Launch",
+    "latitude": 33.76064,
+    "longitude": -87.1759438,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Disney Lake Boat Launch"
+    }
+  },
+  {
+    "id": 4719338014,
+    "name": "Boat Ramp",
+    "latitude": 34.5767803,
+    "longitude": -86.559491,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4719338016,
+    "name": "Boat Ramp",
+    "latitude": 34.5767196,
+    "longitude": -86.5595782,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4719338018,
+    "name": "Boat Ramp",
+    "latitude": 34.5769233,
+    "longitude": -86.5593163,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4731326121,
+    "name": "Boat Ramp",
+    "latitude": 30.6603118,
+    "longitude": -86.7650421,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4731326739,
+    "name": "Boat Ramp",
+    "latitude": 30.8706281,
+    "longitude": -86.5918371,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4756830722,
+    "name": "Boat Ramp",
+    "latitude": 34.5755165,
+    "longitude": -85.8059996,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4768949885,
+    "name": "Hickory Hill Boat Ramp",
+    "latitude": 34.559237,
+    "longitude": -86.9326894,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "alt_name": "Hickory Hills Boat Ramp",
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "Hickory Hill Boat Ramp"
+    }
+  },
+  {
+    "id": 4768949941,
+    "name": "Boat Ramp",
+    "latitude": 34.5736394,
+    "longitude": -86.9185308,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "description": "Public boat access, non-powered boats, dirt ramp.",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4784446387,
+    "name": "Boat Ramp",
+    "latitude": 33.3613436,
+    "longitude": -87.4149232,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4791343567,
+    "name": "Old Highway 78 Boat Ramp",
+    "latitude": 34.2738228,
+    "longitude": -88.4292298,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Old Highway 78 Boat Ramp"
+    }
+  },
+  {
+    "id": 4803891035,
+    "name": "Lake Guntersville State Park Ramp",
+    "latitude": 34.3995741,
+    "longitude": -86.2095593,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "boat": "yes",
+      "canoe": "put_in",
+      "description": "Camp at Guntersville State Park",
+      "fee": "no",
+      "leisure": "slipway",
+      "motorboat": "yes",
+      "name": "Lake Guntersville State Park Ramp"
+    }
+  },
+  {
+    "id": 4803918535,
+    "name": "Town Creek, Hwy 227 Ramp",
+    "latitude": 34.4063025,
+    "longitude": -86.1781018,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "boat": "yes",
+      "canoe": "put_in",
+      "fee": "no",
+      "leisure": "slipway",
+      "motorboat": "yes",
+      "name": "Town Creek, Hwy 227 Ramp"
+    }
+  },
+  {
+    "id": 4834198562,
+    "name": "Boat Ramp",
+    "latitude": 30.250161,
+    "longitude": -88.0765482,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4834198566,
+    "name": "Boat Ramp",
+    "latitude": 30.2501624,
+    "longitude": -88.0764675,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4876414497,
+    "name": "Boat Ramp",
+    "latitude": 31.0321035,
+    "longitude": -86.8291577,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 4890002312,
+    "name": "Lost Creek Boat Ramp",
+    "latitude": 34.5453503,
+    "longitude": -87.9092575,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Lost Creek Boat Ramp"
+    }
+  },
+  {
+    "id": 4890004723,
+    "name": "Slickrock Day Use Area Boat Ramp",
+    "latitude": 34.5166092,
+    "longitude": -87.9058297,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Slickrock Day Use Area Boat Ramp"
+    }
+  },
+  {
+    "id": 4943943535,
+    "name": "Boat Ramp",
+    "latitude": 32.2439607,
+    "longitude": -84.9123562,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 4948469929,
+    "name": "Boat Ramp",
+    "latitude": 33.5663959,
+    "longitude": -88.4967396,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4948652413,
+    "name": "Boat Ramp",
+    "latitude": 33.5498831,
+    "longitude": -84.949186,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 4951504091,
+    "name": "Boat Ramp",
+    "latitude": 34.916877,
+    "longitude": -88.2442263,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 4965603841,
+    "name": "Boat Ramp",
+    "latitude": 33.0200847,
+    "longitude": -86.5548234,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4968310253,
+    "name": "Boat Ramp",
+    "latitude": 33.818913,
+    "longitude": -86.0656501,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4974705755,
+    "name": "Boat Ramp",
+    "latitude": 33.3082483,
+    "longitude": -87.476945,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4975183236,
+    "name": "Rock Quarry Park Boat Landing",
+    "latitude": 33.2658783,
+    "longitude": -87.5108868,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Rock Quarry Park Boat Landing"
+    }
+  },
+  {
+    "id": 4977430587,
+    "name": "Boat Ramp",
+    "latitude": 33.2095871,
+    "longitude": -87.5977075,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4979579841,
+    "name": "Boat Ramp",
+    "latitude": 34.6965329,
+    "longitude": -87.1555489,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5008606906,
+    "name": "Boat Ramp",
+    "latitude": 31.0006764,
+    "longitude": -86.3284646,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5032988494,
+    "name": "Boat Ramp",
+    "latitude": 34.3551334,
+    "longitude": -86.3185359,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5032988496,
+    "name": "Boat Ramp",
+    "latitude": 34.3552072,
+    "longitude": -86.3184998,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5038061120,
+    "name": "Vernon Park (C.E. Miller Landing) Public Boat Ramp",
+    "latitude": 30.6306458,
+    "longitude": -85.7100068,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Vernon Park (C.E. Miller Landing) Public Boat Ramp"
+    }
+  },
+  {
+    "id": 5066690396,
+    "name": "Boat Ramp",
+    "latitude": 32.0489709,
+    "longitude": -87.2479265,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5066690397,
+    "name": "Boat Ramp",
+    "latitude": 32.0517293,
+    "longitude": -87.2499397,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5085660035,
+    "name": "Boat Ramp",
+    "latitude": 31.6064117,
+    "longitude": -85.0578992,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5097833852,
+    "name": "Boat Ramp",
+    "latitude": 30.8890523,
+    "longitude": -84.9346749,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5108605934,
+    "name": "Clear Creek Boat Ramp",
+    "latitude": 34.0167432,
+    "longitude": -87.2732515,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Clear Creek Boat Ramp"
+    }
+  },
+  {
+    "id": 5121178537,
+    "name": "Boat Ramp",
+    "latitude": 30.2718956,
+    "longitude": -87.5830274,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5153476351,
+    "name": "Boat Ramp",
+    "latitude": 32.1360898,
+    "longitude": -88.0409197,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImagery"
+    }
+  },
+  {
+    "id": 5155569990,
+    "name": "Boat Ramp",
+    "latitude": 30.3810124,
+    "longitude": -87.2821307,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5171397925,
+    "name": "Alloys Park Boat Ramp",
+    "latitude": 34.8023391,
+    "longitude": -87.4973961,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Alloys Park Boat Ramp"
+    }
+  },
+  {
+    "id": 5171431166,
+    "name": "Rose Trail Park Boat Ramp",
+    "latitude": 34.8540035,
+    "longitude": -88.0884516,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Rose Trail Park Boat Ramp",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": 5171463396,
+    "name": "Twin Pines Boat Ramp",
+    "latitude": 34.2805988,
+    "longitude": -87.6844231,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Twin Pines Boat Ramp"
+    }
+  },
+  {
+    "id": 5179262249,
+    "name": "Piney Point Boat Ramp",
+    "latitude": 34.3980229,
+    "longitude": -87.9827846,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Piney Point Boat Ramp"
+    }
+  },
+  {
+    "id": 5184166638,
+    "name": "Boat Ramp",
+    "latitude": 34.8107698,
+    "longitude": -86.3931583,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "fee": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5199307769,
+    "name": "Boat Ramp",
+    "latitude": 30.481286,
+    "longitude": -86.4886393,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5210454038,
+    "name": "Boat Ramp",
+    "latitude": 31.0663112,
+    "longitude": -86.098354,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "fixme": "check boat types",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5214879206,
+    "name": "Boat Ramp",
+    "latitude": 30.6812152,
+    "longitude": -87.9990115,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5231712790,
+    "name": "Boat Ramp",
+    "latitude": 30.407646,
+    "longitude": -85.9101272,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5231944186,
+    "name": "Boat Ramp",
+    "latitude": 30.3728932,
+    "longitude": -86.1148687,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5233068381,
+    "name": "Boat Ramp",
+    "latitude": 30.3134688,
+    "longitude": -87.5669952,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5254333340,
+    "name": "Flint Creek 31 Boat Ramp",
+    "latitude": 34.4899268,
+    "longitude": -86.9660632,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Flint Creek 31 Boat Ramp",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "id": 5283517576,
+    "name": "Smith'S Fish Camp",
+    "latitude": 30.5470705,
+    "longitude": -87.1947804,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Smith's Fish Camp"
+    }
+  },
+  {
+    "id": 5283517577,
+    "name": "Swamp House Marina",
+    "latitude": 30.5469803,
+    "longitude": -87.1962377,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "charge": "5 USD",
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "Swamp House Marina",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 5306635056,
+    "name": "Boat Ramp",
+    "latitude": 30.3685484,
+    "longitude": -88.1603133,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "addr:city": "Coden",
+      "addr:housenumber": "5080",
+      "addr:postcode": "36523",
+      "addr:state": "AL",
+      "addr:street": "Green Drive",
+      "description": "Delta Port Marina boat ramp. Free public accessible boat launch managed by the Marine Resources Division",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5311321257,
+    "name": "Boat Ramp",
+    "latitude": 30.3150819,
+    "longitude": -85.8132934,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5318636563,
+    "name": "Boat Ramp",
+    "latitude": 30.4003541,
+    "longitude": -86.5925225,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5320874569,
+    "name": "Boat Ramp",
+    "latitude": 30.4635929,
+    "longitude": -86.5921631,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5333093620,
+    "name": "Ringgold Recreational Complex (South Chick Creek)",
+    "latitude": 34.9107732,
+    "longitude": -85.1122622,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Ringgold Recreational Complex (South Chick Creek)"
+    }
+  },
+  {
+    "id": 5406359222,
+    "name": "Boat Ramp",
+    "latitude": 30.4025563,
+    "longitude": -87.3746809,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5409877956,
+    "name": "Boat Ramp",
+    "latitude": 30.5254436,
+    "longitude": -87.0862851,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5479115597,
+    "name": "Staples Bridge Launch",
+    "latitude": 31.4076795,
+    "longitude": -86.7298215,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Staples Bridge Launch"
+    }
+  },
+  {
+    "id": 5479115598,
+    "name": "Travis Bridge Launch",
+    "latitude": 31.453966,
+    "longitude": -86.7865597,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Travis Bridge Launch"
+    }
+  },
+  {
+    "id": 5479115599,
+    "name": "Boat Launch",
+    "latitude": 31.2622293,
+    "longitude": -86.7618409,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Launch"
+    }
+  },
+  {
+    "id": 5479115600,
+    "name": "Boat Ramp",
+    "latitude": 31.3013075,
+    "longitude": -86.7168779,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5509844279,
+    "name": "Boat Ramp",
+    "latitude": 30.2550779,
+    "longitude": -87.7158285,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5525803012,
+    "name": "Boat Ramp",
+    "latitude": 34.6330229,
+    "longitude": -85.9718702,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5579588104,
+    "name": "Boat Ramp",
+    "latitude": 32.8752205,
+    "longitude": -85.1820177,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5603349754,
+    "name": "Boat Ramp",
+    "latitude": 32.5773244,
+    "longitude": -85.8926113,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5610320729,
+    "name": "Boat Ramp",
+    "latitude": 30.8499137,
+    "longitude": -85.2592336,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 5610408458,
+    "name": "Boat Ramp",
+    "latitude": 30.7795626,
+    "longitude": -85.1681935,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5654871537,
+    "name": "Boat Ramp",
+    "latitude": 33.5268132,
+    "longitude": -86.2925494,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 5919531257,
+    "name": "Boat Ramp",
+    "latitude": 30.3263787,
+    "longitude": -87.5333935,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5920103165,
+    "name": "Bear Point Community Boat Launch",
+    "latitude": 30.3105297,
+    "longitude": -87.5253734,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Bear Point Community Boat Launch"
+    }
+  },
+  {
+    "id": 6044219105,
+    "name": "Boat Ramp",
+    "latitude": 34.8079788,
+    "longitude": -87.6205489,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6074097359,
+    "name": "Boat Ramp",
+    "latitude": 34.8154392,
+    "longitude": -87.4124335,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6150392733,
+    "name": "Boat Ramp",
+    "latitude": 31.1431386,
+    "longitude": -86.1839803,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6185307947,
+    "name": "Boat Ramp",
+    "latitude": 30.2769806,
+    "longitude": -87.5745852,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6185314919,
+    "name": "Boat Ramp",
+    "latitude": 30.2866069,
+    "longitude": -87.567505,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6235287173,
+    "name": "Graham Creek Kayak Launch",
+    "latitude": 30.3447215,
+    "longitude": -87.6239346,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Graham Creek Kayak Launch"
+    }
+  },
+  {
+    "id": 6267646060,
+    "name": "Amory Boat Ramp",
+    "latitude": 34.0088339,
+    "longitude": -88.4768036,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Amory Boat Ramp"
+    }
+  },
+  {
+    "id": 6267683074,
+    "name": "Ironwood Bluff Boat Ramp",
+    "latitude": 34.1266327,
+    "longitude": -88.3925952,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Ironwood Bluff Boat Ramp"
+    }
+  },
+  {
+    "id": 6267695309,
+    "name": "Walker'S Levee Boat Ramp",
+    "latitude": 34.4322734,
+    "longitude": -88.4085511,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Walker's Levee Boat Ramp"
+    }
+  },
+  {
+    "id": 6268311667,
+    "name": "Boat Ramp",
+    "latitude": 33.0970278,
+    "longitude": -85.0621327,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6268563218,
+    "name": "Smithville Boat Ramp",
+    "latitude": 34.0635177,
+    "longitude": -88.423681,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Smithville Boat Ramp"
+    }
+  },
+  {
+    "id": 6302095827,
+    "name": "Osprey Point Boat Launch",
+    "latitude": 34.5450688,
+    "longitude": -86.931419,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "description": "Public boat launch maintained by the Wheeler National Wildlife Refuge.",
+      "leisure": "slipway",
+      "name": "Osprey Point Boat Launch"
+    }
+  },
+  {
+    "id": 6304595617,
+    "name": "Boat Ramp",
+    "latitude": 34.6035188,
+    "longitude": -86.8520809,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "description": "Non-powered boats only",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6304607650,
+    "name": "Boat Ramp",
+    "latitude": 34.5661698,
+    "longitude": -86.8881015,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "description": "Public boat access, non-powered boats, shallow gravel ramp.",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6313343093,
+    "name": "Boat Ramp",
+    "latitude": 33.3247519,
+    "longitude": -86.7596536,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6323170137,
+    "name": "Boat Ramp",
+    "latitude": 30.2670256,
+    "longitude": -85.985435,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6611173163,
+    "name": "Boat Ramp",
+    "latitude": 30.3929377,
+    "longitude": -86.9585194,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6721757407,
+    "name": "Boat Ramp",
+    "latitude": 30.6818368,
+    "longitude": -88.0049571,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6721757408,
+    "name": "Boat Ramp",
+    "latitude": 30.6818419,
+    "longitude": -88.0048786,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6946075424,
+    "name": "Boat Ramp",
+    "latitude": 30.7275889,
+    "longitude": -84.9045854,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7016668304,
+    "name": "Boat Ramp",
+    "latitude": 32.3969573,
+    "longitude": -87.042232,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7016668306,
+    "name": "Boat Ramp",
+    "latitude": 32.396912,
+    "longitude": -87.0426182,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7050015585,
+    "name": "Boat Ramp",
+    "latitude": 30.4235837,
+    "longitude": -85.0324651,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 7135817209,
+    "name": "Boat Ramp",
+    "latitude": 33.8575735,
+    "longitude": -86.4766933,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7138452936,
+    "name": "Boat Ramp",
+    "latitude": 32.3601765,
+    "longitude": -86.6651368,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7143652469,
+    "name": "Boat Ramp",
+    "latitude": 33.077912,
+    "longitude": -88.2643901,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7185472364,
+    "name": "Boat Ramp",
+    "latitude": 30.5973502,
+    "longitude": -85.3907462,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7185533978,
+    "name": "Boat Ramp",
+    "latitude": 30.6027515,
+    "longitude": -85.3589086,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 7187218007,
+    "name": "Boat Ramp",
+    "latitude": 30.5452994,
+    "longitude": -85.5645246,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 7191995014,
+    "name": "Cotton Landing",
+    "latitude": 30.6558278,
+    "longitude": -85.6809022,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Cotton Landing"
+    }
+  },
+  {
+    "id": 7192016069,
+    "name": "Culpepper Landing",
+    "latitude": 30.6493555,
+    "longitude": -85.6897803,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Culpepper Landing"
+    }
+  },
+  {
+    "id": 7192650313,
+    "name": "Boat Ramp",
+    "latitude": 30.3026604,
+    "longitude": -87.5607944,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7194084952,
+    "name": "Brunson Landing Boat Ramp",
+    "latitude": 30.6089072,
+    "longitude": -85.7567263,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Brunson Landing Boat Ramp"
+    }
+  },
+  {
+    "id": 7265655097,
+    "name": "Boat Ramp",
+    "latitude": 30.2932755,
+    "longitude": -87.4851324,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7437171021,
+    "name": "Boat Ramp",
+    "latitude": 33.2712868,
+    "longitude": -85.5851165,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7437171022,
+    "name": "Boat Ramp",
+    "latitude": 33.2573016,
+    "longitude": -85.599815,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7443348388,
+    "name": "Dub Denman Canoe Trail Launch #2",
+    "latitude": 33.7762602,
+    "longitude": -85.2964006,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "contact:website": "https://sites.google.com/site/tallapoosaga/visitors/tour/dub-denman-canoe-trail",
+      "leisure": "slipway",
+      "name": "Dub Denman Canoe Trail Launch #2",
+      "website": "https://sites.google.com/site/tallapoosaga/visitors/tour/dub-denman-canoe-trail"
+    }
+  },
+  {
+    "id": 7495188456,
+    "name": "Boat Ramp",
+    "latitude": 34.8307348,
+    "longitude": -87.7037917,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "sport": "canoe"
+    }
+  },
+  {
+    "id": 7505020326,
+    "name": "Commanders Landing",
+    "latitude": 30.6198819,
+    "longitude": -85.9102307,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Commanders Landing"
+    }
+  },
+  {
+    "id": 7616291679,
+    "name": "Boat Ramp",
+    "latitude": 30.8003143,
+    "longitude": -84.9210125,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 7647045065,
+    "name": "Boat Ramp",
+    "latitude": 30.8016237,
+    "longitude": -86.766411,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "lanes": "1",
+      "leisure": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 7742552642,
+    "name": "Boat Ramp",
+    "latitude": 30.3186816,
+    "longitude": -87.5391367,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7742739280,
+    "name": "Boat Ramp",
+    "latitude": 30.316261,
+    "longitude": -87.5385634,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7759225920,
+    "name": "Boat Ramp",
+    "latitude": 32.9287918,
+    "longitude": -88.2071176,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7774917786,
+    "name": "Boat Ramp",
+    "latitude": 30.3208324,
+    "longitude": -87.5174667,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7792857281,
+    "name": "Boat Ramp",
+    "latitude": 33.1195827,
+    "longitude": -87.6645658,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7814312102,
+    "name": "Boat Ramp",
+    "latitude": 33.4763336,
+    "longitude": -84.9004505,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7836802992,
+    "name": "Boat Ramp",
+    "latitude": 34.7779861,
+    "longitude": -87.2715815,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7962403894,
+    "name": "Boat Ramp",
+    "latitude": 31.2545388,
+    "longitude": -85.107229,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 7965074623,
+    "name": "Boat Ramp",
+    "latitude": 31.2827859,
+    "longitude": -85.107262,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 7975157829,
+    "name": "Boat Ramp",
+    "latitude": 31.1471989,
+    "longitude": -85.0693992,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 7989962218,
+    "name": "Boat Ramp",
+    "latitude": 31.4330553,
+    "longitude": -85.0639141,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 7991138055,
+    "name": "Boat Ramp",
+    "latitude": 31.3744956,
+    "longitude": -85.0856656,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 7993214727,
+    "name": "Boat Ramp",
+    "latitude": 30.9736696,
+    "longitude": -85.0061187,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 8041136322,
+    "name": "Boat Ramp",
+    "latitude": 30.7473456,
+    "longitude": -84.9325003,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8047507405,
+    "name": "Boat Ramp",
+    "latitude": 30.7474684,
+    "longitude": -84.9335342,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "canoe",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8195359210,
+    "name": "Boat Ramp",
+    "latitude": 32.5520185,
+    "longitude": -87.8769092,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "permissive",
+      "charge": "5 USD per day",
+      "fee": "yes",
+      "lanes": "1",
+      "leisure": "slipway",
+      "payment:cash": "yes",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 8385020763,
+    "name": "Boat Ramp",
+    "latitude": 30.4319324,
+    "longitude": -88.4644394,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 8385020765,
+    "name": "Boat Ramp",
+    "latitude": 30.4128404,
+    "longitude": -88.4029674,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8391067242,
+    "name": "Boat Ramp",
+    "latitude": 32.144509,
+    "longitude": -87.2757025,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 8391067243,
+    "name": "Boat Ramp",
+    "latitude": 32.0579182,
+    "longitude": -87.3095352,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 8450721138,
+    "name": "Boat Ramp",
+    "latitude": 31.9966483,
+    "longitude": -86.4185056,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8452416321,
+    "name": "Boat Ramp",
+    "latitude": 34.2817018,
+    "longitude": -86.8625996,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8488490127,
+    "name": "Hwy 117 Boat Ramp",
+    "latitude": 34.8357577,
+    "longitude": -85.8026699,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "canoe": "put_in",
+      "fee": "no",
+      "leisure": "slipway",
+      "motorboat": "yes",
+      "name": "Hwy 117 Boat Ramp"
+    }
+  },
+  {
+    "id": 8616124136,
+    "name": "Cedar Log Landing",
+    "latitude": 30.6797443,
+    "longitude": -85.876178,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "addr:city": "Ponce De Leon",
+      "addr:housenumber": "157",
+      "addr:postcode": "32455",
+      "addr:state": "FL",
+      "addr:street": "Old Creek Road",
+      "leisure": "slipway",
+      "name": "Cedar Log Landing"
+    }
+  },
+  {
+    "id": 8616147853,
+    "name": "Dead River Landing",
+    "latitude": 30.541896,
+    "longitude": -85.8905883,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "addr:city": "Ponce De Leon",
+      "addr:housenumber": "2356",
+      "addr:postcode": "32455",
+      "addr:state": "FL",
+      "addr:street": "Dead River Road",
+      "leisure": "slipway",
+      "name": "Dead River Landing"
+    }
+  },
+  {
+    "id": 8616153690,
+    "name": "Cowford Landing",
+    "latitude": 30.4505118,
+    "longitude": -85.8992229,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "addr:city": "Ponce De Leon",
+      "addr:housenumber": "55",
+      "addr:postcode": "32455",
+      "addr:state": "FL",
+      "addr:street": "Big Cedar Road",
+      "leisure": "slipway",
+      "name": "Cowford Landing"
+    }
+  },
+  {
+    "id": 8649014062,
+    "name": "Boat Ramp",
+    "latitude": 34.563228,
+    "longitude": -88.3264662,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8789339461,
+    "name": "Boat Ramp",
+    "latitude": 30.5830005,
+    "longitude": -87.3503725,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8896434074,
+    "name": "Boat Ramp",
+    "latitude": 34.5240098,
+    "longitude": -85.5134445,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 8904460101,
+    "name": "Boat Ramp",
+    "latitude": 33.5696472,
+    "longitude": -87.1432121,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 9053682095,
+    "name": "Boat Ramp",
+    "latitude": 33.9686779,
+    "longitude": -87.0863911,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9289742663,
+    "name": "Quarter Creek Access",
+    "latitude": 34.2893877,
+    "longitude": -87.6288771,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Quarter Creek Access"
+    }
+  },
+  {
+    "id": 9313327336,
+    "name": "Boat Ramp",
+    "latitude": 30.455537,
+    "longitude": -86.5446642,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9451385352,
+    "name": "Boat Ramp",
+    "latitude": 34.7023101,
+    "longitude": -87.1479193,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9499295034,
+    "name": "Boat Ramp",
+    "latitude": 31.7746799,
+    "longitude": -85.1543688,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9499295039,
+    "name": "Boat Ramp",
+    "latitude": 31.7745069,
+    "longitude": -85.1547432,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 9543489944,
+    "name": "Boat Ramp",
+    "latitude": 33.214788,
+    "longitude": -85.0823768,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9547126475,
+    "name": "Boat Ramp",
+    "latitude": 30.8694621,
+    "longitude": -84.9440886,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9577689833,
+    "name": "Boat Ramp",
+    "latitude": 30.5233561,
+    "longitude": -87.4452402,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9654076529,
+    "name": "City Park Ramp (Crow Creek)",
+    "latitude": 34.8535597,
+    "longitude": -85.8357545,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "boat": "yes",
+      "canoe": "put_in",
+      "fee": "no",
+      "leisure": "slipway",
+      "motorboat": "yes",
+      "name": "City Park Ramp (Crow Creek)"
+    }
+  },
+  {
+    "id": 9654142762,
+    "name": "Rt 2/Lee Hwy Bridge (Crow Creek)",
+    "latitude": 34.8401058,
+    "longitude": -85.8315625,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Rt 2/Lee Hwy Bridge (Crow Creek)"
+    }
+  },
+  {
+    "id": 9663844210,
+    "name": "Boat Ramp",
+    "latitude": 33.9940523,
+    "longitude": -86.0013749,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9707937016,
+    "name": "Boat Ramp",
+    "latitude": 32.2585333,
+    "longitude": -84.9221892,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9707943827,
+    "name": "Boat Ramp",
+    "latitude": 32.2793924,
+    "longitude": -84.9111181,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9730742075,
+    "name": "Hardin Bridge Canoe/Kayak Launch",
+    "latitude": 34.1885916,
+    "longitude": -84.9257614,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "boat": "no",
+      "canoe": "yes",
+      "fee": "no",
+      "kayak": "yes",
+      "leisure": "slipway",
+      "name": "Hardin Bridge Canoe/Kayak Launch",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 9730768238,
+    "name": "Dixon Landing Canoe/Kayak Launch",
+    "latitude": 34.2322461,
+    "longitude": -85.1162824,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Dixon Landing Canoe/Kayak Launch"
+    }
+  },
+  {
+    "id": 9776282996,
+    "name": "Boat Ramp",
+    "latitude": 34.9011338,
+    "longitude": -87.0833165,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9780280391,
+    "name": "Boat Ramp",
+    "latitude": 30.2855965,
+    "longitude": -87.5090177,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9780285019,
+    "name": "Boat Ramp",
+    "latitude": 30.2900025,
+    "longitude": -87.4863692,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9780285022,
+    "name": "Boat Ramp",
+    "latitude": 30.289456,
+    "longitude": -87.4873978,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9780287789,
+    "name": "Boat Ramp",
+    "latitude": 30.2865118,
+    "longitude": -87.5048242,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9781087228,
+    "name": "Boat Ramp",
+    "latitude": 33.0166459,
+    "longitude": -88.1911721,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9781138512,
+    "name": "Boat Ramp",
+    "latitude": 33.3229624,
+    "longitude": -88.3337588,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9783999296,
+    "name": "Boat Ramp",
+    "latitude": 33.9443813,
+    "longitude": -87.1085413,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9783999310,
+    "name": "Boat Ramp",
+    "latitude": 33.9449174,
+    "longitude": -87.1085735,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9789342291,
+    "name": "Boat Ramp",
+    "latitude": 32.78702,
+    "longitude": -85.1402079,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9796766834,
+    "name": "Rice Creek Landing",
+    "latitude": 31.015919,
+    "longitude": -87.8801796,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Rice Creek Landing"
+    }
+  },
+  {
+    "id": 9796774971,
+    "name": "French'S Lake Landing",
+    "latitude": 31.1365288,
+    "longitude": -87.8394377,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "French's Lake Landing"
+    }
+  },
+  {
+    "id": 9796775075,
+    "name": "Holly Creek Landing",
+    "latitude": 31.1821823,
+    "longitude": -87.8540369,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Holly Creek Landing"
+    }
+  },
+  {
+    "id": 9796775148,
+    "name": "Boatyard Landing",
+    "latitude": 31.1769906,
+    "longitude": -87.8412724,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boatyard Landing"
+    }
+  },
+  {
+    "id": 9797516924,
+    "name": "Bear Creek Dam Tailwater Access",
+    "latitude": 34.3976543,
+    "longitude": -87.9936513,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Bear Creek Dam Tailwater Access"
+    }
+  },
+  {
+    "id": 9797517037,
+    "name": "Scott Bridge Access",
+    "latitude": 34.3583603,
+    "longitude": -87.9007033,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Scott Bridge Access"
+    }
+  },
+  {
+    "id": 9797517114,
+    "name": "Military Bridge Access",
+    "latitude": 34.3176595,
+    "longitude": -87.8572615,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Military Bridge Access"
+    }
+  },
+  {
+    "id": 9797517117,
+    "name": "Rock Quarry Branch Access",
+    "latitude": 34.2857446,
+    "longitude": -87.7747445,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Rock Quarry Branch Access"
+    }
+  },
+  {
+    "id": 9797517129,
+    "name": "Highway 5 Access",
+    "latitude": 34.2666705,
+    "longitude": -87.7027476,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Highway 5 Access"
+    }
+  },
+  {
+    "id": 9797517139,
+    "name": "Upper Bear Creek Dam Tailwater Access",
+    "latitude": 34.2715295,
+    "longitude": -87.6952693,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Upper Bear Creek Dam Tailwater Access"
+    }
+  },
+  {
+    "id": 9797517154,
+    "name": "Boat Ramp",
+    "latitude": 34.2799933,
+    "longitude": -87.6864205,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9797517184,
+    "name": "Mon Dye Ramp",
+    "latitude": 34.3462238,
+    "longitude": -87.6560521,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mon Dye Ramp"
+    }
+  },
+  {
+    "id": 9797517624,
+    "name": "Williams Hollow Boat Ramp",
+    "latitude": 34.4114892,
+    "longitude": -87.909358,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Williams Hollow Boat Ramp"
+    }
+  },
+  {
+    "id": 9800175612,
+    "name": "Boat Ramp",
+    "latitude": 34.9921023,
+    "longitude": -88.1775993,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9800208918,
+    "name": "Boat Ramp",
+    "latitude": 34.9013911,
+    "longitude": -88.0924397,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9800208936,
+    "name": "Boat Ramp",
+    "latitude": 34.8840374,
+    "longitude": -88.1043732,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9816323110,
+    "name": "Boat Ramp",
+    "latitude": 30.6729378,
+    "longitude": -87.9350649,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9846727393,
+    "name": "Boat Ramp",
+    "latitude": 31.3437956,
+    "longitude": -85.6159947,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9869420447,
+    "name": "Boone'S Landing",
+    "latitude": 30.4937372,
+    "longitude": -87.8075741,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boone's Landing"
+    }
+  },
+  {
+    "id": 9900779464,
+    "name": "Boat Ramp",
+    "latitude": 30.2316417,
+    "longitude": -88.0175282,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9902410368,
+    "name": "Boat Ramp",
+    "latitude": 31.277772,
+    "longitude": -86.5689799,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9902904805,
+    "name": "Boat Ramp",
+    "latitude": 34.451361,
+    "longitude": -86.3344212,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9902934025,
+    "name": "TVA Public Boat Ramp",
+    "latitude": 34.4509181,
+    "longitude": -86.3334909,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "TVA Public Boat Ramp"
+    }
+  },
+  {
+    "id": 9902934058,
+    "name": "Boat Ramp",
+    "latitude": 34.4499655,
+    "longitude": -86.3349647,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9937724476,
+    "name": "Boat Ramp",
+    "latitude": 31.6314954,
+    "longitude": -85.0991076,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9946212089,
+    "name": "Boat Ramp",
+    "latitude": 34.63609,
+    "longitude": -86.0161301,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9989548030,
+    "name": "Boat Ramp",
+    "latitude": 34.5149993,
+    "longitude": -86.1085326,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10054826861,
+    "name": "Boat Ramp",
+    "latitude": 34.5411065,
+    "longitude": -84.900932,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10054826874,
+    "name": "Boat Ramp",
+    "latitude": 34.5413477,
+    "longitude": -84.9010817,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10102038289,
+    "name": "Boat Ramp",
+    "latitude": 30.4196436,
+    "longitude": -87.1936585,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10115579636,
+    "name": "Boat Ramp",
+    "latitude": 30.2809474,
+    "longitude": -87.6673196,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10115605345,
+    "name": "Boat Ramp",
+    "latitude": 30.3088125,
+    "longitude": -87.7299141,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10115605888,
+    "name": "Boat Ramp",
+    "latitude": 30.2844788,
+    "longitude": -87.7339533,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10115777561,
+    "name": "Boat Ramp",
+    "latitude": 30.3229699,
+    "longitude": -87.7014653,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10169413843,
+    "name": "Morrison Springs Boat Ramp",
+    "latitude": 30.6568006,
+    "longitude": -85.9030316,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Morrison Springs Boat Ramp"
+    }
+  },
+  {
+    "id": 10170534369,
+    "name": "Boat Ramp",
+    "latitude": 34.4760104,
+    "longitude": -85.0302689,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10270261312,
+    "name": "Boat Ramp",
+    "latitude": 32.7404779,
+    "longitude": -85.1139753,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10282421579,
+    "name": "Boat Ramp",
+    "latitude": 30.6863603,
+    "longitude": -88.0124019,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10282421580,
+    "name": "Boat Ramp",
+    "latitude": 30.6872124,
+    "longitude": -88.0137663,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10737458887,
+    "name": "Boat Ramp",
+    "latitude": 30.774956,
+    "longitude": -86.17175,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 10771580806,
+    "name": "Boat Ramp",
+    "latitude": 33.5972859,
+    "longitude": -85.0607046,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10881754050,
+    "name": "Boat Ramp",
+    "latitude": 30.3765929,
+    "longitude": -87.8371063,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10881754051,
+    "name": "Boat Ramp",
+    "latitude": 30.3765304,
+    "longitude": -87.8370944,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10915034795,
+    "name": "Boat Ramp",
+    "latitude": 33.5246214,
+    "longitude": -86.4694073,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11002574919,
+    "name": "Boat Ramp",
+    "latitude": 33.990499,
+    "longitude": -86.0033024,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "customers",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11035914854,
+    "name": "Boat Ramp",
+    "latitude": 33.0577008,
+    "longitude": -85.1209544,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11037819958,
+    "name": "Boat Ramp",
+    "latitude": 33.5567828,
+    "longitude": -87.1815244,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 11037819959,
+    "name": "Boat Ramp",
+    "latitude": 33.5267144,
+    "longitude": -87.2718396,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11037819961,
+    "name": "Boat Ramp",
+    "latitude": 33.5568568,
+    "longitude": -87.1843862,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 11037819964,
+    "name": "Boat Ramp",
+    "latitude": 33.816036,
+    "longitude": -87.05766,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 11037819966,
+    "name": "Boat Ramp",
+    "latitude": 33.5329682,
+    "longitude": -87.2277736,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 11037819968,
+    "name": "Boat Ramp",
+    "latitude": 33.5598676,
+    "longitude": -87.1781259,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 11043919764,
+    "name": "Boat Ramp",
+    "latitude": 32.9870696,
+    "longitude": -85.1853592,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11044477660,
+    "name": "Boat Ramp",
+    "latitude": 33.3774561,
+    "longitude": -86.6966577,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11067492727,
+    "name": "Upper Bryant Landing",
+    "latitude": 31.0443108,
+    "longitude": -87.8763582,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Upper Bryant Landing"
+    }
+  },
+  {
+    "id": 11067492730,
+    "name": "Hubbard Landing",
+    "latitude": 31.0638923,
+    "longitude": -87.8700584,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Hubbard Landing"
+    }
+  },
+  {
+    "id": 11067800736,
+    "name": "Boat Ramp",
+    "latitude": 31.7487851,
+    "longitude": -85.0554083,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11067800737,
+    "name": "Boat Ramp",
+    "latitude": 31.7335307,
+    "longitude": -85.0811185,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11074156203,
+    "name": "RedRock Landing",
+    "latitude": 30.7854051,
+    "longitude": -86.8912622,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "description": "Kayaks alone can travel against swift current (3 to 5 MPH at normal stage). Very long trip, over7 miles. Start early, bring food, and arrange return trip.  Red cliffs, sandbars, giant trees, & swimming in surprisingly cool, refreshing wasters.",
+      "fee": "no",
+      "fixme": "add tags for tubes and \"  Rules = No glass allowed!\"",
+      "kayak": "yes",
+      "leisure": "slipway",
+      "name": "RedRock Landing",
+      "surface": "sand"
+    }
+  },
+  {
+    "id": 11074156204,
+    "name": "Juniper Landing",
+    "latitude": 30.7272588,
+    "longitude": -86.8995,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "depth": "1.5 m",
+      "description": "Shallow water. Mostly a recovery spot for Tubes, Kayaks and Canoes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Juniper Landing",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 11139539280,
+    "name": "Brush Creek Boat Launch",
+    "latitude": 34.9014122,
+    "longitude": -87.992956,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Brush Creek Boat Launch"
+    }
+  },
+  {
+    "id": 11282303192,
+    "name": "Boat Ramp",
+    "latitude": 33.1020376,
+    "longitude": -85.1215266,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11282313930,
+    "name": "Boat Ramp",
+    "latitude": 33.1287351,
+    "longitude": -85.095741,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11282322759,
+    "name": "Boat Ramp",
+    "latitude": 33.0623819,
+    "longitude": -85.1605441,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11282348303,
+    "name": "Boat Ramp",
+    "latitude": 33.2035131,
+    "longitude": -85.0817925,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11430344077,
+    "name": "Tilley Landing",
+    "latitude": 30.5603186,
+    "longitude": -85.8970396,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Tilley Landing"
+    }
+  },
+  {
+    "id": 11433590945,
+    "name": "East Pittman Creek Landing",
+    "latitude": 30.947647,
+    "longitude": -85.843201,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "East Pittman Creek Landing"
+    }
+  },
+  {
+    "id": 11433590946,
+    "name": "Curry Ferry Boat Ramp",
+    "latitude": 30.9187684,
+    "longitude": -85.8516741,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Curry Ferry Boat Ramp"
+    }
+  },
+  {
+    "id": 11433590950,
+    "name": "Ward Landing",
+    "latitude": 30.8023367,
+    "longitude": -85.8284341,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Ward Landing"
+    }
+  },
+  {
+    "id": 11479300134,
+    "name": "High Point Landing",
+    "latitude": 30.2936488,
+    "longitude": -85.5831087,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "High Point Landing",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 11586011383,
+    "name": "Burnt Sock Landing",
+    "latitude": 30.6690506,
+    "longitude": -85.6623074,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Burnt Sock Landing"
+    }
+  },
+  {
+    "id": 11586011426,
+    "name": "Fanning Branch Park Public Boat Ramp",
+    "latitude": 30.6067686,
+    "longitude": -85.7470726,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Fanning Branch Park Public Boat Ramp"
+    }
+  },
+  {
+    "id": 11586011445,
+    "name": "Millers Ferry Bridge Pay Boat Ramp",
+    "latitude": 30.5720462,
+    "longitude": -85.8441317,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Millers Ferry Bridge Pay Boat Ramp"
+    }
+  },
+  {
+    "id": 11669778825,
+    "name": "Boat Ramp",
+    "latitude": 34.1779623,
+    "longitude": -86.6865777,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11676107315,
+    "name": "Boat Ramp",
+    "latitude": 30.5819852,
+    "longitude": -84.9651881,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 11676164191,
+    "name": "Boat Ramp",
+    "latitude": 32.3046315,
+    "longitude": -84.9572594,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11676164192,
+    "name": "Boat Ramp",
+    "latitude": 32.3046882,
+    "longitude": -84.957297,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11676164206,
+    "name": "Boat Ramp",
+    "latitude": 32.4610137,
+    "longitude": -84.9966316,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "fixme": "access?",
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 11764641481,
+    "name": "Boat Ramp",
+    "latitude": 32.7373442,
+    "longitude": -85.8549307,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11764650913,
+    "name": "Kowaliga Boat Ramp",
+    "latitude": 32.7437572,
+    "longitude": -85.9613363,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Kowaliga Boat Ramp",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 11833805667,
+    "name": "Boat Ramp",
+    "latitude": 33.3082321,
+    "longitude": -87.4770265,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11842534524,
+    "name": "Maple View (Nickajack)",
+    "latitude": 34.993305,
+    "longitude": -85.6126452,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "boat": "yes",
+      "canoe": "put_in",
+      "fee": "no",
+      "leisure": "slipway",
+      "motorboat": "yes",
+      "name": "Maple View (Nickajack)"
+    }
+  },
+  {
+    "id": 11842534560,
+    "name": "Macedonia Church (Cole City Creek)",
+    "latitude": 34.991367,
+    "longitude": -85.5978217,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "boat": "yes",
+      "canoe": "put_in",
+      "fee": "no",
+      "leisure": "slipway",
+      "motorboat": "yes",
+      "name": "Macedonia Church (Cole City Creek)"
+    }
+  },
+  {
+    "id": 11842602778,
+    "name": "Nickajack Powerhouse",
+    "latitude": 34.9971974,
+    "longitude": -85.6191459,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "canoe": "put_in",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Nickajack Powerhouse"
+    }
+  },
+  {
+    "id": 11853764898,
+    "name": "Co Rd 491 Hunter Point (Coon Creek)",
+    "latitude": 34.7520612,
+    "longitude": -85.8364077,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "boat": "yes",
+      "canoe": "put_in",
+      "fee": "no",
+      "leisure": "slipway",
+      "motorboat": "yes",
+      "name": "Co Rd 491 Hunter Point (Coon Creek)"
+    }
+  },
+  {
+    "id": 11853764908,
+    "name": "Hwy 45 (Crow Creek)",
+    "latitude": 34.8610402,
+    "longitude": -85.8519309,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "boat": "yes",
+      "canoe": "put_in",
+      "fee": "no",
+      "leisure": "slipway",
+      "motorboat": "yes",
+      "name": "Hwy 45 (Crow Creek)"
+    }
+  },
+  {
+    "id": 11950975280,
+    "name": "Boat Ramp",
+    "latitude": 30.2550818,
+    "longitude": -87.715749,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11951408516,
+    "name": "Boat Ramp",
+    "latitude": 33.4646715,
+    "longitude": -86.3216912,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11972213136,
+    "name": "Boat Ramp",
+    "latitude": 30.9565327,
+    "longitude": -87.874057,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11992654704,
+    "name": "Boat Ramp",
+    "latitude": 33.4300885,
+    "longitude": -85.0121625,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11992667333,
+    "name": "Boat Ramp",
+    "latitude": 33.0281213,
+    "longitude": -85.1734398,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11992668139,
+    "name": "Boat Ramp",
+    "latitude": 33.0262216,
+    "longitude": -85.1600131,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11992668503,
+    "name": "Boat Ramp",
+    "latitude": 33.4371324,
+    "longitude": -85.0296558,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12007259203,
+    "name": "Boat Ramp",
+    "latitude": 30.8549547,
+    "longitude": -88.0401758,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12066674087,
+    "name": "Boat Ramp",
+    "latitude": 33.9981137,
+    "longitude": -86.7463325,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12142291422,
+    "name": "Boat Ramp",
+    "latitude": 30.7820799,
+    "longitude": -88.0731774,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12142291423,
+    "name": "Boat Ramp",
+    "latitude": 30.7820168,
+    "longitude": -88.0731234,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12142408656,
+    "name": "Boat Ramp",
+    "latitude": 30.7852444,
+    "longitude": -88.1029781,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12142408657,
+    "name": "Boat Ramp",
+    "latitude": 30.7852766,
+    "longitude": -88.1029113,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12209083144,
+    "name": "Boat Ramp",
+    "latitude": 30.4448803,
+    "longitude": -88.1140733,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12292179322,
+    "name": "Boat Ramp",
+    "latitude": 33.0464218,
+    "longitude": -85.2210078,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12338058024,
+    "name": "Halls Mill Creek Landing",
+    "latitude": 30.6040541,
+    "longitude": -88.1249318,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Halls Mill Creek Landing"
+    }
+  },
+  {
+    "id": 12392062209,
+    "name": "Boat Ramp",
+    "latitude": 34.631184,
+    "longitude": -86.4926275,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12547000198,
+    "name": "Mt. Vernon Waterfront Park Boat Ramp",
+    "latitude": 31.0878978,
+    "longitude": -87.9784102,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mt. Vernon Waterfront Park Boat Ramp"
+    }
+  },
+  {
+    "id": 12677708644,
+    "name": "Boat Ramp",
+    "latitude": 33.8999695,
+    "longitude": -86.4024565,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12677772949,
+    "name": "Boat Ramp",
+    "latitude": 33.9032185,
+    "longitude": -86.4068883,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12677792785,
+    "name": "Boat Ramp",
+    "latitude": 33.8944915,
+    "longitude": -86.4111601,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12700605273,
+    "name": "Boat Ramp",
+    "latitude": 33.7622963,
+    "longitude": -86.6169967,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12856087924,
+    "name": "Boat Ramp",
+    "latitude": 33.7669715,
+    "longitude": -86.0421899,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12856087975,
+    "name": "Boat Ramp",
+    "latitude": 33.7623396,
+    "longitude": -86.0436851,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12856133686,
+    "name": "Boat Ramp",
+    "latitude": 33.6832582,
+    "longitude": -86.2089001,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12856144018,
+    "name": "Boat Ramp",
+    "latitude": 33.6820513,
+    "longitude": -86.2126493,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12856167986,
+    "name": "Boat Ramp",
+    "latitude": 33.5986151,
+    "longitude": -86.1997708,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12856172602,
+    "name": "Boat Ramp",
+    "latitude": 33.614429,
+    "longitude": -86.1735513,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12856298993,
+    "name": "Boat Ramp",
+    "latitude": 34.1931174,
+    "longitude": -85.721016,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12856312965,
+    "name": "Boat Ramp",
+    "latitude": 34.1993716,
+    "longitude": -85.7339556,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12857331467,
+    "name": "Boat Ramp",
+    "latitude": 34.1883823,
+    "longitude": -85.7060152,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12857331468,
+    "name": "Boat Ramp",
+    "latitude": 34.1967895,
+    "longitude": -85.6960914,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12857414815,
+    "name": "Boat Ramp",
+    "latitude": 34.1766807,
+    "longitude": -85.7201031,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12857444248,
+    "name": "Boat Ramp",
+    "latitude": 34.1574393,
+    "longitude": -85.6028422,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12857445391,
+    "name": "Boat Ramp",
+    "latitude": 34.1772261,
+    "longitude": -85.6177436,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12857476304,
+    "name": "Boat Ramp",
+    "latitude": 34.1850468,
+    "longitude": -85.6662582,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12857488973,
+    "name": "Boat Ramp",
+    "latitude": 34.1935045,
+    "longitude": -85.6429494,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12857488983,
+    "name": "Boat Ramp",
+    "latitude": 34.1924495,
+    "longitude": -85.641601,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12857507222,
+    "name": "Boat Ramp",
+    "latitude": 34.145832,
+    "longitude": -85.5986384,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12857507243,
+    "name": "Boat Ramp",
+    "latitude": 34.1764684,
+    "longitude": -85.5751322,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12857522170,
+    "name": "Boat Ramp",
+    "latitude": 34.171948,
+    "longitude": -85.5814263,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12857530934,
+    "name": "Boat Ramp",
+    "latitude": 34.1309814,
+    "longitude": -85.5853981,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12857530943,
+    "name": "Boat Ramp",
+    "latitude": 34.1430342,
+    "longitude": -85.5715742,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12857558081,
+    "name": "Boat Ramp",
+    "latitude": 34.1748777,
+    "longitude": -85.475318,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12857610127,
+    "name": "Boat Ramp",
+    "latitude": 34.3651827,
+    "longitude": -85.3076325,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12857610128,
+    "name": "Boat Ramp",
+    "latitude": 34.3680336,
+    "longitude": -85.3025923,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12858114625,
+    "name": "Boat Ramp",
+    "latitude": 34.3418935,
+    "longitude": -85.3280117,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12858320872,
+    "name": "Boat Ramp",
+    "latitude": 34.2041565,
+    "longitude": -85.4768151,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12858349354,
+    "name": "Boat Ramp",
+    "latitude": 34.215697,
+    "longitude": -85.5149646,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12858423155,
+    "name": "Boat Ramp",
+    "latitude": 34.2002863,
+    "longitude": -85.4976562,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12901956284,
+    "name": "Boat Ramp",
+    "latitude": 32.9530265,
+    "longitude": -85.155927,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13019451590,
+    "name": "Boat Ramp",
+    "latitude": 34.1009489,
+    "longitude": -86.4385886,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13019936370,
+    "name": "Boat Ramp",
+    "latitude": 32.8099303,
+    "longitude": -85.1665295,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 13479481608,
+    "name": "Byrnes Lake Landing",
+    "latitude": 30.7928951,
+    "longitude": -87.899947,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Byrnes Lake Landing",
+      "operator": "Baldwin County Parks System"
+    }
+  },
+  {
+    "id": 13505917983,
+    "name": "Boat Ramp",
+    "latitude": 30.2881303,
+    "longitude": -87.4923544,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13685476735,
+    "name": "Boat Ramp",
+    "latitude": 32.8329094,
+    "longitude": -88.1431226,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 13687592991,
+    "name": "Boat Ramp",
+    "latitude": 32.5417725,
+    "longitude": -86.2024564,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13687593153,
+    "name": "Boat Ramp",
+    "latitude": 32.6146416,
+    "longitude": -86.2537595,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13687593227,
+    "name": "Boat Ramp",
+    "latitude": 32.6304243,
+    "longitude": -86.2658641,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6269088,
+    "name": "Boat Ramp",
+    "latitude": 34.2226087,
+    "longitude": -85.7162336,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 199056046,
+    "name": "Boat Ramp",
+    "latitude": 33.7114672,
+    "longitude": -86.5665469,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 199391906,
+    "name": "Boat Ramp",
+    "latitude": 33.6766042,
+    "longitude": -86.5588398,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 220938512,
+    "name": "Boat Ramp",
+    "latitude": 30.2512323,
+    "longitude": -88.0796823,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 220938513,
+    "name": "Boat Ramp",
+    "latitude": 30.2513497,
+    "longitude": -88.0795266,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 220962477,
+    "name": "Boat Ramp",
+    "latitude": 30.251624,
+    "longitude": -88.0818588,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 220962478,
+    "name": "Boat Ramp",
+    "latitude": 30.2516172,
+    "longitude": -88.0817694,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 220962479,
+    "name": "Boat Ramp",
+    "latitude": 30.2516056,
+    "longitude": -88.0816851,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 220962480,
+    "name": "Boat Ramp",
+    "latitude": 30.2516026,
+    "longitude": -88.0816014,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 220962481,
+    "name": "Boat Ramp",
+    "latitude": 30.2515848,
+    "longitude": -88.0815185,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 242304784,
+    "name": "Boat Ramp",
+    "latitude": 30.351403,
+    "longitude": -87.1744456,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "bing",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 242304785,
+    "name": "Boat Ramp",
+    "latitude": 30.3513891,
+    "longitude": -87.1745607,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "bing",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 281479179,
+    "name": "Boat Launch",
+    "latitude": 30.4252077,
+    "longitude": -86.6092778,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Launch"
+    }
+  },
+  {
+    "id": 281479231,
+    "name": "Boat Launch",
+    "latitude": 30.4251911,
+    "longitude": -86.6093255,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Launch"
+    }
+  },
+  {
+    "id": 290626097,
+    "name": "Boat Ramp",
+    "latitude": 30.419643,
+    "longitude": -87.1936708,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "Mapbox",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 291706349,
+    "name": "Boat Ramp",
+    "latitude": 30.4000083,
+    "longitude": -87.2378111,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "source": "Mapbox",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 309335750,
+    "name": "Boat Ramp",
+    "latitude": 33.0128536,
+    "longitude": -85.2070572,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 336680278,
+    "name": "Boat Ramp",
+    "latitude": 31.4696146,
+    "longitude": -84.9326722,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 361476377,
+    "name": "Boat Ramp",
+    "latitude": 30.5642653,
+    "longitude": -88.088962,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 361476378,
+    "name": "Boat Ramp",
+    "latitude": 30.563029,
+    "longitude": -88.0905038,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 384881072,
+    "name": "Boat Ramp",
+    "latitude": 33.3696854,
+    "longitude": -86.3542842,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 388360819,
+    "name": "Boat Ramp",
+    "latitude": 32.3160604,
+    "longitude": -87.0973101,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 403708383,
+    "name": "Chipola River Sink Boat Launch",
+    "latitude": 30.8164255,
+    "longitude": -85.2340618,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Chipola River Sink Boat Launch"
+    }
+  },
+  {
+    "id": 404487621,
+    "name": "Boat Ramp",
+    "latitude": 30.7930724,
+    "longitude": -85.2224107,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 404628013,
+    "name": "Boat Ramp",
+    "latitude": 31.6718283,
+    "longitude": -85.0627046,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 405127145,
+    "name": "Boat Ramp",
+    "latitude": 32.1860757,
+    "longitude": -85.011362,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 405165024,
+    "name": "Boat Ramp",
+    "latitude": 31.8063951,
+    "longitude": -85.1231389,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 405179006,
+    "name": "Boat Ramp",
+    "latitude": 31.6676212,
+    "longitude": -85.0568822,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 405639316,
+    "name": "Boat Launch",
+    "latitude": 31.6411675,
+    "longitude": -85.1050249,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Launch"
+    }
+  },
+  {
+    "id": 422550543,
+    "name": "Boat Ramp",
+    "latitude": 31.8318579,
+    "longitude": -85.1635818,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 434935554,
+    "name": "Boat Ramp",
+    "latitude": 32.9819554,
+    "longitude": -85.2123337,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 441629214,
+    "name": "Round Island Creek Boat Ramp",
+    "latitude": 34.6848236,
+    "longitude": -87.0712246,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Round Island Creek Boat Ramp"
+    }
+  },
+  {
+    "id": 458122416,
+    "name": "Boat Ramp",
+    "latitude": 34.5767442,
+    "longitude": -86.5592545,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 458122417,
+    "name": "Madison County Boat Harbor Boat Ramp",
+    "latitude": 34.5652931,
+    "longitude": -86.5480064,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Madison County Boat Harbor Boat Ramp"
+    }
+  },
+  {
+    "id": 477340403,
+    "name": "Boat Ramp",
+    "latitude": 34.7165878,
+    "longitude": -86.6715058,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 478366564,
+    "name": "Boat Ramp",
+    "latitude": 30.4164766,
+    "longitude": -87.9087229,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 478716875,
+    "name": "Boat Ramp",
+    "latitude": 34.5766692,
+    "longitude": -86.5593506,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 478716876,
+    "name": "Boat Ramp",
+    "latitude": 34.5766063,
+    "longitude": -86.5594339,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 478716877,
+    "name": "Boat Ramp",
+    "latitude": 34.576818,
+    "longitude": -86.5591786,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 478785839,
+    "name": "Boat Ramp",
+    "latitude": 30.5179192,
+    "longitude": -87.9157517,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 478785840,
+    "name": "Boat Ramp",
+    "latitude": 30.5178855,
+    "longitude": -87.9157694,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 479185302,
+    "name": "Boat Ramp",
+    "latitude": 30.3847859,
+    "longitude": -87.7989807,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 479185304,
+    "name": "Boat Ramp",
+    "latitude": 30.3765727,
+    "longitude": -87.8371499,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 479185305,
+    "name": "Boat Ramp",
+    "latitude": 30.3765389,
+    "longitude": -87.8371439,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 479226771,
+    "name": "Boat Ramp",
+    "latitude": 30.4159493,
+    "longitude": -87.8257977,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 479226772,
+    "name": "Boat Ramp",
+    "latitude": 30.4159638,
+    "longitude": -87.8257612,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 479226773,
+    "name": "Fish River Boat Launch",
+    "latitude": 30.4159084,
+    "longitude": -87.8257505,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Fish River boat launch",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 479645459,
+    "name": "Boat Ramp",
+    "latitude": 34.7025579,
+    "longitude": -86.5963201,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 479645460,
+    "name": "Boat Ramp",
+    "latitude": 34.7024226,
+    "longitude": -86.5963277,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 491284442,
+    "name": "Boat Ramp",
+    "latitude": 30.2500897,
+    "longitude": -88.0764931,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 511471687,
+    "name": "Boat Ramp",
+    "latitude": 31.9803699,
+    "longitude": -85.1068661,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 511471689,
+    "name": "Boat Ramp",
+    "latitude": 31.985461,
+    "longitude": -85.1125925,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 511471706,
+    "name": "Boat Ramp",
+    "latitude": 31.9182685,
+    "longitude": -85.1211534,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 511471709,
+    "name": "Boat Ramp",
+    "latitude": 31.8664857,
+    "longitude": -85.1593605,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 511516734,
+    "name": "Boat Ramp",
+    "latitude": 31.7336484,
+    "longitude": -85.081124,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 512104375,
+    "name": "Boat Ramp",
+    "latitude": 32.8545702,
+    "longitude": -85.9350479,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 512104377,
+    "name": "Boat Ramp",
+    "latitude": 32.8551684,
+    "longitude": -85.9357787,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 524239556,
+    "name": "Boat Ramp",
+    "latitude": 33.7855829,
+    "longitude": -86.0652932,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 534387710,
+    "name": "Boat Ramp",
+    "latitude": 30.5996337,
+    "longitude": -87.9140014,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 562294164,
+    "name": "Boat Launch",
+    "latitude": 30.3987528,
+    "longitude": -86.2289545,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Launch"
+    }
+  },
+  {
+    "id": 606602437,
+    "name": "Boat Ramp",
+    "latitude": 30.6271219,
+    "longitude": -87.033187,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 606602438,
+    "name": "Boat Ramp",
+    "latitude": 30.6271851,
+    "longitude": -87.0331331,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 672781188,
+    "name": "Boat Ramp",
+    "latitude": 33.072347,
+    "longitude": -85.1023926,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 686752687,
+    "name": "Boat Ramp",
+    "latitude": 32.9966327,
+    "longitude": -85.2285607,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 704085712,
+    "name": "Boat Ramp",
+    "latitude": 30.3930119,
+    "longitude": -86.9585176,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 715157790,
+    "name": "Liz'S Launch",
+    "latitude": 30.6871506,
+    "longitude": -88.0137955,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Liz's Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 715157794,
+    "name": "Boat Ramp",
+    "latitude": 30.6863336,
+    "longitude": -88.012425,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 715169737,
+    "name": "Boat Ramp",
+    "latitude": 30.6818094,
+    "longitude": -88.0049554,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 715169738,
+    "name": "Boat Ramp",
+    "latitude": 30.6818105,
+    "longitude": -88.0048741,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 715169754,
+    "name": "Boat Ramp",
+    "latitude": 30.6795985,
+    "longitude": -87.9938036,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 715169756,
+    "name": "Boat Ramp",
+    "latitude": 30.6793336,
+    "longitude": -87.9925051,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 715169757,
+    "name": "Boat Ramp",
+    "latitude": 30.67935,
+    "longitude": -87.9925818,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 715169758,
+    "name": "Boat Ramp",
+    "latitude": 30.6793634,
+    "longitude": -87.9926495,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 718236002,
+    "name": "Boat Ramp",
+    "latitude": 30.4106437,
+    "longitude": -86.5002106,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 758209013,
+    "name": "Boat Ramp",
+    "latitude": 31.413078,
+    "longitude": -86.062447,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 830292101,
+    "name": "U.S. Coast Guard - Aids To Navigation Team Eufala",
+    "latitude": 31.9083677,
+    "longitude": -85.1442679,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "U.S. Coast Guard - Aids to Navigation Team Eufala",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 830509054,
+    "name": "Boat Ramp",
+    "latitude": 30.3919371,
+    "longitude": -86.5262632,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 838430537,
+    "name": "Boat Ramp",
+    "latitude": 30.5825986,
+    "longitude": -88.0732679,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 838430539,
+    "name": "Boat Ramp",
+    "latitude": 30.5831719,
+    "longitude": -88.0761968,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 839195843,
+    "name": "Boat Ramp",
+    "latitude": 30.6286324,
+    "longitude": -88.102066,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 839195844,
+    "name": "Boat Ramp",
+    "latitude": 30.6285544,
+    "longitude": -88.1020433,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 839195845,
+    "name": "Boat Ramp",
+    "latitude": 30.6284819,
+    "longitude": -88.1020211,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 839195846,
+    "name": "Boat Ramp",
+    "latitude": 30.6283936,
+    "longitude": -88.1019983,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 857328551,
+    "name": "Boat Ramp",
+    "latitude": 30.9735688,
+    "longitude": -85.0062778,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 862890444,
+    "name": "Boat Ramp",
+    "latitude": 30.7480335,
+    "longitude": -84.9394314,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 863867659,
+    "name": "Boat Ramp",
+    "latitude": 30.7429717,
+    "longitude": -84.9210242,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 946118257,
+    "name": "Boat Ramp",
+    "latitude": 32.5971807,
+    "longitude": -85.8803207,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 979566645,
+    "name": "Boat Ramp",
+    "latitude": 30.6493643,
+    "longitude": -88.0587154,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 979801872,
+    "name": "Boat Ramp",
+    "latitude": 30.6807466,
+    "longitude": -88.0160987,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1039481231,
+    "name": "Boat Ramp",
+    "latitude": 34.5799619,
+    "longitude": -86.0800846,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1039481256,
+    "name": "Boat Ramp",
+    "latitude": 34.5797337,
+    "longitude": -86.0800497,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1039481262,
+    "name": "Boat Ramp",
+    "latitude": 34.5801126,
+    "longitude": -86.0825368,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1050563939,
+    "name": "Boat Ramp",
+    "latitude": 34.8400029,
+    "longitude": -85.8316437,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1050846900,
+    "name": "West Beach Main Boat Launch",
+    "latitude": 31.3902218,
+    "longitude": -85.7260276,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "West Beach Main Boat Launch"
+    }
+  },
+  {
+    "id": 1050847162,
+    "name": "Camp Grounds Boat Launch",
+    "latitude": 31.407139,
+    "longitude": -85.714382,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Camp Grounds Boat Launch"
+    }
+  },
+  {
+    "id": 1051035641,
+    "name": "Boat Ramp",
+    "latitude": 34.0101789,
+    "longitude": -85.9965929,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1051035642,
+    "name": "Boat Ramp",
+    "latitude": 34.0100761,
+    "longitude": -85.9966639,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1051150337,
+    "name": "Boat Ramp",
+    "latitude": 33.5456014,
+    "longitude": -86.2686394,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1051150339,
+    "name": "Boat Ramp",
+    "latitude": 33.5454911,
+    "longitude": -86.2684704,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1051597071,
+    "name": "Boat Ramp",
+    "latitude": 33.9940454,
+    "longitude": -86.0016078,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1055144825,
+    "name": "Boat Ramp",
+    "latitude": 32.8958094,
+    "longitude": -87.7807581,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1065368186,
+    "name": "Boat Ramp",
+    "latitude": 32.3672577,
+    "longitude": -84.9833668,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1066930329,
+    "name": "Boat Ramp",
+    "latitude": 31.1502762,
+    "longitude": -87.8684943,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1066930330,
+    "name": "Boat Ramp",
+    "latitude": 31.0158133,
+    "longitude": -87.879905,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1066930339,
+    "name": "Boat Ramp",
+    "latitude": 31.0441884,
+    "longitude": -87.8763986,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1066930341,
+    "name": "Boat Ramp",
+    "latitude": 31.0639202,
+    "longitude": -87.8699801,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1066930353,
+    "name": "Boat Ramp",
+    "latitude": 31.1769998,
+    "longitude": -87.8409799,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1067023848,
+    "name": "Boat Ramp",
+    "latitude": 34.3977674,
+    "longitude": -87.993418,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1067023855,
+    "name": "Boat Ramp",
+    "latitude": 34.3585346,
+    "longitude": -87.9005552,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1067023858,
+    "name": "Boat Ramp",
+    "latitude": 34.3175432,
+    "longitude": -87.8572519,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1067023860,
+    "name": "Boat Ramp",
+    "latitude": 34.2856962,
+    "longitude": -87.7747349,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1067023863,
+    "name": "Boat Ramp",
+    "latitude": 34.2666297,
+    "longitude": -87.7027225,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1067023867,
+    "name": "Boat Ramp",
+    "latitude": 34.271462,
+    "longitude": -87.6951739,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1067023883,
+    "name": "Boat Ramp",
+    "latitude": 34.2896751,
+    "longitude": -87.6285635,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1067023889,
+    "name": "Boat Ramp",
+    "latitude": 34.3462794,
+    "longitude": -87.6561843,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1067023908,
+    "name": "Boat Ramp",
+    "latitude": 34.4115399,
+    "longitude": -87.9092347,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1073390483,
+    "name": "Boat Ramp",
+    "latitude": 31.3438651,
+    "longitude": -85.6158583,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080975617,
+    "name": "Boat Ramp",
+    "latitude": 34.0840883,
+    "longitude": -86.9573041,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080976483,
+    "name": "Boat Ramp",
+    "latitude": 34.0867436,
+    "longitude": -86.9567531,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080977768,
+    "name": "Boat Ramp",
+    "latitude": 34.0808301,
+    "longitude": -86.9744642,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1084476485,
+    "name": "Boat Ramp",
+    "latitude": 31.6931172,
+    "longitude": -85.0856323,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1084477925,
+    "name": "Boat Ramp",
+    "latitude": 31.6315201,
+    "longitude": -85.0992942,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1084486680,
+    "name": "Boat Ramp",
+    "latitude": 31.7487813,
+    "longitude": -85.0552701,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1084488054,
+    "name": "Boat Ramp",
+    "latitude": 31.843143,
+    "longitude": -85.1227955,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1090625341,
+    "name": "Boat Ramp",
+    "latitude": 34.3805206,
+    "longitude": -86.2885577,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1090629551,
+    "name": "Boat Ramp",
+    "latitude": 34.5307101,
+    "longitude": -86.0884463,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1090630696,
+    "name": "Boat Ramp",
+    "latitude": 34.5225658,
+    "longitude": -86.0993878,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1099374934,
+    "name": "Boat Ramp",
+    "latitude": 30.9057669,
+    "longitude": -87.9792976,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1111557872,
+    "name": "Boat Ramp",
+    "latitude": 30.6567213,
+    "longitude": -85.903036,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1127359345,
+    "name": "Boat Ramp",
+    "latitude": 34.4761712,
+    "longitude": -85.030387,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1184571556,
+    "name": "Boat Ramp",
+    "latitude": 34.199933,
+    "longitude": -85.2577403,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1192190341,
+    "name": "Boat Ramp",
+    "latitude": 31.7745665,
+    "longitude": -85.1547513,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1192190342,
+    "name": "Boat Ramp",
+    "latitude": 31.7747063,
+    "longitude": -85.1544323,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1202443797,
+    "name": "Boat Ramp",
+    "latitude": 34.2518635,
+    "longitude": -85.3807731,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1246883352,
+    "name": "Boat Ramp",
+    "latitude": 30.250089,
+    "longitude": -88.0765345,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1265920652,
+    "name": "Boat Ramp",
+    "latitude": 32.7289083,
+    "longitude": -85.907834,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1266607578,
+    "name": "Kowaliga Boat Ramp",
+    "latitude": 32.7439704,
+    "longitude": -85.9611647,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Kowaliga Boat Ramp",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1266609001,
+    "name": "New Hope Baptist Church Boat Ramp",
+    "latitude": 32.8109768,
+    "longitude": -85.9175662,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "New Hope Baptist Church Boat Ramp",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1266609002,
+    "name": "Union Boat Ramp",
+    "latitude": 32.7372341,
+    "longitude": -85.8547284,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Union Boat Ramp",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1282702995,
+    "name": "Sharpes Landing",
+    "latitude": 33.2910628,
+    "longitude": -87.519497,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Sharpes Landing",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1293720106,
+    "name": "Boat Ramp",
+    "latitude": 33.072008,
+    "longitude": -85.1012229,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1293731930,
+    "name": "Boat Ramp",
+    "latitude": 33.0092189,
+    "longitude": -85.175448,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1293732242,
+    "name": "Boat Ramp",
+    "latitude": 33.0196211,
+    "longitude": -85.1558581,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1293734161,
+    "name": "Boat Ramp",
+    "latitude": 33.0072936,
+    "longitude": -85.1885791,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1293734167,
+    "name": "Boat Ramp",
+    "latitude": 33.0093668,
+    "longitude": -85.1916272,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1319978299,
+    "name": "Boat Ramp",
+    "latitude": 32.3128504,
+    "longitude": -86.8193695,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1371363763,
+    "name": "Boat Ramp",
+    "latitude": 33.7622763,
+    "longitude": -86.6170654,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1377290119,
+    "name": "Boat Ramp",
+    "latitude": 34.0102846,
+    "longitude": -85.9968279,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1377290120,
+    "name": "Boat Ramp",
+    "latitude": 34.0101764,
+    "longitude": -85.9968995,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1388999676,
+    "name": "Boat Ramp",
+    "latitude": 34.190549,
+    "longitude": -85.6314718,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1389075812,
+    "name": "Boat Ramp",
+    "latitude": 34.370076,
+    "longitude": -85.2695639,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1390496593,
+    "name": "Boat Ramp",
+    "latitude": 34.5755234,
+    "longitude": -85.8061967,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1458488164,
+    "name": "Boat Ramp",
+    "latitude": 33.5322765,
+    "longitude": -88.4991986,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1477346529,
+    "name": "Boat Ramp",
+    "latitude": 30.3186232,
+    "longitude": -87.5391739,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1478790377,
+    "name": "Boat Ramp",
+    "latitude": 33.2310007,
+    "longitude": -88.2947444,
+    "state": "Alabama",
+    "stateAbbr": "AL",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Pickens, AL",
+      "tiger:reviewed": "no"
+    }
+  }
+]

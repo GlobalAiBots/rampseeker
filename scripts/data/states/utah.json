@@ -1,0 +1,3545 @@
+[
+  {
+    "id": 82939545,
+    "name": "Boat Ramp",
+    "latitude": 40.8879145,
+    "longitude": -109.8496963,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 82953725,
+    "name": "Boat Ramp",
+    "latitude": 40.8628334,
+    "longitude": -109.8107373,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 82956415,
+    "name": "Sheep Creek",
+    "latitude": 40.923876,
+    "longitude": -109.6750421,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Sheep Creek"
+    }
+  },
+  {
+    "id": 83040582,
+    "name": "Boat Ramp",
+    "latitude": 40.1916118,
+    "longitude": -110.4558734,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 83337473,
+    "name": "Boat Ramp",
+    "latitude": 39.8741816,
+    "longitude": -111.8712704,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 83451899,
+    "name": "Boat Ramp",
+    "latitude": 40.9215175,
+    "longitude": -111.5914544,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 83778990,
+    "name": "Boat Ramp",
+    "latitude": 39.3537333,
+    "longitude": -111.946314,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 301052129,
+    "name": "Boat Ramp",
+    "latitude": 41.2212232,
+    "longitude": -112.1820802,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 301796383,
+    "name": "Boat Ramp",
+    "latitude": 41.2238138,
+    "longitude": -112.2232533,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 301935612,
+    "name": "Boat Ramp",
+    "latitude": 41.1873199,
+    "longitude": -112.1610413,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 301935613,
+    "name": "Boat Ramp",
+    "latitude": 41.217243,
+    "longitude": -112.1607887,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 301935616,
+    "name": "Boat Ramp",
+    "latitude": 41.2241215,
+    "longitude": -112.2238526,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 386267991,
+    "name": "Rainbow Park Boat Ramp",
+    "latitude": 40.4949288,
+    "longitude": -109.1735886,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "permit",
+      "boat": "permit",
+      "camping": "yes",
+      "canoe": "permit",
+      "leisure": "slipway",
+      "name": "Rainbow Park Boat Ramp",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 386268000,
+    "name": "Split Mountain Boat Ramp",
+    "latitude": 40.4455453,
+    "longitude": -109.2524473,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "permit",
+      "boat": "permit",
+      "camping": "yes",
+      "canoe": "permit",
+      "description": "Permit is required for both upstream and downstream travel.",
+      "leisure": "slipway",
+      "name": "Split Mountain Boat Ramp"
+    }
+  },
+  {
+    "id": 423005450,
+    "name": "RC Park Boat Ramp",
+    "latitude": 40.361825,
+    "longitude": -111.8991447,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "RC Park Boat Ramp",
+      "parking": "yes",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 483857160,
+    "name": "North Jordan Canal Diversion Dam Downstream Access",
+    "latitude": 40.5805527,
+    "longitude": -111.9191383,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "canoe": "designated",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "North Jordan Canal Diversion Dam Downstream Access",
+      "parking": "no",
+      "surface": "concrete",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 483871846,
+    "name": "7800 South Access",
+    "latitude": 40.6084162,
+    "longitude": -111.9209715,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "canoe": "designated",
+      "informal": "no",
+      "leisure": "slipway",
+      "name": "7800 South Access",
+      "parking": "yes",
+      "surface": "concrete",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 483882040,
+    "name": "Boat Ramp",
+    "latitude": 40.6133229,
+    "longitude": -111.920324,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "canoe": "designated",
+      "leisure": "slipway",
+      "surface": "concrete",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 485547915,
+    "name": "Boat Ramp",
+    "latitude": 40.4440604,
+    "longitude": -111.4797185,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 485566079,
+    "name": "Boat Ramp",
+    "latitude": 40.6236578,
+    "longitude": -111.418707,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 538738810,
+    "name": "Boat Ramp",
+    "latitude": 41.2686395,
+    "longitude": -111.8185983,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 575884960,
+    "name": "Boat Ramp",
+    "latitude": 37.4642471,
+    "longitude": -110.7175884,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 587850339,
+    "name": "Onion Creek",
+    "latitude": 38.7375013,
+    "longitude": -109.3612576,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Onion Creek"
+    }
+  },
+  {
+    "id": 587857660,
+    "name": "Boat Ramp",
+    "latitude": 38.5762407,
+    "longitude": -109.634922,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1070397040,
+    "name": "Boat Ramp",
+    "latitude": 40.1772634,
+    "longitude": -111.1555601,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Yahoo"
+    }
+  },
+  {
+    "id": 1071483415,
+    "name": "Boat Ramp",
+    "latitude": 40.1568134,
+    "longitude": -111.0495184,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Yahoo"
+    }
+  },
+  {
+    "id": 1071483648,
+    "name": "Boat Ramp",
+    "latitude": 40.1282242,
+    "longitude": -111.0358726,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1072097449,
+    "name": "Boat Ramp",
+    "latitude": 40.1244289,
+    "longitude": -111.1523391,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Yahoo"
+    }
+  },
+  {
+    "id": 1081310312,
+    "name": "Boat Ramp",
+    "latitude": 41.4977744,
+    "longitude": -111.9269307,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1183478828,
+    "name": "Anvil Draw",
+    "latitude": 41.0755169,
+    "longitude": -109.5624525,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "ele": "1843",
+      "leisure": "slipway",
+      "name": "Anvil Draw",
+      "source": "collected by Volker Bartheld, converted and imported by malenki"
+    }
+  },
+  {
+    "id": 1249589549,
+    "name": "Boat Ramp",
+    "latitude": 37.004557,
+    "longitude": -111.4964082,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1329679048,
+    "name": "Sand Island Boat Launch",
+    "latitude": 37.261546,
+    "longitude": -109.6123613,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "permit",
+      "canoe": "permit",
+      "leisure": "slipway",
+      "name": "Sand Island Boat Launch"
+    }
+  },
+  {
+    "id": 1347577844,
+    "name": "Dewey Bridge Boat Ramp",
+    "latitude": 38.8113317,
+    "longitude": -109.3081741,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "description": "https://www.blm.gov/visit/dewey-bridge-group-sites",
+      "leisure": "slipway",
+      "name": "Dewey Bridge Boat Ramp"
+    }
+  },
+  {
+    "id": 1361116633,
+    "name": "Scofield Reservoir Boat Launch",
+    "latitude": 39.7895411,
+    "longitude": -111.1293168,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Scofield Reservoir Boat Launch",
+      "note": "https://stateparks.utah.gov/parks/scofield/ \n\nhttps://stateparks.utah.gov/parks/scofield/map/",
+      "seamark:small_craft_facility:category": "slipway"
+    }
+  },
+  {
+    "id": 1381968045,
+    "name": "Boat Ramp",
+    "latitude": 40.9622858,
+    "longitude": -110.3877956,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1390824817,
+    "name": "Boat Ramp",
+    "latitude": 37.7095006,
+    "longitude": -112.6364117,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1391219152,
+    "name": "Boat Ramp",
+    "latitude": 38.3193869,
+    "longitude": -112.1959372,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1577636901,
+    "name": "Bridge Hollow Boat Ramp",
+    "latitude": 40.8986952,
+    "longitude": -109.1724865,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Bridge Hollow Boat Ramp"
+    }
+  },
+  {
+    "id": 1577638856,
+    "name": "Indian Crossing Boat Ramp",
+    "latitude": 40.8969192,
+    "longitude": -109.185404,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Indian Crossing Boat Ramp"
+    }
+  },
+  {
+    "id": 1595820081,
+    "name": "Bridgeport",
+    "latitude": 40.9022179,
+    "longitude": -109.1494795,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Bridgeport"
+    }
+  },
+  {
+    "id": 1595852014,
+    "name": "Pipeline Crossing",
+    "latitude": 40.8642016,
+    "longitude": -109.139691,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Pipeline Crossing"
+    }
+  },
+  {
+    "id": 1685205110,
+    "name": "Boat Ramp",
+    "latitude": 41.5042308,
+    "longitude": -109.4454287,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1722813288,
+    "name": "Boat Ramp",
+    "latitude": 37.1925183,
+    "longitude": -113.3900104,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1745670664,
+    "name": "Mexican Hat Access",
+    "latitude": 37.1471112,
+    "longitude": -109.8537407,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "permit",
+      "canoe": "permit",
+      "leisure": "slipway",
+      "name": "Mexican Hat Access",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 1808733565,
+    "name": "Boat Ramp",
+    "latitude": 40.4157377,
+    "longitude": -111.507928,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1844923669,
+    "name": "Boat Ramp",
+    "latitude": 37.2536697,
+    "longitude": -113.7738398,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2008579213,
+    "name": "Boat Ramp",
+    "latitude": 37.0069012,
+    "longitude": -111.5032484,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2017270313,
+    "name": "Boat Ramp",
+    "latitude": 40.2387949,
+    "longitude": -111.7371183,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2084536496,
+    "name": "Boat Ramp",
+    "latitude": 38.5037015,
+    "longitude": -111.5655127,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "website": "https://www.fs.usda.gov/recarea/fishlake/recarea/?recid=12211"
+    }
+  },
+  {
+    "id": 2101245212,
+    "name": "Boat Ramp",
+    "latitude": 40.9126371,
+    "longitude": -109.4476459,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2101262597,
+    "name": "Boat Ramp",
+    "latitude": 40.89854,
+    "longitude": -109.4690821,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2117482655,
+    "name": "Boat Ramp",
+    "latitude": 40.2945275,
+    "longitude": -109.8842453,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2202679279,
+    "name": "Boat Ramp",
+    "latitude": 38.4853652,
+    "longitude": -109.6805438,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2212573768,
+    "name": "Boat Ramp",
+    "latitude": 40.9086388,
+    "longitude": -109.4224583,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 2308566401,
+    "name": "Boat Ramp",
+    "latitude": 37.5134872,
+    "longitude": -110.7318599,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "note": "slipway may be closed to low lake levels"
+    }
+  },
+  {
+    "id": 2396275568,
+    "name": "Boat Ramp",
+    "latitude": 40.4162261,
+    "longitude": -111.7815134,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2403580346,
+    "name": "Little Hole Boat Ramp (West)",
+    "latitude": 40.9106395,
+    "longitude": -109.3152107,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Little Hole Boat Ramp (west)"
+    }
+  },
+  {
+    "id": 2403580367,
+    "name": "Boat Ramp",
+    "latitude": 40.9108864,
+    "longitude": -109.3110909,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2590802922,
+    "name": "Little Hole Boat Ramp (East)",
+    "latitude": 40.9105972,
+    "longitude": -109.3145906,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Little Hole Boat Ramp (east)"
+    }
+  },
+  {
+    "id": 2598866273,
+    "name": "Boat Ramp",
+    "latitude": 40.585661,
+    "longitude": -109.4410155,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2711469628,
+    "name": "Boat Ramp",
+    "latitude": 39.2918022,
+    "longitude": -111.2866476,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3055584220,
+    "name": "Boat Ramp",
+    "latitude": 40.3494254,
+    "longitude": -111.9033054,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3056162501,
+    "name": "Boat Ramp",
+    "latitude": 40.3426108,
+    "longitude": -111.8011184,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3344849941,
+    "name": "Personal Watercraft Take-Out",
+    "latitude": 39.0811576,
+    "longitude": -110.666449,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Personal Watercraft Take-out"
+    }
+  },
+  {
+    "id": 3367029269,
+    "name": "Swasey Boat Ramp",
+    "latitude": 39.1123948,
+    "longitude": -110.109088,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Swasey Boat Ramp",
+      "parking": "yes",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 3368970286,
+    "name": "Boat Ramp",
+    "latitude": 38.9886895,
+    "longitude": -110.1503226,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3448790311,
+    "name": "Causey South Boat Launch",
+    "latitude": 41.2898522,
+    "longitude": -111.582965,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "description": "Launching point for kayaks, paddleboards and non-motorized watercraft",
+      "fee": "no",
+      "informal": "yes",
+      "leisure": "slipway",
+      "name": "Causey South Boat Launch"
+    }
+  },
+  {
+    "id": 3452715100,
+    "name": "Potash Boat Ramp",
+    "latitude": 38.5056338,
+    "longitude": -109.6591573,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Potash Boat Ramp"
+    }
+  },
+  {
+    "id": 3454199320,
+    "name": "Boat Ramp",
+    "latitude": 38.4728657,
+    "longitude": -109.6781523,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3454199329,
+    "name": "Boat Ramp",
+    "latitude": 38.4736727,
+    "longitude": -109.6784949,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3454199342,
+    "name": "Boat Ramp",
+    "latitude": 38.4755311,
+    "longitude": -109.6787157,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3454199351,
+    "name": "Boat Ramp",
+    "latitude": 38.4763173,
+    "longitude": -109.6791051,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3454199354,
+    "name": "Boat Ramp",
+    "latitude": 38.4766391,
+    "longitude": -109.6797831,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3454199357,
+    "name": "Boat Ramp",
+    "latitude": 38.4765229,
+    "longitude": -109.6826314,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3454199438,
+    "name": "Boat Ramp",
+    "latitude": 38.4810226,
+    "longitude": -109.6804518,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3454199467,
+    "name": "Boat Ramp",
+    "latitude": 38.486159,
+    "longitude": -109.6856061,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3454199485,
+    "name": "Boat Ramp",
+    "latitude": 38.4864504,
+    "longitude": -109.6866625,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3454199492,
+    "name": "Boat Ramp",
+    "latitude": 38.4873789,
+    "longitude": -109.6883265,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3454199500,
+    "name": "Boat Ramp",
+    "latitude": 38.4880139,
+    "longitude": -109.6896228,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3454199510,
+    "name": "Boat Ramp",
+    "latitude": 38.4885984,
+    "longitude": -109.6908358,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3454199526,
+    "name": "Boat Ramp",
+    "latitude": 38.4895504,
+    "longitude": -109.6923163,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3454199570,
+    "name": "Boat Ramp",
+    "latitude": 38.4926638,
+    "longitude": -109.6809687,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3454199597,
+    "name": "Boat Ramp",
+    "latitude": 38.4932466,
+    "longitude": -109.6808095,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3454199608,
+    "name": "Boat Ramp",
+    "latitude": 38.4949158,
+    "longitude": -109.6810206,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3454199616,
+    "name": "Boat Ramp",
+    "latitude": 38.496357,
+    "longitude": -109.6816013,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3466561328,
+    "name": "Boat Ramp",
+    "latitude": 41.9651865,
+    "longitude": -111.3984602,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3609764013,
+    "name": "Clay Hills Crossing Boat Ramp",
+    "latitude": 37.2933092,
+    "longitude": -110.3993182,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "canoe": "yes",
+      "canoe:upstream": "permit",
+      "leisure": "slipway",
+      "name": "Clay Hills Crossing Boat Ramp",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 3622581521,
+    "name": "Boat Ramp",
+    "latitude": 37.6673019,
+    "longitude": -109.4430445,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3622581526,
+    "name": "Boat Ramp",
+    "latitude": 37.6683212,
+    "longitude": -109.4376689,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3686736642,
+    "name": "Boat Ramp",
+    "latitude": 38.7601963,
+    "longitude": -109.3258161,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3699250964,
+    "name": "Labrynth Canyon",
+    "latitude": 38.9375171,
+    "longitude": -110.1356601,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Labrynth Canyon",
+      "surface": "ground",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 3709341782,
+    "name": "Cisco Landing",
+    "latitude": 38.9703489,
+    "longitude": -109.2503003,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Cisco Landing",
+      "parking": "yes",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 3709707210,
+    "name": "Westwater Boat Launch",
+    "latitude": 39.0866364,
+    "longitude": -109.1012399,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Westwater Boat Launch"
+    }
+  },
+  {
+    "id": 3869742966,
+    "name": "Boat Ramp",
+    "latitude": 41.2702555,
+    "longitude": -110.9521286,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3869742979,
+    "name": "Boat Ramp",
+    "latitude": 41.2703443,
+    "longitude": -110.9591222,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3869742982,
+    "name": "Boat Ramp",
+    "latitude": 41.2702031,
+    "longitude": -110.9568558,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3869742984,
+    "name": "Boat Ramp",
+    "latitude": 41.2691965,
+    "longitude": -110.9493755,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3919080043,
+    "name": "Boat Ramp",
+    "latitude": 41.5445528,
+    "longitude": -112.1079642,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4167797265,
+    "name": "Boat Ramp",
+    "latitude": 41.5002055,
+    "longitude": -111.942035,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4261061428,
+    "name": "Boat Ramp",
+    "latitude": 41.9685241,
+    "longitude": -111.2722608,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 4346719073,
+    "name": "Boat Ramp",
+    "latitude": 37.9360557,
+    "longitude": -111.6945222,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4501069056,
+    "name": "Boat Ramp",
+    "latitude": 41.6265769,
+    "longitude": -111.8660243,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4669994379,
+    "name": "Boat Ramp",
+    "latitude": 37.1066559,
+    "longitude": -113.3932015,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4669995592,
+    "name": "Boat Ramp",
+    "latitude": 37.1210906,
+    "longitude": -113.3821856,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4669995594,
+    "name": "Boat Ramp",
+    "latitude": 37.1209775,
+    "longitude": -113.3821158,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4830956467,
+    "name": "Boat Ramp",
+    "latitude": 40.2394901,
+    "longitude": -111.7380113,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4830956468,
+    "name": "Boat Ramp",
+    "latitude": 40.2398156,
+    "longitude": -111.7386994,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4831487276,
+    "name": "Take Out Beach",
+    "latitude": 38.6618113,
+    "longitude": -109.5007453,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Take Out Beach"
+    }
+  },
+  {
+    "id": 4831487278,
+    "name": "Hittle Bottom",
+    "latitude": 38.760031,
+    "longitude": -109.3254593,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Hittle Bottom"
+    }
+  },
+  {
+    "id": 5118023025,
+    "name": "Boat Ramp",
+    "latitude": 39.0862319,
+    "longitude": -109.1010842,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5223902552,
+    "name": "Boat Ramp",
+    "latitude": 40.7750933,
+    "longitude": -111.3906201,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5315851736,
+    "name": "Boat Ramp",
+    "latitude": 40.9070211,
+    "longitude": -111.9208698,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5691665880,
+    "name": "Boat Ramp",
+    "latitude": 38.5476067,
+    "longitude": -111.7233264,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5733491945,
+    "name": "Boat Ramp",
+    "latitude": 40.7016005,
+    "longitude": -110.8875619,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5755037021,
+    "name": "Boat Ramp",
+    "latitude": 41.8439647,
+    "longitude": -111.9995284,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5772206883,
+    "name": "Boat Ramp",
+    "latitude": 40.7354754,
+    "longitude": -112.2124259,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5784509707,
+    "name": "Boat Ramp",
+    "latitude": 40.1382984,
+    "longitude": -112.4606721,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6050336875,
+    "name": "Boat Ramp",
+    "latitude": 40.7354931,
+    "longitude": -112.212361,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6294686133,
+    "name": "Spirit Lake Boat Ramp",
+    "latitude": 40.8385878,
+    "longitude": -110.0017462,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Spirit Lake Boat Ramp"
+    }
+  },
+  {
+    "id": 6294703110,
+    "name": "Millsite Reservoir Boat Ramp",
+    "latitude": 39.093172,
+    "longitude": -111.1922634,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Millsite Reservoir Boat Ramp"
+    }
+  },
+  {
+    "id": 6294779833,
+    "name": "Sandy Beach Boat Launch",
+    "latitude": 38.6825454,
+    "longitude": -109.4775328,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "description": "https://www.blm.gov/visit/search-details/257135/1\n\n",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Sandy Beach Boat Launch"
+    }
+  },
+  {
+    "id": 6294784897,
+    "name": "LaBaron Point Boat Ramp",
+    "latitude": 40.0826048,
+    "longitude": -111.8686641,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "description": "https://wildlife.utah.gov/utah_lake_access/\n",
+      "leisure": "slipway",
+      "name": "LaBaron Point Boat Ramp"
+    }
+  },
+  {
+    "id": 6294789159,
+    "name": "Panguitch Lake Boat Launch (North)",
+    "latitude": 37.7212176,
+    "longitude": -112.633142,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "description": "https://www.recreation.gov/camping/campgrounds/232080",
+      "leisure": "slipway",
+      "name": "Panguitch Lake Boat Launch (north)"
+    }
+  },
+  {
+    "id": 6294793387,
+    "name": "Steinaker Reservoir Boat Ramp",
+    "latitude": 40.5156549,
+    "longitude": -109.5378526,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "description": "https://stateparks.utah.gov/parks/steinaker/\n\n",
+      "leisure": "slipway",
+      "name": "Steinaker Reservoir Boat Ramp"
+    }
+  },
+  {
+    "id": 6547658353,
+    "name": "Boat Ramp",
+    "latitude": 38.573271,
+    "longitude": -109.6331793,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6804447204,
+    "name": "Boat Ramp",
+    "latitude": 41.0608154,
+    "longitude": -112.2384979,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6829020604,
+    "name": "Boat Ramp",
+    "latitude": 41.7129977,
+    "longitude": -112.1167555,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6829030396,
+    "name": "Boat Ramp",
+    "latitude": 41.5458854,
+    "longitude": -112.0950191,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "camping": "no",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "surface": "unpaved",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 6829030409,
+    "name": "Boat Ramp",
+    "latitude": 41.2764456,
+    "longitude": -111.8190794,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6829041131,
+    "name": "Boat Ramp",
+    "latitude": 40.1744219,
+    "longitude": -111.721796,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6829042222,
+    "name": "Boat Ramp",
+    "latitude": 38.6106836,
+    "longitude": -111.632676,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6829050813,
+    "name": "Boat Ramp",
+    "latitude": 40.1843068,
+    "longitude": -109.691239,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6829056382,
+    "name": "Boat Ramp",
+    "latitude": 41.7450304,
+    "longitude": -111.9565894,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6829056506,
+    "name": "Boat Ramp",
+    "latitude": 40.9576423,
+    "longitude": -111.4084005,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6829087231,
+    "name": "Boat Ramp",
+    "latitude": 38.534613,
+    "longitude": -111.736374,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6829093949,
+    "name": "Boat Ramp",
+    "latitude": 41.18625,
+    "longitude": -111.3813227,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6829099498,
+    "name": "Boat Ramp",
+    "latitude": 40.3346569,
+    "longitude": -111.0582113,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6829100079,
+    "name": "Boat Ramp",
+    "latitude": 40.6167938,
+    "longitude": -111.4216716,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6829105001,
+    "name": "Boat Ramp",
+    "latitude": 38.2186576,
+    "longitude": -112.8305903,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6829111929,
+    "name": "Boat Ramp",
+    "latitude": 38.8733274,
+    "longitude": -109.2680325,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6829114063,
+    "name": "Boat Ramp",
+    "latitude": 38.6958184,
+    "longitude": -109.413269,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6829122309,
+    "name": "Boat Ramp",
+    "latitude": 40.9637986,
+    "longitude": -109.5579326,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6830989020,
+    "name": "Boat Ramp",
+    "latitude": 38.6047196,
+    "longitude": -109.5735919,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6830989365,
+    "name": "Boat Ramp",
+    "latitude": 37.7476755,
+    "longitude": -112.7772792,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6831006098,
+    "name": "Boat Ramp",
+    "latitude": 39.2053668,
+    "longitude": -111.6660331,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6831012312,
+    "name": "Boat Ramp",
+    "latitude": 41.8013059,
+    "longitude": -111.9095244,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6831016521,
+    "name": "Boat Ramp",
+    "latitude": 37.1870637,
+    "longitude": -113.3935953,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6831028529,
+    "name": "Boat Ramp",
+    "latitude": 38.6482119,
+    "longitude": -109.4810221,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6831030031,
+    "name": "Boat Ramp",
+    "latitude": 40.7603172,
+    "longitude": -111.1075604,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6831365090,
+    "name": "Boat Ramp",
+    "latitude": 38.1674305,
+    "longitude": -112.0173039,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6831372651,
+    "name": "Boat Ramp",
+    "latitude": 40.7289808,
+    "longitude": -109.2045233,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6831372668,
+    "name": "Sand Wash Boat Ramp",
+    "latitude": 39.840531,
+    "longitude": -109.9135375,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "canoe:downstream": "permit",
+      "leisure": "slipway",
+      "name": "Sand Wash Boat Ramp"
+    }
+  },
+  {
+    "id": 6831385493,
+    "name": "Boat Ramp",
+    "latitude": 41.787828,
+    "longitude": -111.9529393,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6831386598,
+    "name": "Boat Ramp",
+    "latitude": 40.7201172,
+    "longitude": -109.1835267,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6831392879,
+    "name": "Boat Ramp",
+    "latitude": 37.7869885,
+    "longitude": -111.6317,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6831396071,
+    "name": "Boat Ramp",
+    "latitude": 38.5916001,
+    "longitude": -111.848964,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6831399003,
+    "name": "Boat Ramp",
+    "latitude": 40.907342,
+    "longitude": -109.8746905,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6831399101,
+    "name": "Boat Ramp",
+    "latitude": 38.5622201,
+    "longitude": -111.6987356,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6831407008,
+    "name": "Boat Ramp",
+    "latitude": 37.708748,
+    "longitude": -112.6419111,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6831791736,
+    "name": "Boat Ramp",
+    "latitude": 39.1399319,
+    "longitude": -111.4504103,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6831801749,
+    "name": "Boat Ramp",
+    "latitude": 40.2030087,
+    "longitude": -111.6562926,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6831814583,
+    "name": "Boat Ramp",
+    "latitude": 40.1423566,
+    "longitude": -111.8028797,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6835606993,
+    "name": "Boat Ramp",
+    "latitude": 38.5621354,
+    "longitude": -111.7062206,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6835608487,
+    "name": "Boat Ramp",
+    "latitude": 40.7719466,
+    "longitude": -109.3062776,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6835609239,
+    "name": "Boat Ramp",
+    "latitude": 41.4481797,
+    "longitude": -112.4089496,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6835615145,
+    "name": "Boat Ramp",
+    "latitude": 39.37564,
+    "longitude": -112.028414,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9254807161,
+    "name": "Porter'S Landing",
+    "latitude": 40.8407907,
+    "longitude": -111.94928,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "canoe": "designated",
+      "covered": "no",
+      "description": "Last downstream public access point on the Jordan River.",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Porter's Landing",
+      "parking": "yes",
+      "surface": "concrete",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 9332905145,
+    "name": "Boat Ramp",
+    "latitude": 38.9940026,
+    "longitude": -110.1417835,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 9811170576,
+    "name": "Boat Ramp",
+    "latitude": 40.2898138,
+    "longitude": -111.8700359,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9811170648,
+    "name": "Boat Ramp",
+    "latitude": 40.3043074,
+    "longitude": -111.8798773,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9871394956,
+    "name": "Boat Ramp",
+    "latitude": 41.2333161,
+    "longitude": -111.9733065,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9915075315,
+    "name": "Boat Ramp",
+    "latitude": 41.2620247,
+    "longitude": -111.7943612,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9943751407,
+    "name": "Boat Ramp",
+    "latitude": 41.5180654,
+    "longitude": -111.7243474,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9978464515,
+    "name": "Personal Watercraft Take-Out",
+    "latitude": 39.0814187,
+    "longitude": -110.6672473,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Personal Watercraft Take-out"
+    }
+  },
+  {
+    "id": 9978507679,
+    "name": "Personal Watercraft Put-In",
+    "latitude": 39.1184356,
+    "longitude": -110.8554225,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Personal Watercraft Put-In"
+    }
+  },
+  {
+    "id": 10090012393,
+    "name": "Boat Ramp",
+    "latitude": 40.7747446,
+    "longitude": -111.6981523,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10463048432,
+    "name": "Boat Ramp",
+    "latitude": 38.7772653,
+    "longitude": -110.1051247,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "source": "NHD"
+    }
+  },
+  {
+    "id": 10463048437,
+    "name": "Boat Ramp",
+    "latitude": 38.5249078,
+    "longitude": -109.9933341,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10542041198,
+    "name": "Boat Ramp",
+    "latitude": 41.3516191,
+    "longitude": -109.4415848,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10584781050,
+    "name": "Boat Ramp",
+    "latitude": 39.8065706,
+    "longitude": -111.1398869,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 10783290585,
+    "name": "Boat Ramp",
+    "latitude": 37.1787628,
+    "longitude": -113.7143217,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10914738639,
+    "name": "Butler Wash Put-In / Take Out",
+    "latitude": 39.157846,
+    "longitude": -110.1136928,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Butler Wash Put-In / Take Out"
+    }
+  },
+  {
+    "id": 10951929704,
+    "name": "Personal Watercraft Put-In",
+    "latitude": 39.1177569,
+    "longitude": -110.8540864,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Personal Watercraft Put-In"
+    }
+  },
+  {
+    "id": 11146951225,
+    "name": "Causey Dam Boat Launch",
+    "latitude": 41.2973219,
+    "longitude": -111.5862899,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "description": "Launching point for kayaks, paddleboards and non-motorized watercraft",
+      "fee": "no",
+      "informal": "yes",
+      "leisure": "slipway",
+      "name": "Causey Dam Boat Launch"
+    }
+  },
+  {
+    "id": 11146954067,
+    "name": "Causey North Boat Launch",
+    "latitude": 41.312727,
+    "longitude": -111.579783,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "description": "Launch point for kayaks, paddleboards and non-motorized watercraft",
+      "fee": "no",
+      "informal": "yes",
+      "leisure": "slipway",
+      "name": "Causey North Boat Launch"
+    }
+  },
+  {
+    "id": 11245029554,
+    "name": "Boat Ramp",
+    "latitude": 40.3268309,
+    "longitude": -111.7644101,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11245029555,
+    "name": "Boat Ramp",
+    "latitude": 40.3266492,
+    "longitude": -111.764904,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11882429534,
+    "name": "Boat Ramp",
+    "latitude": 37.0028359,
+    "longitude": -111.4884699,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "check_date": "2025-04-18",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12072675299,
+    "name": "Personal Watercraft",
+    "latitude": 40.6035047,
+    "longitude": -111.5884958,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Personal Watercraft"
+    }
+  },
+  {
+    "id": 12082265942,
+    "name": "Pioneer Crossing Park Boat Ramp",
+    "latitude": 40.7018551,
+    "longitude": -111.9264358,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "informal": "no",
+      "leisure": "slipway",
+      "motor_vehicle": "no",
+      "name": "Pioneer Crossing Park Boat Ramp",
+      "parking": "yes",
+      "surface": "concrete",
+      "tidal": "no",
+      "trailer": "no"
+    }
+  },
+  {
+    "id": 12294295095,
+    "name": "Boat Ramp",
+    "latitude": 40.2349752,
+    "longitude": -111.1368732,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12469714813,
+    "name": "Boat Ramp",
+    "latitude": 40.8784998,
+    "longitude": -109.1358069,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12521772405,
+    "name": "Dirty Devil Access",
+    "latitude": 37.8877763,
+    "longitude": -110.3992452,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Dirty Devil Access",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12585989757,
+    "name": "Boat Ramp",
+    "latitude": 37.6493299,
+    "longitude": -113.526197,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12586528263,
+    "name": "Boat Ramp",
+    "latitude": 40.3577344,
+    "longitude": -111.8989287,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "canoe": "designated",
+      "covered": "no",
+      "informal": "no",
+      "leisure": "slipway",
+      "motor_vehicle": "no",
+      "parking": "yes",
+      "surface": "paved",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12623558481,
+    "name": "Boat Ramp",
+    "latitude": 40.0102441,
+    "longitude": -109.4461241,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "parking": "yes",
+      "toilets": "yes"
+    }
+  },
+  {
+    "id": 12729736776,
+    "name": "North Jordan Canal Diversion Dam Upstream Access",
+    "latitude": 40.5792791,
+    "longitude": -111.921084,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "canoe": "designated",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "North Jordan Canal Diversion Dam Upstream Access",
+      "parking": "no",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12729755915,
+    "name": "Shields Lane Trailhead Ramp",
+    "latitude": 40.5718066,
+    "longitude": -111.9156558,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "canoe": "designated",
+      "leisure": "slipway",
+      "name": "Shields Lane Trailhead Ramp",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 12741854145,
+    "name": "Millcreek Trailhead Boat Ramp",
+    "latitude": 40.685748,
+    "longitude": -111.9196322,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "canoe": "designated",
+      "covered": "no",
+      "informal": "no",
+      "leisure": "slipway",
+      "motor_vehicle": "no",
+      "name": "Millcreek Trailhead Boat Ramp",
+      "parking": "yes",
+      "tidal": "no",
+      "trailer": "no"
+    }
+  },
+  {
+    "id": 12790143556,
+    "name": "General Holm Park Boat Ramp",
+    "latitude": 40.687348,
+    "longitude": -111.9220376,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "canoe": "designated",
+      "informal": "no",
+      "leisure": "slipway",
+      "motor_vehicle": "no",
+      "name": "General Holm Park Boat Ramp",
+      "parking": "yes",
+      "surface": "concrete",
+      "tidal": "no",
+      "trailer": "no"
+    }
+  },
+  {
+    "id": 12849556704,
+    "name": "Jordan River Rotary Park Ramp",
+    "latitude": 40.5258766,
+    "longitude": -111.9199237,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "canoe": "designated",
+      "leisure": "slipway",
+      "name": "Jordan River Rotary Park Ramp",
+      "parking": "yes",
+      "surface": "concrete",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 12954621407,
+    "name": "Boat Ramp",
+    "latitude": 41.4096991,
+    "longitude": -112.0541442,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13003447609,
+    "name": "Boat Ramp",
+    "latitude": 40.6125999,
+    "longitude": -111.9205012,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "canoe": "designated",
+      "leisure": "slipway",
+      "surface": "concrete",
+      "tidal": "no"
+    }
+  },
+  {
+    "id": 13043401702,
+    "name": "Boat Ramp",
+    "latitude": 40.8082864,
+    "longitude": -111.9392728,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "canoe": "designated",
+      "covered": "no",
+      "leisure": "slipway",
+      "motor_vehicle": "no",
+      "parking": "yes",
+      "surface": "concrete",
+      "tidal": "no",
+      "trailer": "no"
+    }
+  },
+  {
+    "id": 13069835384,
+    "name": "Millrace Park Boat Ramp",
+    "latitude": 40.6544603,
+    "longitude": -111.9231244,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "canoe": "designated",
+      "informal": "no",
+      "leisure": "slipway",
+      "motor_vehicle": "no",
+      "name": "Millrace Park Boat Ramp",
+      "parking": "yes",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 13070801282,
+    "name": "Boat Ramp",
+    "latitude": 40.6715442,
+    "longitude": -111.908255,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "canoe": "designated",
+      "leisure": "slipway",
+      "motor_vehicle": "no",
+      "parking": "no",
+      "surface": "concrete",
+      "tidal": "no",
+      "trailer": "no"
+    }
+  },
+  {
+    "id": 13070801904,
+    "name": "Boat Ramp",
+    "latitude": 40.672843,
+    "longitude": -111.9083645,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "canoe": "designated",
+      "leisure": "slipway",
+      "motor_vehicle": "no",
+      "parking": "no",
+      "surface": "concrete",
+      "tidal": "no",
+      "trailer": "no"
+    }
+  },
+  {
+    "id": 13071197233,
+    "name": "Fisher Mansion Boat Ramp",
+    "latitude": 40.7656654,
+    "longitude": -111.9262328,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "canoe": "designated",
+      "informal": "no",
+      "leisure": "slipway",
+      "motor_vehicle": "no",
+      "name": "Fisher Mansion Boat Ramp",
+      "surface": "concrete",
+      "tidal": "no",
+      "trailer": "no"
+    }
+  },
+  {
+    "id": 13075952547,
+    "name": "Parry Farms Boat Ramp",
+    "latitude": 40.4787397,
+    "longitude": -111.9335482,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "canoe": "designated",
+      "covered": "no",
+      "leisure": "slipway",
+      "motor_vehicle": "no",
+      "name": "Parry Farms Boat Ramp",
+      "parking": "yes",
+      "parking:distance": "350 ft",
+      "surface": "concrete",
+      "tidal": "no",
+      "trailer": "no"
+    }
+  },
+  {
+    "id": 13076034843,
+    "name": "Gadsby Trailhead Boat Ramp",
+    "latitude": 40.7712189,
+    "longitude": -111.9261497,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "canoe": "designated",
+      "covered": "no",
+      "leisure": "slipway",
+      "motor_vehicle": "no",
+      "name": "Gadsby Trailhead Boat Ramp",
+      "parking": "yes",
+      "surface": "concrete",
+      "tidal": "no",
+      "trailer": "no"
+    }
+  },
+  {
+    "id": 13189420545,
+    "name": "Boat Ramp",
+    "latitude": 40.2375762,
+    "longitude": -111.7394371,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13189420793,
+    "name": "Boat Ramp",
+    "latitude": 40.3596316,
+    "longitude": -111.8953211,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13298645758,
+    "name": "Boat Ramp",
+    "latitude": 40.7356326,
+    "longitude": -112.2121652,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13425563890,
+    "name": "Boat Ramp",
+    "latitude": 40.6463036,
+    "longitude": -112.297147,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10136738,
+    "name": "Boat Ramp",
+    "latitude": 37.8724602,
+    "longitude": -110.396885,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 32179353,
+    "name": "Boat Ramp",
+    "latitude": 41.060643,
+    "longitude": -112.2386308,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 45683489,
+    "name": "Boat Ramp",
+    "latitude": 41.354252,
+    "longitude": -112.0753678,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Yahoo"
+    }
+  },
+  {
+    "id": 151958469,
+    "name": "Boat Ramp",
+    "latitude": 37.8725524,
+    "longitude": -110.3969895,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "area": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 159822843,
+    "name": "Boat Ramp",
+    "latitude": 41.5578897,
+    "longitude": -109.5277672,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 160219592,
+    "name": "Boat Ramp",
+    "latitude": 37.1925074,
+    "longitude": -113.3904541,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 207539183,
+    "name": "Boat Ramp",
+    "latitude": 40.9233912,
+    "longitude": -109.4467343,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 258332926,
+    "name": "Boat Ramp",
+    "latitude": 39.6449708,
+    "longitude": -111.308188,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 258356133,
+    "name": "Boat Ramp",
+    "latitude": 39.6460694,
+    "longitude": -111.2378867,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 289922545,
+    "name": "Boat Ramp",
+    "latitude": 41.5230296,
+    "longitude": -111.7378771,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 415830118,
+    "name": "Boat Ramp",
+    "latitude": 41.500185,
+    "longitude": -111.9421011,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 472797487,
+    "name": "Boat Ramp",
+    "latitude": 37.1209946,
+    "longitude": -113.3823922,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 472797488,
+    "name": "Boat Ramp",
+    "latitude": 37.1208899,
+    "longitude": -113.3823212,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 503694897,
+    "name": "Boat Ramp",
+    "latitude": 41.8481225,
+    "longitude": -111.3522305,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 550367069,
+    "name": "Boat Ramp",
+    "latitude": 40.9070323,
+    "longitude": -111.9208051,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 618402449,
+    "name": "Boat Ramp",
+    "latitude": 40.4798687,
+    "longitude": -112.0199598,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 618402450,
+    "name": "Boat Ramp",
+    "latitude": 40.4798671,
+    "longitude": -112.0197371,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 682988563,
+    "name": "Boat Ramp",
+    "latitude": 40.6035414,
+    "longitude": -111.3526744,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 729117196,
+    "name": "Boat Ramp",
+    "latitude": 37.1873965,
+    "longitude": -113.3938584,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 729156425,
+    "name": "Boat Ramp",
+    "latitude": 37.7086913,
+    "longitude": -112.6419141,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 734322526,
+    "name": "Boat Ramp",
+    "latitude": 40.7749158,
+    "longitude": -111.6980899,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 820240641,
+    "name": "Boat Ramp",
+    "latitude": 39.6373646,
+    "longitude": -111.2362048,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 881044980,
+    "name": "Boat Ramp",
+    "latitude": 40.7644099,
+    "longitude": -109.2997772,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 957373557,
+    "name": "Boat Ramp",
+    "latitude": 41.9651868,
+    "longitude": -111.398666,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 993374170,
+    "name": "Mineral Bottom Boat Ramp",
+    "latitude": 38.5248567,
+    "longitude": -109.9932146,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Mineral Bottom Boat Ramp",
+      "service": "slipway",
+      "surface": "dirt",
+      "tracktype": "grade3"
+    }
+  },
+  {
+    "id": 1018823664,
+    "name": "Boat Ramp",
+    "latitude": 41.8978429,
+    "longitude": -111.972815,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1026562167,
+    "name": "Ruby Ranch Put-In",
+    "latitude": 38.7773999,
+    "longitude": -110.1050509,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "permissive",
+      "charge": "10 USD/boat",
+      "fee": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Ruby Ranch Put-In",
+      "payment:cash": "yes",
+      "service": "slipway",
+      "surface": "dirt"
+    }
+  },
+  {
+    "id": 1068824031,
+    "name": "Boat Ramp",
+    "latitude": 40.2897788,
+    "longitude": -111.8701348,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1068824049,
+    "name": "Boat Ramp",
+    "latitude": 40.3042595,
+    "longitude": -111.8800815,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1081839103,
+    "name": "Cemetery Point Marina",
+    "latitude": 41.2622366,
+    "longitude": -111.7942585,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "charge": "18 USD",
+      "fee": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Cemetery Point Marina",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1082199315,
+    "name": "South Side Boat Ramp",
+    "latitude": 37.1063695,
+    "longitude": -113.3934567,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "South Side Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1085726367,
+    "name": "Boat Ramp",
+    "latitude": 41.4218239,
+    "longitude": -112.0667079,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1095029164,
+    "name": "Boat Ramp",
+    "latitude": 38.6107036,
+    "longitude": -111.6323865,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1101336844,
+    "name": "Boat Ramp",
+    "latitude": 41.8013086,
+    "longitude": -111.9093926,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1124441079,
+    "name": "Boat Ramp",
+    "latitude": 40.1498201,
+    "longitude": -111.556901,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1153090177,
+    "name": "Boat Ramp",
+    "latitude": 41.2573027,
+    "longitude": -112.4987205,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1153090178,
+    "name": "Boat Ramp",
+    "latitude": 41.2574384,
+    "longitude": -112.4989145,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1153090179,
+    "name": "Boat Ramp",
+    "latitude": 41.2575459,
+    "longitude": -112.4990224,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1153090180,
+    "name": "Boat Ramp",
+    "latitude": 41.2576634,
+    "longitude": -112.4991409,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1153090181,
+    "name": "Boat Ramp",
+    "latitude": 41.2577033,
+    "longitude": -112.499176,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1153401336,
+    "name": "Boat Ramp",
+    "latitude": 39.3464608,
+    "longitude": -110.9443589,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1158043741,
+    "name": "Boat Ramp",
+    "latitude": 41.4790589,
+    "longitude": -112.2681797,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1188787011,
+    "name": "Boat Ramp",
+    "latitude": 37.7428694,
+    "longitude": -111.9567001,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1208396325,
+    "name": "Canal Boat Ramp",
+    "latitude": 41.4218706,
+    "longitude": -112.0661455,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canal Boat Ramp",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1209901595,
+    "name": "Boat Ramp",
+    "latitude": 41.2244113,
+    "longitude": -111.9881436,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1219598218,
+    "name": "Boat Ramp",
+    "latitude": 41.5524036,
+    "longitude": -109.5256438,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1235223306,
+    "name": "Big Sandwash Reservoir Boat Ramp",
+    "latitude": 40.2962723,
+    "longitude": -110.2217601,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Big Sandwash Reservoir Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1240607103,
+    "name": "Boat Ramp",
+    "latitude": 40.7785385,
+    "longitude": -109.5490555,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1243738380,
+    "name": "Boat Ramp",
+    "latitude": 40.2002083,
+    "longitude": -111.177341,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "ref": "NF 70573",
+      "service": "slipway",
+      "source": "Yahoo",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 1247487177,
+    "name": "Stateline Campground Boat Ramp Road",
+    "latitude": 40.9831501,
+    "longitude": -110.3861098,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Stateline Campground Boat Ramp Road",
+      "ref": "80128-D",
+      "service": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 1278303282,
+    "name": "Boat Ramp",
+    "latitude": 41.9091533,
+    "longitude": -111.3791971,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1278312030,
+    "name": "Boat Ramp",
+    "latitude": 41.9074569,
+    "longitude": -111.3708452,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1294818976,
+    "name": "Boat Ramp",
+    "latitude": 37.0078152,
+    "longitude": -112.5165394,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1296253957,
+    "name": "Boat Ramp",
+    "latitude": 37.4332894,
+    "longitude": -113.043265,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1300378767,
+    "name": "Boat Ramp",
+    "latitude": 40.9857537,
+    "longitude": -109.5857391,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1325474090,
+    "name": "Mirror Lake Boat Ramp Road",
+    "latitude": 40.7014544,
+    "longitude": -110.8876006,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Mirror Lake Boat Ramp Road",
+      "ref": "NF 80103-G",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 1328861000,
+    "name": "Boat Ramp",
+    "latitude": 40.2353836,
+    "longitude": -111.1369533,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1328861001,
+    "name": "Boat Ramp",
+    "latitude": 40.2351155,
+    "longitude": -111.1368788,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "area": "yes",
+      "fixme": "Is this the best/correct tag?",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1329472594,
+    "name": "Boat Ramp",
+    "latitude": 41.2626247,
+    "longitude": -111.794387,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1329993732,
+    "name": "Boat Ramp",
+    "latitude": 40.9579864,
+    "longitude": -111.4083518,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1340561097,
+    "name": "Boat Ramp",
+    "latitude": 40.4797731,
+    "longitude": -112.0198052,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1359693835,
+    "name": "Boat Ramp",
+    "latitude": 37.6487494,
+    "longitude": -113.5265548,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1373528905,
+    "name": "Boat Ramp",
+    "latitude": 39.0929263,
+    "longitude": -111.19233,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1395579814,
+    "name": "Boat Ramp",
+    "latitude": 37.5185219,
+    "longitude": -113.8593762,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1416625796,
+    "name": "Boat Ramp",
+    "latitude": 37.6101752,
+    "longitude": -112.2534452,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1427203544,
+    "name": "Yankee Meadow Reservior Boat Ramp",
+    "latitude": 37.747903,
+    "longitude": -112.7770111,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Yankee Meadow Reservior Boat Ramp",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1431412134,
+    "name": "Boat Ramp",
+    "latitude": 41.9002559,
+    "longitude": -111.2854224,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1449285720,
+    "name": "Boat Ramp",
+    "latitude": 41.3536534,
+    "longitude": -112.0759052,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Yahoo"
+    }
+  },
+  {
+    "id": 1449285730,
+    "name": "Boat Ramp",
+    "latitude": 41.3539533,
+    "longitude": -112.075633,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Yahoo"
+    }
+  },
+  {
+    "id": 1451506384,
+    "name": "Boat Ramp",
+    "latitude": 39.3534424,
+    "longitude": -111.9466823,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 1451520490,
+    "name": "Boat Ramp",
+    "latitude": 39.3752002,
+    "longitude": -112.0280179,
+    "state": "Utah",
+    "stateAbbr": "UT",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  }
+]

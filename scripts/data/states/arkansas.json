@@ -1,0 +1,6099 @@
+[
+  {
+    "id": 116548430,
+    "name": "Boat Ramp",
+    "latitude": 36.4352016,
+    "longitude": -93.7590791,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 116572203,
+    "name": "Boat Ramp",
+    "latitude": 36.4558657,
+    "longitude": -90.1383563,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 116602121,
+    "name": "Boat Ramp",
+    "latitude": 36.4525514,
+    "longitude": -94.3449066,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 116635177,
+    "name": "Boat Ramp",
+    "latitude": 35.6015235,
+    "longitude": -92.1495137,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 116733866,
+    "name": "Boat Ramp",
+    "latitude": 35.2335387,
+    "longitude": -92.6155839,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 117334815,
+    "name": "Boat Ramp",
+    "latitude": 35.6094522,
+    "longitude": -91.2879702,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 117811836,
+    "name": "Boat Ramp",
+    "latitude": 35.816938,
+    "longitude": -89.7893316,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 117815605,
+    "name": "Boat Ramp",
+    "latitude": 35.755385,
+    "longitude": -89.9159387,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 119093064,
+    "name": "Boat Ramp",
+    "latitude": 36.1374828,
+    "longitude": -94.1399501,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 190396104,
+    "name": "Boat Ramp",
+    "latitude": 36.0375581,
+    "longitude": -90.1103034,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 192172213,
+    "name": "Renyolds Access",
+    "latitude": 36.193914,
+    "longitude": -89.6517442,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Renyolds Access",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 203662047,
+    "name": "Meeman-Shelby",
+    "latitude": 35.3378641,
+    "longitude": -90.0915369,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Meeman-Shelby"
+    }
+  },
+  {
+    "id": 843104887,
+    "name": "Boat Ramp",
+    "latitude": 35.0751558,
+    "longitude": -92.5385093,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1390162361,
+    "name": "Boat Ramp",
+    "latitude": 35.1058025,
+    "longitude": -93.6583938,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1390163251,
+    "name": "Boat Ramp",
+    "latitude": 35.2272467,
+    "longitude": -93.6251993,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1432947879,
+    "name": "Boat Ramp",
+    "latitude": 35.1499271,
+    "longitude": -90.0567234,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1550259007,
+    "name": "Boat Ramp",
+    "latitude": 35.3023733,
+    "longitude": -93.2359426,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1557098491,
+    "name": "Boat Ramp",
+    "latitude": 36.3324503,
+    "longitude": -94.0213339,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1582537187,
+    "name": "Boat Ramp",
+    "latitude": 35.5337983,
+    "longitude": -91.999136,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1582634552,
+    "name": "Boat Ramp",
+    "latitude": 35.5024942,
+    "longitude": -92.046229,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1582634556,
+    "name": "Boat Ramp",
+    "latitude": 35.5046501,
+    "longitude": -92.0759516,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1582634572,
+    "name": "Boat Ramp",
+    "latitude": 35.5061703,
+    "longitude": -92.0968877,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1582634574,
+    "name": "Boat Ramp",
+    "latitude": 35.5152911,
+    "longitude": -92.0387609,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1582634579,
+    "name": "Boat Ramp",
+    "latitude": 35.5280625,
+    "longitude": -92.0099471,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1582634592,
+    "name": "Boat Ramp",
+    "latitude": 35.5284959,
+    "longitude": -92.0075237,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1582634595,
+    "name": "Boat Ramp",
+    "latitude": 35.5301713,
+    "longitude": -92.379644,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1582634598,
+    "name": "Boat Ramp",
+    "latitude": 35.5358259,
+    "longitude": -92.3725134,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1582634600,
+    "name": "Boat Ramp",
+    "latitude": 35.5361571,
+    "longitude": -92.371338,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1582634618,
+    "name": "Boat Ramp",
+    "latitude": 35.5481178,
+    "longitude": -92.2724384,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1582634619,
+    "name": "Boat Ramp",
+    "latitude": 35.5489156,
+    "longitude": -92.0428124,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1582634621,
+    "name": "Boat Ramp",
+    "latitude": 35.5539398,
+    "longitude": -92.2231341,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1582634623,
+    "name": "Boat Ramp",
+    "latitude": 35.5600564,
+    "longitude": -92.1971204,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1582634638,
+    "name": "Boat Ramp",
+    "latitude": 35.5642079,
+    "longitude": -92.1968467,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1582634644,
+    "name": "Boat Ramp",
+    "latitude": 35.5680779,
+    "longitude": -92.298673,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1582634647,
+    "name": "Boat Ramp",
+    "latitude": 35.5684149,
+    "longitude": -92.2947084,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1582634650,
+    "name": "Boat Ramp",
+    "latitude": 35.5703533,
+    "longitude": -92.2898293,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1582634657,
+    "name": "Boat Ramp",
+    "latitude": 35.5834823,
+    "longitude": -92.2167128,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1582634661,
+    "name": "Boat Ramp",
+    "latitude": 35.5917231,
+    "longitude": -92.1780981,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1582634664,
+    "name": "Boat Ramp",
+    "latitude": 35.6085585,
+    "longitude": -92.1465483,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1582696808,
+    "name": "Boat Ramp",
+    "latitude": 35.5347666,
+    "longitude": -92.0140382,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1582707072,
+    "name": "Boat Ramp",
+    "latitude": 36.2563004,
+    "longitude": -92.2391605,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1582707229,
+    "name": "Boat Ramp",
+    "latitude": 36.2606388,
+    "longitude": -92.2411536,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1587125641,
+    "name": "Boat Ramp",
+    "latitude": 35.4799152,
+    "longitude": -93.8267858,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1590674906,
+    "name": "Boat Ramp",
+    "latitude": 35.3473792,
+    "longitude": -94.4533873,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1632987965,
+    "name": "Boat Ramp",
+    "latitude": 35.3125227,
+    "longitude": -94.5580237,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1659078298,
+    "name": "Boat Ramp",
+    "latitude": 35.5310192,
+    "longitude": -92.0415594,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1673841618,
+    "name": "Boat Ramp",
+    "latitude": 36.2663473,
+    "longitude": -92.5441759,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1673843581,
+    "name": "Boat Ramp",
+    "latitude": 36.3124991,
+    "longitude": -92.5407074,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1719516356,
+    "name": "Meeman-Shelby Boat Ramp",
+    "latitude": 35.3680025,
+    "longitude": -90.0769214,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Meeman-Shelby Boat Ramp"
+    }
+  },
+  {
+    "id": 1800020835,
+    "name": "Swepco Lake Boat Ramp",
+    "latitude": 36.2467699,
+    "longitude": -94.5407883,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Swepco Lake Boat Ramp"
+    }
+  },
+  {
+    "id": 1851585732,
+    "name": "Boat Ramp",
+    "latitude": 35.1038455,
+    "longitude": -92.5454669,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2028356738,
+    "name": "Boat Ramp",
+    "latitude": 35.9409634,
+    "longitude": -92.1124244,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2527441518,
+    "name": "Boat Ramp",
+    "latitude": 36.4568134,
+    "longitude": -94.3208252,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2527442626,
+    "name": "Boat Ramp",
+    "latitude": 36.4734462,
+    "longitude": -94.3371699,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2528018912,
+    "name": "Boat Ramp",
+    "latitude": 36.4714841,
+    "longitude": -94.2810704,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2528686291,
+    "name": "Boat Ramp",
+    "latitude": 36.4464009,
+    "longitude": -94.2807297,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2534575421,
+    "name": "Boat Ramp",
+    "latitude": 36.4779713,
+    "longitude": -94.2469872,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2535681258,
+    "name": "Boat Ramp",
+    "latitude": 36.4737985,
+    "longitude": -94.2154814,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2535710536,
+    "name": "Boat Ramp",
+    "latitude": 36.4701005,
+    "longitude": -94.2031207,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2629107200,
+    "name": "Boat Ramp",
+    "latitude": 35.2292323,
+    "longitude": -89.735127,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3640934416,
+    "name": "Boat Ramp",
+    "latitude": 36.2132511,
+    "longitude": -92.3569755,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 3654197705,
+    "name": "Boat Ramp",
+    "latitude": 36.2226194,
+    "longitude": -92.6794574,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4173015866,
+    "name": "Boat Ramp",
+    "latitude": 36.0568749,
+    "longitude": -93.279708,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4255700822,
+    "name": "Boat Ramp",
+    "latitude": 36.4755195,
+    "longitude": -92.9192677,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4289910975,
+    "name": "Boat Ramp",
+    "latitude": 35.4491208,
+    "longitude": -94.3823352,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4323125259,
+    "name": "Boat Ramp",
+    "latitude": 36.2465075,
+    "longitude": -94.0311374,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4479990455,
+    "name": "Boat Ramp",
+    "latitude": 36.3734081,
+    "longitude": -92.5723111,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4482712834,
+    "name": "Boat Ramp",
+    "latitude": 36.1575815,
+    "longitude": -92.230921,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4787843484,
+    "name": "Boat Ramp",
+    "latitude": 35.0842802,
+    "longitude": -93.771384,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5171668221,
+    "name": "Boat Ramp",
+    "latitude": 36.1994837,
+    "longitude": -94.2155454,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5243506942,
+    "name": "Boat Ramp",
+    "latitude": 36.4683313,
+    "longitude": -94.2622865,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5282319384,
+    "name": "Boat Ramp",
+    "latitude": 36.3368946,
+    "longitude": -94.1012064,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5307744447,
+    "name": "Boat Ramp",
+    "latitude": 35.1481532,
+    "longitude": -90.0576579,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5373488411,
+    "name": "Boat Ramp",
+    "latitude": 36.461368,
+    "longitude": -94.2407066,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5406063480,
+    "name": "Boat Ramp",
+    "latitude": 36.4504837,
+    "longitude": -94.2629616,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5483711396,
+    "name": "Boat Ramp",
+    "latitude": 35.1581868,
+    "longitude": -90.0515662,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5654293533,
+    "name": "Boat Ramp",
+    "latitude": 35.34331,
+    "longitude": -94.2894453,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5654293534,
+    "name": "Boat Ramp",
+    "latitude": 35.3420682,
+    "longitude": -94.2855131,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5654293535,
+    "name": "Boat Ramp",
+    "latitude": 35.3507406,
+    "longitude": -94.307544,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5654293536,
+    "name": "Boat Ramp",
+    "latitude": 35.3496246,
+    "longitude": -94.3113782,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5801724175,
+    "name": "Boat Launch",
+    "latitude": 35.3185337,
+    "longitude": -93.1866754,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat launch"
+    }
+  },
+  {
+    "id": 5885234365,
+    "name": "Boat Ramp",
+    "latitude": 36.4128956,
+    "longitude": -90.5623426,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5888464807,
+    "name": "Boat Ramp",
+    "latitude": 36.3126527,
+    "longitude": -91.4729517,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5888477143,
+    "name": "Boat Ramp",
+    "latitude": 36.2793904,
+    "longitude": -91.51932,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6083379217,
+    "name": "Boat Ramp",
+    "latitude": 35.6290857,
+    "longitude": -89.8436828,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6127119649,
+    "name": "Boat Ramp",
+    "latitude": 36.2535027,
+    "longitude": -91.4068809,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6127263877,
+    "name": "Boat Ramp",
+    "latitude": 35.9199985,
+    "longitude": -91.2436968,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6127273863,
+    "name": "Boat Ramp",
+    "latitude": 35.7670069,
+    "longitude": -91.3002387,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6127318412,
+    "name": "Boat Ramp",
+    "latitude": 35.6400336,
+    "longitude": -91.3135936,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6127345717,
+    "name": "Boat Ramp",
+    "latitude": 35.6537424,
+    "longitude": -91.4060298,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6129443404,
+    "name": "Boat Ramp",
+    "latitude": 35.3077152,
+    "longitude": -92.5545517,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6129448358,
+    "name": "Boat Ramp",
+    "latitude": 35.3093617,
+    "longitude": -92.5402774,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6591238878,
+    "name": "Boat Ramp",
+    "latitude": 35.399482,
+    "longitude": -93.3165986,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6905028167,
+    "name": "Boat Ramp",
+    "latitude": 35.4897887,
+    "longitude": -91.9719974,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6905030606,
+    "name": "Lobo Access",
+    "latitude": 35.4581226,
+    "longitude": -91.924922,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Lobo Access",
+      "operator": "United States Army Corps of Engineers",
+      "operator:wikidata": "Q1049334"
+    }
+  },
+  {
+    "id": 6905109441,
+    "name": "Boat Ramp",
+    "latitude": 36.2092951,
+    "longitude": -92.2909281,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 6905109442,
+    "name": "Boat Ramp",
+    "latitude": 36.2093708,
+    "longitude": -92.2897159,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 6905109443,
+    "name": "Boat Ramp",
+    "latitude": 36.2120044,
+    "longitude": -92.2875674,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 7171420836,
+    "name": "Boat Ramp",
+    "latitude": 35.941247,
+    "longitude": -92.1144331,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 7171456626,
+    "name": "Boat Ramp",
+    "latitude": 35.9415305,
+    "longitude": -92.1142332,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8026224448,
+    "name": "Triangle Boat Club Access",
+    "latitude": 36.2325863,
+    "longitude": -89.7023655,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Triangle Boat Club Access",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 8188220636,
+    "name": "Boat Ramp",
+    "latitude": 35.9811743,
+    "longitude": -90.7225337,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8188231671,
+    "name": "Boat Ramp",
+    "latitude": 35.5302987,
+    "longitude": -90.6830111,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8188256038,
+    "name": "Boat Ramp",
+    "latitude": 35.1551003,
+    "longitude": -90.7201396,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8267398583,
+    "name": "Boat Ramp",
+    "latitude": 35.0347733,
+    "longitude": -92.0607529,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8267455177,
+    "name": "Boat Ramp",
+    "latitude": 35.0335403,
+    "longitude": -92.0530786,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8667105041,
+    "name": "Boat Ramp",
+    "latitude": 36.413581,
+    "longitude": -93.8945061,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 8667105044,
+    "name": "Boat Ramp",
+    "latitude": 36.055715,
+    "longitude": -94.0653398,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 8667105046,
+    "name": "Boat Ramp",
+    "latitude": 36.4206975,
+    "longitude": -93.8564267,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 8667105047,
+    "name": "Boat Ramp",
+    "latitude": 36.4195426,
+    "longitude": -93.8855664,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 8925316500,
+    "name": "Boat Ramp",
+    "latitude": 35.1482666,
+    "longitude": -90.057388,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8925316505,
+    "name": "Boat Ramp",
+    "latitude": 35.1482026,
+    "longitude": -90.0575402,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8925316507,
+    "name": "Boat Ramp",
+    "latitude": 35.1480898,
+    "longitude": -90.0578098,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9351678681,
+    "name": "Boat Ramp",
+    "latitude": 36.4785141,
+    "longitude": -92.2565072,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 9845571569,
+    "name": "Boat Ramp",
+    "latitude": 36.2438232,
+    "longitude": -94.0305659,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9948396068,
+    "name": "Boat Ramp",
+    "latitude": 35.5325948,
+    "longitude": -90.4239704,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10013380799,
+    "name": "Boat Ramp",
+    "latitude": 35.2349173,
+    "longitude": -89.7266139,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10542106697,
+    "name": "Boat Ramp",
+    "latitude": 35.1398926,
+    "longitude": -89.8375696,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10604831052,
+    "name": "Boat Ramp",
+    "latitude": 36.3453523,
+    "longitude": -90.0849937,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10613220727,
+    "name": "Boat Ramp",
+    "latitude": 35.0288999,
+    "longitude": -93.2344477,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10731490622,
+    "name": "Boat Ramp",
+    "latitude": 35.607995,
+    "longitude": -92.151329,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10733003996,
+    "name": "Boat Ramp",
+    "latitude": 35.5480686,
+    "longitude": -92.2702372,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10733003997,
+    "name": "Boat Ramp",
+    "latitude": 35.5481872,
+    "longitude": -92.2711585,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10930112289,
+    "name": "Boat Ramp",
+    "latitude": 35.4467071,
+    "longitude": -94.5169997,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12002101188,
+    "name": "Boat Ramp",
+    "latitude": 36.2435871,
+    "longitude": -89.962535,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 12140706379,
+    "name": "Tyler Bend River Access Point Upper",
+    "latitude": 35.9894782,
+    "longitude": -92.766846,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Tyler Bend River Access Point Upper",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 12482483723,
+    "name": "James'S Slip",
+    "latitude": 36.42949,
+    "longitude": -93.8566048,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "James's Slip"
+    }
+  },
+  {
+    "id": 12544103523,
+    "name": "Ponca River Access Point",
+    "latitude": 36.0210978,
+    "longitude": -93.3551164,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Ponca River Access Point"
+    }
+  },
+  {
+    "id": 12544103595,
+    "name": "Pruitt Landing River Access Point",
+    "latitude": 36.0574615,
+    "longitude": -93.13613,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Pruitt Landing River Access Point",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 12544120379,
+    "name": "Boxley Bridge River Access Point",
+    "latitude": 35.9612907,
+    "longitude": -93.4042304,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Boxley Bridge River Access Point",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 12544125462,
+    "name": "Boat Ramp",
+    "latitude": 36.0393089,
+    "longitude": -93.3362282,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 12544127385,
+    "name": "Carver River Access Point",
+    "latitude": 35.9826849,
+    "longitude": -93.0407168,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Carver River Access Point",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 12544131631,
+    "name": "Erbie River Access Point",
+    "latitude": 36.0709487,
+    "longitude": -93.2123712,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Erbie River Access Point",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 12544145206,
+    "name": "Ozark River Access Point",
+    "latitude": 36.0651501,
+    "longitude": -93.159027,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Ozark River Access Point",
+      "surface": "sand"
+    }
+  },
+  {
+    "id": 12544150004,
+    "name": "Hasty River Access Point",
+    "latitude": 36.0080537,
+    "longitude": -93.0814716,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Hasty River Access Point",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 12544153003,
+    "name": "Mt Hersey River Access Point",
+    "latitude": 36.0090459,
+    "longitude": -92.9530789,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Mt Hersey River Access Point",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 12544283497,
+    "name": "Woolum River Access Point",
+    "latitude": 35.9701905,
+    "longitude": -92.8867066,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Woolum River Access Point",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 12544318632,
+    "name": "Buffalo Point River Access Point",
+    "latitude": 36.0695092,
+    "longitude": -92.5546778,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Buffalo Point River Access Point",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 12544334438,
+    "name": "Grinders Ferry River Access Point",
+    "latitude": 35.9849568,
+    "longitude": -92.7443529,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Grinders Ferry River Access Point",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 12544334808,
+    "name": "Baker Ford Access Point",
+    "latitude": 35.9807397,
+    "longitude": -92.8135287,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Baker Ford Access Point",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 12544336091,
+    "name": "Tyler Bend River Access Point Lower",
+    "latitude": 35.9898998,
+    "longitude": -92.7627484,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Tyler Bend River Access Point Lower",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 12544342542,
+    "name": "Maumee North River Access Point",
+    "latitude": 36.0348111,
+    "longitude": -92.6292088,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Maumee North River Access Point",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 12544343667,
+    "name": "Buffalo City River Access Point",
+    "latitude": 36.1645233,
+    "longitude": -92.4405975,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Buffalo City River Access Point",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 12544344086,
+    "name": "Gilbert River Access Point",
+    "latitude": 35.986712,
+    "longitude": -92.7149466,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Gilbert River Access Point",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 12544347926,
+    "name": "Maumee South River Access Point",
+    "latitude": 36.0390076,
+    "longitude": -92.6363693,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Maumee South River Access Point",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 12544348086,
+    "name": "Spring Creek Access Point",
+    "latitude": 36.0306501,
+    "longitude": -92.5844909,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Spring Creek Access Point",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 12544348090,
+    "name": "Dillards Ferry River Access Point",
+    "latitude": 36.0670425,
+    "longitude": -92.5781822,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Dillards Ferry River Access Point",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 12544392404,
+    "name": "Rush Landing River Access Point",
+    "latitude": 36.1243176,
+    "longitude": -92.5489385,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Rush Landing River Access Point",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 12544893837,
+    "name": "Buffalo City",
+    "latitude": 36.1645755,
+    "longitude": -92.4402573,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Buffalo City",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 13040416842,
+    "name": "Homersville Access",
+    "latitude": 36.0428217,
+    "longitude": -90.1026794,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Homersville Access"
+    }
+  },
+  {
+    "id": 13040416846,
+    "name": "Black Island Conservation Area",
+    "latitude": 36.2598222,
+    "longitude": -89.6823063,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Black Island Conservation Area"
+    }
+  },
+  {
+    "id": 13040416888,
+    "name": "Wolf Bayou",
+    "latitude": 36.3123651,
+    "longitude": -89.6441024,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Wolf Bayou"
+    }
+  },
+  {
+    "id": 13040416891,
+    "name": "Wolf Bayou",
+    "latitude": 36.3124449,
+    "longitude": -89.6426178,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Wolf Bayou"
+    }
+  },
+  {
+    "id": 13042217186,
+    "name": "Boat Ramp",
+    "latitude": 36.2460481,
+    "longitude": -92.2442164,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13042217192,
+    "name": "Boat Ramp",
+    "latitude": 36.2465715,
+    "longitude": -92.2429511,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13115614469,
+    "name": "Boat Ramp",
+    "latitude": 35.1708984,
+    "longitude": -90.7014989,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13115614470,
+    "name": "Boat Ramp",
+    "latitude": 35.1692382,
+    "longitude": -90.7051671,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13115614471,
+    "name": "Boat Ramp",
+    "latitude": 35.1702046,
+    "longitude": -90.704661,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13192223956,
+    "name": "Boat Ramp",
+    "latitude": 36.4024699,
+    "longitude": -92.3248091,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13202195853,
+    "name": "Boat Ramp",
+    "latitude": 36.3744152,
+    "longitude": -92.2341407,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13202195875,
+    "name": "Boat Ramp",
+    "latitude": 36.3709758,
+    "longitude": -92.2317885,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13206719440,
+    "name": "Boat Ramp",
+    "latitude": 35.2157382,
+    "longitude": -93.1380134,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13235661802,
+    "name": "Ben Cash CA",
+    "latitude": 36.1859463,
+    "longitude": -90.2020498,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Ben Cash CA"
+    }
+  },
+  {
+    "id": 13236943290,
+    "name": "Turner Bend Landing",
+    "latitude": 35.6695655,
+    "longitude": -93.8284379,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "customers",
+      "canoe": "put_in",
+      "description": "Customer launch/landing on the Mulberry River for Turner Bend rentals and shuttles.",
+      "fee": "yes",
+      "kayak": "yes",
+      "leisure": "slipway",
+      "name": "Turner Bend Landing",
+      "operator": "Turner Bend",
+      "raft": "yes",
+      "source": "website",
+      "sport": "canoe",
+      "website": "https://www.turnerbend.com/BoatRental.html"
+    }
+  },
+  {
+    "id": 13265651674,
+    "name": "Boat Ramp",
+    "latitude": 36.0825418,
+    "longitude": -91.1163234,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13329481505,
+    "name": "Boat Ramp",
+    "latitude": 35.2526283,
+    "longitude": -92.5903833,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13331189601,
+    "name": "Boat Ramp",
+    "latitude": 35.2992692,
+    "longitude": -92.4029527,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13338985046,
+    "name": "Boat Ramp",
+    "latitude": 35.7821834,
+    "longitude": -89.7981074,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13339195009,
+    "name": "Boat Ramp",
+    "latitude": 35.8032522,
+    "longitude": -89.8006729,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13367845542,
+    "name": "Boat Ramp",
+    "latitude": 35.4838431,
+    "longitude": -94.0606848,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13385843887,
+    "name": "Boat Ramp",
+    "latitude": 36.1999912,
+    "longitude": -91.7179471,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13437471607,
+    "name": "Boat Ramp",
+    "latitude": 36.2006459,
+    "longitude": -91.7175402,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13452994023,
+    "name": "Boat Ramp",
+    "latitude": 35.6544507,
+    "longitude": -89.9237729,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13523988387,
+    "name": "Boat Ramp",
+    "latitude": 36.039974,
+    "longitude": -91.4121677,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13545024058,
+    "name": "Boat Ramp",
+    "latitude": 36.3743274,
+    "longitude": -92.2522887,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13545024061,
+    "name": "Boat Ramp",
+    "latitude": 36.3753903,
+    "longitude": -92.2506421,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13568448019,
+    "name": "Boat Ramp",
+    "latitude": 35.4662506,
+    "longitude": -92.7316569,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13568448250,
+    "name": "Boat Ramp",
+    "latitude": 35.4525709,
+    "longitude": -92.7526338,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13584752741,
+    "name": "Boat Ramp",
+    "latitude": 35.4696535,
+    "longitude": -93.8105516,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13655995851,
+    "name": "Boat Ramp",
+    "latitude": 35.8530927,
+    "longitude": -90.1324511,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13655995853,
+    "name": "Boat Ramp",
+    "latitude": 35.8531839,
+    "longitude": -90.1325687,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13656281240,
+    "name": "Timm'S Point Boat Launch",
+    "latitude": 35.8967693,
+    "longitude": -90.1335671,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Timm's Point Boat Launch"
+    }
+  },
+  {
+    "id": 13656381012,
+    "name": "Boat Ramp",
+    "latitude": 35.8652231,
+    "longitude": -90.0995023,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13656381077,
+    "name": "Boat Ramp",
+    "latitude": 35.8488589,
+    "longitude": -90.1227279,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13686849417,
+    "name": "Boat Ramp",
+    "latitude": 35.2738956,
+    "longitude": -90.5593943,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 106083194,
+    "name": "Old Post Road Boat Ramp",
+    "latitude": 35.2417319,
+    "longitude": -93.1587679,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Old Post Road Boat Ramp",
+      "service": "slipway",
+      "source": "USACE Inland Navigational Chart U37AR186",
+      "source:date": "2024–07-02",
+      "source_ref": "https://ienccloud.us/ienc_WMSServices.html",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 106084358,
+    "name": "Boat Ramp",
+    "latitude": 35.2219783,
+    "longitude": -93.1509048,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 108631853,
+    "name": "Boat Ramp",
+    "latitude": 36.4755184,
+    "longitude": -92.9192678,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 108631855,
+    "name": "Boat Ramp",
+    "latitude": 36.4730488,
+    "longitude": -92.9250719,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 368986632,
+    "name": "Boat Ramp",
+    "latitude": 36.0911275,
+    "longitude": -94.3732625,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "parking_aisle"
+    }
+  },
+  {
+    "id": 461719819,
+    "name": "Boat Ramp",
+    "latitude": 36.343234,
+    "longitude": -93.9354273,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 461719820,
+    "name": "Boat Ramp",
+    "latitude": 36.3338289,
+    "longitude": -93.9403023,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 461719822,
+    "name": "Boat Ramp",
+    "latitude": 36.3332992,
+    "longitude": -93.937354,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 461719827,
+    "name": "Boat Ramp",
+    "latitude": 36.3282661,
+    "longitude": -93.9149855,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 461719828,
+    "name": "Boat Ramp",
+    "latitude": 36.3546651,
+    "longitude": -93.9852351,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 623537432,
+    "name": "Boat Ramp",
+    "latitude": 36.2533677,
+    "longitude": -90.9708179,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 624484612,
+    "name": "Boat Ramp",
+    "latitude": 35.5000116,
+    "longitude": -92.0539533,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 834310595,
+    "name": "Boat Ramp",
+    "latitude": 35.1590488,
+    "longitude": -90.0504709,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080985244,
+    "name": "Boat Ramp",
+    "latitude": 35.1681266,
+    "longitude": -93.0109581,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1082745455,
+    "name": "Boat Ramp",
+    "latitude": 35.2555179,
+    "longitude": -91.6748969,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1085716445,
+    "name": "Boat Ramp",
+    "latitude": 35.5325264,
+    "longitude": -90.424086,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1099874210,
+    "name": "Boat Ramp",
+    "latitude": 35.4869753,
+    "longitude": -93.8212387,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1104518657,
+    "name": "Boat Launch 1",
+    "latitude": 35.3062597,
+    "longitude": -93.1650418,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "dock": "drydock",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Boat Launch 1",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1104518658,
+    "name": "Boat Launch 2",
+    "latitude": 35.3061906,
+    "longitude": -93.1653057,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Boat Launch 2",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1133838755,
+    "name": "Boat Ramp",
+    "latitude": 35.7576516,
+    "longitude": -91.6402445,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1153927284,
+    "name": "Boat Ramp",
+    "latitude": 36.3515495,
+    "longitude": -94.2204714,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1168597362,
+    "name": "Boat Ramp",
+    "latitude": 35.3189013,
+    "longitude": -93.1836517,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1203154967,
+    "name": "Boat Ramp",
+    "latitude": 35.4467589,
+    "longitude": -94.5171298,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1203818207,
+    "name": "Boat Ramp",
+    "latitude": 35.4322166,
+    "longitude": -94.3697334,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1203818208,
+    "name": "Boat Ramp",
+    "latitude": 35.432274,
+    "longitude": -94.3696729,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1220236208,
+    "name": "Boat Ramp",
+    "latitude": 35.0296873,
+    "longitude": -90.2986174,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1220236210,
+    "name": "Boat Ramp",
+    "latitude": 35.0254439,
+    "longitude": -90.3045822,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1231847617,
+    "name": "Boat Ramp",
+    "latitude": 36.2673124,
+    "longitude": -90.7545099,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1240387556,
+    "name": "Boat Ramp",
+    "latitude": 36.2534779,
+    "longitude": -90.7712679,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1243109604,
+    "name": "Boat Ramp",
+    "latitude": 36.4926866,
+    "longitude": -90.7788776,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1253512797,
+    "name": "Boat Ramp",
+    "latitude": 36.1032742,
+    "longitude": -90.2765807,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1253512805,
+    "name": "Boat Ramp",
+    "latitude": 36.0604508,
+    "longitude": -90.3302618,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1253512808,
+    "name": "Boat Ramp",
+    "latitude": 36.060262,
+    "longitude": -90.3302096,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1274706235,
+    "name": "Boat Ramp",
+    "latitude": 36.3799159,
+    "longitude": -94.205144,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1280756166,
+    "name": "Boat Ramp",
+    "latitude": 35.278433,
+    "longitude": -91.7142285,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1286974589,
+    "name": "Boat Ramp",
+    "latitude": 35.5831503,
+    "longitude": -89.9567568,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "driveway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1289676464,
+    "name": "Boat Ramp",
+    "latitude": 35.208577,
+    "longitude": -91.613055,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1292746991,
+    "name": "Imboden Spring River Access",
+    "latitude": 36.2035116,
+    "longitude": -91.169868,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Imboden Spring River Access",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1305452287,
+    "name": "Boat Ramp",
+    "latitude": 35.5280761,
+    "longitude": -92.0106325,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "lanes": "4",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1328500399,
+    "name": "Boat Ramp",
+    "latitude": 35.2552373,
+    "longitude": -91.6749564,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1332727665,
+    "name": "Boat Ramp",
+    "latitude": 35.3057222,
+    "longitude": -90.06763,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1333207723,
+    "name": "Boat Ramp",
+    "latitude": 35.6062997,
+    "longitude": -89.9377855,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 1347430002,
+    "name": "Boat Ramp",
+    "latitude": 35.4927152,
+    "longitude": -92.053686,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "bing",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1351697913,
+    "name": "Boat Ramp",
+    "latitude": 35.7815028,
+    "longitude": -90.7038353,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1355397228,
+    "name": "Boat Ramp",
+    "latitude": 36.4768449,
+    "longitude": -93.006672,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1360231011,
+    "name": "Boat Ramp",
+    "latitude": 35.9722945,
+    "longitude": -90.7194054,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1360285624,
+    "name": "Boat Ramp",
+    "latitude": 36.0474097,
+    "longitude": -90.6667725,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1365628970,
+    "name": "Boat Ramp",
+    "latitude": 35.5110515,
+    "longitude": -91.9959047,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1387026958,
+    "name": "Boat Ramp",
+    "latitude": 35.2232317,
+    "longitude": -91.8178582,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1420374157,
+    "name": "Boat Ramp",
+    "latitude": 36.105068,
+    "longitude": -91.3868639,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1425614012,
+    "name": "Boat Ramp",
+    "latitude": 35.28695,
+    "longitude": -92.2856396,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1431465337,
+    "name": "Boat Ramp",
+    "latitude": 35.5146466,
+    "longitude": -89.9385099,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "private",
+      "highway": "track",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1431465350,
+    "name": "Randolph Landing",
+    "latitude": 35.5156431,
+    "longitude": -89.954265,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "alt_name": "Duval Landing",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Randolph Landing",
+      "service": "slipway",
+      "source": "USACE Inland Navigational Chart U37LM716",
+      "source:date": "2024-07-02",
+      "source_ref": "https://ienccloud.us/ienc_WMSServices.html",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1431670816,
+    "name": "Island 35 Boat Ramp",
+    "latitude": 35.5306278,
+    "longitude": -89.9704587,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "track",
+      "leisure": "slipway",
+      "name": "Island 35 Boat Ramp",
+      "source": "USACE Inland Navigational Chart U37LM716",
+      "source:date": "2024-07-02",
+      "source_ref": "https://ienccloud.us/ienc_WMSServices.html",
+      "surface": "concrete",
+      "tracktype": "grade1"
+    }
+  },
+  {
+    "id": 1431674711,
+    "name": "Boat Ramp",
+    "latitude": 35.5056776,
+    "longitude": -90.0166768,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "track",
+      "leisure": "slipway",
+      "surface": "concrete",
+      "tracktype": "grade1"
+    }
+  },
+  {
+    "id": 1431680603,
+    "name": "Boat Ramp",
+    "latitude": 35.5341327,
+    "longitude": -89.89,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "track",
+      "leisure": "slipway",
+      "surface": "concrete",
+      "tracktype": "grade1"
+    }
+  },
+  {
+    "id": 1434915791,
+    "name": "Ensley",
+    "latitude": 35.0742014,
+    "longitude": -90.1316677,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Ensley",
+      "service": "slipway",
+      "source": "USACE Inland Navigational Chart U37LM716",
+      "source:date": "2024-07-02",
+      "source_ref": "https://ienccloud.us/ienc_WMSServices.html",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1435273155,
+    "name": "Boat Ramp",
+    "latitude": 35.5868456,
+    "longitude": -90.4388496,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete",
+      "tracktype": "grade1"
+    }
+  },
+  {
+    "id": 1435273157,
+    "name": "Boat Ramp",
+    "latitude": 35.5868402,
+    "longitude": -90.4389991,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete",
+      "tracktype": "grade1"
+    }
+  },
+  {
+    "id": 1442497983,
+    "name": "Boat Ramp",
+    "latitude": 35.2535804,
+    "longitude": -93.1709504,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1476215080,
+    "name": "Boat Ramp",
+    "latitude": 36.3080386,
+    "longitude": -92.5746927,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1476277510,
+    "name": "Boat Ramp",
+    "latitude": 36.3744092,
+    "longitude": -92.5522799,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1476277520,
+    "name": "Boat Ramp",
+    "latitude": 36.4037918,
+    "longitude": -92.510643,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1476704784,
+    "name": "Boat Ramp",
+    "latitude": 36.3743497,
+    "longitude": -92.2524385,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1476704786,
+    "name": "Boat Ramp",
+    "latitude": 36.3753929,
+    "longitude": -92.2508019,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1476704844,
+    "name": "Boat Ramp",
+    "latitude": 36.4784765,
+    "longitude": -92.2567232,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1481442628,
+    "name": "Boat Ramp",
+    "latitude": 35.3442865,
+    "longitude": -90.2466524,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 116940023,
+    "name": "Boat Ramp",
+    "latitude": 33.9874778,
+    "longitude": -91.3624169,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 117159381,
+    "name": "Boat Ramp",
+    "latitude": 33.6969694,
+    "longitude": -93.9431197,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 117219944,
+    "name": "Boat Ramp",
+    "latitude": 34.5816898,
+    "longitude": -93.2666523,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 117375291,
+    "name": "Boat Ramp",
+    "latitude": 34.4077114,
+    "longitude": -92.1009237,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 117389285,
+    "name": "Boat Ramp",
+    "latitude": 34.0813736,
+    "longitude": -91.4417885,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 117532902,
+    "name": "Boat Ramp",
+    "latitude": 34.7288828,
+    "longitude": -90.6506512,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 118548769,
+    "name": "Boat Ramp",
+    "latitude": 34.7485457,
+    "longitude": -92.229203,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 118618597,
+    "name": "Boat Ramp",
+    "latitude": 34.813068,
+    "longitude": -92.8933946,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 119243474,
+    "name": "Boat Ramp",
+    "latitude": 34.9530249,
+    "longitude": -93.3042294,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 124880209,
+    "name": "Boat Ramp",
+    "latitude": 34.7706424,
+    "longitude": -90.1098829,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 132753772,
+    "name": "Boat Ramp",
+    "latitude": 34.1369683,
+    "longitude": -89.8899713,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 358993530,
+    "name": "Okay Landing Recreation Area",
+    "latitude": 33.7772113,
+    "longitude": -93.9279156,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "ele": "89",
+      "leisure": "slipway",
+      "name": "Okay Landing Recreation Area"
+    }
+  },
+  {
+    "id": 906759354,
+    "name": "Boat Ramp",
+    "latitude": 34.7990901,
+    "longitude": -92.385321,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 906788419,
+    "name": "Boat Ramp",
+    "latitude": 34.78572,
+    "longitude": -92.3363847,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 906791921,
+    "name": "Boat Ramp",
+    "latitude": 34.7869483,
+    "longitude": -92.334397,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 906948792,
+    "name": "Boat Ramp",
+    "latitude": 34.7899969,
+    "longitude": -92.3159182,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 906950726,
+    "name": "Boat Ramp",
+    "latitude": 34.7871376,
+    "longitude": -92.3079467,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1349704519,
+    "name": "Boat Ramp",
+    "latitude": 34.8954485,
+    "longitude": -92.1618324,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1433645144,
+    "name": "Boat Ramp",
+    "latitude": 34.7517529,
+    "longitude": -92.2620075,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1476956069,
+    "name": "Boat Ramp",
+    "latitude": 34.7901052,
+    "longitude": -91.4467299,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1539101358,
+    "name": "Boat Ramp",
+    "latitude": 34.6261866,
+    "longitude": -93.542379,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1539277223,
+    "name": "Boat Ramp",
+    "latitude": 34.6332635,
+    "longitude": -93.4701645,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 1539550511,
+    "name": "Boat Ramp",
+    "latitude": 34.576,
+    "longitude": -93.4272424,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1540443796,
+    "name": "Boat Ramp",
+    "latitude": 34.4816915,
+    "longitude": -93.1323219,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1547238582,
+    "name": "Boat Ramp",
+    "latitude": 34.4722605,
+    "longitude": -93.1273617,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1551672819,
+    "name": "Boat Ramp",
+    "latitude": 34.4305381,
+    "longitude": -93.0851206,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1551673158,
+    "name": "Boat Ramp",
+    "latitude": 34.4350987,
+    "longitude": -93.0873967,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1551675162,
+    "name": "Boat Ramp",
+    "latitude": 34.438959,
+    "longitude": -93.0879629,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1551675401,
+    "name": "Boat Ramp",
+    "latitude": 34.4398059,
+    "longitude": -93.0855623,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1561694815,
+    "name": "Boat Ramp",
+    "latitude": 34.6158912,
+    "longitude": -93.1781843,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1561695140,
+    "name": "Boat Ramp",
+    "latitude": 34.6195849,
+    "longitude": -93.1787311,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1562238635,
+    "name": "Boat Ramp",
+    "latitude": 34.4415415,
+    "longitude": -92.9953638,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1562238748,
+    "name": "Boat Ramp",
+    "latitude": 34.4429053,
+    "longitude": -92.9886375,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1562245609,
+    "name": "Boat Ramp",
+    "latitude": 34.4403325,
+    "longitude": -93.0641714,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1563511096,
+    "name": "Boat Ramp",
+    "latitude": 34.5695694,
+    "longitude": -93.4624075,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1563511313,
+    "name": "Boat Ramp",
+    "latitude": 34.5719738,
+    "longitude": -93.4680154,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1885686914,
+    "name": "Cook'S Landing Arkansas River Boat Launch",
+    "latitude": 34.8011338,
+    "longitude": -92.3557183,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Cook's Landing Arkansas River Boat Launch"
+    }
+  },
+  {
+    "id": 2092451247,
+    "name": "Boat Ramp",
+    "latitude": 33.1581137,
+    "longitude": -92.1118805,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2349454357,
+    "name": "Harris Road Access",
+    "latitude": 33.7019762,
+    "longitude": -91.8278985,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Harris Road Access"
+    }
+  },
+  {
+    "id": 2349458384,
+    "name": "Humger Run Access",
+    "latitude": 33.7100123,
+    "longitude": -91.8552717,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Humger Run Access"
+    }
+  },
+  {
+    "id": 2441262402,
+    "name": "Boat Ramp",
+    "latitude": 34.2378174,
+    "longitude": -92.9582446,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2554815660,
+    "name": "Yazoo River Boat Ramp",
+    "latitude": 33.5227762,
+    "longitude": -90.1824483,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Yazoo River Boat Ramp"
+    }
+  },
+  {
+    "id": 2702113946,
+    "name": "Boat Ramp",
+    "latitude": 33.4974268,
+    "longitude": -94.1020142,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3003082004,
+    "name": "Boat Ramp",
+    "latitude": 34.7990637,
+    "longitude": -92.3852951,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3393154855,
+    "name": "Coldwater Point Boat Ramp",
+    "latitude": 34.7049136,
+    "longitude": -89.9986098,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Coldwater Point Boat Ramp",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 3958913523,
+    "name": "Boat Ramp",
+    "latitude": 34.9774768,
+    "longitude": -91.4924913,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 4000827590,
+    "name": "Boat Ramp",
+    "latitude": 34.7331623,
+    "longitude": -92.6059787,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4020822545,
+    "name": "Boat Ramp",
+    "latitude": 34.2251166,
+    "longitude": -90.7264497,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4363455241,
+    "name": "Boat Ramp",
+    "latitude": 34.3142183,
+    "longitude": -89.6488338,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4472142334,
+    "name": "Boat Ramp",
+    "latitude": 34.7080387,
+    "longitude": -92.2850639,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 4476082822,
+    "name": "Boat Ramp",
+    "latitude": 33.5873621,
+    "longitude": -92.823471,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4476082913,
+    "name": "Boat Ramp",
+    "latitude": 33.5923651,
+    "longitude": -92.8206266,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4477568629,
+    "name": "Boat Ramp",
+    "latitude": 33.2788492,
+    "longitude": -91.219137,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4477568636,
+    "name": "Boat Ramp",
+    "latitude": 33.2792458,
+    "longitude": -91.2242059,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4613035384,
+    "name": "Boat Ramp",
+    "latitude": 34.2879916,
+    "longitude": -91.998921,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4974934843,
+    "name": "Boat Ramp",
+    "latitude": 34.6941897,
+    "longitude": -90.461758,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 4974947960,
+    "name": "Boat Ramp",
+    "latitude": 34.8398721,
+    "longitude": -90.3617706,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 5646204253,
+    "name": "Pleasant Hill Public Use Area Boat Launch",
+    "latitude": 34.7793703,
+    "longitude": -90.101352,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Pleasant Hill Public Use Area Boat Launch"
+    }
+  },
+  {
+    "id": 5646856919,
+    "name": "Boat Ramp",
+    "latitude": 34.7313304,
+    "longitude": -90.1046052,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "vehicle": "yes"
+    }
+  },
+  {
+    "id": 5752784342,
+    "name": "Boat Ramp",
+    "latitude": 33.3209488,
+    "longitude": -94.1646066,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5753092999,
+    "name": "Boat Ramp",
+    "latitude": 33.3057257,
+    "longitude": -94.153593,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5753159965,
+    "name": "Boat Ramp",
+    "latitude": 33.299956,
+    "longitude": -94.1726103,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5756853638,
+    "name": "Boat Ramp",
+    "latitude": 33.2858225,
+    "longitude": -94.1720596,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5779257708,
+    "name": "Boat Ramp",
+    "latitude": 34.670069,
+    "longitude": -93.2259681,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 5876409552,
+    "name": "Boat Ramp",
+    "latitude": 34.7225605,
+    "longitude": -89.989958,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5893666707,
+    "name": "Boat Ramp",
+    "latitude": 34.2533851,
+    "longitude": -91.982498,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5893666716,
+    "name": "Boat Ramp",
+    "latitude": 34.2521849,
+    "longitude": -91.9826317,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5902471856,
+    "name": "Boat Ramp",
+    "latitude": 34.8308884,
+    "longitude": -92.4302294,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5955371828,
+    "name": "Boat Ramp",
+    "latitude": 33.1705386,
+    "longitude": -90.4903932,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 6157572687,
+    "name": "Boat Ramp",
+    "latitude": 34.2199685,
+    "longitude": -91.0602539,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6185352856,
+    "name": "Boat Ramp",
+    "latitude": 34.6087775,
+    "longitude": -93.0393858,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6262049037,
+    "name": "Boat Ramp",
+    "latitude": 34.5873075,
+    "longitude": -92.6049335,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6309097179,
+    "name": "Boat Ramp",
+    "latitude": 34.8811301,
+    "longitude": -91.1703211,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6309097393,
+    "name": "Boat Ramp",
+    "latitude": 34.8680365,
+    "longitude": -91.1690096,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6875260484,
+    "name": "Boat Ramp",
+    "latitude": 34.7202981,
+    "longitude": -92.6411531,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6905115190,
+    "name": "Boat Ramp",
+    "latitude": 34.7907821,
+    "longitude": -91.4447478,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 7089732681,
+    "name": "Boat Ramp",
+    "latitude": 34.479787,
+    "longitude": -93.1631558,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "private",
+      "fee": "no",
+      "lanes": "1",
+      "leisure": "slipway",
+      "lit": "no",
+      "name": "boat ramp",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 7255551682,
+    "name": "Boat Ramp",
+    "latitude": 33.0564119,
+    "longitude": -92.1250481,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7255679966,
+    "name": "Felsenthal Boat Ramp",
+    "latitude": 33.0669342,
+    "longitude": -92.1296707,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "lanes": "2",
+      "leisure": "slipway",
+      "name": "Felsenthal Boat Ramp",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 7290589384,
+    "name": "Boat Ramp",
+    "latitude": 34.7360162,
+    "longitude": -90.0752103,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7476249323,
+    "name": "Boat Ramp",
+    "latitude": 34.3826844,
+    "longitude": -91.0680825,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7779340655,
+    "name": "Boat Ramp",
+    "latitude": 33.6841751,
+    "longitude": -93.982529,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7779340684,
+    "name": "Boat Ramp",
+    "latitude": 33.6871547,
+    "longitude": -93.9787262,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7779353985,
+    "name": "Boat Ramp",
+    "latitude": 33.690776,
+    "longitude": -93.1115122,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7785905830,
+    "name": "Boat Ramp",
+    "latitude": 34.1585292,
+    "longitude": -89.8994586,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7788164324,
+    "name": "Boat Ramp",
+    "latitude": 33.3755781,
+    "longitude": -91.0917444,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7891115898,
+    "name": "Boat Ramp",
+    "latitude": 34.6570665,
+    "longitude": -93.5210833,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7935720891,
+    "name": "Boat Ramp",
+    "latitude": 34.6889566,
+    "longitude": -93.3643598,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8297644812,
+    "name": "Boat Ramp",
+    "latitude": 34.2832033,
+    "longitude": -91.9481316,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8297704317,
+    "name": "Boat Ramp",
+    "latitude": 34.2671562,
+    "longitude": -91.940777,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8297704328,
+    "name": "Boat Ramp",
+    "latitude": 34.2674002,
+    "longitude": -91.9407555,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8297704334,
+    "name": "Boat Ramp",
+    "latitude": 34.4122161,
+    "longitude": -92.0993806,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8297704339,
+    "name": "Boat Ramp",
+    "latitude": 34.3269248,
+    "longitude": -92.0569035,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8297704348,
+    "name": "Boat Ramp",
+    "latitude": 34.4523733,
+    "longitude": -92.1088059,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8297736571,
+    "name": "Boat Ramp",
+    "latitude": 34.7019433,
+    "longitude": -92.1400804,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8297736572,
+    "name": "Boat Ramp",
+    "latitude": 34.6645785,
+    "longitude": -92.1562797,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8322554872,
+    "name": "Boat Ramp",
+    "latitude": 34.9484064,
+    "longitude": -89.9309128,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8396526738,
+    "name": "Boat Ramp",
+    "latitude": 34.1264816,
+    "longitude": -89.8416962,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8396526747,
+    "name": "Boat Ramp",
+    "latitude": 34.1449341,
+    "longitude": -89.76659,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8398139737,
+    "name": "Boat Ramp",
+    "latitude": 34.8311038,
+    "longitude": -91.3765497,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8457088567,
+    "name": "Boat Ramp",
+    "latitude": 33.6871924,
+    "longitude": -93.9638646,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImagery"
+    }
+  },
+  {
+    "id": 8457112247,
+    "name": "Index Bridge Boat Ramp",
+    "latitude": 33.5517809,
+    "longitude": -94.0408708,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Index Bridge Boat Ramp",
+      "source": "Bing",
+      "surface": "asphalt",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 8574201053,
+    "name": "Boat Ramp",
+    "latitude": 34.5725384,
+    "longitude": -93.2163939,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8574230111,
+    "name": "Boat Ramp",
+    "latitude": 34.5878374,
+    "longitude": -93.2570252,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8715271596,
+    "name": "Boat Ramp",
+    "latitude": 34.2319496,
+    "longitude": -93.7363635,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8715271598,
+    "name": "Boat Ramp",
+    "latitude": 34.2295174,
+    "longitude": -93.7468031,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8715271601,
+    "name": "Boat Ramp",
+    "latitude": 34.2344059,
+    "longitude": -93.7550666,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8826200991,
+    "name": "Boat Ramp",
+    "latitude": 34.1304278,
+    "longitude": -89.8909249,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9102497366,
+    "name": "Boat Ramp",
+    "latitude": 33.8657496,
+    "longitude": -90.9581687,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 9102497367,
+    "name": "Boat Ramp",
+    "latitude": 33.8686595,
+    "longitude": -90.9531619,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 9261989447,
+    "name": "Boat Ramp",
+    "latitude": 34.5946469,
+    "longitude": -90.5979705,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9261989457,
+    "name": "Boat Ramp",
+    "latitude": 34.5982506,
+    "longitude": -90.6112938,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9278092903,
+    "name": "Boat Ramp",
+    "latitude": 34.7087349,
+    "longitude": -90.6928658,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9278887994,
+    "name": "Boat Ramp",
+    "latitude": 34.9597306,
+    "longitude": -92.4048437,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 9293545915,
+    "name": "Boat Ramp",
+    "latitude": 34.9389891,
+    "longitude": -92.4185908,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "operator": "Arkansas Game and Fish Commission",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 9293617655,
+    "name": "Adam'S Lake Boat Ramp",
+    "latitude": 34.9940301,
+    "longitude": -92.3848379,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Adam's Lake Boat Ramp"
+    }
+  },
+  {
+    "id": 9294121811,
+    "name": "Boat Ramp",
+    "latitude": 34.9794854,
+    "longitude": -92.3855669,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "lanes": "1",
+      "leisure": "slipway",
+      "surface": "dirt"
+    }
+  },
+  {
+    "id": 9294134059,
+    "name": "Adams Lake Boat Ramp",
+    "latitude": 34.9980935,
+    "longitude": -92.3803301,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "lanes": "1",
+      "leisure": "slipway",
+      "name": "Adams Lake Boat Ramp",
+      "surface": "dirt"
+    }
+  },
+  {
+    "id": 9356664047,
+    "name": "Boat Ramp",
+    "latitude": 34.8386571,
+    "longitude": -92.4911848,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9890581866,
+    "name": "Boat Ramp",
+    "latitude": 34.3217392,
+    "longitude": -89.6460713,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9906427878,
+    "name": "Boat Ramp",
+    "latitude": 33.829902,
+    "longitude": -89.6033906,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9906481621,
+    "name": "Boat Ramp",
+    "latitude": 33.8275248,
+    "longitude": -89.647294,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9906481622,
+    "name": "Boat Ramp",
+    "latitude": 33.8390946,
+    "longitude": -89.6798179,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9906488901,
+    "name": "Boat Ramp",
+    "latitude": 34.136641,
+    "longitude": -89.8390818,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9906489995,
+    "name": "Boat Ramp",
+    "latitude": 34.1595851,
+    "longitude": -89.8554266,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9906501943,
+    "name": "Boat Ramp",
+    "latitude": 34.1640966,
+    "longitude": -89.886444,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9906523120,
+    "name": "Boat Ramp",
+    "latitude": 34.1326377,
+    "longitude": -89.8975578,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9906523122,
+    "name": "Boat Ramp",
+    "latitude": 34.1315842,
+    "longitude": -89.898702,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9906554933,
+    "name": "Boat Ramp",
+    "latitude": 34.1628476,
+    "longitude": -89.8256229,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9906557123,
+    "name": "Boat Ramp",
+    "latitude": 34.1587663,
+    "longitude": -89.8990887,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9906599801,
+    "name": "Boat Ramp",
+    "latitude": 33.2968759,
+    "longitude": -91.2750009,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9959597954,
+    "name": "Boat Ramp",
+    "latitude": 33.248081,
+    "longitude": -91.146273,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9966065589,
+    "name": "Boat Ramp",
+    "latitude": 34.344395,
+    "longitude": -91.7044111,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10187058035,
+    "name": "Boat Ramp",
+    "latitude": 33.418717,
+    "longitude": -90.6337858,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10281257743,
+    "name": "Boat Ramp",
+    "latitude": 34.4067837,
+    "longitude": -89.8031922,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10552530790,
+    "name": "Boat Ramp",
+    "latitude": 33.8057941,
+    "longitude": -89.7435774,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10552530791,
+    "name": "Boat Ramp",
+    "latitude": 33.8006868,
+    "longitude": -89.743069,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10552530792,
+    "name": "Boat Ramp",
+    "latitude": 33.7992525,
+    "longitude": -89.7597926,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10613231439,
+    "name": "Boat Ramp",
+    "latitude": 34.9864018,
+    "longitude": -92.7729454,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10613231879,
+    "name": "Boat Ramp",
+    "latitude": 34.9849972,
+    "longitude": -92.7820142,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10712724748,
+    "name": "Boat Ramp",
+    "latitude": 34.8438676,
+    "longitude": -92.4621976,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10725606015,
+    "name": "Boat Ramp",
+    "latitude": 33.3000715,
+    "longitude": -92.3501565,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 10725606016,
+    "name": "Boat Ramp",
+    "latitude": 33.2991883,
+    "longitude": -92.3498776,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 10725606018,
+    "name": "Boat Ramp",
+    "latitude": 34.5334674,
+    "longitude": -93.1888168,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 10773301072,
+    "name": "Boat Ramp",
+    "latitude": 34.1998239,
+    "longitude": -93.1077493,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10837719381,
+    "name": "Boat Ramp",
+    "latitude": 34.1766794,
+    "longitude": -93.0713863,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11002552276,
+    "name": "Boat Ramp",
+    "latitude": 33.0272486,
+    "longitude": -89.9249321,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11041551228,
+    "name": "Boat Ramp",
+    "latitude": 34.5732985,
+    "longitude": -93.4375381,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11049346341,
+    "name": "Boat Ramp",
+    "latitude": 33.8051183,
+    "longitude": -92.8967162,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11060565578,
+    "name": "Boat Ramp",
+    "latitude": 34.21963,
+    "longitude": -93.1013307,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 11137529176,
+    "name": "Carter Cove Boat Launch",
+    "latitude": 34.9600604,
+    "longitude": -93.2382412,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Carter Cove Boat Launch"
+    }
+  },
+  {
+    "id": 11176594280,
+    "name": "Boat Ramp",
+    "latitude": 33.9965657,
+    "longitude": -93.3326419,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 11176594281,
+    "name": "Boat Ramp",
+    "latitude": 33.9956074,
+    "longitude": -93.3322683,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 11355825796,
+    "name": "Boat Ramp",
+    "latitude": 34.3109847,
+    "longitude": -92.0643936,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11662668354,
+    "name": "Boat Ramp",
+    "latitude": 34.2241461,
+    "longitude": -93.1185342,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11810064882,
+    "name": "Boat Ramp",
+    "latitude": 33.0876714,
+    "longitude": -93.8585877,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11907385998,
+    "name": "Boat Ramp",
+    "latitude": 34.9790517,
+    "longitude": -90.6768114,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11988872260,
+    "name": "Boat Ramp",
+    "latitude": 34.2449977,
+    "longitude": -93.1191573,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12474797466,
+    "name": "Boat Ramp",
+    "latitude": 34.8792619,
+    "longitude": -92.6672215,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12616374556,
+    "name": "Boat Ramp",
+    "latitude": 33.8311132,
+    "longitude": -93.2359054,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12618648701,
+    "name": "Bayou Meto Creek Canoe Trail W. Main Access",
+    "latitude": 34.8658775,
+    "longitude": -92.1615797,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Bayou Meto Creek Canoe Trail W. Main Access"
+    }
+  },
+  {
+    "id": 12649003629,
+    "name": "Boat Ramp",
+    "latitude": 34.2509089,
+    "longitude": -93.1432139,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12649092154,
+    "name": "Boat Ramp",
+    "latitude": 34.2444374,
+    "longitude": -93.1702523,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12800046709,
+    "name": "Boat Ramp",
+    "latitude": 33.9052058,
+    "longitude": -92.8934961,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12956832700,
+    "name": "Sunnybrook Landing",
+    "latitude": 34.445108,
+    "longitude": -93.0261418,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Sunnybrook Landing",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 12956987855,
+    "name": "Boat Ramp",
+    "latitude": 34.4426919,
+    "longitude": -93.0211648,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12956987856,
+    "name": "Boat Ramp",
+    "latitude": 34.442693,
+    "longitude": -93.0213941,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12956987857,
+    "name": "Boat Ramp",
+    "latitude": 34.4431586,
+    "longitude": -93.0189801,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12980119326,
+    "name": "Boat Ramp",
+    "latitude": 34.8472667,
+    "longitude": -92.4639924,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13009897309,
+    "name": "Boat Ramp",
+    "latitude": 34.5461437,
+    "longitude": -93.7988821,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13105952520,
+    "name": "Boat Ramp",
+    "latitude": 34.8509144,
+    "longitude": -92.1283554,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 13241285610,
+    "name": "Boat Ramp",
+    "latitude": 33.3306532,
+    "longitude": -91.2811686,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13248783315,
+    "name": "Hot Springs Creek Greenway Trail Kayak Launch",
+    "latitude": 34.4639034,
+    "longitude": -93.0440681,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Hot Springs Creek Greenway Trail Kayak Launch",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 13391420393,
+    "name": "Boat Ramp",
+    "latitude": 34.3219401,
+    "longitude": -90.8283287,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13429312824,
+    "name": "Boat Ramp",
+    "latitude": 34.2308777,
+    "longitude": -92.0024432,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13483974302,
+    "name": "Lenox Marbus Boat Ramp",
+    "latitude": 34.2701284,
+    "longitude": -93.2270902,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "fee": "yes",
+      "leisure": "slipway",
+      "name": "Lenox Marbus Boat Ramp",
+      "surface": "concrete",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 12783982,
+    "name": "Boat Ramp",
+    "latitude": 33.9872703,
+    "longitude": -91.3621595,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "residential",
+      "leisure": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Desha, AR",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 13268348,
+    "name": "Boat Ramp",
+    "latitude": 33.9876171,
+    "longitude": -91.3094035,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Arkansas, AR",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 77006474,
+    "name": "Boat Ramp",
+    "latitude": 34.786858,
+    "longitude": -92.3345655,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 77020407,
+    "name": "Boat Ramp",
+    "latitude": 34.7872907,
+    "longitude": -92.3079788,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 307818280,
+    "name": "Boat Ramp",
+    "latitude": 34.469784,
+    "longitude": -89.6393214,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "oneway": "no",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 352185842,
+    "name": "Boat Ramp",
+    "latitude": 34.0485997,
+    "longitude": -93.7205678,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "ele": "104",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 450850890,
+    "name": "Boat Ramp",
+    "latitude": 33.2789355,
+    "longitude": -91.2191446,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 450850891,
+    "name": "Boat Ramp",
+    "latitude": 33.279328,
+    "longitude": -91.2241375,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 569038075,
+    "name": "Boat Ramp",
+    "latitude": 33.2345132,
+    "longitude": -94.257124,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 569038078,
+    "name": "Boat Ramp",
+    "latitude": 33.2369315,
+    "longitude": -94.2352449,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 688431506,
+    "name": "Boat Ramp",
+    "latitude": 34.7167098,
+    "longitude": -92.2066291,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 801365445,
+    "name": "Boat Ramp",
+    "latitude": 34.5132541,
+    "longitude": -91.2743077,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 801365461,
+    "name": "Boat Ramp",
+    "latitude": 34.5350636,
+    "longitude": -91.3025356,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 834306088,
+    "name": "U.S. Coast Guard - Moorings Greenville",
+    "latitude": 33.3754824,
+    "longitude": -91.0915736,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "U.S. Coast Guard - Moorings Greenville",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 932631792,
+    "name": "Boat Ramp",
+    "latitude": 34.7084525,
+    "longitude": -92.2828386,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1065122544,
+    "name": "Murray Park Arkansas River Boat Launch",
+    "latitude": 34.785548,
+    "longitude": -92.3363829,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "unknown",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "name": "Murray Park Arkansas River Boat Launch",
+      "service": "slipway",
+      "surface": "asphalt",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Pulaski, AR"
+    }
+  },
+  {
+    "id": 1080808628,
+    "name": "Boat Ramp",
+    "latitude": 33.8424983,
+    "longitude": -89.7766886,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "oneway": "no",
+      "service": "slipway",
+      "surface": "paved",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Grenada, MS",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1080816138,
+    "name": "Boat Ramp",
+    "latitude": 33.7995126,
+    "longitude": -89.7600209,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080816174,
+    "name": "Boat Ramp",
+    "latitude": 33.800345,
+    "longitude": -89.7431734,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080816321,
+    "name": "Boat Ramp",
+    "latitude": 33.8059749,
+    "longitude": -89.7432524,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080816411,
+    "name": "Boat Ramp",
+    "latitude": 33.8045647,
+    "longitude": -89.7122789,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080816552,
+    "name": "South Graysport",
+    "latitude": 33.8136047,
+    "longitude": -89.6146647,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "South Graysport",
+      "service": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Grenada, MS",
+      "tiger:name_base": "South Graysport",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1080817026,
+    "name": "Boat Ramp",
+    "latitude": 33.8300612,
+    "longitude": -89.6033251,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080817484,
+    "name": "Boat Ramp",
+    "latitude": 33.8275844,
+    "longitude": -89.6473074,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080817642,
+    "name": "Boat Ramp",
+    "latitude": 33.8392586,
+    "longitude": -89.679863,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080817995,
+    "name": "Boat Ramp",
+    "latitude": 33.8784661,
+    "longitude": -89.6901158,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080818267,
+    "name": "Boat Ramp",
+    "latitude": 33.9059229,
+    "longitude": -89.6273783,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080818385,
+    "name": "Boat Ramp",
+    "latitude": 33.8753077,
+    "longitude": -89.7136649,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080818709,
+    "name": "Boat Ramp",
+    "latitude": 33.854493,
+    "longitude": -89.7607398,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080825187,
+    "name": "Boat Ramp",
+    "latitude": 34.1325646,
+    "longitude": -89.8976694,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080825188,
+    "name": "Boat Ramp",
+    "latitude": 34.13152,
+    "longitude": -89.8988228,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080825239,
+    "name": "Boat Ramp",
+    "latitude": 34.1303082,
+    "longitude": -89.8907997,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080825402,
+    "name": "Boat Ramp",
+    "latitude": 34.1370083,
+    "longitude": -89.8897568,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080825598,
+    "name": "Boat Ramp",
+    "latitude": 34.1263904,
+    "longitude": -89.8417703,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080826168,
+    "name": "Boat Ramp",
+    "latitude": 34.1367226,
+    "longitude": -89.8388461,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080826751,
+    "name": "Boat Ramp",
+    "latitude": 34.1446702,
+    "longitude": -89.7664697,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080826942,
+    "name": "Boat Ramp",
+    "latitude": 34.1776447,
+    "longitude": -89.7350529,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080827291,
+    "name": "Boat Ramp",
+    "latitude": 34.1629349,
+    "longitude": -89.8257373,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080827303,
+    "name": "Boat Ramp",
+    "latitude": 34.1597225,
+    "longitude": -89.8553545,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080827382,
+    "name": "Boat Ramp",
+    "latitude": 34.164126,
+    "longitude": -89.8865669,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080827597,
+    "name": "Boat Ramp",
+    "latitude": 34.158829,
+    "longitude": -89.8991467,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080827598,
+    "name": "Boat Ramp",
+    "latitude": 34.1587068,
+    "longitude": -89.8994087,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080827966,
+    "name": "Boat Ramp",
+    "latitude": 34.4068242,
+    "longitude": -89.8031561,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080828147,
+    "name": "Boat Ramp",
+    "latitude": 34.3983482,
+    "longitude": -89.7850416,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080828686,
+    "name": "Boat Ramp",
+    "latitude": 34.3954899,
+    "longitude": -89.7803986,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080829116,
+    "name": "Boat Ramp",
+    "latitude": 34.4165388,
+    "longitude": -89.7426195,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080829200,
+    "name": "Boat Ramp",
+    "latitude": 34.4189154,
+    "longitude": -89.7390669,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080829218,
+    "name": "Boat Ramp",
+    "latitude": 34.4252739,
+    "longitude": -89.7110143,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080829238,
+    "name": "Boat Ramp",
+    "latitude": 34.4699564,
+    "longitude": -89.6394237,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080829239,
+    "name": "Boat Ramp",
+    "latitude": 34.4698699,
+    "longitude": -89.6389964,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080829988,
+    "name": "Boat Ramp",
+    "latitude": 34.5009497,
+    "longitude": -89.6583193,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080829989,
+    "name": "Boat Ramp",
+    "latitude": 34.5016108,
+    "longitude": -89.658112,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080830038,
+    "name": "Boat Ramp",
+    "latitude": 34.5021262,
+    "longitude": -89.6575952,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1080830671,
+    "name": "Boat Ramp",
+    "latitude": 34.4360598,
+    "longitude": -89.7837294,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1087004120,
+    "name": "Boat Ramp",
+    "latitude": 33.2479796,
+    "longitude": -91.146468,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "track",
+      "leisure": "slipway",
+      "surface": "ground",
+      "tracktype": "grade3"
+    }
+  },
+  {
+    "id": 1107683197,
+    "name": "Boat Ramp",
+    "latitude": 34.7901753,
+    "longitude": -92.315894,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 1118791901,
+    "name": "Boat Ramp",
+    "latitude": 34.7706082,
+    "longitude": -92.2988581,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1144627965,
+    "name": "Boat Ramp",
+    "latitude": 34.7008407,
+    "longitude": -90.4657654,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1144921230,
+    "name": "Boat Ramp",
+    "latitude": 34.6653852,
+    "longitude": -90.55464,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1182639260,
+    "name": "Boat Ramp",
+    "latitude": 34.7290753,
+    "longitude": -90.6510028,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Lee, AR",
+      "tiger:reviewed": "aerial"
+    }
+  },
+  {
+    "id": 1183297798,
+    "name": "Boat Ramp",
+    "latitude": 34.7203635,
+    "longitude": -90.5720449,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1193869787,
+    "name": "Boat Ramp",
+    "latitude": 33.9712322,
+    "longitude": -90.3684004,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1230844177,
+    "name": "Boat Ramp",
+    "latitude": 33.9224326,
+    "longitude": -89.7047822,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1283522996,
+    "name": "Boat Ramp",
+    "latitude": 34.9736241,
+    "longitude": -90.6099296,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1368026189,
+    "name": "Boat Ramp",
+    "latitude": 33.6207877,
+    "longitude": -93.8606272,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name_1": "County Road 190",
+      "surface": "concrete",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Hempstead, AR",
+      "tiger:name_base": "Allen's Ferry",
+      "tiger:name_base_1": "County Road 190",
+      "tiger:name_type": "Rd",
+      "tiger:reviewed": "aerial"
+    }
+  },
+  {
+    "id": 1396229582,
+    "name": "Parker Bayou Boat Ramp",
+    "latitude": 33.0322931,
+    "longitude": -90.3281811,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Parker Bayou Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1420014578,
+    "name": "Boat Ramp",
+    "latitude": 33.601876,
+    "longitude": -91.1656564,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1428571977,
+    "name": "Big Top Landing",
+    "latitude": 33.1053818,
+    "longitude": -91.0620652,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Big Top Landing",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1428585935,
+    "name": "Roy'S Store Landing",
+    "latitude": 33.1041783,
+    "longitude": -91.0771031,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Roy's Store Landing",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1428618146,
+    "name": "Ford Landing",
+    "latitude": 33.1037593,
+    "longitude": -91.078654,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Ford Landing",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1444230284,
+    "name": "Boat Ramp",
+    "latitude": 34.2524501,
+    "longitude": -91.9472788,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1445400975,
+    "name": "Sheppard Island Boat Ramp",
+    "latitude": 34.2444063,
+    "longitude": -91.899416,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Sheppard Island Boat Ramp",
+      "operator": "United States Army Corps of Engineers",
+      "operator:short": "USACE",
+      "operator:type": "military",
+      "operator:wikidata": "Q1049334",
+      "service": "slipway",
+      "source": "USACE Inland Navigational Chart U37AR063",
+      "source:date": "2024–05-30",
+      "source_ref": "https://ienccloud.us/ienc_WMSServices.html",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1446266669,
+    "name": "Boat Ramp",
+    "latitude": 34.0208049,
+    "longitude": -91.1864346,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1446266670,
+    "name": "Boat Ramp",
+    "latitude": 34.020543,
+    "longitude": -91.1866466,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1446479970,
+    "name": "Boat Ramp",
+    "latitude": 34.0326595,
+    "longitude": -91.2676284,
+    "state": "Arkansas",
+    "stateAbbr": "AR",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  }
+]

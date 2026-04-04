@@ -1,0 +1,666 @@
+[
+  {
+    "id": 330437693,
+    "name": "Koloa Landing",
+    "latitude": 21.8789943,
+    "longitude": -159.4685921,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Koloa Landing"
+    }
+  },
+  {
+    "id": 582383689,
+    "name": "Boat Ramp",
+    "latitude": 19.5611736,
+    "longitude": -155.9625377,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 984335045,
+    "name": "Boat Ramp",
+    "latitude": 19.4577321,
+    "longitude": -154.8423764,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2035729202,
+    "name": "Boat Launch Ramp",
+    "latitude": 19.6695545,
+    "longitude": -156.0218756,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Launch Ramp"
+    }
+  },
+  {
+    "id": 2408426386,
+    "name": "Boat Launch",
+    "latitude": 19.7208966,
+    "longitude": -155.0713347,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Launch"
+    }
+  },
+  {
+    "id": 2420439001,
+    "name": "Boat Launch Ramp",
+    "latitude": 19.6696565,
+    "longitude": -156.0223285,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Launch Ramp"
+    }
+  },
+  {
+    "id": 2420439013,
+    "name": "Boat Launch Ramp",
+    "latitude": 19.6698161,
+    "longitude": -156.023378,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Launch Ramp"
+    }
+  },
+  {
+    "id": 2477164171,
+    "name": "Puako Boat Launch",
+    "latitude": 19.9740905,
+    "longitude": -155.8315856,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Puako Boat Launch"
+    }
+  },
+  {
+    "id": 2908525191,
+    "name": "Mala Boat Ramp",
+    "latitude": 20.8852839,
+    "longitude": -156.6867554,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mala Boat Ramp"
+    }
+  },
+  {
+    "id": 2933737011,
+    "name": "Boat Ramp",
+    "latitude": 20.8963199,
+    "longitude": -156.4782867,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3037160397,
+    "name": "Kawaihae Boat Launch",
+    "latitude": 20.0395547,
+    "longitude": -155.83177,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kawaihae Boat Launch"
+    }
+  },
+  {
+    "id": 3913312260,
+    "name": "Boat Ramp",
+    "latitude": 22.0457963,
+    "longitude": -159.3390151,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3923026090,
+    "name": "Boat Ramp",
+    "latitude": 22.0704626,
+    "longitude": -159.3177241,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4371800662,
+    "name": "Boat Ramp",
+    "latitude": 19.5611379,
+    "longitude": -155.9626093,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4393822642,
+    "name": "Boat Ramp",
+    "latitude": 19.4228734,
+    "longitude": -155.9112732,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4574448901,
+    "name": "Boat Ramp",
+    "latitude": 19.7148861,
+    "longitude": -155.07304,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5094297536,
+    "name": "Boat Ramp",
+    "latitude": 21.4178384,
+    "longitude": -157.7901445,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6302255139,
+    "name": "Boat Ramp",
+    "latitude": 21.329663,
+    "longitude": -158.1166586,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7483406899,
+    "name": "Boat Ramp",
+    "latitude": 20.0285984,
+    "longitude": -155.8282735,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7801885834,
+    "name": "Maliko Gulch",
+    "latitude": 20.9349865,
+    "longitude": -156.33905,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Maliko Gulch"
+    }
+  },
+  {
+    "id": 8386173717,
+    "name": "Boat Ramp",
+    "latitude": 21.4428304,
+    "longitude": -157.8102037,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8413833399,
+    "name": "Boat Ramp",
+    "latitude": 21.3801736,
+    "longitude": -157.7407467,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8629499815,
+    "name": "Boat Ramp",
+    "latitude": 21.4247796,
+    "longitude": -157.7985204,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8669021693,
+    "name": "Boat Ramp",
+    "latitude": 21.4175193,
+    "longitude": -157.766364,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8670579956,
+    "name": "Boat Ramp",
+    "latitude": 21.4114153,
+    "longitude": -157.7728512,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8787266729,
+    "name": "Boat Ramp",
+    "latitude": 21.4437537,
+    "longitude": -157.8100306,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9329378708,
+    "name": "Boat Ramp",
+    "latitude": 21.2840602,
+    "longitude": -157.8406165,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10095733784,
+    "name": "Boat Ramp",
+    "latitude": 21.4117657,
+    "longitude": -157.7799769,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10296510118,
+    "name": "Boat Ramp",
+    "latitude": 21.3210638,
+    "longitude": -158.120244,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11158252434,
+    "name": "Boat Ramp",
+    "latitude": 19.9427405,
+    "longitude": -155.8715085,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11681887561,
+    "name": "Boat Ramp",
+    "latitude": 21.3315752,
+    "longitude": -157.9731455,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility"
+    }
+  },
+  {
+    "id": 13284574845,
+    "name": "Boat Ramp",
+    "latitude": 21.3153936,
+    "longitude": -157.891026,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 116788683,
+    "name": "Boat Ramp",
+    "latitude": 22.2240915,
+    "longitude": -159.4466155,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp",
+      "note": "That's british for boat ramp, folks."
+    }
+  },
+  {
+    "id": 313940311,
+    "name": "Boat Ramp",
+    "latitude": 20.7414736,
+    "longitude": -156.8879748,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 329571792,
+    "name": "Boat Ramp",
+    "latitude": 19.4229986,
+    "longitude": -155.9112037,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 386692032,
+    "name": "Boat Ramp",
+    "latitude": 21.9590971,
+    "longitude": -159.6913874,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 450126454,
+    "name": "Boat Ramp",
+    "latitude": 20.7079623,
+    "longitude": -156.4461232,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 483313670,
+    "name": "Boat Ramp",
+    "latitude": 21.8790767,
+    "longitude": -159.4685793,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 732938605,
+    "name": "Boat Ramp",
+    "latitude": 21.2837179,
+    "longitude": -157.7177182,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 805842925,
+    "name": "Boat Ramp",
+    "latitude": 19.9921162,
+    "longitude": -155.2401119,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "access": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 886439751,
+    "name": "Boat Ramp",
+    "latitude": 21.9501313,
+    "longitude": -159.3581251,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 887043600,
+    "name": "Boat Ramp",
+    "latitude": 21.3120786,
+    "longitude": -157.8894945,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 940581914,
+    "name": "Boat Ramp",
+    "latitude": 21.3957507,
+    "longitude": -157.7221307,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1011200761,
+    "name": "Boat Ramp",
+    "latitude": 21.2840074,
+    "longitude": -157.8405757,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1094541882,
+    "name": "Wailupe Neighborhood Private Boat Ramp",
+    "latitude": 21.2742624,
+    "longitude": -157.7588184,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Wailupe Neighborhood Private Boat Ramp"
+    }
+  },
+  {
+    "id": 1253985153,
+    "name": "Boat Ramp",
+    "latitude": 21.4391586,
+    "longitude": -157.7631316,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1253985154,
+    "name": "Boat Ramp",
+    "latitude": 21.4389317,
+    "longitude": -157.7623524,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1256506732,
+    "name": "Boat Ramp",
+    "latitude": 21.3172825,
+    "longitude": -157.9536253,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 1256619369,
+    "name": "Boat Ramp",
+    "latitude": 21.3311485,
+    "longitude": -157.9676839,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1263194035,
+    "name": "Boat Ramp",
+    "latitude": 21.3716167,
+    "longitude": -157.9358121,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 1263194036,
+    "name": "Boat Ramp",
+    "latitude": 21.3716431,
+    "longitude": -157.9357966,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 1265105435,
+    "name": "Boat Ramp",
+    "latitude": 21.3708327,
+    "longitude": -157.9716855,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1295807429,
+    "name": "Boat Ramp",
+    "latitude": 21.0827466,
+    "longitude": -157.0273101,
+    "state": "Hawaii",
+    "stateAbbr": "HI",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  }
+]

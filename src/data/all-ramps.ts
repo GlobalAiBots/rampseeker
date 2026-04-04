@@ -1,5 +1,6 @@
 import { ramps as grandLakeRamps, amenityLabels, type Ramp } from "./ramps";
 import oklahomaRampsRaw from "./oklahoma-ramps.json";
+import texasRampsRaw from "./texas-ramps.json";
 
 export interface UnifiedRamp {
   id: string;
@@ -43,11 +44,11 @@ function isDuplicateOfGrandLake(name: string, lat: number, lng: number): boolean
   return false;
 }
 
-function generateDescription(raw: typeof oklahomaRampsRaw[0]): string {
+function generateDescription(raw: { name: string; city: string; rating: number | null; total_ratings: number; latitude: number; longitude: number }): string {
   const name = raw.name.replace(/[^\w\s'-]/g, "").trim();
-  const city = raw.city || "Oklahoma";
+  const city = raw.city || "the area";
   const parts: string[] = [];
-  parts.push(`${name} is a public boat ramp located near ${city}, Oklahoma.`);
+  parts.push(`${name} is a public boat ramp located near ${city}.`);
   if (raw.rating && raw.total_ratings > 0) {
     parts.push(`Rated ${raw.rating}/5 by ${raw.total_ratings} visitor${raw.total_ratings > 1 ? "s" : ""} on Google.`);
   }
@@ -113,6 +114,31 @@ for (const raw of oklahomaRampsRaw) {
     city: raw.city,
     county: extractCounty(raw.formatted_address) || raw.county || "",
     state: "OK",
+    rating: raw.rating || 0,
+    totalRatings: raw.total_ratings || 0,
+    featured: false,
+  });
+}
+
+// 3. Add Texas ramps
+for (const raw of texasRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `tx-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) {
+    slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  }
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({
+    id: slug,
+    name: cleanName,
+    description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }),
+    latitude: raw.latitude,
+    longitude: raw.longitude,
+    address: raw.formatted_address || "",
+    city: raw.city || "",
+    county: raw.county || "",
+    state: "TX",
     rating: raw.rating || 0,
     totalRatings: raw.total_ratings || 0,
     featured: false,

@@ -1,0 +1,8767 @@
+[
+  {
+    "id": 196126482,
+    "name": "Boat Ramp",
+    "latitude": 40.7582565,
+    "longitude": -84.0504621,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 828480731,
+    "name": "Fort Ancient Scenic River Access",
+    "latitude": 39.4063148,
+    "longitude": -84.1003634,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Fort Ancient Scenic River Access",
+      "operator": "Ohio Department of Natural Resources",
+      "sport": "rowing",
+      "surface": "ground"
+    }
+  },
+  {
+    "id": 886116378,
+    "name": "Canoe Launch",
+    "latitude": 39.2091624,
+    "longitude": -84.3067593,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "ele": "164.81",
+      "leisure": "slipway",
+      "name": "Canoe Launch",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 1047332793,
+    "name": "Boat Ramp",
+    "latitude": 39.1318395,
+    "longitude": -84.7990641,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1835672961,
+    "name": "Boat Ramp",
+    "latitude": 40.7360758,
+    "longitude": -84.2243095,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 2044561651,
+    "name": "Canoe Launch",
+    "latitude": 39.6897894,
+    "longitude": -84.0290889,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe Launch"
+    }
+  },
+  {
+    "id": 2531519251,
+    "name": "Boat Ramp",
+    "latitude": 39.1264116,
+    "longitude": -84.7083484,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2912831070,
+    "name": "Croy'S Landing",
+    "latitude": 41.0186088,
+    "longitude": -84.0569464,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Croy's Landing",
+      "vehicle": "no"
+    }
+  },
+  {
+    "id": 3607626393,
+    "name": "Boat Ramp",
+    "latitude": 39.1183587,
+    "longitude": -84.4494601,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3678120634,
+    "name": "Canoe/Kayak Launch",
+    "latitude": 39.259993,
+    "longitude": -84.5154717,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe/Kayak Launch"
+    }
+  },
+  {
+    "id": 4305367470,
+    "name": "Boat Ramp",
+    "latitude": 41.5885342,
+    "longitude": -84.0100346,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4318263185,
+    "name": "Boat Ramp",
+    "latitude": 39.2592456,
+    "longitude": -84.5053949,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5084528221,
+    "name": "Boat Ramp",
+    "latitude": 40.8350675,
+    "longitude": -84.5740295,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5084877436,
+    "name": "Boat Ramp",
+    "latitude": 41.3819734,
+    "longitude": -84.1387325,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5226985672,
+    "name": "Boat Ramp",
+    "latitude": 39.1767506,
+    "longitude": -84.7513779,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5256797221,
+    "name": "Boat Ramp",
+    "latitude": 39.2601644,
+    "longitude": -84.5019637,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6229206188,
+    "name": "Boat Ramp",
+    "latitude": 39.1148024,
+    "longitude": -84.4525293,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6253875075,
+    "name": "Boat Ramp",
+    "latitude": 41.6418592,
+    "longitude": -84.3738673,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6253913723,
+    "name": "Boat Ramp",
+    "latitude": 41.2947564,
+    "longitude": -84.2912758,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6269659545,
+    "name": "Boat Ramp",
+    "latitude": 39.1849023,
+    "longitude": -84.7939453,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6294175563,
+    "name": "Boat Ramp",
+    "latitude": 40.540561,
+    "longitude": -84.4186741,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6294175564,
+    "name": "Boat Ramp",
+    "latitude": 40.5404683,
+    "longitude": -84.4182569,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6294175565,
+    "name": "Boat Ramp",
+    "latitude": 40.4920741,
+    "longitude": -84.5495076,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6294180904,
+    "name": "Boat Ramp",
+    "latitude": 40.4949616,
+    "longitude": -84.5578667,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6294180905,
+    "name": "Boat Ramp",
+    "latitude": 40.4973655,
+    "longitude": -84.5552629,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6294180906,
+    "name": "Boat Ramp",
+    "latitude": 40.5295369,
+    "longitude": -84.5735632,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6294195160,
+    "name": "Boat Ramp",
+    "latitude": 40.5093541,
+    "longitude": -84.4740645,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6361865681,
+    "name": "Boat Ramp",
+    "latitude": 39.3393728,
+    "longitude": -84.2699395,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6612544571,
+    "name": "Boat Ramp",
+    "latitude": 39.4256274,
+    "longitude": -84.4887953,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6805872207,
+    "name": "Boat Ramp",
+    "latitude": 39.9061452,
+    "longitude": -84.2921324,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 7104793633,
+    "name": "Boat Ramp",
+    "latitude": 39.5829853,
+    "longitude": -84.7599556,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8241698249,
+    "name": "Boat Ramp",
+    "latitude": 41.6636905,
+    "longitude": -84.6387019,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8465133051,
+    "name": "Boat Ramp",
+    "latitude": 39.4887957,
+    "longitude": -84.0486475,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8602116501,
+    "name": "Boat Ramp",
+    "latitude": 41.1885495,
+    "longitude": -84.6173247,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9312447811,
+    "name": "River Pull Out",
+    "latitude": 39.8745265,
+    "longitude": -84.2928715,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "River Pull Out"
+    }
+  },
+  {
+    "id": 9890059088,
+    "name": "Boat Ramp",
+    "latitude": 40.5100127,
+    "longitude": -84.5399793,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9890059090,
+    "name": "Boat Ramp",
+    "latitude": 40.5099566,
+    "longitude": -84.5399777,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9890068866,
+    "name": "Boat Ramp",
+    "latitude": 40.5019914,
+    "longitude": -84.5598733,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9890342017,
+    "name": "Boat Ramp",
+    "latitude": 40.5295517,
+    "longitude": -84.5736253,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9890342020,
+    "name": "Boat Ramp",
+    "latitude": 40.5295002,
+    "longitude": -84.5734814,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9890342022,
+    "name": "Boat Ramp",
+    "latitude": 40.5294706,
+    "longitude": -84.5734228,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9890773886,
+    "name": "Boat Ramp",
+    "latitude": 40.5464308,
+    "longitude": -84.5504413,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9890773888,
+    "name": "Boat Ramp",
+    "latitude": 40.5463976,
+    "longitude": -84.5504155,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9890819585,
+    "name": "Boat Ramp",
+    "latitude": 40.5454814,
+    "longitude": -84.4543855,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9890819612,
+    "name": "Boat Ramp",
+    "latitude": 40.5464579,
+    "longitude": -84.4424068,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9890819616,
+    "name": "Boat Ramp",
+    "latitude": 40.5440627,
+    "longitude": -84.4308414,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10028214859,
+    "name": "Boat Ramp",
+    "latitude": 39.3285944,
+    "longitude": -84.5945791,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10266322011,
+    "name": "Boat Ramp",
+    "latitude": 41.5913228,
+    "longitude": -84.013183,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10266322012,
+    "name": "Boat Ramp",
+    "latitude": 41.5912775,
+    "longitude": -84.0131561,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12188824666,
+    "name": "Boat Ramp",
+    "latitude": 40.5036105,
+    "longitude": -84.4568039,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12398255208,
+    "name": "Boat Ramp",
+    "latitude": 39.1156696,
+    "longitude": -84.3994186,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "description": "Canoe Landing",
+      "fee": "no",
+      "leisure": "slipway",
+      "seamark:type": "notice",
+      "surface": "ground"
+    }
+  },
+  {
+    "id": 12398320332,
+    "name": "Boat Ramp",
+    "latitude": 39.1294808,
+    "longitude": -84.3455953,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "unknown",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12740374741,
+    "name": "Boat Ramp",
+    "latitude": 39.8525457,
+    "longitude": -84.7959779,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "unknown",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12961074703,
+    "name": "Boat Ramp",
+    "latitude": 40.5446304,
+    "longitude": -84.5676705,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13468561724,
+    "name": "Halls Creek Scenic River Acccess",
+    "latitude": 39.3657685,
+    "longitude": -84.1554877,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "canoe": "designated",
+      "leisure": "slipway",
+      "name": "Halls Creek Scenic River Acccess",
+      "operator": "Ohio Department of Natural Resources",
+      "surface": "ground"
+    }
+  },
+  {
+    "id": 13468613712,
+    "name": "Mather'S Mill Scenic River Access",
+    "latitude": 39.4295501,
+    "longitude": -84.105027,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Mather's Mill Scenic River Access",
+      "operator": "Ohio Department of Natural Resources",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 134346521,
+    "name": "Boat Ramp",
+    "latitude": 40.1393097,
+    "longitude": -84.2376051,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 134472876,
+    "name": "Boat Ramp",
+    "latitude": 40.0475127,
+    "longitude": -84.2101916,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 138359880,
+    "name": "Boat Ramp",
+    "latitude": 39.1113899,
+    "longitude": -84.4825118,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 138362310,
+    "name": "Boat Ramp",
+    "latitude": 39.1175995,
+    "longitude": -84.4617323,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 154431935,
+    "name": "Boat Ramp",
+    "latitude": 39.328594,
+    "longitude": -84.5947722,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 154442916,
+    "name": "Boat Ramp",
+    "latitude": 39.2628392,
+    "longitude": -84.6893099,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "sport": "canoe"
+    }
+  },
+  {
+    "id": 163614630,
+    "name": "Boat Ramp",
+    "latitude": 39.1073418,
+    "longitude": -84.4443608,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 163614648,
+    "name": "Boat Ramp",
+    "latitude": 39.1097321,
+    "longitude": -84.44716,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 163614650,
+    "name": "Boat Ramp",
+    "latitude": 39.1082406,
+    "longitude": -84.4454524,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 212327172,
+    "name": "Boat Ramp",
+    "latitude": 39.1184655,
+    "longitude": -84.449455,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 427933001,
+    "name": "Jim Terrell River Access",
+    "latitude": 39.170086,
+    "longitude": -84.2983651,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Jim Terrell River Access",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 431168153,
+    "name": "Boat Ramp",
+    "latitude": 41.5912465,
+    "longitude": -84.0133378,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 466692636,
+    "name": "Boat Ramp",
+    "latitude": 41.093845,
+    "longitude": -84.3823827,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 572914635,
+    "name": "Boat Ramp",
+    "latitude": 39.1151092,
+    "longitude": -84.4451791,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 645779021,
+    "name": "Furnas Shores Boat Ramp",
+    "latitude": 39.5096472,
+    "longitude": -84.0349432,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Furnas Shores Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 669514725,
+    "name": "Boat Ramp",
+    "latitude": 39.184967,
+    "longitude": -84.7940467,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 725887055,
+    "name": "Boat Ramp",
+    "latitude": 39.9061435,
+    "longitude": -84.2921099,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "covered": "no",
+      "fee": "no",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 842292253,
+    "name": "Boat Ramp",
+    "latitude": 40.1039993,
+    "longitude": -84.6192104,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 848071797,
+    "name": "Boat Ramp",
+    "latitude": 41.2889647,
+    "longitude": -84.3551322,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 886343987,
+    "name": "Boat Ramp",
+    "latitude": 41.6636805,
+    "longitude": -84.6386629,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 976482818,
+    "name": "Boat Ramp",
+    "latitude": 41.5580111,
+    "longitude": -84.6479659,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 988388570,
+    "name": "Boat Ramp",
+    "latitude": 41.6417616,
+    "longitude": -84.3739322,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1002738873,
+    "name": "Boat Ramp",
+    "latitude": 41.346551,
+    "longitude": -84.4384638,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1017252597,
+    "name": "Boat Ramp",
+    "latitude": 39.210114,
+    "longitude": -84.4584021,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1059156123,
+    "name": "Boat Ramp",
+    "latitude": 41.680137,
+    "longitude": -84.6947033,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1066608372,
+    "name": "Boat Ramp",
+    "latitude": 40.8224694,
+    "longitude": -84.084622,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1067640479,
+    "name": "Boat Ramp",
+    "latitude": 40.7377157,
+    "longitude": -84.2605858,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1078849669,
+    "name": "Boat Ramp",
+    "latitude": 40.5100123,
+    "longitude": -84.540053,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1078849670,
+    "name": "Boat Ramp",
+    "latitude": 40.5099548,
+    "longitude": -84.540053,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1078849697,
+    "name": "Boat Ramp",
+    "latitude": 40.5019839,
+    "longitude": -84.559905,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1078879888,
+    "name": "Boat Ramp",
+    "latitude": 40.5294638,
+    "longitude": -84.5736443,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1078879889,
+    "name": "Boat Ramp",
+    "latitude": 40.5294564,
+    "longitude": -84.5735926,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1078879890,
+    "name": "Boat Ramp",
+    "latitude": 40.529438,
+    "longitude": -84.5735518,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1078879891,
+    "name": "Boat Ramp",
+    "latitude": 40.5294232,
+    "longitude": -84.5735224,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1078931330,
+    "name": "Boat Ramp",
+    "latitude": 40.5464379,
+    "longitude": -84.5504083,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1078931331,
+    "name": "Boat Ramp",
+    "latitude": 40.5464186,
+    "longitude": -84.5503954,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1078937057,
+    "name": "Boat Ramp",
+    "latitude": 40.545504,
+    "longitude": -84.4543838,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1078937064,
+    "name": "Boat Ramp",
+    "latitude": 40.546546,
+    "longitude": -84.4423979,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1078937066,
+    "name": "Boat Ramp",
+    "latitude": 40.544071,
+    "longitude": -84.4307901,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1078937068,
+    "name": "Boat Ramp",
+    "latitude": 40.5405849,
+    "longitude": -84.4186658,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1078937070,
+    "name": "Boat Ramp",
+    "latitude": 40.5405051,
+    "longitude": -84.4182421,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1151107187,
+    "name": "Boat Ramp",
+    "latitude": 41.2754723,
+    "longitude": -84.5148061,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1155236578,
+    "name": "Boat Ramp",
+    "latitude": 41.2491806,
+    "longitude": -84.3747654,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1155246366,
+    "name": "Boat Ramp",
+    "latitude": 41.287627,
+    "longitude": -84.3518978,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1180386468,
+    "name": "Boat Ramp",
+    "latitude": 39.8342275,
+    "longitude": -84.0506604,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1271298129,
+    "name": "Boat Ramp",
+    "latitude": 40.1589343,
+    "longitude": -84.2593717,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1274766189,
+    "name": "North Pool Boat Ramp",
+    "latitude": 39.5168003,
+    "longitude": -84.0096388,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "North Pool Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1274766190,
+    "name": "North Pool Boat Ramp",
+    "latitude": 39.5168546,
+    "longitude": -84.0098377,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "North Pool Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1275346323,
+    "name": "Boat Ramp",
+    "latitude": 39.5826902,
+    "longitude": -84.0295597,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 1275744666,
+    "name": "American Legion River Access",
+    "latitude": 39.1779746,
+    "longitude": -84.2944729,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "permissive",
+      "leisure": "slipway",
+      "name": "American Legion River Access",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1288981328,
+    "name": "Boat Ramp",
+    "latitude": 39.6061318,
+    "longitude": -84.0137327,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1289741812,
+    "name": "Boat Ramp",
+    "latitude": 39.2225071,
+    "longitude": -84.0819382,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1327697889,
+    "name": "Boat Ramp",
+    "latitude": 40.1780392,
+    "longitude": -84.2634317,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "ground"
+    }
+  },
+  {
+    "id": 1362964101,
+    "name": "Boat Ramp",
+    "latitude": 39.5553302,
+    "longitude": -84.7338132,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "permissive",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "gravel",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Butler, OH",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1424251477,
+    "name": "Boat Ramp",
+    "latitude": 40.8795723,
+    "longitude": -84.367989,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1428306038,
+    "name": "West Bank",
+    "latitude": 40.3699295,
+    "longitude": -84.3628547,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "name": "West Bank",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1428306061,
+    "name": "Earls Island",
+    "latitude": 40.3704447,
+    "longitude": -84.3573874,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "name": "Earls Island",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1428329628,
+    "name": "Filburns",
+    "latitude": 40.3695157,
+    "longitude": -84.338187,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Filburns",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1428342222,
+    "name": "Boat Ramp",
+    "latitude": 40.3735242,
+    "longitude": -84.3476952,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1428357918,
+    "name": "Luthman Road",
+    "latitude": 40.3886655,
+    "longitude": -84.2987783,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "name": "Luthman Road",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1428368464,
+    "name": "Schmitmeyer-Baker",
+    "latitude": 40.3847374,
+    "longitude": -84.3165297,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "name": "Schmitmeyer-Baker",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1428384627,
+    "name": "Campground",
+    "latitude": 40.3594153,
+    "longitude": -84.3553715,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "customers",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "name": "Campground",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1436216890,
+    "name": "Boat Ramp",
+    "latitude": 39.6452611,
+    "longitude": -84.0428103,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1453022224,
+    "name": "Boat Ramp",
+    "latitude": 39.1024099,
+    "longitude": -84.4351745,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "private",
+      "fee": "yes",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Hamilton, OH",
+      "tiger:name_base": "Lumsden",
+      "tiger:name_type": "St",
+      "tiger:reviewed": "no",
+      "tiger:zip_left": "45226",
+      "tiger:zip_right": "45226"
+    }
+  },
+  {
+    "id": 1467651791,
+    "name": "Boat Ramp",
+    "latitude": 39.3553917,
+    "longitude": -84.1466131,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1469649476,
+    "name": "Boat Ramp",
+    "latitude": 39.3595201,
+    "longitude": -84.1616461,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 155503244,
+    "name": "Boat Ramp",
+    "latitude": 39.9126937,
+    "longitude": -80.7522081,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 196867809,
+    "name": "Boat Ramp",
+    "latitude": 39.95607,
+    "longitude": -83.7213212,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 197162479,
+    "name": "Boat Ramp",
+    "latitude": 40.8035421,
+    "longitude": -82.9871183,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 199463471,
+    "name": "Boat Ramp",
+    "latitude": 41.0391719,
+    "longitude": -81.0089336,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 199490203,
+    "name": "Boat Ramp",
+    "latitude": 41.0364064,
+    "longitude": -81.0084453,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 332451317,
+    "name": "Boat Ramp",
+    "latitude": 40.0276924,
+    "longitude": -83.0928928,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 401332850,
+    "name": "Boat Ramp",
+    "latitude": 41.3685027,
+    "longitude": -81.222777,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 418764677,
+    "name": "Boat Ramp",
+    "latitude": 41.1437887,
+    "longitude": -81.1176101,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 444998472,
+    "name": "Boat Ramp",
+    "latitude": 41.5869143,
+    "longitude": -81.5645365,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 543654912,
+    "name": "Boat Ramp",
+    "latitude": 39.3891465,
+    "longitude": -83.9002028,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1729423321,
+    "name": "Alum Creek Africa Boat Launch",
+    "latitude": 40.1969572,
+    "longitude": -82.9491652,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Alum Creek Africa Boat Launch",
+      "source": "knowledge"
+    }
+  },
+  {
+    "id": 1730915694,
+    "name": "Hidden Boat Ramp",
+    "latitude": 41.517311,
+    "longitude": -82.9409681,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "designation": "For Wave Runners / Small Craft",
+      "leisure": "slipway",
+      "name": "Hidden Boat Ramp",
+      "source": "Knowledge of John Corvo"
+    }
+  },
+  {
+    "id": 1761723587,
+    "name": "Boat Ramp",
+    "latitude": 38.5826621,
+    "longitude": -80.9376936,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1796595742,
+    "name": "Boat Ramp",
+    "latitude": 39.6199478,
+    "longitude": -83.2506705,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1895338184,
+    "name": "Atwood Boat Launch Ramp",
+    "latitude": 40.5356042,
+    "longitude": -81.2754853,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Atwood boat launch ramp"
+    }
+  },
+  {
+    "id": 1895338185,
+    "name": "Atwood Marina East Launch Ramp",
+    "latitude": 40.559053,
+    "longitude": -81.220328,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Atwood Marina East Launch Ramp"
+    }
+  },
+  {
+    "id": 1895445259,
+    "name": "Atwood Public Boat Launch Ramp",
+    "latitude": 40.5254932,
+    "longitude": -81.2817165,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Atwood Public Boat Launch Ramp"
+    }
+  },
+  {
+    "id": 1987913233,
+    "name": "Boat Ramp",
+    "latitude": 41.0586223,
+    "longitude": -82.6659244,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1999434592,
+    "name": "Boat Ramp",
+    "latitude": 40.7710629,
+    "longitude": -82.375932,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "seamark:information": "by car",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility"
+    }
+  },
+  {
+    "id": 2051781951,
+    "name": "Boat Ramp",
+    "latitude": 39.9319169,
+    "longitude": -82.4781323,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2060243078,
+    "name": "Boat Ramp",
+    "latitude": 40.0207959,
+    "longitude": -83.0960655,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2198877125,
+    "name": "French Creek Public Access Site",
+    "latitude": 39.3844939,
+    "longitude": -81.2525152,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "alt_name": "French Creek boat ramp",
+      "leisure": "slipway",
+      "name": "French Creek public access site",
+      "source": "http://www.wvdnr.gov/fishing/public_access.asp?county=Pleasants&point=P134&type=Public+Access+Sites"
+    }
+  },
+  {
+    "id": 2198918790,
+    "name": "Ohio River Public Access Site",
+    "latitude": 39.4071143,
+    "longitude": -81.4501715,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "alt_name": "Williamstown boat ramp",
+      "leisure": "slipway",
+      "name": "Ohio River Public Access Site",
+      "source": "http://www.wvdnr.gov/fishing/public_access.asp?county=Wood&type=Public+Access+Sites&point=P160"
+    }
+  },
+  {
+    "id": 2253837001,
+    "name": "Sportsman Park Boat Ramp",
+    "latitude": 39.0664542,
+    "longitude": -81.40488,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "alt_name": "Sportsman's Park boat ramp",
+      "leisure": "slipway",
+      "name": "Sportsman Park boat ramp",
+      "source": "http://www.wvdnr.gov/Fishing/public_access.asp?county=Wirt&type=Public+Access+Sites&point=P137"
+    }
+  },
+  {
+    "id": 2298891896,
+    "name": "Boat Ramp",
+    "latitude": 38.8420483,
+    "longitude": -80.61352,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2382041511,
+    "name": "Boat Ramp",
+    "latitude": 40.2666561,
+    "longitude": -83.4001125,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2397697502,
+    "name": "Boat Ramp",
+    "latitude": 41.0192873,
+    "longitude": -83.6561235,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2467974418,
+    "name": "Boat Ramp",
+    "latitude": 41.1361987,
+    "longitude": -83.4526793,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2508887557,
+    "name": "Boat Ramp",
+    "latitude": 41.5875798,
+    "longitude": -81.563142,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2511050056,
+    "name": "Boat Ramp",
+    "latitude": 41.7256426,
+    "longitude": -81.3390252,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2520419151,
+    "name": "Gordon Boat Ramp",
+    "latitude": 41.5408824,
+    "longitude": -81.6349619,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Gordon Boat Ramp"
+    }
+  },
+  {
+    "id": 2622747927,
+    "name": "Boat Ramp",
+    "latitude": 38.9410971,
+    "longitude": -81.7578345,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2633396721,
+    "name": "Boat Ramp",
+    "latitude": 39.2234471,
+    "longitude": -81.0586909,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2699124873,
+    "name": "Boat Ramp",
+    "latitude": 41.2501884,
+    "longitude": -81.4070805,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2788717685,
+    "name": "Boat Ramp",
+    "latitude": 41.1312169,
+    "longitude": -81.4252218,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2926623997,
+    "name": "Boat Ramp",
+    "latitude": 38.5006373,
+    "longitude": -81.8458807,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2942030779,
+    "name": "Boat Ramp",
+    "latitude": 41.5426676,
+    "longitude": -82.8111413,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2942031643,
+    "name": "Boat Ramp",
+    "latitude": 41.5087018,
+    "longitude": -82.7565284,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2942056670,
+    "name": "Boat Ramp",
+    "latitude": 41.5390406,
+    "longitude": -82.8186105,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2969239846,
+    "name": "Boat Ramp",
+    "latitude": 40.1192984,
+    "longitude": -82.0007504,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing imagery 2014"
+    }
+  },
+  {
+    "id": 2978774339,
+    "name": "Boat Ramp",
+    "latitude": 41.1102579,
+    "longitude": -80.814513,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 2987124769,
+    "name": "Boat Ramp",
+    "latitude": 40.985648,
+    "longitude": -80.6937927,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3015634951,
+    "name": "Boat Ramp",
+    "latitude": 41.095253,
+    "longitude": -80.973173,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3015635113,
+    "name": "Boat Ramp",
+    "latitude": 41.1090801,
+    "longitude": -80.9846701,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3175867690,
+    "name": "Boat Ramp",
+    "latitude": 41.5089754,
+    "longitude": -81.0982664,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3217616966,
+    "name": "Boat Launch",
+    "latitude": 41.5504041,
+    "longitude": -81.2277614,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "boat launch"
+    }
+  },
+  {
+    "id": 3271192147,
+    "name": "Boat Ramp",
+    "latitude": 41.3873439,
+    "longitude": -81.2059058,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 3588739355,
+    "name": "Boat Ramp",
+    "latitude": 41.7967828,
+    "longitude": -81.1614565,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3731624074,
+    "name": "Manning",
+    "latitude": 41.6243308,
+    "longitude": -80.5016311,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Manning"
+    }
+  },
+  {
+    "id": 3754890753,
+    "name": "Boat Ramp",
+    "latitude": 41.6970338,
+    "longitude": -83.4517613,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3766304317,
+    "name": "Boat Ramp",
+    "latitude": 40.6435521,
+    "longitude": -82.3448761,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3786422793,
+    "name": "Boat Ramp",
+    "latitude": 41.4944497,
+    "longitude": -81.7278589,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3786422794,
+    "name": "Boat Ramp",
+    "latitude": 41.4945103,
+    "longitude": -81.727715,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 3786422795,
+    "name": "Boat Ramp",
+    "latitude": 41.4944048,
+    "longitude": -81.7280057,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4070140773,
+    "name": "Mahoning River Waterway Trail - Packard Park Egress",
+    "latitude": 41.2471496,
+    "longitude": -80.8324557,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mahoning River Waterway Trail - Packard Park Egress"
+    }
+  },
+  {
+    "id": 4103943124,
+    "name": "Boat Ramp",
+    "latitude": 38.6615591,
+    "longitude": -80.6973256,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4103943126,
+    "name": "Boat Ramp",
+    "latitude": 38.660368,
+    "longitude": -80.6874178,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4103943127,
+    "name": "Boat Ramp",
+    "latitude": 38.6563728,
+    "longitude": -80.682743,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 4166153804,
+    "name": "Boat Ramp",
+    "latitude": 39.2299054,
+    "longitude": -82.9542232,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4259507679,
+    "name": "Boat Ramp",
+    "latitude": 41.5719647,
+    "longitude": -83.6247897,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4338431736,
+    "name": "Boat Ramp",
+    "latitude": 38.790437,
+    "longitude": -80.5703182,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4484705594,
+    "name": "Boat Ramp",
+    "latitude": 40.9936229,
+    "longitude": -81.5965829,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4501658197,
+    "name": "Boat Ramp",
+    "latitude": 39.0920035,
+    "longitude": -81.769246,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4531294849,
+    "name": "Boat Ramp",
+    "latitude": 41.1455196,
+    "longitude": -81.0878199,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4531378299,
+    "name": "Mahoning River Waterway Trail - Foster Park Ingress",
+    "latitude": 41.1356855,
+    "longitude": -80.9672495,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mahoning River Waterway Trail - Foster Park Ingress",
+      "whitewater": "put_in"
+    }
+  },
+  {
+    "id": 4543552121,
+    "name": "West State Street Canoe Portage",
+    "latitude": 39.3326765,
+    "longitude": -82.1260754,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "description": "Danger, Dam ahead this is for exiting only!",
+      "leisure": "slipway",
+      "name": "West State Street Canoe Portage"
+    }
+  },
+  {
+    "id": 4569306985,
+    "name": "South Boat Launch",
+    "latitude": 40.4132095,
+    "longitude": -82.3526802,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "South Boat Launch"
+    }
+  },
+  {
+    "id": 4569306986,
+    "name": "Boat Launch",
+    "latitude": 40.4176903,
+    "longitude": -82.3454825,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Launch"
+    }
+  },
+  {
+    "id": 4573553084,
+    "name": "Main Boat Launch",
+    "latitude": 40.4583087,
+    "longitude": -82.3359195,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Main Boat Launch"
+    }
+  },
+  {
+    "id": 4573691462,
+    "name": "Boat Launch",
+    "latitude": 40.4593249,
+    "longitude": -82.3375684,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Launch"
+    }
+  },
+  {
+    "id": 4579022617,
+    "name": "Slipway Into The Mogadore Resevour",
+    "latitude": 41.0650513,
+    "longitude": -81.3110244,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Slipway into the Mogadore Resevour"
+    }
+  },
+  {
+    "id": 4740440118,
+    "name": "Boat Ramp",
+    "latitude": 40.1580289,
+    "longitude": -83.1284495,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 4755256470,
+    "name": "Mazurik Boat Access",
+    "latitude": 41.5427655,
+    "longitude": -82.7646655,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mazurik Boat Access"
+    }
+  },
+  {
+    "id": 4804688091,
+    "name": "Boat Ramp",
+    "latitude": 41.4536414,
+    "longitude": -82.6859439,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "source": "bing"
+    }
+  },
+  {
+    "id": 5174900031,
+    "name": "Boat Ramp",
+    "latitude": 41.0609644,
+    "longitude": -81.9099031,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5202475083,
+    "name": "Boat Ramp",
+    "latitude": 40.613865,
+    "longitude": -80.567728,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5382284786,
+    "name": "Boat Ramp",
+    "latitude": 41.2268423,
+    "longitude": -80.5101084,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5425657453,
+    "name": "Middlebury Road River Access",
+    "latitude": 41.1383734,
+    "longitude": -81.390101,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Middlebury Road River Access",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 5426972274,
+    "name": "Canoe/Kayak Launch",
+    "latitude": 41.1684185,
+    "longitude": -81.3467381,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe/Kayak Launch"
+    }
+  },
+  {
+    "id": 5623004081,
+    "name": "Boat Ramp",
+    "latitude": 40.003081,
+    "longitude": -82.083677,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5635961651,
+    "name": "Boat Ramp",
+    "latitude": 41.5604851,
+    "longitude": -83.6434699,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 5635961652,
+    "name": "Maple Street Boat Launch",
+    "latitude": 41.5666634,
+    "longitude": -83.6262312,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Maple Street Boat Launch"
+    }
+  },
+  {
+    "id": 5925297850,
+    "name": "Boat Ramp",
+    "latitude": 39.5284151,
+    "longitude": -82.0341227,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6074463351,
+    "name": "Scenic Park Boat Launch",
+    "latitude": 41.4800125,
+    "longitude": -81.8323164,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "customers",
+      "leisure": "slipway",
+      "name": "Scenic Park Boat Launch",
+      "source": "https://www.clevelandmetroparks.com/parks/visit/parks/rocky-river-reservation/scenic-park-boat-launch"
+    }
+  },
+  {
+    "id": 6254209831,
+    "name": "Boat Ramp",
+    "latitude": 41.4127112,
+    "longitude": -83.8869723,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6292103040,
+    "name": "Boat Ramp",
+    "latitude": 40.5055285,
+    "longitude": -82.583196,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6308624834,
+    "name": "Boat Ramp",
+    "latitude": 40.5115954,
+    "longitude": -83.8897778,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6308630798,
+    "name": "Boat Ramp",
+    "latitude": 40.5056907,
+    "longitude": -83.9143837,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6417965189,
+    "name": "Boat Ramp",
+    "latitude": 39.1875077,
+    "longitude": -83.5289994,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 6417965194,
+    "name": "Boat Ramp",
+    "latitude": 39.1970037,
+    "longitude": -83.4854404,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 6422096428,
+    "name": "Boat Ramp",
+    "latitude": 38.8011752,
+    "longitude": -80.5740552,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6512974617,
+    "name": "Boat Ramp",
+    "latitude": 40.0432501,
+    "longitude": -81.9787683,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6594167683,
+    "name": "Boat Ramp",
+    "latitude": 40.1089767,
+    "longitude": -81.5326006,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6595160917,
+    "name": "Boat Ramp",
+    "latitude": 40.1215518,
+    "longitude": -81.5221739,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6788171433,
+    "name": "Mecca Boat Ramp - Mosquito Lake State Park",
+    "latitude": 41.388366,
+    "longitude": -80.7403117,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mecca Boat Ramp - Mosquito Lake State Park"
+    }
+  },
+  {
+    "id": 6788171434,
+    "name": "Boat Ramp",
+    "latitude": 41.4188718,
+    "longitude": -80.7725935,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6822566920,
+    "name": "Boat Ramp",
+    "latitude": 40.4609516,
+    "longitude": -81.9071494,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6822570555,
+    "name": "Area 6 Boat Ramp",
+    "latitude": 40.4772401,
+    "longitude": -81.9130247,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Area 6 Boat Ramp"
+    }
+  },
+  {
+    "id": 6822586514,
+    "name": "Area 8 Boat Ramp",
+    "latitude": 40.4781321,
+    "longitude": -81.9056201,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Area 8 Boat Ramp"
+    }
+  },
+  {
+    "id": 6822594338,
+    "name": "Boat Ramp",
+    "latitude": 40.4609174,
+    "longitude": -81.9072495,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6851412396,
+    "name": "Boat Ramp",
+    "latitude": 41.1223181,
+    "longitude": -83.4477097,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6862587117,
+    "name": "Boat Ramp",
+    "latitude": 40.6438579,
+    "longitude": -80.7601027,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 6955563286,
+    "name": "West Avenue Boat Launch",
+    "latitude": 41.1038573,
+    "longitude": -80.6623301,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "West Avenue Boat Launch"
+    }
+  },
+  {
+    "id": 7016755955,
+    "name": "Boat Ramp",
+    "latitude": 41.9531012,
+    "longitude": -80.5426599,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 7354673657,
+    "name": "Boat Ramp",
+    "latitude": 39.9679936,
+    "longitude": -83.0344264,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 7400398994,
+    "name": "Boat Ramp",
+    "latitude": 39.3855485,
+    "longitude": -83.916768,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7555378659,
+    "name": "Boat Ramp",
+    "latitude": 40.1468072,
+    "longitude": -82.8800274,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7578475635,
+    "name": "Boat Ramp",
+    "latitude": 40.113516,
+    "longitude": -81.5507686,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7685994369,
+    "name": "Boat Ramp",
+    "latitude": 41.6063175,
+    "longitude": -80.5013088,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "fee": "no",
+      "lanes": "2",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7686183409,
+    "name": "Monogahela Mooring Area 19 - PA-DCNR",
+    "latitude": 41.6017013,
+    "longitude": -80.5034834,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Monogahela Mooring Area 19 - PA-DCNR",
+      "surface": "dirt"
+    }
+  },
+  {
+    "id": 7755160999,
+    "name": "Boat Ramp",
+    "latitude": 39.2585531,
+    "longitude": -81.535381,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7852676388,
+    "name": "Boat Ramp",
+    "latitude": 41.4733333,
+    "longitude": -82.6790849,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7901547847,
+    "name": "Boat Ramp",
+    "latitude": 40.0506508,
+    "longitude": -82.3869161,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7904330861,
+    "name": "Boat Ramp",
+    "latitude": 41.506701,
+    "longitude": -83.1474899,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 7924823746,
+    "name": "Boat Ramp",
+    "latitude": 39.6478607,
+    "longitude": -83.7943631,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7942639919,
+    "name": "Boat Ramp",
+    "latitude": 41.1568818,
+    "longitude": -83.4325987,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 7965086288,
+    "name": "Boat Ramp",
+    "latitude": 41.5192189,
+    "longitude": -82.9751364,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8107837673,
+    "name": "Boat Ramp",
+    "latitude": 39.2676322,
+    "longitude": -83.3890466,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8107837684,
+    "name": "Boat Ramp",
+    "latitude": 39.2439874,
+    "longitude": -83.3554901,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8107837695,
+    "name": "Boat Ramp",
+    "latitude": 39.2715009,
+    "longitude": -83.4075013,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8203364838,
+    "name": "Duck",
+    "latitude": 38.5851382,
+    "longitude": -80.9271988,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Duck",
+      "surface": "ground"
+    }
+  },
+  {
+    "id": 8392864590,
+    "name": "Boat Ramp",
+    "latitude": 41.5580474,
+    "longitude": -83.7750759,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8447031514,
+    "name": "Boat Ramp",
+    "latitude": 41.1123389,
+    "longitude": -82.0818744,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8447038225,
+    "name": "Boat Ramp",
+    "latitude": 41.1127141,
+    "longitude": -82.0876323,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8449593479,
+    "name": "Boat Ramp",
+    "latitude": 40.6483723,
+    "longitude": -80.7713501,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8449593481,
+    "name": "Boat Ramp",
+    "latitude": 40.6483544,
+    "longitude": -80.7714051,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8467801164,
+    "name": "Boat Ramp",
+    "latitude": 39.6265089,
+    "longitude": -83.2310979,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8481583163,
+    "name": "Boat Ramp",
+    "latitude": 39.7479327,
+    "longitude": -83.8127028,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "surface": "sand"
+    }
+  },
+  {
+    "id": 8555755745,
+    "name": "Boat Ramp",
+    "latitude": 39.389359,
+    "longitude": -81.2095283,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8719656187,
+    "name": "Boat Ramp",
+    "latitude": 39.3937809,
+    "longitude": -81.2068294,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8725432673,
+    "name": "Boat Ramp",
+    "latitude": 39.5513025,
+    "longitude": -81.6230872,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8846832077,
+    "name": "Boat Ramp",
+    "latitude": 41.3405204,
+    "longitude": -80.520519,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8906534155,
+    "name": "Boat Ramp",
+    "latitude": 41.3895816,
+    "longitude": -82.4514486,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8906536177,
+    "name": "Boat Ramp",
+    "latitude": 41.4090536,
+    "longitude": -82.3383346,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 8921200492,
+    "name": "Boat Ramp",
+    "latitude": 41.1517613,
+    "longitude": -80.7071591,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8975505687,
+    "name": "Boat Ramp",
+    "latitude": 41.0230815,
+    "longitude": -81.4390969,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 8986477596,
+    "name": "Boat Ramp",
+    "latitude": 38.6557343,
+    "longitude": -80.7625305,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9170237618,
+    "name": "Boat Ramp",
+    "latitude": 40.4844111,
+    "longitude": -83.9198088,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9170237619,
+    "name": "Boat Ramp",
+    "latitude": 40.4787597,
+    "longitude": -83.8609549,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "lanes": "2",
+      "leisure": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 9566374112,
+    "name": "Boat Ramp",
+    "latitude": 41.323918,
+    "longitude": -80.7427554,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 9631977441,
+    "name": "Boat Ramp",
+    "latitude": 39.5425745,
+    "longitude": -82.4315751,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9669439755,
+    "name": "Boat Ramp",
+    "latitude": 41.5319541,
+    "longitude": -80.5167179,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9669439824,
+    "name": "Jamestown Boat Launch",
+    "latitude": 41.5216688,
+    "longitude": -80.501261,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Jamestown Boat Launch",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 9683198910,
+    "name": "Boat Ramp",
+    "latitude": 39.533603,
+    "longitude": -82.4067633,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9708748716,
+    "name": "Boat Ramp",
+    "latitude": 40.1667792,
+    "longitude": -81.2262662,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 9708778521,
+    "name": "Boat Ramp",
+    "latitude": 40.1331915,
+    "longitude": -81.1711231,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 9708778530,
+    "name": "Boat Ramp",
+    "latitude": 40.1620157,
+    "longitude": -81.1853545,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 9708778534,
+    "name": "Boat Ramp",
+    "latitude": 40.1561058,
+    "longitude": -81.1720083,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 9731158045,
+    "name": "Trip #1",
+    "latitude": 39.5749024,
+    "longitude": -82.4796936,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway",
+      "name": "Trip #1",
+      "operator": "Hocking Valley Canoe Livery"
+    }
+  },
+  {
+    "id": 9792774030,
+    "name": "Boat Ramp",
+    "latitude": 39.6346561,
+    "longitude": -81.8370191,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9793629784,
+    "name": "Boat Ramp",
+    "latitude": 41.308984,
+    "longitude": -80.7646703,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 9793701044,
+    "name": "Boat Ramp",
+    "latitude": 41.3080215,
+    "longitude": -80.7625911,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 9793701046,
+    "name": "Boat Ramp",
+    "latitude": 41.3080143,
+    "longitude": -80.7624984,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9793701048,
+    "name": "Boat Ramp",
+    "latitude": 41.3080108,
+    "longitude": -80.7623964,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9797190570,
+    "name": "Boat Ramp",
+    "latitude": 41.3200626,
+    "longitude": -80.7657185,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9797190572,
+    "name": "Boat Ramp",
+    "latitude": 41.3200434,
+    "longitude": -80.7657466,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9824182271,
+    "name": "Boat Ramp",
+    "latitude": 40.0732669,
+    "longitude": -81.4965071,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "source": "Bing"
+    }
+  },
+  {
+    "id": 9859265992,
+    "name": "Boat Ramp",
+    "latitude": 41.6943735,
+    "longitude": -83.4757559,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9889950964,
+    "name": "Fishing Access",
+    "latitude": 41.0654001,
+    "longitude": -80.9674314,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Fishing Access"
+    }
+  },
+  {
+    "id": 9892172470,
+    "name": "Boat Ramp",
+    "latitude": 41.3083162,
+    "longitude": -80.749828,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 9893972272,
+    "name": "Boat Ramp",
+    "latitude": 41.3131628,
+    "longitude": -80.7454893,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 9894080990,
+    "name": "Boat Ramp",
+    "latitude": 41.1455576,
+    "longitude": -81.087903,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9894080998,
+    "name": "Boat Ramp",
+    "latitude": 41.1454838,
+    "longitude": -81.0877376,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9896424197,
+    "name": "Canoe & Tube Landing",
+    "latitude": 40.5700943,
+    "longitude": -82.1855885,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe & Tube Landing"
+    }
+  },
+  {
+    "id": 9919508690,
+    "name": "Boat Ramp",
+    "latitude": 41.1341841,
+    "longitude": -81.1396107,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9919508694,
+    "name": "Boat Ramp",
+    "latitude": 41.1341898,
+    "longitude": -81.1396465,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9919508698,
+    "name": "Boat Ramp",
+    "latitude": 41.1341995,
+    "longitude": -81.1397058,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9920091648,
+    "name": "Boat Ramp",
+    "latitude": 41.0246887,
+    "longitude": -81.0069839,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9920091650,
+    "name": "Boat Ramp",
+    "latitude": 41.0249586,
+    "longitude": -81.0071445,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9920094118,
+    "name": "Boat Ramp",
+    "latitude": 41.0361688,
+    "longitude": -81.0084796,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9939943402,
+    "name": "Boat Ramp",
+    "latitude": 40.9718587,
+    "longitude": -81.5509719,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 9963953671,
+    "name": "Boat Ramp",
+    "latitude": 40.2666934,
+    "longitude": -83.3995638,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 9965024298,
+    "name": "Pymatuning State Park Campground Boat Launch",
+    "latitude": 41.5549133,
+    "longitude": -80.5243402,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Pymatuning State Park Campground Boat Launch"
+    }
+  },
+  {
+    "id": 10012413358,
+    "name": "Boat Ramp",
+    "latitude": 41.5113206,
+    "longitude": -83.0393316,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10024596013,
+    "name": "Boat Ramp",
+    "latitude": 41.0632241,
+    "longitude": -80.5978043,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "description": "Kayak and Canoe Launch",
+      "fee": "no",
+      "leisure": "slipway",
+      "lit": "no",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 10117205029,
+    "name": "Boat Ramp",
+    "latitude": 41.0605798,
+    "longitude": -81.3676255,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "fee": "yes",
+      "leisure": "slipway",
+      "lit": "no",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 10283003423,
+    "name": "Boat Ramp",
+    "latitude": 39.9147405,
+    "longitude": -80.755763,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10283003424,
+    "name": "Boat Ramp",
+    "latitude": 39.914866,
+    "longitude": -80.7515533,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10293958292,
+    "name": "Boat Ramp",
+    "latitude": 39.4492912,
+    "longitude": -81.1296687,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10448304703,
+    "name": "Boat Ramp",
+    "latitude": 41.0810569,
+    "longitude": -80.9810684,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10543603963,
+    "name": "Boat Ramp",
+    "latitude": 39.628308,
+    "longitude": -80.8757008,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10576902112,
+    "name": "Boat Ramp",
+    "latitude": 41.1220718,
+    "longitude": -80.6836409,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10602233986,
+    "name": "Boat Ramp",
+    "latitude": 38.6679246,
+    "longitude": -80.5613341,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10605163260,
+    "name": "Boat Ramp",
+    "latitude": 41.0600572,
+    "longitude": -80.6743184,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10614329422,
+    "name": "Boat Ramp",
+    "latitude": 40.0054875,
+    "longitude": -82.0880411,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10699678049,
+    "name": "Boat Ramp",
+    "latitude": 39.3853128,
+    "longitude": -83.9149247,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10699678050,
+    "name": "Boat Ramp",
+    "latitude": 39.3853203,
+    "longitude": -83.9149831,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10704944093,
+    "name": "Boat Ramp",
+    "latitude": 39.3714157,
+    "longitude": -81.3036824,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10704944094,
+    "name": "Boat Ramp",
+    "latitude": 39.3738796,
+    "longitude": -81.4015518,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10704944095,
+    "name": "Boat Ramp",
+    "latitude": 39.3702938,
+    "longitude": -81.4004816,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10707287937,
+    "name": "Boat Ramp",
+    "latitude": 39.7642821,
+    "longitude": -80.8714491,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10719270118,
+    "name": "Boat Ramp",
+    "latitude": 40.7984325,
+    "longitude": -80.8818828,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10733101427,
+    "name": "Boat Ramp",
+    "latitude": 41.0203812,
+    "longitude": -83.5810742,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10738504396,
+    "name": "Boat Ramp",
+    "latitude": 41.5875585,
+    "longitude": -83.7322386,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10741877731,
+    "name": "Boat Ramp",
+    "latitude": 39.5462075,
+    "longitude": -81.6422843,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10751379833,
+    "name": "Boat Ramp",
+    "latitude": 39.5438594,
+    "longitude": -81.5489226,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10751400944,
+    "name": "Boat Ramp",
+    "latitude": 39.5328024,
+    "longitude": -81.543531,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10757226766,
+    "name": "Boat Ramp",
+    "latitude": 39.5379701,
+    "longitude": -81.721005,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10788659459,
+    "name": "Boat Ramp",
+    "latitude": 38.6687474,
+    "longitude": -80.551033,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10839943001,
+    "name": "Mahoning River Waterway Trail - Canoe City Egress / Portage",
+    "latitude": 41.241749,
+    "longitude": -80.8815328,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Mahoning River Waterway Trail - Canoe City Egress / Portage",
+      "parking": "yes"
+    }
+  },
+  {
+    "id": 10844086682,
+    "name": "Newton Falls Upstream Paddling Access",
+    "latitude": 41.1961333,
+    "longitude": -80.9672329,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "canoe": "yes",
+      "leisure": "slipway",
+      "name": "Newton Falls Upstream Paddling Access",
+      "parking": "yes"
+    }
+  },
+  {
+    "id": 10844101080,
+    "name": "Boat Ramp",
+    "latitude": 41.1893138,
+    "longitude": -80.9792633,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "whitewater": "put_in"
+    }
+  },
+  {
+    "id": 10844101081,
+    "name": "Boat Ramp",
+    "latitude": 41.1894241,
+    "longitude": -80.9790783,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "whitewater": "put_in"
+    }
+  },
+  {
+    "id": 10844212251,
+    "name": "Mahoning River Waterway Trail - Burbank Park Ingress / Egress",
+    "latitude": 41.2684559,
+    "longitude": -80.8417086,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mahoning River Waterway Trail - Burbank Park Ingress / Egress"
+    }
+  },
+  {
+    "id": 10844242696,
+    "name": "Mahoning River Waterway Trail - Swift Park Ingress / Egress",
+    "latitude": 41.2387301,
+    "longitude": -80.9157807,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mahoning River Waterway Trail - Swift Park Ingress / Egress"
+    }
+  },
+  {
+    "id": 10844258253,
+    "name": "Mahoning River Waterway Trail - Lynwood Emergency Egress",
+    "latitude": 41.2670484,
+    "longitude": -80.8474068,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mahoning River Waterway Trail - Lynwood Emergency Egress"
+    }
+  },
+  {
+    "id": 10860637226,
+    "name": "Boat Ramp",
+    "latitude": 39.4104609,
+    "longitude": -81.4509446,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10860644736,
+    "name": "Boat Ramp",
+    "latitude": 39.2443209,
+    "longitude": -82.1930163,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10860644737,
+    "name": "Boat Ramp",
+    "latitude": 39.2442725,
+    "longitude": -82.1930355,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10890996602,
+    "name": "Boat Ramp",
+    "latitude": 41.4869048,
+    "longitude": -81.8341347,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10891344593,
+    "name": "Boat Ramp",
+    "latitude": 41.4800206,
+    "longitude": -81.8326683,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10891344594,
+    "name": "Boat Ramp",
+    "latitude": 41.4802065,
+    "longitude": -81.8325609,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10891344595,
+    "name": "Boat Ramp",
+    "latitude": 41.4801081,
+    "longitude": -81.8326169,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10922017789,
+    "name": "Boat Ramp",
+    "latitude": 38.9005866,
+    "longitude": -81.0077647,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10942832760,
+    "name": "Boat Ramp",
+    "latitude": 40.9800501,
+    "longitude": -80.6218753,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 10949903386,
+    "name": "Boat Launch",
+    "latitude": 41.1445306,
+    "longitude": -81.458888,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "boat launch",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 10992853046,
+    "name": "Boat Ramp",
+    "latitude": 41.3613335,
+    "longitude": -80.7414067,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11026459581,
+    "name": "Boat Ramp",
+    "latitude": 39.8173039,
+    "longitude": -81.8468657,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11030486618,
+    "name": "Boat Ramp",
+    "latitude": 39.5544468,
+    "longitude": -81.5596663,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11030486619,
+    "name": "Boat Ramp",
+    "latitude": 39.5307057,
+    "longitude": -81.541518,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11030486620,
+    "name": "Boat Ramp",
+    "latitude": 39.5297035,
+    "longitude": -81.5382661,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11030486621,
+    "name": "Boat Ramp",
+    "latitude": 39.5296698,
+    "longitude": -81.5364082,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11037739655,
+    "name": "Boat Ramp",
+    "latitude": 41.6933789,
+    "longitude": -83.7093293,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11044418673,
+    "name": "Boat Ramp",
+    "latitude": 41.0973735,
+    "longitude": -80.6778461,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11048452093,
+    "name": "Boat Ramp",
+    "latitude": 39.2724561,
+    "longitude": -81.6676859,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 11108297902,
+    "name": "Farnsworth Boat Ramp",
+    "latitude": 41.4766153,
+    "longitude": -83.7489877,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Farnsworth Boat Ramp",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 11199477617,
+    "name": "Boat Ramp",
+    "latitude": 40.005506,
+    "longitude": -82.0879749,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11199477629,
+    "name": "Boat Ramp",
+    "latitude": 40.0074924,
+    "longitude": -82.0870597,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11199477634,
+    "name": "Boat Ramp",
+    "latitude": 40.00304,
+    "longitude": -82.083676,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11338259867,
+    "name": "Boat Ramp",
+    "latitude": 40.2642822,
+    "longitude": -80.6150334,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11417551346,
+    "name": "Boat Ramp",
+    "latitude": 41.5134668,
+    "longitude": -82.7219922,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "private",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11495865713,
+    "name": "Canoe/Kayak Launch",
+    "latitude": 41.1361119,
+    "longitude": -81.48178,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Canoe/Kayak Launch"
+    }
+  },
+  {
+    "id": 11667655960,
+    "name": "Boat Ramp",
+    "latitude": 41.1435857,
+    "longitude": -81.4748854,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11730971907,
+    "name": "Boat Ramp",
+    "latitude": 41.8185327,
+    "longitude": -81.105178,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 11828807305,
+    "name": "Boat Ramp",
+    "latitude": 41.65303,
+    "longitude": -83.523141,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12106714838,
+    "name": "Canal Lands Park - River Access - RM 68.5",
+    "latitude": 40.6069849,
+    "longitude": -81.4247659,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "description": "RM 68.5 along the Tuscarawas River Water Trail. Hand launch canoes and kayaks only.",
+      "fee": "no",
+      "leisure": "slipway",
+      "name": "Canal Lands Park - River Access - RM 68.5",
+      "surface": "dirt"
+    }
+  },
+  {
+    "id": 12123296745,
+    "name": "Boat Ramp",
+    "latitude": 41.5061843,
+    "longitude": -83.0181115,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12444751701,
+    "name": "Boat Ramp",
+    "latitude": 41.7437713,
+    "longitude": -81.2819809,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12472068271,
+    "name": "Kayak Launch",
+    "latitude": 40.1399918,
+    "longitude": -83.1204135,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kayak Launch"
+    }
+  },
+  {
+    "id": 12568086563,
+    "name": "Boat Ramp",
+    "latitude": 41.7589132,
+    "longitude": -81.27755,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 12578104238,
+    "name": "Boat Ramp",
+    "latitude": 38.4163179,
+    "longitude": -81.8320764,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12578104240,
+    "name": "Kayak",
+    "latitude": 38.4163847,
+    "longitude": -81.8320185,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Kayak"
+    }
+  },
+  {
+    "id": 12714563148,
+    "name": "Boat Ramp",
+    "latitude": 41.6456427,
+    "longitude": -83.2619173,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 12883943615,
+    "name": "Boat Ramp",
+    "latitude": 39.176063,
+    "longitude": -83.5057577,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13049002724,
+    "name": "Boat Ramp",
+    "latitude": 41.4989736,
+    "longitude": -83.7156351,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "description": "Kayak landing",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13188857026,
+    "name": "Boat Ramp",
+    "latitude": 41.5875037,
+    "longitude": -83.1748149,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13188989573,
+    "name": "Boat Ramp",
+    "latitude": 41.4791761,
+    "longitude": -83.0849674,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13189149020,
+    "name": "Boat Ramp",
+    "latitude": 41.5106272,
+    "longitude": -83.0243589,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13189149036,
+    "name": "Boat Ramp",
+    "latitude": 41.5350192,
+    "longitude": -82.8486937,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13515666288,
+    "name": "Boat Ramp",
+    "latitude": 40.2722403,
+    "longitude": -80.6138722,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13621239264,
+    "name": "Boat Ramp",
+    "latitude": 40.2614866,
+    "longitude": -81.609349,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13621563036,
+    "name": "Boat Ramp",
+    "latitude": 39.8487781,
+    "longitude": -83.1887314,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13660446978,
+    "name": "Boat Ramp",
+    "latitude": 39.3411868,
+    "longitude": -82.9813772,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 13701582871,
+    "name": "Boat Ramp",
+    "latitude": 39.3407751,
+    "longitude": -82.9123084,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 21357520,
+    "name": "Boat Ramp",
+    "latitude": 39.9283934,
+    "longitude": -81.4295783,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "tiger:cfcc": "A74",
+      "tiger:county": "Guernsey, OH",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 164376216,
+    "name": "Boat Ramp",
+    "latitude": 41.0587154,
+    "longitude": -81.5431544,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 187636144,
+    "name": "Boat Ramp",
+    "latitude": 40.1188003,
+    "longitude": -82.8848287,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 246162841,
+    "name": "Boat Ramp",
+    "latitude": 41.015695,
+    "longitude": -81.3550244,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "leisure": "slipway",
+      "name": "Boat Ramp"
+    }
+  },
+  {
+    "id": 266786959,
+    "name": "Boat Ramp",
+    "latitude": 40.5274985,
+    "longitude": -83.8524155,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 267384621,
+    "name": "Boat Ramp",
+    "latitude": 40.4842546,
+    "longitude": -83.9196494,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 268123258,
+    "name": "Boat Ramp",
+    "latitude": 40.5104913,
+    "longitude": -83.8949966,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 311848456,
+    "name": "Boat Ramp",
+    "latitude": 41.5088296,
+    "longitude": -81.0982647,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 327029409,
+    "name": "Boat Ramp",
+    "latitude": 41.7403132,
+    "longitude": -81.262948,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 330332255,
+    "name": "Boat Ramp",
+    "latitude": 39.6284164,
+    "longitude": -80.8756916,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 330337049,
+    "name": "Boat Ramp",
+    "latitude": 39.7644052,
+    "longitude": -80.8714337,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 330872956,
+    "name": "Boat Ramp",
+    "latitude": 39.8608181,
+    "longitude": -80.8041197,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 330879803,
+    "name": "Boat Ramp",
+    "latitude": 39.9147557,
+    "longitude": -80.755856,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 330881253,
+    "name": "Boat Ramp",
+    "latitude": 40.0973721,
+    "longitude": -80.713711,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 336940555,
+    "name": "Boat Ramp",
+    "latitude": 40.0788517,
+    "longitude": -80.7364099,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 345064928,
+    "name": "Boat Ramp",
+    "latitude": 41.6172069,
+    "longitude": -82.7038061,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 345064929,
+    "name": "Boat Ramp",
+    "latitude": 41.6168589,
+    "longitude": -82.7040127,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 346042990,
+    "name": "Boat Ramp",
+    "latitude": 41.1528812,
+    "longitude": -82.2306227,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 346982296,
+    "name": "Boat Ramp",
+    "latitude": 41.3904689,
+    "longitude": -82.5526859,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 346982297,
+    "name": "Boat Ramp",
+    "latitude": 41.3903911,
+    "longitude": -82.5526041,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 346982298,
+    "name": "Boat Ramp",
+    "latitude": 41.3903282,
+    "longitude": -82.5525564,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 346982299,
+    "name": "Boat Ramp",
+    "latitude": 41.3902758,
+    "longitude": -82.5525674,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 348445614,
+    "name": "Boat Ramp",
+    "latitude": 41.5951658,
+    "longitude": -82.7199064,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 353122066,
+    "name": "Boat Ramp",
+    "latitude": 41.0209181,
+    "longitude": -83.6866363,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 356136887,
+    "name": "Boat Ramp",
+    "latitude": 41.4185612,
+    "longitude": -83.9512128,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 356136889,
+    "name": "Boat Ramp",
+    "latitude": 41.4178666,
+    "longitude": -83.9476867,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 356136890,
+    "name": "Boat Ramp",
+    "latitude": 41.4195169,
+    "longitude": -83.9512209,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 375375785,
+    "name": "Boat Ramp",
+    "latitude": 41.2394578,
+    "longitude": -83.0161555,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 376914664,
+    "name": "Boat Ramp",
+    "latitude": 41.6049079,
+    "longitude": -82.7243166,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 396310297,
+    "name": "Boat Ramp",
+    "latitude": 41.6760775,
+    "longitude": -82.811249,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 396436554,
+    "name": "Boat Ramp",
+    "latitude": 41.5303377,
+    "longitude": -82.7135711,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 396982092,
+    "name": "Boat Ramp",
+    "latitude": 40.2422618,
+    "longitude": -82.9649276,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 396983323,
+    "name": "Boat Ramp",
+    "latitude": 40.1214672,
+    "longitude": -82.885243,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 434805407,
+    "name": "Boat Ramp",
+    "latitude": 41.4967056,
+    "longitude": -82.8228285,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 448876340,
+    "name": "Boat Ramp",
+    "latitude": 41.3483068,
+    "longitude": -83.6631582,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 453428700,
+    "name": "Boat Ramp",
+    "latitude": 39.0920782,
+    "longitude": -81.7694958,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 456889081,
+    "name": "Boat Ramp",
+    "latitude": 41.1368231,
+    "longitude": -81.192176,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 456889533,
+    "name": "Boat Ramp",
+    "latitude": 41.1455926,
+    "longitude": -81.0877593,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 457037785,
+    "name": "Boat Ramp",
+    "latitude": 39.4324681,
+    "longitude": -81.4710381,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 460117406,
+    "name": "Boat Ramp",
+    "latitude": 41.5028356,
+    "longitude": -82.0613923,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 461437969,
+    "name": "Boat Ramp",
+    "latitude": 40.4583729,
+    "longitude": -82.3359207,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 461437970,
+    "name": "Boat Ramp",
+    "latitude": 40.4583503,
+    "longitude": -82.3358534,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 461437971,
+    "name": "Boat Ramp",
+    "latitude": 40.4177841,
+    "longitude": -82.3454308,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 461437974,
+    "name": "Boat Ramp",
+    "latitude": 40.4175708,
+    "longitude": -82.3454476,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 461437975,
+    "name": "Boat Ramp",
+    "latitude": 40.4132602,
+    "longitude": -82.3524219,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 461437976,
+    "name": "Boat Ramp",
+    "latitude": 40.4132341,
+    "longitude": -82.3523419,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 461936650,
+    "name": "Boat Ramp",
+    "latitude": 40.4593108,
+    "longitude": -82.337525,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 461936651,
+    "name": "Boat Ramp",
+    "latitude": 40.4592703,
+    "longitude": -82.3375781,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 462893451,
+    "name": "Boat Ramp",
+    "latitude": 41.039367,
+    "longitude": -83.617689,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 463487749,
+    "name": "Boat Ramp",
+    "latitude": 41.0086357,
+    "longitude": -83.5661123,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 463487755,
+    "name": "Boat Ramp",
+    "latitude": 41.0204135,
+    "longitude": -83.5811669,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 465197983,
+    "name": "Olander Park Boat Launch",
+    "latitude": 41.693236,
+    "longitude": -83.7092239,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Olander Park Boat Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 465330350,
+    "name": "Boat Ramp",
+    "latitude": 41.5735073,
+    "longitude": -82.8566064,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "4",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 465774831,
+    "name": "Boat Ramp",
+    "latitude": 39.633648,
+    "longitude": -82.8840522,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 472248881,
+    "name": "Clear Fork Reservoir Boat Launch Ramp",
+    "latitude": 40.7081286,
+    "longitude": -82.6523201,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Clear Fork Reservoir Boat Launch Ramp"
+    }
+  },
+  {
+    "id": 472639604,
+    "name": "Boat Ramp",
+    "latitude": 41.4202861,
+    "longitude": -82.3565455,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 477035934,
+    "name": "Boat Ramp",
+    "latitude": 41.5366006,
+    "longitude": -82.7767295,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 533198794,
+    "name": "Boat Ramp",
+    "latitude": 41.5709559,
+    "longitude": -80.5284665,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 533199030,
+    "name": "Boat Ramp",
+    "latitude": 41.6063245,
+    "longitude": -80.5012036,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 533199032,
+    "name": "Boat Ramp",
+    "latitude": 41.6062987,
+    "longitude": -80.5012035,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 541502684,
+    "name": "Boat Ramp",
+    "latitude": 39.2186078,
+    "longitude": -81.0840259,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 547363108,
+    "name": "Boat Ramp",
+    "latitude": 41.6165333,
+    "longitude": -83.5780577,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "description": "Public Slipway. $5 access fee.",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 551835144,
+    "name": "Boat Ramp",
+    "latitude": 41.6674285,
+    "longitude": -81.4229357,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 553376758,
+    "name": "Boat Ramp",
+    "latitude": 41.6696788,
+    "longitude": -81.4314225,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 553377335,
+    "name": "Boat Ramp",
+    "latitude": 41.6702276,
+    "longitude": -81.425755,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 583834823,
+    "name": "Boat Ramp",
+    "latitude": 39.3514407,
+    "longitude": -82.0375199,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "bicycle": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 589938755,
+    "name": "Boat Ramp",
+    "latitude": 41.4134931,
+    "longitude": -82.3426004,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 589938763,
+    "name": "Boat Ramp",
+    "latitude": 41.4137397,
+    "longitude": -82.3468121,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 634278516,
+    "name": "Boat Ramp",
+    "latitude": 41.6913605,
+    "longitude": -83.430983,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 637387329,
+    "name": "Boat Ramp",
+    "latitude": 41.4904056,
+    "longitude": -82.1127485,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 680650420,
+    "name": "Boat Ramp",
+    "latitude": 39.2758721,
+    "longitude": -81.5659553,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 727903998,
+    "name": "Boat Ramp",
+    "latitude": 40.8946775,
+    "longitude": -83.8832917,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 731591875,
+    "name": "Boat Ramp",
+    "latitude": 41.1223255,
+    "longitude": -83.4477266,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 758408422,
+    "name": "Kayak Launch",
+    "latitude": 41.6400313,
+    "longitude": -83.5352711,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Kayak Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 758441570,
+    "name": "Boat Ramp",
+    "latitude": 41.6167253,
+    "longitude": -83.5629477,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 772248671,
+    "name": "Boat Ramp",
+    "latitude": 39.4106442,
+    "longitude": -81.4502277,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "stone"
+    }
+  },
+  {
+    "id": 790433826,
+    "name": "Boat Ramp",
+    "latitude": 40.8214089,
+    "longitude": -83.2701703,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 791593241,
+    "name": "Boat Ramp",
+    "latitude": 39.385195,
+    "longitude": -83.9150129,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 791593242,
+    "name": "Boat Ramp",
+    "latitude": 39.3852597,
+    "longitude": -83.9149348,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 791603519,
+    "name": "Boat Ramp",
+    "latitude": 39.3853309,
+    "longitude": -83.9168933,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 813424205,
+    "name": "Boat Ramp",
+    "latitude": 41.502832,
+    "longitude": -82.0614711,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "paved"
+    }
+  },
+  {
+    "id": 815051511,
+    "name": "Boat Ramp",
+    "latitude": 39.1597157,
+    "longitude": -83.2209227,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 815061956,
+    "name": "Boat Ramp",
+    "latitude": 39.1872943,
+    "longitude": -83.4478161,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "area": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 821985941,
+    "name": "Boat Ramp",
+    "latitude": 41.6547427,
+    "longitude": -82.8055878,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 821985942,
+    "name": "Boat Ramp",
+    "latitude": 41.6547429,
+    "longitude": -82.805361,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 821985943,
+    "name": "Boat Ramp",
+    "latitude": 41.6547433,
+    "longitude": -82.8049769,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 821985944,
+    "name": "Boat Ramp",
+    "latitude": 41.6546702,
+    "longitude": -82.8045207,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 821986004,
+    "name": "Boat Ramp",
+    "latitude": 41.6598556,
+    "longitude": -82.8087269,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 821987502,
+    "name": "Boat Ramp",
+    "latitude": 41.655161,
+    "longitude": -82.8077377,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 830329829,
+    "name": "Boat Ramp",
+    "latitude": 39.2799134,
+    "longitude": -81.5660821,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 830581507,
+    "name": "Boat Ramp",
+    "latitude": 39.2587205,
+    "longitude": -81.5355028,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 837641676,
+    "name": "Boat Ramp",
+    "latitude": 39.9149229,
+    "longitude": -80.7514195,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Marshall, WV",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 849411813,
+    "name": "Boat Ramp",
+    "latitude": 39.6478832,
+    "longitude": -83.7944756,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 851576478,
+    "name": "Boat Ramp",
+    "latitude": 41.1568414,
+    "longitude": -83.4326222,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 854068144,
+    "name": "Boat Ramp",
+    "latitude": 41.5193156,
+    "longitude": -82.9751414,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 860211329,
+    "name": "Boat Ramp",
+    "latitude": 41.4121642,
+    "longitude": -83.8706385,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 870163839,
+    "name": "Boat Ramp",
+    "latitude": 41.0973958,
+    "longitude": -80.6779241,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 880851576,
+    "name": "Boat Ramp",
+    "latitude": 41.093384,
+    "longitude": -80.6170958,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 901849580,
+    "name": "Boat Ramp",
+    "latitude": 41.8558372,
+    "longitude": -80.9733082,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "seamark:small_craft_facility:category": "slipway",
+      "seamark:type": "small_craft_facility",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 901849700,
+    "name": "Boat Ramp",
+    "latitude": 41.8558268,
+    "longitude": -80.9734505,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 909760322,
+    "name": "Boat Ramp",
+    "latitude": 41.1124033,
+    "longitude": -82.0818091,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 909760328,
+    "name": "Boat Ramp",
+    "latitude": 41.1126263,
+    "longitude": -82.0877351,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 911687004,
+    "name": "Young Road Boat Ramp",
+    "latitude": 39.5505862,
+    "longitude": -83.9759152,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Young Road Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 921555947,
+    "name": "Boat Ramp",
+    "latitude": 39.3894129,
+    "longitude": -81.2093517,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 921556926,
+    "name": "Boat Ramp",
+    "latitude": 39.3845728,
+    "longitude": -81.2526825,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 921783248,
+    "name": "Boat Ramp",
+    "latitude": 39.2686571,
+    "longitude": -81.5705208,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "fixme": "need on the ground verification if this road still exists or the slipway has been replaced for access",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "tiger:cfcc": "A21",
+      "tiger:county": "Washington, OH",
+      "tiger:name_base": "Main",
+      "tiger:name_base_1": "United States Highway 50",
+      "tiger:name_type": "St",
+      "tiger:reviewed": "no",
+      "tiger:zip_left": "45714",
+      "tiger:zip_right": "45714"
+    }
+  },
+  {
+    "id": 923498972,
+    "name": "Boat Ramp",
+    "latitude": 39.4324649,
+    "longitude": -81.4707569,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 924858180,
+    "name": "Boat Ramp",
+    "latitude": 40.6138002,
+    "longitude": -80.5676662,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 924897949,
+    "name": "Boat Ramp",
+    "latitude": 39.3715158,
+    "longitude": -81.3037836,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 931239644,
+    "name": "Gilmer–Braxton County Line Access",
+    "latitude": 38.8886792,
+    "longitude": -80.7205789,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Gilmer–Braxton County Line Access",
+      "note": "Public Stream Access",
+      "operator": "West Virginia Division of Natural Resources"
+    }
+  },
+  {
+    "id": 931239645,
+    "name": "Glenville Fishing And Boating Access",
+    "latitude": 38.9217661,
+    "longitude": -80.7664773,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Glenville Fishing and Boating Access",
+      "note": "Public Stream Access",
+      "operator": "West Virginia Division of Natural Resources"
+    }
+  },
+  {
+    "id": 933597639,
+    "name": "Boat Ramp",
+    "latitude": 39.406963,
+    "longitude": -81.4500589,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "2",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 933604139,
+    "name": "Boat Ramp",
+    "latitude": 39.1399569,
+    "longitude": -81.3959533,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 933608502,
+    "name": "Boat Ramp",
+    "latitude": 38.8866564,
+    "longitude": -81.8397106,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 933614597,
+    "name": "Boat Ramp",
+    "latitude": 38.7968904,
+    "longitude": -81.6807057,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 941598584,
+    "name": "Saint Marys Boat Ramp",
+    "latitude": 39.3938389,
+    "longitude": -81.2066109,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Saint Marys boat ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 942253439,
+    "name": "Berlin Lake Boat Ramp",
+    "latitude": 41.0363514,
+    "longitude": -81.0087474,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Berlin Lake Boat Ramp",
+      "service": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Portage, OH",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 942254210,
+    "name": "Boat Ramp",
+    "latitude": 39.5513547,
+    "longitude": -81.623191,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 943136745,
+    "name": "Boat Ramp",
+    "latitude": 38.9005077,
+    "longitude": -81.0074674,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 948242259,
+    "name": "Lakeshore Park Boat Ramp",
+    "latitude": 41.9072542,
+    "longitude": -80.7805709,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Lakeshore Park Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 949484749,
+    "name": "Boat Ramp",
+    "latitude": 39.3778792,
+    "longitude": -81.4006469,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 962694005,
+    "name": "Boat Ramp",
+    "latitude": 41.5427226,
+    "longitude": -82.7646307,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 962768490,
+    "name": "Boat Ramp",
+    "latitude": 41.5060143,
+    "longitude": -82.759664,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 964474439,
+    "name": "Girard Boat Launch",
+    "latitude": 41.1517842,
+    "longitude": -80.7071684,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Girard Boat Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 964474441,
+    "name": "Division Street Kayak Launch",
+    "latitude": 41.122011,
+    "longitude": -80.6836958,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Division Street Kayak Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1001929981,
+    "name": "Boat Ramp",
+    "latitude": 41.4801727,
+    "longitude": -81.8324482,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "customers",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1001929982,
+    "name": "Boat Ramp",
+    "latitude": 41.4800702,
+    "longitude": -81.8325025,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "customers",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1001929983,
+    "name": "Boat Ramp",
+    "latitude": 41.4799815,
+    "longitude": -81.8325504,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "customers",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1001929988,
+    "name": "Boat Ramp",
+    "latitude": 41.4800372,
+    "longitude": -81.8323885,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "amenity": "parking",
+      "fee": "no",
+      "leisure": "slipway",
+      "note": "Boat Launch - Parking restricted to those launching and retrieving boats.",
+      "operator": "Cleveland Metroparks",
+      "operator:type": "public",
+      "parking": "surface",
+      "surface": "asphalt"
+    }
+  },
+  {
+    "id": 1008236130,
+    "name": "Boat Ramp",
+    "latitude": 41.490028,
+    "longitude": -81.9247031,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "residents",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1008236131,
+    "name": "Boat Ramp",
+    "latitude": 41.4900418,
+    "longitude": -81.9247851,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "residents",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1016751334,
+    "name": "Boat Ramp",
+    "latitude": 41.6542278,
+    "longitude": -82.8161328,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1017734998,
+    "name": "Boat Ramp",
+    "latitude": 41.6557698,
+    "longitude": -82.8265397,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1017735039,
+    "name": "Boat Ramp",
+    "latitude": 41.654504,
+    "longitude": -82.8230687,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1019885840,
+    "name": "Boat Ramp",
+    "latitude": 41.4595021,
+    "longitude": -82.1104391,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1022963726,
+    "name": "Boat Ramp",
+    "latitude": 38.4116864,
+    "longitude": -81.8477038,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1028786619,
+    "name": "Boat Ramp",
+    "latitude": 41.642312,
+    "longitude": -82.8372782,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1030847488,
+    "name": "Boat Ramp",
+    "latitude": 41.6536466,
+    "longitude": -82.8371183,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1036443726,
+    "name": "Boat Ramp",
+    "latitude": 41.5972078,
+    "longitude": -80.5377883,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1038096264,
+    "name": "Boat Ramp",
+    "latitude": 39.5283714,
+    "longitude": -82.0340585,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1038096731,
+    "name": "Boat Ramp",
+    "latitude": 39.5325366,
+    "longitude": -82.0419762,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1038097611,
+    "name": "Boat Ramp",
+    "latitude": 39.518901,
+    "longitude": -82.0477707,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1038332650,
+    "name": "Belpre Boat Ramp",
+    "latitude": 39.2748592,
+    "longitude": -81.5977817,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Belpre Boat Ramp",
+      "name:pronunciation": "ˈbɛlpriː ˈboʊt ˈɹæmp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1038799561,
+    "name": "Boat Ramp",
+    "latitude": 41.3238967,
+    "longitude": -80.7427541,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1047482766,
+    "name": "Boat Ramp",
+    "latitude": 39.5424971,
+    "longitude": -82.4316283,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "foot": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1051085724,
+    "name": "Boat Ramp",
+    "latitude": 41.0229573,
+    "longitude": -81.4391353,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1060138818,
+    "name": "Boat Ramp",
+    "latitude": 41.5968323,
+    "longitude": -83.9263892,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1065978605,
+    "name": "Boat Ramp",
+    "latitude": 39.4494356,
+    "longitude": -81.1296701,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1066438493,
+    "name": "Boat Ramp",
+    "latitude": 39.1485062,
+    "longitude": -82.5121612,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1066442663,
+    "name": "Boat Ramp",
+    "latitude": 39.6347624,
+    "longitude": -81.8369045,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1066550578,
+    "name": "Boat Ramp",
+    "latitude": 41.3090301,
+    "longitude": -80.7647563,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1066560150,
+    "name": "Boat Ramp",
+    "latitude": 41.3079108,
+    "longitude": -80.7625954,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1066560151,
+    "name": "Boat Ramp",
+    "latitude": 41.307908,
+    "longitude": -80.7625062,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1066560152,
+    "name": "Boat Ramp",
+    "latitude": 41.3079065,
+    "longitude": -80.7624057,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1066985390,
+    "name": "Campground Boat Launch",
+    "latitude": 41.3202692,
+    "longitude": -80.765952,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Campground Boat Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1078836088,
+    "name": "Boat Ramp",
+    "latitude": 41.0811988,
+    "longitude": -80.9810863,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1078836092,
+    "name": "Boat Ramp",
+    "latitude": 41.0952264,
+    "longitude": -80.9731903,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1078836130,
+    "name": "Boat Ramp",
+    "latitude": 41.1091068,
+    "longitude": -80.9846631,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1079036583,
+    "name": "Boat Ramp",
+    "latitude": 39.735003,
+    "longitude": -81.7319673,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1079039260,
+    "name": "Boat Ramp",
+    "latitude": 41.1286576,
+    "longitude": -82.2146613,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1079039341,
+    "name": "Boat Ramp",
+    "latitude": 41.1251178,
+    "longitude": -82.2147717,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1079100961,
+    "name": "Boat Ramp",
+    "latitude": 41.3082922,
+    "longitude": -80.7498032,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1079316651,
+    "name": "Boat Ramp",
+    "latitude": 41.3131268,
+    "longitude": -80.7455707,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1079322189,
+    "name": "Boat Ramp",
+    "latitude": 41.1455634,
+    "longitude": -81.0876638,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1079322195,
+    "name": "Boat Ramp",
+    "latitude": 41.1456317,
+    "longitude": -81.0878368,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1081595590,
+    "name": "Boat Ramp",
+    "latitude": 38.6688372,
+    "longitude": -80.5509377,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1081595592,
+    "name": "Boat Ramp",
+    "latitude": 38.6679204,
+    "longitude": -80.5614269,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1082355792,
+    "name": "Boat Ramp",
+    "latitude": 41.1341153,
+    "longitude": -81.1396682,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1082355793,
+    "name": "Boat Ramp",
+    "latitude": 41.1341238,
+    "longitude": -81.1397312,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1082355796,
+    "name": "Boat Ramp",
+    "latitude": 41.1341102,
+    "longitude": -81.1396296,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1082418872,
+    "name": "Berlin Lake Boat Ramp",
+    "latitude": 41.0361713,
+    "longitude": -81.008755,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Berlin Lake Boat Ramp",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1082782683,
+    "name": "Boat Ramp",
+    "latitude": 41.8558431,
+    "longitude": -80.9732193,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1082782684,
+    "name": "Boat Ramp",
+    "latitude": 41.8558237,
+    "longitude": -80.9736051,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1082782688,
+    "name": "Boat Ramp",
+    "latitude": 41.8558307,
+    "longitude": -80.9733618,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1082782690,
+    "name": "Boat Ramp",
+    "latitude": 41.8558259,
+    "longitude": -80.9735211,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1085099376,
+    "name": "Boat Ramp",
+    "latitude": 40.0372907,
+    "longitude": -81.0094059,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1086047475,
+    "name": "Boat Ramp",
+    "latitude": 41.3883329,
+    "longitude": -80.7405124,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1086047480,
+    "name": "Boat Ramp",
+    "latitude": 41.3883867,
+    "longitude": -80.7404619,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1087494899,
+    "name": "Boat Ramp",
+    "latitude": 40.2666651,
+    "longitude": -83.4001274,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1087494901,
+    "name": "Boat Ramp",
+    "latitude": 40.2667156,
+    "longitude": -83.399564,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1087584429,
+    "name": "Boat Ramp",
+    "latitude": 41.54602,
+    "longitude": -80.5264644,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Ashtabula, OH",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1087592191,
+    "name": "Boat Ramp",
+    "latitude": 41.5781578,
+    "longitude": -80.5323312,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Ashtabula, OH",
+      "tiger:reviewed": "no",
+      "tiger:separated": "no",
+      "tiger:source": "tiger_import_dch_v0.6_20070829",
+      "tiger:tlid": "117332443:117332444",
+      "tiger:upload_uuid": "bulk_upload.pl-92932989-1e40-4ca7-a786-1a6e53fc7065"
+    }
+  },
+  {
+    "id": 1087614222,
+    "name": "Boat Ramp",
+    "latitude": 41.554947,
+    "longitude": -80.5244475,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1095287165,
+    "name": "Boat Ramp",
+    "latitude": 39.2442648,
+    "longitude": -82.1928419,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1095287166,
+    "name": "Boat Ramp",
+    "latitude": 39.2442745,
+    "longitude": -82.1930016,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1096399726,
+    "name": "Boat Ramp",
+    "latitude": 39.4658462,
+    "longitude": -81.4778336,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1105301653,
+    "name": "Boat Ramp",
+    "latitude": 39.9618117,
+    "longitude": -81.9935872,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1105301654,
+    "name": "Boat Ramp",
+    "latitude": 39.9607939,
+    "longitude": -81.9938398,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1106493564,
+    "name": "Boat Ramp",
+    "latitude": 41.0392629,
+    "longitude": -83.6177549,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "bicycle": "yes",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1120025989,
+    "name": "Boat Ramp",
+    "latitude": 38.4829309,
+    "longitude": -81.8255082,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1133549267,
+    "name": "Boat Ramp",
+    "latitude": 39.4444187,
+    "longitude": -81.461367,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1137718182,
+    "name": "East Newport Boat Launch",
+    "latitude": 41.0600577,
+    "longitude": -80.6742656,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "East Newport Boat Launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1148112199,
+    "name": "Boat Ramp",
+    "latitude": 39.9883914,
+    "longitude": -80.7351482,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1148124039,
+    "name": "Boat Ramp",
+    "latitude": 39.3849738,
+    "longitude": -81.4796348,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1155056819,
+    "name": "Boat Ramp",
+    "latitude": 39.5462388,
+    "longitude": -81.64228,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1156108314,
+    "name": "Boat Ramp",
+    "latitude": 39.5544986,
+    "longitude": -81.5596125,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1156112853,
+    "name": "Boat Ramp",
+    "latitude": 39.5439026,
+    "longitude": -81.5488256,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1156114175,
+    "name": "Boat Ramp",
+    "latitude": 39.5308256,
+    "longitude": -81.5413925,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1156114189,
+    "name": "Boat Ramp",
+    "latitude": 39.5328432,
+    "longitude": -81.5434184,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1156116883,
+    "name": "Boat Ramp",
+    "latitude": 39.5319625,
+    "longitude": -81.5406909,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1156116928,
+    "name": "Boat Ramp",
+    "latitude": 39.5297884,
+    "longitude": -81.5382515,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1156116930,
+    "name": "Boat Ramp",
+    "latitude": 39.5297488,
+    "longitude": -81.5363998,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "private",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1156486947,
+    "name": "Boat Ramp",
+    "latitude": 40.2404319,
+    "longitude": -82.9797659,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1156486948,
+    "name": "Boat Ramp",
+    "latitude": 40.2404214,
+    "longitude": -82.9797325,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1156487629,
+    "name": "Boat Ramp",
+    "latitude": 40.2127266,
+    "longitude": -82.9714609,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1156487630,
+    "name": "Boat Ramp",
+    "latitude": 40.2127188,
+    "longitude": -82.9713183,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1156491819,
+    "name": "Boat Ramp",
+    "latitude": 40.0433151,
+    "longitude": -81.9787591,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1156770333,
+    "name": "Boat Ramp",
+    "latitude": 39.537926,
+    "longitude": -81.7208374,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1158052127,
+    "name": "Boat Ramp",
+    "latitude": 41.0567242,
+    "longitude": -83.6939177,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1158522468,
+    "name": "Boat Ramp",
+    "latitude": 40.9800556,
+    "longitude": -80.621898,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1161573767,
+    "name": "Tuttle Park Boat Launch",
+    "latitude": 40.0107117,
+    "longitude": -83.0171962,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Tuttle Park Boat Launch"
+    }
+  },
+  {
+    "id": 1163540586,
+    "name": "Boat Ramp",
+    "latitude": 38.5342734,
+    "longitude": -81.8968639,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1165926064,
+    "name": "Mahoning River Waterway Trail",
+    "latitude": 41.1356385,
+    "longitude": -80.9670196,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Mahoning River Waterway Trail",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1165929912,
+    "name": "Mahoning River Waterway Trail",
+    "latitude": 41.2683526,
+    "longitude": -80.8417902,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mahoning River Waterway Trail"
+    }
+  },
+  {
+    "id": 1165935937,
+    "name": "Mahoning River Waterway Trail",
+    "latitude": 41.2387299,
+    "longitude": -80.9157941,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "name": "Mahoning River Waterway Trail"
+    }
+  },
+  {
+    "id": 1165936250,
+    "name": "Boat Ramp",
+    "latitude": 41.2669556,
+    "longitude": -80.8472351,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1180048302,
+    "name": "Boat Ramp",
+    "latitude": 39.2693838,
+    "longitude": -81.569805,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1180074110,
+    "name": "Boat Ramp",
+    "latitude": 39.2697144,
+    "longitude": -81.585515,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1180077168,
+    "name": "Boat Ramp",
+    "latitude": 41.7396309,
+    "longitude": -80.8806205,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1180372103,
+    "name": "Boat Ramp",
+    "latitude": 40.465052,
+    "longitude": -80.5977783,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1181489404,
+    "name": "Boat Ramp",
+    "latitude": 40.470881,
+    "longitude": -80.5966625,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1181489423,
+    "name": "Boat Ramp",
+    "latitude": 40.4776263,
+    "longitude": -80.5983829,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1182089442,
+    "name": "Boat Ramp",
+    "latitude": 41.4188424,
+    "longitude": -80.7725371,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "unpaved"
+    }
+  },
+  {
+    "id": 1182096865,
+    "name": "Boat Ramp",
+    "latitude": 41.3901197,
+    "longitude": -80.7406363,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1182526840,
+    "name": "Boat Ramp",
+    "latitude": 41.414185,
+    "longitude": -80.7749462,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1182527631,
+    "name": "Boat Ramp",
+    "latitude": 41.4023724,
+    "longitude": -80.7678717,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1182583291,
+    "name": "Boat Ramp",
+    "latitude": 41.3301246,
+    "longitude": -80.7428564,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1182798571,
+    "name": "Boat Ramp",
+    "latitude": 39.2760221,
+    "longitude": -81.6153996,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1182807127,
+    "name": "Boat Ramp",
+    "latitude": 39.2691676,
+    "longitude": -81.5828039,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1187420545,
+    "name": "Boat Ramp",
+    "latitude": 39.8173681,
+    "longitude": -81.8469602,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1191434280,
+    "name": "Twin Bridge Boat Ramp",
+    "latitude": 40.1750395,
+    "longitude": -82.8605953,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "leisure": "slipway",
+      "name": "Twin Bridge Boat Ramp",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1203358733,
+    "name": "Boat Ramp",
+    "latitude": 40.1712127,
+    "longitude": -83.1392063,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1205309437,
+    "name": "Boat Ramp",
+    "latitude": 39.489842,
+    "longitude": -81.4872118,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1209207522,
+    "name": "Boat Ramp",
+    "latitude": 40.3789012,
+    "longitude": -80.6150818,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1210580532,
+    "name": "Paden City Park Boat Launch",
+    "latitude": 39.604575,
+    "longitude": -80.9425971,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "name": "Paden City Park Boat Launch",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1233294916,
+    "name": "Boat Ramp",
+    "latitude": 39.2292307,
+    "longitude": -81.7946835,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1237353025,
+    "name": "Boat Ramp",
+    "latitude": 41.6937145,
+    "longitude": -82.7935498,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1239780031,
+    "name": "Boat Ramp",
+    "latitude": 41.5991433,
+    "longitude": -80.5398791,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1240234250,
+    "name": "Boat Ramp",
+    "latitude": 41.6535446,
+    "longitude": -80.5222828,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1244658903,
+    "name": "Boat Ramp",
+    "latitude": 39.7404753,
+    "longitude": -82.7048218,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "gravel"
+    }
+  },
+  {
+    "id": 1267816018,
+    "name": "Boat Ramp",
+    "latitude": 39.0790453,
+    "longitude": -81.7837816,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1267816019,
+    "name": "Boat Ramp",
+    "latitude": 39.0790374,
+    "longitude": -81.7837162,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1267816020,
+    "name": "Boat Ramp",
+    "latitude": 39.0791454,
+    "longitude": -81.7835925,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1267922754,
+    "name": "Boat Ramp",
+    "latitude": 39.1830285,
+    "longitude": -81.755248,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1267927929,
+    "name": "Boat Ramp",
+    "latitude": 39.1379244,
+    "longitude": -81.7405955,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1267928559,
+    "name": "Boat Ramp",
+    "latitude": 39.1924544,
+    "longitude": -81.760497,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1267928560,
+    "name": "Boat Ramp",
+    "latitude": 39.1924505,
+    "longitude": -81.7606566,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1268690492,
+    "name": "Boat Ramp",
+    "latitude": 39.2117696,
+    "longitude": -81.731005,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1268690494,
+    "name": "Boat Ramp",
+    "latitude": 39.210429,
+    "longitude": -81.7317675,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1268690497,
+    "name": "Boat Ramp",
+    "latitude": 39.2096389,
+    "longitude": -81.7321013,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1268690498,
+    "name": "Boat Ramp",
+    "latitude": 39.2092819,
+    "longitude": -81.7322837,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1268690502,
+    "name": "Boat Ramp",
+    "latitude": 39.2080303,
+    "longitude": -81.7330132,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1268690503,
+    "name": "Boat Ramp",
+    "latitude": 39.2074954,
+    "longitude": -81.7333459,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1268690505,
+    "name": "Boat Ramp",
+    "latitude": 39.2062975,
+    "longitude": -81.7340161,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1271251129,
+    "name": "Pearl Street",
+    "latitude": 39.1845168,
+    "longitude": -81.7537863,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Pearl Street",
+      "service": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Athens, OH",
+      "tiger:name_base": "Pearl",
+      "tiger:name_type": "St",
+      "tiger:reviewed": "no",
+      "tiger:zip_left": "45739"
+    }
+  },
+  {
+    "id": 1271253157,
+    "name": "Boat Ramp",
+    "latitude": 39.1862843,
+    "longitude": -81.7518156,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1271253162,
+    "name": "Boat Ramp",
+    "latitude": 39.1876621,
+    "longitude": -81.7551816,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1274316350,
+    "name": "Tappan Lake",
+    "latitude": 40.3217681,
+    "longitude": -81.1841138,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Tappan Lake",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1274994671,
+    "name": "Center Road Boatramp",
+    "latitude": 39.5367294,
+    "longitude": -83.9859746,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Center Road Boatramp",
+      "service": "slipway",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Clinton, OH;Warren, OH",
+      "tiger:name_base": "Hawkins",
+      "tiger:name_type": "Rd",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1278033293,
+    "name": "Boat Ramp",
+    "latitude": 39.2527407,
+    "longitude": -81.6982297,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1281207421,
+    "name": "Boat Ramp",
+    "latitude": 39.9102957,
+    "longitude": -81.4189125,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1281207449,
+    "name": "Boat Ramp",
+    "latitude": 39.9144445,
+    "longitude": -81.4222861,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1281211536,
+    "name": "Boat Ramp",
+    "latitude": 39.9311945,
+    "longitude": -81.4268905,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1281229011,
+    "name": "Boat Ramp",
+    "latitude": 41.9667439,
+    "longitude": -80.5556205,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1281229012,
+    "name": "Boat Ramp",
+    "latitude": 41.966781,
+    "longitude": -80.555526,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1281232285,
+    "name": "Boat Ramp",
+    "latitude": 41.9689973,
+    "longitude": -80.5530097,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1281240138,
+    "name": "Boat Ramp",
+    "latitude": 39.9304302,
+    "longitude": -81.4335195,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1281240139,
+    "name": "Boat Ramp",
+    "latitude": 39.9303531,
+    "longitude": -81.4335008,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1286080530,
+    "name": "Aquilla Lake Public Boat Launch",
+    "latitude": 41.549212,
+    "longitude": -81.1693523,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "name": "Aquilla Lake Public Boat launch",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1289397363,
+    "name": "Boat Ramp",
+    "latitude": 41.649008,
+    "longitude": -80.8359239,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1289653550,
+    "name": "Boat Ramp",
+    "latitude": 41.6358804,
+    "longitude": -80.822975,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1312926332,
+    "name": "Boat Ramp",
+    "latitude": 40.6149342,
+    "longitude": -80.5758688,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1312936185,
+    "name": "Boat Ramp",
+    "latitude": 40.8993541,
+    "longitude": -83.8900011,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1315996559,
+    "name": "Boat Ramp",
+    "latitude": 41.8835004,
+    "longitude": -80.7952232,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1315996561,
+    "name": "Boat Ramp",
+    "latitude": 41.8835923,
+    "longitude": -80.7953438,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1316550422,
+    "name": "Boat Ramp",
+    "latitude": 41.8843465,
+    "longitude": -80.8530755,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1338623844,
+    "name": "Boat Ramp",
+    "latitude": 40.0487148,
+    "longitude": -81.024017,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1339955300,
+    "name": "Boat Ramp",
+    "latitude": 40.2874159,
+    "longitude": -82.9559344,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1339963806,
+    "name": "Boat Ramp",
+    "latitude": 39.9529962,
+    "longitude": -83.7298747,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1339963807,
+    "name": "Boat Ramp",
+    "latitude": 39.9530934,
+    "longitude": -83.7298794,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1339963808,
+    "name": "Boat Ramp",
+    "latitude": 39.9531834,
+    "longitude": -83.7299249,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1340370205,
+    "name": "Boat Ramp",
+    "latitude": 41.0378481,
+    "longitude": -80.5391373,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1342563285,
+    "name": "Boat Ramp",
+    "latitude": 40.1962716,
+    "longitude": -83.9776382,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1344685371,
+    "name": "Boat Ramp",
+    "latitude": 40.980888,
+    "longitude": -82.1888014,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1344685761,
+    "name": "Boat Ramp",
+    "latitude": 40.9909478,
+    "longitude": -82.1850043,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1354173836,
+    "name": "Boat Ramp",
+    "latitude": 41.4707657,
+    "longitude": -82.1855408,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1354173837,
+    "name": "Boat Ramp",
+    "latitude": 41.4708256,
+    "longitude": -82.185435,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1354173838,
+    "name": "Boat Ramp",
+    "latitude": 41.4708795,
+    "longitude": -82.1853172,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1355930510,
+    "name": "Boat Ramp",
+    "latitude": 41.4717045,
+    "longitude": -82.1773761,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1355930511,
+    "name": "Boat Ramp",
+    "latitude": 41.4717128,
+    "longitude": -82.1772919,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1358087425,
+    "name": "Boat Ramp",
+    "latitude": 41.7593202,
+    "longitude": -81.2782143,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1358087426,
+    "name": "Boat Ramp",
+    "latitude": 41.7594019,
+    "longitude": -81.2782659,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1358959108,
+    "name": "Boat Ramp",
+    "latitude": 38.4162875,
+    "longitude": -81.832233,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1369967421,
+    "name": "Boat Ramp",
+    "latitude": 41.387343,
+    "longitude": -81.2059612,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1373178904,
+    "name": "Boat Ramp",
+    "latitude": 41.6454853,
+    "longitude": -83.2620043,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1377140555,
+    "name": "Boat Ramp",
+    "latitude": 41.6884893,
+    "longitude": -82.8179925,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1381152123,
+    "name": "Boat Ramp",
+    "latitude": 39.3464185,
+    "longitude": -82.0333019,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "bicycle": "yes",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "gravel",
+      "tiger:cfcc": "A41",
+      "tiger:county": "Athens, OH",
+      "tiger:reviewed": "no"
+    }
+  },
+  {
+    "id": 1384109302,
+    "name": "Boat Ramp",
+    "latitude": 40.5614237,
+    "longitude": -80.6816272,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1394032515,
+    "name": "Boat Ramp",
+    "latitude": 40.1756585,
+    "longitude": -82.8611748,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "canoe": "designated",
+      "fee": "no",
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1394453434,
+    "name": "Boat Ramp",
+    "latitude": 39.9065197,
+    "longitude": -82.528048,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1394453435,
+    "name": "Boat Ramp",
+    "latitude": 39.9071505,
+    "longitude": -82.5260645,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1409565867,
+    "name": "Boat Ramp",
+    "latitude": 39.4719169,
+    "longitude": -81.1116167,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1413111795,
+    "name": "Boat Ramp",
+    "latitude": 39.867471,
+    "longitude": -83.3743625,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1416815555,
+    "name": "Boat Ramp",
+    "latitude": 41.4607638,
+    "longitude": -81.2105898,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1417581257,
+    "name": "Boat Ramp",
+    "latitude": 39.3916201,
+    "longitude": -81.2122985,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1419394086,
+    "name": "Boat Ramp",
+    "latitude": 41.2322242,
+    "longitude": -82.5856639,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1419394087,
+    "name": "Boat Ramp",
+    "latitude": 41.2338814,
+    "longitude": -82.5799059,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1422857150,
+    "name": "Boat Ramp",
+    "latitude": 39.5465128,
+    "longitude": -81.7883813,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "service": "slipway",
+      "surface": "concrete"
+    }
+  },
+  {
+    "id": 1423647133,
+    "name": "Boat Ramp",
+    "latitude": 40.4656813,
+    "longitude": -81.1872776,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1423647138,
+    "name": "Boat Ramp",
+    "latitude": 40.4657578,
+    "longitude": -81.1842,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1424840847,
+    "name": "Boat Ramp",
+    "latitude": 41.1328609,
+    "longitude": -81.1892832,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1424850589,
+    "name": "Boat Ramp",
+    "latitude": 41.0593656,
+    "longitude": -81.3462535,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1434876758,
+    "name": "Boat Ramp",
+    "latitude": 41.5874331,
+    "longitude": -83.1748262,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1434887148,
+    "name": "Boat Ramp",
+    "latitude": 41.4791753,
+    "longitude": -83.0849185,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1434901191,
+    "name": "Boat Ramp",
+    "latitude": 41.5106991,
+    "longitude": -83.0243988,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1434901197,
+    "name": "Boat Ramp",
+    "latitude": 41.5351185,
+    "longitude": -82.8487281,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1442459634,
+    "name": "Boat Ramp",
+    "latitude": 39.319905,
+    "longitude": -82.3532003,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1443013051,
+    "name": "Boat Ramp",
+    "latitude": 40.0825841,
+    "longitude": -81.4931908,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1443013052,
+    "name": "Boat Ramp",
+    "latitude": 40.0881717,
+    "longitude": -81.4908205,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "leisure": "slipway"
+    }
+  },
+  {
+    "id": 1444072430,
+    "name": "Boat Ramp",
+    "latitude": 39.6489103,
+    "longitude": -81.8598427,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 1455599747,
+    "name": "Boat Ramp",
+    "latitude": 39.6481637,
+    "longitude": -81.8566537,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway",
+      "source": "EsriWorldImageryClarity"
+    }
+  },
+  {
+    "id": 1469605337,
+    "name": "Boat Ramp",
+    "latitude": 39.1994768,
+    "longitude": -81.7738839,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1469657259,
+    "name": "Boat Ramp",
+    "latitude": 40.2782222,
+    "longitude": -81.8705499,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "boat": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "operator": "Ohio Department of Natural Resources",
+      "service": "slipway",
+      "surface": "unpaved",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 1469657260,
+    "name": "Boat Ramp",
+    "latitude": 40.2783833,
+    "longitude": -81.8708733,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "boat": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "operator": "Ohio Department of Natural Resources",
+      "service": "slipway",
+      "surface": "concrete",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 1469657263,
+    "name": "Boat Ramp",
+    "latitude": 40.2413806,
+    "longitude": -81.8726868,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "boat": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "operator": "Ohio Department of Natural Resources",
+      "service": "slipway",
+      "surface": "concrete",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 1469657264,
+    "name": "Boat Ramp",
+    "latitude": 40.2413832,
+    "longitude": -81.8725273,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "yes",
+      "boat": "yes",
+      "canoe": "yes",
+      "fee": "no",
+      "highway": "service",
+      "lanes": "1",
+      "leisure": "slipway",
+      "operator": "Ohio Department of Natural Resources",
+      "service": "slipway",
+      "surface": "unpaved",
+      "trailer": "yes"
+    }
+  },
+  {
+    "id": 1486171980,
+    "name": "Boat Ramp",
+    "latitude": 40.6459839,
+    "longitude": -80.5126838,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  },
+  {
+    "id": 1487044656,
+    "name": "Boat Ramp",
+    "latitude": 39.3905345,
+    "longitude": -81.417773,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "access": "permissive",
+      "canoe": "yes",
+      "fee": "no",
+      "leisure": "slipway",
+      "operator": "Ohio River Islands National Wildlife Refuge",
+      "surface": "gravel",
+      "trailer": "no"
+    }
+  },
+  {
+    "id": 1489975771,
+    "name": "Boat Ramp",
+    "latitude": 39.2757463,
+    "longitude": -82.9291424,
+    "state": "Ohio",
+    "stateAbbr": "OH",
+    "tags": {
+      "highway": "service",
+      "incline": "down",
+      "leisure": "slipway",
+      "service": "slipway"
+    }
+  }
+]
