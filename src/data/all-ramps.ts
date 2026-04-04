@@ -53,10 +53,16 @@ function isDuplicateOfGrandLake(name: string, lat: number, lng: number): boolean
 /** Hide generic/unidentifiable ramps from display */
 function isVisibleRamp(name: string, city: string): boolean {
   const n = (name || "").trim().toLowerCase();
-  const c = (city || "").trim();
-  // Hide if name is just "boat ramp" with no distinguishing city
-  if (!n || n === "boat ramp" || n === "boat ramp at" || n === "boat ramp near") {
-    if (!c || c.length < 2 || c === "Unknown") return false;
+  const c = (city || "").trim().toLowerCase();
+  // Hide empty/null names
+  if (!n || n.length < 3) return false;
+  // Hide generic "Boat Ramp" variants (with or without lake/city suffix)
+  if (/^boat[_ ]ramp(\s|$)/i.test(n)) return false;
+  if (n === "boat launch" || n === "boat ramp") return false;
+  // Hide if city is just the state name
+  if (c === "oklahoma" || c === "texas" || c === "missouri" || c === "arkansas" || c === "kansas" || c === "unknown" || !c) {
+    // Only hide if name ALSO looks generic
+    if (/^boat\s/i.test(n)) return false;
   }
   return true;
 }
