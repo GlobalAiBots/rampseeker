@@ -108,8 +108,8 @@ export default function Home() {
           <Link href="/oklahoma" className="bg-sunset hover:bg-sunset-dark text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm">Oklahoma ({okCount}+)</Link>
           <Link href="/texas" className="bg-water hover:bg-water-light text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm">Texas ({txCount})</Link>
           <Link href="/missouri" className="bg-forest hover:bg-forest-light text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm">Missouri ({moCount})</Link>
-          <Link href="/arkansas" className="border-2 border-charcoal text-charcoal hover:bg-charcoal hover:text-white font-bold px-5 py-2.5 rounded-lg transition text-sm">Arkansas ({arCount})</Link>
-          <Link href="/kansas" className="border-2 border-gray-400 text-gray-500 hover:bg-gray-500 hover:text-white font-bold px-5 py-2.5 rounded-lg transition text-sm">Kansas ({ksCount})</Link>
+          <Link href="/arkansas" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#8B5E3C" }}>Arkansas ({arCount})</Link>
+          <Link href="/kansas" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#B8860B" }}>Kansas ({ksCount})</Link>
           <span className="text-gray-400 font-medium px-5 py-2.5 text-sm">More states coming</span>
         </div>
       </section>
