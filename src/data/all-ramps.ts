@@ -2,6 +2,7 @@ import { ramps as grandLakeRamps, amenityLabels, type Ramp } from "./ramps";
 import oklahomaRampsRaw from "./oklahoma-ramps.json";
 import texasRampsRaw from "./texas-ramps.json";
 import missouriRampsRaw from "./missouri-ramps.json";
+import arkansasRampsRaw from "./arkansas-ramps.json";
 
 export interface UnifiedRamp {
   id: string;
@@ -168,6 +169,22 @@ for (const raw of missouriRampsRaw) {
     rating: raw.rating || 0,
     totalRatings: raw.total_ratings || 0,
     featured: false,
+  });
+}
+
+// 5. Add Arkansas ramps
+for (const raw of arkansasRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `ar-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({
+    id: slug, name: cleanName,
+    description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }),
+    latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "",
+    city: raw.city || "", county: raw.county || "", state: "AR",
+    rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false,
   });
 }
 

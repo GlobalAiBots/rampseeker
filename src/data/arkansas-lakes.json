@@ -1,0 +1,368 @@
+[
+  {
+    "id": "beaver-lake",
+    "name": "Beaver Lake",
+    "lat": 36.35,
+    "lng": -94.05,
+    "radius": 0.18,
+    "acres": 28370,
+    "shorelineMiles": 487,
+    "maxDepth": 210,
+    "counties": [
+      "Benton",
+      "Washington",
+      "Carroll",
+      "Madison"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Smallmouth Bass",
+      "Spotted Bass",
+      "Striped Bass",
+      "Crappie",
+      "Walleye",
+      "Catfish"
+    ],
+    "nearestTowns": [
+      "Rogers",
+      "Eureka Springs",
+      "Springdale"
+    ],
+    "description": "Beaver Lake is Northwest Arkansas's premier lake — 28,370 acres of crystal-clear Ozark water impounded on the White River. The lake's clear water and rocky structure support outstanding bass fishing with all three species (largemouth, smallmouth, and spotted) thriving.\n\nStriped bass fishing is excellent in the deeper main lake, with fish over 30 pounds caught annually. The upper lake arms near War Eagle Creek offer protected coves with great crappie and bass.\n\nThe lake sits in the rapidly growing NWA metro (Rogers, Bentonville, Springdale, Fayetteville) making it one of the most accessible quality fishing lakes in the region.",
+    "rampCount": 16
+  },
+  {
+    "id": "bull-shoals-lake-ar",
+    "name": "Bull Shoals Lake",
+    "lat": 36.38,
+    "lng": -92.55,
+    "radius": 0.18,
+    "acres": 45440,
+    "shorelineMiles": 740,
+    "maxDepth": 200,
+    "counties": [
+      "Marion",
+      "Baxter",
+      "Boone"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Smallmouth Bass",
+      "Spotted Bass",
+      "Crappie",
+      "Walleye",
+      "Catfish",
+      "Trout (tailwater)"
+    ],
+    "nearestTowns": [
+      "Mountain Home",
+      "Lakeview",
+      "Bull Shoals"
+    ],
+    "description": "Bull Shoals Lake is one of the crown jewels of the Ozarks — 45,440 acres of deep, clear water spanning the Arkansas-Missouri border. The Arkansas side has the majority of the lake and offers world-class bass fishing.\n\nThe tailwater below Bull Shoals Dam on the White River is one of the premier trout fisheries in the US, regularly producing trophy brown and rainbow trout.\n\nMountain Home serves as the primary gateway city with full services for anglers.",
+    "rampCount": 7
+  },
+  {
+    "id": "greers-ferry-lake",
+    "name": "Greers Ferry Lake",
+    "lat": 35.55,
+    "lng": -92.15,
+    "radius": 0.15,
+    "acres": 31500,
+    "shorelineMiles": 340,
+    "maxDepth": 180,
+    "counties": [
+      "Cleburne",
+      "Van Buren",
+      "Faulkner"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Smallmouth Bass",
+      "Spotted Bass",
+      "Walleye",
+      "Crappie",
+      "Catfish",
+      "Trout (tailwater)"
+    ],
+    "nearestTowns": [
+      "Heber Springs",
+      "Clinton",
+      "Greers Ferry"
+    ],
+    "description": "Greers Ferry Lake is often called Arkansas's cleanest lake with visibility exceeding 20 feet in its lower sections. The 31,500-acre reservoir in the Ozark foothills offers diverse fishing and stunning scenery.\n\nAll three bass species thrive here, with spotted bass being particularly abundant. The tailwater below the dam supports an excellent trout fishery.\n\nHeber Springs on the lake's south shore is a charming small town with a strong fishing culture.",
+    "rampCount": 26
+  },
+  {
+    "id": "lake-ouachita",
+    "name": "Lake Ouachita",
+    "lat": 34.58,
+    "lng": -93.25,
+    "radius": 0.18,
+    "acres": 40100,
+    "shorelineMiles": 690,
+    "maxDepth": 180,
+    "counties": [
+      "Garland",
+      "Montgomery"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Smallmouth Bass",
+      "Spotted Bass",
+      "Striped Bass",
+      "Bream",
+      "Crappie",
+      "Catfish"
+    ],
+    "nearestTowns": [
+      "Hot Springs",
+      "Mount Ida",
+      "Royal"
+    ],
+    "description": "Lake Ouachita is the largest lake entirely within Arkansas at 40,100 acres. Set in the Ouachita Mountains west of Hot Springs, it's one of the clearest and most scenic lakes in the state.\n\nThe lake has produced the state record largemouth bass and supports excellent populations of all three bass species plus stripers. Islands and rocky points create diverse structure.\n\nHot Springs National Park is nearby, making this a unique combination of fishing and tourism.",
+    "rampCount": 16
+  },
+  {
+    "id": "degray-lake",
+    "name": "DeGray Lake",
+    "lat": 34.23,
+    "lng": -93.12,
+    "radius": 0.1,
+    "acres": 13400,
+    "shorelineMiles": 207,
+    "maxDepth": 120,
+    "counties": [
+      "Clark",
+      "Hot Spring"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Hybrid Striper",
+      "Crappie",
+      "Bream",
+      "Catfish"
+    ],
+    "nearestTowns": [
+      "Arkadelphia",
+      "Bismarck",
+      "Caddo Valley"
+    ],
+    "description": "DeGray Lake is a 13,400-acre reservoir in the Ouachita Mountains known for consistent bass fishing and its resort lodge. DeGray Lake Resort State Park on its shores offers one of Arkansas's premier outdoor resort experiences.\n\nThe lake's hybrid striper fishery is particularly popular, with aggressive fish that put up an incredible fight.",
+    "rampCount": 7
+  },
+  {
+    "id": "norfork-lake",
+    "name": "Norfork Lake",
+    "lat": 36.25,
+    "lng": -92.28,
+    "radius": 0.12,
+    "acres": 22000,
+    "shorelineMiles": 550,
+    "maxDepth": 177,
+    "counties": [
+      "Baxter",
+      "Fulton"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Smallmouth Bass",
+      "Spotted Bass",
+      "Striped Bass",
+      "Crappie",
+      "Walleye"
+    ],
+    "nearestTowns": [
+      "Mountain Home",
+      "Norfork",
+      "Henderson"
+    ],
+    "description": "Norfork Lake is a clear, deep Ozark reservoir east of Mountain Home. At 22,000 acres with 550 miles of shoreline, it offers excellent bass fishing in clear water conditions.\n\nThe lake is known for trophy striped bass and solid smallmouth populations along its rocky bluffs. The Norfork tailwater below the dam is another premier White River trout fishing destination.",
+    "rampCount": 9
+  },
+  {
+    "id": "lake-hamilton",
+    "name": "Lake Hamilton",
+    "lat": 34.48,
+    "lng": -93.05,
+    "radius": 0.08,
+    "acres": 7200,
+    "shorelineMiles": 97,
+    "maxDepth": 60,
+    "counties": [
+      "Garland"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "Bream",
+      "Catfish"
+    ],
+    "nearestTowns": [
+      "Hot Springs"
+    ],
+    "description": "Lake Hamilton is Hot Springs' backyard lake — a 7,200-acre reservoir on the Ouachita River that runs through the city. It's heavily developed with lakefront homes and marinas but still produces good bass and crappie fishing.",
+    "rampCount": 8
+  },
+  {
+    "id": "millwood-lake",
+    "name": "Millwood Lake",
+    "lat": 33.72,
+    "lng": -94.05,
+    "radius": 0.1,
+    "acres": 29500,
+    "shorelineMiles": 95,
+    "maxDepth": 45,
+    "counties": [
+      "Little River",
+      "Hempstead"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "Catfish",
+      "Bream"
+    ],
+    "nearestTowns": [
+      "Ashdown",
+      "De Queen",
+      "Nashville"
+    ],
+    "description": "Millwood Lake in Southwest Arkansas is a shallow, timbered lake that's a crappie fishing paradise. The 29,500-acre reservoir is full of standing timber that provides incredible habitat for crappie and bass.\n\nThe lake's shallow nature and flooded timber make it ideal for kayak fishing.",
+    "rampCount": 3
+  },
+  {
+    "id": "lake-dardanelle",
+    "name": "Lake Dardanelle",
+    "lat": 35.3,
+    "lng": -93.15,
+    "radius": 0.15,
+    "acres": 34300,
+    "shorelineMiles": 315,
+    "maxDepth": 50,
+    "counties": [
+      "Yell",
+      "Pope",
+      "Logan",
+      "Johnson"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Smallmouth Bass",
+      "Spotted Bass",
+      "Catfish",
+      "Crappie",
+      "Striped Bass"
+    ],
+    "nearestTowns": [
+      "Russellville",
+      "Dardanelle",
+      "Atkins"
+    ],
+    "description": "Lake Dardanelle is a 34,300-acre reservoir on the Arkansas River in the River Valley region. The lake is known for excellent bass fishing and has hosted major bass tournaments.\n\nThe Arkansas River current through the lake creates unique fishing patterns compared to typical still-water reservoirs.",
+    "rampCount": 10
+  },
+  {
+    "id": "blue-mountain-lake",
+    "name": "Blue Mountain Lake",
+    "lat": 35.1,
+    "lng": -93.65,
+    "radius": 0.06,
+    "acres": 2910,
+    "shorelineMiles": 52,
+    "maxDepth": 65,
+    "counties": [
+      "Logan"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "Catfish",
+      "Bream"
+    ],
+    "nearestTowns": [
+      "Booneville",
+      "Magazine",
+      "Havana"
+    ],
+    "description": "Blue Mountain Lake is a scenic 2,910-acre lake in the Ouachita National Forest. It offers a quiet, uncrowded fishing experience with good bass and crappie populations.",
+    "rampCount": 1
+  },
+  {
+    "id": "nimrod-lake",
+    "name": "Nimrod Lake",
+    "lat": 34.95,
+    "lng": -93.1,
+    "radius": 0.08,
+    "acres": 3550,
+    "shorelineMiles": 77,
+    "maxDepth": 50,
+    "counties": [
+      "Perry"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "Catfish",
+      "Bream"
+    ],
+    "nearestTowns": [
+      "Plainview",
+      "Ola",
+      "Perryville"
+    ],
+    "description": "Nimrod Lake is a quiet 3,550-acre lake on the Fourche LaFave River. It's known for consistent crappie fishing and a peaceful, uncrowded atmosphere.",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-chicot",
+    "name": "Lake Chicot",
+    "lat": 33.38,
+    "lng": -91.28,
+    "radius": 0.06,
+    "acres": 5100,
+    "shorelineMiles": 42,
+    "maxDepth": 25,
+    "counties": [
+      "Chicot"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "Bream",
+      "Catfish"
+    ],
+    "nearestTowns": [
+      "Lake Village"
+    ],
+    "description": "Lake Chicot is the largest natural lake in Arkansas — an old oxbow of the Mississippi River. At 5,100 acres, it offers excellent bass fishing in a unique natural setting.",
+    "rampCount": 1
+  },
+  {
+    "id": "greeson-lake",
+    "name": "Greeson Lake (Narrows Dam)",
+    "lat": 34.18,
+    "lng": -93.7,
+    "radius": 0.06,
+    "acres": 7260,
+    "shorelineMiles": 95,
+    "maxDepth": 125,
+    "counties": [
+      "Pike"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Walleye",
+      "Crappie",
+      "Catfish",
+      "Bream"
+    ],
+    "nearestTowns": [
+      "Murfreesboro",
+      "Glenwood",
+      "Kirby"
+    ],
+    "description": "Greeson Lake (also called Narrows Dam) is a clear, deep Ouachita Mountains lake with excellent walleye fishing — one of the best walleye lakes in Arkansas. Bass fishing is also solid.",
+    "rampCount": 3
+  }
+]
