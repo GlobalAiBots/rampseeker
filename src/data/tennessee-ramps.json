@@ -1,0 +1,6812 @@
+[
+  {
+    "place_id": "osm_53763693",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8357272,
+    "longitude": -87.7134784,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_202400044",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.259274,
+    "longitude": -86.1221793,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_202550512",
+    "name": "River Glade Rd",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.132888,
+    "longitude": -85.161746,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_202557200",
+    "name": "Tyner Bayshore Dr",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1287122,
+    "longitude": -85.136999,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_202581922",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.3727779,
+    "longitude": -88.1977013,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_202584107",
+    "name": "Island View Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2924836,
+    "longitude": -85.0694495,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_202585698",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0660696,
+    "longitude": -88.2597657,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_202621482",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2332667,
+    "longitude": -88.2554128,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_202651605",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.3756486,
+    "longitude": -88.2011275,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_203088324",
+    "name": "Rivers Landing Rd (TN River)",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0102987,
+    "longitude": -85.6941288,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_203369033",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.479119,
+    "longitude": -84.9745508,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_203398754",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.4914965,
+    "longitude": -85.0037222,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_203960751",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7993886,
+    "longitude": -85.6429694,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_303595046",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2514969,
+    "longitude": -86.6391859,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_323873545",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0737701,
+    "longitude": -85.8399584,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_473083030",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2021845,
+    "longitude": -86.1643304,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_908372475",
+    "name": "Sullivan'S Landing (TN River)",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0206019,
+    "longitude": -85.460563,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_908389432",
+    "name": "Hales Bar Lower (TN River)",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0282022,
+    "longitude": -85.5389942,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1101056842",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8774931,
+    "longitude": -84.5241967,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1101059659",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9582859,
+    "longitude": -84.4794049,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1102877001",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8052681,
+    "longitude": -84.6836921,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1104908901",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.5460694,
+    "longitude": -84.801167,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1105044440",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2827806,
+    "longitude": -85.1241513,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1105061592",
+    "name": "Skull Island Boat Launch",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2393682,
+    "longitude": -85.0715951,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1105222994",
+    "name": "Eagle Bluff Vincent Rd",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1403785,
+    "longitude": -85.1632778,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1105288310",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2710592,
+    "longitude": -85.1226211,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1252088159",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2243216,
+    "longitude": -86.2431885,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1416595153",
+    "name": "Upper Greenway Farm",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1277043,
+    "longitude": -85.215478,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1416602574",
+    "name": "Lower Greenway Farm",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1234482,
+    "longitude": -85.2194493,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1533083534",
+    "name": "Sterchi Farm Kayak Launch (South Chickamauga Creek)",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0841266,
+    "longitude": -85.2262128,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1676157666",
+    "name": "Boat Launch",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1314915,
+    "longitude": -86.5956655,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1890415965",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3469343,
+    "longitude": -88.1223804,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1890630640",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6869113,
+    "longitude": -88.0243465,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1988369644",
+    "name": "Brimstone Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.4791169,
+    "longitude": -85.6086855,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1988369646",
+    "name": "Butler'S Landing Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.4895848,
+    "longitude": -85.5641608,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2014646726",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1116996,
+    "longitude": -86.6227063,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2103944356",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9671967,
+    "longitude": -85.7170946,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2189975413",
+    "name": "Ross'S Landing Duck Boat Ramp (TN River)",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.055105,
+    "longitude": -85.3188474,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2282054432",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2509232,
+    "longitude": -85.7809149,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2282056013",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2955582,
+    "longitude": -85.8687986,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2282056178",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2987445,
+    "longitude": -85.8714346,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2282056479",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3037994,
+    "longitude": -85.926808,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2282135040",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3742302,
+    "longitude": -85.6412875,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2282135074",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3768006,
+    "longitude": -85.632333,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2380785628",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3168492,
+    "longitude": -87.205658,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2474528350",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0513972,
+    "longitude": -86.5664189,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2485814984",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6629466,
+    "longitude": -88.4174405,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2560675103",
+    "name": "Chickasaw Trace\n",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.662848,
+    "longitude": -87.09328,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2738335637",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2816273,
+    "longitude": -86.5754618,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2738675965",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3233804,
+    "longitude": -86.5411257,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2752720824",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7454188,
+    "longitude": -84.434564,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2794014393",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8856311,
+    "longitude": -84.4918722,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2873216338",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2204209,
+    "longitude": -88.2619142,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2873216614",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2264491,
+    "longitude": -88.2602675,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2969255809",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0016442,
+    "longitude": -86.4721237,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3054854930",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.4909792,
+    "longitude": -88.0327154,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3067062902",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2599568,
+    "longitude": -86.1141861,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3067559538",
+    "name": "Booker T State Park Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1106361,
+    "longitude": -85.1799576,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3088542911",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6902051,
+    "longitude": -84.7081313,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3276092343",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0468443,
+    "longitude": -85.763283,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3358902139",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8437669,
+    "longitude": -84.5319403,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3442359590",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1488924,
+    "longitude": -86.6188356,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3445942753",
+    "name": "Boat Launch",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1376781,
+    "longitude": -86.6040352,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3446021474",
+    "name": "Boat Launch",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1573984,
+    "longitude": -86.5969099,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3520817583",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0801469,
+    "longitude": -88.1992402,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3556607923",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3088934,
+    "longitude": -86.4533361,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3590688934",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2169316,
+    "longitude": -86.7051988,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3655931176",
+    "name": "Riverpark Lower",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0962436,
+    "longitude": -85.2551974,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3756149880",
+    "name": "Reflection Riding Nature Center Ramp (Lookout Creek)",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0117707,
+    "longitude": -85.3655563,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3817984018",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.421553,
+    "longitude": -87.2932374,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3877430886",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.4510471,
+    "longitude": -87.7497632,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3877434198",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.4897669,
+    "longitude": -87.8152363,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3882270594",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3686916,
+    "longitude": -88.1219412,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3882620445",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.4654816,
+    "longitude": -88.0842146,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3882631185",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.4434196,
+    "longitude": -88.083626,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3934256302",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2872454,
+    "longitude": -88.236315,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4534966780",
+    "name": "Veto Access Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0137306,
+    "longitude": -86.995612,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4541548468",
+    "name": "Hope Springs Park Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2441047,
+    "longitude": -87.3519805,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4742237017",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6308667,
+    "longitude": -88.723445,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4746197739",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6558791,
+    "longitude": -84.7994867,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4755462082",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2768647,
+    "longitude": -87.073325,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4987341341",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0727152,
+    "longitude": -85.3464294,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5022701112",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1854608,
+    "longitude": -86.6648396,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5022703122",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1854552,
+    "longitude": -86.6648211,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5024615336",
+    "name": "Peeler Park Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1942519,
+    "longitude": -86.6606762,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5025126665",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1946945,
+    "longitude": -84.4497241,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5028786640",
+    "name": "Apalachia Powerhouse Boat Launch",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1811211,
+    "longitude": -84.4448322,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5051504157",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9019173,
+    "longitude": -85.0969294,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5053719357",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2373895,
+    "longitude": -87.0544571,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5108013788",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1841304,
+    "longitude": -85.147556,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5108013819",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1828574,
+    "longitude": -85.1505557,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5348018371",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1305428,
+    "longitude": -85.4440482,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5543343473",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3036226,
+    "longitude": -86.9172635,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5551663876",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0209932,
+    "longitude": -85.8232065,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5560571328",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1314972,
+    "longitude": -85.8071405,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5561816743",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1000786,
+    "longitude": -85.8318102,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5566705028",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0833666,
+    "longitude": -85.8263837,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5568003615",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0772646,
+    "longitude": -85.835523,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5574889295",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0461829,
+    "longitude": -85.7622471,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5574940424",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0389813,
+    "longitude": -85.7589328,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5574964342",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.02612,
+    "longitude": -85.7501185,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5574964360",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0262671,
+    "longitude": -85.7508201,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5614433916",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0012218,
+    "longitude": -85.6532728,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5614433921",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0008559,
+    "longitude": -85.6526266,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5625862178",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.4947325,
+    "longitude": -87.864483,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5625862179",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.4944794,
+    "longitude": -87.8643034,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5625905104",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.4899415,
+    "longitude": -87.8420911,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5709815177",
+    "name": "Woodland Point Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2230373,
+    "longitude": -86.2224973,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5721394389",
+    "name": "Lakeview Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2106935,
+    "longitude": -86.2472021,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5742258558",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2417372,
+    "longitude": -86.2904434,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5752703233",
+    "name": "Cline Ridge Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.198778,
+    "longitude": -86.2730778,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6077041548",
+    "name": "Raccoon Mountain (TN RIver)",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0598406,
+    "longitude": -85.4167623,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6096796096",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.4002334,
+    "longitude": -87.6666608,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6096796097",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3973302,
+    "longitude": -87.6608847,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6120089971",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3040141,
+    "longitude": -87.9465667,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6120111658",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2988211,
+    "longitude": -88.1437271,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6124141567",
+    "name": "Rock Island Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8166788,
+    "longitude": -85.6453028,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6128488345",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.236021,
+    "longitude": -88.0983422,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6138039094",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0847633,
+    "longitude": -84.5552304,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6194070672",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2432042,
+    "longitude": -85.945928,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6275758910",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9765519,
+    "longitude": -88.0495968,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6353002455",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1274225,
+    "longitude": -86.6213295,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6424471063",
+    "name": "Suck Creek Boat Ramp (TN River)",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1097611,
+    "longitude": -85.3656055,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6632229457",
+    "name": "Walter Hill Dam Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9421637,
+    "longitude": -86.3748803,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6689185425",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2879021,
+    "longitude": -86.6574837,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6689185426",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2879126,
+    "longitude": -86.6572811,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6689185427",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.287786,
+    "longitude": -86.6571309,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6689185428",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2876127,
+    "longitude": -86.6571509,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6788043307",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0906164,
+    "longitude": -86.6025132,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6908439751",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2858959,
+    "longitude": -85.937954,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6908439766",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2946427,
+    "longitude": -85.9435693,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6908487647",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2996588,
+    "longitude": -85.0880195,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6970575111",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3868903,
+    "longitude": -88.0017484,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6970610175",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3700349,
+    "longitude": -87.9854023,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6990626073",
+    "name": "Riverwalk/Greenway Dock (South Chickamauga Creek)",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0884344,
+    "longitude": -85.262164,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7192731232",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0451151,
+    "longitude": -87.8554695,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7192744495",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8756416,
+    "longitude": -87.9296835,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7207544723",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.5490589,
+    "longitude": -87.9802376,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7266512014",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.4973336,
+    "longitude": -88.0873272,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7714929127",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.984359,
+    "longitude": -89.2779501,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7883866734",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3971812,
+    "longitude": -87.6346482,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7883866740",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.4144532,
+    "longitude": -87.5799955,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7883866741",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3943787,
+    "longitude": -87.6335243,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7965851166",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.284732,
+    "longitude": -87.1452523,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7965851169",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3260633,
+    "longitude": -87.2279199,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7965851171",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2692437,
+    "longitude": -87.0768188,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7965851177",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.268928,
+    "longitude": -87.0741393,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8042925300",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1098321,
+    "longitude": -86.6094531,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8105297670",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0647109,
+    "longitude": -88.2698573,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8105297671",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0523518,
+    "longitude": -88.2371722,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8105297673",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.05692,
+    "longitude": -88.2324171,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8105297674",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0569159,
+    "longitude": -88.2326417,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8138103157",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0066102,
+    "longitude": -85.6762568,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8138103173",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1007267,
+    "longitude": -85.8294644,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8504100330",
+    "name": "Bennett Lake Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0790675,
+    "longitude": -85.5367857,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8504100337",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1146955,
+    "longitude": -85.416679,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8605063217",
+    "name": "Poole Knobs Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0532805,
+    "longitude": -86.5190866,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8690528120",
+    "name": "Blythe Ferry Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.4095624,
+    "longitude": -85.0087928,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8690528121",
+    "name": "Blythe Ferry Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.4144436,
+    "longitude": -85.0115715,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8690533285",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.3598352,
+    "longitude": -84.9127932,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8690549668",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.3472065,
+    "longitude": -84.8359701,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8690549669",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.374166,
+    "longitude": -84.9065651,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8690549670",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.3271992,
+    "longitude": -84.8289641,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8869073790",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0176328,
+    "longitude": -86.4470871,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8872834058",
+    "name": "Seven Points Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1317515,
+    "longitude": -86.5651879,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8872834103",
+    "name": "Vivrett Creek Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1407302,
+    "longitude": -86.5433793,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8887959113",
+    "name": "Margrave Drive Boat Launch",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9332334,
+    "longitude": -84.5591788,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8889276976",
+    "name": "Barton Springs Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.4545246,
+    "longitude": -86.2180608,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8889286513",
+    "name": "TVA Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.4664785,
+    "longitude": -86.2386832,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8889286713",
+    "name": "Roberts Ridge Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.4817911,
+    "longitude": -86.236322,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8889286927",
+    "name": "Cedar Point Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.4709539,
+    "longitude": -86.225662,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8889287045",
+    "name": "Firelake Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.4437458,
+    "longitude": -86.1845634,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8890569249",
+    "name": "Lost Creek Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2579291,
+    "longitude": -86.3036285,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8890597605",
+    "name": "Turkey Creek Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2669737,
+    "longitude": -86.2753179,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8954647136",
+    "name": "Hiwassee Ocoee State Park Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2331935,
+    "longitude": -84.55008,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8954647221",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1878368,
+    "longitude": -84.4971753,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9007421693",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2429725,
+    "longitude": -88.9215909,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9023076930",
+    "name": "Manson Pike Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8574841,
+    "longitude": -86.4120686,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9023211554",
+    "name": "Thompson Lane Trailhead Canoe Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8880463,
+    "longitude": -86.4232901,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9048497487",
+    "name": "West Fork Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9808198,
+    "longitude": -86.4698014,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9048535271",
+    "name": "East Fork Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9813642,
+    "longitude": -86.4454601,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9109564760",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0329777,
+    "longitude": -86.4944435,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9109564817",
+    "name": "Canoe Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9987487,
+    "longitude": -86.5052928,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9204862683",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3931811,
+    "longitude": -88.1000911,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9204882299",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.4344988,
+    "longitude": -88.0767252,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9204882300",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.4159723,
+    "longitude": -88.109806,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9204885268",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3235913,
+    "longitude": -88.1223984,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9204891903",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2737197,
+    "longitude": -88.1094614,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9204911811",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3642633,
+    "longitude": -88.1203897,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9204928340",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2945574,
+    "longitude": -88.0782951,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9205431266",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3763341,
+    "longitude": -87.9644692,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9212627853",
+    "name": "Coolidge Park Tremont Street (TN River)",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0598338,
+    "longitude": -85.3062796,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9216694266",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2898535,
+    "longitude": -84.7410281,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9283696269",
+    "name": "Defeated Creek Campground Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3005821,
+    "longitude": -85.9071375,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9283709888",
+    "name": "Defeated Creek Marina Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3038346,
+    "longitude": -85.9077551,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9283742791",
+    "name": "Defeated Creek Recreation Area Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3139042,
+    "longitude": -85.9070465,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9344506295",
+    "name": "Mona Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9788337,
+    "longitude": -86.4186164,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9552506698",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.740606,
+    "longitude": -84.3320416,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9559398972",
+    "name": "Henry Horton Canoe / Kayak Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.5918383,
+    "longitude": -86.6893822,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9632274603",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8875841,
+    "longitude": -84.3233215,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9753554611",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8952153,
+    "longitude": -84.523135,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9753554614",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8667915,
+    "longitude": -84.5218972,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9763163441",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2820823,
+    "longitude": -85.9362401,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9804618656",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.4790895,
+    "longitude": -86.4626897,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9861973064",
+    "name": "Bennett Lake Pier",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0795122,
+    "longitude": -85.5359192,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9873399616",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0488043,
+    "longitude": -85.4303645,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9881045835",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1099581,
+    "longitude": -85.3693551,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9881045875",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1106423,
+    "longitude": -85.3701927,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9881045878",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1113422,
+    "longitude": -85.3710104,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9908579865",
+    "name": "Bear Branch Boat Launch",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.382542,
+    "longitude": -85.0152844,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9908579879",
+    "name": "Grasshopper Recreation Area Boat Launch",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.3437024,
+    "longitude": -85.0397597,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9908603130",
+    "name": "Eldridge Slough Boat Launch",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.3036581,
+    "longitude": -85.0500975,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9908603141",
+    "name": "Ware Branch Boat Launch",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2625925,
+    "longitude": -85.0794544,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9908603160",
+    "name": "Wolftever Bridge Boat Launch",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1501612,
+    "longitude": -85.107982,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9934807104",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.3091907,
+    "longitude": -86.0755424,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9934822395",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2965665,
+    "longitude": -86.0579107,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9934856577",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.3300911,
+    "longitude": -86.0537428,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9934856614",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.3309908,
+    "longitude": -86.0605973,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9951844932",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1849902,
+    "longitude": -85.906595,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9991960794",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2694514,
+    "longitude": -86.2439823,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9991986297",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2522059,
+    "longitude": -86.1421661,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9991996543",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2662148,
+    "longitude": -86.2000949,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9992009020",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2722794,
+    "longitude": -86.2445752,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10017654878",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0547167,
+    "longitude": -86.5107076,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10028239393",
+    "name": "Fall Creek Falls Boat Dock",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.654377,
+    "longitude": -85.3626449,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10046396533",
+    "name": "Eastern Flank Canoe Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9093775,
+    "longitude": -86.8558243,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10053283186",
+    "name": "Hurricane Creek Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0498574,
+    "longitude": -86.5625047,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10057935955",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1059626,
+    "longitude": -86.594946,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10136627024",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1679357,
+    "longitude": -85.1216971,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10170499655",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.452355,
+    "longitude": -85.0830532,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10214692193",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9901234,
+    "longitude": -88.0117619,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10214692194",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9706474,
+    "longitude": -88.0472932,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10214725433",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0177151,
+    "longitude": -87.9890462,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10288208501",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2761936,
+    "longitude": -86.6320411,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10288208506",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2495946,
+    "longitude": -86.6040925,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10288253224",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2585167,
+    "longitude": -86.6290263,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10288253229",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2606729,
+    "longitude": -86.6086173,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10602765364",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.409575,
+    "longitude": -84.9855931,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10731920355",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2160967,
+    "longitude": -85.0754543,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10780759062",
+    "name": "Camp Jordan (South Chick)",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0046935,
+    "longitude": -85.1996168,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10791267526",
+    "name": "Camp Jordan (West Chick)",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0000078,
+    "longitude": -85.2023378,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10876565419",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6846763,
+    "longitude": -84.8530733,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10876605865",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6783497,
+    "longitude": -84.8536171,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10876607116",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6760102,
+    "longitude": -84.8510652,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10876655771",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7345933,
+    "longitude": -84.7505079,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10876655784",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7388978,
+    "longitude": -84.7496357,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10876662595",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7426459,
+    "longitude": -84.7457941,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10876798412",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6671194,
+    "longitude": -84.8556286,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10876798428",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6713364,
+    "longitude": -84.8514477,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10876805861",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6954814,
+    "longitude": -84.8338856,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10876944153",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6768339,
+    "longitude": -84.8522361,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10876944264",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6701708,
+    "longitude": -84.852783,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10876944464",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6611116,
+    "longitude": -84.8538343,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10876944469",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6606823,
+    "longitude": -84.8542257,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10876944529",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.655958,
+    "longitude": -84.8570433,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10876949583",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6907529,
+    "longitude": -84.8460375,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10879705177",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6824776,
+    "longitude": -84.8281187,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10879763627",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6718515,
+    "longitude": -84.7224683,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10879786616",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7283476,
+    "longitude": -84.7260681,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10879787653",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6923836,
+    "longitude": -84.6977813,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10879792758",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7140112,
+    "longitude": -84.707205,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10879797614",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6271591,
+    "longitude": -84.7786481,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10879798841",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7619636,
+    "longitude": -84.762234,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10879838223",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7029276,
+    "longitude": -84.7066337,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10879924110",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7915677,
+    "longitude": -84.6904724,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10879949838",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7740486,
+    "longitude": -84.6201225,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10918275762",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7126145,
+    "longitude": -88.2933941,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10923550134",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1041486,
+    "longitude": -84.6324195,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10923550135",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1024169,
+    "longitude": -84.6336804,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11046037830",
+    "name": "Marion County Campground #2 (Nickajack)",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0308017,
+    "longitude": -85.5586348,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11046037840",
+    "name": "Marion County Campground #1 (Nickajack)",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0287158,
+    "longitude": -85.5633078,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11046094155",
+    "name": "Shellmound Ramp (Nickajack)",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0075482,
+    "longitude": -85.6060027,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11119045998",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1595844,
+    "longitude": -87.9402976,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11165520440",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1405156,
+    "longitude": -86.5719654,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11283618831",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3373373,
+    "longitude": -86.4761752,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11283631772",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.357438,
+    "longitude": -86.4730685,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11283631791",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3481303,
+    "longitude": -86.5135595,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11283635824",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2822899,
+    "longitude": -86.5018661,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11283635827",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2836437,
+    "longitude": -86.5020513,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11283714460",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.248027,
+    "longitude": -86.5709094,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11309990018",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7816133,
+    "longitude": -84.3883791,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11358386525",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.4926044,
+    "longitude": -85.0041413,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11358459965",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.4890368,
+    "longitude": -84.9006556,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11358610333",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2838847,
+    "longitude": -85.1421634,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11386293016",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2194088,
+    "longitude": -88.2584936,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11396048645",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7404523,
+    "longitude": -84.7232055,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11396150742",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7368937,
+    "longitude": -84.668044,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11402460390",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1432133,
+    "longitude": -86.8909614,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11402460391",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1439607,
+    "longitude": -86.8927056,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11642490791",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8044107,
+    "longitude": -85.0606807,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11808065904",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8318818,
+    "longitude": -84.5005934,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11808138203",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9184405,
+    "longitude": -84.4318612,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11809508428",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8398122,
+    "longitude": -84.498352,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11809508431",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.840206,
+    "longitude": -84.4973951,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11809508465",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8429983,
+    "longitude": -84.4978181,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11809508474",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8447879,
+    "longitude": -84.4979552,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11809508678",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8431919,
+    "longitude": -84.4962187,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11809508683",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8428581,
+    "longitude": -84.4961561,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11809508745",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8372569,
+    "longitude": -84.4954569,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11809508767",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8343325,
+    "longitude": -84.4973634,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11809508772",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8339981,
+    "longitude": -84.4970625,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11809508835",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8344317,
+    "longitude": -84.4932636,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11809514767",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8222456,
+    "longitude": -84.4848085,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11809547546",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7836492,
+    "longitude": -84.6575122,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11809623895",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7415498,
+    "longitude": -84.703643,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11809623901",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.742814,
+    "longitude": -84.7038312,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11809623903",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7430374,
+    "longitude": -84.7037018,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11809623994",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7441853,
+    "longitude": -84.7005089,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11809624204",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7455639,
+    "longitude": -84.6922982,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11809624236",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7455983,
+    "longitude": -84.689795,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11809658588",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6519783,
+    "longitude": -84.7516708,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11809670977",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.655699,
+    "longitude": -84.7485664,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11809671004",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6554978,
+    "longitude": -84.7494699,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11809671098",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6532619,
+    "longitude": -84.7502633,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11809671224",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6630353,
+    "longitude": -84.7514903,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11809689571",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6629783,
+    "longitude": -84.7413069,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11809759287",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.604669,
+    "longitude": -84.7745932,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11842534495",
+    "name": "Chickamauga Dam North Shore",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1071625,
+    "longitude": -85.224019,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11842534497",
+    "name": "Chickamauga Dam Marina",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0976114,
+    "longitude": -85.2197056,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11842534520",
+    "name": "Harrison Bay, Intersection Harrison Bay Rd/Lasata Ln",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.16211,
+    "longitude": -85.1072544,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11842598603",
+    "name": "Hales Bar Upper (TN River)",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0375676,
+    "longitude": -85.5370607,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11842598626",
+    "name": "South Pittsburg Riverpark (TN River)",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0163995,
+    "longitude": -85.695207,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11842598628",
+    "name": "Cummings Hwy (Lookout Creek)",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0210988,
+    "longitude": -85.3575443,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11842598631",
+    "name": "Rivermont",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0960864,
+    "longitude": -85.2655546,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11842598635",
+    "name": "Riverpark Upper",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1025743,
+    "longitude": -85.2353801,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11842602785",
+    "name": "Nickajack, Below Dam (TN River)",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0079839,
+    "longitude": -85.6196495,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11842602787",
+    "name": "Pot House (TN RIver)",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.089973,
+    "longitude": -85.4003499,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11842602788",
+    "name": "Coolidge Park Market Street (TN RIver)",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0599417,
+    "longitude": -85.308704,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11842602789",
+    "name": "Ross'S Landing Pier (TN River)",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0568837,
+    "longitude": -85.3132086,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11851489811",
+    "name": "Ferry Road (TN River)",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0111059,
+    "longitude": -85.6973969,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11853764909",
+    "name": "Maclellan Island (TN RIver)",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0572774,
+    "longitude": -85.305225,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11914807862",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1548505,
+    "longitude": -86.6055259,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12253172712",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.136572,
+    "longitude": -85.1228287,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12253188495",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1312472,
+    "longitude": -85.1443473,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12253266944",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1594202,
+    "longitude": -85.0856515,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12288410297",
+    "name": "Rogers Springs Lake Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0527573,
+    "longitude": -88.9614164,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12471772857",
+    "name": "PYC Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1221858,
+    "longitude": -85.1925024,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12472024504",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1406525,
+    "longitude": -85.1745915,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12521166454",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1078052,
+    "longitude": -85.2166174,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12521179473",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1084446,
+    "longitude": -85.2166979,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12912955606",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.4817841,
+    "longitude": -88.0405491,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12914993817",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2175989,
+    "longitude": -89.2289101,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12956522519",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9698916,
+    "longitude": -84.6704494,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13098841907",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.4903867,
+    "longitude": -87.8678841,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13138218614",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.297507,
+    "longitude": -86.6456914,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13141188701",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6119116,
+    "longitude": -87.0027755,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13174111728",
+    "name": "Coolidge Park Kayak Launch",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.060005,
+    "longitude": -85.3092366,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13181054104",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1217789,
+    "longitude": -85.1468461,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13414733260",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1191364,
+    "longitude": -85.1950227,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13612783267",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9427855,
+    "longitude": -87.9620208,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13612783268",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9465428,
+    "longitude": -87.959226,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13614641383",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6865606,
+    "longitude": -88.0254395,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13623205970",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.4717559,
+    "longitude": -87.7329732,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13674785570",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6181762,
+    "longitude": -86.8662491,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13674961749",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.5725948,
+    "longitude": -86.9221598,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13695378598",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9765573,
+    "longitude": -89.4012984,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_329393941",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8428859,
+    "longitude": -84.6078649,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_466524646",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0417867,
+    "longitude": -86.4832083,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_470476921",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0898357,
+    "longitude": -86.5457806,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_488720976",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2441749,
+    "longitude": -86.704179,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_513994626",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1851455,
+    "longitude": -86.6651364,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_514260568",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1944348,
+    "longitude": -86.6605378,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_518703734",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1621096,
+    "longitude": -85.541752,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_554124789",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.130638,
+    "longitude": -85.4440927,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_581915191",
+    "name": "Edgar Evans Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0836854,
+    "longitude": -85.8263381,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_582090747",
+    "name": "Edgar Evans Ramp 1",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0740016,
+    "longitude": -85.8398754,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_653664864",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2412905,
+    "longitude": -85.7977371,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_737438352",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1162464,
+    "longitude": -85.1871322,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_834338629",
+    "name": "U.S. Coast Guard",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.4435065,
+    "longitude": -88.0798102,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_834345848",
+    "name": "U.S. Coast Guard",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0967023,
+    "longitude": -85.2090353,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_885553696",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.4928017,
+    "longitude": -87.3400404,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_891057998",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0428554,
+    "longitude": -86.4944873,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_927487261",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0533705,
+    "longitude": -86.5190255,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_958540927",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0176133,
+    "longitude": -86.447096,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_958900620",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1316991,
+    "longitude": -86.5650979,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_958900629",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1407976,
+    "longitude": -86.5435048,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_960934609",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.4544754,
+    "longitude": -86.2181354,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_960934621",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.4665243,
+    "longitude": -86.2385861,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_960934637",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.4818189,
+    "longitude": -86.2362922,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_960934654",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.4709907,
+    "longitude": -86.2255465,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_960934661",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.443767,
+    "longitude": -86.1844595,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_961032802",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2229789,
+    "longitude": -86.2225501,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_961048373",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2192842,
+    "longitude": -86.1500094,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_961065635",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2008474,
+    "longitude": -86.1315057,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_961065637",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2009884,
+    "longitude": -86.1280858,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_961075330",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.257884,
+    "longitude": -86.3036365,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_961080221",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2670248,
+    "longitude": -86.2753706,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_961090561",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.210841,
+    "longitude": -86.2472502,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_961637324",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8575073,
+    "longitude": -86.412131,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_975038168",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.888018,
+    "longitude": -86.4233208,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_977892776",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9807133,
+    "longitude": -86.4697997,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_977899629",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9813726,
+    "longitude": -86.4455291,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_985372012",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0329386,
+    "longitude": -86.4944391,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_985372016",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9987375,
+    "longitude": -86.5053824,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1006222935",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3005782,
+    "longitude": -85.9071189,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1006222972",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3038254,
+    "longitude": -85.9077543,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1006226944",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3139566,
+    "longitude": -85.9071884,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1006777535",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8162552,
+    "longitude": -85.6454075,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1012852857",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9788265,
+    "longitude": -86.4185805,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1012878922",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.942133,
+    "longitude": -86.3749661,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1013093694",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.9128612,
+    "longitude": -86.3503097,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1037853453",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.5918254,
+    "longitude": -86.6894975,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1047516881",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8876401,
+    "longitude": -84.3231874,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1062770948",
+    "name": "Sullivans Bend",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2956693,
+    "longitude": -85.8689079,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1084142968",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.3091183,
+    "longitude": -86.0754539,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1084142971",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2965018,
+    "longitude": -86.0579131,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1084146703",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.3301195,
+    "longitude": -86.0537446,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1084146706",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.3309971,
+    "longitude": -86.0606553,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1086108388",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1849656,
+    "longitude": -85.906674,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1090899006",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.280755,
+    "longitude": -86.2927149,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1090899120",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.273791,
+    "longitude": -86.2850325,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1090901145",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2531487,
+    "longitude": -86.1431477,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1092336263",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0099568,
+    "longitude": -86.5007074,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1093749936",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0546603,
+    "longitude": -86.5109014,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1095009509",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.6543873,
+    "longitude": -85.362578,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1097928401",
+    "name": "Hurricane Creek Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0498302,
+    "longitude": -86.5623907,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1098474353",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.1061442,
+    "longitude": -86.5950156,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1159276438",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.0046841,
+    "longitude": -85.1995766,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1220533260",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7405933,
+    "longitude": -84.3320872,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1224820741",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2762471,
+    "longitude": -85.1312533,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1226647658",
+    "name": "Hollemans Bend Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3165732,
+    "longitude": -85.7927422,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1226715414",
+    "name": "Salt Lick Park Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3227147,
+    "longitude": -85.7851583,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1227864830",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2583315,
+    "longitude": -88.2762931,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1227864832",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.2545534,
+    "longitude": -88.2713238,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1228690244",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8340107,
+    "longitude": -84.6907416,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1228690246",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8335106,
+    "longitude": -84.6862366,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1228854328",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7613547,
+    "longitude": -84.7001272,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1228855572",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7351883,
+    "longitude": -84.6678046,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1228856528",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.7370748,
+    "longitude": -84.7053185,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1233348171",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.255472,
+    "longitude": -85.8006153,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1233371394",
+    "name": "Sullivans Bend Ramp 2",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2987532,
+    "longitude": -85.8715033,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1233371397",
+    "name": "Buffalo Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3104538,
+    "longitude": -85.8750931,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1233371400",
+    "name": "Smith'S Bend Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3233625,
+    "longitude": -85.7826558,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1233371403",
+    "name": "Wartrace Park Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3601851,
+    "longitude": -85.7724442,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1233371407",
+    "name": "Center Hill Dam Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0926514,
+    "longitude": -85.8291854,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1233395355",
+    "name": "Laguardo Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2899053,
+    "longitude": -86.4441861,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1233395359",
+    "name": "Davis Corner Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2806421,
+    "longitude": -86.4479246,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1233395362",
+    "name": "Martha Gallatin Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3358479,
+    "longitude": -86.4387275,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1242121548",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2989587,
+    "longitude": -86.6634687,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1251327311",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.476845,
+    "longitude": -84.9498799,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1264960856",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.8902453,
+    "longitude": -84.7421272,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1271257849",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1403712,
+    "longitude": -85.1631958,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1271557171",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.773693,
+    "longitude": -84.4484815,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1273955325",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0193816,
+    "longitude": -85.8207423,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1273956722",
+    "name": "Indian Creek Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0225211,
+    "longitude": -85.8767596,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1281828390",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.1041699,
+    "longitude": -84.6323895,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1306601516",
+    "name": "Bryant Grove Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.0737126,
+    "longitude": -86.5183513,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1395025602",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.4821803,
+    "longitude": -88.0405841,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1395025612",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.4908588,
+    "longitude": -88.0328659,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1429239009",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2974733,
+    "longitude": -86.645069,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1429480940",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2999475,
+    "longitude": -86.6465727,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1429480941",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.3000266,
+    "longitude": -86.6465214,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1429707590",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 36.2927965,
+    "longitude": -86.6582492,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1435078854",
+    "name": "Boat Ramp",
+    "formatted_address": ", Tennessee, USA",
+    "latitude": 35.4911192,
+    "longitude": -86.1043034,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]

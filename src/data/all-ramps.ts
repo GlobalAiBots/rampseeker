@@ -14,6 +14,9 @@ import ohioRampsRaw from "./ohio-ramps.json";
 import washingtonRampsRaw from "./washington-ramps.json";
 import alabamaRampsRaw from "./alabama-ramps.json";
 import georgiaRampsRaw from "./georgia-ramps.json";
+import marylandRampsRaw from "./maryland-ramps.json";
+import oregonRampsRaw from "./oregon-ramps.json";
+import tennesseeRampsRaw from "./tennessee-ramps.json";
 
 export interface UnifiedRamp {
   id: string;
@@ -464,6 +467,39 @@ for (const raw of georgiaRampsRaw) {
     fee: (raw as Record<string, unknown>).fee as string | undefined,
     rampCount: (raw as Record<string, unknown>).rampCount as number | undefined,
   });
+}
+
+// 17. Add Maryland ramps
+for (const raw of marylandRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `md-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "MD", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 18. Add Oregon ramps
+for (const raw of oregonRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `or-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "OR", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 19. Add Tennessee ramps
+for (const raw of tennesseeRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `tn-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "TN", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
 }
 
 export const unified = allRamps;

@@ -10,7 +10,10 @@
       "Bash(ls src/data/ramps.*)",
       "Bash(cp:*)",
       "Bash(npx tsx:*)",
-      "Bash(npx tsc:*)"
+      "Bash(npx tsc:*)",
+      "Bash(ls D:/rampseeker/scripts/data/states/wis*)",
+      "Bash(ls D:/rampseeker/scripts/data/states/vermont*)",
+      "Bash(ls D:/rampseeker/scripts/data/states/rhode*)"
     ]
   }
 }

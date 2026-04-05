@@ -19,6 +19,9 @@ const states = [
   { name: "Washington", href: "/washington" },
   { name: "Alabama", href: "/alabama" },
   { name: "Georgia", href: "/georgia" },
+  { name: "Maryland", href: "/maryland" },
+  { name: "Oregon", href: "/oregon" },
+  { name: "Tennessee", href: "/tennessee" },
 ];
 
 export default function StatesDropdown() {
