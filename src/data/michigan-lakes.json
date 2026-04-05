@@ -1,0 +1,738 @@
+[
+  {
+    "id": "lake-michigan",
+    "name": "Lake Michigan",
+    "lat": 43.6,
+    "lng": -86.9,
+    "radius": 1.5,
+    "acres": 0,
+    "shorelineMiles": 1640,
+    "maxDepth": 923,
+    "counties": [
+      "Berrien",
+      "Van Buren",
+      "Allegan",
+      "Ottawa",
+      "Muskegon",
+      "Oceana",
+      "Mason",
+      "Manistee",
+      "Benzie",
+      "Leelanau",
+      "Grand Traverse",
+      "Antrim",
+      "Charlevoix",
+      "Emmet"
+    ],
+    "fishSpecies": [
+      "Chinook Salmon",
+      "Steelhead",
+      "Lake Trout",
+      "Brown Trout",
+      "Smallmouth Bass",
+      "Yellow Perch",
+      "Walleye"
+    ],
+    "nearestTowns": [
+      "Traverse City",
+      "Muskegon",
+      "Holland",
+      "St. Joseph",
+      "Petoskey",
+      "Ludington",
+      "Manistee",
+      "Frankfort"
+    ],
+    "description": "Lake Michigan is the third-largest Great Lake and the only one located entirely within the United States. Michigan's western coastline stretches over 1,600 miles, offering boaters an extraordinary range of experiences from the dune-lined shores of Sleeping Bear to the harbor towns of Little Traverse Bay. World-class salmon and trout fishing draws anglers from across the country, with Chinook salmon runs peaking in late summer and steelhead providing action from fall through spring.\n\nThe lake's deep, cold waters support a thriving coldwater fishery, while nearshore areas around river mouths and harbors offer excellent smallmouth bass and yellow perch fishing. Charter fishing is a major industry in ports like Ludington, Manistee, and Frankfort, where captains target salmon and lake trout in waters reaching 923 feet deep.\n\nBoaters have access to dozens of well-maintained public launch ramps along the coast, from large harbors of refuge with full marina services to smaller launches near river mouths. The coastline features numerous protected harbors, making it possible to cruise between ports. Popular destinations include the Leelanau Peninsula, Traverse City's Grand Traverse Bay, and the Tunnel of Trees shoreline near Petoskey.",
+    "type": "great-lake",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-huron",
+    "name": "Lake Huron",
+    "lat": 44.8,
+    "lng": -83.3,
+    "radius": 1.2,
+    "acres": 0,
+    "shorelineMiles": 580,
+    "maxDepth": 750,
+    "counties": [
+      "Cheboygan",
+      "Presque Isle",
+      "Alpena",
+      "Alcona",
+      "Iosco",
+      "Arenac",
+      "Bay",
+      "Huron",
+      "Sanilac",
+      "St. Clair",
+      "Mackinac"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Yellow Perch",
+      "Smallmouth Bass",
+      "Lake Trout",
+      "Chinook Salmon",
+      "Steelhead"
+    ],
+    "nearestTowns": [
+      "Alpena",
+      "Cheboygan",
+      "Rogers City",
+      "Oscoda",
+      "Tawas City",
+      "Port Huron"
+    ],
+    "description": "Lake Huron forms Michigan's eastern border, providing roughly 580 miles of shoreline along the Lower Peninsula and eastern Upper Peninsula. The lake is renowned for its crystal-clear water, rocky shoals, and outstanding walleye fishing, particularly around the Saginaw Bay region where shallow, productive waters create one of the best walleye fisheries in the Midwest. Smallmouth bass fishing along the rocky northern shoreline near Alpena and Rogers City is equally impressive.\n\nThe Thunder Bay National Marine Sanctuary near Alpena protects over 200 historic shipwrecks, making the area a unique destination for boaters and divers. Lake trout and salmon fishing remains strong in the deeper waters, with ports like Oscoda and Harrisville serving as popular launch points for offshore trolling.\n\nPublic boat launches are available in harbors and river mouths along the entire coastline. The Thumb region offers protected waters in Saginaw Bay ideal for smaller boats, while the Straits of Mackinac at the lake's northern end provide dramatic scenery and access to Mackinac Island. Port Huron at the southern end marks the start of the Blue Water Area, where the St. Clair River connects Lake Huron to Lake St. Clair.",
+    "type": "great-lake",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-superior",
+    "name": "Lake Superior",
+    "lat": 47.0,
+    "lng": -87.5,
+    "radius": 1.5,
+    "acres": 0,
+    "shorelineMiles": 820,
+    "maxDepth": 1332,
+    "counties": [
+      "Chippewa",
+      "Luce",
+      "Alger",
+      "Marquette",
+      "Baraga",
+      "Houghton",
+      "Keweenaw",
+      "Ontonagon",
+      "Gogebic"
+    ],
+    "fishSpecies": [
+      "Lake Trout",
+      "Brook Trout",
+      "Steelhead",
+      "Chinook Salmon",
+      "Coho Salmon",
+      "Whitefish"
+    ],
+    "nearestTowns": [
+      "Marquette",
+      "Houghton",
+      "Munising",
+      "Sault Ste. Marie",
+      "Copper Harbor"
+    ],
+    "description": "Lake Superior is the largest freshwater lake in the world by surface area and the deepest of the Great Lakes at 1,332 feet. Michigan's Upper Peninsula claims over 820 miles of Superior's rugged, scenic shoreline, stretching from Sault Ste. Marie in the east to the Porcupine Mountains in the west. The lake's cold, pristine waters support healthy populations of lake trout and whitefish, with excellent stream fishing for brook trout and steelhead in the dozens of tributaries that flow into the lake.\n\nPictured Rocks National Lakeshore near Munising is one of the most spectacular boating destinations in the Great Lakes, with towering sandstone cliffs, sea caves, and waterfalls best viewed from the water. The Keweenaw Peninsula offers remote wilderness boating and access to Isle Royale National Park. Marquette serves as the largest city on the lake's Michigan shore, with a well-protected harbor and full marina services.\n\nBoaters should respect Lake Superior's power — sudden storms and cold water temperatures demand preparation and proper safety equipment. Launch facilities are spread along the coastline, with major access points at Marquette, Munising, Houghton, and Sault Ste. Marie. The lake's remote character rewards experienced boaters with uncrowded waters and pristine wilderness scenery.",
+    "type": "great-lake",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-erie",
+    "name": "Lake Erie",
+    "lat": 41.7,
+    "lng": -83.3,
+    "radius": 0.5,
+    "acres": 0,
+    "shorelineMiles": 70,
+    "maxDepth": 210,
+    "counties": [
+      "Monroe",
+      "Wayne"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Yellow Perch",
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Channel Catfish"
+    ],
+    "nearestTowns": [
+      "Monroe",
+      "Luna Pier",
+      "Erie"
+    ],
+    "description": "Lake Erie's Michigan shoreline may be the shortest Great Lakes coast in the state at roughly 70 miles, but it delivers some of the most productive fishing in the entire Great Lakes system. The western basin of Lake Erie is legendary for its walleye fishing, with spring and fall runs drawing anglers from across the Midwest. Yellow perch fishing is equally outstanding, with jumbo perch available from late summer through the fall months.\n\nMichigan's Lake Erie shoreline runs through Monroe and Wayne counties, where the shallow, warm waters of the western basin create ideal conditions for both warm and coolwater species. The River Raisin and several smaller tributaries provide additional fishing access and seasonal runs of walleye and steelhead. Sterling State Park near Monroe offers a popular public launch facility with direct lake access.\n\nDespite its relatively small Michigan footprint, Lake Erie's accessibility from the Detroit metro area makes it one of the most heavily used boating waters in the state. Launch ramps at Monroe and Luna Pier provide convenient access to the walleye grounds. The lake's shallow depth compared to the other Great Lakes means it warms quickly in summer, supporting excellent warm-water fishing opportunities.",
+    "type": "great-lake",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-st-clair",
+    "name": "Lake St. Clair",
+    "lat": 42.45,
+    "lng": -82.75,
+    "radius": 0.2,
+    "acres": 430,
+    "shorelineMiles": 160,
+    "maxDepth": 21,
+    "counties": [
+      "Macomb",
+      "St. Clair",
+      "Wayne"
+    ],
+    "fishSpecies": [
+      "Musky",
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Walleye",
+      "Yellow Perch",
+      "Northern Pike",
+      "Channel Catfish"
+    ],
+    "nearestTowns": [
+      "Harrison Township",
+      "Mount Clemens",
+      "Algonac",
+      "New Baltimore"
+    ],
+    "description": "Lake St. Clair sits between Lake Huron and Lake Erie, connected by the St. Clair River to the north and the Detroit River to the south. Often called the heart of the Great Lakes, this 430-acre lake is one of the most popular boating destinations in Michigan thanks to its proximity to the Detroit metropolitan area and its remarkably diverse fishery. The lake has earned a national reputation as the premier musky fishery in the Midwest, with trophy muskellunge over 50 inches caught regularly.\n\nSmallmouth bass fishing on Lake St. Clair is world-class, with the lake consistently producing tournament-winning catches. The extensive weed flats in the southern end support thriving populations of largemouth bass, northern pike, and panfish. Walleye and yellow perch provide additional action, particularly in the shipping channel and along the Canadian border.\n\nThe lake's relatively shallow depth of 21 feet makes it accessible for boats of all sizes, though navigation requires attention to the marked shipping channel. Numerous public and private launch facilities ring the Michigan shoreline, with major access points at Metro Beach Metropark, Selfridge Air National Guard Base area, and the St. Clair River launches near Algonac. Marina services and bait shops are abundant throughout the area.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "houghton-lake",
+    "name": "Houghton Lake",
+    "lat": 44.33,
+    "lng": -84.77,
+    "radius": 0.12,
+    "acres": 20044,
+    "shorelineMiles": 32,
+    "maxDepth": 22,
+    "counties": [
+      "Roscommon"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Bluegill",
+      "Northern Pike",
+      "Largemouth Bass",
+      "Crappie",
+      "Yellow Perch"
+    ],
+    "nearestTowns": [
+      "Houghton Lake",
+      "Prudenville",
+      "Roscommon"
+    ],
+    "description": "Houghton Lake is the largest inland lake in Michigan at over 20,000 acres, located in Roscommon County in the heart of the northern Lower Peninsula. The lake's shallow, warm waters — maxing out at just 22 feet deep — create ideal conditions for walleye, bluegill, and northern pike. Ice fishing is enormously popular here, with the annual Tip-Up Town USA festival drawing thousands of anglers each January.\n\nThe lake's expansive weed beds and sandy flats support outstanding panfish populations, making it a favorite destination for families and casual anglers. Walleye fishing is best in spring and fall, while summer brings excellent bluegill and crappie action. The shallow depth means the entire lake is fishable, with no need for specialized deep-water equipment.\n\nHoughton Lake's surrounding communities offer full resort and vacation services, with numerous resorts, campgrounds, and rental cottages lining the shore. Multiple public boat launches provide easy access, and the lake's central location makes it a convenient weekend destination from cities across Michigan. The Muskegon River flows out of the lake's south end, providing additional fishing opportunities for trout and salmon.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "torch-lake",
+    "name": "Torch Lake",
+    "lat": 44.85,
+    "lng": -85.33,
+    "radius": 0.1,
+    "acres": 18770,
+    "shorelineMiles": 41,
+    "maxDepth": 285,
+    "counties": [
+      "Antrim",
+      "Kalkaska"
+    ],
+    "fishSpecies": [
+      "Lake Trout",
+      "Smallmouth Bass",
+      "Yellow Perch",
+      "Rock Bass",
+      "Cisco",
+      "Burbot"
+    ],
+    "nearestTowns": [
+      "Alden",
+      "Bellaire",
+      "Eastport",
+      "Elk Rapids"
+    ],
+    "description": "Torch Lake is widely regarded as one of the most beautiful lakes in the world, famous for its stunning Caribbean-blue water that rivals tropical destinations. At nearly 19,000 acres, it is Michigan's second-largest inland lake and one of the deepest at 285 feet. The extraordinary water clarity is a result of low nutrient levels and a sandy bottom, creating conditions more commonly associated with alpine lakes than Midwestern waters.\n\nFishing on Torch Lake centers around its deep, cold-water species. Lake trout thrive in the depths, while smallmouth bass provide excellent action along rocky shorelines and drop-offs. Yellow perch and rock bass are plentiful in shallower areas, and cisco offer a unique fishery for adventurous anglers. The lake's depth and clarity demand refined techniques, but the rewards include trophy-quality lake trout and bass.\n\nTorch Lake is part of the Chain of Lakes waterway in Antrim County, connecting to several other lakes and providing miles of interconnected boating. Public launch facilities are available at multiple points around the lake, with the village of Alden serving as the primary hub for services and supplies. The sandbar at the south end of the lake is a famous summer gathering spot for boaters.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "higgins-lake",
+    "name": "Higgins Lake",
+    "lat": 44.48,
+    "lng": -84.78,
+    "radius": 0.07,
+    "acres": 9900,
+    "shorelineMiles": 21,
+    "maxDepth": 135,
+    "counties": [
+      "Roscommon"
+    ],
+    "fishSpecies": [
+      "Lake Trout",
+      "Rainbow Trout",
+      "Smallmouth Bass",
+      "Rock Bass",
+      "Yellow Perch",
+      "Cisco"
+    ],
+    "nearestTowns": [
+      "Roscommon",
+      "Higgins Lake"
+    ],
+    "description": "Higgins Lake is one of Michigan's most treasured inland lakes, consistently ranked among the most beautiful in the state for its exceptional water clarity and deep blue color. The 9,900-acre lake reaches depths of 135 feet and is surrounded by state forest land and the popular Higgins Lake North and South State Parks, making it a premier destination for boating, swimming, and fishing.\n\nThe lake's cold, clear waters support a quality lake trout and rainbow trout fishery managed by the Michigan DNR. Smallmouth bass fishing is excellent along the lake's rocky shoreline and underwater structure. The deep basin provides ideal habitat for cisco, while rock bass and yellow perch offer consistent action in the shallower margins.\n\nTwo state parks on the lake provide well-maintained boat launches and extensive campground facilities. The lake's manageable size makes it suitable for all types of watercraft, from kayaks to larger powerboats. Higgins Lake sits just north of Houghton Lake, and together the two lakes form a popular vacation hub in Roscommon County with full amenities and services.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "crystal-lake",
+    "name": "Crystal Lake",
+    "lat": 44.63,
+    "lng": -86.05,
+    "radius": 0.07,
+    "acres": 9854,
+    "shorelineMiles": 17,
+    "maxDepth": 165,
+    "counties": [
+      "Benzie"
+    ],
+    "fishSpecies": [
+      "Lake Trout",
+      "Smallmouth Bass",
+      "Yellow Perch",
+      "Rock Bass",
+      "Cisco"
+    ],
+    "nearestTowns": [
+      "Beulah",
+      "Frankfort",
+      "Benzonia"
+    ],
+    "description": "Crystal Lake lives up to its name with remarkably clear water and a deep basin reaching 165 feet, making it one of the deepest inland lakes in Michigan. Located in Benzie County just minutes from Lake Michigan, this nearly 10,000-acre lake is a favorite of boaters who appreciate its clean, uncrowded waters and scenic surroundings of rolling hills and hardwood forests.\n\nThe lake's deep, cold-water habitat supports a healthy lake trout population managed through stocking by the Michigan DNR. Smallmouth bass provide exciting action along the lake's gravel and rock shorelines, while yellow perch and rock bass are reliably caught in the shallower areas. The lake's history includes a famous 19th-century engineering disaster when an attempt to connect it to the Betsie River permanently lowered its water level by 20 feet.\n\nBoat access is available through the public launch on the lake's north shore near Beulah, and additional access points along the shoreline. The charming village of Beulah sits at the east end of the lake and offers dining, shopping, and supplies. Crystal Lake's proximity to Sleeping Bear Dunes National Lakeshore and the Lake Michigan port town of Frankfort makes it part of one of Michigan's most popular vacation regions.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "glen-lake",
+    "name": "Glen Lake",
+    "lat": 44.88,
+    "lng": -85.97,
+    "radius": 0.06,
+    "acres": 4871,
+    "shorelineMiles": 14,
+    "maxDepth": 130,
+    "counties": [
+      "Leelanau"
+    ],
+    "fishSpecies": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Yellow Perch",
+      "Northern Pike",
+      "Cisco"
+    ],
+    "nearestTowns": [
+      "Glen Arbor",
+      "Empire",
+      "Cedar"
+    ],
+    "description": "Glen Lake is a strikingly beautiful inland lake nestled within Sleeping Bear Dunes National Lakeshore in Leelanau County. The lake consists of two connected bodies — Big Glen Lake and Little Glen Lake — totaling nearly 5,000 acres with depths reaching 130 feet. The turquoise water framed by towering sand dunes creates one of the most photographed landscapes in Michigan.\n\nFishing on Glen Lake offers a mix of warm and coldwater species. Smallmouth and largemouth bass thrive in the lake's clear waters, with rocky points and weed edges providing prime structure. Northern pike patrol the shallower areas of Little Glen Lake, while cisco inhabit the deep basin of Big Glen Lake. The lake's clarity demands finesse techniques, but skilled anglers are rewarded with quality fish in a spectacular setting.\n\nBoat launch access is available on Big Glen Lake, and the lake's moderate size makes it ideal for a full day of boating or fishing. Glen Arbor and Empire serve as the closest towns for supplies and dining. The lake's location within the national lakeshore means surrounding development is limited, preserving the natural beauty that makes this area one of Michigan's crown jewels.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "burt-lake",
+    "name": "Burt Lake",
+    "lat": 45.42,
+    "lng": -84.68,
+    "radius": 0.1,
+    "acres": 17120,
+    "shorelineMiles": 42,
+    "maxDepth": 73,
+    "counties": [
+      "Cheboygan"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Northern Pike",
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Yellow Perch",
+      "Rock Bass"
+    ],
+    "nearestTowns": [
+      "Indian River",
+      "Cheboygan",
+      "Brutus"
+    ],
+    "description": "Burt Lake is the third-largest inland lake in Michigan at over 17,000 acres, located in Cheboygan County in the heart of the Inland Waterway. This historic chain of lakes and rivers connects Burt Lake to Mullett Lake, Crooked Lake, and Pickerel Lake, creating a 38-mile navigable waterway that is one of Michigan's most unique boating experiences. The lake's clear water and diverse structure support excellent fishing for multiple species.\n\nWalleye fishing on Burt Lake is consistently productive, with spring and fall offering the best action around rocky reefs and river mouths. Northern pike grow to impressive sizes in the lake's weed beds, while smallmouth bass provide exciting light-tackle fishing along the shoreline. The Sturgeon River enters the lake from the west, and the Indian River connects it to Mullett Lake to the east, both adding fishing variety.\n\nBurt Lake State Park on the southern shore provides a well-maintained boat launch, swimming beach, and campground. The village of Indian River serves as the main service hub, offering bait shops, marinas, and restaurants. The Inland Waterway experience — cruising from Burt Lake through the Indian River to Mullett Lake and beyond — is a bucket-list boating trip in Michigan.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "mullett-lake",
+    "name": "Mullett Lake",
+    "lat": 45.48,
+    "lng": -84.55,
+    "radius": 0.1,
+    "acres": 16630,
+    "shorelineMiles": 42,
+    "maxDepth": 148,
+    "counties": [
+      "Cheboygan"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Northern Pike",
+      "Smallmouth Bass",
+      "Lake Trout",
+      "Yellow Perch",
+      "Rock Bass"
+    ],
+    "nearestTowns": [
+      "Cheboygan",
+      "Indian River",
+      "Topinabee"
+    ],
+    "description": "Mullett Lake is a deep, clear inland lake covering over 16,600 acres in Cheboygan County, making it Michigan's fourth-largest inland lake. With a maximum depth of 148 feet, the lake supports both warm and coldwater fisheries, including one of the few inland lake trout populations in the northern Lower Peninsula. The lake is part of the historic Inland Waterway, connected to Burt Lake via the Indian River and flowing north to the Cheboygan River and ultimately Lake Huron.\n\nThe deep waters of Mullett Lake harbor lake trout that provide excellent fishing for anglers willing to troll the depths. Walleye fishing is productive along the lake's sandy and rocky structure, particularly in spring near the river mouths. Smallmouth bass inhabit the rocky shorelines and shoals, while northern pike ambush prey in the weed beds along the shallower margins. Yellow perch and rock bass round out the fishery with reliable action throughout the season.\n\nPublic boat launches are located at Aloha State Park on the lake's eastern shore and at additional access sites around the lake. The small community of Topinabee sits on the western shore, while Cheboygan and Indian River provide full services. The lake's size and depth mean it can handle rough weather, so boaters should monitor conditions and carry appropriate safety gear.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "black-lake",
+    "name": "Black Lake",
+    "lat": 45.38,
+    "lng": -84.27,
+    "radius": 0.1,
+    "acres": 10130,
+    "shorelineMiles": 37,
+    "maxDepth": 50,
+    "counties": [
+      "Cheboygan",
+      "Presque Isle"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Northern Pike",
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Yellow Perch",
+      "Panfish"
+    ],
+    "nearestTowns": [
+      "Onaway",
+      "Cheboygan",
+      "Tower"
+    ],
+    "description": "Black Lake is a 10,130-acre lake straddling Cheboygan and Presque Isle counties in the northern Lower Peninsula. Known for its dark-stained water and excellent walleye fishing, the lake sits apart from the more heavily visited Inland Waterway lakes, offering a quieter boating and fishing experience. The lake's fertile waters and moderate depth of 50 feet create ideal walleye habitat, and the fishery is carefully managed by the Michigan DNR.\n\nWalleye are the main draw at Black Lake, with spring runs from the upper Black River providing some of the best walleye fishing in northern Michigan. Northern pike reach impressive sizes in the lake's extensive weed beds, and smallmouth bass offer quality fishing along the rocky eastern shoreline. The lake is also home to the rare lake sturgeon, a prehistoric species that spawns in the Black River each spring and is the subject of ongoing conservation efforts.\n\nPublic boat access is available at several points around the lake, including a popular launch at the south end near the village of Onaway. The surrounding area remains relatively undeveloped compared to many Michigan resort lakes, appealing to boaters and anglers who prefer a more natural setting. Onaway State Park on the lake's northwest shore provides camping and additional access.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-charlevoix",
+    "name": "Lake Charlevoix",
+    "lat": 45.23,
+    "lng": -85.18,
+    "radius": 0.1,
+    "acres": 17260,
+    "shorelineMiles": 56,
+    "maxDepth": 122,
+    "counties": [
+      "Charlevoix"
+    ],
+    "fishSpecies": [
+      "Lake Trout",
+      "Smallmouth Bass",
+      "Northern Pike",
+      "Yellow Perch",
+      "Walleye",
+      "Cisco"
+    ],
+    "nearestTowns": [
+      "Charlevoix",
+      "Boyne City",
+      "East Jordan"
+    ],
+    "description": "Lake Charlevoix is one of Michigan's largest and most scenic inland lakes, stretching over 17,000 acres across Charlevoix County. The lake has an unusual shape with three distinct arms converging near the city of Charlevoix, where a short channel connects it to Lake Michigan's Round Lake harbor. This direct Great Lakes connection gives the lake a unique character and provides boaters the ability to cruise between inland and Great Lakes waters.\n\nThe lake's deep basin reaching 122 feet supports a strong lake trout fishery, with both natural reproduction and DNR stocking maintaining healthy populations. Smallmouth bass fishing is outstanding along the lake's rocky shoreline and structure, particularly in the South Arm near East Jordan. Northern pike and walleye are present throughout, and cisco provide forage for the larger predators. The Round Lake channel in Charlevoix offers exciting fishing during seasonal runs of salmon and steelhead entering from Lake Michigan.\n\nThree charming towns anchor the lake's shoreline: Charlevoix at the north end with its famous drawbridge and Lake Michigan harbor, Boyne City at the east end near the ski resorts, and East Jordan at the south end where the Jordan River enters the lake. Public launch facilities and marinas are available in all three communities, providing excellent access for boaters of all types.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "hamlin-lake",
+    "name": "Hamlin Lake",
+    "lat": 44.01,
+    "lng": -86.42,
+    "radius": 0.06,
+    "acres": 4800,
+    "shorelineMiles": 22,
+    "maxDepth": 60,
+    "counties": [
+      "Mason"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Northern Pike",
+      "Largemouth Bass",
+      "Bluegill",
+      "Crappie",
+      "Panfish"
+    ],
+    "nearestTowns": [
+      "Ludington",
+      "Scottville"
+    ],
+    "description": "Hamlin Lake is a 4,800-acre impoundment located just north of Ludington in Mason County, separated from Lake Michigan by a narrow strip of sand dunes. The lake's proximity to Ludington State Park and the Lake Michigan shoreline makes it a popular vacation destination combining inland lake recreation with Great Lakes access. Upper and Lower Hamlin Lake together provide diverse boating and fishing experiences in a scenic setting.\n\nWalleye and northern pike are the primary game fish, with productive fishing throughout the season. Largemouth bass thrive in the lake's weed beds and stump fields, while bluegill and crappie provide excellent panfishing, particularly in the shallower upper lake. The dam at the lake's outlet controls water levels and creates a consistent fishery. Hamlin Lake's moderate depth of 60 feet keeps water temperatures comfortable for warm-water species.\n\nLudington State Park, located between Hamlin Lake and Lake Michigan, offers boat launch facilities, campgrounds, and hiking trails including the popular path to the Big Sable Point Lighthouse. The city of Ludington provides full services including marinas, bait shops, and restaurants. The combination of inland lake fishing, Lake Michigan charter fishing, and state park recreation makes the Hamlin Lake area one of western Michigan's most complete boating destinations.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "manistee-lake",
+    "name": "Manistee Lake",
+    "lat": 44.27,
+    "lng": -86.27,
+    "radius": 0.05,
+    "acres": 1680,
+    "shorelineMiles": 10,
+    "maxDepth": 62,
+    "counties": [
+      "Manistee"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Northern Pike",
+      "Largemouth Bass",
+      "Bluegill",
+      "Yellow Perch",
+      "Crappie"
+    ],
+    "nearestTowns": [
+      "Manistee",
+      "Eastlake"
+    ],
+    "description": "Manistee Lake is a 1,680-acre lake in Manistee County that serves as a gateway between the Manistee River system and Lake Michigan. The lake sits at the confluence of the Manistee River and the short channel leading to Manistee harbor on Lake Michigan, making it a crossroads for boaters accessing both inland and Great Lakes waters. During salmon and steelhead runs, Manistee Lake sees significant boat traffic as fish stage in the lake before moving upriver.\n\nThe lake supports a solid warm-water fishery with walleye, northern pike, and largemouth bass as the primary targets. Bluegill, yellow perch, and crappie provide consistent panfishing in the weed beds and along the shoreline structure. The Manistee River influence brings occasional runs of salmon and steelhead through the lake, adding seasonal excitement to the fishing.\n\nPublic boat access is available through launches on the lake's shoreline, providing convenient access for both lake fishing and the short run to Lake Michigan's harbor. The city of Manistee offers full marina services, fuel, and supplies. The Manistee River above the lake is one of Michigan's premier rivers for salmon and steelhead fishing, making the lake area a natural base camp for anglers pursuing both river and lake opportunities.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-leelanau",
+    "name": "Lake Leelanau",
+    "lat": 44.87,
+    "lng": -85.78,
+    "radius": 0.08,
+    "acres": 8610,
+    "shorelineMiles": 26,
+    "maxDepth": 121,
+    "counties": [
+      "Leelanau"
+    ],
+    "fishSpecies": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Northern Pike",
+      "Yellow Perch",
+      "Bluegill",
+      "Walleye"
+    ],
+    "nearestTowns": [
+      "Lake Leelanau",
+      "Leland",
+      "Suttons Bay"
+    ],
+    "description": "Lake Leelanau is the largest lake on the Leelanau Peninsula, consisting of North Lake Leelanau and South Lake Leelanau connected by a narrow channel at the village of Lake Leelanau. Together the lakes total 8,610 acres with depths reaching 121 feet in the North Lake basin. The lakes are surrounded by the rolling cherry orchards and vineyards that make Leelanau County one of Michigan's premier wine regions.\n\nFishing on Lake Leelanau offers diverse opportunities across the two connected lakes. Smallmouth and largemouth bass inhabit the rocky and weedy shorelines, while northern pike patrol the drop-offs and weed edges. Yellow perch and bluegill provide reliable panfishing, and walleye are present though less abundant than in some other northern Michigan lakes. The narrows between the two lakes concentrate fish and is a popular spot for shore anglers.\n\nThe village of Lake Leelanau at the narrows provides basic services, while the historic Fishtown in Leland at the north end — where the lake flows into Lake Michigan — offers restaurants, shops, and charter fishing. Suttons Bay on Grand Traverse Bay is a short drive east. Public launch facilities serve both the north and south lakes, making Lake Leelanau an excellent boating destination within easy reach of the region's wineries, beaches, and Sleeping Bear Dunes.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "portage-lake-manistee",
+    "name": "Portage Lake (Manistee)",
+    "lat": 44.38,
+    "lng": -86.25,
+    "radius": 0.05,
+    "acres": 2305,
+    "shorelineMiles": 11,
+    "maxDepth": 52,
+    "counties": [
+      "Manistee"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Yellow Perch",
+      "Northern Pike",
+      "Largemouth Bass",
+      "Smallmouth Bass",
+      "Panfish"
+    ],
+    "nearestTowns": [
+      "Onekama",
+      "Manistee"
+    ],
+    "description": "Portage Lake is a 2,305-acre lake in Manistee County connected to Lake Michigan through a navigable channel at the village of Onekama. This direct Great Lakes connection makes Portage Lake a unique inland-coastal hybrid, giving boaters easy access to both calm inland waters and the open waters of Lake Michigan. The lake's relatively warm, productive waters contrast with the cold Lake Michigan waters just a short cruise away.\n\nWalleye are the most sought-after species on Portage Lake, with productive fishing from spring through fall around the lake's varied structure. Yellow perch provide excellent eating-size fish, particularly in late summer and fall. Northern pike, largemouth bass, and smallmouth bass round out the warm-water fishery. The Lake Michigan channel also brings seasonal runs of salmon and steelhead into the lake, adding big-fish excitement.\n\nThe village of Onekama sits at the lake's western end near the Lake Michigan channel, providing a small-town base with basic services, restaurants, and a public beach. Public boat launch facilities are available on the lake, and the channel to Lake Michigan is navigable for most recreational boats. Portage Lake's combination of sheltered inland boating and Great Lakes access makes it an appealing destination for families and anglers who want variety in their boating experience.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-mitchell",
+    "name": "Lake Mitchell",
+    "lat": 44.2,
+    "lng": -85.55,
+    "radius": 0.05,
+    "acres": 2580,
+    "shorelineMiles": 13,
+    "maxDepth": 13,
+    "counties": [
+      "Wexford"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Bluegill",
+      "Crappie",
+      "Northern Pike",
+      "Largemouth Bass",
+      "Yellow Perch"
+    ],
+    "nearestTowns": [
+      "Cadillac"
+    ],
+    "description": "Lake Mitchell is a shallow, 2,580-acre lake located on the west side of the city of Cadillac in Wexford County. Connected to Lake Cadillac by a navigable canal, the two lakes form a popular twin-lake system that serves as a recreational centerpiece for the Cadillac area. Lake Mitchell's shallow depth of just 13 feet creates warm, productive waters that support strong populations of panfish and warm-water game fish.\n\nWalleye fishing on Lake Mitchell benefits from ongoing DNR stocking and management, with spring providing the best action. Bluegill and crappie are abundant in the lake's extensive weed beds, making it a top destination for ice fishing and summer panfishing. Northern pike and largemouth bass provide additional predator-fishing opportunities. The canal connecting to Lake Cadillac allows boaters to easily fish both lakes in a single outing.\n\nThe city of Cadillac provides full services including marinas, bait shops, restaurants, and lodging. Public boat launches serve both Lake Mitchell and the connecting canal. The lake's proximity to downtown Cadillac and its shallow, protected waters make it particularly popular for kayaking, canoeing, and pontoon boating. William Mitchell State Park sits between the two lakes, offering camping and beach access.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-cadillac",
+    "name": "Lake Cadillac",
+    "lat": 44.25,
+    "lng": -85.4,
+    "radius": 0.04,
+    "acres": 1300,
+    "shorelineMiles": 8,
+    "maxDepth": 27,
+    "counties": [
+      "Wexford"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Northern Pike",
+      "Largemouth Bass",
+      "Bluegill",
+      "Crappie",
+      "Yellow Perch"
+    ],
+    "nearestTowns": [
+      "Cadillac"
+    ],
+    "description": "Lake Cadillac is a 1,300-acre lake situated on the east side of downtown Cadillac in Wexford County. Connected to Lake Mitchell by a navigable canal, the lake offers a slightly deeper basin at 27 feet and provides a more urban boating experience with the city's parks, restaurants, and shops lining portions of the shoreline. The lake is a centerpiece of community life in Cadillac, hosting fishing tournaments, boat parades, and waterfront events throughout the season.\n\nWalleye fishing on Lake Cadillac is enhanced by DNR stocking programs, with consistent catches throughout the open-water season. Northern pike are present in good numbers, and largemouth bass fishing can be excellent along the weed lines and docks. Bluegill, crappie, and yellow perch provide family-friendly panfishing from both boat and shore. Ice fishing is extremely popular, with easy access from the city's lakefront parks.\n\nThe Cadillac waterfront features a public boat launch, a lakeside boardwalk, and Kenwood Park with swimming and picnic facilities. The canal to Lake Mitchell gives boaters access to over 3,800 combined acres of water. Cadillac's downtown is within walking distance of the lake, providing convenient access to dining, shopping, and entertainment. The annual Cadillac Area Visitors Bureau events and fishing tournaments make the lake a lively destination year-round.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-gogebic",
+    "name": "Lake Gogebic",
+    "lat": 46.5,
+    "lng": -89.55,
+    "radius": 0.08,
+    "acres": 13380,
+    "shorelineMiles": 36,
+    "maxDepth": 35,
+    "counties": [
+      "Gogebic",
+      "Ontonagon"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Yellow Perch",
+      "Smallmouth Bass",
+      "Northern Pike",
+      "Crappie",
+      "Bluegill"
+    ],
+    "nearestTowns": [
+      "Marenisco",
+      "Bergland",
+      "Merriweather"
+    ],
+    "description": "Lake Gogebic is the largest inland lake in Michigan's Upper Peninsula at 13,380 acres, stretching across Gogebic and Ontonagon counties in the western UP. Surrounded by dense forests and the rugged terrain of the Ottawa National Forest, the lake offers a remote, wilderness boating experience that is increasingly rare in the Great Lakes region. The lake's moderate depth of 35 feet and fertile waters support a diverse and productive fishery.\n\nWalleye are the premier game fish on Lake Gogebic, with the lake consistently producing quality fish thanks to natural reproduction and careful management. Yellow perch grow to impressive sizes in the nutrient-rich water, providing outstanding eating. Smallmouth bass inhabit the rocky shoreline structure, while northern pike, crappie, and bluegill offer additional variety. Ice fishing is a major draw in winter, with walleye and perch the primary targets.\n\nLake Gogebic State Park on the western shore provides a boat launch, campground, and swimming beach. Additional public access points are available around the lake. The surrounding communities of Marenisco and Bergland offer basic lodging and services catering to anglers and outdoor enthusiasts. The lake's remote location in the UP means less fishing pressure than comparable Lower Peninsula lakes, and the forested setting provides a peaceful retreat for boaters seeking solitude.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "muskegon-lake",
+    "name": "Muskegon Lake",
+    "lat": 43.23,
+    "lng": -86.25,
+    "radius": 0.05,
+    "acres": 4150,
+    "shorelineMiles": 15,
+    "maxDepth": 75,
+    "counties": [
+      "Muskegon"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Yellow Perch",
+      "Largemouth Bass",
+      "Smallmouth Bass",
+      "Northern Pike",
+      "Channel Catfish",
+      "Steelhead"
+    ],
+    "nearestTowns": [
+      "Muskegon",
+      "North Muskegon",
+      "Lakeside"
+    ],
+    "description": "Muskegon Lake is a 4,150-acre drowned river mouth lake connected to Lake Michigan through a deep, navigable shipping channel in the city of Muskegon. The lake serves as the hub of the Muskegon area's recreational boating scene, offering protected inland waters with direct access to Lake Michigan's offshore fishing grounds. The Muskegon River, one of Michigan's premier steelhead and salmon rivers, enters the lake from the east, bringing seasonal runs of migratory fish.\n\nThe lake's diverse fishery includes both resident warm-water species and seasonal Great Lakes migrants. Walleye and yellow perch provide year-round action in the lake's deeper holes and along the channel. Largemouth and smallmouth bass inhabit the shoreline structure and docks, while northern pike patrol the weed beds. During spring and fall, steelhead and salmon pass through the lake en route to the Muskegon River, creating exciting fishing opportunities at the river mouth and along the channel.\n\nMultiple public boat launches and marinas serve Muskegon Lake, making it easy to launch and access both the lake and Lake Michigan. The Muskegon Channel is one of the widest and most protected Great Lakes entrances, suitable for a wide range of boat sizes. The city of Muskegon offers extensive waterfront amenities including Heritage Landing, the USS Silversides submarine museum, and numerous restaurants and shops along the shoreline.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "white-lake",
+    "name": "White Lake",
+    "lat": 43.42,
+    "lng": -86.35,
+    "radius": 0.04,
+    "acres": 2570,
+    "shorelineMiles": 10,
+    "maxDepth": 25,
+    "counties": [
+      "Muskegon"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Largemouth Bass",
+      "Yellow Perch",
+      "Northern Pike",
+      "Bluegill",
+      "Channel Catfish"
+    ],
+    "nearestTowns": [
+      "Whitehall",
+      "Montague"
+    ],
+    "description": "White Lake is a 2,570-acre drowned river mouth lake in Muskegon County, connected to Lake Michigan through a navigable channel between the twin cities of Whitehall and Montague. The lake combines the sheltered, warm waters of an inland lake with direct access to Lake Michigan, making it a versatile base for boaters who enjoy both environments. The White River enters the lake from the east, contributing to its productive fishery.\n\nWalleye are the most popular target on White Lake, with spring and fall providing peak action. Largemouth bass thrive in the lake's plentiful weed beds and dock structures, while yellow perch offer consistent panfishing year-round. Northern pike and channel catfish are also caught regularly. The White River system above the lake provides seasonal runs of steelhead and salmon, with the river mouth area offering productive fishing during the runs.\n\nWhitehall and Montague straddle the lake's outlet channel and provide full services including marinas, fuel, bait shops, and dining. Public boat launches on the lake provide easy access for trailered boats. The White Lake area is also known for the iconic White River Light Station and the Hart-Montague Trail, adding cultural and recreational appeal beyond boating. The lake's moderate size and protected waters make it particularly popular for pontoon boating and family recreation.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-macatawa",
+    "name": "Lake Macatawa",
+    "lat": 42.77,
+    "lng": -86.17,
+    "radius": 0.04,
+    "acres": 1800,
+    "shorelineMiles": 9,
+    "maxDepth": 40,
+    "counties": [
+      "Ottawa",
+      "Allegan"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Smallmouth Bass",
+      "Yellow Perch",
+      "Northern Pike",
+      "Walleye",
+      "Bluegill",
+      "Channel Catfish"
+    ],
+    "nearestTowns": [
+      "Holland"
+    ],
+    "description": "Lake Macatawa is an 1,800-acre drowned river mouth lake at the heart of Holland, Michigan, connecting to Lake Michigan through a well-maintained shipping channel at Holland State Park. The lake is the recreational centerstone of the Holland area, surrounded by a mix of residential development, parks, and marinas that make it one of the most accessible boating destinations on Michigan's west coast. The channel to Lake Michigan provides easy access to offshore salmon and trout fishing.\n\nThe lake supports a varied warm-water fishery with largemouth and smallmouth bass as the headliners. Rocky areas near the channel hold quality smallmouth, while the lake's abundant weed beds produce good largemouth action. Yellow perch, northern pike, and walleye round out the fishery. The Black River enters from the east, adding current and structure that attract fish. During salmon and steelhead seasons, the channel area becomes a hotspot as fish stage before entering the river system.\n\nHolland State Park at the lake's outlet features one of Michigan's most popular beaches and provides a boat launch with access to both the lake and Lake Michigan. Additional public and private launch facilities and marinas are located around the lake. The city of Holland offers a full range of services, dining, and attractions including the famous Tulip Time Festival each spring. Lake Macatawa's central location and easy Great Lakes access make it a favorite of boaters throughout western Michigan.",
+    "type": "freshwater",
+    "rampCount": 0
+  }
+]

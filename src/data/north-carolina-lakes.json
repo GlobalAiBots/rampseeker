@@ -1,0 +1,568 @@
+[
+  {
+    "id": "jordan-lake",
+    "name": "Jordan Lake",
+    "lat": 35.72,
+    "lng": -79.0,
+    "radius": 0.1,
+    "acres": 13900,
+    "shorelineMiles": 180,
+    "maxDepth": 85,
+    "counties": [
+      "Chatham",
+      "Wake",
+      "Durham"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Striped Bass",
+      "Crappie",
+      "Catfish",
+      "Bluegill",
+      "White Perch"
+    ],
+    "nearestTowns": [
+      "Apex",
+      "Pittsboro",
+      "Cary",
+      "Chapel Hill"
+    ],
+    "description": "Jordan Lake is a 13,900-acre reservoir in the heart of North Carolina's Research Triangle, making it one of the most accessible fishing and boating destinations for residents of Raleigh, Durham, and Chapel Hill. Impounded on the Haw River and New Hope Creek, this U.S. Army Corps of Engineers lake features 180 miles of wooded shoreline with numerous coves, points, and creek channels that provide outstanding habitat for largemouth bass, striped bass, and crappie.\n\nThe lake is renowned for its striped bass fishery, with fish regularly exceeding 20 pounds caught by trolling or casting live bait along the main lake channel. Largemouth bass fishing is equally productive, especially around fallen timber and submerged structure in the upper reaches. Crappie anglers flock to the standing timber areas during spring spawning runs, and catfish provide excellent year-round action on the deeper flats.\n\nJordan Lake State Recreation Area offers multiple public boat ramps, swim beaches, and over 1,000 campsites spread across several access areas. The lake also serves as a critical drinking water supply for the Triangle region. Bald eagles nest along the shores, and wildlife viewing opportunities abound throughout the year.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "falls-lake",
+    "name": "Falls Lake",
+    "lat": 36.05,
+    "lng": -78.7,
+    "radius": 0.1,
+    "acres": 12410,
+    "shorelineMiles": 200,
+    "maxDepth": 82,
+    "counties": [
+      "Wake",
+      "Durham",
+      "Granville"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Striped Bass",
+      "Crappie",
+      "Catfish",
+      "Bluegill",
+      "Yellow Perch"
+    ],
+    "nearestTowns": [
+      "Raleigh",
+      "Durham",
+      "Wake Forest",
+      "Creedmoor"
+    ],
+    "description": "Falls Lake is a 12,410-acre reservoir on the Neuse River just north of Raleigh, serving as the primary drinking water supply and top recreation destination for the Raleigh-Durham metropolitan area. With 200 miles of shoreline winding through forested hills, Falls Lake provides outstanding fishing for largemouth bass, striped bass, crappie, and catfish, along with excellent boating and kayaking opportunities.\n\nThe lake's largemouth bass fishery is considered one of the best in the North Carolina Piedmont, with fish frequently reaching 5 to 8 pounds around submerged timber, rocky points, and aquatic vegetation. Striped bass anglers target the deeper main-lake areas, especially during summer when fish school near thermoclines. The crappie fishing is exceptional in spring around standing timber, and yellow perch provide a unique fishery not found in many other Triangle-area lakes.\n\nFalls Lake State Recreation Area manages several public access points with boat ramps, campgrounds, swim beaches, and picnic areas. The Falls Lake Trail, a 30-mile hiking and mountain biking path, follows much of the north shore. The lake's proximity to downtown Raleigh — just 20 minutes away — makes it one of the most visited Corps of Engineers lakes in North Carolina.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-norman",
+    "name": "Lake Norman",
+    "lat": 35.5,
+    "lng": -80.9,
+    "radius": 0.15,
+    "acres": 32510,
+    "shorelineMiles": 520,
+    "maxDepth": 110,
+    "counties": [
+      "Catawba",
+      "Iredell",
+      "Lincoln",
+      "Mecklenburg"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Striped Bass",
+      "Catfish",
+      "Crappie",
+      "Spotted Bass",
+      "White Bass"
+    ],
+    "nearestTowns": [
+      "Mooresville",
+      "Cornelius",
+      "Huntersville",
+      "Denver",
+      "Davidson"
+    ],
+    "description": "Lake Norman is the largest man-made lake in North Carolina, spanning 32,510 acres with an impressive 520 miles of shoreline across four counties north of Charlotte. Often called the \"Inland Sea,\" this Duke Energy reservoir on the Catawba River is the premier boating and fishing destination in the Charlotte metropolitan area, attracting millions of visitors each year for water sports, fishing tournaments, and lakeside recreation.\n\nThe lake supports a world-class striped bass fishery, with fish commonly exceeding 20 pounds and trophy catches over 40 pounds documented. Largemouth bass and spotted bass thrive in the lake's extensive cove systems, rocky shorelines, and submerged structure. The deeper main channel areas produce excellent catfish and white bass action, while crappie fishing peaks in spring around brush piles and dock structures throughout the upper reaches of the lake.\n\nLake Norman is surrounded by thriving lakefront communities, marinas, restaurants, and resort amenities. Multiple public boat ramps provide access at various points around the lake. The NASCAR hub of Mooresville sits on the north shore, and the lake is just 30 minutes from Uptown Charlotte. Lake Norman State Park on the north shore offers hiking, swimming, and additional boat access for visitors.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "high-rock-lake",
+    "name": "High Rock Lake",
+    "lat": 35.6,
+    "lng": -80.2,
+    "radius": 0.1,
+    "acres": 15180,
+    "shorelineMiles": 360,
+    "maxDepth": 50,
+    "counties": [
+      "Davidson",
+      "Rowan"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Striped Bass",
+      "Crappie",
+      "Catfish",
+      "White Bass",
+      "Bluegill"
+    ],
+    "nearestTowns": [
+      "Lexington",
+      "Salisbury",
+      "Denton",
+      "Southmont"
+    ],
+    "description": "High Rock Lake is a 15,180-acre reservoir on the Yadkin River in the central Piedmont of North Carolina, offering 360 miles of heavily indented shoreline that creates countless coves, creek arms, and fishing hotspots. Located between Lexington and Salisbury, this Cube Hydro lake is one of the most popular fishing destinations in the state, particularly known for its exceptional crappie and bass fisheries.\n\nThe lake is a tournament fishing favorite, hosting numerous bass tournaments throughout the year. Largemouth bass thrive in the stained water around docks, laydowns, and aquatic vegetation, with fish over 8 pounds caught regularly. The striped bass and white bass fisheries provide fast action, especially during spring and fall runs. Crappie fishing is outstanding in the standing timber and brush piles, with spring spawning runs drawing anglers from across the Southeast.\n\nHigh Rock Lake's relatively shallow average depth and nutrient-rich water support an incredibly productive fishery. Multiple public boat ramps and marinas serve anglers and recreational boaters. The lake sits at the upper end of the Yadkin-Pee Dee River chain of reservoirs, which also includes Tuckertown, Badin, and Falls reservoirs downstream.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-gaston",
+    "name": "Lake Gaston",
+    "lat": 36.5,
+    "lng": -78.0,
+    "radius": 0.12,
+    "acres": 20300,
+    "shorelineMiles": 350,
+    "maxDepth": 90,
+    "counties": [
+      "Halifax",
+      "Warren",
+      "Northampton"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Striped Bass",
+      "Crappie",
+      "Channel Catfish",
+      "Bluegill",
+      "White Perch"
+    ],
+    "nearestTowns": [
+      "Littleton",
+      "Henrico",
+      "Gaston"
+    ],
+    "description": "Lake Gaston is a 20,300-acre reservoir straddling the North Carolina-Virginia border on the Roanoke River, featuring 350 miles of scenic shoreline surrounded by forests and lakefront communities. This Dominion Energy hydroelectric lake is a beloved vacation and retirement destination, offering excellent fishing, boating, and water sports in a peaceful rural setting between the Triangle and Hampton Roads metro areas.\n\nThe lake supports a diverse and productive fishery headlined by largemouth bass, striped bass, and crappie. Largemouth bass fishing is excellent around the lake's abundant dock structures, rocky points, and submerged timber, with fish over 10 pounds caught each year. Striped bass provide exciting open-water action, especially in the main channel during cooler months. Crappie fishing is a major draw during the spring spawn, with anglers targeting fish around brush piles and standing timber in the creek arms.\n\nLake Gaston is fed by Kerr Lake upstream and releases water to Lake Roanoke Rapids downstream. The lake's clear to moderately stained water, combined with its moderate depth and extensive structure, create ideal conditions for a wide range of species. Several marinas, public boat ramps, and campgrounds provide access, and the surrounding communities offer restaurants, lodging, and other amenities for visiting anglers and families.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "kerr-lake",
+    "name": "Kerr Lake (Buggs Island)",
+    "lat": 36.6,
+    "lng": -78.35,
+    "radius": 0.15,
+    "acres": 50000,
+    "shorelineMiles": 800,
+    "maxDepth": 100,
+    "counties": [
+      "Vance",
+      "Granville",
+      "Warren"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Striped Bass",
+      "Crappie",
+      "Catfish",
+      "Hybrid Striped Bass",
+      "Bluegill"
+    ],
+    "nearestTowns": [
+      "Henderson",
+      "Clarksville",
+      "Boydton"
+    ],
+    "description": "Kerr Lake, also known as Buggs Island Lake, is a massive 50,000-acre U.S. Army Corps of Engineers reservoir on the Roanoke River along the North Carolina-Virginia border. With 800 miles of shoreline — more than any other lake in North Carolina — Kerr Lake is one of the largest and most popular recreation lakes in the Southeast, drawing over 3 million visitors annually for fishing, boating, camping, and swimming.\n\nThe lake is a premier fishing destination with outstanding opportunities for largemouth bass, striped bass, hybrid striped bass, crappie, and catfish. The expansive main lake and numerous creek arms provide diverse habitats, from deep clear-water channels to shallow stained-water coves with abundant cover. Bass tournaments are held year-round, and the striped bass fishery produces trophy fish exceeding 30 pounds. Crappie fishing is exceptional, particularly in winter and early spring around submerged brush and standing timber.\n\nKerr Lake State Recreation Area on the North Carolina side and several Virginia state parks provide extensive public facilities including boat ramps, campgrounds, swim beaches, and picnic areas. The lake's remote location between Henderson, NC and Clarksville, VA ensures a relatively uncrowded experience despite its popularity. Kerr Lake feeds downstream Lake Gaston, creating a chain of excellent fishing reservoirs along the Roanoke River.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-james",
+    "name": "Lake James",
+    "lat": 35.72,
+    "lng": -81.9,
+    "radius": 0.08,
+    "acres": 6510,
+    "shorelineMiles": 150,
+    "maxDepth": 120,
+    "counties": [
+      "Burke",
+      "McDowell"
+    ],
+    "fishSpecies": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Walleye",
+      "Musky",
+      "Brown Trout",
+      "Crappie"
+    ],
+    "nearestTowns": [
+      "Morganton",
+      "Marion",
+      "Nebo"
+    ],
+    "description": "Lake James is a stunning 6,510-acre mountain reservoir nestled in the foothills of the Blue Ridge Mountains in western North Carolina, offering crystal-clear water and dramatic mountain scenery that set it apart from other lakes in the state. Fed by the Catawba and Linville rivers, the lake features 150 miles of mostly undeveloped shoreline with deep, clear water that supports an exceptional coldwater and warmwater fishery.\n\nThe lake is best known for its outstanding smallmouth bass fishing, with the clear rocky habitat producing fish over 5 pounds regularly. Walleye and musky provide exciting trophy fishing opportunities, and brown trout are found in the deeper, cooler sections near the Linville River inflow. Largemouth bass inhabit the warmer coves and shallow areas, while crappie fishing is productive around submerged structure and docks throughout the lake.\n\nLake James State Park, located on the south shore, offers boat ramps, a swim beach, hiking trails, and camping with stunning views of Shortoff Mountain and Linville Gorge. The lake's exceptional water clarity — often exceeding 15 feet of visibility — makes it popular for swimming, paddleboarding, and scuba diving in addition to fishing and powerboating. The surrounding Blue Ridge scenery, including views of Table Rock and Hawksbill Mountain, creates one of the most scenic boating experiences in North Carolina.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "fontana-lake",
+    "name": "Fontana Lake",
+    "lat": 35.42,
+    "lng": -83.6,
+    "radius": 0.12,
+    "acres": 10530,
+    "shorelineMiles": 238,
+    "maxDepth": 440,
+    "counties": [
+      "Graham",
+      "Swain"
+    ],
+    "fishSpecies": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Walleye",
+      "Brown Trout",
+      "Crappie",
+      "Musky"
+    ],
+    "nearestTowns": [
+      "Bryson City",
+      "Fontana Dam",
+      "Robbinsville"
+    ],
+    "description": "Fontana Lake is the deepest lake in North Carolina at 440 feet, a dramatic TVA reservoir stretching 29 miles through the Great Smoky Mountains in the far western corner of the state. With 238 miles of almost entirely undeveloped shoreline bordered by Great Smoky Mountains National Park and the Nantahala National Forest, Fontana offers a wilderness boating and fishing experience unmatched anywhere in the Southeast.\n\nThe lake's deep, clear water supports an outstanding coldwater and warmwater fishery. Smallmouth bass are the primary draw, thriving along the rocky points, bluffs, and submerged boulders throughout the lake. Walleye and musky provide trophy fishing opportunities in the deeper channels, while brown trout are found near the colder tributary inflows. Largemouth bass inhabit the warmer upper reaches and creek arms, and crappie fishing is productive in spring around submerged timber and brush.\n\nFontana Dam, at 480 feet tall, is the tallest dam in the eastern United States and a tourist attraction in its own right. The lake is accessible from Bryson City and Fontana Village Resort, with several public boat ramps and marinas serving anglers and recreational boaters. The remote mountain setting, combined with the absence of shoreline development, makes Fontana Lake a bucket-list destination for anglers seeking solitude and stunning scenery alongside world-class fishing.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-lure",
+    "name": "Lake Lure",
+    "lat": 35.43,
+    "lng": -82.2,
+    "radius": 0.04,
+    "acres": 720,
+    "shorelineMiles": 27,
+    "maxDepth": 104,
+    "counties": [
+      "Rutherford"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Smallmouth Bass",
+      "Crappie",
+      "Bluegill",
+      "Catfish",
+      "Walleye"
+    ],
+    "nearestTowns": [
+      "Lake Lure",
+      "Chimney Rock"
+    ],
+    "description": "Lake Lure is a picturesque 720-acre mountain lake in the Blue Ridge foothills of Rutherford County, famous worldwide as the filming location of the classic movie Dirty Dancing. Surrounded by towering granite cliffs, lush forests, and the dramatic formations of Chimney Rock State Park, Lake Lure is widely regarded as one of the most beautiful man-made lakes in America, with 27 miles of scenic shoreline nestled in the Hickory Nut Gorge.\n\nDespite its relatively small size, Lake Lure offers surprisingly good fishing thanks to its depth (104 feet maximum) and varied underwater structure. Largemouth bass and smallmouth bass are the primary game fish, with rocky banks, submerged ledges, and dock structures providing excellent habitat. Walleye are stocked periodically and provide an exciting trophy fishery. Crappie, bluegill, and catfish round out the warm-water species available to anglers throughout the year.\n\nThe Town of Lake Lure manages lake access and operates a public boat ramp and marina. Boat size and horsepower restrictions help maintain the peaceful character of the lake. Visitors can also enjoy scenic boat tours, the Lake Lure Flowering Bridge, and nearby Chimney Rock State Park. The combination of natural beauty, mountain charm, and accessible fishing makes Lake Lure a popular destination for both anglers and vacationers exploring western North Carolina.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-mattamuskeet",
+    "name": "Lake Mattamuskeet",
+    "lat": 35.48,
+    "lng": -76.2,
+    "radius": 0.12,
+    "acres": 40000,
+    "shorelineMiles": 45,
+    "maxDepth": 5,
+    "counties": [
+      "Hyde"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "Catfish",
+      "Sunfish"
+    ],
+    "nearestTowns": [
+      "Swan Quarter",
+      "Fairfield",
+      "Engelhard"
+    ],
+    "description": "Lake Mattamuskeet is the largest natural lake in North Carolina, spanning approximately 40,000 acres in remote Hyde County on the state's coastal plain. This remarkably shallow lake — averaging just 2 to 3 feet deep with a maximum depth of only 5 feet — is a vast freshwater marsh ecosystem that serves as the centerpiece of the Mattamuskeet National Wildlife Refuge, one of the most important waterfowl wintering areas on the Atlantic Flyway.\n\nFishing on Lake Mattamuskeet is a unique experience defined by the lake's extreme shallowness and aquatic vegetation. Largemouth bass are the primary game fish, found around patches of submerged vegetation, lily pads, and the occasional deeper canal channels. Crappie, catfish, and various sunfish species are also available. Anglers typically use flat-bottom boats, jon boats, or kayaks to navigate the shallow water. The fishing can be outstanding when conditions align, particularly during spring and fall.\n\nThe historic Mattamuskeet Lodge, a converted pumping station built in 1928, stands as a landmark on the lake's north shore. Access is primarily through wildlife refuge canals and designated entry points. The lake is internationally renowned for its winter concentrations of tundra swans, snow geese, and ducks, making it a dual-purpose destination for anglers and birdwatchers. Visitors should check refuge regulations and seasonal access restrictions before planning a trip.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "w-kerr-scott-lake",
+    "name": "W. Kerr Scott Lake",
+    "lat": 36.13,
+    "lng": -81.23,
+    "radius": 0.05,
+    "acres": 1475,
+    "shorelineMiles": 53,
+    "maxDepth": 80,
+    "counties": [
+      "Wilkes"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "Catfish",
+      "Bluegill",
+      "Walleye"
+    ],
+    "nearestTowns": [
+      "Wilkesboro",
+      "North Wilkesboro"
+    ],
+    "description": "W. Kerr Scott Lake is a 1,475-acre U.S. Army Corps of Engineers reservoir on the Yadkin River in the foothills of the Blue Ridge Mountains near Wilkesboro, North Carolina. With 53 miles of wooded shoreline and a maximum depth of 80 feet, this scenic foothills lake provides excellent fishing and recreation opportunities in an area known for its natural beauty, craft breweries, and proximity to the Blue Ridge Parkway.\n\nThe lake supports a solid fishery featuring largemouth bass, crappie, catfish, bluegill, and walleye. Largemouth bass fishing is productive around fallen timber, rocky banks, and submerged structure, particularly in the upper Yadkin River arm. Crappie anglers find success around brush piles and standing timber, with spring offering the best action. The walleye population adds a unique dimension to the fishery, with fish stocked by the NC Wildlife Resources Commission providing exciting catches for anglers targeting deeper structure.\n\nThe Corps of Engineers maintains several recreation areas around the lake with boat ramps, campgrounds, picnic shelters, and a swim beach. The 25-mile Overmountain Victory National Historic Trail passes near the lake, and the charming downtown areas of Wilkesboro and North Wilkesboro offer dining, shopping, and cultural attractions. The annual MerleFest music festival, held nearby each April, draws thousands of visitors to the area.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "pamlico-sound",
+    "name": "Pamlico Sound",
+    "lat": 35.3,
+    "lng": -76.0,
+    "radius": 0.5,
+    "acres": 0,
+    "shorelineMiles": 600,
+    "maxDepth": 25,
+    "counties": [
+      "Dare",
+      "Hyde",
+      "Pamlico",
+      "Beaufort",
+      "Carteret"
+    ],
+    "fishSpecies": [
+      "Red Drum",
+      "Speckled Trout",
+      "Flounder",
+      "Bluefish",
+      "Striped Bass",
+      "Cobia"
+    ],
+    "nearestTowns": [
+      "Hatteras",
+      "Ocracoke",
+      "Swan Quarter",
+      "Engelhard"
+    ],
+    "description": "Pamlico Sound is the largest lagoon on the East Coast of the United States, stretching over 80 miles long and up to 30 miles wide behind North Carolina's famous Outer Banks barrier islands. This vast, shallow body of brackish water — protected from the open Atlantic by Hatteras and Ocracoke islands — is one of the most productive and iconic saltwater fishing destinations on the Eastern Seaboard, offering world-class inshore fishing for red drum, speckled trout, and flounder.\n\nThe sound's shallow, grass-rich flats are legendary for sight-fishing giant red drum, with fish exceeding 40 pounds regularly caught during the fall run. Speckled trout (spotted seatrout) provide outstanding action year-round around oyster bars, grass beds, and channel edges. Flounder fishing is productive along the sandy bottoms and channel drops, while bluefish, striped bass, and cobia offer seasonal excitement. The sound's connection to the Atlantic through Hatteras, Ocracoke, and Oregon inlets creates a rich mixing zone that supports an incredible diversity of marine life.\n\nAccess to Pamlico Sound is available from numerous small fishing villages along the mainland shore and from Outer Banks communities including Hatteras Village and Ocracoke. Charter fishing guides specialize in poling the shallow flats and targeting trophy red drum. The NC Ferry System provides vehicle access to Ocracoke Island, and multiple boat ramps serve the mainland side. The sound is also world-famous for kiteboarding and windsurfing due to its consistent winds and shallow, warm water.",
+    "type": "saltwater",
+    "rampCount": 0
+  },
+  {
+    "id": "albemarle-sound",
+    "name": "Albemarle Sound",
+    "lat": 36.0,
+    "lng": -76.3,
+    "radius": 0.3,
+    "acres": 0,
+    "shorelineMiles": 400,
+    "maxDepth": 25,
+    "counties": [
+      "Dare",
+      "Tyrrell",
+      "Washington",
+      "Bertie",
+      "Chowan",
+      "Perquimans",
+      "Pasquotank",
+      "Camden"
+    ],
+    "fishSpecies": [
+      "Striped Bass",
+      "Largemouth Bass",
+      "White Perch",
+      "Catfish",
+      "Herring",
+      "Flounder"
+    ],
+    "nearestTowns": [
+      "Edenton",
+      "Elizabeth City",
+      "Columbia",
+      "Plymouth"
+    ],
+    "description": "Albemarle Sound is the second-largest estuary in the United States, a 55-mile-long body of brackish water in northeastern North Carolina fed by the Chowan and Roanoke rivers. This massive sound — up to 14 miles wide — is a critical nursery habitat for both freshwater and saltwater fish species, creating one of the most unique and productive fishing environments on the Atlantic coast.\n\nThe sound is renowned for its striped bass (rockfish) fishery, which attracts anglers from across the mid-Atlantic region, particularly during the spring spawning runs up the Roanoke River. Largemouth bass provide excellent fishing in the river mouths and marshy shoreline areas where fresh and brackish water mix. White perch are abundant and provide reliable action throughout the year. Herring runs in spring are a major ecological event, and flounder move into the sound from Pamlico Sound during warmer months. The sound's low salinity compared to Pamlico Sound creates a unique fishery that blends freshwater and saltwater species.\n\nHistoric towns like Edenton and Plymouth line the sound's shores, offering charming waterfronts, colonial-era architecture, and access to public boat ramps. The Albemarle Sound is connected to Pamlico Sound through Croatan and Roanoke sounds, and the Dismal Swamp and Pasquotank River provide access from the north. The sound's remote character and rich history — including the first English settlements at Roanoke Island — make it a compelling destination for anglers seeking productive fishing in a storied coastal landscape.",
+    "type": "saltwater",
+    "rampCount": 0
+  },
+  {
+    "id": "cape-fear-river",
+    "name": "Cape Fear River",
+    "lat": 34.2,
+    "lng": -77.95,
+    "radius": 0.15,
+    "acres": 0,
+    "shorelineMiles": 200,
+    "maxDepth": 45,
+    "counties": [
+      "New Hanover",
+      "Brunswick",
+      "Bladen",
+      "Cumberland",
+      "Harnett"
+    ],
+    "fishSpecies": [
+      "Red Drum",
+      "Flounder",
+      "Striped Bass",
+      "Catfish",
+      "Largemouth Bass",
+      "American Shad"
+    ],
+    "nearestTowns": [
+      "Wilmington",
+      "Southport",
+      "Carolina Beach",
+      "Fayetteville"
+    ],
+    "description": "The Cape Fear River is the only major river system in North Carolina that flows directly into the Atlantic Ocean, stretching over 200 miles from the Piedmont near Fayetteville to the coast at Southport. This diverse waterway transitions from freshwater upriver habitat to a brackish tidal estuary near Wilmington and finally to saltwater near its mouth, creating an extraordinarily varied fishery that supports both freshwater and saltwater species along its length.\n\nIn the lower tidal reaches near Wilmington, red drum, flounder, and striped bass are the primary targets, with anglers working the dock pilings, oyster beds, and creek mouths along the river's winding course. The spring American shad run draws dedicated fly and light-tackle anglers to the river between Fayetteville and Lillington. Upriver sections provide good largemouth bass and catfish fishing in a scenic blackwater environment. The river's brackish zone — where fresh and salt water mix — is one of the most productive fishing areas, supporting a wide range of species year-round.\n\nThe Cape Fear River is central to the Wilmington area's identity and outdoor recreation culture. Public boat ramps are available at numerous points from Fayetteville to Southport. The river passes through downtown Wilmington's historic waterfront district and flows past the USS North Carolina Battleship Memorial. The lower river and its associated marshes, creeks, and islands near Bald Head Island and Southport offer outstanding inshore fishing in a beautiful coastal setting.",
+    "type": "saltwater",
+    "rampCount": 0
+  },
+  {
+    "id": "neuse-river",
+    "name": "Neuse River",
+    "lat": 35.1,
+    "lng": -77.0,
+    "radius": 0.2,
+    "acres": 0,
+    "shorelineMiles": 275,
+    "maxDepth": 30,
+    "counties": [
+      "Wayne",
+      "Lenoir",
+      "Craven",
+      "Pamlico",
+      "Johnston"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Striped Bass",
+      "Catfish",
+      "Red Drum",
+      "Flounder",
+      "Crappie"
+    ],
+    "nearestTowns": [
+      "New Bern",
+      "Kinston",
+      "Goldsboro"
+    ],
+    "description": "The Neuse River is one of North Carolina's longest rivers, flowing approximately 275 miles from its headwaters near Durham through the Piedmont and Coastal Plain before widening dramatically into a broad estuary near New Bern and emptying into Pamlico Sound. This transition from narrow freshwater river to one of the widest river estuaries in the country creates a remarkably diverse fishery that attracts both freshwater and saltwater anglers.\n\nIn the upper and middle reaches near Goldsboro and Kinston, largemouth bass, crappie, and catfish are the primary game fish, found around fallen timber, undercut banks, and deep river bends. As the river widens below Kinston, striped bass become a major target, especially during spring spawning runs. Near New Bern, where the river opens to nearly 6 miles wide, the fishery transitions to saltwater species including red drum, flounder, and speckled trout that move upriver from Pamlico Sound on tidal flows.\n\nNew Bern, North Carolina's colonial capital and birthplace of Pepsi-Cola, serves as the primary hub for fishing the lower Neuse River estuary. Multiple public boat ramps, marinas, and charter services provide access from Goldsboro to the river's mouth. The Neuse River Recreation Area and numerous waterfront parks offer bank fishing opportunities. The river's dual freshwater-saltwater character makes it one of the most versatile fishing destinations in eastern North Carolina.",
+    "type": "saltwater",
+    "rampCount": 0
+  },
+  {
+    "id": "bogue-sound",
+    "name": "Bogue Sound",
+    "lat": 34.68,
+    "lng": -76.85,
+    "radius": 0.1,
+    "acres": 0,
+    "shorelineMiles": 50,
+    "maxDepth": 12,
+    "counties": [
+      "Carteret",
+      "Onslow"
+    ],
+    "fishSpecies": [
+      "Red Drum",
+      "Speckled Trout",
+      "Flounder",
+      "Bluefish",
+      "Sheepshead",
+      "Black Drum"
+    ],
+    "nearestTowns": [
+      "Morehead City",
+      "Beaufort",
+      "Atlantic Beach",
+      "Emerald Isle"
+    ],
+    "description": "Bogue Sound is a sheltered body of saltwater nestled between Bogue Banks barrier island and the mainland of Carteret and Onslow counties along North Carolina's Crystal Coast. This shallow, productive sound stretches approximately 25 miles from Beaufort Inlet on the east to Bear Inlet on the west, providing outstanding inshore saltwater fishing in calm, protected waters that are accessible even when ocean conditions are rough.\n\nThe sound's extensive grass flats, oyster bars, and tidal creek systems create ideal habitat for red drum, speckled trout, and flounder — the three most sought-after inshore species on the Carolina coast. Sheepshead congregate around bridge pilings, docks, and rock jetties, while black drum are found on the deeper mud flats. Bluefish move through the sound seasonally, providing exciting topwater action. The Beaufort Inlet connection to the Atlantic ensures a constant exchange of ocean water and nutrients that fuels the sound's incredible productivity.\n\nMorehead City and Beaufort, two of North Carolina's most charming coastal towns, flank the eastern end of Bogue Sound and serve as major hubs for fishing charters, boat rentals, and waterfront dining. Atlantic Beach and Emerald Isle on Bogue Banks provide additional access from the barrier island side. Public boat ramps are available at multiple locations, and the sound's calm waters make it an ideal destination for kayak fishing, paddleboarding, and family boating.",
+    "type": "saltwater",
+    "rampCount": 0
+  },
+  {
+    "id": "core-sound",
+    "name": "Core Sound",
+    "lat": 34.85,
+    "lng": -76.35,
+    "radius": 0.1,
+    "acres": 0,
+    "shorelineMiles": 40,
+    "maxDepth": 8,
+    "counties": [
+      "Carteret"
+    ],
+    "fishSpecies": [
+      "Red Drum",
+      "Speckled Trout",
+      "Flounder",
+      "Grey Trout",
+      "Spot",
+      "Croaker"
+    ],
+    "nearestTowns": [
+      "Atlantic",
+      "Beaufort",
+      "Harkers Island"
+    ],
+    "description": "Core Sound is a shallow, pristine body of saltwater located between the mainland of Carteret County and the Core Banks barrier islands of Cape Lookout National Seashore. This remote and largely undeveloped sound is one of the most productive and least pressured inshore fishing destinations on the North Carolina coast, offering outstanding opportunities for red drum, speckled trout, and flounder in a wild, natural setting that has changed little over the centuries.\n\nThe sound's shallow grass flats — averaging just 3 to 4 feet deep — are ideal for sight-fishing red drum and wading for speckled trout. Flounder lie along the sandy channel edges and near the inlets that connect the sound to the Atlantic. Grey trout (weakfish), spot, and croaker provide additional action, particularly during summer and fall. The sound's connection to Cape Lookout and its surrounding shoals creates nutrient-rich waters that support an incredible abundance of baitfish and gamefish.\n\nCore Sound is steeped in the maritime heritage of the Down East fishing communities of Harkers Island, Atlantic, and Marshallberg, where generations of commercial fishermen have worked these waters. The Core Sound Waterfowl Museum on Harkers Island celebrates this heritage. Access is available from several small public boat ramps in the Down East communities, and ferry service from Harkers Island connects to Cape Lookout National Seashore. The sound's remote character and exceptional fishing make it a favorite among experienced Carolina anglers seeking unspoiled coastal waters.",
+    "type": "saltwater",
+    "rampCount": 0
+  },
+  {
+    "id": "intracoastal-waterway-nc",
+    "name": "Intracoastal Waterway (NC)",
+    "lat": 34.1,
+    "lng": -77.85,
+    "radius": 0.3,
+    "acres": 0,
+    "shorelineMiles": 300,
+    "maxDepth": 12,
+    "counties": [
+      "New Hanover",
+      "Brunswick",
+      "Pender",
+      "Onslow",
+      "Carteret"
+    ],
+    "fishSpecies": [
+      "Red Drum",
+      "Flounder",
+      "Speckled Trout",
+      "Spot",
+      "Croaker",
+      "Sheepshead"
+    ],
+    "nearestTowns": [
+      "Wrightsville Beach",
+      "Carolina Beach",
+      "Surf City",
+      "Swansboro",
+      "Topsail Beach"
+    ],
+    "description": "The Intracoastal Waterway (ICW) runs approximately 300 miles along the North Carolina coast, providing a protected navigable channel from the South Carolina border near Calabash to the Virginia line near Coinjock. This federally maintained waterway threads through a mosaic of salt marshes, tidal creeks, sounds, and coastal rivers, creating one of the most extensive and accessible inshore saltwater fishing corridors on the Atlantic coast.\n\nFishing the ICW in North Carolina is incredibly productive thanks to the constant tidal flow, diverse structure, and abundant marine habitat along its route. Red drum, flounder, and speckled trout are the marquee species, found around dock pilings, bridge fenders, oyster bars, and marsh grass edges throughout the waterway. Spot and croaker provide reliable bottom-fishing action, especially in summer, while sheepshead congregate around any hard structure. The waterway's connection to multiple ocean inlets — including Masonboro, Carolina Beach, New Topsail, and Beaufort — ensures a constant influx of saltwater gamefish.\n\nThe ICW passes through or near many of North Carolina's most popular coastal communities, including Wrightsville Beach, Carolina Beach, Surf City, and Swansboro. Dozens of public boat ramps, marinas, and fishing piers provide access along its entire length. The waterway is heavily used by both recreational and commercial boat traffic, so anglers should stay alert to vessel traffic and observe no-wake zones. The ICW's calm, protected waters make it an ideal destination for kayak fishing, small boat anglers, and families looking for sheltered saltwater fishing close to shore.",
+    "type": "saltwater",
+    "rampCount": 0
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -E \"\\\\.\\(ts|json\\)$\")",
+      "Bash(xargs cat:*)",
+      "Bash(node -e ':*)",
+      "Bash(node -e \"const d = require\\('./src/data/michigan-lakes.json'\\); console.log\\('Total lakes:', d.length\\); d.forEach\\(l => console.log\\(l.id, '-', l.name, '- type:', l.type\\)\\)\")",
+      "Bash(mkdir:*)",
+      "Bash(npx next:*)",
+      "Bash(ls src/data/ramps.*)",
+      "Bash(cp:*)"
+    ]
+  }
+}

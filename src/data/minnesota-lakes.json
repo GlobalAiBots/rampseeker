@@ -1,0 +1,579 @@
+[
+  {
+    "id": "mille-lacs-lake",
+    "name": "Mille Lacs Lake",
+    "lat": 46.2,
+    "lng": -93.6,
+    "radius": 0.2,
+    "acres": 132516,
+    "shorelineMiles": 75,
+    "maxDepth": 42,
+    "counties": [
+      "Mille Lacs",
+      "Aitkin",
+      "Crow Wing"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Yellow Perch",
+      "Northern Pike",
+      "Smallmouth Bass",
+      "Musky",
+      "Tullibee"
+    ],
+    "nearestTowns": [
+      "Garrison",
+      "Isle",
+      "Onamia",
+      "Wahkon"
+    ],
+    "description": "Mille Lacs Lake is Minnesota's premier walleye factory and one of the top walleye fishing destinations in the world. Spanning over 132,000 acres in central Minnesota, this massive body of water consistently produces trophy-class walleye that draw anglers from across the country. The lake's gravel reefs, mud flats, and rock bars create ideal walleye habitat, and its fertile waters support an incredible forage base of tullibee and yellow perch.\n\nBeyond walleye, Mille Lacs offers outstanding fishing for northern pike, smallmouth bass, and musky. The lake is well-known for its prolific yellow perch population, making it a favorite for ice fishing during Minnesota's long winters. Launch ramps and full-service marinas are located in communities around the lake, and a thriving guide service industry helps visiting anglers find fish year-round.\n\nThe towns of Garrison, Isle, Onamia, and Wahkon ring the shoreline and provide lodging, bait shops, restaurants, and other amenities. Mille Lacs is easily accessible from the Twin Cities via US Highway 169, making it one of the most-visited fishing lakes in the state.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-vermilion",
+    "name": "Lake Vermilion",
+    "lat": 47.85,
+    "lng": -92.3,
+    "radius": 0.15,
+    "acres": 39000,
+    "shorelineMiles": 290,
+    "maxDepth": 76,
+    "counties": [
+      "St. Louis"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Northern Pike",
+      "Musky",
+      "Smallmouth Bass",
+      "Crappie",
+      "Bluegill"
+    ],
+    "nearestTowns": [
+      "Tower",
+      "Cook",
+      "Soudan"
+    ],
+    "description": "Lake Vermilion is one of Minnesota's most scenic and productive fishing lakes, located in the heart of the Iron Range in St. Louis County. With over 39,000 acres of water and more than 365 islands, Vermilion offers an almost endless variety of structure and habitat for fish. The lake's 290 miles of shoreline — more than many lakes ten times its size — create countless bays, points, and channels that hold walleye, northern pike, musky, and smallmouth bass.\n\nThe clear waters of Lake Vermilion support excellent populations of walleye and musky, and the lake has produced numerous trophy-sized fish over the years. Smallmouth bass fishing is outstanding around the lake's rocky islands and shorelines, while crappie and bluegill provide fast action in sheltered bays. Ice fishing is extremely popular, with walleye and crappie being the primary winter targets.\n\nThe communities of Tower, Cook, and Soudan serve as base camps for anglers exploring Vermilion. The lake sits adjacent to Lake Vermilion-Soudan Underground Mine State Park and is a short drive from the Boundary Waters Canoe Area Wilderness, making it a top destination for outdoor recreation in northern Minnesota.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "leech-lake",
+    "name": "Leech Lake",
+    "lat": 47.15,
+    "lng": -94.4,
+    "radius": 0.15,
+    "acres": 111527,
+    "shorelineMiles": 160,
+    "maxDepth": 156,
+    "counties": [
+      "Cass"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Musky",
+      "Northern Pike",
+      "Yellow Perch",
+      "Largemouth Bass",
+      "Crappie",
+      "Bluegill"
+    ],
+    "nearestTowns": [
+      "Walker",
+      "Federal Dam",
+      "Whipholt"
+    ],
+    "description": "Leech Lake is the third largest lake in Minnesota, covering over 111,000 acres in Cass County. This legendary fishing destination is renowned for its world-class walleye and musky fishing. The lake's diverse structure — from shallow weed-covered bays to deep rock reefs dropping to 156 feet — supports a remarkable fishery that attracts anglers from across the Midwest.\n\nWalleye are the main draw at Leech Lake, with fish commonly caught in the 2- to 5-pound range and true trophies exceeding 10 pounds taken each season. The lake is also one of the top musky waters in the state, producing fish over 50 inches regularly. Northern pike, yellow perch, crappie, bluegill, and largemouth bass round out the diverse species list and provide excellent action throughout the open water season and into the ice fishing months.\n\nThe charming town of Walker sits on the western shore and serves as the hub for fishing activity on the lake. Walker hosts the International Eelpout Festival each winter and offers full marina services, bait shops, lodging, and restaurants. Federal Dam and Whipholt provide additional access points along the southern and eastern shores.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-winnibigoshish",
+    "name": "Lake Winnibigoshish",
+    "lat": 47.45,
+    "lng": -94.05,
+    "radius": 0.12,
+    "acres": 58544,
+    "shorelineMiles": 88,
+    "maxDepth": 70,
+    "counties": [
+      "Cass",
+      "Itasca"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Northern Pike",
+      "Yellow Perch",
+      "Crappie",
+      "Jumbo Perch"
+    ],
+    "nearestTowns": [
+      "Bena",
+      "Deer River"
+    ],
+    "description": "Lake Winnibigoshish — affectionately known as Big Winnie — is one of Minnesota's top walleye and perch fishing destinations. This sprawling 58,544-acre lake sits along the Cass and Itasca county line in north-central Minnesota, fed by the Mississippi River as it winds through the Chippewa National Forest. The lake's vast sand and gravel flats provide prime walleye spawning and feeding habitat.\n\nBig Winnie is famous for its jumbo perch fishing, with yellow perch regularly reaching 10 to 14 inches. Walleye are abundant and commonly caught on the lake's many reefs and shoreline breaks. Northern pike and crappie add variety to the catch, and ice fishing on Winnibigoshish is a Minnesota tradition — the lake's expansive frozen surface hosts thousands of fish houses each winter.\n\nThe small community of Bena sits on the south shore and provides essential services for anglers, while Deer River is the nearest full-service town. Multiple resorts and campgrounds line the shoreline, offering cabin rentals, boat launches, and guide services.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "cass-lake",
+    "name": "Cass Lake",
+    "lat": 47.38,
+    "lng": -94.6,
+    "radius": 0.08,
+    "acres": 15596,
+    "shorelineMiles": 48,
+    "maxDepth": 115,
+    "counties": [
+      "Cass",
+      "Beltrami"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Northern Pike",
+      "Yellow Perch",
+      "Largemouth Bass",
+      "Crappie",
+      "Tulibee"
+    ],
+    "nearestTowns": [
+      "Cass Lake",
+      "Bemidji"
+    ],
+    "description": "Cass Lake is a unique Minnesota fishing destination best known for containing Star Island, which itself contains a small lake — making it one of the few lakes within an island within a lake in the world. Covering 15,596 acres on the Cass-Beltrami county line, Cass Lake is part of the Mississippi River chain of lakes and offers diverse fishing opportunities with depths reaching 115 feet.\n\nWalleye fishing is the primary attraction, with the lake producing consistent catches from spring through fall. Northern pike reach impressive sizes in Cass Lake's fertile waters, and yellow perch provide reliable action for families and ice anglers alike. Largemouth bass inhabit the weedy bays, while crappie and tulibee round out the available species.\n\nThe town of Cass Lake sits on the south shore and provides boat launches, bait shops, lodging, and dining. Bemidji, home of Paul Bunyan and Babe the Blue Ox, is a short drive north and offers additional amenities. The Chippewa National Forest surrounds much of the lake, adding to its natural beauty and providing excellent camping and hiking options.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-of-the-woods",
+    "name": "Lake of the Woods",
+    "lat": 49.0,
+    "lng": -94.8,
+    "radius": 0.5,
+    "acres": 950400,
+    "shorelineMiles": 65000,
+    "maxDepth": 210,
+    "counties": [
+      "Lake of the Woods",
+      "Roseau"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Sauger",
+      "Northern Pike",
+      "Musky",
+      "Smallmouth Bass",
+      "Lake Sturgeon",
+      "Crappie"
+    ],
+    "nearestTowns": [
+      "Baudette",
+      "Warroad",
+      "Angle Inlet"
+    ],
+    "description": "Lake of the Woods is one of the largest freshwater lakes in North America, straddling the US-Canada border with nearly a million acres of water and an astonishing 14,552 islands. The Minnesota portion of this massive lake is world-renowned for its walleye and sauger fishing, drawing anglers year-round to what many consider the walleye capital of the world. The lake's enormous size and diverse structure — from shallow southern bays to the deep northern basin — support staggering fish populations.\n\nWalleye and sauger are the headline species, with daily limits commonly reached and fish averaging 15 to 22 inches. Northern pike and musky offer trophy-hunting opportunities, while smallmouth bass fishing around the lake's thousands of islands is exceptional. Lake of the Woods is also home to a recovering population of lake sturgeon, one of Minnesota's most ancient and impressive fish species. Ice fishing season transforms the lake into a small city of fish houses, with guided trips available from Baudette, Warroad, and the remote Northwest Angle.\n\nAngle Inlet, accessible only through Canada or by boat and ice road, is the northernmost point in the contiguous United States. Baudette and Warroad serve as the primary gateway communities, offering full-service marinas, bait and tackle shops, lodging, and charter operations.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "upper-red-lake",
+    "name": "Upper Red Lake",
+    "lat": 48.05,
+    "lng": -94.7,
+    "radius": 0.2,
+    "acres": 107800,
+    "shorelineMiles": 59,
+    "maxDepth": 15,
+    "counties": [
+      "Beltrami",
+      "Clearwater"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Northern Pike",
+      "Yellow Perch",
+      "Crappie"
+    ],
+    "nearestTowns": [
+      "Waskish",
+      "Kelliher"
+    ],
+    "description": "Upper Red Lake is the largest natural lake located entirely within the state of Minnesota, encompassing over 107,000 acres in Beltrami and Clearwater counties. This vast, shallow lake — with a maximum depth of just 15 feet — is one of the most productive walleye fisheries in North America. The lake's warm, nutrient-rich waters grow walleye quickly, and the population is carefully managed to ensure sustainable harvests for generations of anglers.\n\nWalleye fishing is the primary reason anglers visit Upper Red Lake, and the lake consistently delivers. Ice fishing is particularly popular, with the shallow water allowing walleye to be caught throughout the lake during winter. Northern pike, yellow perch, and crappie provide additional targets, though walleye are the overwhelming focus. The lake's open-water expanse can produce dangerous waves during strong winds, so boaters should exercise caution.\n\nThe small town of Waskish on the eastern shore serves as the main access point, with boat launches, bait shops, and basic services. Kelliher provides additional amenities to the south. Upper Red Lake connects to Lower Red Lake, though the two are managed as separate fisheries.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lower-red-lake",
+    "name": "Lower Red Lake",
+    "lat": 47.85,
+    "lng": -94.95,
+    "radius": 0.15,
+    "acres": 84800,
+    "shorelineMiles": 52,
+    "maxDepth": 33,
+    "counties": [
+      "Beltrami"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Northern Pike",
+      "Yellow Perch"
+    ],
+    "nearestTowns": [
+      "Redby",
+      "Ponemah"
+    ],
+    "description": "Lower Red Lake is a massive 84,800-acre lake in Beltrami County that is part of the Red Lake Indian Reservation, managed by the Red Lake Band of Chippewa Indians. Unlike most Minnesota lakes, fishing access on Lower Red Lake is restricted, and anglers must obtain permission and follow tribal regulations to fish its waters. The lake's managed access has helped maintain one of the healthiest walleye populations in the state.\n\nWalleye are the primary game fish in Lower Red Lake, supported by the lake's productive shallow waters reaching a maximum depth of 33 feet. Northern pike and yellow perch are also present in good numbers. The tribal management approach has been credited with maintaining excellent fish populations by controlling harvest levels and protecting spawning areas.\n\nThe communities of Redby and Ponemah are located along the lake's shores within the Red Lake Indian Reservation. Anglers interested in fishing Lower Red Lake should contact the Red Lake Band of Chippewa Indians for current regulations, permits, and access information before planning a trip.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "gull-lake",
+    "name": "Gull Lake",
+    "lat": 46.4,
+    "lng": -94.35,
+    "radius": 0.06,
+    "acres": 9947,
+    "shorelineMiles": 28,
+    "maxDepth": 82,
+    "counties": [
+      "Cass",
+      "Crow Wing"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Northern Pike",
+      "Largemouth Bass",
+      "Smallmouth Bass",
+      "Crappie",
+      "Bluegill"
+    ],
+    "nearestTowns": [
+      "Brainerd",
+      "Nisswa",
+      "Baxter"
+    ],
+    "description": "Gull Lake sits at the heart of the Brainerd Lakes Area, one of Minnesota's most popular vacation and fishing regions. This nearly 10,000-acre lake in Cass and Crow Wing counties offers excellent fishing for walleye, bass, and panfish, with depths reaching 82 feet. Crystal-clear water, sandy beaches, and beautiful shoreline homes make Gull Lake a premier destination for both serious anglers and families.\n\nWalleye and northern pike provide the most consistent action, with fish holding on the lake's many reefs, points, and drop-offs. Both largemouth and smallmouth bass thrive in Gull Lake's clear waters, making it a favorite for bass tournament anglers. Crappie and bluegill offer excellent panfishing, especially in spring and early summer.\n\nBrainerd and Baxter provide all the amenities anglers need, including bait shops, boat rentals, lodging, and dining. The charming town of Nisswa, known for its shops and turtle races, is located just north of the lake. The Brainerd Lakes Area draws hundreds of thousands of visitors each year, and Gull Lake is one of its crown jewels.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-minnetonka",
+    "name": "Lake Minnetonka",
+    "lat": 44.93,
+    "lng": -93.6,
+    "radius": 0.08,
+    "acres": 14528,
+    "shorelineMiles": 125,
+    "maxDepth": 113,
+    "counties": [
+      "Hennepin",
+      "Carver"
+    ],
+    "fishSpecies": [
+      "Musky",
+      "Walleye",
+      "Largemouth Bass",
+      "Smallmouth Bass",
+      "Northern Pike",
+      "Crappie",
+      "Sunfish"
+    ],
+    "nearestTowns": [
+      "Wayzata",
+      "Excelsior",
+      "Mound",
+      "Tonka Bay"
+    ],
+    "description": "Lake Minnetonka is the most popular lake in the Twin Cities metro area and one of the most recognizable lakes in Minnesota. Spanning 14,528 acres across Hennepin and Carver counties, this sprawling lake features 125 miles of shoreline, numerous bays, and over a dozen named sub-lakes connected by channels. With depths reaching 113 feet, Minnetonka supports a diverse fishery that includes musky, walleye, bass, and panfish.\n\nMusky fishing has become the signature pursuit on Lake Minnetonka, with the lake producing trophy fish over 50 inches each season. Walleye, largemouth bass, and smallmouth bass provide year-round angling opportunities, while crappie and sunfish offer excellent panfishing action in the lake's many protected bays. Despite heavy recreational boat traffic during summer, knowledgeable anglers find productive fishing throughout the season.\n\nThe communities of Wayzata, Excelsior, Mound, and Tonka Bay line the shores and offer dining, shopping, and entertainment. Lake Minnetonka is just 15 miles west of downtown Minneapolis, making it easily accessible for day trips and after-work fishing outings. Public boat launches provide access to the lake's vast network of bays and channels.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-pepin",
+    "name": "Lake Pepin",
+    "lat": 44.45,
+    "lng": -92.2,
+    "radius": 0.1,
+    "acres": 29400,
+    "shorelineMiles": 50,
+    "maxDepth": 60,
+    "counties": [
+      "Wabasha",
+      "Goodhue"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Sauger",
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Channel Catfish",
+      "Freshwater Drum"
+    ],
+    "nearestTowns": [
+      "Lake City",
+      "Red Wing",
+      "Wabasha",
+      "Pepin"
+    ],
+    "description": "Lake Pepin is a natural widening of the Mississippi River, stretching approximately 22 miles through the scenic bluff country of southeastern Minnesota and western Wisconsin. This 29,400-acre lake sits in Wabasha and Goodhue counties and offers a unique river-lake fishing experience with excellent populations of walleye, sauger, smallmouth bass, and channel catfish. The lake is also credited as the birthplace of waterskiing, invented here in 1922.\n\nWalleye and sauger fishing is outstanding on Lake Pepin, particularly during spring and fall when fish concentrate near current breaks and wing dams. Smallmouth bass thrive along the rocky shorelines and bluff bases, while largemouth bass hold in the quieter backwater areas. Channel catfish and freshwater drum provide additional action, especially during the warm summer months.\n\nLake City, on the Minnesota shore, is the primary fishing hub with excellent boat launches, marinas, and services. Red Wing and Wabasha offer additional access and amenities. The lake's dramatic bluff scenery makes it one of the most beautiful fishing destinations in the Upper Midwest, and the Great River Road provides stunning views along both shorelines.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "rainy-lake",
+    "name": "Rainy Lake",
+    "lat": 48.55,
+    "lng": -93.3,
+    "radius": 0.3,
+    "acres": 227100,
+    "shorelineMiles": 2000,
+    "maxDepth": 161,
+    "counties": [
+      "St. Louis",
+      "Koochiching"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Smallmouth Bass",
+      "Northern Pike",
+      "Crappie",
+      "Sauger",
+      "Black Crappie"
+    ],
+    "nearestTowns": [
+      "International Falls",
+      "Ranier"
+    ],
+    "description": "Rainy Lake is a massive border water spanning over 227,000 acres between Minnesota and Ontario, Canada. Located within Voyageurs National Park, this wilderness lake features more than 2,000 miles of shoreline and countless islands, bays, and channels. The lake's pristine waters support world-class fishing for walleye, smallmouth bass, northern pike, and crappie in a setting of unmatched natural beauty.\n\nWalleye fishing on Rainy Lake is exceptional, with fish holding on the lake's numerous reefs, rock points, and sandy shorelines. Smallmouth bass reach impressive sizes in the clear, rocky waters, and northern pike lurk in the weedy bays and river mouths. Crappie and sauger add variety, with black crappie fishing particularly strong in spring. The lake's vast size means anglers can find solitude even during peak season.\n\nInternational Falls, known as the Icebox of the Nation, serves as the gateway to Rainy Lake and provides full services for visiting anglers. The small community of Ranier sits directly on the lake and offers marina access and boat launches. Voyageurs National Park protects much of the surrounding shoreline, and houseboating is a popular way to explore the lake's remote reaches.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "kabetogama-lake",
+    "name": "Kabetogama Lake",
+    "lat": 48.45,
+    "lng": -93.0,
+    "radius": 0.1,
+    "acres": 25760,
+    "shorelineMiles": 80,
+    "maxDepth": 80,
+    "counties": [
+      "St. Louis"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Northern Pike",
+      "Smallmouth Bass",
+      "Crappie",
+      "Yellow Perch",
+      "Sauger"
+    ],
+    "nearestTowns": [
+      "Kabetogama",
+      "Ray"
+    ],
+    "description": "Kabetogama Lake is a stunning 25,760-acre lake located within Voyageurs National Park in St. Louis County. Part of the interconnected chain of border lakes, Kabetogama offers outstanding fishing in a true wilderness setting. The lake's 80 miles of shoreline, numerous islands, and depths reaching 80 feet create diverse habitat that supports healthy populations of walleye, northern pike, smallmouth bass, and panfish.\n\nWalleye are the most sought-after species on Kabetogama, with excellent catches throughout the open water season. Northern pike reach trophy sizes in the lake's weedy bays, and smallmouth bass provide thrilling action around rocky shorelines and island points. Crappie, yellow perch, and sauger round out the available species. The lake's location within the national park ensures clean water and minimal development.\n\nThe small resort community of Kabetogama lines the southern shore and provides boat launches, bait shops, cabin rentals, and guide services. Ray is the nearest town with additional amenities. Kabetogama Lake is a popular starting point for exploring Voyageurs National Park by boat, with access to the Kabetogama Peninsula and connecting waterways.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "crane-lake",
+    "name": "Crane Lake",
+    "lat": 48.27,
+    "lng": -92.5,
+    "radius": 0.05,
+    "acres": 3100,
+    "shorelineMiles": 20,
+    "maxDepth": 75,
+    "counties": [
+      "St. Louis"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Northern Pike",
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Crappie",
+      "Bluegill"
+    ],
+    "nearestTowns": [
+      "Crane Lake"
+    ],
+    "description": "Crane Lake is the gateway to the Boundary Waters Canoe Area Wilderness and Voyageurs National Park, sitting at the eastern edge of the park in St. Louis County. This 3,100-acre lake serves as a launching point for wilderness fishing adventures while offering excellent fishing in its own right. With depths reaching 75 feet and 20 miles of shoreline, Crane Lake supports healthy populations of walleye, northern pike, bass, and panfish.\n\nWalleye and smallmouth bass are the primary targets on Crane Lake, with fish holding on rocky structure and submerged reefs. Northern pike patrol the weedy shallows, while largemouth bass, crappie, and bluegill provide additional variety. The lake connects to the vast border water system, allowing anglers to venture into Voyageurs National Park and beyond for truly remote fishing experiences.\n\nThe community of Crane Lake is a small, tight-knit resort town that caters to outdoor enthusiasts. Resorts, outfitters, and guide services are available to help anglers and canoeists explore the surrounding wilderness. Crane Lake is one of the most remote fishing destinations accessible by road in Minnesota, offering a genuine northwoods experience.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "pokegama-lake",
+    "name": "Pokegama Lake",
+    "lat": 47.23,
+    "lng": -93.55,
+    "radius": 0.06,
+    "acres": 6622,
+    "shorelineMiles": 38,
+    "maxDepth": 62,
+    "counties": [
+      "Itasca"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Northern Pike",
+      "Musky",
+      "Largemouth Bass",
+      "Crappie",
+      "Bluegill"
+    ],
+    "nearestTowns": [
+      "Grand Rapids"
+    ],
+    "description": "Pokegama Lake is a 6,622-acre gem located adjacent to the city of Grand Rapids in Itasca County. Part of the Mississippi River chain of lakes, Pokegama offers diverse fishing for walleye, northern pike, musky, bass, and panfish. The lake's 38 miles of shoreline feature a mix of sand, rock, and weedy areas that support a wide variety of fish species, with depths reaching 62 feet.\n\nWalleye and northern pike are the most popular targets on Pokegama, but the lake's musky population draws dedicated trophy hunters as well. Largemouth bass thrive in the protected bays and weed beds, while crappie and bluegill provide outstanding panfishing. The lake is also a productive ice fishing destination, with walleye and crappie being the primary winter species.\n\nGrand Rapids, the birthplace of Judy Garland, sits on the lake's northern shore and provides all necessary services for anglers, including boat launches, marinas, bait shops, lodging, and restaurants. The lake's convenient location along US Highway 2 makes it an easy stop for anglers traveling through northern Minnesota.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "otter-tail-lake",
+    "name": "Otter Tail Lake",
+    "lat": 46.38,
+    "lng": -95.57,
+    "radius": 0.06,
+    "acres": 13725,
+    "shorelineMiles": 38,
+    "maxDepth": 110,
+    "counties": [
+      "Otter Tail"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Northern Pike",
+      "Largemouth Bass",
+      "Smallmouth Bass",
+      "Crappie",
+      "Sunfish",
+      "Yellow Perch"
+    ],
+    "nearestTowns": [
+      "Ottertail",
+      "Battle Lake",
+      "Perham"
+    ],
+    "description": "Otter Tail Lake is the largest lake in Otter Tail County, a region that boasts over 1,000 lakes and is one of Minnesota's most popular fishing and vacation areas. Covering 13,725 acres with depths reaching 110 feet, this crystal-clear lake supports excellent fishing for walleye, bass, northern pike, and panfish. The lake's deep, clean water and diverse structure make it one of the best multi-species fisheries in western Minnesota.\n\nWalleye are the top target on Otter Tail Lake, with fish holding on the lake's numerous reefs, sunken islands, and shoreline breaks. Both largemouth and smallmouth bass provide excellent sport, particularly around rocky points and weed edges. Northern pike, crappie, sunfish, and yellow perch add variety and keep the action steady throughout the open water and ice fishing seasons.\n\nThe towns of Ottertail, Battle Lake, and Perham surround the lake and offer lodging, dining, boat launches, and guide services. The Otter Tail Lakes region is a beloved Minnesota vacation destination, with hundreds of resorts and campgrounds catering to families and anglers. Otter Tail Lake's combination of size, depth, and water clarity makes it a standout among the county's thousand-plus lakes.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "detroit-lake",
+    "name": "Detroit Lake",
+    "lat": 46.82,
+    "lng": -95.85,
+    "radius": 0.05,
+    "acres": 3580,
+    "shorelineMiles": 16,
+    "maxDepth": 86,
+    "counties": [
+      "Becker"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Northern Pike",
+      "Largemouth Bass",
+      "Crappie",
+      "Bluegill",
+      "Yellow Perch"
+    ],
+    "nearestTowns": [
+      "Detroit Lakes"
+    ],
+    "description": "Detroit Lake is a popular 3,580-acre fishing and recreation lake located in Becker County, adjacent to the resort town of Detroit Lakes. With depths reaching 86 feet and 16 miles of shoreline, the lake offers quality fishing for walleye, northern pike, bass, and panfish. The clear water and sandy beaches make Detroit Lake a favorite family vacation destination in the heart of lake country.\n\nWalleye are the most sought-after species, with fish holding on mid-lake reefs and along deep weed lines. Northern pike provide consistent action in the shallower, weedier areas, while largemouth bass and crappie are abundant in the protected bays. Bluegill and yellow perch offer excellent panfishing opportunities, making Detroit Lake a great choice for anglers of all skill levels.\n\nDetroit Lakes is a vibrant resort community that hosts numerous events throughout the summer, including the popular WE Fest country music festival. The town offers full services for visiting anglers, including boat launches, marinas, bait shops, lodging, and restaurants. Detroit Lake's location along US Highway 10 makes it easily accessible from Fargo-Moorhead and the Twin Cities.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-osakis",
+    "name": "Lake Osakis",
+    "lat": 45.86,
+    "lng": -94.72,
+    "radius": 0.05,
+    "acres": 6463,
+    "shorelineMiles": 20,
+    "maxDepth": 50,
+    "counties": [
+      "Todd",
+      "Douglas"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Northern Pike",
+      "Largemouth Bass",
+      "Crappie",
+      "Bluegill",
+      "Yellow Perch"
+    ],
+    "nearestTowns": [
+      "Osakis"
+    ],
+    "description": "Lake Osakis is a productive 6,463-acre fishing lake straddling the Todd and Douglas county line in central Minnesota. With a maximum depth of 50 feet and 20 miles of shoreline, the lake supports strong populations of walleye, northern pike, bass, and panfish. Lake Osakis has long been a favorite among Minnesota anglers for its consistent walleye fishing and the welcoming small-town atmosphere of its namesake community.\n\nWalleye are the primary draw, with fish commonly caught trolling crankbaits or jigging along the lake's sand and gravel structure. Northern pike provide exciting action in the weedier areas, while largemouth bass hold in protected bays and along weed lines. Crappie, bluegill, and yellow perch round out the species list and provide excellent panfishing throughout the season.\n\nThe town of Osakis sits on the eastern shore and serves as the base for fishing operations on the lake. Boat launches, bait shops, and local resorts cater to visiting anglers. Lake Osakis is conveniently located along Interstate 94, making it an easy destination for anglers from the Twin Cities and St. Cloud.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "big-stone-lake",
+    "name": "Big Stone Lake",
+    "lat": 45.3,
+    "lng": -96.45,
+    "radius": 0.1,
+    "acres": 12610,
+    "shorelineMiles": 55,
+    "maxDepth": 16,
+    "counties": [
+      "Big Stone",
+      "Lac Qui Parle"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Northern Pike",
+      "Yellow Perch",
+      "Channel Catfish",
+      "Freshwater Drum"
+    ],
+    "nearestTowns": [
+      "Ortonville",
+      "Big Stone City"
+    ],
+    "description": "Big Stone Lake is a 12,610-acre border lake shared by Minnesota and South Dakota, stretching 26 miles along the state line in Big Stone and Lac Qui Parle counties. This long, narrow lake is the source of the Minnesota River and sits at the head of the Minnesota River Valley. With a maximum depth of just 16 feet, Big Stone Lake is a shallow, wind-swept body of water that produces excellent fishing for walleye, northern pike, and yellow perch.\n\nWalleye are the top target, with fish feeding actively across the lake's expansive flats and along the weed lines. Northern pike reach impressive sizes in the lake's fertile waters, and yellow perch provide fast action, particularly during fall and winter. Channel catfish and freshwater drum add diversity to the catch. Ice fishing is popular, with walleye and perch being the primary winter species.\n\nOrtonville, Minnesota, and Big Stone City, South Dakota, are the primary gateway communities, sitting at the southern end of the lake. Boat launches are available on both the Minnesota and South Dakota sides. Big Stone Lake is also home to Big Stone National Wildlife Refuge, making it a destination for birders and nature enthusiasts as well as anglers.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lac-qui-parle",
+    "name": "Lac Qui Parle",
+    "lat": 45.0,
+    "lng": -96.15,
+    "radius": 0.06,
+    "acres": 3100,
+    "shorelineMiles": 12,
+    "maxDepth": 8,
+    "counties": [
+      "Lac Qui Parle",
+      "Chippewa"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Northern Pike",
+      "Channel Catfish",
+      "Crappie",
+      "Bullhead"
+    ],
+    "nearestTowns": [
+      "Milan",
+      "Dawson",
+      "Montevideo"
+    ],
+    "description": "Lac Qui Parle is a 3,100-acre dam-created reservoir on the Minnesota River in Lac Qui Parle and Chippewa counties. The name, which translates from Dakota Sioux as \"the lake that speaks,\" refers to the echoing sounds that carry across its waters. This shallow reservoir — with a maximum depth of only 8 feet — is a productive fishery for walleye, northern pike, channel catfish, crappie, and bullhead.\n\nWalleye fishing can be excellent on Lac Qui Parle, particularly during spring and fall when fish move through the shallow water. Northern pike thrive in the reservoir's weedy habitat, and channel catfish grow to impressive sizes in the warm, nutrient-rich water. Crappie and bullhead round out the fishing opportunities. The lake's shallow nature means it warms quickly in spring, often providing some of the earliest open-water fishing in the region.\n\nThe towns of Milan, Dawson, and Montevideo are the nearest communities, providing basic services for visiting anglers. Lac Qui Parle State Park and the Lac Qui Parle Wildlife Management Area surround much of the reservoir, offering outstanding bird watching — especially during spring and fall waterfowl migrations — along with camping, hiking, and hunting opportunities.",
+    "type": "freshwater",
+    "rampCount": 0
+  }
+]

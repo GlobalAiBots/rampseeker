@@ -9,6 +9,9 @@ import { missouriLakes } from "@/data/missouri-lakes";
 import { arkansasLakes } from "@/data/arkansas-lakes";
 import { kansasLakes } from "@/data/kansas-lakes";
 import { floridaLakes } from "@/data/florida-lakes";
+import { michiganLakes } from "@/data/michigan-lakes";
+import { minnesotaLakes } from "@/data/minnesota-lakes";
+import { northCarolinaLakes } from "@/data/north-carolina-lakes";
 import AdSlot from "@/components/AdSlot";
 import CletusAd from "@/components/CletusAd";
 import EmailCapture from "@/components/EmailCapture";
@@ -27,6 +30,9 @@ export default function Home() {
   const arCount = useMemo(() => unified.filter((r) => r.state === "AR").length, []);
   const ksCount = useMemo(() => unified.filter((r) => r.state === "KS").length, []);
   const flCount = useMemo(() => unified.filter((r) => r.state === "FL").length, []);
+  const miCount = useMemo(() => unified.filter((r) => r.state === "MI").length, []);
+  const mnCount = useMemo(() => unified.filter((r) => r.state === "MN").length, []);
+  const ncCount = useMemo(() => unified.filter((r) => r.state === "NC").length, []);
 
   // Search suggestions
   const suggestions = useMemo(() => {
@@ -40,6 +46,18 @@ export default function Home() {
     if ("arkansas".includes(q)) results.push({ type: "State", label: "Arkansas", href: "/arkansas" });
     if ("kansas".includes(q)) results.push({ type: "State", label: "Kansas", href: "/kansas" });
     if ("florida".includes(q)) results.push({ type: "State", label: "Florida", href: "/florida" });
+    if ("michigan".includes(q)) results.push({ type: "State", label: "Michigan", href: "/michigan" });
+    if ("minnesota".includes(q)) results.push({ type: "State", label: "Minnesota", href: "/minnesota" });
+    if ("north carolina".includes(q)) results.push({ type: "State", label: "North Carolina", href: "/north-carolina" });
+    michiganLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
+      results.push({ type: "Lake", label: `${l.name} (MI)`, href: `/michigan/lakes/${l.id}` });
+    });
+    minnesotaLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
+      results.push({ type: "Lake", label: `${l.name} (MN)`, href: `/minnesota/lakes/${l.id}` });
+    });
+    northCarolinaLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
+      results.push({ type: "Lake", label: `${l.name} (NC)`, href: `/north-carolina/lakes/${l.id}` });
+    });
     floridaLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
       results.push({ type: "Lake", label: `${l.name} (FL)`, href: `/florida/lakes/${l.id}` });
     });
@@ -117,6 +135,9 @@ export default function Home() {
           <Link href="/arkansas" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#8B5E3C" }}>Arkansas ({arCount})</Link>
           <Link href="/kansas" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#B8860B" }}>Kansas ({ksCount})</Link>
           <Link href="/florida" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#0077B6" }}>Florida ({flCount})</Link>
+          <Link href="/michigan" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#003366" }}>Michigan ({miCount})</Link>
+          <Link href="/minnesota" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#003865" }}>Minnesota ({mnCount})</Link>
+          <Link href="/north-carolina" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#4B0082" }}>N. Carolina ({ncCount})</Link>
           <span className="text-gray-400 font-medium px-5 py-2.5 text-sm">More states coming</span>
         </div>
       </section>
@@ -149,6 +170,9 @@ export default function Home() {
             { name: "Arkansas", href: "/arkansas", count: arCount, suffix: "", lakes: `Beaver Lake, Bull Shoals, Greers Ferry, Ouachita, and ${arkansasLakes.length - 4}+ more` },
             { name: "Kansas", href: "/kansas", count: ksCount, suffix: "", lakes: `Milford, Tuttle Creek, Clinton, Perry, Cheney, and ${kansasLakes.length - 5}+ more` },
             { name: "Florida", href: "/florida", count: flCount, suffix: "", lakes: `Tampa Bay, Lake Okeechobee, Biscayne Bay, Indian River, and ${floridaLakes.length - 4}+ more` },
+            { name: "Michigan", href: "/michigan", count: miCount, suffix: "", lakes: `Lake Michigan, Lake Huron, Torch Lake, Houghton Lake, and ${michiganLakes.length - 4}+ more` },
+            { name: "Minnesota", href: "/minnesota", count: mnCount, suffix: "", lakes: `Mille Lacs, Lake Vermilion, Leech Lake, Minnetonka, and ${minnesotaLakes.length - 4}+ more` },
+            { name: "North Carolina", href: "/north-carolina", count: ncCount, suffix: "", lakes: `Lake Norman, Jordan Lake, Pamlico Sound, Falls Lake, and ${northCarolinaLakes.length - 4}+ more` },
           ].map((s) => (
             <Link key={s.name} href={s.href} className="group bg-white border border-gray-200 rounded-xl p-6 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all border-l-4 border-l-water">
               <div className="flex items-start justify-between mb-2">
@@ -166,9 +190,6 @@ export default function Home() {
           <p className="font-[Cabin] font-bold text-charcoal text-sm mb-3">Coming Soon</p>
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-2">
             {[
-              { state: "Michigan", count: 3411 },
-              { state: "Minnesota", count: 1729 },
-              { state: "North Carolina", count: 1573 },
               { state: "New York", count: 1564 },
               { state: "Illinois", count: 1451 },
               { state: "Washington", count: 1352 },
