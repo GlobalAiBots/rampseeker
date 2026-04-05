@@ -1,0 +1,5642 @@
+[
+  {
+    "place_id": "osm_31405572",
+    "name": "Echo Lake Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.1729335,
+    "longitude": -71.6914438,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_41315143",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 42.9557478,
+    "longitude": -71.897294,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_41416296",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 42.9962334,
+    "longitude": -72.0465794,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_41805418",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0186724,
+    "longitude": -72.0204856,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_87509972",
+    "name": "Everett Arena Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.2096002,
+    "longitude": -71.5287135,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_194283992",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.5803752,
+    "longitude": -71.3923277,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_194379704",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.5831957,
+    "longitude": -71.2152026,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_194499217",
+    "name": "Lakefront Landing Marina Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.7856266,
+    "longitude": -71.1097571,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_194573543",
+    "name": "Cedar Pond Boat Access",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.5958414,
+    "longitude": -71.2692766,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_194635804",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.0989253,
+    "longitude": -71.9678856,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_194657677",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.648359,
+    "longitude": -72.1812184,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_194665093",
+    "name": "Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.6656887,
+    "longitude": -72.0415461,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_194667455",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.2651526,
+    "longitude": -71.9077455,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_194714392",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.6339598,
+    "longitude": -71.249464,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_194730288",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.8299159,
+    "longitude": -72.1459135,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_194734852",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.384622,
+    "longitude": -71.606235,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_194756435",
+    "name": "Crystal Lake Boat Access",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.5935943,
+    "longitude": -72.0926299,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_194794103",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.7134514,
+    "longitude": -71.8335469,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_194958201",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 42.9103522,
+    "longitude": -70.8254296,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_195198376",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.4107454,
+    "longitude": -72.1108593,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_204721668",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.9585798,
+    "longitude": -72.1221507,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_412645266",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.2742653,
+    "longitude": -71.9754833,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_579832409",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.908672,
+    "longitude": -71.235262,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_586171086",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 42.9117532,
+    "longitude": -70.8512928,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_659770786",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.369912,
+    "longitude": -72.039165,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_661002686",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.606405,
+    "longitude": -72.3268315,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_662003936",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.9026593,
+    "longitude": -72.147269,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_662010259",
+    "name": "Bedell Bridge Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.04488,
+    "longitude": -72.074198,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_760485869",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.4435929,
+    "longitude": -72.4472663,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_760485879",
+    "name": "Echo Lake Charleston Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.8513776,
+    "longitude": -71.9899424,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_760485888",
+    "name": "<Different> Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.1513506,
+    "longitude": -72.0699988,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_760485890",
+    "name": "<Different> Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.71934,
+    "longitude": -72.145854,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_760485893",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.9539107,
+    "longitude": -72.2337651,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_760485896",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.3765738,
+    "longitude": -72.5005449,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_760485897",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.5666174,
+    "longitude": -72.4267916,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_760485906",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.6462188,
+    "longitude": -72.2026237,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_760485911",
+    "name": "Clyde River Charleston  Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.8274865,
+    "longitude": -71.9737809,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_760485913",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.443785,
+    "longitude": -72.3254021,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_760485932",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.7143524,
+    "longitude": -71.9223876,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_760485941",
+    "name": "<Different> Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.333568,
+    "longitude": -72.265437,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_760485956",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.0778183,
+    "longitude": -72.5881163,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_760485968",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.74194,
+    "longitude": -72.123048,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_760485971",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.8897227,
+    "longitude": -72.3099347,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_760485994",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.304208,
+    "longitude": -72.205608,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_760485997",
+    "name": "<Different> Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.446753,
+    "longitude": -72.246865,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_760485999",
+    "name": "Lake Fairlee Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.89041,
+    "longitude": -72.2268542,
+    "city": "West Fairlee",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_760486013",
+    "name": "<Different> Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.726137,
+    "longitude": -72.231358,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_760486056",
+    "name": "Keiser Pond Access Area",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.384826,
+    "longitude": -72.1707321,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_760486060",
+    "name": "Fosters Pond Access Area",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.3295156,
+    "longitude": -72.2143886,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_760486064",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.3608925,
+    "longitude": -72.1674829,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_760486071",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.2840429,
+    "longitude": -72.1393505,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_760486072",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.4550188,
+    "longitude": -72.4204635,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_761310705",
+    "name": "Big Salem Lake",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.9208088,
+    "longitude": -72.0985194,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_761310771",
+    "name": "Crystal Lake",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.71934,
+    "longitude": -72.145854,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_761310775",
+    "name": "Curtis Pond",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.3764455,
+    "longitude": -72.5009605,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_761310782",
+    "name": "Coventry Station",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.8717944,
+    "longitude": -72.1995289,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_761310950",
+    "name": "Wolcott Pond",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.5664726,
+    "longitude": -72.426969,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_761310981",
+    "name": "Wells River",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.15135,
+    "longitude": -72.070009,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_761310994",
+    "name": "Dummerston",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 42.9575102,
+    "longitude": -72.5273857,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_761311222",
+    "name": "Little Hosmer",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.6663398,
+    "longitude": -72.3761649,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_761311278",
+    "name": "Lake Parker",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.726137,
+    "longitude": -72.231358,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_761311351",
+    "name": "Long Pond Access",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.7562092,
+    "longitude": -72.0202055,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_761311357",
+    "name": "Little Salem Lake",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.919254,
+    "longitude": -72.099639,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_761311360",
+    "name": "Lyford Pond",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.4466994,
+    "longitude": -72.2467953,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_761311406",
+    "name": "Peacham Pond",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.333568,
+    "longitude": -72.265437,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_761311415",
+    "name": "Putney Landing",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 42.9618767,
+    "longitude": -72.5205503,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_790690985",
+    "name": "Green River Reservoir Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.6224354,
+    "longitude": -72.5259931,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_799298482",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 42.9048749,
+    "longitude": -71.30252,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1114799563",
+    "name": "Pierce Island Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0743172,
+    "longitude": -70.7484837,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1486102328",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.495855,
+    "longitude": -71.5938623,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1631597289",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.741208,
+    "longitude": -71.3932787,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1666430110",
+    "name": "Pickering Park Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.6048401,
+    "longitude": -71.5508546,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1764632062",
+    "name": "Holderness Landing",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.732421,
+    "longitude": -71.587633,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1914266363",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0054601,
+    "longitude": -71.4717346,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2026732234",
+    "name": "Mooney Clark Landing",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.6073211,
+    "longitude": -71.6634457,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2232765413",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.2295389,
+    "longitude": -71.5380524,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2278682489",
+    "name": "Piscassic Park Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0885289,
+    "longitude": -70.942094,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2308667289",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.6835035,
+    "longitude": -72.3623445,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2380060994",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.1105425,
+    "longitude": -71.7796328,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2732988221",
+    "name": "Pawtuckaway Lake Boat Access",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.1091073,
+    "longitude": -71.1479185,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2788806162",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.6883675,
+    "longitude": -71.3051496,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2940952975",
+    "name": "Lees Mill",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.7344294,
+    "longitude": -71.3901684,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2948783383",
+    "name": "Town Docks",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.5839581,
+    "longitude": -71.2123043,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3047095604",
+    "name": "Sunapee Harbor Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.3855357,
+    "longitude": -72.0804375,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3129575919",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.605391,
+    "longitude": -72.3651056,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3134390226",
+    "name": "Ashley Ferry Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.3584163,
+    "longitude": -72.3888667,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3134403560",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.4323914,
+    "longitude": -72.3937308,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3134403561",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.4804562,
+    "longitude": -72.3793818,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3310910994",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.1560741,
+    "longitude": -71.5508926,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3501912619",
+    "name": "Stevens Pond Park And Boat Landing",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 42.9939963,
+    "longitude": -71.4211611,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3596862104",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0951441,
+    "longitude": -70.8672677,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3597071133",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.7765534,
+    "longitude": -72.0088909,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3663054570",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.1019606,
+    "longitude": -71.6596447,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3672534861",
+    "name": "Wrightsville Reservoir Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.3231982,
+    "longitude": -72.5771612,
+    "city": "Middlesex",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3784048505",
+    "name": "Springfield Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.4900499,
+    "longitude": -72.0467356,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3987134825",
+    "name": "Perkins Landing",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.3700034,
+    "longitude": -71.8085398,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4003519092",
+    "name": "Dodge Hill Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.340341,
+    "longitude": -71.8382376,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4031609102",
+    "name": "Warren Lake Boat Access",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.1226495,
+    "longitude": -72.2961243,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4164272207",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.2109053,
+    "longitude": -72.1971738,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4164272208",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.1397463,
+    "longitude": -72.2557348,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4178840999",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.7758328,
+    "longitude": -71.2304932,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4328431900",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.2704328,
+    "longitude": -72.1746871,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4328431903",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.2702025,
+    "longitude": -72.1694726,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4340271286",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.2632979,
+    "longitude": -72.1481423,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4340271288",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.263346,
+    "longitude": -72.1482817,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4340271326",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.264195,
+    "longitude": -72.1530399,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4343699891",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.1870982,
+    "longitude": -72.233668,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4345832338",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.0231145,
+    "longitude": -72.2168626,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4346491119",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.0919154,
+    "longitude": -72.2949504,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4347480230",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.0324976,
+    "longitude": -71.9189794,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4347686136",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.19011,
+    "longitude": -72.0555379,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4347686137",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.1760806,
+    "longitude": -72.0663646,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4348833353",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.125033,
+    "longitude": -72.285876,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4352658189",
+    "name": "Snug Harbour",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.2159032,
+    "longitude": -72.1952755,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4382680933",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.1072688,
+    "longitude": -72.1821296,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4390339598",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0485106,
+    "longitude": -70.7277245,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4410385222",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.5239902,
+    "longitude": -71.4770655,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4410385778",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.551818,
+    "longitude": -71.4627074,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4644996557",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.9103696,
+    "longitude": -71.982028,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4657131001",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0779295,
+    "longitude": -70.9356238,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4690561662",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.0919801,
+    "longitude": -72.2943761,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4927692764",
+    "name": "Goose Pond Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.7164289,
+    "longitude": -72.0957052,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4938772118",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.2684727,
+    "longitude": -72.0483269,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4944202444",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.1794116,
+    "longitude": -71.544977,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4972144086",
+    "name": "Lake Willoughby Access",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.7685497,
+    "longitude": -72.0533316,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4981580836",
+    "name": "River Road Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.1663762,
+    "longitude": -71.7716032,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4985624970",
+    "name": "Canoe/Kayak Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0179613,
+    "longitude": -71.5943036,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5010126057",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 42.9049775,
+    "longitude": -72.0899148,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5010149135",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0147747,
+    "longitude": -72.1451955,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5010485498",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0808286,
+    "longitude": -70.7654643,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5049165343",
+    "name": "Canoe Kayak",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.2735361,
+    "longitude": -72.1685417,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5093478342",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.2564916,
+    "longitude": -72.4953189,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5156054439",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.1766946,
+    "longitude": -72.1602973,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5156054445",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.1839712,
+    "longitude": -72.1713052,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5310926252",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.5536676,
+    "longitude": -71.4754516,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5343987730",
+    "name": "Messer Street Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.5368593,
+    "longitude": -71.4686127,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5583231466",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.49853,
+    "longitude": -71.5185053,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5713961530",
+    "name": "Lake Francis State Park Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.0576135,
+    "longitude": -71.3028792,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5774158713",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.9615901,
+    "longitude": -71.9628065,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5777689807",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.4097441,
+    "longitude": -72.4466189,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5787947750",
+    "name": "Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0793573,
+    "longitude": -71.1501823,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5853752096",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.2640805,
+    "longitude": -72.1523329,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5941596022",
+    "name": "Candia Road Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0067088,
+    "longitude": -71.3853112,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5983794856",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.2306218,
+    "longitude": -72.5307509,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6026068698",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.0851155,
+    "longitude": -72.2069944,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6405144003",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.3916297,
+    "longitude": -72.4474783,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6417186316",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 42.9830223,
+    "longitude": -70.9486064,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6418635075",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0560949,
+    "longitude": -70.8966976,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6453472346",
+    "name": "Chapmans Landing",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0396532,
+    "longitude": -70.9275758,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6597396845",
+    "name": "Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.1929179,
+    "longitude": -71.7403622,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6743161959",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.3708231,
+    "longitude": -72.0398391,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6912981072",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.2480845,
+    "longitude": -71.2923853,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6943688616",
+    "name": "Bradford Town Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.2360282,
+    "longitude": -71.9091497,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6988836386",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.3633086,
+    "longitude": -71.6465414,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7024567063",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.6910846,
+    "longitude": -71.7714704,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7147575929",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.2227298,
+    "longitude": -71.5246875,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7155655636",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.6368465,
+    "longitude": -71.7758808,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7333711912",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.4830534,
+    "longitude": -71.3463887,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7558038199",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.3790973,
+    "longitude": -71.2470339,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7683269670",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.5135923,
+    "longitude": -72.1160855,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7726494228",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.4555713,
+    "longitude": -72.1209574,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8022222551",
+    "name": "Newfields Town Landing",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0348476,
+    "longitude": -70.9363196,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8024111829",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.8016519,
+    "longitude": -71.1624807,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8064076850",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 42.9021141,
+    "longitude": -70.8181287,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8083011875",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.7606736,
+    "longitude": -71.1342835,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8148954762",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0134761,
+    "longitude": -71.4544582,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8495972857",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.2015503,
+    "longitude": -71.2703096,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8723383206",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.1064948,
+    "longitude": -71.4640237,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8828515240",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.1060732,
+    "longitude": -72.1789196,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8851699107",
+    "name": "Newark Pond Access",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.7230205,
+    "longitude": -71.9808501,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8864516789",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 42.9479556,
+    "longitude": -71.4630903,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8893454215",
+    "name": "East Wilder Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.6786085,
+    "longitude": -72.3010634,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8899617209",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.7262601,
+    "longitude": -72.0570686,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8984265142",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.8159392,
+    "longitude": -72.3925973,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8984265158",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.879743,
+    "longitude": -72.1514528,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8997362970",
+    "name": "Kittery Point Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0824353,
+    "longitude": -70.7031391,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9071298306",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.5715731,
+    "longitude": -71.28574,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9073433052",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.56714,
+    "longitude": -71.2784144,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9106388112",
+    "name": "Hoyts Landing",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.2604674,
+    "longitude": -72.430305,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9125471158",
+    "name": "Bald Hill Pond Access",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.7363648,
+    "longitude": -71.9737,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9125555120",
+    "name": "Jobs Pond Public Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.7604676,
+    "longitude": -71.9522057,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9217564867",
+    "name": "Great Cove Boat Club Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0963068,
+    "longitude": -70.7678499,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9218715550",
+    "name": "Job'S Pond Access",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.7604698,
+    "longitude": -71.9522632,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9257116756",
+    "name": "Mascoma Lake Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.6309208,
+    "longitude": -72.1571586,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9257580437",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.6368719,
+    "longitude": -72.3243011,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9257580448",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.6502966,
+    "longitude": -72.3136838,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9257832943",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.0665469,
+    "longitude": -72.0516158,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9258068244",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.0014148,
+    "longitude": -71.9261847,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9258328120",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.985873,
+    "longitude": -71.9796981,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9258328154",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.9675637,
+    "longitude": -71.9632193,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9320595632",
+    "name": "Traip Academy Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0858235,
+    "longitude": -70.73943,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9354575441",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0019606,
+    "longitude": -70.7515421,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9365262615",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.4058358,
+    "longitude": -71.8694895,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9594461150",
+    "name": "Georges Mills Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.4301263,
+    "longitude": -72.0667138,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9790708423",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.9291564,
+    "longitude": -72.2129002,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9790708432",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.9289555,
+    "longitude": -72.2128078,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9947797686",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 42.9819501,
+    "longitude": -71.467508,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9947908430",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.4793608,
+    "longitude": -71.3284278,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10027640440",
+    "name": "Third Connecticut Lake Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.2391895,
+    "longitude": -71.1964769,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10053766710",
+    "name": "Edgewood Avenue Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.4036602,
+    "longitude": -72.2185081,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10061041339",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.7928116,
+    "longitude": -71.866222,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10062510666",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 42.9001371,
+    "longitude": -72.4485554,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10098518650",
+    "name": "Bow Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.1302988,
+    "longitude": -71.4647417,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10110404078",
+    "name": "Middle Pond",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.0903873,
+    "longitude": -71.3752335,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10110404079",
+    "name": "Moose Pond",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.0959982,
+    "longitude": -71.3806373,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10110435107",
+    "name": "Back Lake",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.0799498,
+    "longitude": -71.339402,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10114445025",
+    "name": "Bacon Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.0716945,
+    "longitude": -71.3448474,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10114759388",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.307411,
+    "longitude": -71.3231056,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10115007985",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 42.9165094,
+    "longitude": -70.8206733,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10115286754",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 42.9166597,
+    "longitude": -70.8226776,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10115581926",
+    "name": "Lake Francis Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.0495574,
+    "longitude": -71.362953,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10117369900",
+    "name": "First Connecticut Lake Picnic And Launch Area Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.0906634,
+    "longitude": -71.2873696,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10119309235",
+    "name": "Second Connecticut Lake Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.1504306,
+    "longitude": -71.1743462,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10127004143",
+    "name": "East Inlet Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.1795711,
+    "longitude": -71.1611417,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10276096985",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.944715,
+    "longitude": -71.3278892,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10302540854",
+    "name": "Round Pond Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.1268921,
+    "longitude": -71.2642313,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10311434656",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.4071583,
+    "longitude": -72.4138744,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10570800159",
+    "name": "Clair'S Landing Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 42.9997808,
+    "longitude": -71.3454706,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10596787011",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.1281135,
+    "longitude": -71.4632777,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10597315058",
+    "name": "Little Sunapee Dam Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.4278944,
+    "longitude": -72.0342274,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10600056890",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.270516,
+    "longitude": -71.5642531,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10804470660",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.6428677,
+    "longitude": -71.7741674,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10881173185",
+    "name": "Scott Bog Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.2104217,
+    "longitude": -71.1680091,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10979050361",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0477187,
+    "longitude": -70.7283502,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11007850096",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.10211,
+    "longitude": -71.2863636,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11125071478",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.2524047,
+    "longitude": -72.4933424,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11177918376",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.8041313,
+    "longitude": -71.8552029,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11182116098",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.1422297,
+    "longitude": -72.4515796,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11182133371",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.3240856,
+    "longitude": -71.9982311,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11200609244",
+    "name": "Errol Dam Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.7873076,
+    "longitude": -71.1208955,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11216939618",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.1893572,
+    "longitude": -71.7325486,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11218603937",
+    "name": "Stumpfield Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.1834692,
+    "longitude": -71.7214439,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11296505743",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.7583603,
+    "longitude": -71.3921957,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11298598765",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.656659,
+    "longitude": -71.4983661,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11306387097",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.7153658,
+    "longitude": -71.4455781,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11311105968",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.7081189,
+    "longitude": -71.4599737,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11345586124",
+    "name": "Mascoma Lakeside Park Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.6350899,
+    "longitude": -72.1543248,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11355737692",
+    "name": "Turtletown Pond Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.2552238,
+    "longitude": -71.521283,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11360497910",
+    "name": "Grafton Pond Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.579885,
+    "longitude": -72.045205,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11360685862",
+    "name": "Shadow Hill State Forest Boat Access",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.3533738,
+    "longitude": -71.9314861,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11360700206",
+    "name": "Kezar Lake Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.3631021,
+    "longitude": -71.9404742,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11360712277",
+    "name": "Gile Pond Boat Access",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.3489694,
+    "longitude": -71.9305075,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11366091036",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.9965308,
+    "longitude": -72.1224958,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11380100910",
+    "name": "Coles Pond Boat Access",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.5024616,
+    "longitude": -72.2144464,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11388713492",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.9105217,
+    "longitude": -71.9821628,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11391867331",
+    "name": "Steamer Diamond Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.7914596,
+    "longitude": -71.1082553,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11391876478",
+    "name": "Nansen Wayside State Park Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.5308115,
+    "longitude": -71.1635429,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11614902953",
+    "name": "Lake Sunapee State Park Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.3440553,
+    "longitude": -72.0622369,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11627725688",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 42.9733924,
+    "longitude": -71.9858841,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11691071066",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.7308171,
+    "longitude": -71.587098,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11917003477",
+    "name": "Lagace Beach Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.4586397,
+    "longitude": -71.6790252,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11939637043",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.8276342,
+    "longitude": -72.4836764,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12062304016",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.9085292,
+    "longitude": -71.2349036,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12124304357",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.2861985,
+    "longitude": -71.5908993,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12124364130",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.2664551,
+    "longitude": -71.6138877,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12142378849",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.1262596,
+    "longitude": -71.4646455,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12210088332",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.8488352,
+    "longitude": -71.1711422,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12255171325",
+    "name": "Franklin Public Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.4501046,
+    "longitude": -71.6552317,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12255309915",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.4400006,
+    "longitude": -71.6516188,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12286113111",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0998177,
+    "longitude": -71.4628234,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12361885725",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.3965037,
+    "longitude": -72.063127,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12397105767",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.4502733,
+    "longitude": -71.5612639,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12630122698",
+    "name": "Merrymeeting Marsh Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.4333559,
+    "longitude": -71.1704178,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12669258672",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.6494957,
+    "longitude": -71.5054532,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12770582651",
+    "name": "Boffinger Conservation Area Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.6150286,
+    "longitude": -71.2217612,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12772713434",
+    "name": "Martin Meadow Pond Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.4404794,
+    "longitude": -71.5970412,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12791594275",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0450213,
+    "longitude": -71.2235734,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12791636038",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.4709263,
+    "longitude": -71.233593,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12834571057",
+    "name": "Tewksbury Pond Boat Access",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.6069989,
+    "longitude": -71.9663782,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12949923670",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.6482279,
+    "longitude": -71.5154929,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13012826893",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.5272223,
+    "longitude": -72.1214721,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13012826895",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.5269444,
+    "longitude": -72.1215312,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13013502537",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.5240425,
+    "longitude": -72.1233943,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13013502539",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.5277005,
+    "longitude": -72.126393,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13014052707",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.3383082,
+    "longitude": -71.25954,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13014548552",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.091107,
+    "longitude": -71.2846973,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13041228399",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.3590073,
+    "longitude": -71.6348653,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13048555864",
+    "name": "Suncook River Access",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.3313128,
+    "longitude": -71.2916339,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13151158625",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.2222296,
+    "longitude": -71.2548029,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13328865950",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0537234,
+    "longitude": -70.7443895,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13341579240",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.7116629,
+    "longitude": -72.4182339,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13376170188",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.3997711,
+    "longitude": -71.1268914,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13381758843",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.4841669,
+    "longitude": -71.1658434,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13389665434",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.4198301,
+    "longitude": -71.9400541,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13390619306",
+    "name": "Town Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.6245855,
+    "longitude": -71.275923,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13390623864",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.7260089,
+    "longitude": -71.5630416,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13391694171",
+    "name": "Mast Landing Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.5933738,
+    "longitude": -71.2004869,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13391694179",
+    "name": "Back Bay Boat Landing",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.5859724,
+    "longitude": -71.2131071,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13391719801",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.5927788,
+    "longitude": -71.1221143,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13395438601",
+    "name": "Spectacle Pond Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.6078517,
+    "longitude": -72.0335359,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13397404177",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.1646468,
+    "longitude": -71.6936269,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13408605677",
+    "name": "Nugent Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.9489469,
+    "longitude": -71.3120567,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13415594782",
+    "name": "Salmon Brook Station Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.4847649,
+    "longitude": -71.6499215,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13442492834",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.9831565,
+    "longitude": -71.5120467,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13442492874",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.855219,
+    "longitude": -71.4825508,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13442492876",
+    "name": "Lemington Access",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.8309909,
+    "longitude": -71.5592782,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13442493434",
+    "name": "Akers Pond Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.7927958,
+    "longitude": -71.1544069,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13442912297",
+    "name": "Millsfield Pond Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.7676566,
+    "longitude": -71.2646412,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13442912300",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.7406532,
+    "longitude": -71.1809502,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13442920943",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.6285403,
+    "longitude": -71.3915437,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13442949173",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.6066605,
+    "longitude": -71.3647445,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13443467401",
+    "name": "Jericho Mountain State Park Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.5001114,
+    "longitude": -71.2596942,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13613245439",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.2681688,
+    "longitude": -72.1610549,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13704092195",
+    "name": "Lower Baker Pond Boat Access",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.8990794,
+    "longitude": -71.9770554,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_18813468",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.3636075,
+    "longitude": -71.246458,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_19692027",
+    "name": "Vermont Fish And Game Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.4826563,
+    "longitude": -71.6911275,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_338373842",
+    "name": "Nutts Pond Boatlaunch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 42.9624583,
+    "longitude": -71.4486166,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_350488829",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 42.9948076,
+    "longitude": -71.4945263,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_440526451",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.4670893,
+    "longitude": -72.3966105,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_584030609",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.4984928,
+    "longitude": -71.5185179,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_601116238",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.0579262,
+    "longitude": -71.3029751,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_616383592",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.5763443,
+    "longitude": -72.2983131,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_733914860",
+    "name": "Wilson'S Landing",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.741779,
+    "longitude": -72.2440608,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_740553711",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.194338,
+    "longitude": -71.7755728,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_743335035",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.3631077,
+    "longitude": -72.3032124,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_751421594",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.6911558,
+    "longitude": -71.7707207,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_758841624",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.8617845,
+    "longitude": -71.8053592,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_766152355",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.6356792,
+    "longitude": -71.7751119,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_766152356",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.6367575,
+    "longitude": -71.7759496,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_831855255",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.161817,
+    "longitude": -72.162234,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_860243435",
+    "name": "Bow Lake Public Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.2406241,
+    "longitude": -71.1554425,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_902921393",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.2551908,
+    "longitude": -71.1962045,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_914237796",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.6664585,
+    "longitude": -72.3760461,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_918866958",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.6645809,
+    "longitude": -71.6489597,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_956433350",
+    "name": "Kooakee Island Boat Launch - Beach",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.254153,
+    "longitude": -71.1937434,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_956433351",
+    "name": "Kooakee Island Boat Launch - Cove",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.2580038,
+    "longitude": -71.1932898,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_967957679",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.8413822,
+    "longitude": -72.1834544,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_972030715",
+    "name": "Campers Lane",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.4462277,
+    "longitude": -71.7977251,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_980376322",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0829806,
+    "longitude": -70.7226825,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_985360881",
+    "name": "Vaughn M. Douglass Access Area",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.5268343,
+    "longitude": -72.5211859,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_988607609",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.6035298,
+    "longitude": -72.3578059,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_988607618",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.3061063,
+    "longitude": -72.4463419,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_993057226",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.8773203,
+    "longitude": -72.0523904,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_993472929",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.3073577,
+    "longitude": -71.3231201,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1006918791",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0816744,
+    "longitude": -70.7550419,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1007862799",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.081696,
+    "longitude": -70.7551627,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1007862809",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0825299,
+    "longitude": -70.7527257,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1027428406",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.1920475,
+    "longitude": -72.0969638,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1049455241",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.7552639,
+    "longitude": -72.230843,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1064371780",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.4036396,
+    "longitude": -72.2184171,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1084113112",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.2015642,
+    "longitude": -71.2703402,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1085659497",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.47948,
+    "longitude": -71.3284804,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1096998104",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.4038644,
+    "longitude": -71.7495915,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1097291674",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.728823,
+    "longitude": -72.4957895,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1105624943",
+    "name": "First Connecticut Lake Boat Launch",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.0906964,
+    "longitude": -71.2875643,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1116428189",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.3403404,
+    "longitude": -71.8382491,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1116428192",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.3191487,
+    "longitude": -71.8564933,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1116428214",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.3118904,
+    "longitude": -71.8672164,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1116428226",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.3312843,
+    "longitude": -71.87335,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1116714874",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.3055803,
+    "longitude": -71.8907255,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1125300748",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.9961888,
+    "longitude": -72.1805835,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1125826587",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.082917,
+    "longitude": -70.7329306,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1129051728",
+    "name": "Fishing Access Road",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.9856637,
+    "longitude": -71.9343682,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1130931244",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 45.0105532,
+    "longitude": -71.6357321,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1133552317",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.4459835,
+    "longitude": -72.5660983,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1133552318",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.4454183,
+    "longitude": -72.5621041,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1152318434",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.9238869,
+    "longitude": -71.8713144,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1165343951",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.6140274,
+    "longitude": -71.2589045,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1165344037",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.650694,
+    "longitude": -71.277255,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1177232030",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.3232105,
+    "longitude": -72.5773499,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1177565466",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.3752844,
+    "longitude": -72.0706926,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1188471069",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.6637105,
+    "longitude": -72.2205623,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1211286655",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.9946124,
+    "longitude": -71.7060685,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1228120148",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.9639672,
+    "longitude": -71.706501,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1245744655",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 42.9493349,
+    "longitude": -72.1332224,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1250032232",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.01926,
+    "longitude": -71.5695097,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1254627840",
+    "name": "Long Pond Day Use Area Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.0594171,
+    "longitude": -71.8893491,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1271175494",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 44.6744552,
+    "longitude": -72.2574208,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1309327870",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.2861061,
+    "longitude": -71.5909213,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1309327881",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.2295994,
+    "longitude": -71.5380651,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1309336996",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.2664723,
+    "longitude": -71.613781,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1347152177",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.0766306,
+    "longitude": -71.5968449,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1391372638",
+    "name": "States Landing",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.7268698,
+    "longitude": -71.3742357,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1421828693",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.2286589,
+    "longitude": -72.4319808,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1436291745",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.1816782,
+    "longitude": -72.4442741,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1446294638",
+    "name": "Lake Morey Fishing Access Area",
+    "formatted_address": ", New Hampshire, USA",
+    "latitude": 43.9211965,
+    "longitude": -72.1592082,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]

@@ -4,23 +4,6 @@ import { useState, useMemo } from "react";
 import Link from "next/link";
 import { unified } from "@/data/all-ramps";
 import { lakes } from "@/data/lakes";
-import { texasLakes } from "@/data/texas-lakes";
-import { missouriLakes } from "@/data/missouri-lakes";
-import { arkansasLakes } from "@/data/arkansas-lakes";
-import { kansasLakes } from "@/data/kansas-lakes";
-import { floridaLakes } from "@/data/florida-lakes";
-import { michiganLakes } from "@/data/michigan-lakes";
-import { minnesotaLakes } from "@/data/minnesota-lakes";
-import { northCarolinaLakes } from "@/data/north-carolina-lakes";
-import { newYorkLakes } from "@/data/new-york-lakes";
-import { illinoisLakes } from "@/data/illinois-lakes";
-import { ohioLakes } from "@/data/ohio-lakes";
-import { washingtonLakes } from "@/data/washington-lakes";
-import { alabamaLakes } from "@/data/alabama-lakes";
-import { georgiaLakes } from "@/data/georgia-lakes";
-import { marylandLakes } from "@/data/maryland-lakes";
-import { oregonLakes } from "@/data/oregon-lakes";
-import { tennesseeLakes } from "@/data/tennessee-lakes";
 import AdSlot from "@/components/AdSlot";
 import CletusAd from "@/components/CletusAd";
 import EmailCapture from "@/components/EmailCapture";
@@ -31,109 +14,80 @@ const blogPosts = [
   { slug: "how-to-launch-boat-beginner-guide", title: "How to Launch a Boat: Beginner's Guide", date: "Mar 25, 2026" },
 ];
 
+const stateList: { name: string; slug: string; code: string }[] = [
+  { name: "Alabama", slug: "alabama", code: "AL" },
+  { name: "Alaska", slug: "alaska", code: "AK" },
+  { name: "Arizona", slug: "arizona", code: "AZ" },
+  { name: "Arkansas", slug: "arkansas", code: "AR" },
+  { name: "California", slug: "california", code: "CA" },
+  { name: "Colorado", slug: "colorado", code: "CO" },
+  { name: "Connecticut", slug: "connecticut", code: "CT" },
+  { name: "Delaware", slug: "delaware", code: "DE" },
+  { name: "Florida", slug: "florida", code: "FL" },
+  { name: "Georgia", slug: "georgia", code: "GA" },
+  { name: "Hawaii", slug: "hawaii", code: "HI" },
+  { name: "Idaho", slug: "idaho", code: "ID" },
+  { name: "Illinois", slug: "illinois", code: "IL" },
+  { name: "Indiana", slug: "indiana", code: "IN" },
+  { name: "Iowa", slug: "iowa", code: "IA" },
+  { name: "Kansas", slug: "kansas", code: "KS" },
+  { name: "Kentucky", slug: "kentucky", code: "KY" },
+  { name: "Louisiana", slug: "louisiana", code: "LA" },
+  { name: "Maine", slug: "maine", code: "ME" },
+  { name: "Maryland", slug: "maryland", code: "MD" },
+  { name: "Massachusetts", slug: "massachusetts", code: "MA" },
+  { name: "Michigan", slug: "michigan", code: "MI" },
+  { name: "Minnesota", slug: "minnesota", code: "MN" },
+  { name: "Mississippi", slug: "mississippi", code: "MS" },
+  { name: "Missouri", slug: "missouri", code: "MO" },
+  { name: "Montana", slug: "montana", code: "MT" },
+  { name: "Nebraska", slug: "nebraska", code: "NE" },
+  { name: "New Hampshire", slug: "new-hampshire", code: "NH" },
+  { name: "New Jersey", slug: "new-jersey", code: "NJ" },
+  { name: "New Mexico", slug: "new-mexico", code: "NM" },
+  { name: "New York", slug: "new-york", code: "NY" },
+  { name: "North Carolina", slug: "north-carolina", code: "NC" },
+  { name: "North Dakota", slug: "north-dakota", code: "ND" },
+  { name: "Ohio", slug: "ohio", code: "OH" },
+  { name: "Oklahoma", slug: "oklahoma", code: "OK" },
+  { name: "Oregon", slug: "oregon", code: "OR" },
+  { name: "Pennsylvania", slug: "pennsylvania", code: "PA" },
+  { name: "South Carolina", slug: "south-carolina", code: "SC" },
+  { name: "South Dakota", slug: "south-dakota", code: "SD" },
+  { name: "Tennessee", slug: "tennessee", code: "TN" },
+  { name: "Texas", slug: "texas", code: "TX" },
+  { name: "Utah", slug: "utah", code: "UT" },
+  { name: "Virginia", slug: "virginia", code: "VA" },
+  { name: "Washington", slug: "washington", code: "WA" },
+  { name: "West Virginia", slug: "west-virginia", code: "WV" },
+  { name: "Wyoming", slug: "wyoming", code: "WY" },
+];
+
 export default function Home() {
   const [query, setQuery] = useState("");
-  const okCount = useMemo(() => unified.filter((r) => r.state === "OK").length, []);
-  const txCount = useMemo(() => unified.filter((r) => r.state === "TX").length, []);
-  const moCount = useMemo(() => unified.filter((r) => r.state === "MO").length, []);
-  const arCount = useMemo(() => unified.filter((r) => r.state === "AR").length, []);
-  const ksCount = useMemo(() => unified.filter((r) => r.state === "KS").length, []);
-  const flCount = useMemo(() => unified.filter((r) => r.state === "FL").length, []);
-  const miCount = useMemo(() => unified.filter((r) => r.state === "MI").length, []);
-  const mnCount = useMemo(() => unified.filter((r) => r.state === "MN").length, []);
-  const ncCount = useMemo(() => unified.filter((r) => r.state === "NC").length, []);
-  const nyCount = useMemo(() => unified.filter((r) => r.state === "NY").length, []);
-  const ilCount = useMemo(() => unified.filter((r) => r.state === "IL").length, []);
-  const ohCount = useMemo(() => unified.filter((r) => r.state === "OH").length, []);
-  const waCount = useMemo(() => unified.filter((r) => r.state === "WA").length, []);
-  const alCount = useMemo(() => unified.filter((r) => r.state === "AL").length, []);
-  const gaCount = useMemo(() => unified.filter((r) => r.state === "GA").length, []);
-  const mdCount = useMemo(() => unified.filter((r) => r.state === "MD").length, []);
-  const orCount = useMemo(() => unified.filter((r) => r.state === "OR").length, []);
-  const tnCount = useMemo(() => unified.filter((r) => r.state === "TN").length, []);
 
-  // Search suggestions
+  const stateCounts = useMemo(() => {
+    const map: Record<string, number> = {};
+    for (const r of unified) map[r.state] = (map[r.state] || 0) + 1;
+    return map;
+  }, []);
+
+  const statesWithCounts = useMemo(() =>
+    stateList.map((s) => ({ ...s, count: stateCounts[s.code] || 0 })).sort((a, b) => b.count - a.count),
+  [stateCounts]);
+
   const suggestions = useMemo(() => {
     if (query.length < 2) return [];
     const q = query.toLowerCase();
     const results: { type: string; label: string; href: string }[] = [];
-    // States
-    if ("oklahoma".includes(q)) results.push({ type: "State", label: "Oklahoma", href: "/oklahoma" });
-    if ("texas".includes(q)) results.push({ type: "State", label: "Texas", href: "/texas" });
-    if ("missouri".includes(q)) results.push({ type: "State", label: "Missouri", href: "/missouri" });
-    if ("arkansas".includes(q)) results.push({ type: "State", label: "Arkansas", href: "/arkansas" });
-    if ("kansas".includes(q)) results.push({ type: "State", label: "Kansas", href: "/kansas" });
-    if ("florida".includes(q)) results.push({ type: "State", label: "Florida", href: "/florida" });
-    if ("michigan".includes(q)) results.push({ type: "State", label: "Michigan", href: "/michigan" });
-    if ("minnesota".includes(q)) results.push({ type: "State", label: "Minnesota", href: "/minnesota" });
-    if ("north carolina".includes(q)) results.push({ type: "State", label: "North Carolina", href: "/north-carolina" });
-    if ("new york".includes(q)) results.push({ type: "State", label: "New York", href: "/new-york" });
-    if ("illinois".includes(q)) results.push({ type: "State", label: "Illinois", href: "/illinois" });
-    if ("ohio".includes(q)) results.push({ type: "State", label: "Ohio", href: "/ohio" });
-    if ("washington".includes(q)) results.push({ type: "State", label: "Washington", href: "/washington" });
-    if ("alabama".includes(q)) results.push({ type: "State", label: "Alabama", href: "/alabama" });
-    if ("georgia".includes(q)) results.push({ type: "State", label: "Georgia", href: "/georgia" });
-    if ("maryland".includes(q)) results.push({ type: "State", label: "Maryland", href: "/maryland" });
-    if ("oregon".includes(q)) results.push({ type: "State", label: "Oregon", href: "/oregon" });
-    if ("tennessee".includes(q)) results.push({ type: "State", label: "Tennessee", href: "/tennessee" });
-    marylandLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
-      results.push({ type: "Lake", label: `${l.name} (MD)`, href: `/maryland/lakes/${l.id}` });
-    });
-    oregonLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
-      results.push({ type: "Lake", label: `${l.name} (OR)`, href: `/oregon/lakes/${l.id}` });
-    });
-    tennesseeLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
-      results.push({ type: "Lake", label: `${l.name} (TN)`, href: `/tennessee/lakes/${l.id}` });
-    });
-    washingtonLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
-      results.push({ type: "Lake", label: `${l.name} (WA)`, href: `/washington/lakes/${l.id}` });
-    });
-    alabamaLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
-      results.push({ type: "Lake", label: `${l.name} (AL)`, href: `/alabama/lakes/${l.id}` });
-    });
-    georgiaLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
-      results.push({ type: "Lake", label: `${l.name} (GA)`, href: `/georgia/lakes/${l.id}` });
-    });
-    newYorkLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
-      results.push({ type: "Lake", label: `${l.name} (NY)`, href: `/new-york/lakes/${l.id}` });
-    });
-    illinoisLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
-      results.push({ type: "Lake", label: `${l.name} (IL)`, href: `/illinois/lakes/${l.id}` });
-    });
-    ohioLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
-      results.push({ type: "Lake", label: `${l.name} (OH)`, href: `/ohio/lakes/${l.id}` });
-    });
-    michiganLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
-      results.push({ type: "Lake", label: `${l.name} (MI)`, href: `/michigan/lakes/${l.id}` });
-    });
-    minnesotaLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
-      results.push({ type: "Lake", label: `${l.name} (MN)`, href: `/minnesota/lakes/${l.id}` });
-    });
-    northCarolinaLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
-      results.push({ type: "Lake", label: `${l.name} (NC)`, href: `/north-carolina/lakes/${l.id}` });
-    });
-    floridaLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
-      results.push({ type: "Lake", label: `${l.name} (FL)`, href: `/florida/lakes/${l.id}` });
-    });
-    arkansasLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
-      results.push({ type: "Lake", label: `${l.name} (AR)`, href: `/arkansas/lakes/${l.id}` });
-    });
-    kansasLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
-      results.push({ type: "Lake", label: `${l.name} (KS)`, href: `/kansas/lakes/${l.id}` });
-    });
-    // MO lakes
-    missouriLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
-      results.push({ type: "Lake", label: `${l.name} (MO)`, href: `/missouri/lakes/${l.id}` });
+    stateList.filter((s) => s.name.toLowerCase().includes(q)).slice(0, 4).forEach((s) => {
+      results.push({ type: "State", label: s.name, href: `/${s.slug}` });
     });
     // OK lakes
     lakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
       results.push({ type: "Lake", label: l.name, href: l.id === "grand-lake" ? "/grand-lake" : `/lakes/${l.id}` });
     });
-    // TX lakes
-    texasLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
-      results.push({ type: "Lake", label: `${l.name} (TX)`, href: `/texas/lakes/${l.id}` });
-    });
-    // Ramps (top 5)
+    // Ramps
     unified.filter((r) => r.name.toLowerCase().includes(q)).slice(0, 5).forEach((r) => {
       results.push({ type: "Ramp", label: `${r.name} (${r.state})`, href: `/ramps/${r.id}` });
     });
@@ -145,7 +99,7 @@ export default function Home() {
       {/* JSON-LD */}
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "WebSite", name: "RampSeeker", url: "https://rampseeker.com",
-        description: "Find boat ramps across the United States. 29,000+ ramps with GPS coordinates, amenities, and local tips.",
+        description: `Find boat ramps across the United States. ${unified.length.toLocaleString()}+ ramps with GPS coordinates, amenities, and local tips.`,
         potentialAction: { "@type": "SearchAction", target: "https://rampseeker.com/?q={search_term_string}", "query-input": "required name=search_term_string" },
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
@@ -160,7 +114,7 @@ export default function Home() {
           Every Boat Ramp in America
         </h1>
         <p className="text-gray-500 mt-4 max-w-lg mx-auto">
-          29,000+ boat ramps across the United States. Find your launch point.
+          {unified.length.toLocaleString()}+ boat ramps across {stateList.length} states. Find your launch point.
         </p>
 
         {/* Search */}
@@ -181,27 +135,12 @@ export default function Home() {
           )}
         </div>
 
-        {/* Quick links */}
-        <div className="flex gap-3 justify-center mt-6 flex-wrap">
-          <Link href="/oklahoma" className="bg-sunset hover:bg-sunset-dark text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm">Oklahoma ({okCount}+)</Link>
-          <Link href="/texas" className="bg-water hover:bg-water-light text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm">Texas ({txCount})</Link>
-          <Link href="/missouri" className="bg-forest hover:bg-forest-light text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm">Missouri ({moCount})</Link>
-          <Link href="/arkansas" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#8B5E3C" }}>Arkansas ({arCount})</Link>
-          <Link href="/kansas" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#B8860B" }}>Kansas ({ksCount})</Link>
-          <Link href="/florida" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#0077B6" }}>Florida ({flCount})</Link>
-          <Link href="/michigan" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#003366" }}>Michigan ({miCount})</Link>
-          <Link href="/minnesota" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#003865" }}>Minnesota ({mnCount})</Link>
-          <Link href="/north-carolina" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#4B0082" }}>N. Carolina ({ncCount})</Link>
-          <Link href="/new-york" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#1C2951" }}>New York ({nyCount})</Link>
-          <Link href="/illinois" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#5C4033" }}>Illinois ({ilCount})</Link>
-          <Link href="/ohio" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#C41E3A" }}>Ohio ({ohCount})</Link>
-          <Link href="/washington" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#2E5A3A" }}>Washington ({waCount})</Link>
-          <Link href="/alabama" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#9E1B32" }}>Alabama ({alCount})</Link>
-          <Link href="/georgia" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#BA0C2F" }}>Georgia ({gaCount})</Link>
-          <Link href="/maryland" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#C8102E" }}>Maryland ({mdCount})</Link>
-          <Link href="/oregon" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#234236" }}>Oregon ({orCount})</Link>
-          <Link href="/tennessee" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#FF8200" }}>Tennessee ({tnCount})</Link>
-          <span className="text-gray-400 font-medium px-5 py-2.5 text-sm">More states coming</span>
+        {/* Top states quick links */}
+        <div className="flex gap-2 justify-center mt-6 flex-wrap max-w-3xl mx-auto">
+          {statesWithCounts.slice(0, 12).map((s) => (
+            <Link key={s.code} href={`/${s.slug}`} className="bg-water/90 hover:bg-water text-white font-bold px-4 py-2 rounded-lg transition shadow-sm text-xs">{s.name} ({s.count.toLocaleString()})</Link>
+          ))}
+          <span className="text-gray-400 font-medium px-4 py-2 text-xs">+ {stateList.length - 12} more states</span>
         </div>
       </section>
 
@@ -209,8 +148,8 @@ export default function Home() {
       <section className="bg-white border-y border-gray-200 py-6">
         <div className="max-w-4xl mx-auto flex flex-wrap justify-center gap-8 md:gap-16 text-center">
           {[
-            { value: "29,000+", label: "Boat Ramps" },
-            { value: "46", label: "States" },
+            { value: unified.length.toLocaleString(), label: "Boat Ramps" },
+            { value: String(stateList.length), label: "States" },
             { value: "Free", label: "& Updated" },
             { value: "GPS", label: "Verified" },
           ].map((s) => (
@@ -225,55 +164,13 @@ export default function Home() {
       {/* BROWSE BY STATE */}
       <section className="max-w-5xl mx-auto px-4 pt-14 pb-8">
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-6">Browse by State</h2>
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
-          {[
-            { name: "Oklahoma", href: "/oklahoma", count: okCount, suffix: "+", lakes: `Grand Lake, Tenkiller, Eufaula, Keystone, and ${lakes.length - 4}+ more` },
-            { name: "Texas", href: "/texas", count: txCount, suffix: "", lakes: `Lake Fork, Sam Rayburn, Lake Travis, Texoma, and ${texasLakes.length - 4}+ more` },
-            { name: "Missouri", href: "/missouri", count: moCount, suffix: "", lakes: `Lake of the Ozarks, Table Rock, Stockton, Truman, and ${missouriLakes.length - 4}+ more` },
-            { name: "Arkansas", href: "/arkansas", count: arCount, suffix: "", lakes: `Beaver Lake, Bull Shoals, Greers Ferry, Ouachita, and ${arkansasLakes.length - 4}+ more` },
-            { name: "Kansas", href: "/kansas", count: ksCount, suffix: "", lakes: `Milford, Tuttle Creek, Clinton, Perry, Cheney, and ${kansasLakes.length - 5}+ more` },
-            { name: "Florida", href: "/florida", count: flCount, suffix: "", lakes: `Tampa Bay, Lake Okeechobee, Biscayne Bay, Indian River, and ${floridaLakes.length - 4}+ more` },
-            { name: "Michigan", href: "/michigan", count: miCount, suffix: "", lakes: `Lake Michigan, Lake Huron, Torch Lake, Houghton Lake, and ${michiganLakes.length - 4}+ more` },
-            { name: "Minnesota", href: "/minnesota", count: mnCount, suffix: "", lakes: `Mille Lacs, Lake Vermilion, Leech Lake, Minnetonka, and ${minnesotaLakes.length - 4}+ more` },
-            { name: "North Carolina", href: "/north-carolina", count: ncCount, suffix: "", lakes: `Lake Norman, Jordan Lake, Pamlico Sound, Falls Lake, and ${northCarolinaLakes.length - 4}+ more` },
-            { name: "New York", href: "/new-york", count: nyCount, suffix: "", lakes: `Lake George, Finger Lakes, Lake Ontario, Lake Champlain, and ${newYorkLakes.length - 4}+ more` },
-            { name: "Illinois", href: "/illinois", count: ilCount, suffix: "", lakes: `Lake Michigan, Rend Lake, Carlyle Lake, Mississippi River, and ${illinoisLakes.length - 4}+ more` },
-            { name: "Ohio", href: "/ohio", count: ohCount, suffix: "", lakes: `Lake Erie, Pymatuning, Mosquito Lake, Ohio River, and ${ohioLakes.length - 4}+ more` },
-            { name: "Washington", href: "/washington", count: waCount, suffix: "", lakes: `Puget Sound, Columbia River, Lake Chelan, San Juan Islands, and ${washingtonLakes.length - 4}+ more` },
-            { name: "Alabama", href: "/alabama", count: alCount, suffix: "", lakes: `Lake Guntersville, Wheeler Lake, Lake Martin, Mobile Bay, and ${alabamaLakes.length - 4}+ more` },
-            { name: "Georgia", href: "/georgia", count: gaCount, suffix: "", lakes: `Lake Lanier, Clarks Hill, Lake Hartwell, Golden Isles, and ${georgiaLakes.length - 4}+ more` },
-            { name: "Maryland", href: "/maryland", count: mdCount, suffix: "", lakes: `Chesapeake Bay, Potomac River, Deep Creek Lake, Ocean City, and ${marylandLakes.length - 4}+ more` },
-            { name: "Oregon", href: "/oregon", count: orCount, suffix: "", lakes: `Columbia River, Deschutes River, Rogue River, Pacific Coast, and ${oregonLakes.length - 4}+ more` },
-            { name: "Tennessee", href: "/tennessee", count: tnCount, suffix: "", lakes: `Norris Lake, Kentucky Lake, Dale Hollow, Cherokee Lake, and ${tennesseeLakes.length - 4}+ more` },
-          ].map((s) => (
-            <Link key={s.name} href={s.href} className="group bg-white border border-gray-200 rounded-xl p-6 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all border-l-4 border-l-water">
-              <div className="flex items-start justify-between mb-2">
-                <h3 className="font-[Cabin] text-xl font-bold text-charcoal group-hover:text-water transition">{s.name}</h3>
-                <span className="text-xs font-bold text-water bg-water/10 px-2.5 py-1 rounded-full">{s.count}{s.suffix} ramps</span>
-              </div>
-              <p className="text-gray-500 text-sm mb-3">{s.lakes}</p>
-              <span className="text-sm font-semibold text-water group-hover:text-water-light transition">Explore {s.name} &rarr;</span>
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-2">
+          {statesWithCounts.map((s) => (
+            <Link key={s.code} href={`/${s.slug}`} className="group bg-white border border-gray-200 rounded-lg p-3 hover:border-water hover:shadow-sm transition">
+              <p className="font-bold text-charcoal text-sm group-hover:text-water transition">{s.name}</p>
+              <p className="text-gray-400 text-xs">{s.count.toLocaleString()} ramps</p>
             </Link>
           ))}
-        </div>
-
-        {/* Coming Soon */}
-        <div className="bg-gray-50 border border-gray-200 rounded-xl p-5">
-          <p className="font-[Cabin] font-bold text-charcoal text-sm mb-3">Coming Soon</p>
-          <div className="grid grid-cols-2 sm:grid-cols-4 gap-2">
-            {[
-              { state: "Kentucky", count: 900 },
-              { state: "Maine", count: 750 },
-              { state: "Idaho", count: 700 },
-              { state: "Iowa", count: 650 },
-              { state: "Virginia", count: 600 },
-            ].map((s) => (
-              <div key={s.state} className="bg-white border border-gray-200 rounded-lg p-2.5 text-center opacity-60">
-                <p className="font-bold text-charcoal text-sm">{s.state}</p>
-                <p className="text-gray-400 text-xs">{s.count.toLocaleString()}</p>
-              </div>
-            ))}
-          </div>
         </div>
       </section>
 
@@ -341,17 +238,17 @@ export default function Home() {
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           "@context": "https://schema.org", "@type": "FAQPage",
           mainEntity: [
-            { "@type": "Question", name: "How many boat ramps does RampSeeker cover?", acceptedAnswer: { "@type": "Answer", text: `We have data on 29,000+ boat ramps across 46 states, with detailed coverage currently live for Oklahoma (${okCount}+ ramps) and Texas (${txCount} ramps). More states are being added.` } },
+            { "@type": "Question", name: "How many boat ramps does RampSeeker cover?", acceptedAnswer: { "@type": "Answer", text: `We have data on ${unified.length.toLocaleString()}+ boat ramps across ${stateList.length} states.` } },
             { "@type": "Question", name: "Is RampSeeker free?", acceptedAnswer: { "@type": "Answer", text: "Yes, completely free. No login, no account, no fees. Just find your ramp and go." } },
-            { "@type": "Question", name: "How do I find a boat ramp near me?", acceptedAnswer: { "@type": "Answer", text: "Use the search bar to search by state, lake, city, or ramp name. Or browse by state — currently Oklahoma and Texas are live with full coverage." } },
+            { "@type": "Question", name: "How do I find a boat ramp near me?", acceptedAnswer: { "@type": "Answer", text: `Use the search bar to search by state, lake, city, or ramp name. We cover ${stateList.length} states with detailed boat ramp directories.` } },
           ],
         }) }} />
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-4">Frequently Asked Questions</h2>
         <div className="space-y-2">
           {[
-            { q: "How many boat ramps does RampSeeker cover?", a: `We have data on 29,000+ boat ramps across 46 states, with detailed coverage currently live for Oklahoma (${okCount}+ ramps) and Texas (${txCount} ramps). More states coming soon.` },
+            { q: "How many boat ramps does RampSeeker cover?", a: `We have data on ${unified.length.toLocaleString()}+ boat ramps across ${stateList.length} states with GPS coordinates, amenities, and local tips.` },
             { q: "Is RampSeeker free?", a: "Yes, completely free. No login, no account needed. Just find your ramp and go." },
-            { q: "How do I find a boat ramp near me?", a: "Use the search bar or browse by state. Currently Oklahoma and Texas are live with full coverage." },
+            { q: "How do I find a boat ramp near me?", a: `Use the search bar or browse by state. We cover ${stateList.length} states with detailed boat ramp directories.` },
             { q: "Can I submit a ramp you're missing?", a: "Yes! Email hello@rampseeker.com with the ramp name and location. We'll add it to the directory." },
           ].map((f, i) => (
             <details key={i} className="bg-white border border-gray-200 rounded-xl overflow-hidden shadow-sm group">

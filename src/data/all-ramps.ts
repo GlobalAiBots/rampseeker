@@ -17,6 +17,34 @@ import georgiaRampsRaw from "./georgia-ramps.json";
 import marylandRampsRaw from "./maryland-ramps.json";
 import oregonRampsRaw from "./oregon-ramps.json";
 import tennesseeRampsRaw from "./tennessee-ramps.json";
+import alaskaRampsRaw from "./alaska-ramps.json";
+import arizonaRampsRaw from "./arizona-ramps.json";
+import californiaRampsRaw from "./california-ramps.json";
+import coloradoRampsRaw from "./colorado-ramps.json";
+import connecticutRampsRaw from "./connecticut-ramps.json";
+import delawareRampsRaw from "./delaware-ramps.json";
+import hawaiiRampsRaw from "./hawaii-ramps.json";
+import idahoRampsRaw from "./idaho-ramps.json";
+import indianaRampsRaw from "./indiana-ramps.json";
+import iowaRampsRaw from "./iowa-ramps.json";
+import kentuckyRampsRaw from "./kentucky-ramps.json";
+import louisianaRampsRaw from "./louisiana-ramps.json";
+import maineRampsRaw from "./maine-ramps.json";
+import massachusettsRampsRaw from "./massachusetts-ramps.json";
+import mississippiRampsRaw from "./mississippi-ramps.json";
+import montanaRampsRaw from "./montana-ramps.json";
+import nebraskaRampsRaw from "./nebraska-ramps.json";
+import newHampshireRampsRaw from "./new-hampshire-ramps.json";
+import newJerseyRampsRaw from "./new-jersey-ramps.json";
+import newMexicoRampsRaw from "./new-mexico-ramps.json";
+import northDakotaRampsRaw from "./north-dakota-ramps.json";
+import pennsylvaniaRampsRaw from "./pennsylvania-ramps.json";
+import southCarolinaRampsRaw from "./south-carolina-ramps.json";
+import southDakotaRampsRaw from "./south-dakota-ramps.json";
+import utahRampsRaw from "./utah-ramps.json";
+import virginiaRampsRaw from "./virginia-ramps.json";
+import westVirginiaRampsRaw from "./west-virginia-ramps.json";
+import wyomingRampsRaw from "./wyoming-ramps.json";
 
 export interface UnifiedRamp {
   id: string;
@@ -500,6 +528,315 @@ for (const raw of tennesseeRampsRaw) {
   if (seenSlugs.has(slug)) continue;
   seenSlugs.add(slug);
   allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "TN", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+
+// 20. Add alaska ramps
+for (const raw of alaskaRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `ak-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "AK", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 21. Add arizona ramps
+for (const raw of arizonaRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `az-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "AZ", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 22. Add california ramps
+for (const raw of californiaRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `ca-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "CA", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 23. Add colorado ramps
+for (const raw of coloradoRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `co-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "CO", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 24. Add connecticut ramps
+for (const raw of connecticutRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `ct-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "CT", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 25. Add delaware ramps
+for (const raw of delawareRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `de-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "DE", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 26. Add hawaii ramps
+for (const raw of hawaiiRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `hi-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "HI", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 27. Add idaho ramps
+for (const raw of idahoRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `id-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "ID", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 28. Add indiana ramps
+for (const raw of indianaRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `in-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "IN", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 29. Add iowa ramps
+for (const raw of iowaRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `ia-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "IA", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 30. Add kentucky ramps
+for (const raw of kentuckyRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `ky-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "KY", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 31. Add louisiana ramps
+for (const raw of louisianaRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `la-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "LA", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 32. Add maine ramps
+for (const raw of maineRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `me-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "ME", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 33. Add massachusetts ramps
+for (const raw of massachusettsRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `ma-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "MA", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 34. Add mississippi ramps
+for (const raw of mississippiRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `ms-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "MS", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 35. Add montana ramps
+for (const raw of montanaRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `mt-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "MT", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 36. Add nebraska ramps
+for (const raw of nebraskaRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `ne-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "NE", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 37. Add new-hampshire ramps
+for (const raw of newHampshireRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `nh-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "NH", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 38. Add new-jersey ramps
+for (const raw of newJerseyRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `nj-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "NJ", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 39. Add new-mexico ramps
+for (const raw of newMexicoRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `nm-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "NM", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 40. Add north-dakota ramps
+for (const raw of northDakotaRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `nd-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "ND", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 41. Add pennsylvania ramps
+for (const raw of pennsylvaniaRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `pa-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "PA", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 42. Add south-carolina ramps
+for (const raw of southCarolinaRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `sc-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "SC", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 43. Add south-dakota ramps
+for (const raw of southDakotaRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `sd-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "SD", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 44. Add utah ramps
+for (const raw of utahRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `ut-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "UT", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 45. Add virginia ramps
+for (const raw of virginiaRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `va-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "VA", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 46. Add west-virginia ramps
+for (const raw of westVirginiaRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `wv-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "WV", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
+}
+
+// 47. Add wyoming ramps
+for (const raw of wyomingRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+  let slug = `wy-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({ id: slug, name: cleanName, description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }), latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "", city: raw.city || "", county: raw.county || "", state: "WY", rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false, amenities: (raw as Record<string, unknown>).amenities as string[] | undefined, fee: (raw as Record<string, unknown>).fee as string | undefined, rampCount: (raw as Record<string, unknown>).rampCount as number | undefined });
 }
 
 export const unified = allRamps;

@@ -1,0 +1,3587 @@
+[
+  {
+    "place_id": "osm_54247805",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6030361,
+    "longitude": -114.5339739,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_174625347",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.2333161,
+    "longitude": -114.1856121,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_175212822",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.1203542,
+    "longitude": -114.6085508,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_318725489",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.8613199,
+    "longitude": -114.525924,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_602063179",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.2191171,
+    "longitude": -114.5658146,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_602481075",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.4909341,
+    "longitude": -114.3613707,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_826010022",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.8867832,
+    "longitude": -114.4582676,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2071427083",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 36.2983206,
+    "longitude": -114.4040409,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2607671126",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.7288357,
+    "longitude": -114.5111393,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2692956339",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.8367592,
+    "longitude": -114.5899332,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2692956554",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.8702716,
+    "longitude": -114.633692,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2694657974",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.9247616,
+    "longitude": -114.632232,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2706593753",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.1700837,
+    "longitude": -114.5704918,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3202643941",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.4927595,
+    "longitude": -114.6856836,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3224155435",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.2189462,
+    "longitude": -114.5656979,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4541929237",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.0296441,
+    "longitude": -114.6367885,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4542057750",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.0239745,
+    "longitude": -114.6113044,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4689121489",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.0261826,
+    "longitude": -114.6174292,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4698216812",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.090181,
+    "longitude": -114.62474,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4698216864",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.0948795,
+    "longitude": -114.6353129,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4890088351",
+    "name": "Takeoff Point Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.3007327,
+    "longitude": -114.1367151,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5224220385",
+    "name": "Hemenway Harbor Launch Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 36.0304528,
+    "longitude": -114.774504,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5224220387",
+    "name": "Hemenway Harbor Launch Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 36.0303935,
+    "longitude": -114.774432,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5245019904",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.8696556,
+    "longitude": -114.6606236,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5245019906",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.8697947,
+    "longitude": -114.6605969,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5272655066",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.7206385,
+    "longitude": -114.5992919,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5272674489",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.7323238,
+    "longitude": -114.5355881,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5527124930",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6092426,
+    "longitude": -114.524975,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5527124941",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6119161,
+    "longitude": -114.5211482,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5684002240",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.1403094,
+    "longitude": -114.5719099,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5857883603",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.4532883,
+    "longitude": -114.3614232,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5857883606",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.453314,
+    "longitude": -114.3613525,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5862578151",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.4629393,
+    "longitude": -114.3504671,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5877128253",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.4516656,
+    "longitude": -114.3634866,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5939705086",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.3510337,
+    "longitude": -114.1698521,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5939705097",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.3509823,
+    "longitude": -114.1697615,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6979190825",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3880216,
+    "longitude": -114.7116405,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7044518409",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.2196987,
+    "longitude": -114.2058873,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7967172445",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.4943291,
+    "longitude": -114.3625593,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7967172467",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.4895957,
+    "longitude": -114.3599509,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7967172471",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.4894926,
+    "longitude": -114.3600676,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8364600033",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.2344341,
+    "longitude": -114.1840555,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8364600034",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.2042062,
+    "longitude": -114.2272897,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8364600037",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.186117,
+    "longitude": -114.2337321,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8364600040",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.1632208,
+    "longitude": -114.2977508,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8364600043",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.2224083,
+    "longitude": -114.1965889,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8364600046",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.2446766,
+    "longitude": -114.1751205,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8442139703",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.4823028,
+    "longitude": -114.4053768,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8463159190",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.1776235,
+    "longitude": -114.2503578,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9467371028",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.8675651,
+    "longitude": -114.632,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9819414626",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.8478872,
+    "longitude": -114.6042501,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10114365140",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6011313,
+    "longitude": -114.5323477,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10120279711",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.8710294,
+    "longitude": -114.6340983,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10120289918",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.8704041,
+    "longitude": -114.633766,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10120289920",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.8686619,
+    "longitude": -114.6329426,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10120289924",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.8654896,
+    "longitude": -114.6305243,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10312677989",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6059295,
+    "longitude": -114.5318816,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10604828062",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.9017266,
+    "longitude": -114.4767912,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11331657368",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.1273883,
+    "longitude": -114.5789625,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11331678393",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.1249824,
+    "longitude": -114.5817771,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11333292785",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.4780037,
+    "longitude": -114.3553277,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11406414480",
+    "name": "Nelson'S Landing",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.7074156,
+    "longitude": -114.707463,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13429580204",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.7153176,
+    "longitude": -114.4827172,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13438339708",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.8200209,
+    "longitude": -114.4698381,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13438429849",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.8298006,
+    "longitude": -114.4483359,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_14288039",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 36.3055422,
+    "longitude": -114.4185687,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_133084866",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.1500061,
+    "longitude": -114.5741618,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_172682539",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 36.036296,
+    "longitude": -114.7087721,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_173793375",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.719243,
+    "longitude": -114.4827521,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_196851060",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 36.2987354,
+    "longitude": -114.4043346,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_200128906",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.8702859,
+    "longitude": -114.6347518,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_255013565",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.7286522,
+    "longitude": -114.5112091,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_256808418",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.7312574,
+    "longitude": -114.6353795,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_263815951",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.9245952,
+    "longitude": -114.6321905,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_316171618",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.1756285,
+    "longitude": -114.568212,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_316306233",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.2652124,
+    "longitude": -114.5822605,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_358443686",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.128882,
+    "longitude": -114.3585736,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_358564354",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.8555683,
+    "longitude": -114.5235962,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_358741871",
+    "name": "Aha Quin Road",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.883273,
+    "longitude": -114.5143938,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_443100329",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.7084606,
+    "longitude": -114.7255237,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_454591773",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.7327866,
+    "longitude": -114.6497813,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_501703588",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.8359083,
+    "longitude": -114.5892086,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_597175921",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.1240232,
+    "longitude": -114.6321895,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_597175925",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.124024,
+    "longitude": -114.6320886,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_619934221",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.4532383,
+    "longitude": -114.3613938,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_619934222",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.4532661,
+    "longitude": -114.361327,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_620523458",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.462936,
+    "longitude": -114.350369,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_622155008",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.4516611,
+    "longitude": -114.3634717,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_861118564",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.3544736,
+    "longitude": -114.1722829,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_924649960",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 36.0902515,
+    "longitude": -114.103644,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1026866122",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.8675621,
+    "longitude": -114.6324207,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1069871890",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.8358613,
+    "longitude": -114.589125,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1069871891",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.8358864,
+    "longitude": -114.5893013,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1069871892",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.8387792,
+    "longitude": -114.5911623,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1069873501",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.8477793,
+    "longitude": -114.60435,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1087501365",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.8557479,
+    "longitude": -114.5235578,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1095082135",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6011043,
+    "longitude": -114.5322947,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1102799283",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.4920543,
+    "longitude": -114.4054959,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1105237943",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.4823056,
+    "longitude": -114.405429,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1105259924",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6030796,
+    "longitude": -114.5340825,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1105972689",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.8707787,
+    "longitude": -114.6350926,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1105972690",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.8703517,
+    "longitude": -114.6339306,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1105972691",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.8687042,
+    "longitude": -114.6332241,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1105972693",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.8654372,
+    "longitude": -114.6307264,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1127976803",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6058766,
+    "longitude": -114.5320516,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1183857047",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.139038,
+    "longitude": -114.5717431,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1183857048",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.139142,
+    "longitude": -114.5717778,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1183857613",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.1700592,
+    "longitude": -114.5705106,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1218178310",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 36.1373497,
+    "longitude": -114.7126985,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1230152342",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.0142493,
+    "longitude": -114.6387629,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1271022221",
+    "name": "Big River Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.1222613,
+    "longitude": -114.3712346,
+    "city": "Big River",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1303359429",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.9058146,
+    "longitude": -114.4857263,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1303359431",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.9059136,
+    "longitude": -114.4858229,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1358282821",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.1498842,
+    "longitude": -114.5741265,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1358282823",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.1546167,
+    "longitude": -114.5723098,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1358282824",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.1543846,
+    "longitude": -114.5723674,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1360648910",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.1228695,
+    "longitude": -114.6236709,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1436574210",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.0903311,
+    "longitude": -114.6246624,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1443133156",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.0792857,
+    "longitude": -114.607153,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_174827387",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.2377304,
+    "longitude": -113.5845701,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_616122817",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.0639965,
+    "longitude": -111.5011865,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_825901849",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.5929438,
+    "longitude": -112.4186724,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_826330482",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.1189928,
+    "longitude": -112.0147749,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_914051609",
+    "name": "Wahweap Marina Main Boat Launch",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 36.9942614,
+    "longitude": -111.4842091,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_951535811",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5495749,
+    "longitude": -111.9224888,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1025281570",
+    "name": "Lees Ferry Boat Launch",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 36.8657627,
+    "longitude": -111.5864575,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1249443453",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 36.966058,
+    "longitude": -111.4422428,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1340739232",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6164921,
+    "longitude": -112.2485312,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1341401217",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6110182,
+    "longitude": -112.2762514,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1341431505",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6067388,
+    "longitude": -112.2818657,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1393953362",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5879181,
+    "longitude": -112.1197367,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2008628976",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 36.9909039,
+    "longitude": -111.486952,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2211939400",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.0490832,
+    "longitude": -109.1880029,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2224634399",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.0711211,
+    "longitude": -111.5221243,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2224634427",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.0727567,
+    "longitude": -111.5243894,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2224686198",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.1119465,
+    "longitude": -111.5827626,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2623005179",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3762812,
+    "longitude": -111.747866,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2730516201",
+    "name": "Castle Creek Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.9060273,
+    "longitude": -112.3083017,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2738927045",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.8553985,
+    "longitude": -112.2897925,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2747449862",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.8765788,
+    "longitude": -112.296463,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2915597803",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4322109,
+    "longitude": -111.9375742,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3077653348",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.8483281,
+    "longitude": -112.2585382,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3077653433",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.852351,
+    "longitude": -112.2573339,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3077653580",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.8556596,
+    "longitude": -112.2551994,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3213300565",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.2309215,
+    "longitude": -111.3428677,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3213300576",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.2310661,
+    "longitude": -111.3466109,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3296237853",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.7545142,
+    "longitude": -109.7009844,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3345299128",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.8358255,
+    "longitude": -111.6376278,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3442097364",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5731767,
+    "longitude": -111.5374386,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3442097369",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5761454,
+    "longitude": -111.5340019,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3443093649",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5760232,
+    "longitude": -111.2572123,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3443093652",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5769404,
+    "longitude": -111.2546852,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3450461250",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.9869135,
+    "longitude": -111.7215674,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3462148461",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.7537852,
+    "longitude": -112.0055377,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3462208688",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.7513451,
+    "longitude": -112.0175325,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3610814858",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.3135457,
+    "longitude": -110.8783617,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4053795882",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3744452,
+    "longitude": -111.9215301,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4241063564",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 36.9608375,
+    "longitude": -111.4278072,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4243937355",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 36.9622619,
+    "longitude": -111.4263491,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4243939542",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 36.9636289,
+    "longitude": -111.4291574,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4684612927",
+    "name": "Pearce Ferry Take-Out",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 36.1258863,
+    "longitude": -113.9821908,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5173973894",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.5157115,
+    "longitude": -112.3843316,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6789122372",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.5868765,
+    "longitude": -112.4232465,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6993789160",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6249171,
+    "longitude": -111.2039686,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7179956800",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3817783,
+    "longitude": -111.8859552,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7624434699",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.8721794,
+    "longitude": -111.6153887,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7731709562",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.8762261,
+    "longitude": -109.4155806,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8386041509",
+    "name": "Kearny Lake Launch",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.0521413,
+    "longitude": -110.8988768,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8429793023",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6206849,
+    "longitude": -112.2539241,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8597402617",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.170219,
+    "longitude": -111.4733865,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8645434863",
+    "name": "Salt River Rafter Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6193575,
+    "longitude": -110.9227666,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8719243814",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3733715,
+    "longitude": -112.1356959,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9441126235",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.7716659,
+    "longitude": -111.6640353,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9761636199",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.1276806,
+    "longitude": -109.9525831,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9900079432",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.1304485,
+    "longitude": -109.3610313,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9989781697",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 36.8656578,
+    "longitude": -111.5869618,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10036505114",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.2571862,
+    "longitude": -111.7276756,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10086229534",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 31.4021587,
+    "longitude": -111.086993,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10198051310",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.9733386,
+    "longitude": -110.6431426,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10537056924",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3543886,
+    "longitude": -112.4302371,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10905158440",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.5545353,
+    "longitude": -111.1959943,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10934040675",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.2736045,
+    "longitude": -110.0713212,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11169584052",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.3268734,
+    "longitude": -110.7019632,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11430276693",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.0782036,
+    "longitude": -113.0220431,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11751780736",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5759364,
+    "longitude": -111.5362873,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11751780738",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.576108,
+    "longitude": -111.5339631,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12584344046",
+    "name": "Diamond Creek Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.7661303,
+    "longitude": -113.3730719,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12755638185",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.6088534,
+    "longitude": -112.439134,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13639422796",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4743163,
+    "longitude": -111.9138036,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_205442051",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 31.4936297,
+    "longitude": -110.8555793,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_205450284",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 31.495834,
+    "longitude": -110.855998,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_263844731",
+    "name": "Windy Hill",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6705425,
+    "longitude": -111.0931961,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_288006952",
+    "name": "Boat Launch",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4334001,
+    "longitude": -111.931223,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_288006953",
+    "name": "Boat Launch",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4345205,
+    "longitude": -111.937893,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_320534792",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6709888,
+    "longitude": -111.1419538,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_337976249",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.9867931,
+    "longitude": -111.7219068,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_387889817",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.2709909,
+    "longitude": -110.0743231,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_425593596",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.8739445,
+    "longitude": -109.4281835,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_442978201",
+    "name": "Schoolhouse",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6506654,
+    "longitude": -111.0125145,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_535074140",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.6170523,
+    "longitude": -112.5486236,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_637928255",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.2512297,
+    "longitude": -112.2145333,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_651207427",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5110858,
+    "longitude": -111.906749,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_664897796",
+    "name": "Silverbell Lake Slipway",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.2855623,
+    "longitude": -111.0337411,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_664897798",
+    "name": "Silverbell Lake Slipway South",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 32.282001,
+    "longitude": -111.0313951,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_777299008",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3544289,
+    "longitude": -112.43034,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_808872224",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3752036,
+    "longitude": -111.9418608,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_814626238",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.0210129,
+    "longitude": -111.4073571,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_816366233",
+    "name": "JoJoba Boating Launch",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.8378572,
+    "longitude": -111.6361711,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_816545506",
+    "name": "Bobcat Boat Launch",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6666848,
+    "longitude": -111.0859562,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_816545508",
+    "name": "Grapevine",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6476076,
+    "longitude": -111.0468652,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_816550855",
+    "name": "Indian Point",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.7625433,
+    "longitude": -111.2360882,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_847007592",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3170357,
+    "longitude": -111.8729079,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_938552061",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.5929138,
+    "longitude": -112.4187436,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_952437321",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6692732,
+    "longitude": -111.0869181,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1017494318",
+    "name": "Cholla Boat Launch",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.7247079,
+    "longitude": -111.2006857,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1023415996",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.3338443,
+    "longitude": -110.9438099,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1054813086",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6728347,
+    "longitude": -111.0907782,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1054813087",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.6704923,
+    "longitude": -111.0932189,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1062591292",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.1277339,
+    "longitude": -109.9525618,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1096391392",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.761914,
+    "longitude": -110.5178404,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1102268550",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 31.4021563,
+    "longitude": -111.0870721,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1108068874",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.3469255,
+    "longitude": -112.4414986,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1115020644",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.973361,
+    "longitude": -110.6435574,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1144266371",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.1743838,
+    "longitude": -109.9610047,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1163930749",
+    "name": "Laguna Boat Launch",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5339576,
+    "longitude": -111.4169796,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1173682032",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.5545372,
+    "longitude": -111.1970191,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1215205254",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 31.4936419,
+    "longitude": -110.8554727,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1237334773",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 31.5261347,
+    "longitude": -111.2540584,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1265004641",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5760626,
+    "longitude": -111.5362969,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1265004642",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5761959,
+    "longitude": -111.5340279,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1316508501",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.283584,
+    "longitude": -112.1584276,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1316987677",
+    "name": "Marina Launch",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5355718,
+    "longitude": -111.4233324,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1316987939",
+    "name": "Palo Verde Boat Launch",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5375733,
+    "longitude": -111.4290823,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1343295294",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.7514138,
+    "longitude": -112.0175133,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1376464465",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.9366484,
+    "longitude": -110.2904098,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1377613448",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 34.6091016,
+    "longitude": -112.4390995,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1413450986",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.5759536,
+    "longitude": -111.5363205,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1431358530",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 35.2113794,
+    "longitude": -112.1253326,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1487785927",
+    "name": "Boat Ramp",
+    "formatted_address": ", Arizona, USA",
+    "latitude": 33.4744373,
+    "longitude": -111.9137197,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]

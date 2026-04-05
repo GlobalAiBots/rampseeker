@@ -1,0 +1,4532 @@
+[
+  {
+    "place_id": "osm_99305678",
+    "name": "Cussewago",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.6492827,
+    "longitude": -80.1833371,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_112226656",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2340939,
+    "longitude": -77.2180058,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_148684005",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0370641,
+    "longitude": -79.0618361,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_148785056",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7767657,
+    "longitude": -79.212911,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_200733707",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.939283,
+    "longitude": -80.1265849,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_200906738",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.310839,
+    "longitude": -80.472066,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_200934355",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.3217639,
+    "longitude": -80.4853787,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_200982163",
+    "name": "Private Boat Launch, No Kayaks Or Canoes",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.2675262,
+    "longitude": -79.844226,
+    "city": "Kennerdell",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_360413641",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3435415,
+    "longitude": -76.9274238,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_360660820",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3323914,
+    "longitude": -76.9171833,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_376024698",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.5110437,
+    "longitude": -80.4721541,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_382414280",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.5451283,
+    "longitude": -80.4944383,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_412538071",
+    "name": "Boat Launch",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.2731094,
+    "longitude": -80.4585084,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_476208906",
+    "name": "Howe Township Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4917186,
+    "longitude": -77.0972436,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_565854262",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2925549,
+    "longitude": -78.1845483,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_595487741",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2411444,
+    "longitude": -75.6498786,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_595488139",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2637083,
+    "longitude": -75.778209,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_675436015",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8894468,
+    "longitude": -76.7011996,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_676528080",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.6917553,
+    "longitude": -80.2894499,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_960486419",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4232026,
+    "longitude": -77.0061763,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1200830537",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7928873,
+    "longitude": -76.9125834,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1287130076",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3092706,
+    "longitude": -75.9217832,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1289397874",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3968673,
+    "longitude": -75.9738658,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1393835906",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9778755,
+    "longitude": -80.0174429,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1650701678",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1206168,
+    "longitude": -76.2138708,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1674056641",
+    "name": "Birdie'S Landing (Private)",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3479966,
+    "longitude": -79.8701373,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1735997174",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2477632,
+    "longitude": -80.4163478,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1740934198",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7151873,
+    "longitude": -79.3852557,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1752935518",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7348115,
+    "longitude": -79.9044398,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1777696315",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2720565,
+    "longitude": -76.9137138,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1778767374",
+    "name": "Fort Hunter Access",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3435183,
+    "longitude": -76.9113038,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1799112292",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7100645,
+    "longitude": -79.8438697,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2691828554",
+    "name": "Dry Brooks Boat Launch",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3849662,
+    "longitude": -76.0333932,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2942033783",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3935205,
+    "longitude": -77.8753085,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2974988626",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.3815819,
+    "longitude": -79.8199729,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3004112058",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.9364972,
+    "longitude": -79.9870359,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3066783258",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7162423,
+    "longitude": -76.7876756,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3178026289",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2087046,
+    "longitude": -76.3171998,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3279720279",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0333481,
+    "longitude": -79.8774006,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3358883872",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.9487996,
+    "longitude": -80.1077762,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3358883903",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.9488265,
+    "longitude": -80.1076555,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3362875265",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.9405916,
+    "longitude": -80.0911503,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3362879115",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.9519571,
+    "longitude": -80.0406644,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3365193545",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.9674693,
+    "longitude": -80.1238869,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3365370108",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.947222,
+    "longitude": -80.0401027,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3371501879",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.9580277,
+    "longitude": -80.0701293,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3374275149",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.9612472,
+    "longitude": -80.1002595,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3374275701",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.9607753,
+    "longitude": -80.0982558,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3392200273",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.9236741,
+    "longitude": -80.0690969,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3689951140",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4373993,
+    "longitude": -80.0042991,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3721761097",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.3440383,
+    "longitude": -80.1064392,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3721761526",
+    "name": "Launch #1",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.3825488,
+    "longitude": -80.0937536,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3721761556",
+    "name": "Launch #2",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.4055938,
+    "longitude": -80.1236157,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3727949599",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.6946742,
+    "longitude": -80.0944904,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3730949577",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.4190895,
+    "longitude": -80.1487586,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3730949596",
+    "name": "Boat Launch #3",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.4255027,
+    "longitude": -80.1511713,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3731021904",
+    "name": "Boat Launch #4",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.4167911,
+    "longitude": -80.1298559,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3731036456",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.4307621,
+    "longitude": -80.1681443,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3731036457",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.4460583,
+    "longitude": -80.1806663,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3731036458",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.4461894,
+    "longitude": -80.1790483,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3731613589",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.6577421,
+    "longitude": -80.4628962,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3731624062",
+    "name": "Alcatraz",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.6680907,
+    "longitude": -80.477788,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3812138448",
+    "name": "Middletown Boat Launch",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1859514,
+    "longitude": -76.7330151,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3812680063",
+    "name": "Highspire Boat Landing",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2048102,
+    "longitude": -76.788094,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3813071258",
+    "name": "Boat Ramp / Riverside Park",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3940367,
+    "longitude": -77.938411,
+    "city": "Mapleton",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3842063315",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5157116,
+    "longitude": -79.8489727,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3914824461",
+    "name": "Public Boat Launch Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.312074,
+    "longitude": -79.8289473,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4113147721",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0306836,
+    "longitude": -76.5091231,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4162131962",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7118697,
+    "longitude": -78.6419883,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4208105720",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2957271,
+    "longitude": -78.1805405,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4244740429",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2403493,
+    "longitude": -79.9370892,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4294819370",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.268848,
+    "longitude": -76.2353183,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4380745520",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1784125,
+    "longitude": -79.7776085,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4576356812",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.204102,
+    "longitude": -76.3095326,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4638274474",
+    "name": "Colvin Area Boat Launch",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0393,
+    "longitude": -78.6445653,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4900716022",
+    "name": "Fisherman'S Cove Boat Launch",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.3214332,
+    "longitude": -79.8495747,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4960287291",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.3098302,
+    "longitude": -80.4768562,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4960378197",
+    "name": "Clark Recreation Area Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.2861829,
+    "longitude": -80.4274356,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4960378207",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.2878783,
+    "longitude": -80.4228133,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4960378215",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.2870636,
+    "longitude": -80.4246975,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4960396567",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.2945931,
+    "longitude": -80.4324305,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4962956640",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3949341,
+    "longitude": -79.8665005,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5019247262",
+    "name": "Canoe Launch",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.4636939,
+    "longitude": -80.0012652,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5296415897",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9358029,
+    "longitude": -77.4494031,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5328095471",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1759084,
+    "longitude": -76.7252418,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5334168456",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.9467496,
+    "longitude": -80.0913907,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5369190443",
+    "name": "Harmony Canoe & Kayak Launch",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.802704,
+    "longitude": -80.1319873,
+    "city": "Harmony",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5380713723",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.9519049,
+    "longitude": -80.0407586,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5380713724",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.9519877,
+    "longitude": -80.0405613,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5509534949",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.260992,
+    "longitude": -77.0415046,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5521422616",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2708595,
+    "longitude": -76.9516707,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5529424332",
+    "name": "Lake Canadohta Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.8146252,
+    "longitude": -79.8407376,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5529600162",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.9132813,
+    "longitude": -79.8141149,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5578942377",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0955711,
+    "longitude": -79.7434768,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5609619654",
+    "name": "Canoe / Kayak Launch",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2361396,
+    "longitude": -77.2804972,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5737573015",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4109228,
+    "longitude": -78.6881074,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5807307564",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8103367,
+    "longitude": -76.0604136,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5904004766",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4425649,
+    "longitude": -78.0390278,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5904011639",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.375442,
+    "longitude": -78.1617365,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5904012868",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3002441,
+    "longitude": -78.207975,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5904022923",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2446303,
+    "longitude": -78.232361,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5904392636",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2523954,
+    "longitude": -76.8849055,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5904393220",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2297531,
+    "longitude": -76.8644941,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5904400589",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1514983,
+    "longitude": -76.7476279,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6066597922",
+    "name": "New Market Access",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2229854,
+    "longitude": -76.8459234,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6287404562",
+    "name": "Lower Allen Community Park Access",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1724365,
+    "longitude": -76.9137467,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6376856039",
+    "name": "Swatara Creek Park Access",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2874456,
+    "longitude": -76.6780814,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6383809498",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2118989,
+    "longitude": -76.9065926,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6437207285",
+    "name": "Point Boat Launch",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4555577,
+    "longitude": -77.9786154,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6461549903",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2707974,
+    "longitude": -76.7070833,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6504642627",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2081468,
+    "longitude": -76.7997087,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6509720240",
+    "name": "Tuttle Point Boat Launch",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.6448295,
+    "longitude": -80.4891227,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6595153554",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4325911,
+    "longitude": -79.9751431,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6764644456",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0368058,
+    "longitude": -78.6335508,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6764644458",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0296447,
+    "longitude": -78.6406364,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6775895787",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3158757,
+    "longitude": -78.9137483,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6824310596",
+    "name": "Main Boat Launch",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7941523,
+    "longitude": -76.8954111,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6927499404",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2483115,
+    "longitude": -75.7158183,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6935381987",
+    "name": "State Hill Boat Launch",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3702135,
+    "longitude": -76.0445828,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6935381989",
+    "name": "Sheidy Boat Launch",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4118134,
+    "longitude": -76.0882256,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6935382014",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4118527,
+    "longitude": -76.0879415,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7234066695",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1254551,
+    "longitude": -79.5255052,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7557408854",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.4389554,
+    "longitude": -79.9559791,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7653063466",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7114381,
+    "longitude": -78.644774,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7742917740",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0403942,
+    "longitude": -79.7242171,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7778220697",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.798641,
+    "longitude": -76.3058166,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7778221008",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7672736,
+    "longitude": -76.2723764,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7779466905",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0796289,
+    "longitude": -76.88107,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7805196765",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.1117804,
+    "longitude": -80.4367855,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7837651179",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.6212279,
+    "longitude": -79.9171945,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7903707480",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0827191,
+    "longitude": -76.8837651,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7903707482",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0686832,
+    "longitude": -76.908355,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7905416053",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0649596,
+    "longitude": -76.8973559,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7905649139",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.209579,
+    "longitude": -75.7967631,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7905659573",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0662203,
+    "longitude": -75.7210324,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7905659578",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0645682,
+    "longitude": -75.7291622,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7905659580",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0649791,
+    "longitude": -75.7293727,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7905866293",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7917946,
+    "longitude": -76.9006392,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7905979994",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7970296,
+    "longitude": -76.9105367,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7905979996",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7973506,
+    "longitude": -76.9104886,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7905980002",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8032732,
+    "longitude": -76.9069314,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8147919062",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0585955,
+    "longitude": -76.6115109,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8207653728",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2293879,
+    "longitude": -77.2789152,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8258163631",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4552553,
+    "longitude": -77.1751069,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8279728887",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0209429,
+    "longitude": -79.9168579,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8279728897",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0035059,
+    "longitude": -79.9943463,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8279739217",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.980992,
+    "longitude": -80.0132396,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8279739218",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9530924,
+    "longitude": -80.0048498,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8279739219",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9310783,
+    "longitude": -79.9343855,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8279739221",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9838241,
+    "longitude": -80.007843,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8279739223",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9318578,
+    "longitude": -79.935107,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8279739226",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9331762,
+    "longitude": -79.936322,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8279739227",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9500061,
+    "longitude": -79.9535928,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8279739228",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8961642,
+    "longitude": -79.9237187,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8376177240",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2236109,
+    "longitude": -75.6152171,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8415189892",
+    "name": "Kayak Launch",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4195335,
+    "longitude": -76.1053324,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8668301261",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9661568,
+    "longitude": -78.4950992,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8700735163",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.169087,
+    "longitude": -76.7237307,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8786599871",
+    "name": "Corbin'S Island Boat Launch",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4289141,
+    "longitude": -77.9897857,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8814948510",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0451271,
+    "longitude": -79.6563127,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8843432150",
+    "name": "PFBC Glenfield Launch Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5142299,
+    "longitude": -80.1203032,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8846878713",
+    "name": "Big Bend Boat Launch",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.2848666,
+    "longitude": -80.3206897,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8873841030",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3515436,
+    "longitude": -76.9306886,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9035645777",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7494227,
+    "longitude": -79.3924273,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9114433872",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2892923,
+    "longitude": -75.8677847,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9178129796",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.9691613,
+    "longitude": -80.0227847,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9548470202",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1480962,
+    "longitude": -78.9676101,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9548481867",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1763196,
+    "longitude": -78.9592633,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9625015599",
+    "name": "Canoe Launch",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.3537857,
+    "longitude": -80.3979022,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9741837081",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2564194,
+    "longitude": -80.4006476,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9909632519",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.482499,
+    "longitude": -78.0120575,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9941708882",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0491664,
+    "longitude": -78.8560154,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9941721867",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.029466,
+    "longitude": -78.8703892,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9983542393",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0501166,
+    "longitude": -78.8734687,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10154509556",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2580932,
+    "longitude": -76.9017474,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10197829490",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9257006,
+    "longitude": -79.8007667,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10229529689",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1135899,
+    "longitude": -79.760631,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10261146469",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8128971,
+    "longitude": -77.1888965,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10274757735",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.6516346,
+    "longitude": -80.1590964,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10839828194",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1163144,
+    "longitude": -79.5334135,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10839828195",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1137852,
+    "longitude": -79.5277515,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10853992252",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9961748,
+    "longitude": -77.9275403,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10853992255",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9954679,
+    "longitude": -77.9279014,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10956368797",
+    "name": "Kayak And Canoe Launch Point",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.2635181,
+    "longitude": -79.8383854,
+    "city": "Kennerdell",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10959593682",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.4981443,
+    "longitude": -80.4590638,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10998567057",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.6095434,
+    "longitude": -80.1054068,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11011129030",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.6294332,
+    "longitude": -80.1593143,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11152223571",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.5602274,
+    "longitude": -80.2000027,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11327858491",
+    "name": "West Middlesex Boat Launch",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.1722675,
+    "longitude": -80.4595327,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11327858496",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.1718936,
+    "longitude": -80.459047,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11362282602",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.5184061,
+    "longitude": -80.4828648,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11374089584",
+    "name": "York Haven Dam Portage Takeout",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1152535,
+    "longitude": -76.7142941,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11374217142",
+    "name": "Pequea Access",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.887981,
+    "longitude": -76.3667365,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11374217154",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8885247,
+    "longitude": -76.3673579,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11374217160",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8873084,
+    "longitude": -76.3657986,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11404907562",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1363612,
+    "longitude": -79.8921396,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11405348746",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.2934768,
+    "longitude": -80.4090815,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11667158388",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7583801,
+    "longitude": -76.2330337,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11667158427",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7669792,
+    "longitude": -76.2720051,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11879575706",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.6370779,
+    "longitude": -80.161874,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11935926017",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3996458,
+    "longitude": -77.0169149,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11950086426",
+    "name": "Cambridge Landing",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.805395,
+    "longitude": -80.0578826,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11992952119",
+    "name": "Shaws Landing Boat Launch",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.5406947,
+    "longitude": -80.1039567,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12049694193",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2114173,
+    "longitude": -76.3191718,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12109325036",
+    "name": "Marsh Creek West Boat Launch",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0690028,
+    "longitude": -75.7299109,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12148398370",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.2850792,
+    "longitude": -80.3206456,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12154241223",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5697989,
+    "longitude": -80.2236396,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12228216395",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3384097,
+    "longitude": -80.112678,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12272006698",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.3227998,
+    "longitude": -80.3440658,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12755191115",
+    "name": "New Cumberland Borough Park Access",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2184537,
+    "longitude": -76.8646362,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12772056451",
+    "name": "Frankstown Canoe Launch",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4433689,
+    "longitude": -78.3542202,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12855419311",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.796742,
+    "longitude": -79.3654816,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12855419387",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.74949,
+    "longitude": -79.4143783,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13009207426",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0827877,
+    "longitude": -76.8838494,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13086228753",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9821517,
+    "longitude": -76.4647656,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13099500065",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1994775,
+    "longitude": -75.7892059,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13321664998",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.256512,
+    "longitude": -77.0187907,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_214556402",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4693874,
+    "longitude": -76.9492955,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_234968517",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5342739,
+    "longitude": -79.8423085,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_329240784",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4855721,
+    "longitude": -79.8717395,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_357564991",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4971582,
+    "longitude": -79.851827,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_364966872",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4374113,
+    "longitude": -80.0042911,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_375105314",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4931864,
+    "longitude": -79.9293983,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_375105317",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4930321,
+    "longitude": -79.9277699,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_386580720",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5031185,
+    "longitude": -80.389812,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_386580721",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5031596,
+    "longitude": -80.3895718,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_386701498",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5089889,
+    "longitude": -80.3881798,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_440348633",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1783245,
+    "longitude": -79.777694,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_443480304",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2733924,
+    "longitude": -79.8880418,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_443481241",
+    "name": "Public Boat Launch (Pa. Fish And Boat Commission)",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3523073,
+    "longitude": -79.8712277,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_451824307",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4150238,
+    "longitude": -79.9153121,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_451824308",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.414981,
+    "longitude": -79.9152946,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_506585927",
+    "name": "Braddock Public Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3950459,
+    "longitude": -79.8663696,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_508799506",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3119331,
+    "longitude": -78.1724442,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_516441808",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.465939,
+    "longitude": -80.0526423,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_548224919",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9357562,
+    "longitude": -77.4493641,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_667066864",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7545523,
+    "longitude": -79.395427,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_681682078",
+    "name": "Acme Dam Boat Launch",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1189236,
+    "longitude": -79.4267122,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_702303074",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4325385,
+    "longitude": -79.9751424,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_776654311",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2705742,
+    "longitude": -79.8910447,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_800048062",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.8069751,
+    "longitude": -80.0435681,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_819991360",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.2293908,
+    "longitude": -77.2788717,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_829075678",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.533729,
+    "longitude": -80.1852539,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_833353869",
+    "name": "Boat Launch No. 3",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0796189,
+    "longitude": -76.8810028,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_833554506",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0551354,
+    "longitude": -76.5507717,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_833554513",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1190058,
+    "longitude": -76.709564,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_847014079",
+    "name": "Boat Launch No. 2",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0827392,
+    "longitude": -76.8837372,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_847014081",
+    "name": "Boat Launch No. 1",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0686088,
+    "longitude": -76.9084001,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_847191429",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0649451,
+    "longitude": -76.8973286,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_847232140",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7917886,
+    "longitude": -76.9006609,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_847248090",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7970325,
+    "longitude": -76.9105475,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_847248091",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.7973374,
+    "longitude": -76.9105136,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_847248094",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.8033037,
+    "longitude": -76.9069096,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_888240214",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.4553092,
+    "longitude": -77.1751235,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_934857335",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3293342,
+    "longitude": -76.9006575,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_955506404",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5142905,
+    "longitude": -80.1202789,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1054312609",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9897336,
+    "longitude": -78.4745703,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1107090414",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1134554,
+    "longitude": -79.7609331,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1109083731",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9258894,
+    "longitude": -79.8006572,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1109127011",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9222351,
+    "longitude": -79.8018178,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1110076757",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1139017,
+    "longitude": -79.5273643,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1110076767",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1164066,
+    "longitude": -79.5334026,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1196193370",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3778002,
+    "longitude": -78.0713515,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1220326734",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.593856,
+    "longitude": -80.0021948,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1233917682",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.0375891,
+    "longitude": -80.4030516,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1258818548",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0578438,
+    "longitude": -79.2259831,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1293761819",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.5406143,
+    "longitude": -80.1038983,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1293761820",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.5404602,
+    "longitude": -80.1036243,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1312146108",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3637928,
+    "longitude": -75.9676657,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1312695738",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.069019,
+    "longitude": -79.8921817,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1313092504",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5699586,
+    "longitude": -80.2232325,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1358612542",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.1759162,
+    "longitude": -76.7249479,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1360919232",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.5296688,
+    "longitude": -80.17228,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1382769089",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9116932,
+    "longitude": -78.052681,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1382769090",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 39.9112178,
+    "longitude": -78.0527582,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1415656171",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.0828081,
+    "longitude": -76.8838157,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1423133356",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 41.2889958,
+    "longitude": -79.8471438,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1427789124",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.3754221,
+    "longitude": -79.3890002,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1452583866",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 40.256441,
+    "longitude": -77.0188514,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2830648673",
+    "name": "Niagara Boat Launch",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.1455023,
+    "longitude": -80.1309796,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2830649047",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.1253674,
+    "longitude": -80.1465633,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2830910694",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.1535634,
+    "longitude": -80.114425,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10670120247",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.0212955,
+    "longitude": -80.3743363,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11987492471",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.1577434,
+    "longitude": -80.0936459,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12008867648",
+    "name": "Shades Beach Boat Launch",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.1910304,
+    "longitude": -79.9627968,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_843529116",
+    "name": "Lakeside Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.154692,
+    "longitude": -80.037744,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_843559759",
+    "name": "U.S. Coast Guard - Station Erie",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.1538896,
+    "longitude": -80.0789355,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_849620762",
+    "name": "Bayfront Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.1355492,
+    "longitude": -80.0901243,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_876647604",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.0212,
+    "longitude": -80.3744733,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_881700896",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.1324196,
+    "longitude": -80.0976692,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_881700897",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.1323838,
+    "longitude": -80.0977675,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_881700898",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.1322908,
+    "longitude": -80.0979604,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_881700900",
+    "name": "Chestnut Street Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.1328714,
+    "longitude": -80.0982082,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_883815543",
+    "name": "East Avenue Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.1448502,
+    "longitude": -80.0654011,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_883815544",
+    "name": "East Avenue Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.1448341,
+    "longitude": -80.0654741,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_883815545",
+    "name": "East Avenue Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.1448635,
+    "longitude": -80.0653285,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_887050839",
+    "name": "Cowell Beach Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.1814787,
+    "longitude": -79.9832333,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_999986668",
+    "name": "Lake Pleasant Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.0033978,
+    "longitude": -79.8996945,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1039429758",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.148166,
+    "longitude": -80.075477,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1039429759",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.1481258,
+    "longitude": -80.0754415,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1180924343",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.1352158,
+    "longitude": -80.0909985,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1293073304",
+    "name": "Boat Ramp",
+    "formatted_address": ", Pennsylvania, USA",
+    "latitude": 42.1599936,
+    "longitude": -80.0941368,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]

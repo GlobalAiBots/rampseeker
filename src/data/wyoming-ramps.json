@@ -1,0 +1,1157 @@
+[
+  {
+    "place_id": "osm_466121074",
+    "name": "Moose Landing",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.6561929,
+    "longitude": -110.714046,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1183476748",
+    "name": "Fremont Lake",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.9051751,
+    "longitude": -109.8358203,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1183479245",
+    "name": "Lewis Lake",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 44.2826159,
+    "longitude": -110.6288299,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1195243714",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.9652811,
+    "longitude": -109.8410688,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1195318673",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.9924293,
+    "longitude": -109.9027529,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2029345959",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.4416032,
+    "longitude": -109.5332288,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2029347236",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.4502771,
+    "longitude": -109.5405623,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2083857919",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.4973206,
+    "longitude": -104.9639831,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2083857926",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.496377,
+    "longitude": -104.9641726,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2488143943",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.6358061,
+    "longitude": -110.5229558,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2535857732",
+    "name": "Lakeside",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.2194014,
+    "longitude": -108.1818574,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2570824660",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.6995989,
+    "longitude": -108.9261395,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3184553839",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.5210136,
+    "longitude": -104.9826377,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3317148190",
+    "name": "Moose Landing",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.6558955,
+    "longitude": -110.7141656,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3368607929",
+    "name": "Lusby Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.5936091,
+    "longitude": -106.615864,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3438439564",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.0959861,
+    "longitude": -109.9610245,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3877010360",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.9006835,
+    "longitude": -110.642733,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4078276624",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.0211039,
+    "longitude": -106.7298814,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4085821027",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.692192,
+    "longitude": -108.1632875,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5960176498",
+    "name": "Pritchard Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.2916149,
+    "longitude": -110.790804,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6135667800",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.96126,
+    "longitude": -109.8545438,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7658863575",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.1858318,
+    "longitude": -110.9548145,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7658863577",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.185888,
+    "longitude": -110.9544939,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7661775623",
+    "name": "Elbow Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.2131373,
+    "longitude": -110.789534,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8064344128",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.7517573,
+    "longitude": -110.0049554,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8461363482",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.4683968,
+    "longitude": -106.8655428,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8461363483",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.4677777,
+    "longitude": -106.8731736,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8721143395",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.221726,
+    "longitude": -110.0102214,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8833024833",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.6333398,
+    "longitude": -108.8785671,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9883665463",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.3013512,
+    "longitude": -110.775597,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9938782759",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.7719178,
+    "longitude": -106.531208,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10028013917",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.2047683,
+    "longitude": -110.8207692,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10028013918",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.204494,
+    "longitude": -110.8212558,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10738345607",
+    "name": "Boulder Lake Boating Site",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.8559649,
+    "longitude": -109.6223551,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10957878589",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.7606608,
+    "longitude": -110.6274484,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12091204293",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 44.0013981,
+    "longitude": -110.6915612,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12253808996",
+    "name": "New Fork River Mesa Bridge Public Access Area",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.8369801,
+    "longitude": -109.863329,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13046857264",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 44.1758293,
+    "longitude": -107.5027813,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13048156565",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 44.3590524,
+    "longitude": -108.3165573,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13048156739",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 44.3550107,
+    "longitude": -108.309646,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13300280539",
+    "name": "Wilson Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.5001678,
+    "longitude": -110.8408295,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13648440877",
+    "name": "Pacific Creek Landing",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.8457419,
+    "longitude": -110.5178476,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_243739368",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.030971,
+    "longitude": -110.0749512,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_245725702",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.654151,
+    "longitude": -108.1976382,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_246556957",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.3306764,
+    "longitude": -108.152322,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_302174194",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 44.1726704,
+    "longitude": -107.2152344,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_302174245",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 44.179065,
+    "longitude": -107.2212785,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_318105567",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.2048564,
+    "longitude": -110.8208679,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_329061141",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 44.286337,
+    "longitude": -106.9237573,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_329913722",
+    "name": "Gray Reef Dam Boat Launch",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.5683197,
+    "longitude": -106.7011215,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_329914552",
+    "name": "Lusby Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.5936826,
+    "longitude": -106.615801,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_332081072",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 44.2826508,
+    "longitude": -110.6286653,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_334243322",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.838645,
+    "longitude": -110.6168779,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_654786402",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.9614012,
+    "longitude": -109.8546588,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_820207785",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.2046195,
+    "longitude": -110.8213687,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_820532620",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.2132316,
+    "longitude": -110.7894831,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1083256480",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 42.6995484,
+    "longitude": -108.9261743,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1089390447",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 44.369929,
+    "longitude": -104.7935741,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1179807155",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.7605844,
+    "longitude": -110.6272148,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1293295523",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.4006725,
+    "longitude": -108.1694912,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1293295526",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.4006338,
+    "longitude": -108.1693492,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1293298815",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.3306636,
+    "longitude": -108.152236,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1293300140",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 43.2628532,
+    "longitude": -108.1927098,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2344073868",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.2358431,
+    "longitude": -105.8642628,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2409196044",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.1777683,
+    "longitude": -105.2377063,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2657543663",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.871402,
+    "longitude": -106.2216626,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3932458058",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.2382829,
+    "longitude": -105.9028183,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4235875871",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.888854,
+    "longitude": -105.7262986,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4235888205",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.3930449,
+    "longitude": -105.7875685,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4270705328",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.270746,
+    "longitude": -106.5909222,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10671349214",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.3319082,
+    "longitude": -106.7273618,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11267506578",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.6042881,
+    "longitude": -106.0900915,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_225648177",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.2369571,
+    "longitude": -105.8365263,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_225648179",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.2358004,
+    "longitude": -105.8642956,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_256391038",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.024036,
+    "longitude": -106.8676137,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1131051962",
+    "name": "Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.3318719,
+    "longitude": -106.7274517,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1185632262",
+    "name": "Don Johnson Boat Ramp",
+    "formatted_address": ", Wyoming, USA",
+    "latitude": 41.4509753,
+    "longitude": -106.8040892,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]

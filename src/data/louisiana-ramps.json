@@ -1,0 +1,5642 @@
+[
+  {
+    "place_id": "osm_114749252",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.1203585,
+    "longitude": -92.023037,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_114805367",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.8309134,
+    "longitude": -93.4929169,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_114910409",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.0972929,
+    "longitude": -93.3604092,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_114960102",
+    "name": "Gahagan Boat Launch",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.2992161,
+    "longitude": -93.2502943,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_115416967",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.943765,
+    "longitude": -91.6366491,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_123580334",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.2175901,
+    "longitude": -91.976827,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_123733990",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.1071829,
+    "longitude": -90.4231311,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_123863998",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.6613002,
+    "longitude": -91.1005756,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_124108647",
+    "name": "Francis Creek Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.6998003,
+    "longitude": -92.270068,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_124553245",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.5604335,
+    "longitude": -91.4105728,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_125908009",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.5198536,
+    "longitude": -89.9723097,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_227449108",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.1627418,
+    "longitude": -93.583606,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_366070238",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.3020402,
+    "longitude": -89.327668,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_392895192",
+    "name": "Hwy 33 (North) Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7584544,
+    "longitude": -92.4139675,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_411877008",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.2532086,
+    "longitude": -92.5139133,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_411877377",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.2486783,
+    "longitude": -92.5225675,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_630829234",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.5186739,
+    "longitude": -90.6620492,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_685768330",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.0913334,
+    "longitude": -91.9604808,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_686117375",
+    "name": "Spring Bayou Boat Launch",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.1200687,
+    "longitude": -92.0113389,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1046887193",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.3112021,
+    "longitude": -91.7854193,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1046952561",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.1743742,
+    "longitude": -91.6904799,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1047039585",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.2969956,
+    "longitude": -93.1178881,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1233739183",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.3925356,
+    "longitude": -90.0270393,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1323411927",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.0014707,
+    "longitude": -91.6653662,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1507010342",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.8032065,
+    "longitude": -90.8508363,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1755696268",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.6876075,
+    "longitude": -91.732767,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1755696271",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.6896397,
+    "longitude": -91.7371531,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1941128574",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.8666341,
+    "longitude": -93.4531974,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1941128586",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.8664913,
+    "longitude": -93.452695,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1941131601",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.8665998,
+    "longitude": -93.4539543,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2129463236",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.2264788,
+    "longitude": -89.6778238,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2297703422",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.4078907,
+    "longitude": -91.164565,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2297703779",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.4262329,
+    "longitude": -91.1682662,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2853059362",
+    "name": "WMA Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.3030632,
+    "longitude": -89.7064442,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3126215223",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.3480503,
+    "longitude": -91.0052085,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3200016579",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.2783922,
+    "longitude": -89.7835409,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3299355545",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.3128352,
+    "longitude": -89.249494,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3390375852",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.263115,
+    "longitude": -92.5608798,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3505750376",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.3958394,
+    "longitude": -89.3656665,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3517791716",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.4926456,
+    "longitude": -93.6965589,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3517791717",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.491978,
+    "longitude": -93.6958129,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3757905497",
+    "name": "Mardi Gras Pass",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.5352598,
+    "longitude": -89.7200767,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3859698251",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.9678355,
+    "longitude": -90.8584115,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3890449434",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.8958938,
+    "longitude": -90.5443324,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3943244150",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.4171616,
+    "longitude": -90.021766,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3943244153",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.4172611,
+    "longitude": -90.0217579,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4192536361",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.3824084,
+    "longitude": -90.0320446,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4315139702",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.3651845,
+    "longitude": -89.088647,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4315243939",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.0558218,
+    "longitude": -90.3721271,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4812634728",
+    "name": "Bayou D'Arbonne Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.5723992,
+    "longitude": -92.1545086,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4813377280",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.4873512,
+    "longitude": -91.4931083,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4813377281",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.4874948,
+    "longitude": -91.4929975,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4813378276",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.530753,
+    "longitude": -91.4936592,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4813378278",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.5309482,
+    "longitude": -91.4935959,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4936600872",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.8922409,
+    "longitude": -93.8219919,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4977459437",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.5484004,
+    "longitude": -90.1438963,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5139568037",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.8498195,
+    "longitude": -90.6791596,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5141374346",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.3772046,
+    "longitude": -90.5505182,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5242088297",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.3723148,
+    "longitude": -89.4476275,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5339935587",
+    "name": "Venice Marina Boat Launch",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.2406313,
+    "longitude": -89.3646179,
+    "city": "Venice",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5478120560",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.342809,
+    "longitude": -89.2802638,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5740158006",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.5268433,
+    "longitude": -92.2272926,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5888480726",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.4505657,
+    "longitude": -90.0729539,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5888649909",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.423221,
+    "longitude": -90.0831261,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5955371825",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.8328321,
+    "longitude": -90.4428325,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5961157337",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.3926123,
+    "longitude": -90.0366663,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5993631789",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.387689,
+    "longitude": -90.0474835,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6121578190",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.2854648,
+    "longitude": -89.3604724,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6157572696",
+    "name": "Cedar Point Boat Launch",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.3389578,
+    "longitude": -89.3547085,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6157572697",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.3783945,
+    "longitude": -89.2318404,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6157572699",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.3570093,
+    "longitude": -89.2730661,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6262739032",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.0447936,
+    "longitude": -91.8624998,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6306668484",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.8364395,
+    "longitude": -91.7904788,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6306760299",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.2100236,
+    "longitude": -91.7022466,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6330507957",
+    "name": "Meek'S Landing",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.700929,
+    "longitude": -92.2497001,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6337373533",
+    "name": "Stowe Creek Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7180267,
+    "longitude": -92.4137336,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6339429613",
+    "name": "North Spillway Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7146693,
+    "longitude": -92.3424972,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6339429614",
+    "name": "Downsville Spillway Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7069137,
+    "longitude": -92.34283,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6339429615",
+    "name": "Terral Island Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7571613,
+    "longitude": -92.378979,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6339429616",
+    "name": "North Below Spillway Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7128484,
+    "longitude": -92.3388899,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6339429617",
+    "name": "Jake'S Landing Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7596224,
+    "longitude": -92.4147829,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6339429618",
+    "name": "D'Arbonne Village East Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7860129,
+    "longitude": -92.4551464,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6339429619",
+    "name": "D'Arbonne Village West Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7869232,
+    "longitude": -92.457939,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6339429620",
+    "name": "State Park Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7747542,
+    "longitude": -92.4781888,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6346730139",
+    "name": "Lake Drain Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.6583911,
+    "longitude": -92.240977,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6348788868",
+    "name": "Holland Bluff Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.6322926,
+    "longitude": -92.2139404,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6367801100",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.9975378,
+    "longitude": -92.8961875,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6550797341",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.415843,
+    "longitude": -90.0928036,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6612336762",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.3656132,
+    "longitude": -90.8195638,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6612354399",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.3609683,
+    "longitude": -90.7285832,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6615727641",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.3961357,
+    "longitude": -90.0660231,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6615727733",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.3943445,
+    "longitude": -90.0652281,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6641931093",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.4455305,
+    "longitude": -93.6651482,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6970473087",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.2870782,
+    "longitude": -93.2562126,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7023095889",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.4351828,
+    "longitude": -90.4357059,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7157456427",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.2529022,
+    "longitude": -93.2450284,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7238031225",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7824084,
+    "longitude": -92.4358461,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7238051229",
+    "name": "Finch Lake Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.8539496,
+    "longitude": -92.0941485,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7238051230",
+    "name": "Hooker Hole Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.823487,
+    "longitude": -92.0750438,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7247509615",
+    "name": "Massingales Landing Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7378237,
+    "longitude": -92.3485433,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7247509616",
+    "name": "City Park Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7660324,
+    "longitude": -92.4178902,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7247509629",
+    "name": "Hog Pen Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.8206998,
+    "longitude": -92.5060344,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7247509632",
+    "name": "Hwy 33 (South) Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7565145,
+    "longitude": -92.4175729,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7247509633",
+    "name": "Gill'S Ferry Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7200722,
+    "longitude": -92.5205971,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7249203144",
+    "name": "Forsythe Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.5199182,
+    "longitude": -92.1329165,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7249212479",
+    "name": "Loch Lomond Landing",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.676062,
+    "longitude": -92.1397221,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7255914394",
+    "name": "Forks Ferry Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7734141,
+    "longitude": -92.4218562,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7256311865",
+    "name": "Sterlington Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.6992359,
+    "longitude": -92.0843972,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7258165781",
+    "name": "The Island At D'Arbonne Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7505849,
+    "longitude": -92.3776301,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7285403130",
+    "name": "Eagle Point Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7525211,
+    "longitude": -92.3972924,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7454591170",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.9995485,
+    "longitude": -91.6693884,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7454689608",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.5575973,
+    "longitude": -91.4288723,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7542539351",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.5157152,
+    "longitude": -91.7164408,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7549111236",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.432747,
+    "longitude": -91.6708633,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7549111238",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.4326961,
+    "longitude": -91.6711289,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7729102738",
+    "name": "Lake Azalea Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.3502524,
+    "longitude": -90.9800061,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7765665396",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.3553779,
+    "longitude": -89.6099828,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7780789114",
+    "name": "Thickfall River Launch Boat",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.3812029,
+    "longitude": -90.6345193,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7782204130",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7025585,
+    "longitude": -92.0162305,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7782204131",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7210931,
+    "longitude": -92.0385916,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7978126444",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.06206,
+    "longitude": -91.6103449,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8048902319",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.3263811,
+    "longitude": -91.7882824,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8048902324",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.3087957,
+    "longitude": -91.7666611,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8048949797",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.2149234,
+    "longitude": -91.6921261,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8088790733",
+    "name": "Grand Point Boat Launch",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.0747688,
+    "longitude": -90.7483931,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8088790904",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.1015262,
+    "longitude": -90.7360181,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8088790905",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.1009771,
+    "longitude": -90.735143,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8366025043",
+    "name": "588 Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.6196342,
+    "longitude": -89.3273172,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8386381016",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.5539401,
+    "longitude": -89.3150135,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8458934539",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.7302391,
+    "longitude": -92.9770381,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8518928039",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.0711577,
+    "longitude": -89.2540289,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8594619791",
+    "name": "Simmon Hole Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.8196392,
+    "longitude": -92.5230074,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8703478510",
+    "name": "Dan Tabberer Memorial Boat Launch",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.5401717,
+    "longitude": -89.7396193,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8703564564",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.5706167,
+    "longitude": -89.7896487,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8722160004",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.5060163,
+    "longitude": -89.9282015,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8722160005",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.5052573,
+    "longitude": -89.928631,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8722160006",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.5053455,
+    "longitude": -89.929668,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8722160007",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.503128,
+    "longitude": -89.9325176,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9103045149",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.0517931,
+    "longitude": -90.374403,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9125379584",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.345751,
+    "longitude": -90.9874163,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9159239556",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.5586671,
+    "longitude": -92.2371345,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9163876144",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.8194719,
+    "longitude": -91.1871077,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9168606701",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.0695933,
+    "longitude": -89.8361819,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9168606709",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.0782441,
+    "longitude": -89.8534777,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9168631163",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.0776107,
+    "longitude": -89.8487654,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9181012439",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.4995575,
+    "longitude": -93.7087812,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9181012441",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.5002045,
+    "longitude": -93.7098442,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9370431867",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.5949672,
+    "longitude": -89.8398087,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9370431868",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.5939517,
+    "longitude": -89.8406235,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9397989133",
+    "name": "Blueway",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.3455404,
+    "longitude": -91.0744019,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9610764585",
+    "name": "Alabama Landing Public Boat Launch",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.8659363,
+    "longitude": -92.0805376,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9839989164",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.5632598,
+    "longitude": -90.7448264,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9839989216",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.5683788,
+    "longitude": -90.7355062,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9839998209",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.5186096,
+    "longitude": -90.6621513,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9840050817",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.5683119,
+    "longitude": -90.7354856,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9852954578",
+    "name": "Seaplane Taxiway",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.7117311,
+    "longitude": -91.3327747,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9852977544",
+    "name": "Water Taxiway",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.0318689,
+    "longitude": -91.8857195,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9906889080",
+    "name": "Phillip'S Ferry Landing",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7350703,
+    "longitude": -92.1892144,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9906889081",
+    "name": "Ferry Road Landing",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7372432,
+    "longitude": -92.1899978,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9906889083",
+    "name": "Clear Branch Landing",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7810077,
+    "longitude": -92.2605109,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10109830951",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.0054203,
+    "longitude": -91.7186912,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10115239298",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.3292717,
+    "longitude": -90.8487512,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10174574833",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.9848036,
+    "longitude": -93.8401119,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10202617645",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.7171807,
+    "longitude": -92.7654232,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10203384043",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.7904704,
+    "longitude": -93.7501215,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10209059652",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.3406405,
+    "longitude": -91.7290916,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10213776712",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.9827579,
+    "longitude": -92.8944398,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10213776713",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.9830829,
+    "longitude": -92.8947145,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10213776745",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.0056398,
+    "longitude": -92.9192022,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10217345433",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.0096777,
+    "longitude": -91.6978101,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10217345442",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.0047421,
+    "longitude": -91.6755811,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10217351230",
+    "name": "Knox Landing Boat Launch",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.0722172,
+    "longitude": -91.5826934,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10217351300",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.0685214,
+    "longitude": -91.6021083,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10218260052",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.0123593,
+    "longitude": -89.928483,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10219027856",
+    "name": "Courtableau Boat Launch",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.5475207,
+    "longitude": -91.8619817,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10220967514",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.9627822,
+    "longitude": -92.5146715,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10221260387",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.9008901,
+    "longitude": -91.8440989,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10221260395",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.9023248,
+    "longitude": -91.8418608,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10224894546",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.0360656,
+    "longitude": -91.8726744,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10226703890",
+    "name": "Grand Chenier Park Public Boat Launch East",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.769168,
+    "longitude": -92.9749418,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10226703892",
+    "name": "Grand Chenier Park Public Boat Launch West",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.7693254,
+    "longitude": -92.9754592,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10226721680",
+    "name": "Hackberry Public Boat Launch",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.9878424,
+    "longitude": -93.3379182,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10226844636",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.767887,
+    "longitude": -93.8926707,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10227960841",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.2004746,
+    "longitude": -93.6795036,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10227960849",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.1978481,
+    "longitude": -93.6809138,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10229580106",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.809521,
+    "longitude": -91.4120463,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10229622842",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.8797973,
+    "longitude": -91.4537948,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10229669438",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.8715476,
+    "longitude": -91.9117572,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10230632027",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.5792216,
+    "longitude": -91.9557592,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10232630619",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.9466856,
+    "longitude": -91.1384173,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10707879884",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.4478294,
+    "longitude": -92.155397,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10726153830",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.4772329,
+    "longitude": -92.2003239,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10844138976",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.8852782,
+    "longitude": -91.5978907,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10996191403",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.5020214,
+    "longitude": -89.916662,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10996192476",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.5053854,
+    "longitude": -89.9297742,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10996196039",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.5051779,
+    "longitude": -89.9361861,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10996202755",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.5032474,
+    "longitude": -89.9325572,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11028835229",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.3885475,
+    "longitude": -90.0432511,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11028839868",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.3886175,
+    "longitude": -90.026055,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11028853395",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.3926712,
+    "longitude": -90.0366885,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11978266127",
+    "name": "Kayak Launch At Highland Road Community Park",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.3473566,
+    "longitude": -91.0782667,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12092883797",
+    "name": "Bluff Landing Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7082316,
+    "longitude": -92.2978734,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12099921616",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.6698225,
+    "longitude": -92.1248211,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12104722704",
+    "name": "Buffalo Hole Landing",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7696785,
+    "longitude": -92.230121,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12109945047",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.8286296,
+    "longitude": -92.5466303,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12110061675",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.8831346,
+    "longitude": -92.6009982,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12134926868",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.8419649,
+    "longitude": -92.5777502,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12136692982",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.8564266,
+    "longitude": -92.574064,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12152885351",
+    "name": "Turtle Bay Landing",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7848098,
+    "longitude": -92.4518382,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12154509766",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.8308151,
+    "longitude": -92.296619,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12163683596",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7368404,
+    "longitude": -92.1891534,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12215214995",
+    "name": "Pointe Aux Chenes Marina",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.4159727,
+    "longitude": -90.4476335,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12215215947",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.4498359,
+    "longitude": -90.4654225,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12215215948",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.449867,
+    "longitude": -90.4653756,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12215215949",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.453776,
+    "longitude": -90.4683597,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12215215950",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.4537446,
+    "longitude": -90.4683237,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12423989532",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.2102346,
+    "longitude": -92.0012573,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12423994579",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.1030678,
+    "longitude": -92.0787972,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12424075075",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.1934807,
+    "longitude": -92.0284009,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12424505854",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.7850413,
+    "longitude": -92.1535493,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12450513751",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.7910781,
+    "longitude": -92.2702217,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12450527463",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.8121242,
+    "longitude": -92.2678766,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12466553127",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.2636709,
+    "longitude": -92.6318425,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12466565767",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.700541,
+    "longitude": -91.3713531,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12467693584",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.2703421,
+    "longitude": -91.9841541,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12508184616",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.6334951,
+    "longitude": -92.3940828,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12520987843",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.1384486,
+    "longitude": -91.8174922,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12521102301",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.2136915,
+    "longitude": -91.8289111,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12621519424",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.3494529,
+    "longitude": -89.3061916,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12691766333",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.6894945,
+    "longitude": -91.4153748,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12900497698",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7070886,
+    "longitude": -93.6876836,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13012391606",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.6922577,
+    "longitude": -91.4353891,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13012391638",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.6924692,
+    "longitude": -91.4334562,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13037741686",
+    "name": "River Bluff Boat Launch",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.2989307,
+    "longitude": -93.1882092,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13061552310",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.2626442,
+    "longitude": -89.9613405,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13061552312",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.2626666,
+    "longitude": -89.9612942,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13096381306",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.3230278,
+    "longitude": -93.4155199,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13113016557",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.6909865,
+    "longitude": -91.2148023,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13159671582",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.2912646,
+    "longitude": -93.3153277,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13182335392",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.6953351,
+    "longitude": -93.9579409,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13229166948",
+    "name": "Possum Walk Kayak Launch",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.281619,
+    "longitude": -89.6291417,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13229166951",
+    "name": "Logtown Boat Launch",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.2803202,
+    "longitude": -89.6308532,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13286251728",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.4233378,
+    "longitude": -89.1565756,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13343069766",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.7850454,
+    "longitude": -92.1536538,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13343224110",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.0040569,
+    "longitude": -91.8117232,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13432097597",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.9444491,
+    "longitude": -91.836923,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13440717351",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.1151265,
+    "longitude": -89.2966808,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13441365457",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.2198317,
+    "longitude": -93.3512736,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13471071223",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.2065246,
+    "longitude": -92.0050825,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13481498324",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.9154991,
+    "longitude": -91.9040511,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13481504657",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.7315058,
+    "longitude": -91.8405787,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13481504660",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.7316093,
+    "longitude": -91.8405513,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13495090880",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.6962442,
+    "longitude": -91.0930721,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13495090882",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.6962481,
+    "longitude": -91.0931545,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13503136867",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.6607032,
+    "longitude": -91.2441646,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13503136869",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.6607641,
+    "longitude": -91.2440601,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13516050845",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.1810923,
+    "longitude": -92.0483,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13523517392",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.787407,
+    "longitude": -92.2083647,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13541796377",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.5912313,
+    "longitude": -89.7803522,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13556598255",
+    "name": "Six Mile Public Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.2388091,
+    "longitude": -93.7558998,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13565045145",
+    "name": "Pat Murphy Landing Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.6405445,
+    "longitude": -90.616793,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13647974054",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.8894125,
+    "longitude": -93.4022525,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13460727",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.536691,
+    "longitude": -91.856671,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_189602003",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.0729407,
+    "longitude": -91.9281496,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_331708126",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.2227282,
+    "longitude": -91.9058105,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_584729314",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.8648988,
+    "longitude": -92.1330652,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_633078241",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.5199914,
+    "longitude": -92.1333671,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_633183607",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.6036699,
+    "longitude": -92.0491935,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_633374680",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.4846829,
+    "longitude": -92.1145358,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_673125955",
+    "name": "Boat Launch",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.6630582,
+    "longitude": -93.0008919,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_795838484",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.5498307,
+    "longitude": -92.6548373,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_807263307",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.4327586,
+    "longitude": -91.6709432,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_807263308",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.4326863,
+    "longitude": -91.6709224,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_807272602",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.5157167,
+    "longitude": -91.716465,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_807272603",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.5156872,
+    "longitude": -91.7164092,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_827626458",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.3382224,
+    "longitude": -92.110743,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_831547028",
+    "name": "U.S. Coast Guard - Station New Orleans",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.0211918,
+    "longitude": -90.1228255,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_831788831",
+    "name": "NOAA NDBC",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.3555423,
+    "longitude": -89.6103266,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_832350451",
+    "name": "Coast Guard",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.8963554,
+    "longitude": -92.1161039,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_864006415",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.3073849,
+    "longitude": -91.750189,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_864006421",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.0716158,
+    "longitude": -91.6186708,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_864006423",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.1016415,
+    "longitude": -91.6272592,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_893099109",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.551115,
+    "longitude": -90.086864,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_893160417",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.3294889,
+    "longitude": -90.8486851,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_893585980",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.3309688,
+    "longitude": -90.8472342,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_894760124",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.6253695,
+    "longitude": -89.529262,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_902150248",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.5625887,
+    "longitude": -89.5042847,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_902938881",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.5539632,
+    "longitude": -89.3149501,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_924806672",
+    "name": "U.S. Coast Guard - Station Grand Isle",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.2652009,
+    "longitude": -89.9575951,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_924869438",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.2640884,
+    "longitude": -89.9578004,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_924971216",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.2380477,
+    "longitude": -90.00201,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_924971245",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.2376894,
+    "longitude": -89.9978124,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_928825008",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.4399553,
+    "longitude": -91.1911982,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_933313217",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.9420116,
+    "longitude": -91.98288,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_981887222",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.3125427,
+    "longitude": -90.4049391,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_991833442",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.8195833,
+    "longitude": -91.1870171,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1060370099",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.4379234,
+    "longitude": -91.1918619,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1085300432",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.5128306,
+    "longitude": -90.8124136,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1085608801",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.687529,
+    "longitude": -91.7326109,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1085608802",
+    "name": "La 10",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.6897244,
+    "longitude": -91.7373308,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1110077514",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.3124457,
+    "longitude": -89.2907477,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1115580480",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.7172044,
+    "longitude": -92.7655915,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1117214382",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.0124189,
+    "longitude": -89.9284452,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1181771100",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.5585501,
+    "longitude": -92.2374623,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1200722421",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.343912,
+    "longitude": -90.887799,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1201995394",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.775956,
+    "longitude": -91.8144269,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1202227058",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.7766989,
+    "longitude": -91.7919464,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1202907857",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.8178554,
+    "longitude": -91.587798,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1212178466",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.7396411,
+    "longitude": -91.8327953,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1212426350",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.7815463,
+    "longitude": -91.7730847,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1213646797",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.5784055,
+    "longitude": -91.9802806,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1213646798",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.578935,
+    "longitude": -91.9776383,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1223840762",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.5976559,
+    "longitude": -93.3333284,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1254390384",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.8965478,
+    "longitude": -90.158362,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1254390385",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.8964272,
+    "longitude": -90.1583804,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1254390386",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.8963203,
+    "longitude": -90.1583967,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1254390387",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.8962169,
+    "longitude": -90.1584133,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1254390388",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.8960915,
+    "longitude": -90.1584339,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1254390389",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.8959965,
+    "longitude": -90.1584496,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1274047028",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7987966,
+    "longitude": -93.0015036,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1318520737",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.3252726,
+    "longitude": -90.1456491,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1318520739",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.3306467,
+    "longitude": -90.1458895,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1319645242",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.6334112,
+    "longitude": -91.822104,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1322912960",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.8665182,
+    "longitude": -93.9307409,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1340468103",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.1695473,
+    "longitude": -91.3539031,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1340512720",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.2259553,
+    "longitude": -91.4208996,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1341201091",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.8189274,
+    "longitude": -89.654356,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1341331486",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.2070363,
+    "longitude": -93.579606,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1367151879",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.3749722,
+    "longitude": -89.5487021,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1367424791",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.385619,
+    "longitude": -89.6013607,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1369781613",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.3599579,
+    "longitude": -89.5343356,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1370392894",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.6894901,
+    "longitude": -91.415242,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1372461331",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.3068253,
+    "longitude": -89.3771489,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1396093301",
+    "name": "Lake George Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.7366267,
+    "longitude": -90.6083106,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1419735796",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 31.333555,
+    "longitude": -92.4433493,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1425827519",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.7181297,
+    "longitude": -91.186559,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1425827520",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.7180496,
+    "longitude": -91.1865964,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1425950406",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.7250489,
+    "longitude": -91.1850469,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1425950407",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.7250882,
+    "longitude": -91.1849323,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1426470691",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.6910534,
+    "longitude": -91.214822,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1427638623",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.2946794,
+    "longitude": -93.2656082,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1429406252",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.5846256,
+    "longitude": -92.6119307,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1441784988",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.2815383,
+    "longitude": -89.6290264,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1451064493",
+    "name": "Vicksburg Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.3507277,
+    "longitude": -90.8848107,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1451064501",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.3575965,
+    "longitude": -90.8807271,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1451064502",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.3579497,
+    "longitude": -90.8802639,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1453789402",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.3860894,
+    "longitude": -90.8826183,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1454135062",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.3875119,
+    "longitude": -90.8849935,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1454900820",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.3845695,
+    "longitude": -90.8948144,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1454900822",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.3839233,
+    "longitude": -90.8981817,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1454900823",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.3851809,
+    "longitude": -90.9055273,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1454900824",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.3853911,
+    "longitude": -90.9037777,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1458261520",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.3919355,
+    "longitude": -90.9120684,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1460709765",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.7598455,
+    "longitude": -91.3728361,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1460714603",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.7627351,
+    "longitude": -91.3954744,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1460714606",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.7515099,
+    "longitude": -91.397988,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1460714607",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.7627832,
+    "longitude": -91.3952593,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1460714612",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.7632684,
+    "longitude": -91.3951993,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1460753018",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.4655231,
+    "longitude": -92.118305,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1461263346",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.4660621,
+    "longitude": -92.1160595,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1462821045",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.4228917,
+    "longitude": -91.203898,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1462842257",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.446152,
+    "longitude": -91.2010559,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1466201140",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.9386277,
+    "longitude": -90.1353107,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1466905161",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.2524442,
+    "longitude": -89.3583506,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1467824697",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.9669618,
+    "longitude": -93.8609314,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1468500754",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.7649523,
+    "longitude": -93.8980272,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1468500755",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.7649294,
+    "longitude": -93.8980119,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1468500756",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.7644144,
+    "longitude": -93.8980708,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1468500757",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.7644438,
+    "longitude": -93.898082,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1469517499",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 32.38695,
+    "longitude": -89.9682519,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1470362049",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.8598621,
+    "longitude": -93.9301126,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1470362050",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.8599202,
+    "longitude": -93.9300846,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1470904401",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.8672124,
+    "longitude": -93.9220787,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1471645516",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 29.8247683,
+    "longitude": -93.9543737,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1491359759",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.4104023,
+    "longitude": -91.4295781,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1491633139",
+    "name": "Boat Ramp",
+    "formatted_address": ", Louisiana, USA",
+    "latitude": 30.2899912,
+    "longitude": -91.2306402,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]

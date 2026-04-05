@@ -1,0 +1,2717 @@
+[
+  {
+    "place_id": "osm_183528672",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.4047603,
+    "longitude": -75.0631174,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_488359971",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4142936,
+    "longitude": -75.3209319,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_489036565",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4091371,
+    "longitude": -75.0552089,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_489042221",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4252756,
+    "longitude": -75.3585813,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_994212660",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.547774,
+    "longitude": -75.7027972,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1030346060",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.388453,
+    "longitude": -75.527185,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1030346062",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.388442,
+    "longitude": -75.5270621,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1030346068",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.3884475,
+    "longitude": -75.5271236,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1039442296",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.6924621,
+    "longitude": -75.5293462,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1316706296",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4311289,
+    "longitude": -75.6011301,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1357665181",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5047767,
+    "longitude": -75.5799715,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1564225637",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.7092561,
+    "longitude": -75.596804,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1606909311",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5893966,
+    "longitude": -75.165279,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1606917447",
+    "name": "Public Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5967217,
+    "longitude": -75.1649142,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1673576526",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5720434,
+    "longitude": -75.100005,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1673880957",
+    "name": "White Horse Park Boat Launch",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.4014231,
+    "longitude": -75.1575708,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1734742598",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.4788746,
+    "longitude": -75.0968399,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1987684886",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6163883,
+    "longitude": -75.1242855,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1988362022",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6359056,
+    "longitude": -75.167482,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1989029395",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6158049,
+    "longitude": -75.0729908,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2022472940",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.685272,
+    "longitude": -75.6322377,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2074064478",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.1141069,
+    "longitude": -75.4993283,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2074064482",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.1141522,
+    "longitude": -75.4993149,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2156756641",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.6620144,
+    "longitude": -75.0493394,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2178919025",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.7283143,
+    "longitude": -75.1428916,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2471568888",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.3810606,
+    "longitude": -75.2223693,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2582748611",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5589645,
+    "longitude": -75.2198668,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2597399918",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.8218524,
+    "longitude": -75.2596656,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3373603322",
+    "name": "Mulberry Landing Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.4852642,
+    "longitude": -75.0773876,
+    "city": "Frankford",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3700455974",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.61393,
+    "longitude": -75.0724213,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3802639043",
+    "name": "Fort DuPont Public Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5753164,
+    "longitude": -75.5890243,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4269096129",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.4995296,
+    "longitude": -75.0845573,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4283394239",
+    "name": "James Farm Canoe Launch",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5789952,
+    "longitude": -75.0836497,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4283394240",
+    "name": "New Road Non-Motorized Boat Launch",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6705004,
+    "longitude": -75.0726043,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4283394241",
+    "name": "Savages Ditch Kayak Launch",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6291691,
+    "longitude": -75.0719672,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4283398693",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.613858,
+    "longitude": -75.0724059,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4285304043",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5458473,
+    "longitude": -75.0711664,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4285304060",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5497228,
+    "longitude": -75.0636346,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4285304084",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5542335,
+    "longitude": -75.0643638,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4288170611",
+    "name": "Lewes Public Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7909094,
+    "longitude": -75.1656357,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4288199037",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5222693,
+    "longitude": -75.0687107,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4288211388",
+    "name": "Assawoman Day Area",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.4973667,
+    "longitude": -75.0561714,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4551648779",
+    "name": "Ingrams Pond Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5886111,
+    "longitude": -75.3280861,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4572128614",
+    "name": "Seaford Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6334718,
+    "longitude": -75.6180236,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4680032286",
+    "name": "Rosedale Public Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5943614,
+    "longitude": -75.2083745,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4680033415",
+    "name": "Massey'S Landing Public Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6252153,
+    "longitude": -75.0997941,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4682199624",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5810162,
+    "longitude": -75.1523483,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4684674991",
+    "name": "Pot-Nets Creekside Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6431206,
+    "longitude": -75.1472289,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4915885581",
+    "name": "Millsboro Pond Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5977602,
+    "longitude": -75.2929582,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4945179035",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.4558892,
+    "longitude": -75.0732265,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4945181787",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5768464,
+    "longitude": -75.0892228,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4945181788",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5738085,
+    "longitude": -75.0937214,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5009010926",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.4653761,
+    "longitude": -75.0866939,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5034851855",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5915791,
+    "longitude": -75.1261276,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5112066465",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6799008,
+    "longitude": -75.5943195,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5114017313",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6434337,
+    "longitude": -75.5514568,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5141322224",
+    "name": "Greenwich Boatworks & Marina",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.3837733,
+    "longitude": -75.3502529,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5195636508",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5586872,
+    "longitude": -75.5547867,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5344160552",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7788006,
+    "longitude": -75.3099427,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5595631037",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.54557,
+    "longitude": -75.7174228,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5621066260",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.4233189,
+    "longitude": -75.5653515,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5693104699",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.7172556,
+    "longitude": -75.4763778,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5731394372",
+    "name": "Kayak Launch",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5010531,
+    "longitude": -75.071239,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6298257631",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7762394,
+    "longitude": -75.3126729,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6386982654",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.9042749,
+    "longitude": -75.4862536,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6386982660",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.9114958,
+    "longitude": -75.465068,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6568959296",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.4776025,
+    "longitude": -75.0897469,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6747154796",
+    "name": "Riverdale Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5930174,
+    "longitude": -75.1863651,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6747154797",
+    "name": "Pot-Nets Bayside Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6113629,
+    "longitude": -75.1548999,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6747154798",
+    "name": "Pontoon Point Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.612739,
+    "longitude": -75.1481699,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6747154799",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6132665,
+    "longitude": -75.1405063,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6747154800",
+    "name": "Pot-Nets Seaside Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6198538,
+    "longitude": -75.0992297,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6747154801",
+    "name": "Pot-Nets Dockside Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6255819,
+    "longitude": -75.1082324,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6747154802",
+    "name": "Pot-Nets Coveside Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6308439,
+    "longitude": -75.1180969,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6747154803",
+    "name": "Bay City Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6339282,
+    "longitude": -75.1257513,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6747154804",
+    "name": "Rehoboth Shores Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6338752,
+    "longitude": -75.1326204,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6747154805",
+    "name": "Mariner'S Cove Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6284457,
+    "longitude": -75.129459,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6747154806",
+    "name": "Leisure Point Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6395926,
+    "longitude": -75.1575982,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6747154807",
+    "name": "Winding Creek Village Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6435832,
+    "longitude": -75.1597692,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6747154808",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5915626,
+    "longitude": -75.2119554,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6773665662",
+    "name": "Malone'S Bayside Marina",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6247953,
+    "longitude": -75.1204513,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6791971193",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6555344,
+    "longitude": -75.1733892,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6821257133",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.3128994,
+    "longitude": -75.1564704,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6821400887",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.3349799,
+    "longitude": -75.2022144,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6829145503",
+    "name": "Hancock Harbor",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.3770403,
+    "longitude": -75.3557161,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6833051851",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4264213,
+    "longitude": -75.2359113,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6845177744",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.9975246,
+    "longitude": -75.7860125,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6845254939",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6788412,
+    "longitude": -75.7748402,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6845254941",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6787858,
+    "longitude": -75.7748518,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6845255655",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6881111,
+    "longitude": -75.7702305,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6853713041",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4477427,
+    "longitude": -75.2405188,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6858933863",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.391787,
+    "longitude": -75.2029169,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6901659515",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.0679382,
+    "longitude": -75.7362245,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6936879114",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5948478,
+    "longitude": -75.2879346,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6936889523",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5945944,
+    "longitude": -75.2892845,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7041218319",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5752227,
+    "longitude": -75.7929889,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7056149488",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5570681,
+    "longitude": -75.5774653,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7198573144",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.246153,
+    "longitude": -75.1302746,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7499993128",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.1683106,
+    "longitude": -75.520993,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7567854284",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.544424,
+    "longitude": -75.0824512,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7567870076",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5571856,
+    "longitude": -75.0885915,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7600896361",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5829666,
+    "longitude": -75.2532652,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7690092368",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5874474,
+    "longitude": -75.0748825,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7706498924",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6162,
+    "longitude": -75.0728865,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7857943769",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6278064,
+    "longitude": -75.6461943,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7880207825",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.0460718,
+    "longitude": -75.393626,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7899233667",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5439906,
+    "longitude": -75.0652695,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7990714601",
+    "name": "Coursey Pond Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.9895047,
+    "longitude": -75.5113258,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8009988386",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.8207199,
+    "longitude": -75.2655324,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8274481938",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5405853,
+    "longitude": -75.6365346,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8283838417",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5643198,
+    "longitude": -75.6723153,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8413288424",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.777736,
+    "longitude": -75.1407576,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8448558798",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.2383236,
+    "longitude": -75.0957764,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8821414257",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.4677638,
+    "longitude": -75.1076374,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8872997348",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6877936,
+    "longitude": -75.0755327,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8913997014",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5633849,
+    "longitude": -75.5393909,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9122291530",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.7487329,
+    "longitude": -75.455686,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9382970490",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.2430315,
+    "longitude": -75.1700948,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9649305585",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.6561487,
+    "longitude": -75.5686859,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9740490651",
+    "name": "Cedar Creek Public Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.9392955,
+    "longitude": -75.321624,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9996572683",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5909597,
+    "longitude": -75.1223222,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10104720781",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6379233,
+    "longitude": -75.6105365,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10104720782",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6366368,
+    "longitude": -75.6115592,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10809764237",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7793578,
+    "longitude": -75.1414364,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10879233113",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4210808,
+    "longitude": -75.4270216,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10879241772",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4333335,
+    "longitude": -75.4187503,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10879241774",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4438468,
+    "longitude": -75.4090068,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10879246817",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.434397,
+    "longitude": -75.4174834,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10936864803",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.9807009,
+    "longitude": -75.529365,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10950879678",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.058501,
+    "longitude": -75.3977105,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10950879680",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.058527,
+    "longitude": -75.3976464,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10950879682",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.0585557,
+    "longitude": -75.3975734,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10950879684",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.0582019,
+    "longitude": -75.398351,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10950886724",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.1603142,
+    "longitude": -75.4442089,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10951014561",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.194291,
+    "longitude": -75.4030368,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10951014562",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.1943123,
+    "longitude": -75.4028957,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10951019997",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.0760727,
+    "longitude": -75.4170201,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10951053605",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.0572949,
+    "longitude": -75.3995067,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11017797933",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.582786,
+    "longitude": -75.06252,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11303113054",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4081449,
+    "longitude": -75.0671326,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11481314079",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7933407,
+    "longitude": -75.2728529,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11628129481",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4086368,
+    "longitude": -75.5992687,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11628129534",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4526987,
+    "longitude": -75.6543483,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11628129557",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4386169,
+    "longitude": -75.6933764,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11632324006",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.2919552,
+    "longitude": -75.1973361,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11632324134",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.2977329,
+    "longitude": -75.2476996,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11772447167",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.3736934,
+    "longitude": -75.2931349,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12023664304",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.877463,
+    "longitude": -75.2759004,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12122176860",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.2231119,
+    "longitude": -75.4926132,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12134877497",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.6696551,
+    "longitude": -75.4661227,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12134881394",
+    "name": "Pittsfield Street Boat Launch",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.6402308,
+    "longitude": -75.4800464,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12134881589",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.6718781,
+    "longitude": -75.4457802,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12134946907",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5792114,
+    "longitude": -75.4762245,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12134946959",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5799008,
+    "longitude": -75.4804896,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12137608872",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.5284359,
+    "longitude": -75.2679116,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12429090151",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.4544828,
+    "longitude": -75.4312225,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12434381890",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.3508594,
+    "longitude": -75.2581025,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12542660806",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5760857,
+    "longitude": -75.7942919,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12542660833",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6397076,
+    "longitude": -75.6116611,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12623805142",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.3770126,
+    "longitude": -75.0365948,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12697407166",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.3888704,
+    "longitude": -75.6347508,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13432920323",
+    "name": "Unpowered Boatslip",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.662177,
+    "longitude": -75.1725514,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13433061666",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6606,
+    "longitude": -75.1698229,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13433061667",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6654484,
+    "longitude": -75.1824271,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_429655848",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7909308,
+    "longitude": -75.1654274,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_429655849",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7910408,
+    "longitude": -75.165662,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_429655850",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7909882,
+    "longitude": -75.1655523,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_470362351",
+    "name": "Scotton Landing Slipway",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.0848923,
+    "longitude": -75.4604522,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_545358595",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.553162,
+    "longitude": -75.7127932,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_730842718",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.9712395,
+    "longitude": -75.7996249,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_737192371",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.0679395,
+    "longitude": -75.7361519,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_740934169",
+    "name": "Cupola Park Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.594531,
+    "longitude": -75.2892654,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_740935002",
+    "name": "Cupola Park Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5948583,
+    "longitude": -75.2880355,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_809382836",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5443737,
+    "longitude": -75.0825139,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_822651321",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5298401,
+    "longitude": -75.4799517,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_905991260",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.7874321,
+    "longitude": -75.1611486,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1017265437",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.2430064,
+    "longitude": -75.1700344,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1096334714",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.4232696,
+    "longitude": -75.5654984,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1356288213",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 39.6483695,
+    "longitude": -75.5324157,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1412321724",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.5439945,
+    "longitude": -75.0653057,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1451978892",
+    "name": "Boat Ramp",
+    "formatted_address": ", Delaware, USA",
+    "latitude": 38.6649673,
+    "longitude": -75.1783974,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]

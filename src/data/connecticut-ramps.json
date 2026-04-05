@@ -1,0 +1,6707 @@
+[
+  {
+    "place_id": "osm_178215620",
+    "name": "Great Island Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2873383,
+    "longitude": -72.3241742,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_178300709",
+    "name": "Pine Acres Lake Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7766945,
+    "longitude": -72.081374,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_178470524",
+    "name": "Lower Moodus Reservoir Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5158466,
+    "longitude": -72.4231975,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_178503998",
+    "name": "Lake Hayward Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5301375,
+    "longitude": -72.3333238,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_243375390",
+    "name": "Stoddard Hill Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4595432,
+    "longitude": -72.0668387,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_261451125",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9007507,
+    "longitude": -73.5539157,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_331868391",
+    "name": "Lake Kenosia Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3829226,
+    "longitude": -73.4985109,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_335743560",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4013986,
+    "longitude": -73.5833251,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_359272789",
+    "name": "Quinnipiac River Public Access",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5629956,
+    "longitude": -72.8797177,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_546545884",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1452508,
+    "longitude": -73.6797259,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_546913130",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5472375,
+    "longitude": -73.4663798,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_547488220",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8051824,
+    "longitude": -72.8239855,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_677649841",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0794496,
+    "longitude": -71.9113129,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_685010851",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9209418,
+    "longitude": -73.1502831,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_685179380",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9205438,
+    "longitude": -73.1656969,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_727421380",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7602798,
+    "longitude": -72.6611261,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_736760147",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0578834,
+    "longitude": -71.9072157,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1254285396",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7644528,
+    "longitude": -72.6664773,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1388668464",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8784935,
+    "longitude": -73.0465198,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1577137472",
+    "name": "Crew Boathouse",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8696478,
+    "longitude": -72.7971328,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1607817174",
+    "name": "Quinebaug Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7801593,
+    "longitude": -71.8875043,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1639263978",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.9534945,
+    "longitude": -71.8997829,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1642198759",
+    "name": "State Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.76533,
+    "longitude": -72.3095398,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1887230428",
+    "name": "Montville Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4323892,
+    "longitude": -72.0982571,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2005497838",
+    "name": "King'S Island Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.9633941,
+    "longitude": -72.6074405,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2191588881",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3866425,
+    "longitude": -72.0972653,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2214968384",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.849033,
+    "longitude": -71.921365,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2286317338",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4306168,
+    "longitude": -72.0938543,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2493339724",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0364561,
+    "longitude": -71.946568,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2494561948",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9046983,
+    "longitude": -72.743912,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2494561949",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9140866,
+    "longitude": -72.6874024,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2589957633",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6766683,
+    "longitude": -72.6928343,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2611782777",
+    "name": "Lake Zoar Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4277157,
+    "longitude": -73.2361228,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2619675632",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0843785,
+    "longitude": -72.4012063,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2622960843",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0761413,
+    "longitude": -72.401839,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2633481062",
+    "name": "Wading River Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9643758,
+    "longitude": -72.8631628,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2684923529",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0865524,
+    "longitude": -72.3527327,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2685905780",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0756793,
+    "longitude": -72.4049232,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2685936001",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1528803,
+    "longitude": -72.2438674,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2832865966",
+    "name": "Town Of Brookhaven Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9460052,
+    "longitude": -73.072572,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2846362851",
+    "name": "East River Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2695101,
+    "longitude": -72.656784,
+    "city": "Guilford",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2912011678",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0447919,
+    "longitude": -73.5039146,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2920348074",
+    "name": "Lake Lillinonah (Pond Brook) Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4597946,
+    "longitude": -73.3247802,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2925551792",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5521894,
+    "longitude": -72.829455,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2925551793",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5523047,
+    "longitude": -72.8293401,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2984040134",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2522019,
+    "longitude": -72.9031488,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3025523300",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0565938,
+    "longitude": -71.9072468,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3115928434",
+    "name": "Baldwin Bridge Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3180526,
+    "longitude": -72.3511809,
+    "city": "Old Saybrook",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3231492832",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9083512,
+    "longitude": -73.3578558,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3267177077",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9639475,
+    "longitude": -73.0271724,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3286605361",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9050881,
+    "longitude": -73.2312437,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3326022068",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9184819,
+    "longitude": -73.1771989,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3358936321",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0880761,
+    "longitude": -73.3972953,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3382902062",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2066184,
+    "longitude": -72.1073853,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3394707142",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2220938,
+    "longitude": -73.1069621,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3398109821",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6474114,
+    "longitude": -72.8426412,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3495508352",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0101318,
+    "longitude": -72.2473456,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3542772139",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9006701,
+    "longitude": -72.7735187,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3545238276",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5553757,
+    "longitude": -73.4065735,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3603665432",
+    "name": "Great Pond DEC Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0667325,
+    "longitude": -72.4555246,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3661076209",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9611605,
+    "longitude": -73.1171765,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3661094803",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9653739,
+    "longitude": -73.1149496,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3913770523",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.907834,
+    "longitude": -72.7316486,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3938867197",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.37442,
+    "longitude": -72.6185717,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4018073885",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9148127,
+    "longitude": -72.701076,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4152587393",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0317561,
+    "longitude": -73.5961997,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4152587397",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0363599,
+    "longitude": -73.5935979,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4394855029",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7002378,
+    "longitude": -72.1819599,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4395611917",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5231447,
+    "longitude": -72.0786417,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4560645047",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0001384,
+    "longitude": -72.1818475,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4657187813",
+    "name": "Milford Municipal Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2201422,
+    "longitude": -73.0537184,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5096854269",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7519527,
+    "longitude": -72.6543455,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5106553964",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8195762,
+    "longitude": -72.4227748,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5106553967",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8198288,
+    "longitude": -72.4227707,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5106579666",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7799427,
+    "longitude": -72.5667479,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5187366564",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5078376,
+    "longitude": -73.597048,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5292577880",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3814869,
+    "longitude": -73.1759398,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5309202483",
+    "name": "Barn Island Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3374368,
+    "longitude": -71.8755626,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5339897441",
+    "name": "Kayak Landing",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3509372,
+    "longitude": -71.9354567,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5348319126",
+    "name": "Canoe/Kayak Launch Area",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6983472,
+    "longitude": -71.9628822,
+    "city": "Canterbury",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5368830403",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5166689,
+    "longitude": -71.9781233,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5567433499",
+    "name": "Deep River Town Dock",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3953673,
+    "longitude": -72.4263725,
+    "city": "Deep River",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5896898670",
+    "name": "Quonnipaug Lake Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3985986,
+    "longitude": -72.6968491,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6176123977",
+    "name": "Beseck Lake Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5167861,
+    "longitude": -72.7291102,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6182009940",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1063744,
+    "longitude": -73.3540369,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6182029845",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1052859,
+    "longitude": -73.3569085,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6182029846",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1047981,
+    "longitude": -73.3569705,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6182686688",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1083603,
+    "longitude": -73.3654983,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6188926755",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1792486,
+    "longitude": -73.1244649,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6188968808",
+    "name": "Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1903387,
+    "longitude": -73.121413,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6193953932",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0986772,
+    "longitude": -73.3674881,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6262914946",
+    "name": "Haddam Meadows Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4814453,
+    "longitude": -72.5065058,
+    "city": "Haddam",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6273409694",
+    "name": "Essex Town Dock",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3508151,
+    "longitude": -72.3847363,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6273551727",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2652668,
+    "longitude": -72.7519699,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6410630580",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.9896321,
+    "longitude": -73.0230082,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6421572084",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3113451,
+    "longitude": -73.2478949,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6476675727",
+    "name": "Saugatuck River Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1206708,
+    "longitude": -73.3677725,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6507384217",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8126802,
+    "longitude": -72.9222002,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6549446274",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8477915,
+    "longitude": -72.8072811,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6558952428",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.584677,
+    "longitude": -72.6455904,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6702458155",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6667542,
+    "longitude": -72.6296845,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6762283049",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0148826,
+    "longitude": -73.6253226,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6876069183",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1729613,
+    "longitude": -73.16146,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6938023564",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0465957,
+    "longitude": -73.4828261,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6967472281",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2696118,
+    "longitude": -72.6772908,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6991022297",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9148742,
+    "longitude": -73.4511938,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6992673945",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9204337,
+    "longitude": -73.4426763,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6994042626",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.777881,
+    "longitude": -72.4842019,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6994042677",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7730815,
+    "longitude": -72.4754192,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7013031926",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.9827274,
+    "longitude": -72.4863009,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7022926201",
+    "name": "Great Falls Reservoir Access",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.963846,
+    "longitude": -73.371831,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7118461069",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4494074,
+    "longitude": -72.461223,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7170431072",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.325609,
+    "longitude": -72.1863741,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7170441242",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3267082,
+    "longitude": -72.187115,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7346198982",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3191362,
+    "longitude": -72.3506596,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7394371879",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3201375,
+    "longitude": -72.3504585,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7394479161",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3211578,
+    "longitude": -72.3546368,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7394499760",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3214201,
+    "longitude": -72.3565487,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7432280816",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0127237,
+    "longitude": -73.5899575,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7554595741",
+    "name": "Canoe Launch Point",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7974449,
+    "longitude": -72.3008052,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7683867409",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6651519,
+    "longitude": -72.1230555,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7683867423",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.66432,
+    "longitude": -72.1222541,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7696182143",
+    "name": "Rudd Pond",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.9804213,
+    "longitude": -73.5051495,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7779757881",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2511169,
+    "longitude": -73.3518361,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7781415819",
+    "name": "Sherwood Mill Pond Kayak Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.115574,
+    "longitude": -73.3459474,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7818705836",
+    "name": "Kayak/Canoe Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7551288,
+    "longitude": -72.6533382,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7832991867",
+    "name": "Wintergreen Lake Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3599291,
+    "longitude": -72.9659013,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7899062961",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7802383,
+    "longitude": -72.5670359,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8014805845",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8743466,
+    "longitude": -73.0949877,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8025898778",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.798168,
+    "longitude": -72.4286529,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8152276425",
+    "name": "Gorton Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3384564,
+    "longitude": -72.2105725,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8152284535",
+    "name": "Powers Lake Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3932069,
+    "longitude": -72.2567985,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8153155819",
+    "name": "Pattagansett Lake Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3673684,
+    "longitude": -72.2309311,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8153201997",
+    "name": "Niantic River Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3265553,
+    "longitude": -72.1755589,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8192698799",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2974136,
+    "longitude": -72.8376959,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8228103263",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2718318,
+    "longitude": -72.6635734,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8243665567",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8026808,
+    "longitude": -71.8961634,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8274742931",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.650991,
+    "longitude": -73.0430196,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8385140118",
+    "name": "Rogers Lake Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3619346,
+    "longitude": -72.295261,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8403129784",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2735904,
+    "longitude": -73.1391354,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8418157339",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5102956,
+    "longitude": -73.3156903,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8418158462",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4502819,
+    "longitude": -73.2960154,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8508875732",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3623623,
+    "longitude": -72.3061675,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8660187046",
+    "name": "Bayberry Lane Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3205131,
+    "longitude": -72.0582314,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8691848102",
+    "name": "Hadlyme Ferry Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4205147,
+    "longitude": -72.4285187,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8741060644",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6586553,
+    "longitude": -73.4921594,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8837371299",
+    "name": "Beach Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5837142,
+    "longitude": -71.8056107,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8846431604",
+    "name": "Wyassup Lake Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4890259,
+    "longitude": -71.8767099,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8864170975",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3388148,
+    "longitude": -73.1194058,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8896194434",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5563213,
+    "longitude": -72.5618069,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8929770472",
+    "name": "Avery Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4956307,
+    "longitude": -71.9796871,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8988197431",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5626767,
+    "longitude": -72.6231138,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8988197433",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5622151,
+    "longitude": -72.6284999,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8988197434",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5619808,
+    "longitude": -72.6294343,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9033481438",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5056076,
+    "longitude": -72.4846425,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9054533383",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5251547,
+    "longitude": -72.2227567,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9072504031",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6681753,
+    "longitude": -72.1493188,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9082594356",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6080558,
+    "longitude": -71.9495444,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9083113144",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6499707,
+    "longitude": -71.9703131,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9177296463",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4058034,
+    "longitude": -72.5012102,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9183874189",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5723523,
+    "longitude": -73.4918294,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9183874203",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5707645,
+    "longitude": -73.4919034,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9198118097",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9938411,
+    "longitude": -72.5381317,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9206315849",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7745667,
+    "longitude": -72.6654873,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9206315850",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7745195,
+    "longitude": -72.665624,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9220081951",
+    "name": "Higganum Reservoir Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4832596,
+    "longitude": -72.5600242,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9286503315",
+    "name": "Bigelow Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.9949631,
+    "longitude": -72.126875,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9373150495",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3585791,
+    "longitude": -71.9650201,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9374546060",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3613437,
+    "longitude": -71.9662521,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9377898967",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3233549,
+    "longitude": -73.0703979,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9409150916",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.71669,
+    "longitude": -73.2178513,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9527233123",
+    "name": "Dooley Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5129378,
+    "longitude": -72.6666349,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9547856136",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9499844,
+    "longitude": -72.2393229,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9708315098",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6881483,
+    "longitude": -73.2230984,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9708345148",
+    "name": "Lake Waramaug Boat Ramp (Town Of Washington)",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6829916,
+    "longitude": -73.352533,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9758620471",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5997792,
+    "longitude": -72.6195658,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9776679749",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2570558,
+    "longitude": -72.0297927,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9791380569",
+    "name": "Thames River Boat Launch (New London)",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3635586,
+    "longitude": -72.0907416,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9864801915",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2943309,
+    "longitude": -72.4944619,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9870411257",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6937391,
+    "longitude": -73.2313342,
+    "city": "Morris",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9870844019",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8126658,
+    "longitude": -73.2359753,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9915388393",
+    "name": "Messerschmidt Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3404127,
+    "longitude": -72.4929113,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9918251544",
+    "name": "Mono Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6789861,
+    "longitude": -72.3107428,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9924874530",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.525417,
+    "longitude": -73.400305,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9930344197",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3679296,
+    "longitude": -72.1949428,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9947901956",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4825652,
+    "longitude": -73.4353732,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9948598960",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.429674,
+    "longitude": -73.0698248,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9950182502",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.471394,
+    "longitude": -73.3325171,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9952483333",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.482888,
+    "longitude": -73.4352526,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9952483340",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4833015,
+    "longitude": -73.4353157,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9959945762",
+    "name": "Four Mile River Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3023856,
+    "longitude": -72.2505153,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10034149347",
+    "name": "Black Pond Boat Launch (Middlefield)",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5273526,
+    "longitude": -72.7427651,
+    "city": "Middlefield",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10154821958",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9182541,
+    "longitude": -72.2907149,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10154959458",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7978098,
+    "longitude": -73.2425574,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10154963683",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7979412,
+    "longitude": -73.2434245,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10221132655",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0813174,
+    "longitude": -72.3868409,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10736520458",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2692776,
+    "longitude": -72.9319063,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10807932725",
+    "name": "Morey Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.9660073,
+    "longitude": -72.1932671,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10827291805",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.893302,
+    "longitude": -72.7412123,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10840865865",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7721864,
+    "longitude": -72.8216301,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10902625336",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8529339,
+    "longitude": -71.8103306,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10936994499",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3191199,
+    "longitude": -72.3505646,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10977796989",
+    "name": "Green Falls Reservoir Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5345234,
+    "longitude": -71.810666,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10979603816",
+    "name": "Horse Pond Car Top Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4617993,
+    "longitude": -72.248883,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11002196423",
+    "name": "Rainbow Reservoir Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.9140229,
+    "longitude": -72.7047499,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11016169492",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.632519,
+    "longitude": -72.3089723,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11126677041",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8572759,
+    "longitude": -72.6402442,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11141635631",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7981717,
+    "longitude": -72.8311157,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11206797092",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4086086,
+    "longitude": -72.4184123,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11209365334",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3523241,
+    "longitude": -72.3549001,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11214340720",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.299876,
+    "longitude": -72.2267765,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11214356199",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3063924,
+    "longitude": -72.2523309,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11251916299",
+    "name": "Lake Of Isles Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4902302,
+    "longitude": -71.9486397,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11254256809",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.9003496,
+    "longitude": -72.755915,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11301273399",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.9031763,
+    "longitude": -72.7598873,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11363363783",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2885883,
+    "longitude": -73.0708779,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11363363832",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.170891,
+    "longitude": -73.1138792,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11363363845",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1793453,
+    "longitude": -73.1244761,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11363363846",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1791338,
+    "longitude": -73.1244531,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11520592763",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3714546,
+    "longitude": -72.4681671,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11583013307",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3902289,
+    "longitude": -73.1863874,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11714923651",
+    "name": "Lake Lillinonah Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4802165,
+    "longitude": -73.3488514,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11714923655",
+    "name": "Lake Lillinonah Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4802256,
+    "longitude": -73.348747,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11714929225",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3817296,
+    "longitude": -73.174559,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11714930875",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4311591,
+    "longitude": -73.2266088,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12149899343",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8926545,
+    "longitude": -72.7394068,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12154474395",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3086429,
+    "longitude": -72.9547201,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12585988661",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5675852,
+    "longitude": -73.4095929,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12585994343",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5644663,
+    "longitude": -73.4079752,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12698044430",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3506575,
+    "longitude": -71.9718614,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12767915515",
+    "name": "Ball Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4576331,
+    "longitude": -73.5221201,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12769685493",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7845778,
+    "longitude": -72.2817412,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12769693922",
+    "name": "Dodge Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.326663,
+    "longitude": -72.2010218,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771329693",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6981656,
+    "longitude": -73.2796227,
+    "city": "Litchfield",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771334085",
+    "name": "Mamanasco Lake Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3151432,
+    "longitude": -73.5216491,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771390823",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4514881,
+    "longitude": -71.9486503,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771405342",
+    "name": "Mansfield Hollow Lake Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7684142,
+    "longitude": -72.175467,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771432423",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.899137,
+    "longitude": -73.1551816,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771444223",
+    "name": "Mohawk Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8100665,
+    "longitude": -73.2937112,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771452755",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3847195,
+    "longitude": -72.3045036,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771462266",
+    "name": "Pachaug Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5828753,
+    "longitude": -71.9289154,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771462848",
+    "name": "North Farms Reservoir Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4838649,
+    "longitude": -72.778572,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771464966",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8951361,
+    "longitude": -73.478464,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771469847",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3207094,
+    "longitude": -73.509555,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771471109",
+    "name": "Mystic River Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3741047,
+    "longitude": -71.9657124,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771476120",
+    "name": "Pickerel Lake Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5367135,
+    "longitude": -72.4221043,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771489947",
+    "name": "Pattaconk Lake Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.408845,
+    "longitude": -72.5248934,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771544511",
+    "name": "Quaddick Reservoir Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.9561233,
+    "longitude": -71.8149833,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771578873",
+    "name": "Salmon River Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4671405,
+    "longitude": -72.4684611,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771579693",
+    "name": "Silver Lake Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5842314,
+    "longitude": -72.7705619,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771582451",
+    "name": "Ross Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7765644,
+    "longitude": -71.8640967,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771586142",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8370824,
+    "longitude": -73.2672654,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771589408",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8374946,
+    "longitude": -73.1517927,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771599495",
+    "name": "Squantz Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.509994,
+    "longitude": -73.472268,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771615147",
+    "name": "Waramaug Lake Boat Launch (Carry-In)",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7083766,
+    "longitude": -73.3835739,
+    "city": "Kent",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771625530",
+    "name": "Uncas Lake Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3728183,
+    "longitude": -72.3221737,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771634311",
+    "name": "West Hill Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8902996,
+    "longitude": -73.0368645,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771650628",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8535718,
+    "longitude": -73.2585488,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771655463",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.907899,
+    "longitude": -73.151882,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12777648741",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5910734,
+    "longitude": -72.5071236,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12782012904",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.626691,
+    "longitude": -72.3345316,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12848123324",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3386994,
+    "longitude": -72.1888178,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12848123351",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3384416,
+    "longitude": -72.1903382,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12865714995",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6702678,
+    "longitude": -72.848531,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13004908133",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3360642,
+    "longitude": -71.9916727,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13096045699",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9822805,
+    "longitude": -72.528013,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13125540324",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3643889,
+    "longitude": -73.1401521,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13310079827",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9040559,
+    "longitude": -73.5429545,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13310079830",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9043337,
+    "longitude": -73.5406489,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13399566271",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3274166,
+    "longitude": -71.9849698,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13399566366",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3244222,
+    "longitude": -71.9853665,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13495445835",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4318576,
+    "longitude": -72.0913999,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13690195487",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3457373,
+    "longitude": -71.9753462,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13695640144",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4581061,
+    "longitude": -71.948647,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_307193923",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1291219,
+    "longitude": -73.285635,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_315640375",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9236458,
+    "longitude": -73.3462192,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_319658945",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.119305,
+    "longitude": -72.3398243,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_385190093",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6883317,
+    "longitude": -72.9505176,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_399339893",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1467263,
+    "longitude": -73.2366366,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_399339896",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1467792,
+    "longitude": -73.236735,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_422125836",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0529629,
+    "longitude": -72.3444138,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_468556661",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1836235,
+    "longitude": -73.1000206,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_468557056",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.185761,
+    "longitude": -73.1012362,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_473832240",
+    "name": "Trustee Ramp West Neck Road",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9170395,
+    "longitude": -72.439741,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_532469223",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7987205,
+    "longitude": -72.5234972,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_532732512",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2754592,
+    "longitude": -72.4743414,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_569406236",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.9660538,
+    "longitude": -72.1933763,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_660195731",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3749813,
+    "longitude": -71.8321932,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_665565002",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4522155,
+    "longitude": -72.4672672,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_665732738",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3126884,
+    "longitude": -72.3459305,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_679163173",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7668041,
+    "longitude": -72.3163558,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_681311298",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5172247,
+    "longitude": -72.6382536,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_695559109",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9637537,
+    "longitude": -73.0272255,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_695559110",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9637999,
+    "longitude": -73.027091,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_695559111",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9637685,
+    "longitude": -73.0269664,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_703508973",
+    "name": "Mono Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6789342,
+    "longitude": -72.3106561,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_749982776",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.9828655,
+    "longitude": -72.4865286,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_785860333",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3190967,
+    "longitude": -72.3507069,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_785860334",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3191221,
+    "longitude": -72.350759,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_800196729",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1408522,
+    "longitude": -72.3192927,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_822870612",
+    "name": "U.S. Coast Guard - Station Eatons Neck",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9542317,
+    "longitude": -73.3981871,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_849385998",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5249247,
+    "longitude": -72.0820302,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_861134455",
+    "name": "Lower Bolton Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.798136,
+    "longitude": -72.4286811,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_865423767",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7167829,
+    "longitude": -73.2179015,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_870789586",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6236653,
+    "longitude": -72.3327408,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_870796422",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6325017,
+    "longitude": -72.3089657,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_870867509",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6360421,
+    "longitude": -72.2954538,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_871507252",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8529806,
+    "longitude": -71.8105006,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_879469645",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.9730233,
+    "longitude": -72.0581224,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_882972652",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2696326,
+    "longitude": -72.600948,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_886555586",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8026048,
+    "longitude": -71.8962216,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_887618455",
+    "name": "Glasgo Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5582862,
+    "longitude": -71.8867777,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_928656894",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1590531,
+    "longitude": -73.2161332,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_931494403",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5742829,
+    "longitude": -72.0439509,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_949333622",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.94637,
+    "longitude": -73.0732935,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_950181755",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4115363,
+    "longitude": -73.1904109,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_968577940",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5031769,
+    "longitude": -73.3194783,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_970420848",
+    "name": "Bashan Lake Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.483553,
+    "longitude": -72.4031726,
+    "city": "East Haddam",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_982220588",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2638349,
+    "longitude": -72.3893052,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_997235006",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9435852,
+    "longitude": -72.571285,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_997235007",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9436982,
+    "longitude": -72.5712476,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_997250831",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0134645,
+    "longitude": -72.5526479,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1004598744",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1084079,
+    "longitude": -72.3542567,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1004598746",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1116373,
+    "longitude": -72.3493107,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1004598747",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1116284,
+    "longitude": -72.3494003,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1008637088",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0865857,
+    "longitude": -72.3527032,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1008770741",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0476168,
+    "longitude": -72.3308464,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1008776615",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.053177,
+    "longitude": -72.3426229,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1008783306",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0565058,
+    "longitude": -72.3344251,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1008861726",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0516075,
+    "longitude": -72.3461954,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1008861732",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0508482,
+    "longitude": -72.3500791,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1008874413",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0637381,
+    "longitude": -72.3543462,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1008955990",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0747373,
+    "longitude": -72.3646109,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1008955991",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0704091,
+    "longitude": -72.3783863,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1008956035",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0569735,
+    "longitude": -72.3724567,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1009014092",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.047044,
+    "longitude": -72.3586994,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1009014106",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0468877,
+    "longitude": -72.3531651,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1010076616",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0449025,
+    "longitude": -72.360057,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1010118152",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0660844,
+    "longitude": -72.3652141,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1012904448",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7060234,
+    "longitude": -72.7923445,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1013419406",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0890447,
+    "longitude": -72.3227945,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1013419411",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0867833,
+    "longitude": -72.3124036,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1016200779",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3585794,
+    "longitude": -71.9649151,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1016394496",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3611948,
+    "longitude": -71.9662841,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1034174672",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.512982,
+    "longitude": -72.6666175,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1034563616",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9182529,
+    "longitude": -72.6449491,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1034563619",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9183056,
+    "longitude": -72.6392759,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1038069795",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0601014,
+    "longitude": -72.4144378,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1038117868",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0560916,
+    "longitude": -72.416876,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1038117869",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0560095,
+    "longitude": -72.4168535,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1038133554",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.049375,
+    "longitude": -72.4237883,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1043619078",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0353954,
+    "longitude": -72.4286433,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1044807320",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9460055,
+    "longitude": -73.0725963,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1047483452",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3151029,
+    "longitude": -73.0858674,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1050524028",
+    "name": "U.S. Coast Guard - Station New London",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3461903,
+    "longitude": -72.0933057,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1054586132",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0049198,
+    "longitude": -72.4714137,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1056541096",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6829439,
+    "longitude": -73.3525293,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1057390988",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9962353,
+    "longitude": -72.4796634,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1057879819",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9906536,
+    "longitude": -72.4713624,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1062243700",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5995238,
+    "longitude": -72.621451,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1063576164",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9345221,
+    "longitude": -72.5889416,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1066269501",
+    "name": "Thames River Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3635034,
+    "longitude": -72.0909085,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1068846842",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1691413,
+    "longitude": -73.1707953,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1070266882",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9281486,
+    "longitude": -73.4019259,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1070266883",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9280773,
+    "longitude": -73.4018863,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1081873440",
+    "name": "Messerschmidt Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3403833,
+    "longitude": -72.4929953,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1082443246",
+    "name": "Norwich Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3847101,
+    "longitude": -72.3045599,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1085198221",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9932733,
+    "longitude": -72.5380593,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1095047071",
+    "name": "Highland Lake Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.922545,
+    "longitude": -73.0845657,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1099954026",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7232388,
+    "longitude": -72.6540761,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1103884508",
+    "name": "Clinton Town Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2692926,
+    "longitude": -72.5294513,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1107118696",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0985183,
+    "longitude": -73.413266,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1107118697",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0984845,
+    "longitude": -73.4132369,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1107118698",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0984261,
+    "longitude": -73.4131832,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1107118699",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0983904,
+    "longitude": -73.4131544,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1151615504",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4657378,
+    "longitude": -73.4482429,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1153077000",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4917673,
+    "longitude": -73.4665866,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1165514169",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7722476,
+    "longitude": -72.8218491,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1184524687",
+    "name": "Rainbow Reservoir State Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.91413,
+    "longitude": -72.7048849,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1196138051",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3012813,
+    "longitude": -72.8999206,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1201224009",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8130604,
+    "longitude": -72.6469706,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1209487052",
+    "name": "Rogers Lake Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3619276,
+    "longitude": -72.2952108,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1211244507",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1516605,
+    "longitude": -73.1044606,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1225717067",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3649237,
+    "longitude": -72.8794221,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1227203104",
+    "name": "Housatonic River Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2049925,
+    "longitude": -73.1079402,
+    "city": "Milford",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1243686837",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.287933,
+    "longitude": -72.4920448,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1279821829",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.9980584,
+    "longitude": -72.6057239,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1321681747",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1733708,
+    "longitude": -72.2057885,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1338978221",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3645753,
+    "longitude": -73.1403578,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1347335826",
+    "name": "Danbury Road",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3895829,
+    "longitude": -73.5890122,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1378851894",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5846037,
+    "longitude": -71.8551324,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1378858132",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4467444,
+    "longitude": -73.4294875,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1378858653",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5080102,
+    "longitude": -73.4687128,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379026228",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7653633,
+    "longitude": -72.3095779,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379026641",
+    "name": "Crystal Lake Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.9382549,
+    "longitude": -72.3793192,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379027219",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3087672,
+    "longitude": -72.1482385,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379027906",
+    "name": "Dodge Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3266552,
+    "longitude": -72.2010581,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379031245",
+    "name": "Gardner Lake Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5014526,
+    "longitude": -72.2255654,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379033881",
+    "name": "Hampton Reservoir Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8237429,
+    "longitude": -72.0574677,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379034434",
+    "name": "Hatch Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6803794,
+    "longitude": -73.4732479,
+    "city": "Kent",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379205449",
+    "name": "Holbrook Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6741767,
+    "longitude": -72.3757308,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379207596",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.6034166,
+    "longitude": -71.9275368,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379209386",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3638082,
+    "longitude": -72.0848864,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379218195",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3407529,
+    "longitude": -73.1240229,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379225155",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4902223,
+    "longitude": -71.9486504,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379226516",
+    "name": "Lantern Hill Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4581017,
+    "longitude": -71.9486789,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379227407",
+    "name": "Leonard Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7068643,
+    "longitude": -73.475612,
+    "city": "Kent",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379228153",
+    "name": "Lieutenant River Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3141177,
+    "longitude": -72.3372729,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379228906",
+    "name": "Long Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4514924,
+    "longitude": -71.9486103,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379229650",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3151209,
+    "longitude": -73.5216392,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379230097",
+    "name": "Mansfield Hollow Lake Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7683563,
+    "longitude": -72.1754637,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379233205",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3740829,
+    "longitude": -71.9657858,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379234382",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.4838475,
+    "longitude": -72.7785512,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379236916",
+    "name": "Pattagansett Lake Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3673318,
+    "longitude": -72.2309113,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379237079",
+    "name": "Pickerel Lake Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5367361,
+    "longitude": -72.4221043,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379238804",
+    "name": "Pine Acres Lake Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.7766849,
+    "longitude": -72.0813787,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379239451",
+    "name": "Powers Lake Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3932062,
+    "longitude": -72.2568226,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379239765",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.9561038,
+    "longitude": -71.8149365,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379244877",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.1206745,
+    "longitude": -73.3677243,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379245743",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.584261,
+    "longitude": -72.7705628,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379246762",
+    "name": "Squantz Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.5099723,
+    "longitude": -73.4722335,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379250606",
+    "name": "Uncas Lake Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3728225,
+    "longitude": -72.3221903,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379253576",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.8902933,
+    "longitude": -73.0367994,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1390540571",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.050178,
+    "longitude": -72.1658373,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1442982876",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.2532898,
+    "longitude": -73.0885895,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1451247842",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9041349,
+    "longitude": -73.5429706,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1451247843",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 40.9043891,
+    "longitude": -73.5406677,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1451806274",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3422252,
+    "longitude": -72.0371864,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1454014464",
+    "name": "Atlantic Avenue",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3152566,
+    "longitude": -72.0159151,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1454015953",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3205498,
+    "longitude": -72.0132506,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1454015956",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3238028,
+    "longitude": -71.9931537,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1460966642",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3274149,
+    "longitude": -71.9850126,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1460966674",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.3244443,
+    "longitude": -71.9854437,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1462581785",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 41.0016478,
+    "longitude": -72.2928778,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_178457027",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 42.0383014,
+    "longitude": -73.3805291,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2550056802",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 42.0679013,
+    "longitude": -72.1525306,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5231301408",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 42.0736144,
+    "longitude": -72.060135,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7830614456",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 42.0806886,
+    "longitude": -72.584921,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8272875915",
+    "name": "Howells Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 42.0215601,
+    "longitude": -72.991686,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8586959993",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 42.0823414,
+    "longitude": -72.163657,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8993710729",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 42.0017134,
+    "longitude": -72.0508692,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10294356624",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 42.0550699,
+    "longitude": -71.8565547,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11304549770",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 42.0099434,
+    "longitude": -71.9415604,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12771650287",
+    "name": "Wood Creek Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 42.0182893,
+    "longitude": -73.1928955,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_684117696",
+    "name": "Boat Ramp",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 42.0220005,
+    "longitude": -73.0504619,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379228563",
+    "name": "Little Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 42.0130259,
+    "longitude": -71.8393276,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1379255145",
+    "name": "Wood Creek Pond Boat Launch",
+    "formatted_address": ", Connecticut, USA",
+    "latitude": 42.0182662,
+    "longitude": -73.1929238,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]

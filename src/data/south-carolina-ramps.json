@@ -1,0 +1,3497 @@
+[
+  {
+    "place_id": "osm_109964190",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.4079502,
+    "longitude": -80.4666358,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_110127957",
+    "name": "Willtown Bluff Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.6787626,
+    "longitude": -80.4160209,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_112770194",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.436329,
+    "longitude": -79.182205,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_113764871",
+    "name": "Boat Launch",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5130978,
+    "longitude": -80.4745214,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_478576370",
+    "name": "Mars Old Field Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.0548866,
+    "longitude": -80.4494956,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_478587898",
+    "name": "Weeks Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.0647279,
+    "longitude": -80.6130351,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_503106667",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.3310673,
+    "longitude": -80.1464644,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_569468052",
+    "name": "Rocky Point Boat & Kayak Launch Areas",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5446099,
+    "longitude": -79.3548779,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1202136546",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.3565709,
+    "longitude": -79.2801726,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1216002913",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.753393,
+    "longitude": -80.6452441,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1216075382",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.2683759,
+    "longitude": -80.1029603,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1225582579",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.0576644,
+    "longitude": -79.9577543,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1225586439",
+    "name": "Augustus M. Flood, Jr. Boat Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.3128067,
+    "longitude": -80.0001938,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1225594460",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.1311285,
+    "longitude": -79.8110545,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1226748745",
+    "name": "Mill Street Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.6636973,
+    "longitude": -79.8374131,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1228644765",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9475994,
+    "longitude": -80.1648499,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1236611266",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9669181,
+    "longitude": -79.9369543,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1236611270",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9671387,
+    "longitude": -79.9368953,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1243917451",
+    "name": "Long Creek Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9356071,
+    "longitude": -80.4028208,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1243917722",
+    "name": "Low Falls Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.6323542,
+    "longitude": -80.5432346,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1246391864",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5551096,
+    "longitude": -79.0343115,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1246394937",
+    "name": "Pole Yard Public Boat Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.209597,
+    "longitude": -79.3831023,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1255699308",
+    "name": "Morse Park Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5387947,
+    "longitude": -79.0501887,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1262667619",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.837905,
+    "longitude": -80.0431359,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1309361081",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5665707,
+    "longitude": -80.4378793,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1341704582",
+    "name": "Amos Gourdine Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.4022077,
+    "longitude": -79.9929691,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1358215022",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.4396801,
+    "longitude": -79.1178267,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1383403697",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.6592487,
+    "longitude": -80.5150928,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1401608892",
+    "name": "Pritchard Street Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.4119655,
+    "longitude": -79.1355224,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1403959434",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.1542654,
+    "longitude": -79.3544835,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1421784077",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.6683159,
+    "longitude": -79.9972746,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1445290124",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5149178,
+    "longitude": -80.1851536,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1445487472",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5586848,
+    "longitude": -80.2040159,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1470755175",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.890925,
+    "longitude": -80.6846326,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1489969156",
+    "name": "Buckhall Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.0384607,
+    "longitude": -79.5609533,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1583848886",
+    "name": "C.C. Haigh, Jr. Boat Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.2287497,
+    "longitude": -80.7878768,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1590105916",
+    "name": "Wadboo Bridge Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.1959133,
+    "longitude": -79.9531508,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1685196528",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.3703892,
+    "longitude": -80.6869253,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1685296504",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8047444,
+    "longitude": -79.7589346,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1685296513",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8054491,
+    "longitude": -79.7598125,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1712970667",
+    "name": "Wappoo Cut Public Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7673126,
+    "longitude": -79.9727371,
+    "city": "Charleston",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1721300627",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5332302,
+    "longitude": -80.2703624,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1729737655",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8361486,
+    "longitude": -80.0212745,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1739783523",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.6131949,
+    "longitude": -80.4818393,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1784361647",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7654102,
+    "longitude": -79.8616021,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1818284045",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5586826,
+    "longitude": -80.2039623,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1818284057",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5586782,
+    "longitude": -80.2038631,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1839215476",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.0805614,
+    "longitude": -79.4597254,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1871507803",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9679104,
+    "longitude": -79.9374478,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1940671268",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.4947511,
+    "longitude": -79.9605408,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1987383308",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8174689,
+    "longitude": -79.8794547,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1987825125",
+    "name": "Shem Creek Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7931279,
+    "longitude": -79.876796,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2009757652",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.7012802,
+    "longitude": -80.5370698,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2147131458",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5214535,
+    "longitude": -80.3059161,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2158132307",
+    "name": "Low Falls Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.6322304,
+    "longitude": -80.543286,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2169808655",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5354185,
+    "longitude": -80.3318073,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2169808658",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.535371,
+    "longitude": -80.3317943,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2286211427",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5790999,
+    "longitude": -80.5315983,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2535654205",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.6602365,
+    "longitude": -79.9434074,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2700070844",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5709463,
+    "longitude": -79.0864416,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2819081507",
+    "name": "Rosewood Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.6924289,
+    "longitude": -78.9924888,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3033205697",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.215756,
+    "longitude": -80.781191,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3218321681",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5513636,
+    "longitude": -80.5095429,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3226663639",
+    "name": "Boat Launch",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.552085,
+    "longitude": -80.5015168,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3648114259",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5463159,
+    "longitude": -79.4010816,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4103742424",
+    "name": "75 Ton Tavelift",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9277152,
+    "longitude": -79.8318395,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4253388291",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.1772478,
+    "longitude": -80.7699143,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4409738385",
+    "name": "Stanley Drive Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.576351,
+    "longitude": -79.0080737,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4409738802",
+    "name": "Peachtree Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.6943029,
+    "longitude": -79.0479805,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4409738803",
+    "name": "Enterprise Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.6678327,
+    "longitude": -79.0607944,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4409738804",
+    "name": "Socastee Boat Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.6866785,
+    "longitude": -79.007491,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4468376590",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.6994243,
+    "longitude": -78.9427049,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4824541117",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.6602663,
+    "longitude": -79.9432867,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5049866719",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8227434,
+    "longitude": -79.8978599,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5514368840",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.4988209,
+    "longitude": -80.4595488,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5805220561",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.2130897,
+    "longitude": -79.9735403,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6439726352",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.763381,
+    "longitude": -78.9010107,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6835291154",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.250693,
+    "longitude": -79.2682014,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6835291155",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.2508151,
+    "longitude": -79.2693564,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6900442408",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.0945146,
+    "longitude": -79.8078735,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6919030228",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.3571421,
+    "longitude": -79.295137,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7034583506",
+    "name": "Yauhannah Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.6617116,
+    "longitude": -79.153382,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7299061183",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7719695,
+    "longitude": -80.0623028,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7785682536",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.804895,
+    "longitude": -79.8215711,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7788200491",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7794013,
+    "longitude": -79.8074416,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7788200496",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7777645,
+    "longitude": -79.8098776,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7788200547",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7915318,
+    "longitude": -79.7885377,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7818238373",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.4231734,
+    "longitude": -79.9317783,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7873306510",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.3919366,
+    "longitude": -80.7759129,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8419553678",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.5979569,
+    "longitude": -80.1828408,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8421966636",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.6885678,
+    "longitude": -80.2962652,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8474442557",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.6342504,
+    "longitude": -80.587633,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8665502591",
+    "name": "K. Hovnanian'S Four Seasons Slipway",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.1364939,
+    "longitude": -80.0980126,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9186185646",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5339269,
+    "longitude": -80.3310371,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9680465581",
+    "name": "Pine Tree Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.4736306,
+    "longitude": -79.4990275,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9680468958",
+    "name": "Red'S Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.4871264,
+    "longitude": -79.545756,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9680488447",
+    "name": "Pea House Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.4826303,
+    "longitude": -79.45621,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9680488448",
+    "name": "Pump House Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.4820336,
+    "longitude": -79.4492824,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9854910557",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.4484562,
+    "longitude": -80.1583019,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9864364666",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.7049118,
+    "longitude": -78.9353396,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9866747704",
+    "name": "Simmons Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.1043585,
+    "longitude": -80.6713222,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9874013944",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.2142135,
+    "longitude": -79.9809861,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9960999633",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.754094,
+    "longitude": -79.9184478,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9962994758",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7851701,
+    "longitude": -80.1064912,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9962994762",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7851269,
+    "longitude": -80.1065909,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9962994763",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7850873,
+    "longitude": -80.1066838,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9965501032",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.675377,
+    "longitude": -79.9653623,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9966854102",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.3847739,
+    "longitude": -80.1404552,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9966885316",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.3498057,
+    "longitude": -80.1158361,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9966896527",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.3924347,
+    "longitude": -80.1493653,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9968799565",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.2108512,
+    "longitude": -80.0502346,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9968837023",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.2545187,
+    "longitude": -79.9887162,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10034975706",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.3571885,
+    "longitude": -79.2953248,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10053663282",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.2596373,
+    "longitude": -80.7655334,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10169346697",
+    "name": "Madere'S Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7938491,
+    "longitude": -79.8775956,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10262002931",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.5780668,
+    "longitude": -80.6697417,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10266070508",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.7959302,
+    "longitude": -79.0542649,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10279197163",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.0046444,
+    "longitude": -79.5986862,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10282907595",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.3502569,
+    "longitude": -79.1905925,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10283985379",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.015918,
+    "longitude": -79.5879091,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10294291406",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.647685,
+    "longitude": -79.9615565,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10295965704",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.3553448,
+    "longitude": -79.3206566,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10610434308",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.503676,
+    "longitude": -80.7844419,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10740667919",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.3777848,
+    "longitude": -80.717722,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10750065576",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.353418,
+    "longitude": -80.6736465,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10768676050",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.4844649,
+    "longitude": -80.6005406,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10874883539",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7741533,
+    "longitude": -79.8405507,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10964572733",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7063972,
+    "longitude": -79.9489606,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10964606435",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.6797765,
+    "longitude": -79.9506355,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10968641421",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.3279809,
+    "longitude": -80.6452513,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11028316105",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.3211075,
+    "longitude": -80.6051603,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11267078101",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8747026,
+    "longitude": -79.7390133,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11273230612",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7683375,
+    "longitude": -79.9925718,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11359136884",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.4038899,
+    "longitude": -80.2333544,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11359136889",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.4036607,
+    "longitude": -80.232781,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11393260185",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.792705,
+    "longitude": -79.8910272,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11751903667",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.6483497,
+    "longitude": -80.1543145,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11753477012",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.6024763,
+    "longitude": -80.2931075,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11990803795",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.6528882,
+    "longitude": -80.68379,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12239471179",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.4122479,
+    "longitude": -80.1510666,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12239471180",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.4121593,
+    "longitude": -80.1508553,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12239498956",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5255637,
+    "longitude": -80.2017891,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12239547654",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5337517,
+    "longitude": -80.2660025,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12239550582",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5678368,
+    "longitude": -80.2073587,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12241634289",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5231346,
+    "longitude": -80.4376326,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12241694478",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5731543,
+    "longitude": -80.4388757,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12276875531",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5432051,
+    "longitude": -80.5061347,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12757912480",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5584474,
+    "longitude": -79.0153721,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12799728696",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5521063,
+    "longitude": -80.5089159,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13357593292",
+    "name": "Station 26 Boat Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7699262,
+    "longitude": -79.8329767,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13422309835",
+    "name": "Remley'S Point Boat Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8133552,
+    "longitude": -79.9070233,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12495059",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.4304809,
+    "longitude": -80.2809116,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_301009139",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8870051,
+    "longitude": -80.0735636,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_407730869",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.5023902,
+    "longitude": -80.3232239,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_407730871",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.5023454,
+    "longitude": -80.3231877,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_509334985",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.2594199,
+    "longitude": -80.7652513,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_517276615",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8134442,
+    "longitude": -79.9074384,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_517276618",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8134795,
+    "longitude": -79.9074364,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_517276622",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8135012,
+    "longitude": -79.90743,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_572717152",
+    "name": "Russ Point Boat Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.3459978,
+    "longitude": -80.4697849,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_660638007",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9007798,
+    "longitude": -79.8985172,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_708353409",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.089779,
+    "longitude": -79.9336455,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_753762394",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.4088858,
+    "longitude": -80.2998374,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_788612763",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9327803,
+    "longitude": -80.0227232,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_820211403",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.3021,
+    "longitude": -79.5973001,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_825875591",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8468158,
+    "longitude": -79.9353325,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_837629819",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.4044681,
+    "longitude": -79.8632573,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_837682048",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.4231519,
+    "longitude": -79.9317596,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_894825124",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.099164,
+    "longitude": -80.3695229,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_905183670",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.735297,
+    "longitude": -78.8825812,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_905183671",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.7338024,
+    "longitude": -78.8857976,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_905220805",
+    "name": "Private Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.747109,
+    "longitude": -78.8566424,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_906708819",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.5979707,
+    "longitude": -80.1828299,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_906972357",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.68864,
+    "longitude": -80.2962757,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_912254966",
+    "name": "Old Chehaw Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.6342123,
+    "longitude": -80.5876521,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_922860163",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7653228,
+    "longitude": -79.8617005,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_956209423",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7348069,
+    "longitude": -80.4104693,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_992366934",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.0668284,
+    "longitude": -80.5423999,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_994781864",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5340241,
+    "longitude": -80.331057,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1021761886",
+    "name": "Fields Point Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.5675059,
+    "longitude": -80.5571948,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1038771436",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5130548,
+    "longitude": -80.4745791,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1052120412",
+    "name": "Hwy 22/17 Interchange Boat Landing",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.789986,
+    "longitude": -78.7753279,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1060942500",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.2951487,
+    "longitude": -80.1564659,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1081655935",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.4525032,
+    "longitude": -80.6701889,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1087144921",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8013594,
+    "longitude": -79.868349,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1087148551",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7548199,
+    "longitude": -79.9181204,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1087382608",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.785103,
+    "longitude": -80.106456,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1087382611",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7850629,
+    "longitude": -80.1065545,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1087382612",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.785026,
+    "longitude": -80.1066458,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1087618617",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.6835795,
+    "longitude": -80.1048943,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1087800779",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.3811595,
+    "longitude": -80.0914125,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1087801128",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.3830113,
+    "longitude": -80.1391884,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1095736539",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.3569102,
+    "longitude": -79.295204,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1095736540",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.3569563,
+    "longitude": -79.2954039,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1112551438",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.4935305,
+    "longitude": -80.3242417,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1112551441",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.4923545,
+    "longitude": -80.3280448,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1112551800",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.502442,
+    "longitude": -80.3159793,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1112554976",
+    "name": "Kayak Launch",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.6859054,
+    "longitude": -80.3459214,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1121998317",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.5780581,
+    "longitude": -80.6697713,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1122826005",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.5499818,
+    "longitude": -80.7612815,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1124037919",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.0046999,
+    "longitude": -79.5987732,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1125551970",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8054015,
+    "longitude": -79.7598804,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1138248682",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.5036865,
+    "longitude": -80.7843824,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1143697602",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.4080548,
+    "longitude": -80.4667824,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1154911726",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.3777572,
+    "longitude": -80.7177523,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1155969134",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.3533974,
+    "longitude": -80.6736724,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1156963476",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8542429,
+    "longitude": -79.9546708,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1160951846",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9211094,
+    "longitude": -79.8008768,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1216036501",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9397424,
+    "longitude": -79.6574406,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1224880281",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.3958171,
+    "longitude": -80.1973028,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1285608547",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.7428325,
+    "longitude": -78.9225754,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1287875657",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.0167891,
+    "longitude": -80.0672169,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1320439240",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9210898,
+    "longitude": -79.8007604,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1351742270",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7740104,
+    "longitude": -79.9252115,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1362242985",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9084867,
+    "longitude": -79.8341329,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1375953465",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7792276,
+    "longitude": -79.9515437,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1382491818",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.5521431,
+    "longitude": -80.5090215,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1408502831",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.4159822,
+    "longitude": -80.3224132,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1408502837",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.4107899,
+    "longitude": -80.3100041,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1417437739",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8629269,
+    "longitude": -79.9233594,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1419050930",
+    "name": "Sweetwater Charleston Boat Slipway",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8943467,
+    "longitude": -79.9099044,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1419446031",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9220287,
+    "longitude": -79.8265469,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1419446032",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9221027,
+    "longitude": -79.8264647,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1419478078",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9142229,
+    "longitude": -79.8828559,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1420031116",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.0576022,
+    "longitude": -79.9578707,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1420031117",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.0577658,
+    "longitude": -79.9578886,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1420454846",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8710928,
+    "longitude": -80.0639269,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1430351144",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.7739865,
+    "longitude": -79.9253848,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1435913801",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9167593,
+    "longitude": -80.0002066,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1443131332",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9223164,
+    "longitude": -79.8412074,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1449403426",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.9253607,
+    "longitude": -79.9998458,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1455315567",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 33.4320964,
+    "longitude": -80.3645463,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1494095853",
+    "name": "Boat Ramp",
+    "formatted_address": ", South Carolina, USA",
+    "latitude": 32.8027103,
+    "longitude": -79.9321714,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]

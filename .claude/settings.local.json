@@ -13,7 +13,10 @@
       "Bash(npx tsc:*)",
       "Bash(ls D:/rampseeker/scripts/data/states/wis*)",
       "Bash(ls D:/rampseeker/scripts/data/states/vermont*)",
-      "Bash(ls D:/rampseeker/scripts/data/states/rhode*)"
+      "Bash(ls D:/rampseeker/scripts/data/states/rhode*)",
+      "Bash(node scripts/generate-states.js)",
+      "Bash(node scripts/patch-all-ramps.js)",
+      "Bash(node scripts/patch-site-wide.js)"
     ]
   }
 }

@@ -1,0 +1,47 @@
+[
+  {
+    "place_id": "osm_1327140242",
+    "name": "Boat Ramp",
+    "formatted_address": ", West Virginia, USA",
+    "latitude": 39.6594205,
+    "longitude": -79.9916944,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1732570040",
+    "name": "Boat Ramp",
+    "formatted_address": ", West Virginia, USA",
+    "latitude": 39.6863686,
+    "longitude": -79.9407816,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8979756360",
+    "name": "Boat Ramp",
+    "formatted_address": ", West Virginia, USA",
+    "latitude": 39.5182541,
+    "longitude": -80.0916834,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]

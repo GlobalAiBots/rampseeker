@@ -1,0 +1,5882 @@
+[
+  {
+    "place_id": "osm_65549107",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.7372969,
+    "longitude": -157.064448,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_428163046",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.8420999,
+    "longitude": -147.8119481,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_647482102",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 53.6407412,
+    "longitude": -132.0561541,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_650010653",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.7779852,
+    "longitude": -130.1036356,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_652831255",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.8848395,
+    "longitude": -134.7902345,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1233171973",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.4756671,
+    "longitude": -149.7191136,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1233173429",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.4808174,
+    "longitude": -149.7331554,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1286827459",
+    "name": "South Harbor Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 56.8080392,
+    "longitude": -132.9667981,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1286947277",
+    "name": "Banana Point Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 56.5529477,
+    "longitude": -132.6292885,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1286947278",
+    "name": "Papkes Landing",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 56.6776985,
+    "longitude": -132.93422,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1562136514",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.6074289,
+    "longitude": -151.431326,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1632174488",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 53.1473367,
+    "longitude": -132.2011943,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1712294446",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.8413402,
+    "longitude": -135.1867551,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1726180694",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.4265105,
+    "longitude": -149.4186095,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1869274571",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 53.4243445,
+    "longitude": -129.2472914,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1986549106",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 53.0670463,
+    "longitude": -132.0678035,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2100956248",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.6540496,
+    "longitude": -134.9707181,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2182400559",
+    "name": "Kathleen Lake",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.576117,
+    "longitude": -137.2223796,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2265222656",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.4384712,
+    "longitude": -150.3212878,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2265329710",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.5251187,
+    "longitude": -150.3965972,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2265360693",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.5208246,
+    "longitude": -150.3887955,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2278787646",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.272243,
+    "longitude": -158.6243845,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2455880896",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.6489298,
+    "longitude": -135.2397993,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2460428724",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.3977195,
+    "longitude": -137.0425289,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2460855017",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.7476916,
+    "longitude": -137.5086276,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2553274275",
+    "name": "Stikine Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 56.5852114,
+    "longitude": -132.542536,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2608920946",
+    "name": "Rapids Camp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.6389024,
+    "longitude": -156.5672462,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2608920947",
+    "name": "King Salmon",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.6731472,
+    "longitude": -156.6603598,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2610356739",
+    "name": "Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 56.1137679,
+    "longitude": -133.1216117,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2643124010",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.0763128,
+    "longitude": -135.1967125,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2705539187",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.3833429,
+    "longitude": -149.7203239,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2743593950",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.3670525,
+    "longitude": -129.1052299,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2800106818",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 63.7395888,
+    "longitude": -148.8912418,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2852919323",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 62.3273523,
+    "longitude": -150.1117536,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2879154239",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.6729074,
+    "longitude": -135.0248245,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2987840194",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 63.0531448,
+    "longitude": -146.0043473,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2998675559",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 62.7443775,
+    "longitude": -150.1222825,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3092782899",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.5437182,
+    "longitude": -145.7627638,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3639664130",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.7778212,
+    "longitude": -148.6658664,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3683347940",
+    "name": "Woodpecker Cove Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 56.5007496,
+    "longitude": -132.8226335,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3721014128",
+    "name": "Public Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 71.302672,
+    "longitude": -156.763814,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4100454224",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.5586501,
+    "longitude": -145.7504238,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4171966917",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.41746,
+    "longitude": -134.5894332,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4303192280",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.5156736,
+    "longitude": -150.7024562,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4303256179",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.5361417,
+    "longitude": -150.7550623,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4407862603",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 62.5265351,
+    "longitude": -145.5247633,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4450373786",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.037801,
+    "longitude": -158.4776689,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4450375421",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.0697003,
+    "longitude": -158.4398711,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4524171128",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 62.8880336,
+    "longitude": -141.5433238,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4597781044",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.8345734,
+    "longitude": -147.6951318,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4741572954",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 55.9993565,
+    "longitude": -161.2013372,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4757592772",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.6664405,
+    "longitude": -150.1352518,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4837282407",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.4616712,
+    "longitude": -149.7250458,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4959037840",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.9945702,
+    "longitude": -150.6510995,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4990841965",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.7474795,
+    "longitude": -150.0541044,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5058709750",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.1508504,
+    "longitude": -149.8824875,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5172344262",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.8224025,
+    "longitude": -147.5133312,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5426492699",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.3355493,
+    "longitude": -150.0647025,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5652640019",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 56.086186,
+    "longitude": -129.3094367,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5835280318",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.2744961,
+    "longitude": -134.3858976,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5837024164",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 65.8800083,
+    "longitude": -149.7263682,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5837024166",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 65.8787933,
+    "longitude": -149.7210967,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5838975894",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 66.6654966,
+    "longitude": -150.656817,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5840683447",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 66.9585099,
+    "longitude": -150.392291,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5969687146",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.4070894,
+    "longitude": -149.3751017,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6003403278",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 53.8961848,
+    "longitude": -166.5369393,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6026298699",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.4833664,
+    "longitude": -149.2519645,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6069645706",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.3490417,
+    "longitude": -149.5520276,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6407225814",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.2073981,
+    "longitude": -149.9189014,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6481651875",
+    "name": "Rushbrook Harbour Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.3237944,
+    "longitude": -130.3063812,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6496380923",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 68.4519792,
+    "longitude": -149.374457,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6704716235",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.6905627,
+    "longitude": -135.0376227,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6704717557",
+    "name": "Marsh Lake Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.5123776,
+    "longitude": -134.3273122,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6704717558",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.5611522,
+    "longitude": -134.4907419,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6717759348",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.5440684,
+    "longitude": -145.7197934,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6743355298",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.1652537,
+    "longitude": -134.6996438,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6814334142",
+    "name": "Kluane Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.0333095,
+    "longitude": -138.4962157,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6814334143",
+    "name": "Six Mile River Resort Lauch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.3152001,
+    "longitude": -134.2695371,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6814334149",
+    "name": "Tagish Lake Campground Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.3153685,
+    "longitude": -134.2624869,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6814462817",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.5842515,
+    "longitude": -136.1423294,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6919106842",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.1773181,
+    "longitude": -135.3915651,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6919139213",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.0773992,
+    "longitude": -135.1976762,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_6933859895",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.4741221,
+    "longitude": -150.3273147,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7040395807",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.575051,
+    "longitude": -133.7089361,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7185582977",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.4501502,
+    "longitude": -135.3187774,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7447602150",
+    "name": "Little Atlin",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.296824,
+    "longitude": -133.985533,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7520914781",
+    "name": "North Fill",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.5530118,
+    "longitude": -145.76138,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7674977322",
+    "name": "Seventeen Mile Lake Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.7148918,
+    "longitude": -148.9812346,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7685165555",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.1272261,
+    "longitude": -146.3430229,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7716656682",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 57.2703813,
+    "longitude": -133.630785,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7723090627",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.8027662,
+    "longitude": -147.9584987,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7723091265",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.8033229,
+    "longitude": -147.9527394,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7965548866",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.0402952,
+    "longitude": -158.4793953,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7965548868",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.0378915,
+    "longitude": -158.4610108,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7990734674",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 55.0574167,
+    "longitude": -162.3259974,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8253295470",
+    "name": "Sand Lake Public Access",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.1483377,
+    "longitude": -149.966327,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8271256373",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.6789593,
+    "longitude": -150.001847,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8284404390",
+    "name": "Rabbit Slough Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.534192,
+    "longitude": -149.2678535,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8580535914",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.8219174,
+    "longitude": -164.5109886,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9089467410",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.5626024,
+    "longitude": -139.7416225,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9089467411",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.5625997,
+    "longitude": -139.7414884,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9335620715",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 71.341644,
+    "longitude": -156.6133583,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9581027586",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.315816,
+    "longitude": -134.2692737,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9797121132",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.401805,
+    "longitude": -149.5648325,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9947844401",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.1661261,
+    "longitude": -132.7093845,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9955397107",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.0584854,
+    "longitude": -141.7664773,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9957649538",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.2665251,
+    "longitude": -135.6227685,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9957651824",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.5916054,
+    "longitude": -137.2287141,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9957658617",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.5921152,
+    "longitude": -137.2304262,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9965021975",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.7171466,
+    "longitude": -135.0469286,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9965933631",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.5767587,
+    "longitude": -134.6794725,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9995328683",
+    "name": "Primrose Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.3402816,
+    "longitude": -149.3676487,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9995382103",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 56.1073383,
+    "longitude": -129.6754846,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9995407708",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.5289302,
+    "longitude": -145.6403829,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9999160183",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 65.8251675,
+    "longitude": -144.060444,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10000719099",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 65.8246122,
+    "longitude": -144.059964,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10005334761",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 65.7115066,
+    "longitude": -144.3354464,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10007530348",
+    "name": "Whittier Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.7769578,
+    "longitude": -148.6857816,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10010216965",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.780612,
+    "longitude": -141.1101759,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10047236422",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 68.1057783,
+    "longitude": -145.6021779,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10174097675",
+    "name": "Aishihik Lake Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.0828911,
+    "longitude": -136.9976243,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10683426366",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 66.8889269,
+    "longitude": -151.4961384,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10722418151",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 52.9353635,
+    "longitude": -132.1334644,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10735447840",
+    "name": "Eklutna Lake Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.4083505,
+    "longitude": -149.1354883,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10735503893",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.6093312,
+    "longitude": -149.2634471,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10776255983",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 66.3297637,
+    "longitude": -179.1202041,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10804735852",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 63.8718631,
+    "longitude": -160.7846293,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10925323010",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.5328703,
+    "longitude": -149.8339685,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10979228010",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.4478874,
+    "longitude": -133.6032083,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11179708764",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 55.8991772,
+    "longitude": -159.1682321,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11183786125",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.4845568,
+    "longitude": -133.3034096,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11186402072",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.1759652,
+    "longitude": -149.853455,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11529940766",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 57.5311656,
+    "longitude": -130.1833527,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11658554832",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.6446346,
+    "longitude": -133.537251,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11936909841",
+    "name": "Northeast Launch Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.1202276,
+    "longitude": -149.4328327,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11936975643",
+    "name": "South Launch Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.1159285,
+    "longitude": -149.4393872,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11938895400",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.0946672,
+    "longitude": -149.366688,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11992630000",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.263378,
+    "longitude": -134.7502035,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12089890313",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 53.2505427,
+    "longitude": -132.0376638,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12121632757",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 55.9982867,
+    "longitude": -161.2073637,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12152856764",
+    "name": "Lake Geeta Kayak Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 63.0710688,
+    "longitude": -146.7061705,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12319587137",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.8083303,
+    "longitude": -147.9522808,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12377520114",
+    "name": "Mile 43 River Access",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.9342846,
+    "longitude": -146.2774766,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12796357143",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.247319,
+    "longitude": -130.1949519,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12796420974",
+    "name": "Rainbow Lake Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.2280607,
+    "longitude": -130.0710334,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12851625013",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.6421759,
+    "longitude": -149.2853112,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12904035694",
+    "name": "Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.5783741,
+    "longitude": -149.8416164,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12926468933",
+    "name": "Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 68.3574327,
+    "longitude": -133.7397752,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12941788603",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 63.3763278,
+    "longitude": -136.2484167,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12941838118",
+    "name": "Aishihik Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.195704,
+    "longitude": -136.9989117,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12986109598",
+    "name": "Rocky Lake State Recreation Site Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.5561201,
+    "longitude": -149.8202047,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12995096470",
+    "name": "Prudhomme Lake Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.2413749,
+    "longitude": -130.1287388,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12997916410",
+    "name": "Andesite Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.3717006,
+    "longitude": -129.1365955,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12997932628",
+    "name": "Exstew River Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.4000852,
+    "longitude": -129.057113,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12999685236",
+    "name": "Kwinitsa Creek Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.2214421,
+    "longitude": -129.5769475,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12999685254",
+    "name": "Kwinitsa East Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.2430874,
+    "longitude": -129.5188581,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12999685275",
+    "name": "Snowbound Creek Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.2473326,
+    "longitude": -129.4776731,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12999685282",
+    "name": "Kasiks River Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.2935587,
+    "longitude": -129.3997464,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12999685297",
+    "name": "Exchamsiks River Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.3331089,
+    "longitude": -129.298956,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12999832954",
+    "name": "Tyee Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.2231809,
+    "longitude": -129.8912158,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13025428741",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.2031138,
+    "longitude": -154.3154782,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13030753532",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 53.0712705,
+    "longitude": -132.0708176,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13040484958",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.3026397,
+    "longitude": -129.9852555,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13040491454",
+    "name": "Work Channel Main Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.30231,
+    "longitude": -129.988789,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13065591983",
+    "name": "Tarfu Lake",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.0639793,
+    "longitude": -133.7538431,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13066525799",
+    "name": "Snafu Lake",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.1341274,
+    "longitude": -133.8080829,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13076720169",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.4507025,
+    "longitude": -135.3200569,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13076720172",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.4507414,
+    "longitude": -135.3202307,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13158448568",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 55.999189,
+    "longitude": -161.202566,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13158529679",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 56.0010017,
+    "longitude": -161.199503,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13158529831",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 56.0008996,
+    "longitude": -161.1994395,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13161575764",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.9979884,
+    "longitude": -129.9757591,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13250042903",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.7555298,
+    "longitude": -161.8964083,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13250209502",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.7575212,
+    "longitude": -161.8798305,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13271397554",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.2725309,
+    "longitude": -158.6025086,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13273267576",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.7436813,
+    "longitude": -156.9477546,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13324684731",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 66.9022109,
+    "longitude": -162.5885416,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13324684740",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 66.9008552,
+    "longitude": -162.5931985,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13324684746",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 66.8997045,
+    "longitude": -162.5970711,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13357267153",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.8381896,
+    "longitude": -147.8002697,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13406911089",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.2984196,
+    "longitude": -155.9843693,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13406911362",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.3285159,
+    "longitude": -155.882349,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13414571023",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.842679,
+    "longitude": -147.7995943,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13414571128",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.846213,
+    "longitude": -147.7948681,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13414571129",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.8459664,
+    "longitude": -147.7958023,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13414571412",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.8447797,
+    "longitude": -147.7873892,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13449095749",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.6268265,
+    "longitude": -149.802556,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13596410640",
+    "name": "Venetie Boat Ramp South",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 67.0113456,
+    "longitude": -146.4183755,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13615623148",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.0707515,
+    "longitude": -149.4351433,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13663638201",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 62.3265982,
+    "longitude": -150.1150862,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_13700407096",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.4604429,
+    "longitude": -150.3187613,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_8982869",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 63.8718343,
+    "longitude": -160.784827,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_9000690",
+    "name": "Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 65.8251403,
+    "longitude": -144.0613168,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_188033497",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 53.2467211,
+    "longitude": -132.0093473,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_188033940",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 53.0528405,
+    "longitude": -132.024391,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_188128851",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 53.689316,
+    "longitude": -132.1831321,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_188149701",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 53.0280327,
+    "longitude": -131.894939,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_188149710",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 53.0182154,
+    "longitude": -131.9628229,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_188167603",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 53.7853155,
+    "longitude": -132.2223809,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_195130195",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.2345344,
+    "longitude": -135.4405627,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_217233565",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.471215,
+    "longitude": -150.4705617,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_217233566",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.4676093,
+    "longitude": -150.2051163,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_217233569",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.4382984,
+    "longitude": -150.3214261,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_217248826",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.5209361,
+    "longitude": -150.3887982,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_264441790",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.8114212,
+    "longitude": -148.298637,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_264691734",
+    "name": "City Of Kenai Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.5445912,
+    "longitude": -151.2222598,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_264861142",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.4866276,
+    "longitude": -150.0025674,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_265180656",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.7887814,
+    "longitude": -151.0316227,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_294979184",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 62.8865899,
+    "longitude": -145.5263729,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_294979185",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 62.8184191,
+    "longitude": -145.4970331,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_295113709",
+    "name": "Tangle Lakes Access",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 63.053182,
+    "longitude": -146.0044542,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_295117287",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 63.0447629,
+    "longitude": -146.0269541,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_296996474",
+    "name": "Susitna Landing Public Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.9129184,
+    "longitude": -150.0992119,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_331777903",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.2253195,
+    "longitude": -149.9059902,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_331777905",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.2252569,
+    "longitude": -149.9060927,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_333424649",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.4386026,
+    "longitude": -151.7178368,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_340773252",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 70.3556508,
+    "longitude": -147.9639147,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_340773256",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 70.3210592,
+    "longitude": -147.8695528,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_346670879",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.4917407,
+    "longitude": -149.8110941,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_351023525",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.3168859,
+    "longitude": -151.2585672,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_351023535",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.3168841,
+    "longitude": -151.2585269,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_354977524",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 57.7829476,
+    "longitude": -152.4069607,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_368205413",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.7170741,
+    "longitude": -135.0469994,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_369344708",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.4915358,
+    "longitude": -134.7876898,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_406377461",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 57.0482898,
+    "longitude": -135.3538688,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_416936966",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.3901064,
+    "longitude": -135.7300449,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_417102216",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.4540362,
+    "longitude": -135.8870958,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_426509459",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.4819519,
+    "longitude": -151.0990436,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_426525981",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.2539499,
+    "longitude": -151.1728225,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_426525987",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.2539565,
+    "longitude": -151.1728218,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_426627459",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.4810052,
+    "longitude": -151.0306377,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_428831615",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.5481232,
+    "longitude": -151.2245056,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_431076998",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.5361209,
+    "longitude": -150.7549886,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_431425846",
+    "name": "The Pillars Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.5338044,
+    "longitude": -151.0980507,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_431441760",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.548752,
+    "longitude": -151.2255649,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_431477800",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.3866988,
+    "longitude": -151.2976054,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_431477807",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.3867002,
+    "longitude": -151.2975965,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_436497705",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.6095284,
+    "longitude": -151.4282139,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_438172082",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 56.9487116,
+    "longitude": -133.8946179,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_442355060",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.6831714,
+    "longitude": -153.6312813,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_442355061",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.7792138,
+    "longitude": -153.8829087,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_442989845",
+    "name": "Tanana River Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 63.7618189,
+    "longitude": -144.6921918,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_443157742",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 62.5265811,
+    "longitude": -145.5246823,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_447809614",
+    "name": "Niksiuraq Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 71.3556377,
+    "longitude": -156.5335204,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_448119468",
+    "name": "Lake Camp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.6724991,
+    "longitude": -156.4575523,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_451029171",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.9341541,
+    "longitude": -150.0906074,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_455267962",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 63.3173496,
+    "longitude": -142.6499936,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_455437159",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 63.3759268,
+    "longitude": -143.5446209,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_455481568",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.1983474,
+    "longitude": -145.8252478,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_462331183",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.9033163,
+    "longitude": -146.365107,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_463348523",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.4346374,
+    "longitude": -146.8805592,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_463348541",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.4697491,
+    "longitude": -146.9298608,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_475521036",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 57.1294439,
+    "longitude": -135.374166,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_477055059",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 70.6300793,
+    "longitude": -160.0244052,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_477330945",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 57.1295197,
+    "longitude": -135.3741796,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_479644680",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 67.0848534,
+    "longitude": -157.8549283,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_483128670",
+    "name": "Susitna River Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.721462,
+    "longitude": -150.2049128,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_483197809",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 62.2879287,
+    "longitude": -146.5449744,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_491702514",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.4376936,
+    "longitude": -150.1741605,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_503484436",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 63.3782758,
+    "longitude": -143.3480175,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_504587277",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 65.0858128,
+    "longitude": -147.7373942,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_509979813",
+    "name": "Willow Lake Floatplane Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.7474864,
+    "longitude": -150.053923,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_513180028",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.953848,
+    "longitude": -145.3220657,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_516682723",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 62.306905,
+    "longitude": -145.231655,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_517994330",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.2605846,
+    "longitude": -146.1070383,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_518479534",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.3151092,
+    "longitude": -146.6463628,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_525852810",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 63.1922832,
+    "longitude": -145.6507878,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_532250724",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.1989146,
+    "longitude": -145.8278003,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_620495427",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 62.2693911,
+    "longitude": -145.3846429,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_626535629",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.7689453,
+    "longitude": -147.222978,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_626540595",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.7940064,
+    "longitude": -147.1889716,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_628258397",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.5556831,
+    "longitude": -149.1135236,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_628258399",
+    "name": "Nenana River Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.5493576,
+    "longitude": -149.1175846,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_642971514",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.2763245,
+    "longitude": -134.389887,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_642971516",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.2762612,
+    "longitude": -134.3898404,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_643173599",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.4913391,
+    "longitude": -134.7879125,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_645799646",
+    "name": "Fire Lake Public Access",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.3490613,
+    "longitude": -149.5521197,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_655300658",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.3814755,
+    "longitude": -134.6908769,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_732494322",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.4290565,
+    "longitude": -145.2989755,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_740596019",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.4741357,
+    "longitude": -150.3274106,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_747533354",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 66.8889684,
+    "longitude": -151.4964978,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_790912570",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.1159153,
+    "longitude": -149.4394219,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_790912571",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.1159698,
+    "longitude": -149.4394218,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_790912575",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.1202786,
+    "longitude": -149.4326942,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_790912576",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.1202202,
+    "longitude": -149.4326937,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_796348026",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.1661301,
+    "longitude": -132.7093237,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_796348998",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.5715232,
+    "longitude": -133.7055212,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_796349831",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.2968947,
+    "longitude": -133.9854174,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_804082167",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.5528354,
+    "longitude": -145.7611723,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_823313146",
+    "name": "Marsh Lake Marina Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.457175,
+    "longitude": -134.275825,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_826081694",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.1275457,
+    "longitude": -146.3393323,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_826606208",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 53.2374526,
+    "longitude": -131.8624324,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_831787404",
+    "name": "St Paul Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 57.7868292,
+    "longitude": -152.4076073,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_845237923",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.8015542,
+    "longitude": -137.484666,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_859230299",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.8246812,
+    "longitude": -147.8285738,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_866204378",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 55.3577795,
+    "longitude": -131.712395,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_881262327",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.2828021,
+    "longitude": -135.4683486,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_888168072",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 53.8683037,
+    "longitude": -166.5563694,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_888898841",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 57.7313879,
+    "longitude": -152.5259329,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_888902081",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 57.7331559,
+    "longitude": -152.5069403,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_888902082",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 57.7332011,
+    "longitude": -152.5068212,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_890087769",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 57.7768273,
+    "longitude": -152.3998336,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_890975992",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.3854184,
+    "longitude": -134.6475974,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_890975993",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.385383,
+    "longitude": -134.6474859,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_890975994",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.3850382,
+    "longitude": -134.6455107,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_891211151",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.3031814,
+    "longitude": -134.4290387,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_891241649",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 56.808244,
+    "longitude": -132.9669224,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_891255016",
+    "name": "Poor Mans Float",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 56.8120962,
+    "longitude": -132.9593107,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_893546760",
+    "name": "Seaplane Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 55.357181,
+    "longitude": -131.6998891,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_893646636",
+    "name": "Ramp (Inactive)",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 55.3536472,
+    "longitude": -131.6914497,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_893653099",
+    "name": "Bar Harbor",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 55.3514022,
+    "longitude": -131.6835852,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_893653100",
+    "name": "Bar Harbor",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 55.3513756,
+    "longitude": -131.6834797,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_918882601",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.8467622,
+    "longitude": -147.4098891,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_926852802",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.8458948,
+    "longitude": -147.705877,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_963705081",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.5361194,
+    "longitude": -150.4617947,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_988490875",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.066442,
+    "longitude": -149.4400414,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_988490877",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.0706981,
+    "longitude": -149.4357467,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1022967877",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 53.2118406,
+    "longitude": -131.988072,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1040574277",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.3157714,
+    "longitude": -134.2696509,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1077545643",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 59.7745994,
+    "longitude": -151.8672361,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1091965104",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 65.8245484,
+    "longitude": -144.060823,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1092077588",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 56.5704901,
+    "longitude": -169.6699467,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1093263323",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.0585169,
+    "longitude": -141.7669981,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1095732751",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.7073392,
+    "longitude": -161.7731,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1105593217",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.5328591,
+    "longitude": -149.833704,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1135242834",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.6093964,
+    "longitude": -149.2634822,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1150911683",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.3168855,
+    "longitude": -151.258466,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1163992091",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.9225948,
+    "longitude": -135.118163,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1175213820",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.9002686,
+    "longitude": -146.6184998,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1180547089",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 55.4884885,
+    "longitude": -131.5987706,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1180992585",
+    "name": "Eagle Rock Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.547786,
+    "longitude": -151.109395,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1181001125",
+    "name": "Jean Lake Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.5012089,
+    "longitude": -150.1658073,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1212443488",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 66.440968,
+    "longitude": -150.6301728,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1230950317",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 57.6407701,
+    "longitude": -153.0036597,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1268409750",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.8140531,
+    "longitude": -147.8534312,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1268826082",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.499542,
+    "longitude": -165.4203927,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1268826085",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.5014256,
+    "longitude": -165.4286323,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1284385581",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 57.0448515,
+    "longitude": -135.3530119,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1284389339",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 57.0468844,
+    "longitude": -135.3649937,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1286193174",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 57.0549639,
+    "longitude": -135.3575181,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1287042905",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.1202426,
+    "longitude": -149.4326939,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1287042906",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.1201865,
+    "longitude": -149.4326933,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1287047737",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.1158833,
+    "longitude": -149.4394219,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1287047738",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.1159402,
+    "longitude": -149.4394218,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1287983477",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.0874996,
+    "longitude": -149.3542133,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1290595711",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 56.4553425,
+    "longitude": -132.3851704,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1301204212",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 53.6150648,
+    "longitude": -132.3140828,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1301357215",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.4553867,
+    "longitude": -135.8866899,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1301357216",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.4554267,
+    "longitude": -135.8865819,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1301357217",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.4554663,
+    "longitude": -135.8864761,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1301357218",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.4555682,
+    "longitude": -135.8861332,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1301357219",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.4556228,
+    "longitude": -135.8859635,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1301357220",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.4555041,
+    "longitude": -135.8863061,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1301361891",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.4564418,
+    "longitude": -135.8693738,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1301361892",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.4563623,
+    "longitude": -135.8692827,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1301361893",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.4562956,
+    "longitude": -135.8692065,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1301361894",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.4562557,
+    "longitude": -135.8693816,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1301361895",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.4561878,
+    "longitude": -135.8693035,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1301361896",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.4562245,
+    "longitude": -135.8691252,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1301361897",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.4561231,
+    "longitude": -135.8692257,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1301361898",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 58.4561763,
+    "longitude": -135.8690703,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1303991787",
+    "name": "Knudsen Cove Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 55.4714933,
+    "longitude": -131.7975915,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1323006199",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.8304922,
+    "longitude": -147.8486789,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1323049113",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.8394346,
+    "longitude": -147.8182598,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1323087278",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.3875211,
+    "longitude": -166.1854389,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1323290893",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.8401938,
+    "longitude": -147.8325315,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1323297766",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.8419784,
+    "longitude": -147.8119282,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1341117296",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.3317876,
+    "longitude": -130.2772473,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1341208505",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.3404285,
+    "longitude": -130.4346831,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1341477413",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.2353626,
+    "longitude": -130.2991607,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1341682037",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 53.4244617,
+    "longitude": -129.2472172,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1365657653",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.1341233,
+    "longitude": -165.7735536,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1365657654",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.1341486,
+    "longitude": -165.7734827,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1365657655",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.1352396,
+    "longitude": -165.7662055,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1365657672",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.1333537,
+    "longitude": -165.776186,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1365657673",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.1333457,
+    "longitude": -165.7759492,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1365662762",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.133449,
+    "longitude": -165.7764608,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1393419263",
+    "name": "Port Edward Boat Launch",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.217787,
+    "longitude": -130.2908969,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1394904860",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.3361726,
+    "longitude": -130.3080074,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1414002347",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.0227824,
+    "longitude": -129.8480307,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1414003283",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.0294693,
+    "longitude": -129.8442649,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1421834247",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.1341759,
+    "longitude": -133.80818,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1431074060",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.7880783,
+    "longitude": -130.5515282,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1445461415",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 60.8110948,
+    "longitude": -137.4837706,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1452929086",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 66.8972173,
+    "longitude": -162.602796,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1452929106",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 66.9023105,
+    "longitude": -162.5882531,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1452929114",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 66.900923,
+    "longitude": -162.5929486,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1452929116",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 66.8998006,
+    "longitude": -162.5967797,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1456453230",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 64.8381203,
+    "longitude": -147.8002365,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1457668875",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 61.625215,
+    "longitude": -149.4188629,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1471909141",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.2176836,
+    "longitude": -130.2909015,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1486442500",
+    "name": "Boat Ramp",
+    "formatted_address": ", Alaska, USA",
+    "latitude": 54.2347141,
+    "longitude": -130.3348879,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]

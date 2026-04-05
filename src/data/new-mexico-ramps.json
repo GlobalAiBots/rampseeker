@@ -1,0 +1,842 @@
+[
+  {
+    "place_id": "osm_142477874",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 32.5615038,
+    "longitude": -104.389161,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_142795595",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 32.5575263,
+    "longitude": -104.3920091,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_143565622",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 36.716186,
+    "longitude": -106.8816179,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_560538662",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 32.8990515,
+    "longitude": -107.2928209,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_589610694",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 36.2554887,
+    "longitude": -106.4346729,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1505285403",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.6356479,
+    "longitude": -106.3226351,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1505286464",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.6443365,
+    "longitude": -106.313516,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1824718234",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 36.8179008,
+    "longitude": -107.6135267,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2276387287",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.9790173,
+    "longitude": -105.916383,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3335073193",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 32.4252425,
+    "longitude": -104.2207309,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_3351216791",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 32.4299794,
+    "longitude": -104.2191881,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4605868131",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 36.5406793,
+    "longitude": -105.2668776,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_4605911023",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 36.5362873,
+    "longitude": -105.2634381,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5243562757",
+    "name": "Cutter Reservoir Boat Launch",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 36.6945364,
+    "longitude": -107.6809569,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_5929789223",
+    "name": "Taos Junction Bridge Boat Launch",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 36.3356916,
+    "longitude": -105.733858,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_7931029555",
+    "name": "Lone Juniper Boat Takeout",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 36.2995305,
+    "longitude": -105.7724809,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10232186818",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 34.1388028,
+    "longitude": -108.4958809,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10232186830",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 34.1366298,
+    "longitude": -108.4911917,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10295300313",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.4232196,
+    "longitude": -108.498038,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10552704377",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.1101146,
+    "longitude": -107.2972645,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10552704378",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.1076824,
+    "longitude": -107.2971176,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10552704379",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.1165419,
+    "longitude": -107.2575649,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10848058318",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 36.6739952,
+    "longitude": -106.7147002,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10848058329",
+    "name": "Big Eddy Access",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 36.3115104,
+    "longitude": -106.5829724,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10874927593",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 34.6158188,
+    "longitude": -104.3885172,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_10874945440",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 34.615657,
+    "longitude": -104.3768171,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11769785326",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.0324099,
+    "longitude": -104.6847537,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_11892988174",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 36.3512413,
+    "longitude": -106.6724658,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12922620831",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 32.9102776,
+    "longitude": -107.3063197,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12945587868",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 34.7944639,
+    "longitude": -106.7249419,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_12947000699",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 34.8476675,
+    "longitude": -106.7156839,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_148537575",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.1612413,
+    "longitude": -107.2455212,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_169258456",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.1520126,
+    "longitude": -107.2041921,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_169258457",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.1470821,
+    "longitude": -107.2074565,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_169258460",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.1480467,
+    "longitude": -107.2164197,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_169259186",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.1526881,
+    "longitude": -107.1955785,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_169259187",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.1484471,
+    "longitude": -107.2204262,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_169259188",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.1527667,
+    "longitude": -107.1992172,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_169261235",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.146145,
+    "longitude": -107.2218539,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_169261908",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.1331298,
+    "longitude": -107.2268424,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_169262192",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.1296945,
+    "longitude": -107.2302813,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_169273653",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.1164824,
+    "longitude": -107.2575646,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_170164430",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.1071586,
+    "longitude": -107.2975488,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_170164950",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.112979,
+    "longitude": -107.2751468,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_243489705",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.0304792,
+    "longitude": -108.1575951,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_465654474",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 36.5406416,
+    "longitude": -105.2671445,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_827812941",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 36.2530507,
+    "longitude": -106.4297088,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_892530408",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.1101213,
+    "longitude": -107.2971698,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_892530409",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.1076929,
+    "longitude": -107.2970685,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1091346174",
+    "name": "Snow Lake Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.4234394,
+    "longitude": -108.4981467,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1111696354",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.2251551,
+    "longitude": -107.2041565,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1111696381",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.1813592,
+    "longitude": -107.2041241,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1202567330",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.6358896,
+    "longitude": -106.3228898,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1203336273",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.644336,
+    "longitude": -106.3132222,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_1451364898",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 33.2962313,
+    "longitude": -107.1775574,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "osm_2360735305",
+    "name": "Boat Ramp",
+    "formatted_address": ", New Mexico, USA",
+    "latitude": 35.365134,
+    "longitude": -103.4937757,
+    "city": "",
+    "county": "",
+    "rating": null,
+    "total_ratings": 0,
+    "types": [
+      "leisure_slipway"
+    ],
+    "business_status": "OPERATIONAL"
+  }
+]
