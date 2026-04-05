@@ -16,6 +16,9 @@ const states = [
   { name: "New York", href: "/new-york" },
   { name: "Illinois", href: "/illinois" },
   { name: "Ohio", href: "/ohio" },
+  { name: "Washington", href: "/washington" },
+  { name: "Alabama", href: "/alabama" },
+  { name: "Georgia", href: "/georgia" },
 ];
 
 export default function StatesDropdown() {

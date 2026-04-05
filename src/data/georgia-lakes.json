@@ -1,0 +1,643 @@
+[
+  {
+    "id": "lake-lanier",
+    "name": "Lake Lanier",
+    "lat": 34.25,
+    "lng": -83.95,
+    "radius": 0.15,
+    "acres": 38000,
+    "shorelineMiles": 692,
+    "maxDepth": 160,
+    "counties": [
+      "Forsyth",
+      "Hall",
+      "Dawson",
+      "Lumpkin",
+      "Gwinnett"
+    ],
+    "fishSpecies": [
+      "Spotted Bass",
+      "Largemouth Bass",
+      "Striped Bass",
+      "Crappie",
+      "Bream",
+      "Catfish"
+    ],
+    "nearestTowns": [
+      "Gainesville",
+      "Buford",
+      "Cumming",
+      "Flowery Branch"
+    ],
+    "description": "Lake Lanier is the most visited lake in America, drawing over 11 million visitors annually to its 38,000 acres of clear mountain-fed water northeast of Atlanta. With 692 miles of shoreline winding through the north Georgia foothills, the lake offers exceptional spotted bass fishing along its rocky points, clay banks, and submerged roadbeds. Striped bass provide trophy-class action in the lake's deep, open water, with fish commonly exceeding 20 pounds.\n\nThe lake's diverse structure — from steep bluffs and deep creek channels to shallow flats and floating docks — supports a versatile fishery that produces year-round. Crappie fishing is outstanding during spring in the upper creek arms, and bream provide family-friendly fishing along the shoreline throughout warmer months. Professional bass tournaments are held regularly, testament to the lake's quality fishery.\n\nGainesville anchors the lake's northern end, while Buford and Cumming serve the southern reaches closer to metro Atlanta. The lake features numerous full-service marinas, public boat ramps managed by the Army Corps of Engineers, and a network of parks and campgrounds. Its proximity to Atlanta — less than an hour from downtown — makes it the go-to fishing destination for millions of Georgia residents.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-oconee",
+    "name": "Lake Oconee",
+    "lat": 33.55,
+    "lng": -83.2,
+    "radius": 0.1,
+    "acres": 19050,
+    "shorelineMiles": 374,
+    "maxDepth": 116,
+    "counties": [
+      "Greene",
+      "Putnam",
+      "Morgan"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Striped Bass",
+      "Hybrid Striped Bass",
+      "Crappie",
+      "Catfish",
+      "Bream"
+    ],
+    "nearestTowns": [
+      "Greensboro",
+      "Eatonton",
+      "Madison"
+    ],
+    "description": "Lake Oconee is a 19,050-acre Georgia Power reservoir known for its excellent largemouth bass fishing and upscale lakeside communities. With 374 miles of shoreline and depths reaching 116 feet, the lake features a blend of rocky points, brush-lined coves, and deep creek channels that support a thriving multi-species fishery. The lake's clear to slightly stained water rewards anglers who adjust their techniques to match seasonal patterns.\n\nStriped bass and hybrid striped bass provide exciting open-water fishing, with schools of fish chasing threadfin shad across the lake's main body during fall. Crappie fishing is productive in the lake's many coves and around dock pilings, while catfish offer steady action in deeper areas. The lake has also gained recognition for producing quality largemouth bass in the five-pound-plus range.\n\nGreensboro, Eatonton, and Madison surround the lake with a mix of charming small-town amenities and resort-style accommodations. The Ritz-Carlton Reynolds resort complex on the lake's shores has brought national attention to the area. Multiple public boat ramps provide access for visiting anglers, and guide services are readily available.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-sinclair",
+    "name": "Lake Sinclair",
+    "lat": 33.15,
+    "lng": -83.25,
+    "radius": 0.08,
+    "acres": 15330,
+    "shorelineMiles": 417,
+    "maxDepth": 65,
+    "counties": [
+      "Baldwin",
+      "Putnam",
+      "Hancock"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "Catfish",
+      "Bream",
+      "Hybrid Striped Bass"
+    ],
+    "nearestTowns": [
+      "Milledgeville",
+      "Eatonton"
+    ],
+    "description": "Lake Sinclair is a 15,330-acre Georgia Power reservoir in central Georgia, offering 417 miles of shoreline with a well-deserved reputation for excellent crappie and bass fishing. The lake's relatively shallow average depth and extensive brush cover create ideal conditions for crappie, which draw large crowds of anglers during the spring spawning run. Largemouth bass fishing is consistently strong in the lake's vegetated coves and around wooden dock structures.\n\nThe lake's fertile waters support impressive populations of bream and catfish, making it an outstanding destination for family fishing trips. Hybrid striped bass add excitement during summer and fall when they school in the main channel. Sinclair's accessible layout and numerous fishing spots make it a productive lake for both novice and experienced anglers.\n\nMilledgeville, Georgia's antebellum capital, sits on the lake's western shore with marinas, bait shops, and restaurants. Eatonton provides access from the north and serves as a gateway for anglers fishing both Sinclair and nearby Lake Oconee. The lake's central Georgia location makes it within easy driving distance of Macon and Atlanta.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "clarks-hill-lake",
+    "name": "Clarks Hill Lake",
+    "lat": 33.7,
+    "lng": -82.2,
+    "radius": 0.15,
+    "acres": 71100,
+    "shorelineMiles": 1200,
+    "maxDepth": 130,
+    "counties": [
+      "Columbia",
+      "Lincoln",
+      "McDuffie"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Striped Bass",
+      "Hybrid Striped Bass",
+      "Crappie",
+      "Catfish",
+      "Bream"
+    ],
+    "nearestTowns": [
+      "Evans",
+      "Thomson",
+      "Lincolnton"
+    ],
+    "description": "Clarks Hill Lake, also known as J. Strom Thurmond Lake, is the largest Army Corps of Engineers lake east of the Mississippi River. This massive 71,100-acre reservoir on the Georgia-South Carolina border features 1,200 miles of shoreline and depths reaching 130 feet, making it one of the most significant fishing destinations in the Southeast. The lake's size and diverse structure provide habitat for an exceptional multi-species fishery.\n\nLargemouth bass fishing is outstanding, with the lake regularly producing fish over eight pounds from its rocky points, brush piles, and expansive grass beds. Striped bass and hybrid striped bass offer year-round action in the lake's deep, open water, with fall and winter being peak seasons. Crappie fishing in the upper creek arms is legendary during spring, and the lake's catfish population includes trophy-class blue and flathead catfish.\n\nEvans, part of the Augusta metro area, provides the most developed access on the Georgia side with marinas and full services. Thomson and Lincolnton offer quieter access points along the lake's western shore. Extensive Army Corps parklands ring the lake with public boat ramps, campgrounds, and picnic areas, ensuring ample access for all visitors.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-hartwell",
+    "name": "Lake Hartwell",
+    "lat": 34.4,
+    "lng": -82.8,
+    "radius": 0.15,
+    "acres": 56000,
+    "shorelineMiles": 962,
+    "maxDepth": 165,
+    "counties": [
+      "Hart",
+      "Franklin",
+      "Stephens",
+      "Elbert"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Spotted Bass",
+      "Striped Bass",
+      "Crappie",
+      "Catfish",
+      "Bream"
+    ],
+    "nearestTowns": [
+      "Hartwell",
+      "Lavonia",
+      "Royston"
+    ],
+    "description": "Lake Hartwell is a 56,000-acre Army Corps reservoir on the Georgia-South Carolina border, formed by the damming of the Savannah, Tugaloo, and Seneca Rivers. With 962 miles of shoreline and depths reaching 165 feet, the lake is one of the largest and most popular fishing destinations in the Southeast. The Georgia side features deep creek channels, rocky points, and red clay banks that support excellent spotted and largemouth bass fishing.\n\nStriped bass provide world-class fishing in the lake's deep, clear water, with fish regularly exceeding 30 pounds. Crappie fishing is outstanding in the upper reaches of the lake's many long creek arms, where standing timber and brush piles concentrate fish during spring. The lake's healthy baitfish population — primarily threadfin and gizzard shad — fuels consistent growth across all predator species.\n\nHartwell, the lake's namesake city, provides marinas, tackle shops, and guide services on the Georgia side. Lavonia and Royston offer additional access points and lodging. The lake's extensive Army Corps parklands include numerous free public boat ramps, making access easy and affordable for visiting anglers.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-allatoona",
+    "name": "Lake Allatoona",
+    "lat": 34.15,
+    "lng": -84.6,
+    "radius": 0.1,
+    "acres": 12010,
+    "shorelineMiles": 270,
+    "maxDepth": 140,
+    "counties": [
+      "Bartow",
+      "Cherokee",
+      "Cobb"
+    ],
+    "fishSpecies": [
+      "Spotted Bass",
+      "Largemouth Bass",
+      "Striped Bass",
+      "Crappie",
+      "Catfish",
+      "Hybrid Striped Bass"
+    ],
+    "nearestTowns": [
+      "Cartersville",
+      "Acworth",
+      "Canton"
+    ],
+    "description": "Lake Allatoona is a 12,010-acre Army Corps reservoir located just 30 miles northwest of Atlanta, making it one of the most accessible fishing lakes in the metro area. With 270 miles of shoreline and depths reaching 140 feet, the lake features steep rocky banks, red clay points, and deep creek channels that provide excellent spotted bass habitat. The lake consistently ranks among Georgia's top fisheries for both spotted and largemouth bass.\n\nStriped bass and hybrid striped bass offer exciting open-water action, especially during fall when they push baitfish to the surface in dramatic feeding frenzies. Crappie fishing is productive in the lake's creek arms during spring, and catfish provide steady year-round action near the dam and in deeper channels. The lake's clear water and diverse structure reward anglers who invest time learning its seasonal patterns.\n\nCartersville, Acworth, and Canton surround the lake with full services, marinas, and tackle shops. Red Top Mountain State Park on the lake's eastern shore offers camping, a lodge, and boat launches. The lake's close proximity to Atlanta's northern suburbs makes it the most popular weekday fishing destination for metro-area anglers.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "carters-lake",
+    "name": "Carters Lake",
+    "lat": 34.65,
+    "lng": -84.65,
+    "radius": 0.05,
+    "acres": 3200,
+    "shorelineMiles": 62,
+    "maxDepth": 450,
+    "counties": [
+      "Gilmer",
+      "Murray"
+    ],
+    "fishSpecies": [
+      "Spotted Bass",
+      "Largemouth Bass",
+      "Walleye",
+      "Crappie",
+      "Rainbow Trout",
+      "Brown Trout"
+    ],
+    "nearestTowns": [
+      "Ellijay",
+      "Chatsworth"
+    ],
+    "description": "Carters Lake is the deepest lake in Georgia, plunging to an extraordinary 450 feet near the dam. This 3,200-acre Army Corps reservoir in the north Georgia mountains features crystal-clear water, steep rocky shorelines, and a unique fishery that includes both warmwater and coldwater species. The lake's 62 miles of rugged, undeveloped shoreline create a wilderness fishing experience unlike any other in the state.\n\nSpotted bass thrive in the lake's rocky structure and clear water, offering quality catches for anglers who master finesse techniques. Walleye — a rarity in Georgia — are stocked and provide a unique angling opportunity, particularly during spring and fall. Rainbow and brown trout inhabit the lake's deepest, coldest waters and the tailrace below the dam, adding diversity unmatched by other Georgia lakes.\n\nEllijay and Chatsworth serve as gateway communities, offering lodging, dining, and basic tackle supplies. No private docks or residential development are permitted on the lake, preserving its natural beauty. The Army Corps operates boat ramps and a marina, but the lake's remote mountain setting means fewer crowds and a more peaceful fishing experience.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-burton",
+    "name": "Lake Burton",
+    "lat": 34.8,
+    "lng": -83.55,
+    "radius": 0.05,
+    "acres": 2775,
+    "shorelineMiles": 62,
+    "maxDepth": 130,
+    "counties": [
+      "Rabun"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Spotted Bass",
+      "Brown Trout",
+      "Rainbow Trout",
+      "Walleye",
+      "Bream"
+    ],
+    "nearestTowns": [
+      "Clayton",
+      "Clarkesville"
+    ],
+    "description": "Lake Burton is a scenic 2,775-acre mountain reservoir in Rabun County, nestled among the Blue Ridge Mountains of northeast Georgia. With 62 miles of forested shoreline and depths reaching 130 feet, the lake offers clear, cool water that supports an unusual mix of warmwater and coldwater fish species. Its mountain setting and pristine water quality make it one of the most beautiful fishing destinations in the state.\n\nLargemouth and spotted bass inhabit the lake's coves, docks, and rocky structure, providing consistent catches for experienced anglers. Brown and rainbow trout thrive in the lake's deeper, colder waters, offering a unique trout-lake fishing experience. Walleye are present and provide exciting spring fishing along rocky points and gravel banks. Bream fishing along the shoreline is excellent during summer.\n\nClayton is the nearest full-service town, offering lodging, restaurants, and outdoor outfitters. Clarkesville provides additional amenities to the south. Georgia Power manages the lake with public boat ramps and day-use areas. Lake Burton's mountain beauty and diverse fishery make it a premier destination for anglers exploring Georgia's highland lakes.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-rabun",
+    "name": "Lake Rabun",
+    "lat": 34.75,
+    "lng": -83.47,
+    "radius": 0.04,
+    "acres": 834,
+    "shorelineMiles": 25,
+    "maxDepth": 105,
+    "counties": [
+      "Rabun"
+    ],
+    "fishSpecies": [
+      "Spotted Bass",
+      "Largemouth Bass",
+      "Brown Trout",
+      "Bream",
+      "Catfish"
+    ],
+    "nearestTowns": [
+      "Lakemont",
+      "Tiger"
+    ],
+    "description": "Lake Rabun is a charming 834-acre mountain lake in Rabun County, one of a chain of six lakes along the Tallulah River in northeast Georgia. With 25 miles of shoreline and depths reaching 105 feet, this intimate reservoir offers quality fishing in a stunning mountain setting. The lake's clear, deep water and rocky shoreline create excellent habitat for spotted bass, which are the primary gamefish.\n\nBrown trout inhabit the lake's deeper, cooler zones and provide an exciting bonus for anglers fishing near the thermocline during summer. Largemouth bass hold in the shallower coves and around dock pilings, while bream and catfish provide reliable action along the shoreline. The lake's small size means less water to cover and more concentrated fish populations.\n\nLakemont and Tiger are the closest communities, offering a quiet mountain atmosphere with basic services. The lake has been a summer retreat destination since the early 1900s, with historic cottages lining much of its shoreline. Georgia Power provides boat ramp access, though boat size restrictions help maintain the lake's tranquil character.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-blue-ridge",
+    "name": "Lake Blue Ridge",
+    "lat": 34.87,
+    "lng": -84.27,
+    "radius": 0.05,
+    "acres": 3290,
+    "shorelineMiles": 65,
+    "maxDepth": 160,
+    "counties": [
+      "Fannin"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Largemouth Bass",
+      "Spotted Bass",
+      "Crappie",
+      "Rainbow Trout",
+      "Bream"
+    ],
+    "nearestTowns": [
+      "Blue Ridge",
+      "Morganton"
+    ],
+    "description": "Lake Blue Ridge is a 3,290-acre mountain lake in Fannin County, renowned as one of Georgia's premier walleye fisheries. With 65 miles of shoreline and depths reaching 160 feet, the lake sits at an elevation that keeps its water cool and clear — ideal conditions for walleye, which are stocked annually by the Georgia Department of Natural Resources. Spring and fall trolling along the lake's main channel produces walleye that regularly exceed five pounds.\n\nBeyond walleye, the lake supports healthy populations of largemouth and spotted bass in its rocky coves and along wooded shorelines. Rainbow trout are found in the deeper sections and near the dam. Crappie and bream provide excellent panfishing opportunities in the creek arms during warmer months. The lake's clear water and mountain scenery enhance every fishing trip.\n\nThe charming town of Blue Ridge has become one of north Georgia's most popular tourist destinations, offering craft breweries, locally owned restaurants, and a historic downtown. Morganton provides quieter access on the lake's eastern side. TVA manages the lake with public boat ramps and recreational areas, making it accessible for visiting anglers year-round.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "west-point-lake",
+    "name": "West Point Lake",
+    "lat": 33.05,
+    "lng": -85.1,
+    "radius": 0.1,
+    "acres": 25900,
+    "shorelineMiles": 525,
+    "maxDepth": 88,
+    "counties": [
+      "Troup",
+      "Harris"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Spotted Bass",
+      "Crappie",
+      "Hybrid Striped Bass",
+      "Catfish",
+      "Bream"
+    ],
+    "nearestTowns": [
+      "LaGrange",
+      "West Point"
+    ],
+    "description": "West Point Lake is a 25,900-acre Army Corps reservoir on the Georgia-Alabama border, formed by the damming of the Chattahoochee River. With 525 miles of shoreline and depths reaching 88 feet, the lake offers outstanding largemouth bass fishing that has hosted numerous Bassmaster and FLW professional tournaments. The lake's combination of standing timber, brush-filled creek arms, and rocky main-lake structure provides diverse bass habitat.\n\nCrappie fishing is exceptionally productive at West Point, with dense concentrations of fish around submerged brush piles and standing timber, especially during the spring spawn. Hybrid striped bass offer fast-paced action in the main channel and near the dam, while catfish and bream provide reliable catches for anglers of all skill levels. The lake's stained water conditions favor power-fishing techniques.\n\nLaGrange is the primary service city on the Georgia side, with marinas, tackle shops, and restaurants. West Point, at the dam's base, provides additional access. The Army Corps maintains numerous free public boat ramps and campgrounds around the lake, making it one of the most affordable fishing destinations in western Georgia.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-seminole-ga",
+    "name": "Lake Seminole",
+    "lat": 30.75,
+    "lng": -84.8,
+    "radius": 0.1,
+    "acres": 37500,
+    "shorelineMiles": 376,
+    "maxDepth": 33,
+    "counties": [
+      "Decatur",
+      "Seminole"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Hybrid Striped Bass",
+      "Crappie",
+      "Catfish",
+      "Bream",
+      "Chain Pickerel"
+    ],
+    "nearestTowns": [
+      "Bainbridge",
+      "Donalsonville"
+    ],
+    "description": "Lake Seminole is a 37,500-acre Army Corps reservoir at the confluence of the Flint and Chattahoochee Rivers in southwest Georgia, near the Florida border. With 376 miles of shoreline and a maximum depth of 33 feet, this shallow, fertile lake is covered with submerged vegetation, standing timber, and lily pads — creating a flats-fishing paradise for largemouth bass. The lake's abundance of hydrilla, eelgrass, and other aquatic plants supports one of the most productive bass fisheries in the Southeast.\n\nThe lake's unique character extends to its diverse fish populations. Chain pickerel, unusual for Georgia, are abundant in the lake's weedy backwaters. Hybrid striped bass provide hard-fighting action in open water and near the dam. Crappie, catfish, and bream are plentiful throughout the lake, and the cypress-lined shoreline gives Seminole a distinctly Southern atmosphere.\n\nBainbridge serves as the primary gateway city with marinas, guide services, lodging, and excellent boat ramp access. Donalsonville provides access from the east. The lake's warm climate and shallow, vegetated water make it a year-round fishing destination, though spring and fall produce the best bass action. Seminole State Park on the lake's eastern shore offers camping and additional boat launches.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-blackshear",
+    "name": "Lake Blackshear",
+    "lat": 31.65,
+    "lng": -83.85,
+    "radius": 0.06,
+    "acres": 8700,
+    "shorelineMiles": 66,
+    "maxDepth": 30,
+    "counties": [
+      "Crisp",
+      "Worth",
+      "Lee",
+      "Sumter"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "Catfish",
+      "Bream",
+      "Chain Pickerel"
+    ],
+    "nearestTowns": [
+      "Cordele",
+      "Warwick"
+    ],
+    "description": "Lake Blackshear is an 8,700-acre reservoir on the Flint River in south-central Georgia, offering excellent fishing in a peaceful rural setting. With 66 miles of shoreline across four counties, the lake features shallow, vegetation-rich water that creates outstanding habitat for largemouth bass and panfish. The lake's cypress trees, lily pads, and submerged vegetation give it a classic Southern swamp-lake appearance.\n\nCrappie fishing is a major draw, with reliable catches around brush piles, bridge pilings, and standing timber throughout the spring season. Largemouth bass thrive in the lake's abundant cover, with fish holding along grass lines, cypress knees, and in sheltered coves. Chain pickerel add an unexpected element to the fishery, and catfish and bream provide consistent action for family-oriented anglers.\n\nCordele, self-proclaimed \"Watermelon Capital of the World,\" is the primary service town with marinas, bait shops, and restaurants. Georgia Veterans State Park on the lake's western shore offers camping, cabins, and boat ramps. The lake's central south Georgia location makes it a convenient stop for anglers traveling along I-75.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "chattahoochee-river",
+    "name": "Chattahoochee River",
+    "lat": 33.8,
+    "lng": -84.4,
+    "radius": 0.3,
+    "acres": 0,
+    "shorelineMiles": 430,
+    "maxDepth": 40,
+    "counties": [
+      "Fulton",
+      "Cobb",
+      "Gwinnett",
+      "DeKalb",
+      "Douglas",
+      "Carroll",
+      "Heard",
+      "Troup",
+      "Harris",
+      "Muscogee",
+      "Chattahoochee",
+      "Stewart",
+      "Quitman",
+      "Clay",
+      "Early",
+      "Seminole",
+      "Decatur"
+    ],
+    "fishSpecies": [
+      "Trout (upper)",
+      "Largemouth Bass",
+      "Spotted Bass",
+      "Shoal Bass",
+      "Catfish",
+      "Bream",
+      "Striped Bass"
+    ],
+    "nearestTowns": [
+      "Atlanta",
+      "Roswell",
+      "Columbus",
+      "West Point"
+    ],
+    "description": "The Chattahoochee River is Atlanta's river, flowing from the Blue Ridge Mountains through the heart of Georgia and along the Alabama border for over 430 miles. The river's most remarkable feature is its tailwater trout fishery below Buford Dam, where cold water releases from Lake Lanier support a thriving population of rainbow and brown trout within the Atlanta metro area — one of the southernmost urban trout fisheries in America.\n\nBelow the trout waters, the Chattahoochee transforms into an outstanding warmwater fishery. Spotted bass and the rare, endemic shoal bass inhabit the rocky shoals and runs between Columbus and West Point. Largemouth bass, catfish, and bream are abundant throughout the river's middle and lower sections. Striped bass make seasonal runs that provide exciting fishing near the river's confluence with the Flint River.\n\nThe Chattahoochee River National Recreation Area protects multiple access points within the Atlanta metro, making it one of the most accessible fishing rivers in the Southeast. Roswell, on the river's northern reaches, and Columbus, along its western Georgia stretch, serve as major fishing hubs. Guide services, outfitters, and wade-fishing access are available throughout the river's length.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "savannah-river",
+    "name": "Savannah River",
+    "lat": 33.5,
+    "lng": -82.0,
+    "radius": 0.3,
+    "acres": 0,
+    "shorelineMiles": 300,
+    "maxDepth": 45,
+    "counties": [
+      "Elbert",
+      "Hart",
+      "Lincoln",
+      "Columbia",
+      "Richmond",
+      "Burke",
+      "Screven",
+      "Effingham",
+      "Chatham"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Striped Bass",
+      "Hybrid Striped Bass",
+      "Channel Catfish",
+      "Bream",
+      "American Shad"
+    ],
+    "nearestTowns": [
+      "Augusta",
+      "Savannah"
+    ],
+    "description": "The Savannah River forms the entire eastern border of Georgia, flowing approximately 300 miles from the mountains to the Atlantic Ocean. This major river system passes through nine Georgia counties and supports a diverse fishery that changes character dramatically from its upper reaches near Augusta to its tidal lower sections approaching Savannah. The river is the lifeblood of eastern Georgia's fishing heritage.\n\nAround Augusta, the river below Thurmond Dam offers excellent striped bass and hybrid striped bass fishing in the tailrace, along with quality largemouth bass action in the river's backwaters and oxbow lakes. American shad make impressive spawning runs in spring, providing fast-paced light-tackle action. Downstream, channel catfish and bream dominate the fishery in the river's slower, wider sections. The tidal reaches near Savannah blend into the coastal fishery.\n\nAugusta and Savannah bookend the river as the primary fishing hubs, with both cities offering boat ramps, guide services, and full amenities. The river's role as a state boundary means anglers with either a Georgia or South Carolina license can fish its waters, making it an accessible and popular destination for anglers from both states.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "altamaha-river",
+    "name": "Altamaha River",
+    "lat": 31.5,
+    "lng": -81.8,
+    "radius": 0.2,
+    "acres": 0,
+    "shorelineMiles": 200,
+    "maxDepth": 25,
+    "counties": [
+      "Appling",
+      "Toombs",
+      "Tattnall",
+      "Long",
+      "Wayne",
+      "McIntosh",
+      "Glynn"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Redbreast Sunfish",
+      "Channel Catfish",
+      "Flathead Catfish",
+      "Striped Bass"
+    ],
+    "nearestTowns": [
+      "Jesup",
+      "Baxley",
+      "Hazlehurst"
+    ],
+    "description": "The Altamaha River is the largest free-flowing river on the East Coast of the United States, carrying more water than any river between the James River in Virginia and the St. Johns River in Florida. Formed by the confluence of the Ocmulgee and Oconee Rivers, the Altamaha flows undammed for approximately 200 miles through seven counties to the Georgia coast. Its wild, undeveloped character supports one of the most pristine river fisheries in the Southeast.\n\nRedbreast sunfish are the signature species, with the Altamaha producing some of the largest redbreast caught anywhere. Largemouth bass inhabit the river's countless oxbow lakes, backwater sloughs, and cypress-lined banks. Channel and flathead catfish reach impressive sizes in the river's deep holes and bends, while seasonal striped bass runs provide trophy fishing opportunities. The river's tannin-stained water and sandy banks create a quintessentially Southern fishing experience.\n\nJesup, Baxley, and Hazlehurst serve as access points along the river's course, with public boat ramps and basic services. The river's wild nature means long stretches of undeveloped banks and limited access points, rewarding anglers willing to explore with uncrowded fishing and a true wilderness atmosphere. The Altamaha has been recognized by The Nature Conservancy as one of the 75 \"Last Great Places\" on Earth.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "savannah-coast",
+    "name": "Savannah Coast",
+    "lat": 32.0,
+    "lng": -80.9,
+    "radius": 0.15,
+    "acres": 0,
+    "shorelineMiles": 100,
+    "maxDepth": 60,
+    "counties": [
+      "Chatham",
+      "Bryan",
+      "Liberty"
+    ],
+    "fishSpecies": [
+      "Redfish",
+      "Speckled Trout",
+      "Flounder",
+      "Sheepshead",
+      "Tarpon",
+      "Cobia",
+      "King Mackerel"
+    ],
+    "nearestTowns": [
+      "Savannah",
+      "Tybee Island",
+      "Richmond Hill"
+    ],
+    "description": "The Savannah Coast encompasses approximately 100 miles of saltwater shoreline across Chatham, Bryan, and Liberty Counties, featuring an intricate network of tidal creeks, salt marshes, and barrier islands that create one of the most productive inshore fisheries on the Atlantic Coast. The region's vast spartina grass marshes serve as nursery habitat for countless marine species, supporting a thriving ecosystem that rewards anglers with exceptional catches year-round.\n\nRedfish and speckled trout are the primary targets in the marshes and tidal creeks, with fish found around oyster bars, dock pilings, and grass-lined shorelines. Flounder ambush prey along sandy bottoms in the creeks and passes, while sheepshead stack up around structure throughout the cooler months. Offshore, tarpon, cobia, and king mackerel provide exciting seasonal action along the reefs and shipping channel.\n\nSavannah serves as the region's hub with marinas, charter services, and a vibrant waterfront dining scene. Tybee Island offers beach-based fishing access and pier fishing, while Richmond Hill provides quieter access to the southern marshes. The area's rich history, acclaimed cuisine, and Southern charm complement world-class fishing to create a complete coastal destination.",
+    "type": "saltwater",
+    "rampCount": 0
+  },
+  {
+    "id": "golden-isles",
+    "name": "Golden Isles",
+    "lat": 31.2,
+    "lng": -81.4,
+    "radius": 0.15,
+    "acres": 0,
+    "shorelineMiles": 80,
+    "maxDepth": 50,
+    "counties": [
+      "Glynn",
+      "Camden"
+    ],
+    "fishSpecies": [
+      "Redfish",
+      "Speckled Trout",
+      "Flounder",
+      "Sheepshead",
+      "Tarpon",
+      "Black Drum",
+      "Cobia"
+    ],
+    "nearestTowns": [
+      "Brunswick",
+      "St. Simons Island",
+      "Jekyll Island",
+      "Sea Island",
+      "St. Marys"
+    ],
+    "description": "The Golden Isles is Georgia's premier coastal fishing destination, encompassing the barrier islands of St. Simons, Jekyll, Sea Island, and Little St. Simons along with the mainland port city of Brunswick. The region's 80 miles of shoreline, vast salt marshes, and tidal creek systems create an exceptionally rich inshore fishery. The convergence of multiple river systems with the Atlantic Ocean produces nutrient-laden waters that support abundant gamefish populations.\n\nRedfish are the star attraction, with trophy-class fish caught year-round in the marshes and along oyster-studded shorelines. Speckled trout, flounder, and sheepshead provide consistent action in the tidal creeks and around structure. Tarpon make summer appearances in the sounds, offering heart-pounding topwater action. Black drum and cobia add seasonal variety to an already diverse fishery.\n\nBrunswick anchors the region with marinas, charter services, and boat ramps on the mainland. St. Simons Island and Jekyll Island offer resort-style amenities alongside fishing access, while St. Marys near the Florida border provides access to Cumberland Island National Seashore and its pristine surrounding waters. The Golden Isles' combination of world-class fishing, natural beauty, and Southern hospitality makes it an unforgettable destination.",
+    "type": "saltwater",
+    "rampCount": 0
+  },
+  {
+    "id": "walter-f-george-lake-ga",
+    "name": "Walter F. George Lake (Georgia Side)",
+    "lat": 31.6,
+    "lng": -85.05,
+    "radius": 0.1,
+    "acres": 45000,
+    "shorelineMiles": 640,
+    "maxDepth": 90,
+    "counties": [
+      "Quitman",
+      "Clay",
+      "Randolph",
+      "Stewart"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Hybrid Striped Bass",
+      "Crappie",
+      "Catfish",
+      "Bream"
+    ],
+    "nearestTowns": [
+      "Fort Gaines",
+      "Georgetown"
+    ],
+    "description": "Walter F. George Lake, also known as Lake Eufaula, is a 45,000-acre Army Corps reservoir on the Chattahoochee River straddling the Georgia-Alabama border. The Georgia side spans four counties — Quitman, Clay, Randolph, and Stewart — with 640 miles of combined shoreline and depths reaching 90 feet. The lake's fertile, vegetation-rich waters produce outstanding largemouth bass fishing that has earned it the nickname \"Bass Capital of the World.\"\n\nHybrid striped bass are a major attraction, with fish regularly exceeding ten pounds in the lake's open water and around the dam area. Crappie fishing is excellent in the numerous creek arms and around submerged timber on the Georgia side, which tends to see less fishing pressure than the more developed Alabama shoreline. Catfish and bream round out a productive multi-species fishery.\n\nFort Gaines, perched on a bluff overlooking the lake, serves as the primary Georgia-side access point with a marina, boat ramps, and basic services. Georgetown provides additional access to the lake's northern reaches. The Georgia side of the lake offers a quieter, more rural fishing experience with less development and more natural shoreline than the Alabama side.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "flint-river",
+    "name": "Flint River",
+    "lat": 32.0,
+    "lng": -84.2,
+    "radius": 0.2,
+    "acres": 0,
+    "shorelineMiles": 344,
+    "maxDepth": 25,
+    "counties": [
+      "Fayette",
+      "Pike",
+      "Upson",
+      "Crawford",
+      "Taylor",
+      "Macon",
+      "Dooly",
+      "Crisp",
+      "Sumter",
+      "Lee",
+      "Dougherty",
+      "Mitchell",
+      "Baker",
+      "Decatur"
+    ],
+    "fishSpecies": [
+      "Shoal Bass",
+      "Largemouth Bass",
+      "Redbreast Sunfish",
+      "Channel Catfish",
+      "Flathead Catfish"
+    ],
+    "nearestTowns": [
+      "Albany",
+      "Americus",
+      "Thomaston"
+    ],
+    "description": "The Flint River is one of Georgia's most ecologically significant waterways and the home of the rare shoal bass, a species found only in the Apalachicola River basin. Flowing approximately 344 miles through 14 counties from the piedmont south of Atlanta to its confluence with the Chattahoochee at Lake Seminole, the Flint is one of the longest free-flowing rivers in the eastern United States. Its limestone shoals, rocky rapids, and deep pools create the specific habitat that shoal bass require to thrive.\n\nShoal bass fishing draws anglers from across the country to the Flint's middle section, where these hard-fighting fish hold in swift current around exposed rock formations. Largemouth bass are abundant in the river's slower stretches and backwaters, while redbreast sunfish provide outstanding light-tackle action throughout. Channel and flathead catfish reach impressive sizes in the deeper pools and bends, especially in the river's lower reaches near Albany.\n\nAlbany is the largest city along the river, offering boat ramps, outfitters, and guide services specializing in shoal bass trips. Americus and Thomaston provide access points along the upper and middle river. The Flint's wild character, diverse fishery, and the chance to catch the globally rare shoal bass make it a bucket-list destination for serious freshwater anglers.",
+    "type": "freshwater",
+    "rampCount": 0
+  }
+]

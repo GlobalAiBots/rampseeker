@@ -11,6 +11,9 @@ import northCarolinaRampsRaw from "./north-carolina-ramps.json";
 import newYorkRampsRaw from "./new-york-ramps.json";
 import illinoisRampsRaw from "./illinois-ramps.json";
 import ohioRampsRaw from "./ohio-ramps.json";
+import washingtonRampsRaw from "./washington-ramps.json";
+import alabamaRampsRaw from "./alabama-ramps.json";
+import georgiaRampsRaw from "./georgia-ramps.json";
 
 export interface UnifiedRamp {
   id: string;
@@ -393,6 +396,69 @@ for (const raw of ohioRampsRaw) {
     description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }),
     latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "",
     city: raw.city || "", county: raw.county || "", state: "OH",
+    rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false,
+    amenities: (raw as Record<string, unknown>).amenities as string[] | undefined,
+    fee: (raw as Record<string, unknown>).fee as string | undefined,
+    rampCount: (raw as Record<string, unknown>).rampCount as number | undefined,
+  });
+}
+
+// 14. Add Washington ramps
+for (const raw of washingtonRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+
+  let slug = `wa-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({
+    id: slug, name: cleanName,
+    description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }),
+    latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "",
+    city: raw.city || "", county: raw.county || "", state: "WA",
+    rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false,
+    amenities: (raw as Record<string, unknown>).amenities as string[] | undefined,
+    fee: (raw as Record<string, unknown>).fee as string | undefined,
+    rampCount: (raw as Record<string, unknown>).rampCount as number | undefined,
+  });
+}
+
+// 15. Add Alabama ramps
+for (const raw of alabamaRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+
+  let slug = `al-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({
+    id: slug, name: cleanName,
+    description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }),
+    latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "",
+    city: raw.city || "", county: raw.county || "", state: "AL",
+    rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false,
+    amenities: (raw as Record<string, unknown>).amenities as string[] | undefined,
+    fee: (raw as Record<string, unknown>).fee as string | undefined,
+    rampCount: (raw as Record<string, unknown>).rampCount as number | undefined,
+  });
+}
+
+// 16. Add Georgia ramps
+for (const raw of georgiaRampsRaw) {
+  const cleanName = (raw.name || "Boat Ramp").replace(/[^\w\s'-]/g, "").trim();
+
+  let slug = `ga-${slugify(cleanName) || "boat-ramp"}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(0, 8).toLowerCase()}`;
+  if (seenSlugs.has(slug)) slug = `${slug}-${raw.place_id.substring(8, 16).toLowerCase()}`;
+  if (seenSlugs.has(slug)) continue;
+  seenSlugs.add(slug);
+  allRamps.push({
+    id: slug, name: cleanName,
+    description: generateDescription({ ...raw, name: cleanName, city: raw.city || "", rating: raw.rating, total_ratings: raw.total_ratings, latitude: raw.latitude, longitude: raw.longitude }),
+    latitude: raw.latitude, longitude: raw.longitude, address: raw.formatted_address || "",
+    city: raw.city || "", county: raw.county || "", state: "GA",
     rating: raw.rating || 0, totalRatings: raw.total_ratings || 0, featured: false,
     amenities: (raw as Record<string, unknown>).amenities as string[] | undefined,
     fee: (raw as Record<string, unknown>).fee as string | undefined,

@@ -1,0 +1,674 @@
+[
+  {
+    "id": "lake-guntersville",
+    "name": "Lake Guntersville",
+    "lat": 34.4,
+    "lng": -86.3,
+    "radius": 0.15,
+    "acres": 69100,
+    "shorelineMiles": 949,
+    "maxDepth": 60,
+    "counties": [
+      "Marshall",
+      "Jackson",
+      "DeKalb"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Smallmouth Bass",
+      "Crappie",
+      "Catfish",
+      "Striped Bass",
+      "Sauger",
+      "Bream"
+    ],
+    "nearestTowns": [
+      "Guntersville",
+      "Scottsboro",
+      "Albertville"
+    ],
+    "description": "Lake Guntersville is widely regarded as one of the best bass fishing lakes in America. This massive 69,100-acre TVA reservoir on the Tennessee River features nearly 950 miles of shoreline with extensive grass beds, flooded timber, and rocky points that create world-class habitat for largemouth bass. The lake regularly hosts major professional bass tournaments, including Bassmaster Elite events.\n\nBeyond bass, Guntersville offers outstanding crappie fishing in its many creek channels and brush piles, while catfish and sauger provide excellent action during cooler months. The lake's fertile waters support a diverse fishery that keeps anglers coming back year-round.\n\nThe town of Guntersville sits on a peninsula surrounded by the lake, offering full-service marinas, tackle shops, and guide services. Scottsboro and Albertville provide additional lodging and amenities, making this a premier destination for anglers visiting north Alabama.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "wheeler-lake",
+    "name": "Wheeler Lake",
+    "lat": 34.6,
+    "lng": -87.1,
+    "radius": 0.15,
+    "acres": 67100,
+    "shorelineMiles": 640,
+    "maxDepth": 60,
+    "counties": [
+      "Morgan",
+      "Limestone",
+      "Lawrence",
+      "Madison"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Smallmouth Bass",
+      "Crappie",
+      "Catfish",
+      "Striped Bass",
+      "Sauger"
+    ],
+    "nearestTowns": [
+      "Decatur",
+      "Athens",
+      "Florence"
+    ],
+    "description": "Wheeler Lake is a 67,100-acre TVA reservoir stretching across northern Alabama's Tennessee River Valley. The lake offers 640 miles of shoreline with a mix of shallow flats, deep river channels, and extensive aquatic vegetation that supports exceptional bass and crappie fishing. Its fertile waters consistently produce quality largemouth bass, and the rocky bluffs near the dam provide prime smallmouth bass habitat.\n\nThe lake's diverse structure — from standing timber and creek channels to grass beds and riprap — makes Wheeler a versatile fishery throughout the seasons. Striped bass and sauger are popular targets during fall and winter, while crappie fishing peaks in spring around submerged brush piles and bridge pilings.\n\nDecatur, located along the lake's southern shore, serves as the primary hub for anglers with marinas, bait shops, and restaurants. Athens and the Huntsville metro area are nearby, providing ample lodging options for visiting fishermen.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "wilson-lake",
+    "name": "Wilson Lake",
+    "lat": 34.75,
+    "lng": -87.55,
+    "radius": 0.08,
+    "acres": 15930,
+    "shorelineMiles": 172,
+    "maxDepth": 55,
+    "counties": [
+      "Lauderdale",
+      "Colbert",
+      "Lawrence"
+    ],
+    "fishSpecies": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Crappie",
+      "Catfish",
+      "Striped Bass",
+      "Sauger"
+    ],
+    "nearestTowns": [
+      "Florence",
+      "Muscle Shoals",
+      "Sheffield"
+    ],
+    "description": "Wilson Lake is a premier smallmouth bass destination in northwest Alabama, formed by Wilson Dam on the Tennessee River. At 15,930 acres with 172 miles of shoreline, this TVA reservoir is known for its deep, clear water and rocky structure that creates ideal habitat for trophy-sized smallmouth bass. The dam tailrace area is especially productive for both smallmouth and striped bass.\n\nThe lake's rocky banks, gravel points, and ledges support an outstanding fishery that draws anglers from across the Southeast. Largemouth bass thrive in the lake's shallower bays and grass beds, while sauger and catfish offer consistent action in the river channel, particularly during winter months.\n\nFlorence, Muscle Shoals, and Sheffield — collectively known as the Shoals area — provide full services for visiting anglers. The region combines excellent fishing access with rich music heritage and a growing culinary scene.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "pickwick-lake",
+    "name": "Pickwick Lake",
+    "lat": 34.85,
+    "lng": -87.8,
+    "radius": 0.1,
+    "acres": 43100,
+    "shorelineMiles": 496,
+    "maxDepth": 57,
+    "counties": [
+      "Colbert",
+      "Lauderdale"
+    ],
+    "fishSpecies": [
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Crappie",
+      "Catfish",
+      "Striped Bass",
+      "Sauger"
+    ],
+    "nearestTowns": [
+      "Florence",
+      "Muscle Shoals",
+      "Iuka"
+    ],
+    "description": "Pickwick Lake is a 43,100-acre TVA reservoir shared by Alabama, Mississippi, and Tennessee, renowned for its crystal-clear water and exceptional smallmouth bass fishing. The lake's rocky bluffs, gravel bars, and deep ledges create prime conditions for some of the biggest smallmouth bass caught anywhere in the Southeast. The dam tailrace is a legendary spot for both smallmouth and striped bass action.\n\nThe Alabama portion of Pickwick features 496 miles of shoreline with diverse structure including rocky points, creek mouths, and sandy flats. Largemouth bass, crappie, and catfish round out a fishery that offers something for every angler. Winter sauger fishing near the dam is a local favorite.\n\nFlorence and Muscle Shoals on the Alabama side provide marinas, boat ramps, and full amenities. Iuka, Mississippi, offers additional access points on the western shore. The lake's clear water and scenic bluffs make it popular for both fishing and recreational boating.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lewis-smith-lake",
+    "name": "Lewis Smith Lake",
+    "lat": 34.1,
+    "lng": -87.1,
+    "radius": 0.1,
+    "acres": 21200,
+    "shorelineMiles": 500,
+    "maxDepth": 264,
+    "counties": [
+      "Cullman",
+      "Walker",
+      "Winston"
+    ],
+    "fishSpecies": [
+      "Spotted Bass",
+      "Largemouth Bass",
+      "Striped Bass",
+      "Crappie",
+      "Bream",
+      "Catfish"
+    ],
+    "nearestTowns": [
+      "Jasper",
+      "Cullman",
+      "Double Springs"
+    ],
+    "description": "Lewis Smith Lake is the deepest lake in Alabama, plunging to 264 feet near the dam. This 21,200-acre impoundment features crystal-clear water with visibility often exceeding 15 feet, making it a standout among Alabama's reservoirs. The lake's 500 miles of shoreline wind through heavily forested hills and steep bluffs, creating a scenic mountain-lake atmosphere in north-central Alabama.\n\nSmith Lake is famous for its spotted bass fishery, consistently producing trophy-sized spots that rank among the best in the nation. Striped bass thrive in the lake's deep, well-oxygenated water, and crappie fishing is excellent in the upper creek arms. The clear water demands finesse techniques, rewarding skilled anglers with quality catches.\n\nJasper, Cullman, and Double Springs serve as gateway communities with marinas, campgrounds, and lake access. The lake's deep, clear water and lack of commercial development make it a favorite for anglers who appreciate unspoiled natural beauty alongside outstanding fishing.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-martin",
+    "name": "Lake Martin",
+    "lat": 32.7,
+    "lng": -85.95,
+    "radius": 0.12,
+    "acres": 39000,
+    "shorelineMiles": 750,
+    "maxDepth": 155,
+    "counties": [
+      "Tallapoosa",
+      "Elmore",
+      "Coosa"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Spotted Bass",
+      "Striped Bass",
+      "Crappie",
+      "Bream",
+      "Catfish"
+    ],
+    "nearestTowns": [
+      "Alexander City",
+      "Dadeville",
+      "Eclectic"
+    ],
+    "description": "Lake Martin is a stunning 39,000-acre reservoir in east-central Alabama, featuring 750 miles of heavily wooded shoreline and remarkably clear water. Built in 1926 by Alabama Power, the lake was once the largest man-made body of water in the world. Its deep, clean water and scenic beauty have made it one of Alabama's most popular destinations for both fishing and recreation.\n\nThe lake supports an excellent multi-species fishery with strong populations of largemouth and spotted bass. Striped bass provide exciting open-water action, especially during summer when they school over deep humps and points. Spring crappie fishing in the lake's many creek channels and around submerged timber is consistently productive.\n\nAlexander City and Dadeville anchor the lake's commercial areas with full-service marinas, restaurants, and lodging. The lake's proximity to Auburn and Montgomery makes it a popular weekend destination. Wind Creek State Park, one of Alabama's largest state parks, offers excellent camping and boat launch facilities.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "weiss-lake",
+    "name": "Weiss Lake",
+    "lat": 34.15,
+    "lng": -85.8,
+    "radius": 0.1,
+    "acres": 30200,
+    "shorelineMiles": 447,
+    "maxDepth": 38,
+    "counties": [
+      "Cherokee"
+    ],
+    "fishSpecies": [
+      "Crappie",
+      "Largemouth Bass",
+      "Spotted Bass",
+      "Catfish",
+      "Striped Bass",
+      "Bream"
+    ],
+    "nearestTowns": [
+      "Centre",
+      "Leesburg",
+      "Cedar Bluff"
+    ],
+    "description": "Weiss Lake has earned the title \"Crappie Capital of the World\" for its legendary spring crappie runs that draw anglers from across the nation. This 30,200-acre reservoir on the Coosa River in northeast Alabama features 447 miles of shoreline with extensive shallow flats, standing timber, and creek channels that create ideal crappie habitat. Spring catches of 50 or more crappie per day are not uncommon for experienced anglers.\n\nBeyond its famous crappie fishing, Weiss Lake offers solid largemouth and spotted bass action in its many coves and creek arms. The lake's relatively shallow depth of 38 feet keeps fish accessible throughout the year, and catfish provide excellent bottom-fishing opportunities in the river channel. Striped bass are also present, adding variety to the fishery.\n\nCentre, the Cherokee County seat, sits on the lake's eastern shore with marinas, bait shops, and guide services catering to visiting anglers. Leesburg and Cedar Bluff offer additional ramp access and lodging. The lake's reputation as a crappie paradise makes it a must-visit destination for panfish enthusiasts.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lay-lake",
+    "name": "Lay Lake",
+    "lat": 33.3,
+    "lng": -86.5,
+    "radius": 0.08,
+    "acres": 12000,
+    "shorelineMiles": 290,
+    "maxDepth": 58,
+    "counties": [
+      "Shelby",
+      "Chilton",
+      "Coosa"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Spotted Bass",
+      "Crappie",
+      "Striped Bass",
+      "Catfish",
+      "Bream"
+    ],
+    "nearestTowns": [
+      "Columbiana",
+      "Clanton"
+    ],
+    "description": "Lay Lake is a 12,000-acre Coosa River reservoir in central Alabama that offers outstanding bass fishing within easy reach of Birmingham. With 290 miles of shoreline featuring a mix of rocky bluffs, grass beds, and timbered coves, the lake supports thriving populations of both largemouth and spotted bass. Its consistent water levels and diverse structure make it a productive fishery year-round.\n\nThe lake is part of Alabama Power's Coosa River chain and benefits from excellent water quality and fertile conditions. Crappie fishing is strong in spring around brush piles and bridge pilings, while striped bass provide exciting action in the main river channel. Catfish and bream round out the multi-species opportunities.\n\nColumbiana and Clanton serve as the primary towns for lake visitors, with boat ramps, marinas, and basic services. The lake's location between Birmingham and Montgomery makes it a convenient day-trip destination for anglers from either metro area.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "logan-martin-lake",
+    "name": "Logan Martin Lake",
+    "lat": 33.55,
+    "lng": -86.2,
+    "radius": 0.08,
+    "acres": 15263,
+    "shorelineMiles": 275,
+    "maxDepth": 60,
+    "counties": [
+      "St. Clair",
+      "Talladega",
+      "Calhoun"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Spotted Bass",
+      "Crappie",
+      "Striped Bass",
+      "Catfish",
+      "Bream"
+    ],
+    "nearestTowns": [
+      "Pell City",
+      "Lincoln"
+    ],
+    "description": "Logan Martin Lake is a 15,263-acre Coosa River reservoir located just east of Birmingham, making it one of the most accessible quality fishing lakes in central Alabama. The lake features 275 miles of shoreline with a healthy mix of shallow vegetated flats, rocky points, and deep river channels. Largemouth bass fishing is consistently strong, with spotted bass adding variety on rocky structure.\n\nThe lake's well-managed fishery produces quality crappie in its numerous creek arms and around man-made brush attractors. Striped bass provide thrilling open-water action, particularly in spring and fall when they chase shad in the main channel. Catfish and bream offer family-friendly fishing opportunities in the coves and along the shoreline.\n\nPell City, situated on the lake's northern shore along Interstate 20, is the primary service hub with marinas, restaurants, and tackle shops. Lincoln provides additional access on the eastern side. The lake's proximity to Birmingham — just 30 minutes from downtown — makes it a top choice for weekday and weekend fishing trips.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "neely-henry-lake",
+    "name": "Neely Henry Lake",
+    "lat": 33.8,
+    "lng": -86.1,
+    "radius": 0.06,
+    "acres": 11200,
+    "shorelineMiles": 339,
+    "maxDepth": 45,
+    "counties": [
+      "St. Clair",
+      "Etowah",
+      "Calhoun"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Spotted Bass",
+      "Crappie",
+      "Catfish",
+      "Bream"
+    ],
+    "nearestTowns": [
+      "Gadsden",
+      "Ohatchee"
+    ],
+    "description": "Neely Henry Lake is an 11,200-acre Coosa River reservoir near Gadsden in northeast Alabama, known for its productive bass fishing and scenic wooded shoreline. With 339 miles of shoreline and a maximum depth of 45 feet, the lake offers a mix of shallow grass flats, rocky banks, and timbered creek arms that provide excellent habitat for largemouth and spotted bass.\n\nCrappie fishing is a major draw at Neely Henry, with productive brush piles and bridge structures scattered throughout the lake. The relatively shallow water keeps fish accessible for bank anglers as well as boaters. Catfish and bream provide steady action, making the lake a great option for family fishing trips.\n\nGadsden anchors the lake's northern end with full services, boat ramps, and marinas. Ohatchee offers additional access on the southern portion. The lake's location along the I-59 corridor makes it an easy stop for traveling anglers and a convenient home lake for residents of the Gadsden metro area.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-eufaula-al",
+    "name": "Lake Eufaula",
+    "lat": 31.95,
+    "lng": -85.15,
+    "radius": 0.12,
+    "acres": 45200,
+    "shorelineMiles": 640,
+    "maxDepth": 40,
+    "counties": [
+      "Barbour",
+      "Henry",
+      "Russell"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Hybrid Striped Bass",
+      "Crappie",
+      "Catfish",
+      "Bream"
+    ],
+    "nearestTowns": [
+      "Eufaula",
+      "Abbeville"
+    ],
+    "description": "Lake Eufaula, also known as Walter F. George Reservoir, has earned the nickname \"Bass Capital of the World\" for its phenomenal largemouth bass fishing. This 45,200-acre reservoir on the Chattahoochee River features 640 miles of shoreline with vast expanses of aquatic vegetation, flooded timber, and creek channels that create some of the most productive bass habitat in the Southeast.\n\nThe lake's shallow, fertile waters produce impressive numbers of quality largemouth bass, and it has been a fixture on professional bass tournament circuits for decades. Hybrid striped bass add exciting open-water action, while crappie fishing is excellent in the lake's many brush-filled creek arms. Catfish and bream provide consistent catches for anglers of all skill levels.\n\nThe historic city of Eufaula, known for its antebellum architecture, serves as the lake's primary gateway with marinas, guide services, and Southern hospitality. Lakepoint State Park offers camping, a lodge, and boat launches. Abbeville provides access to the lake's southern reaches.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "lake-jordan",
+    "name": "Lake Jordan",
+    "lat": 32.6,
+    "lng": -86.3,
+    "radius": 0.06,
+    "acres": 6800,
+    "shorelineMiles": 186,
+    "maxDepth": 72,
+    "counties": [
+      "Elmore",
+      "Chilton"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Spotted Bass",
+      "Crappie",
+      "Striped Bass",
+      "Catfish",
+      "Bream"
+    ],
+    "nearestTowns": [
+      "Wetumpka",
+      "Prattville"
+    ],
+    "description": "Lake Jordan is a 6,800-acre Alabama Power reservoir on the Coosa River, conveniently located between Montgomery and Birmingham. With 186 miles of shoreline and depths reaching 72 feet, the lake offers surprisingly diverse fishing opportunities for its size. Clear water and rocky structure support excellent spotted bass fishing, while vegetated coves hold quality largemouth bass.\n\nStriped bass thrive in the lake's deep, well-oxygenated water, making Jordan one of central Alabama's best destinations for striper action. Crappie congregate around submerged brush and dock pilings, providing reliable catches during spring. The lake's manageable size makes it easy to learn quickly, yet it holds enough fish to keep experienced anglers challenged.\n\nWetumpka and Prattville serve as the primary service communities, both offering boat ramps, marinas, and dining. The lake's proximity to Montgomery — just 20 minutes north — makes it a popular after-work fishing spot for capital city residents.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "bankhead-lake",
+    "name": "Bankhead Lake",
+    "lat": 33.5,
+    "lng": -87.3,
+    "radius": 0.08,
+    "acres": 9200,
+    "shorelineMiles": 360,
+    "maxDepth": 52,
+    "counties": [
+      "Tuscaloosa",
+      "Jefferson",
+      "Walker"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Spotted Bass",
+      "Crappie",
+      "Catfish",
+      "Bream",
+      "Striped Bass"
+    ],
+    "nearestTowns": [
+      "Tuscaloosa",
+      "Northport"
+    ],
+    "description": "Bankhead Lake is a 9,200-acre Black Warrior River reservoir near Tuscaloosa, offering 360 miles of winding shoreline through steep bluffs and forested hollows. The lake's narrow, river-like character creates diverse fishing conditions with deep channel bends, rocky bluffs, and timbered backwaters that hold strong populations of largemouth and spotted bass.\n\nCrappie fishing is excellent in the lake's many creek arms, where submerged timber and brush piles attract schools of slab-sized fish during spring. Catfish and bream provide steady action in the backwaters and along the river channel. Striped bass are present in the deeper sections, adding another dimension to the fishery.\n\nTuscaloosa and Northport provide full services for anglers, including marinas, bait shops, and restaurants. The lake's proximity to the University of Alabama campus makes it a popular fishing destination for both students and residents. Bankhead's relatively light fishing pressure compared to other Alabama reservoirs means quality catches are available throughout the year.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "walter-f-george-lake",
+    "name": "Walter F. George Lake",
+    "lat": 31.6,
+    "lng": -85.1,
+    "radius": 0.1,
+    "acres": 45000,
+    "shorelineMiles": 640,
+    "maxDepth": 90,
+    "counties": [
+      "Henry",
+      "Houston",
+      "Barbour"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Hybrid Striped Bass",
+      "Crappie",
+      "Catfish",
+      "Bream"
+    ],
+    "nearestTowns": [
+      "Eufaula",
+      "Dothan"
+    ],
+    "description": "Walter F. George Lake is a massive 45,000-acre Army Corps reservoir straddling the Alabama-Georgia border on the Chattahoochee River. With 640 miles of combined shoreline and depths reaching 90 feet, the lake is one of the largest and most productive fishing destinations in the Southeast. Its fertile waters support outstanding largemouth bass populations that regularly produce fish over eight pounds.\n\nHybrid striped bass provide some of the best open-water fishing action in Alabama, with fish commonly exceeding ten pounds. Crappie fishing is outstanding in the lake's numerous creek channels and around submerged structure, while catfish and bream offer excellent opportunities for anglers seeking relaxed fishing. The lake's Alabama side features more developed access points and services.\n\nEufaula serves as the primary access city on the Alabama side, offering marinas, guide services, and lodging. Dothan, about 45 minutes south, provides additional amenities as the largest city in the Wiregrass region. The lake's warm climate allows productive fishing nearly year-round.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "tennessee-river-al",
+    "name": "Tennessee River (Alabama)",
+    "lat": 34.5,
+    "lng": -86.8,
+    "radius": 0.4,
+    "acres": 0,
+    "shorelineMiles": 650,
+    "maxDepth": 60,
+    "counties": [
+      "Lauderdale",
+      "Colbert",
+      "Lawrence",
+      "Morgan",
+      "Limestone",
+      "Madison",
+      "Jackson",
+      "Marshall",
+      "DeKalb"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Smallmouth Bass",
+      "Crappie",
+      "Catfish",
+      "Striped Bass",
+      "Sauger"
+    ],
+    "nearestTowns": [
+      "Florence",
+      "Decatur",
+      "Huntsville",
+      "Scottsboro"
+    ],
+    "description": "The Tennessee River is the main artery through northern Alabama, flowing approximately 200 miles across the state and forming a series of world-class fishing reservoirs. From Pickwick Lake in the west to Guntersville Lake in the east, the river system spans nine counties and offers some of the most diverse freshwater fishing in the nation. The river's combination of dam tailraces, open reservoirs, and flowing stretches creates habitat for everything from trophy smallmouth bass to giant catfish.\n\nEach section of the river has its own distinct character and fishery. The western reaches near Florence are renowned for smallmouth bass and striped bass in the dam tailwaters. The central section around Decatur offers excellent crappie and largemouth bass in Wheeler Lake. The eastern reaches near Scottsboro and Guntersville feature legendary bass fishing in grass-filled coves and flats.\n\nMajor cities along the river — Florence, Decatur, Huntsville, and Scottsboro — all provide boat ramps, marinas, and full services. The river's extensive public access makes it one of the most fisherman-friendly waterways in the Southeast, with dozens of launch points and public fishing areas along its length.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "tombigbee-river",
+    "name": "Tombigbee River",
+    "lat": 32.5,
+    "lng": -88.0,
+    "radius": 0.2,
+    "acres": 0,
+    "shorelineMiles": 300,
+    "maxDepth": 40,
+    "counties": [
+      "Choctaw",
+      "Washington",
+      "Clarke",
+      "Marengo",
+      "Sumter",
+      "Greene",
+      "Pickens"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Catfish",
+      "Crappie",
+      "Bream",
+      "Drum"
+    ],
+    "nearestTowns": [
+      "Demopolis",
+      "Livingston",
+      "Jackson"
+    ],
+    "description": "The Tombigbee River flows through western Alabama as part of the Tennessee-Tombigbee Waterway, a major navigation channel connecting the Tennessee Valley to the Gulf of Mexico. The river system spans seven counties with approximately 300 miles of fishable shoreline, featuring oxbow lakes, backwater sloughs, and main channel structure that support excellent catfish and bass fishing.\n\nCatfish are the primary draw on the Tombigbee, with blue catfish, channel catfish, and flathead catfish all reaching impressive sizes in the river's deep pools and channel bends. Largemouth bass fishing is productive in the backwaters and oxbow lakes, while crappie and bream provide reliable catches in calmer side channels. Freshwater drum add variety to the bottom-fishing opportunities.\n\nDemopolis serves as the central hub for Tombigbee River fishing, with its lock and dam creating productive fishing areas both above and below. Livingston and Jackson offer additional access points. The river's relatively light fishing pressure compared to Alabama's more famous reservoirs means anglers willing to explore can find quality fishing with solitude.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "alabama-river",
+    "name": "Alabama River",
+    "lat": 32.0,
+    "lng": -86.8,
+    "radius": 0.2,
+    "acres": 0,
+    "shorelineMiles": 318,
+    "maxDepth": 40,
+    "counties": [
+      "Dallas",
+      "Wilcox",
+      "Monroe",
+      "Clarke",
+      "Baldwin",
+      "Mobile"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Catfish",
+      "Crappie",
+      "Bream",
+      "Striped Bass"
+    ],
+    "nearestTowns": [
+      "Selma",
+      "Camden",
+      "Claiborne"
+    ],
+    "description": "The Alabama River winds through the heart of the state for over 300 miles, formed by the confluence of the Coosa and Tallapoosa Rivers near Montgomery and flowing south to join the Tombigbee at the Mobile-Tensaw Delta. With 318 miles of shoreline through six counties, the river offers a blend of outstanding fishing and rich historical significance. Its wide floodplain creates extensive backwater areas, oxbow lakes, and sloughs that harbor quality largemouth bass and panfish.\n\nCatfish are abundant throughout the river system, with blue and flathead catfish reaching trophy proportions in the deep channel bends and around lock-and-dam structures. Crappie fishing peaks in spring when fish move into flooded timber along the riverbanks. Striped bass migrate upriver from the Mobile-Tensaw Delta, providing seasonal trophy fishing opportunities.\n\nSelma, Camden, and Claiborne serve as primary access points with boat ramps and basic services. The river's relatively undeveloped banks and low fishing pressure make it an appealing option for anglers seeking a more remote and natural fishing experience in Alabama's Black Belt region.",
+    "type": "freshwater",
+    "rampCount": 0
+  },
+  {
+    "id": "mobile-bay",
+    "name": "Mobile Bay",
+    "lat": 30.5,
+    "lng": -87.9,
+    "radius": 0.15,
+    "acres": 0,
+    "shorelineMiles": 120,
+    "maxDepth": 75,
+    "counties": [
+      "Mobile",
+      "Baldwin"
+    ],
+    "fishSpecies": [
+      "Redfish",
+      "Speckled Trout",
+      "Flounder",
+      "Sheepshead",
+      "Blue Crab",
+      "Shrimp",
+      "Tarpon"
+    ],
+    "nearestTowns": [
+      "Mobile",
+      "Daphne",
+      "Fairhope",
+      "Point Clear"
+    ],
+    "description": "Mobile Bay is the fourth largest estuary in the United States, where the Mobile-Tensaw River Delta meets the Gulf of Mexico. This vast body of water stretches approximately 31 miles long and 24 miles wide, with 120 miles of shoreline across Mobile and Baldwin Counties. The bay's mix of fresh and saltwater creates a nutrient-rich environment that supports one of the most productive fisheries on the Gulf Coast.\n\nRedfish and speckled trout are the primary targets, found year-round around the bay's oyster reefs, grass flats, and marshy shorelines. Flounder provide excellent gigging and hook-and-line opportunities along sandy bottoms, while sheepshead congregate around pilings and structure. The bay is also famous for its seasonal \"jubilees\" — a natural phenomenon where fish and crustaceans crowd the shallow eastern shore, creating a unique fishing and gathering event found nowhere else.\n\nMobile on the western shore and the communities of Daphne, Fairhope, and Point Clear on the eastern shore provide marinas, charter services, and waterfront dining. The Causeway bridge spanning the bay offers excellent wade fishing access and is a landmark for anglers navigating the bay.",
+    "type": "saltwater",
+    "rampCount": 0
+  },
+  {
+    "id": "gulf-shores-coast",
+    "name": "Gulf Shores Coast",
+    "lat": 30.25,
+    "lng": -87.7,
+    "radius": 0.15,
+    "acres": 0,
+    "shorelineMiles": 60,
+    "maxDepth": 100,
+    "counties": [
+      "Baldwin"
+    ],
+    "fishSpecies": [
+      "Red Snapper",
+      "King Mackerel",
+      "Redfish",
+      "Flounder",
+      "Speckled Trout",
+      "Cobia",
+      "Triggerfish",
+      "Mahi-Mahi"
+    ],
+    "nearestTowns": [
+      "Gulf Shores",
+      "Orange Beach",
+      "Fort Morgan"
+    ],
+    "description": "Alabama's Gulf Coast stretches along 60 miles of Baldwin County shoreline, anchored by the popular beach communities of Gulf Shores and Orange Beach. This stretch of coastline offers some of the finest saltwater fishing in the Gulf of Mexico, with easy access to both inshore and offshore fisheries. The area's extensive network of artificial reefs — one of the largest programs in the country — creates exceptional habitat for red snapper, triggerfish, and other reef species.\n\nInshore fishing around the pass, back bays, and coastal lagoons produces consistent catches of redfish, speckled trout, and flounder. Offshore, the Continental Shelf drops within reach of charter boats, putting anglers on king mackerel, cobia, mahi-mahi, and trophy-class red snapper. The annual red snapper season is a celebrated event that draws thousands of anglers to the Alabama coast.\n\nGulf Shores and Orange Beach offer a full slate of charter services, public boat ramps, and fishing piers. The Wharf Marina in Orange Beach serves as a major hub for offshore charter operations. Fort Morgan, at the tip of the peninsula, provides additional access to both Gulf waters and the mouth of Mobile Bay.",
+    "type": "saltwater",
+    "rampCount": 0
+  },
+  {
+    "id": "perdido-bay",
+    "name": "Perdido Bay",
+    "lat": 30.35,
+    "lng": -87.45,
+    "radius": 0.06,
+    "acres": 0,
+    "shorelineMiles": 40,
+    "maxDepth": 20,
+    "counties": [
+      "Baldwin"
+    ],
+    "fishSpecies": [
+      "Redfish",
+      "Speckled Trout",
+      "Flounder",
+      "Sheepshead",
+      "Blue Crab"
+    ],
+    "nearestTowns": [
+      "Lillian",
+      "Perdido Key",
+      "Elberta"
+    ],
+    "description": "Perdido Bay straddles the Alabama-Florida border, offering a quieter and more intimate saltwater fishing experience compared to nearby Mobile Bay. With approximately 40 miles of shoreline and a maximum depth of 20 feet, this shallow estuary is ideal for wade fishing, kayak fishing, and light-tackle inshore action. The bay's grass flats, oyster bars, and marshy edges create prime habitat for redfish and speckled trout.\n\nFlounder are a consistent target on the bay's sandy bottoms and around structure, while sheepshead congregate near pilings, docks, and bridge supports. Blue crab are abundant throughout the bay's shallow waters. The bay's relatively sheltered conditions make it fishable on days when Gulf winds keep anglers off the open water.\n\nLillian and Elberta on the Alabama side provide boat ramp access and basic services. Perdido Key, straddling the state line, offers additional launch points and proximity to Gulf pass fishing. The bay's low-key atmosphere and productive inshore fishing make it a favorite among local anglers who prefer to avoid the crowds at Gulf Shores.",
+    "type": "saltwater",
+    "rampCount": 0
+  },
+  {
+    "id": "dauphin-island",
+    "name": "Dauphin Island",
+    "lat": 30.25,
+    "lng": -88.1,
+    "radius": 0.04,
+    "acres": 0,
+    "shorelineMiles": 15,
+    "maxDepth": 40,
+    "counties": [
+      "Mobile"
+    ],
+    "fishSpecies": [
+      "Redfish",
+      "Speckled Trout",
+      "Flounder",
+      "Sheepshead",
+      "Spanish Mackerel",
+      "Pompano"
+    ],
+    "nearestTowns": [
+      "Dauphin Island"
+    ],
+    "description": "Dauphin Island is a barrier island at the mouth of Mobile Bay, offering exceptional fishing access to both bay and Gulf waters. This 15-mile stretch of shoreline in Mobile County provides anglers with a unique vantage point where the nutrient-rich waters of Mobile Bay meet the Gulf of Mexico. The mixing zone around the island's passes and jetties creates some of the most productive fishing grounds on Alabama's coast.\n\nRedfish and speckled trout patrol the island's grass flats and oyster reefs, while flounder lie in ambush along sandy passes. Sheepshead stack up around the bridge pilings and rock jetties, and Spanish mackerel and pompano run along the surf zone during warmer months. The island's fishing pier extends into the Gulf, offering shore-based anglers access to deeper water species.\n\nDauphin Island maintains a quiet, uncommercial atmosphere compared to Gulf Shores, attracting anglers who prefer a more laid-back fishing destination. The island offers a public boat ramp, a fishing pier, and charter services. The Dauphin Island Bridge provides additional shore-fishing opportunities and scenic views of Mobile Bay.",
+    "type": "saltwater",
+    "rampCount": 0
+  },
+  {
+    "id": "holt-lake",
+    "name": "Holt Lake",
+    "lat": 33.3,
+    "lng": -87.4,
+    "radius": 0.04,
+    "acres": 3296,
+    "shorelineMiles": 82,
+    "maxDepth": 42,
+    "counties": [
+      "Tuscaloosa"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Spotted Bass",
+      "Crappie",
+      "Catfish",
+      "Bream"
+    ],
+    "nearestTowns": [
+      "Tuscaloosa",
+      "Holt"
+    ],
+    "description": "Holt Lake is a compact 3,296-acre Black Warrior River reservoir in Tuscaloosa County, offering quality fishing in an intimate setting. With 82 miles of shoreline and depths reaching 42 feet, the lake features narrow, winding channels, rocky bluffs, and wooded coves that create excellent habitat for largemouth and spotted bass. Its smaller size makes it easy to learn and consistently productive for anglers who know its structure.\n\nCrappie fishing at Holt Lake is particularly rewarding, with schools of fish congregating around submerged timber and brush piles in the creek arms. Catfish are plentiful in the deeper channel areas, and bream provide reliable catches along the shoreline. The lake sees less fishing pressure than nearby Bankhead Lake and Tuscaloosa-area reservoirs, meaning better catch rates for those who make the trip.\n\nThe community of Holt and the city of Tuscaloosa provide convenient access with boat ramps and nearby services. The lake's proximity to the University of Alabama campus makes it a popular local fishing spot. Despite its modest size, Holt Lake delivers quality fishing in a peaceful, uncrowded environment.",
+    "type": "freshwater",
+    "rampCount": 0
+  }
+]
