@@ -1,19 +1,14 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useMemo } from "react";
 import Link from "next/link";
-import { unified, amenityLabels } from "@/data/all-ramps";
+import { unified, amenityLabels, isGenericName } from "@/data/all-ramps";
 import { arkansasLakes, getArkansasLakeForRamp } from "@/data/arkansas-lakes";
 import CletusAd from "@/components/CletusAd";
-
-function hasRealName(name: string): boolean {
-  const n = (name || "").toLowerCase();
-  return n.length > 2 && !n.startsWith("boat ramp at") && !n.startsWith("boat ramp near") && n !== "boat ramp" && n !== "boat launch";
-}
+import RampList from "@/components/RampList";
 
 export default function ArkansasPage() {
   const arRamps = useMemo(() => unified.filter((r) => r.state === "AR"), []);
-  const [showAll, setShowAll] = useState(false);
   const lakeCounts = useMemo(() => {
     const map: Record<string, number> = {};
     for (const l of arkansasLakes) map[l.id] = arRamps.filter((r) => getArkansasLakeForRamp(r.latitude, r.longitude)?.id === l.id).length;
@@ -22,14 +17,13 @@ export default function ArkansasPage() {
   const featuredLake = useMemo(() => {
     let best = arkansasLakes.find((l) => l.id === "beaver-lake") || arkansasLakes[0]; let bestCount = 0;
     for (const l of arkansasLakes) {
-      const count = arRamps.filter((r) => getArkansasLakeForRamp(r.latitude, r.longitude)?.id === l.id && hasRealName(r.name)).length;
+      const count = arRamps.filter((r) => getArkansasLakeForRamp(r.latitude, r.longitude)?.id === l.id && !isGenericName(r.name)).length;
       if (count > bestCount) { best = l; bestCount = count; }
     }
     return best;
   }, [arRamps]);
-  const featuredRamps = useMemo(() => featuredLake ? arRamps.filter((r) => getArkansasLakeForRamp(r.latitude, r.longitude)?.id === featuredLake.id && hasRealName(r.name)) : [], [arRamps, featuredLake]);
+  const featuredRamps = useMemo(() => featuredLake ? arRamps.filter((r) => getArkansasLakeForRamp(r.latitude, r.longitude)?.id === featuredLake.id && !isGenericName(r.name)) : [], [arRamps, featuredLake]);
   const cityMap = useMemo(() => { const m: Record<string, number> = {}; for (const r of arRamps) { const c = r.city?.trim(); if (c && c.length > 1) m[c] = (m[c] || 0) + 1; } return Object.entries(m).sort((a, b) => b[1] - a[1]); }, [arRamps]);
-  const display = showAll ? arRamps : arRamps.slice(0, 36);
 
   return (
     <div>
@@ -89,23 +83,7 @@ export default function ArkansasPage() {
         </section>
       )}
 
-      <section className="max-w-6xl mx-auto px-4 pt-4 pb-8">
-        <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">All {arRamps.length} Arkansas Boat Ramps</h2>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-          {display.map((r) => {
-            const lake = getArkansasLakeForRamp(r.latitude, r.longitude);
-            return (
-              <Link key={r.id} href={`/ramps/${r.id}`} className="group block bg-white border border-gray-200 rounded-lg p-3 border-l-4 border-l-water shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all">
-                <span className="font-[Cabin] font-bold text-charcoal group-hover:text-water transition text-sm">{r.name}</span>
-                <p className="text-gray-500 text-xs mt-0.5">{r.city || "Arkansas"}{lake ? ` \u00b7 ${lake.name}` : ""}</p>
-              </Link>
-            );
-          })}
-        </div>
-        {!showAll && arRamps.length > 36 && (
-          <button onClick={() => setShowAll(true)} className="mt-4 w-full py-3 bg-white border border-gray-200 rounded-lg text-sm font-semibold text-water hover:bg-water/5 transition">Show all {arRamps.length} ramps</button>
-        )}
-      </section>
+      <RampList ramps={arRamps} stateName="Arkansas" />
       <div className="max-w-6xl mx-auto px-4"><CletusAd /></div>
     </div>
   );

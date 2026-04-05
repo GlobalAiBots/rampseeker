@@ -1,29 +1,24 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useMemo } from "react";
 import Link from "next/link";
-import { unified, amenityLabels } from "@/data/all-ramps";
+import { unified, amenityLabels, isGenericName } from "@/data/all-ramps";
 import { northCarolinaLakes, getNorthCarolinaLakeForRamp } from "@/data/north-carolina-lakes";
 import CletusAd from "@/components/CletusAd";
-
-function hasRealName(name: string): boolean {
-  const n = (name || "").toLowerCase();
-  return n.length > 2 && !/^boat ramp/i.test(n) && n !== "boat launch";
-}
+import RampList from "@/components/RampList";
 
 export default function NorthCarolinaPage() {
   const ncRamps = useMemo(() => unified.filter((r) => r.state === "NC"), []);
-  const [showAll, setShowAll] = useState(false);
 
   const featuredLake = useMemo(() => {
     let best = northCarolinaLakes.find((l) => l.id === "lake-norman") || northCarolinaLakes[0]; let bestCount = 0;
     for (const l of northCarolinaLakes) {
-      const count = ncRamps.filter((r) => getNorthCarolinaLakeForRamp(r.latitude, r.longitude)?.id === l.id && hasRealName(r.name)).length;
+      const count = ncRamps.filter((r) => getNorthCarolinaLakeForRamp(r.latitude, r.longitude)?.id === l.id && !isGenericName(r.name)).length;
       if (count > bestCount) { best = l; bestCount = count; }
     }
     return best;
   }, [ncRamps]);
-  const featuredRamps = useMemo(() => featuredLake ? ncRamps.filter((r) => getNorthCarolinaLakeForRamp(r.latitude, r.longitude)?.id === featuredLake.id && hasRealName(r.name)) : [], [ncRamps, featuredLake]);
+  const featuredRamps = useMemo(() => featuredLake ? ncRamps.filter((r) => getNorthCarolinaLakeForRamp(r.latitude, r.longitude)?.id === featuredLake.id && !isGenericName(r.name)) : [], [ncRamps, featuredLake]);
 
   const lakeCounts = useMemo(() => {
     const map: Record<string, number> = {};
@@ -37,7 +32,6 @@ export default function NorthCarolinaPage() {
     return Object.entries(m).sort((a, b) => b[1] - a[1]);
   }, [ncRamps]);
 
-  const display = showAll ? ncRamps : ncRamps.slice(0, 36);
 
   return (
     <div>
@@ -97,16 +91,7 @@ export default function NorthCarolinaPage() {
         </section>
       )}
 
-      <section className="max-w-6xl mx-auto px-4 pt-4 pb-8"><h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">All {ncRamps.length} North Carolina Boat Ramps</h2>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-          {display.map((r) => { const lake = getNorthCarolinaLakeForRamp(r.latitude, r.longitude); return (
-            <Link key={r.id} href={`/ramps/${r.id}`} className="group block bg-white border border-gray-200 rounded-lg p-3 border-l-4 border-l-water shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all">
-              <span className="font-[Cabin] font-bold text-charcoal group-hover:text-water transition text-sm">{r.name}</span>
-              <p className="text-gray-500 text-xs mt-0.5">{r.city || "North Carolina"}{lake ? ` · ${lake.name}` : ""}</p>
-            </Link>); })}
-        </div>
-        {!showAll && ncRamps.length > 36 && (<button onClick={() => setShowAll(true)} className="mt-4 w-full py-3 bg-white border border-gray-200 rounded-lg text-sm font-semibold text-water hover:bg-water/5 transition">Show all {ncRamps.length} ramps</button>)}
-      </section>
+      <RampList ramps={ncRamps} stateName="North Carolina" />
 
       {/* FAQ */}
       <section className="max-w-4xl mx-auto px-4 py-10">

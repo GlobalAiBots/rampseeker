@@ -1,19 +1,14 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useMemo } from "react";
 import Link from "next/link";
-import { unified, amenityLabels } from "@/data/all-ramps";
+import { unified, amenityLabels, isGenericName } from "@/data/all-ramps";
 import { kansasLakes, getKansasLakeForRamp } from "@/data/kansas-lakes";
 import CletusAd from "@/components/CletusAd";
-
-function hasRealName(name: string): boolean {
-  const n = (name || "").toLowerCase();
-  return n.length > 2 && !n.startsWith("boat ramp at") && !n.startsWith("boat ramp near") && n !== "boat ramp" && n !== "boat launch";
-}
+import RampList from "@/components/RampList";
 
 export default function KansasPage() {
   const ksRamps = useMemo(() => unified.filter((r) => r.state === "KS"), []);
-  const [showAll, setShowAll] = useState(false);
   const lakeCounts = useMemo(() => {
     const map: Record<string, number> = {};
     for (const l of kansasLakes) map[l.id] = ksRamps.filter((r) => getKansasLakeForRamp(r.latitude, r.longitude)?.id === l.id).length;
@@ -27,13 +22,12 @@ export default function KansasPage() {
   const featuredLake = useMemo(() => {
     let best = kansasLakes.find((l) => l.id === "perry-lake") || kansasLakes[0]; let bestCount = 0;
     for (const l of kansasLakes) {
-      const count = ksRamps.filter((r) => getKansasLakeForRamp(r.latitude, r.longitude)?.id === l.id && hasRealName(r.name)).length;
+      const count = ksRamps.filter((r) => getKansasLakeForRamp(r.latitude, r.longitude)?.id === l.id && !isGenericName(r.name)).length;
       if (count > bestCount) { best = l; bestCount = count; }
     }
     return best;
   }, [ksRamps]);
-  const featuredRamps = useMemo(() => featuredLake ? ksRamps.filter((r) => getKansasLakeForRamp(r.latitude, r.longitude)?.id === featuredLake.id && hasRealName(r.name)) : [], [ksRamps, featuredLake]);
-  const display = showAll ? ksRamps : ksRamps.slice(0, 36);
+  const featuredRamps = useMemo(() => featuredLake ? ksRamps.filter((r) => getKansasLakeForRamp(r.latitude, r.longitude)?.id === featuredLake.id && !isGenericName(r.name)) : [], [ksRamps, featuredLake]);
 
   return (
     <div>
@@ -101,23 +95,7 @@ export default function KansasPage() {
         </section>
       )}
 
-      <section className="max-w-6xl mx-auto px-4 pt-4 pb-8">
-        <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">All {ksRamps.length} Kansas Boat Ramps</h2>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-          {display.map((r) => {
-            const lake = getKansasLakeForRamp(r.latitude, r.longitude);
-            return (
-              <Link key={r.id} href={`/ramps/${r.id}`} className="group block bg-white border border-gray-200 rounded-lg p-3 border-l-4 border-l-water shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all">
-                <span className="font-[Cabin] font-bold text-charcoal group-hover:text-water transition text-sm">{r.name}</span>
-                <p className="text-gray-500 text-xs mt-0.5">{r.city || "Kansas"}{lake ? ` \u00b7 ${lake.name}` : ""}</p>
-              </Link>
-            );
-          })}
-        </div>
-        {!showAll && ksRamps.length > 36 && (
-          <button onClick={() => setShowAll(true)} className="mt-4 w-full py-3 bg-white border border-gray-200 rounded-lg text-sm font-semibold text-water hover:bg-water/5 transition">Show all {ksRamps.length} ramps</button>
-        )}
-      </section>
+      <RampList ramps={ksRamps} stateName="Kansas" />
       <div className="max-w-6xl mx-auto px-4"><CletusAd /></div>
     </div>
   );

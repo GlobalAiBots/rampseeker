@@ -1,15 +1,15 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useMemo } from "react";
 import Link from "next/link";
 import { unified, amenityLabels } from "@/data/all-ramps";
 import { lakes, getLakeForRamp } from "@/data/lakes";
 import CletusAd from "@/components/CletusAd";
+import RampList from "@/components/RampList";
 
 export default function OklahomaPage() {
   const okRamps = useMemo(() => unified.filter((r) => r.state === "OK"), []);
   const featured = useMemo(() => okRamps.filter((r) => r.featured), [okRamps]);
-  const [showAll, setShowAll] = useState(false);
 
   const lakeCounts = useMemo(() => {
     const map: Record<string, number> = {};
@@ -26,8 +26,6 @@ export default function OklahomaPage() {
     for (const r of okRamps) { const c = r.city?.trim(); if (c && c.length > 1) m[c] = (m[c] || 0) + 1; }
     return Object.entries(m).sort((a, b) => b[1] - a[1]);
   }, [okRamps]);
-
-  const display = showAll ? okRamps : okRamps.slice(0, 36);
 
   return (
     <div>
@@ -105,29 +103,7 @@ export default function OklahomaPage() {
         </section>
       )}
 
-      {/* All Ramps */}
-      <section className="max-w-6xl mx-auto px-4 pt-4 pb-8">
-        <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">All {okRamps.length} Oklahoma Boat Ramps</h2>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-          {display.map((r) => {
-            const lake = getLakeForRamp(r.latitude, r.longitude);
-            return (
-              <Link key={r.id} href={`/ramps/${r.id}`} className="group block bg-white border border-gray-200 rounded-lg p-3 border-l-4 border-l-water shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all">
-                <div className="flex items-start justify-between">
-                  <span className="font-[Cabin] font-bold text-charcoal group-hover:text-water transition text-sm">{r.name}</span>
-                  {r.featured && <span className="text-[10px] font-bold text-sunset bg-sunset/10 px-1.5 py-0.5 rounded-full">Detailed</span>}
-                </div>
-                <p className="text-gray-500 text-xs mt-0.5">{r.city || "Oklahoma"}{lake ? ` \u00b7 ${lake.name}` : ""}</p>
-              </Link>
-            );
-          })}
-        </div>
-        {!showAll && okRamps.length > 36 && (
-          <button onClick={() => setShowAll(true)} className="mt-4 w-full py-3 bg-white border border-gray-200 rounded-lg text-sm font-semibold text-water hover:bg-water/5 transition">
-            Show all {okRamps.length} ramps
-          </button>
-        )}
-      </section>
+      <RampList ramps={okRamps} stateName="Oklahoma" />
 
       <div className="max-w-6xl mx-auto px-4"><CletusAd /></div>
     </div>

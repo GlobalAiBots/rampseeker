@@ -1,8 +1,9 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { lakes, getLakeById, getLakeForRamp } from "@/data/lakes";
-import { unified, amenityLabels } from "@/data/all-ramps";
+import { unified } from "@/data/all-ramps";
 import AdSlot from "@/components/AdSlot";
+import LakeRampList from "@/components/LakeRampList";
 import CletusAd from "@/components/CletusAd";
 import type { Metadata } from "next";
 
@@ -96,34 +97,8 @@ export default async function LakePage({ params }: { params: Promise<{ id: strin
 
       {/* Ramp Cards — Featured style */}
       <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Boat Ramps on {lake.name}</h2>
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-12">
-        {lakeRamps.map((r) => {
-          const gl = r.grandLakeData;
-          return (
-            <Link key={r.id} href={`/ramps/${r.id}`} className="group block bg-white border border-gray-200 rounded-xl p-5 border-l-4 border-l-sunset shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all">
-              <div className="flex items-start justify-between mb-2">
-                <h3 className="font-[Cabin] font-bold text-charcoal group-hover:text-water transition">{r.name}</h3>
-                {gl && <span className="text-xs font-bold text-water bg-water/10 px-2 py-0.5 rounded-full whitespace-nowrap">{gl.rampCount} ramp{gl.rampCount > 1 ? "s" : ""}</span>}
-              </div>
-              <p className="text-gray-500 text-sm mb-2">{r.city}, OK{gl ? ` \u00b7 ${gl.fee === "free" ? "Free" : gl.fee}` : ""}</p>
-              {gl && gl.amenities.length > 0 && (
-                <div className="flex flex-wrap gap-1 mb-2">
-                  {gl.amenities.slice(0, 4).map((a) => (
-                    <span key={a} className="text-xs bg-gray-100 text-gray-600 px-2 py-0.5 rounded-full">{amenityLabels[a]?.icon} {amenityLabels[a]?.label}</span>
-                  ))}
-                </div>
-              )}
-              {r.rating > 0 && (
-                <div className="flex items-center gap-0.5 mb-2">
-                  {[1,2,3,4,5].map((s) => <span key={s} className={s <= r.rating ? "text-yellow-500" : "text-gray-200"} style={{ fontSize: 13 }}>&#9733;</span>)}
-                  {r.totalRatings > 0 && <span className="text-gray-400 text-xs ml-1">({r.totalRatings})</span>}
-                </div>
-              )}
-              <span className="text-sm font-semibold text-sunset group-hover:text-sunset-dark transition">View Details &rarr;</span>
-            </Link>
-          );
-        })}
-        {lakeRamps.length === 0 && <p className="text-gray-400 col-span-3">No ramps found for this lake yet. <a href="mailto:hello@rampseeker.com" className="text-water">Know one? Submit it.</a></p>}
+      <div className="mb-12">
+        <LakeRampList ramps={lakeRamps} stateName="Oklahoma" />
       </div>
 
       <AdSlot position="lake-below-ramps" />

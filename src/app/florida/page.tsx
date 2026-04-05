@@ -1,29 +1,24 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useMemo } from "react";
 import Link from "next/link";
-import { unified, amenityLabels } from "@/data/all-ramps";
+import { unified, amenityLabels, isGenericName } from "@/data/all-ramps";
 import { floridaLakes, getFloridaLakeForRamp } from "@/data/florida-lakes";
 import CletusAd from "@/components/CletusAd";
-
-function hasRealName(name: string): boolean {
-  const n = (name || "").toLowerCase();
-  return n.length > 2 && !/^boat ramp/i.test(n) && n !== "boat launch";
-}
+import RampList from "@/components/RampList";
 
 export default function FloridaPage() {
   const flRamps = useMemo(() => unified.filter((r) => r.state === "FL"), []);
-  const [showAll, setShowAll] = useState(false);
 
   const featuredLake = useMemo(() => {
     let best = floridaLakes.find((l) => l.id === "tampa-bay") || floridaLakes[0]; let bestCount = 0;
     for (const l of floridaLakes) {
-      const count = flRamps.filter((r) => getFloridaLakeForRamp(r.latitude, r.longitude)?.id === l.id && hasRealName(r.name)).length;
+      const count = flRamps.filter((r) => getFloridaLakeForRamp(r.latitude, r.longitude)?.id === l.id && !isGenericName(r.name)).length;
       if (count > bestCount) { best = l; bestCount = count; }
     }
     return best;
   }, [flRamps]);
-  const featuredRamps = useMemo(() => featuredLake ? flRamps.filter((r) => getFloridaLakeForRamp(r.latitude, r.longitude)?.id === featuredLake.id && hasRealName(r.name)) : [], [flRamps, featuredLake]);
+  const featuredRamps = useMemo(() => featuredLake ? flRamps.filter((r) => getFloridaLakeForRamp(r.latitude, r.longitude)?.id === featuredLake.id && !isGenericName(r.name)) : [], [flRamps, featuredLake]);
 
   const lakeCounts = useMemo(() => {
     const map: Record<string, number> = {};
@@ -37,7 +32,6 @@ export default function FloridaPage() {
     return Object.entries(m).sort((a, b) => b[1] - a[1]);
   }, [flRamps]);
 
-  const display = showAll ? flRamps : flRamps.slice(0, 36);
 
   return (
     <div>
@@ -97,16 +91,7 @@ export default function FloridaPage() {
         </section>
       )}
 
-      <section className="max-w-6xl mx-auto px-4 pt-4 pb-8"><h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">All {flRamps.length} Florida Boat Ramps</h2>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-          {display.map((r) => { const lake = getFloridaLakeForRamp(r.latitude, r.longitude); return (
-            <Link key={r.id} href={`/ramps/${r.id}`} className="group block bg-white border border-gray-200 rounded-lg p-3 border-l-4 border-l-water shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all">
-              <span className="font-[Cabin] font-bold text-charcoal group-hover:text-water transition text-sm">{r.name}</span>
-              <p className="text-gray-500 text-xs mt-0.5">{r.city || "Florida"}{lake ? ` \u00b7 ${lake.name}` : ""}</p>
-            </Link>); })}
-        </div>
-        {!showAll && flRamps.length > 36 && (<button onClick={() => setShowAll(true)} className="mt-4 w-full py-3 bg-white border border-gray-200 rounded-lg text-sm font-semibold text-water hover:bg-water/5 transition">Show all {flRamps.length} ramps</button>)}
-      </section>
+      <RampList ramps={flRamps} stateName="Florida" />
 
       <div className="max-w-6xl mx-auto px-4"><CletusAd /></div>
     </div>

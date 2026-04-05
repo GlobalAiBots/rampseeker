@@ -1,30 +1,25 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useMemo } from "react";
 import Link from "next/link";
-import { unified, amenityLabels } from "@/data/all-ramps";
+import { unified, amenityLabels, isGenericName } from "@/data/all-ramps";
 import { texasLakes, getTexasLakeForRamp } from "@/data/texas-lakes";
 import CletusAd from "@/components/CletusAd";
-
-function hasRealName(name: string): boolean {
-  const n = (name || "").toLowerCase();
-  return n.length > 2 && !n.startsWith("boat ramp at") && !n.startsWith("boat ramp near") && n !== "boat ramp" && n !== "boat launch";
-}
+import RampList from "@/components/RampList";
 
 export default function TexasPage() {
   const txRamps = useMemo(() => unified.filter((r) => r.state === "TX"), []);
-  const [showAll, setShowAll] = useState(false);
 
   // Featured lake: pick the one with most NAMED ramps
   const featuredLake = useMemo(() => {
     let best = texasLakes.find((l) => l.id === "lake-travis") || texasLakes[0]; let bestCount = 0;
     for (const l of texasLakes) {
-      const count = txRamps.filter((r) => getTexasLakeForRamp(r.latitude, r.longitude)?.id === l.id && hasRealName(r.name)).length;
+      const count = txRamps.filter((r) => getTexasLakeForRamp(r.latitude, r.longitude)?.id === l.id && !isGenericName(r.name)).length;
       if (count > bestCount) { best = l; bestCount = count; }
     }
     return best;
   }, [txRamps]);
-  const featuredRamps = useMemo(() => featuredLake ? txRamps.filter((r) => getTexasLakeForRamp(r.latitude, r.longitude)?.id === featuredLake.id && hasRealName(r.name)) : [], [txRamps, featuredLake]);
+  const featuredRamps = useMemo(() => featuredLake ? txRamps.filter((r) => getTexasLakeForRamp(r.latitude, r.longitude)?.id === featuredLake.id && !isGenericName(r.name)) : [], [txRamps, featuredLake]);
 
   const lakeCounts = useMemo(() => {
     const map: Record<string, number> = {};
@@ -38,7 +33,6 @@ export default function TexasPage() {
     return Object.entries(m).sort((a, b) => b[1] - a[1]);
   }, [txRamps]);
 
-  const display = showAll ? txRamps : txRamps.slice(0, 36);
 
   return (
     <div>
@@ -112,24 +106,7 @@ export default function TexasPage() {
         </section>
       )}
 
-      {/* All Ramps */}
-      <section className="max-w-6xl mx-auto px-4 pt-4 pb-8">
-        <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">All {txRamps.length} Texas Boat Ramps</h2>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-          {display.map((r) => {
-            const lake = getTexasLakeForRamp(r.latitude, r.longitude);
-            return (
-              <Link key={r.id} href={`/ramps/${r.id}`} className="group block bg-white border border-gray-200 rounded-lg p-3 border-l-4 border-l-water shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all">
-                <span className="font-[Cabin] font-bold text-charcoal group-hover:text-water transition text-sm">{r.name}</span>
-                <p className="text-gray-500 text-xs mt-0.5">{r.city || "Texas"}{lake ? ` \u00b7 ${lake.name}` : ""}</p>
-              </Link>
-            );
-          })}
-        </div>
-        {!showAll && txRamps.length > 36 && (
-          <button onClick={() => setShowAll(true)} className="mt-4 w-full py-3 bg-white border border-gray-200 rounded-lg text-sm font-semibold text-water hover:bg-water/5 transition">Show all {txRamps.length} ramps</button>
-        )}
-      </section>
+      <RampList ramps={txRamps} stateName="Texas" />
       <div className="max-w-6xl mx-auto px-4"><CletusAd /></div>
     </div>
   );

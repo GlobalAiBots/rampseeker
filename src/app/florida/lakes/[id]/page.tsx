@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { floridaLakes, getFloridaLakeById, getFloridaLakeForRamp } from "@/data/florida-lakes";
 import { unified } from "@/data/all-ramps";
+import LakeRampList from "@/components/LakeRampList";
 import CletusAd from "@/components/CletusAd";
 import type { Metadata } from "next";
 
@@ -65,15 +66,8 @@ export default async function FloridaLakePage({ params }: { params: Promise<{ id
       </div>
 
       <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Boat Ramps on {lake.name}</h2>
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-12">
-        {lakeRamps.map((r) => (
-          <Link key={r.id} href={`/ramps/${r.id}`} className="group block bg-white border border-gray-200 rounded-xl p-5 border-l-4 border-l-sunset shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all">
-            <h3 className="font-[Cabin] font-bold text-charcoal group-hover:text-water transition">{r.name}</h3>
-            <p className="text-gray-500 text-sm">{r.city || "Florida"}</p>
-            <span className="text-sm font-semibold text-sunset mt-2 inline-block">View Details &rarr;</span>
-          </Link>
-        ))}
-        {lakeRamps.length === 0 && <p className="text-gray-400 col-span-3">No ramps found yet.</p>}
+      <div className="mb-12">
+        <LakeRampList ramps={lakeRamps} stateName="Florida" />
       </div>
 
       <div className="bg-white border border-gray-200 rounded-2xl p-6 mb-10 shadow-sm">

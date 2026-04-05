@@ -1,32 +1,26 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useMemo } from "react";
 import Link from "next/link";
-import { unified, amenityLabels } from "@/data/all-ramps";
+import { unified, amenityLabels, isGenericName } from "@/data/all-ramps";
 import { missouriLakes, getMissouriLakeForRamp } from "@/data/missouri-lakes";
 import CletusAd from "@/components/CletusAd";
-
-function hasRealName(name: string): boolean {
-  const n = (name || "").toLowerCase();
-  return n.length > 2 && !n.startsWith("boat ramp at") && !n.startsWith("boat ramp near") && n !== "boat ramp" && n !== "boat launch";
-}
+import RampList from "@/components/RampList";
 
 export default function MissouriPage() {
   const moRamps = useMemo(() => unified.filter((r) => r.state === "MO"), []);
-  const [showAll, setShowAll] = useState(false);
   // Pick featured lake: find the one with the most NAMED ramps
   const featuredLake = useMemo(() => {
     let best = missouriLakes[0]; let bestCount = 0;
     for (const l of missouriLakes) {
-      const count = moRamps.filter((r) => getMissouriLakeForRamp(r.latitude, r.longitude)?.id === l.id && hasRealName(r.name)).length;
+      const count = moRamps.filter((r) => getMissouriLakeForRamp(r.latitude, r.longitude)?.id === l.id && !isGenericName(r.name)).length;
       if (count > bestCount) { best = l; bestCount = count; }
     }
     return best;
   }, [moRamps]);
-  const featuredRamps = useMemo(() => featuredLake ? moRamps.filter((r) => getMissouriLakeForRamp(r.latitude, r.longitude)?.id === featuredLake.id && hasRealName(r.name)) : [], [moRamps, featuredLake]);
+  const featuredRamps = useMemo(() => featuredLake ? moRamps.filter((r) => getMissouriLakeForRamp(r.latitude, r.longitude)?.id === featuredLake.id && !isGenericName(r.name)) : [], [moRamps, featuredLake]);
   const lakeCounts = useMemo(() => { const m: Record<string, number> = {}; for (const l of missouriLakes) m[l.id] = moRamps.filter((r) => getMissouriLakeForRamp(r.latitude, r.longitude)?.id === l.id).length; return m; }, [moRamps]);
   const cityMap = useMemo(() => { const m: Record<string, number> = {}; for (const r of moRamps) { const c = r.city?.trim(); if (c && c.length > 1) m[c] = (m[c] || 0) + 1; } return Object.entries(m).sort((a, b) => b[1] - a[1]); }, [moRamps]);
-  const display = showAll ? moRamps : moRamps.slice(0, 36);
 
   return (
     <div>
@@ -77,16 +71,7 @@ export default function MissouriPage() {
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">{cityMap.slice(0, 16).map(([city, count]) => (<div key={city} className="bg-white border border-gray-200 rounded-lg p-3"><p className="font-bold text-charcoal text-sm">{city}</p><p className="text-gray-400 text-xs">{count} ramp{count !== 1 ? "s" : ""}</p></div>))}</div>
       </section>)}
 
-      <section className="max-w-6xl mx-auto px-4 pt-4 pb-8"><h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">All {moRamps.length} Missouri Boat Ramps</h2>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-          {display.map((r) => { const lake = getMissouriLakeForRamp(r.latitude, r.longitude); return (
-            <Link key={r.id} href={`/ramps/${r.id}`} className="group block bg-white border border-gray-200 rounded-lg p-3 border-l-4 border-l-water shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all">
-              <span className="font-[Cabin] font-bold text-charcoal group-hover:text-water transition text-sm">{r.name}</span>
-              <p className="text-gray-500 text-xs mt-0.5">{r.city || "Missouri"}{lake ? ` \u00b7 ${lake.name}` : ""}</p>
-            </Link>); })}
-        </div>
-        {!showAll && moRamps.length > 36 && (<button onClick={() => setShowAll(true)} className="mt-4 w-full py-3 bg-white border border-gray-200 rounded-lg text-sm font-semibold text-water hover:bg-water/5 transition">Show all {moRamps.length} ramps</button>)}
-      </section>
+      <RampList ramps={moRamps} stateName="Missouri" />
       <div className="max-w-6xl mx-auto px-4"><CletusAd /></div>
     </div>
   );
