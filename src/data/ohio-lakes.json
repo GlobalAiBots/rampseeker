@@ -1,0 +1,547 @@
+[
+  {
+    "id": "lake-erie-oh",
+    "name": "Lake Erie (Ohio)",
+    "lat": 41.5,
+    "lng": -82.0,
+    "radius": 0.5,
+    "acres": 0,
+    "shorelineMiles": 312,
+    "maxDepth": 210,
+    "counties": [
+      "Lucas",
+      "Ottawa",
+      "Erie",
+      "Lorain",
+      "Cuyahoga",
+      "Lake",
+      "Ashtabula"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Yellow Perch",
+      "Smallmouth Bass",
+      "Largemouth Bass",
+      "Steelhead",
+      "Channel Catfish",
+      "White Bass"
+    ],
+    "nearestTowns": [
+      "Port Clinton",
+      "Sandusky",
+      "Vermilion",
+      "Lorain",
+      "Cleveland",
+      "Conneaut",
+      "Ashtabula",
+      "Marblehead"
+    ],
+    "description": "Lake Erie's Ohio shoreline spans 312 miles and is home to what many consider the greatest walleye fishery on Earth. The western basin, centered around Port Clinton and the Bass Islands, is the undisputed Walleye Capital of the World, producing millions of walleye each year and supporting a massive charter fishing industry. The shallow, nutrient-rich waters of the western basin create ideal spawning and feeding conditions that sustain walleye populations found nowhere else in such concentration.\n\nBeyond walleye, Lake Erie offers world-class yellow perch fishing, with fat jumbos caught over rocky reefs from Sandusky to Conneaut. Smallmouth bass fishing along the central and eastern basin rock structures is exceptional, with fish regularly exceeding 5 pounds. Steelhead trout enter the tributary rivers from fall through spring, creating an additional fishery along the entire shoreline.\n\nMajor launch facilities are available at virtually every harbor along the Ohio shoreline, from Toledo's Maumee Bay through Cleveland and east to Conneaut. The spring walleye run in the Maumee River draws thousands of anglers to the Toledo area each March and April. Lake Erie's relatively shallow western basin can produce dangerous waves quickly, so weather awareness is essential, but the fishing rewards make it one of the most visited fisheries in North America.",
+    "type": "great-lake",
+    "rampCount": 35
+  },
+  {
+    "id": "pymatuning-lake",
+    "name": "Pymatuning Lake",
+    "lat": 41.5,
+    "lng": -80.5,
+    "radius": 0.08,
+    "acres": 14650,
+    "shorelineMiles": 70,
+    "maxDepth": 35,
+    "counties": [
+      "Ashtabula"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Musky",
+      "Crappie",
+      "Largemouth Bass",
+      "Yellow Perch",
+      "Channel Catfish",
+      "Bluegill"
+    ],
+    "nearestTowns": [
+      "Andover",
+      "Williamsfield",
+      "Kinsman"
+    ],
+    "description": "Pymatuning Lake is a 14,650-acre reservoir straddling the Ohio-Pennsylvania border in Ashtabula County, making it one of the largest lakes in the region. The shallow, fertile water produces outstanding walleye and musky fishing, and the lake has been a destination for northeast Ohio anglers for generations. The Pymatuning spillway, where fish congregate so densely that ducks walk on them, is one of Ohio's most unique natural attractions.\n\nWalleye are the primary draw, with excellent catches reported from spring through fall using jigs, worm harnesses, and trolling crankbaits. The musky fishery is well-established, with fish over 40 inches caught each season by anglers casting large baits along weed edges and rocky points. Crappie and yellow perch provide reliable panfish action, especially around the abundant submerged timber in the upper lake.\n\nPymatuning State Park on the Ohio side offers well-maintained launch ramps, camping, and cabin rentals. The lake's broad, shallow basin means it can get rough in high winds, but on calm days it provides some of the best multi-species fishing in northeast Ohio. The shared jurisdiction with Pennsylvania means anglers need to be aware of state boundary regulations.",
+    "type": "freshwater",
+    "rampCount": 8
+  },
+  {
+    "id": "mosquito-lake",
+    "name": "Mosquito Lake",
+    "lat": 41.3,
+    "lng": -80.75,
+    "radius": 0.06,
+    "acres": 7850,
+    "shorelineMiles": 24,
+    "maxDepth": 30,
+    "counties": [
+      "Trumbull"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Crappie",
+      "Largemouth Bass",
+      "Channel Catfish",
+      "Musky",
+      "Yellow Perch",
+      "Bluegill"
+    ],
+    "nearestTowns": [
+      "Cortland",
+      "Warren"
+    ],
+    "description": "Mosquito Lake is a 7,850-acre reservoir in Trumbull County that ranks among the top walleye and crappie lakes in northeast Ohio. The lake's broad, shallow basin with extensive weed beds and timber provides ideal habitat for a diverse warmwater fishery. Mosquito Creek State Park surrounds the reservoir and offers excellent public access.\n\nThe walleye fishery benefits from regular stocking by the Ohio Division of Wildlife, and anglers consistently catch quality fish trolling and jigging the main lake basin. Crappie fishing is exceptional, with big slabs holding in the standing timber along the north and east shores during spring. Musky are present thanks to stocking, and the lake produces fish over 40 inches for anglers willing to put in the time casting large baits.\n\nMultiple launch ramps are available around the lake, with the state park facilities being the most popular. Mosquito Lake's proximity to Warren and Youngstown makes it a convenient destination for Mahoning Valley anglers, and the campground provides a base for multi-day fishing trips targeting the lake's walleye and crappie populations.",
+    "type": "freshwater",
+    "rampCount": 6
+  },
+  {
+    "id": "berlin-lake",
+    "name": "Berlin Lake",
+    "lat": 41.0,
+    "lng": -81.0,
+    "radius": 0.06,
+    "acres": 3590,
+    "shorelineMiles": 23,
+    "maxDepth": 65,
+    "counties": [
+      "Portage",
+      "Mahoning",
+      "Stark"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Crappie",
+      "Largemouth Bass",
+      "Musky",
+      "Channel Catfish",
+      "Saugeye"
+    ],
+    "nearestTowns": [
+      "Deerfield",
+      "Alliance"
+    ],
+    "description": "Berlin Lake is a 3,590-acre Army Corps of Engineers reservoir spanning Portage, Mahoning, and Stark counties in northeast Ohio. The lake is notable for its clear water and significant depth, reaching 65 feet near the dam, which supports a productive walleye and musky fishery. Berlin's well-managed fish populations make it one of the more reliable lakes in the region for quality catches.\n\nWalleye and saugeye are actively stocked and provide excellent fishing, particularly during spring and fall when fish move shallow and feed aggressively. The musky fishery has produced fish over 50 inches, and Berlin is considered one of the top musky lakes in Ohio. Crappie fishing around submerged timber and brush in the upper arms is consistently productive.\n\nBerlin Lake State Wildlife Area provides several launch ramps and shore fishing access. The lake's location between Akron and Youngstown makes it accessible to a large population base, and the surrounding Amish country offers a unique cultural backdrop for fishing trips. The relatively low horsepower limits help maintain a peaceful atmosphere on the water.",
+    "type": "freshwater",
+    "rampCount": 5
+  },
+  {
+    "id": "atwood-lake",
+    "name": "Atwood Lake",
+    "lat": 40.55,
+    "lng": -81.3,
+    "radius": 0.05,
+    "acres": 1540,
+    "shorelineMiles": 28,
+    "maxDepth": 48,
+    "counties": [
+      "Carroll",
+      "Tuscarawas"
+    ],
+    "fishSpecies": [
+      "Musky",
+      "Saugeye",
+      "Crappie",
+      "Largemouth Bass",
+      "Channel Catfish",
+      "Bluegill"
+    ],
+    "nearestTowns": [
+      "Dellroy",
+      "Sherrodsville",
+      "New Philadelphia"
+    ],
+    "description": "Atwood Lake is a 1,540-acre reservoir in Carroll and Tuscarawas counties, part of the Muskingum Watershed Conservancy District system. The lake is best known for its musky fishery, which has produced some of the largest muskellunge caught in Ohio. The clear water and abundant forage base support healthy predator populations, making Atwood a destination for trophy hunters.\n\nSaugeye are stocked regularly and provide excellent angling opportunity, especially during spring and fall transitions when fish move to shallow structure. Crappie fishing is productive around the brush piles and timbered coves, with spring and late fall being the prime seasons. Largemouth bass respond well to finesse tactics in the clear water, and the lake holds a good population of 3- to 5-pound fish.\n\nAtwood Lake Park and the surrounding MWCD lands offer camping, cabins, a lodge, and well-maintained boat ramps. The Atwood Lake Resort provides upscale accommodations for anglers who prefer comfort after a day on the water. The rolling hills and rural setting of eastern Ohio's Amish country give the area a distinctive charm.",
+    "type": "freshwater",
+    "rampCount": 4
+  },
+  {
+    "id": "salt-fork-lake",
+    "name": "Salt Fork Lake",
+    "lat": 40.1,
+    "lng": -81.55,
+    "radius": 0.06,
+    "acres": 2952,
+    "shorelineMiles": 76,
+    "maxDepth": 55,
+    "counties": [
+      "Guernsey"
+    ],
+    "fishSpecies": [
+      "Musky",
+      "Saugeye",
+      "Largemouth Bass",
+      "Crappie",
+      "Channel Catfish",
+      "Bluegill"
+    ],
+    "nearestTowns": [
+      "Cambridge",
+      "Lore City"
+    ],
+    "description": "Salt Fork Lake is a 2,952-acre reservoir within Salt Fork State Park, Ohio's largest state park, in Guernsey County. The lake's 76 miles of irregular shoreline create an abundance of coves, points, and creek arms that hold excellent fish populations. Salt Fork is one of Ohio's premier musky lakes, with the state record having come from these waters.\n\nThe musky fishery draws dedicated anglers from across the region, with fish over 50 inches caught each year by those casting large jerkbaits and swimbaits along rock ledges and weed lines. Saugeye provide more consistent action and are targeted by trollers working crankbaits over the main lake basin. Largemouth bass and crappie are abundant in the timbered arms, making Salt Fork a true multi-species destination.\n\nSalt Fork State Park offers a full-service lodge, cabins, campgrounds, and multiple boat ramps. The lodge restaurant overlooking the lake provides a unique after-fishing dining experience. The park's extensive trail system, swimming beach, and golf course make Salt Fork popular with families who combine fishing with other outdoor activities.",
+    "type": "freshwater",
+    "rampCount": 5
+  },
+  {
+    "id": "seneca-lake-oh",
+    "name": "Seneca Lake",
+    "lat": 39.93,
+    "lng": -81.45,
+    "radius": 0.04,
+    "acres": 3550,
+    "shorelineMiles": 44,
+    "maxDepth": 50,
+    "counties": [
+      "Guernsey",
+      "Noble"
+    ],
+    "fishSpecies": [
+      "Saugeye",
+      "Largemouth Bass",
+      "Crappie",
+      "Channel Catfish",
+      "Bluegill"
+    ],
+    "nearestTowns": [
+      "Senecaville",
+      "Cambridge"
+    ],
+    "description": "Seneca Lake is a 3,550-acre Muskingum Watershed Conservancy District reservoir in Guernsey and Noble counties. The lake offers reliable fishing for saugeye, largemouth bass, and crappie in a scenic eastern Ohio setting. Seneca's clear water and moderate depth create conditions that favor sight-fishing for bass and trolling for saugeye.\n\nSaugeye are the most popular target, with the ODNR maintaining strong populations through regular stocking. Spring and fall produce the best saugeye catches, with fish holding along points and drop-offs near the old creek channel. Largemouth bass fishing is productive along the wooded shoreline and in the coves, while crappie stack up around brush piles and standing timber during the spawn.\n\nSenecaville Marina and several MWCD launch ramps provide access to the lake. Campgrounds and cabin facilities are available in the surrounding parkland. Seneca Lake's proximity to Salt Fork Lake and other MWCD properties makes it part of a productive eastern Ohio fishing circuit.",
+    "type": "freshwater",
+    "rampCount": 4
+  },
+  {
+    "id": "buckeye-lake",
+    "name": "Buckeye Lake",
+    "lat": 39.93,
+    "lng": -82.47,
+    "radius": 0.04,
+    "acres": 3100,
+    "shorelineMiles": 22,
+    "maxDepth": 18,
+    "counties": [
+      "Licking",
+      "Fairfield",
+      "Perry"
+    ],
+    "fishSpecies": [
+      "Saugeye",
+      "Largemouth Bass",
+      "Crappie",
+      "Channel Catfish",
+      "Bluegill",
+      "White Bass"
+    ],
+    "nearestTowns": [
+      "Buckeye Lake",
+      "Millersport",
+      "Hebron"
+    ],
+    "description": "Buckeye Lake is a 3,100-acre shallow reservoir spanning Licking, Fairfield, and Perry counties, originally built in the early 1800s as a feeder lake for the Ohio and Erie Canal. It is the oldest artificial lake in Ohio and has a rich history as a recreational destination. Despite its shallow maximum depth of 18 feet, the lake supports a productive fishery thanks to abundant nutrients and extensive weed growth.\n\nSaugeye are the primary predator species and are stocked regularly, providing good catches for trollers and jig anglers working the open basin. Crappie fishing around docks, weed edges, and submerged brush is excellent, with the spring spawn producing impressive catches of slabs. Largemouth bass thrive in the dense vegetation, and white bass provide fast action during their spring runs.\n\nBuckeye Lake State Park manages several launch ramps, and private marinas and docks line much of the shoreline. The lake's proximity to Columbus, about 30 miles to the east, makes it a popular weekend destination. The village of Buckeye Lake and Millersport offer restaurants and bait shops catering to anglers.",
+    "type": "freshwater",
+    "rampCount": 5
+  },
+  {
+    "id": "indian-lake-oh",
+    "name": "Indian Lake",
+    "lat": 40.65,
+    "lng": -83.75,
+    "radius": 0.05,
+    "acres": 5800,
+    "shorelineMiles": 29,
+    "maxDepth": 14,
+    "counties": [
+      "Logan"
+    ],
+    "fishSpecies": [
+      "Saugeye",
+      "Crappie",
+      "Largemouth Bass",
+      "Channel Catfish",
+      "White Bass",
+      "Bluegill"
+    ],
+    "nearestTowns": [
+      "Lakeview",
+      "Russells Point",
+      "Bellefontaine"
+    ],
+    "description": "Indian Lake is a 5,800-acre natural lake in Logan County that has been one of western Ohio's most popular fishing and recreation destinations for well over a century. Despite its shallow maximum depth of just 14 feet, the lake's large size and fertile water support impressive fish populations, particularly saugeye and crappie. The communities of Lakeview and Russells Point on its shores give Indian Lake a classic lakeside resort atmosphere.\n\nSaugeye fishing is the main attraction, with the ODNR stocking program maintaining excellent populations. Trolling and casting crankbaits over the broad flats produces consistent catches, and the fish grow quickly in the nutrient-rich water. Crappie and white bass provide additional action, with crappie holding around the docks and brush and white bass roaming the open water in schools during summer.\n\nIndian Lake State Park provides launch ramps and shore fishing access, and numerous private marinas and bait shops ring the lake. The shallow water means the lake can get rough quickly in wind, but it also warms early in spring, making Indian Lake one of the first productive fisheries each year in Ohio.",
+    "type": "freshwater",
+    "rampCount": 6
+  },
+  {
+    "id": "grand-lake-st-marys",
+    "name": "Grand Lake St. Marys",
+    "lat": 40.55,
+    "lng": -84.5,
+    "radius": 0.06,
+    "acres": 12600,
+    "shorelineMiles": 52,
+    "maxDepth": 7,
+    "counties": [
+      "Mercer",
+      "Auglaize"
+    ],
+    "fishSpecies": [
+      "Crappie",
+      "Channel Catfish",
+      "Largemouth Bass",
+      "Bluegill",
+      "Yellow Perch"
+    ],
+    "nearestTowns": [
+      "St. Marys",
+      "Celina",
+      "Montezuma"
+    ],
+    "description": "Grand Lake St. Marys is the largest inland lake in Ohio at 12,600 acres, located in Mercer and Auglaize counties in the western part of the state. Built in the 1840s as a canal feeder reservoir, this historically significant lake is remarkably shallow with a maximum depth of just 7 feet. Despite water quality challenges in recent years, the lake continues to support productive crappie and channel catfish populations.\n\nCrappie fishing is the primary draw, with the vast shallow flats and abundant brush piles holding large schools of fish. Channel catfish grow to impressive sizes in the fertile water, and bluegill and yellow perch provide steady panfish action. Largemouth bass are present along the shoreline vegetation and around docks and piers. The lake's immense size means there is always room to find productive water away from crowds.\n\nThe towns of Celina and St. Marys anchor opposite ends of the lake and offer full services including marinas, bait shops, restaurants, and lodging. Grand Lake State Park provides launch ramps and camping facilities. The annual Governor's Cup Regatta and other events make the lake a hub for the western Ohio lake community.",
+    "type": "freshwater",
+    "rampCount": 8
+  },
+  {
+    "id": "alum-creek-lake",
+    "name": "Alum Creek Lake",
+    "lat": 40.2,
+    "lng": -82.95,
+    "radius": 0.05,
+    "acres": 3387,
+    "shorelineMiles": 38,
+    "maxDepth": 55,
+    "counties": [
+      "Delaware"
+    ],
+    "fishSpecies": [
+      "Musky",
+      "Saugeye",
+      "Largemouth Bass",
+      "Crappie",
+      "Channel Catfish",
+      "Bluegill"
+    ],
+    "nearestTowns": [
+      "Delaware",
+      "Westerville"
+    ],
+    "description": "Alum Creek Lake is a 3,387-acre Army Corps of Engineers reservoir in Delaware County, just north of Columbus. The lake is one of the top musky fishing destinations in central Ohio, with the ODNR maintaining a robust stocking program that produces trophy-class fish. Its proximity to the Columbus metro area makes it one of the most heavily visited lakes in the state, yet fishing quality remains consistently strong.\n\nMusky anglers target the rocky points, weed edges, and deep structure along the main lake, with fish over 50 inches caught each year. Saugeye provide the most consistent predator fishing, responding well to trolling and vertical jigging over the old creek channel. Largemouth bass are abundant in the coves and along the wooded shoreline, and crappie fishing is productive in the upper arms where standing timber and brush piles hold fish.\n\nAlum Creek State Park offers a large beach, multiple launch ramps, and extensive camping facilities. The lake's central Ohio location makes it accessible from anywhere in the Columbus area within 30 minutes. The park's mountain bike trails and hiking paths provide additional recreation for anglers looking to explore beyond the water.",
+    "type": "freshwater",
+    "rampCount": 5
+  },
+  {
+    "id": "hoover-reservoir",
+    "name": "Hoover Reservoir",
+    "lat": 40.1,
+    "lng": -82.85,
+    "radius": 0.05,
+    "acres": 3272,
+    "shorelineMiles": 34,
+    "maxDepth": 50,
+    "counties": [
+      "Delaware",
+      "Franklin"
+    ],
+    "fishSpecies": [
+      "Saugeye",
+      "Largemouth Bass",
+      "Crappie",
+      "Channel Catfish",
+      "Musky",
+      "Bluegill"
+    ],
+    "nearestTowns": [
+      "Westerville",
+      "Sunbury"
+    ],
+    "description": "Hoover Reservoir is a 3,272-acre impoundment on Big Walnut Creek in Delaware and Franklin counties, serving as a primary drinking water supply for the city of Columbus. Despite its municipal water supply designation, the reservoir supports an excellent multi-species fishery and is one of the most popular fishing destinations in the Columbus metro area. Horsepower restrictions help maintain water quality and create a peaceful fishing atmosphere.\n\nSaugeye are the headliner species, stocked annually by the ODNR and growing quickly in the fertile water. The musky fishery has been gaining momentum, with quality fish caught along rocky shorelines and at the mouths of coves. Largemouth bass fishing is strong throughout the lake, with fish relating to docks, laydowns, and vegetation along the heavily wooded shoreline. Crappie concentrate in the upper reservoir arms during spring.\n\nSeveral launch ramps are maintained by the City of Columbus and local park districts. The reservoir's narrow, winding shape means there is always a protected bank to fish regardless of wind direction. Westerville and Sunbury offer convenient services, and the reservoir's location makes it a go-to after-work fishing spot for central Ohio anglers.",
+    "type": "freshwater",
+    "rampCount": 5
+  },
+  {
+    "id": "caesar-creek-lake",
+    "name": "Caesar Creek Lake",
+    "lat": 39.5,
+    "lng": -84.05,
+    "radius": 0.05,
+    "acres": 2830,
+    "shorelineMiles": 37,
+    "maxDepth": 90,
+    "counties": [
+      "Warren",
+      "Clinton",
+      "Greene"
+    ],
+    "fishSpecies": [
+      "Saugeye",
+      "Largemouth Bass",
+      "Crappie",
+      "Channel Catfish",
+      "Bluegill"
+    ],
+    "nearestTowns": [
+      "Waynesville",
+      "Harveysburg"
+    ],
+    "description": "Caesar Creek Lake is a 2,830-acre Army Corps of Engineers reservoir in Warren, Clinton, and Greene counties, notable for its exceptional water clarity and significant depth reaching 90 feet near the dam. The lake is one of the deepest in southwestern Ohio and offers a unique fishing experience with clear water that rewards finesse techniques and light line presentations.\n\nSaugeye are the primary predator species and are stocked regularly, providing excellent catches for anglers trolling crankbaits along the creek channel and jigging along rocky points. Largemouth bass fishing is productive in the coves and around the abundant laydowns, with the clear water making sight-fishing possible during spring. Crappie fishing peaks during the spawn when fish move to shallow brush in the creek arms.\n\nCaesar Creek State Park provides multiple launch ramps, camping, and a swimming beach. The lake is famous for its Ordovician fossil beds, and anglers often find trilobites and brachiopods along the exposed shale banks. The nearby village of Waynesville, known as the antique capital of the Midwest, adds a cultural dimension to fishing trips.",
+    "type": "freshwater",
+    "rampCount": 4
+  },
+  {
+    "id": "rocky-fork-lake",
+    "name": "Rocky Fork Lake",
+    "lat": 39.22,
+    "lng": -83.55,
+    "radius": 0.04,
+    "acres": 2080,
+    "shorelineMiles": 35,
+    "maxDepth": 55,
+    "counties": [
+      "Highland"
+    ],
+    "fishSpecies": [
+      "Saugeye",
+      "Largemouth Bass",
+      "Crappie",
+      "Channel Catfish",
+      "Bluegill"
+    ],
+    "nearestTowns": [
+      "Hillsboro"
+    ],
+    "description": "Rocky Fork Lake is a 2,080-acre reservoir in Highland County, surrounded by Rocky Fork State Park. The lake offers solid fishing for saugeye, largemouth bass, and crappie in a scenic southern Ohio setting. The wooded hillsides and clean water make Rocky Fork one of the more attractive fishing destinations in the region.\n\nSaugeye stocking by the ODNR keeps the predator fishery strong, and anglers catch quality fish by trolling the main lake and jigging points near the dam. Largemouth bass relate to the rocky shoreline, docks, and submerged brush, with the coves in the upper lake being especially productive during spring. Crappie fishing around brush piles and standing timber produces good catches from March through May.\n\nRocky Fork State Park offers a full-service campground, swimming beach, and multiple boat ramps. The North Shore Marina provides boat rental and supplies. The lake's location in southern Ohio's rolling hill country provides a quieter, more rural fishing experience compared to the busier lakes near the major metro areas.",
+    "type": "freshwater",
+    "rampCount": 4
+  },
+  {
+    "id": "deer-creek-lake",
+    "name": "Deer Creek Lake",
+    "lat": 39.62,
+    "lng": -83.28,
+    "radius": 0.04,
+    "acres": 1277,
+    "shorelineMiles": 17,
+    "maxDepth": 55,
+    "counties": [
+      "Fayette",
+      "Pickaway"
+    ],
+    "fishSpecies": [
+      "Saugeye",
+      "Largemouth Bass",
+      "Crappie",
+      "Channel Catfish",
+      "Bluegill"
+    ],
+    "nearestTowns": [
+      "Mount Sterling"
+    ],
+    "description": "Deer Creek Lake is a 1,277-acre reservoir in Fayette and Pickaway counties, nestled within Deer Creek State Park. The lake offers dependable fishing for saugeye and largemouth bass in a convenient location between Columbus and Chillicothe. The moderately deep basin reaching 55 feet provides thermal refuge for fish during summer and winter, supporting year-round angling opportunities.\n\nSaugeye are the featured species, stocked annually and growing well in the productive water. Spring and fall transitions produce the best saugeye action, with fish moving to shallow points and feeding aggressively. Largemouth bass fishing is solid along the brushy shoreline and in the creek arms, while crappie provide good catches around the standing timber and managed brush piles during their spring spawning migration.\n\nDeer Creek State Park offers a lodge with lake views, a campground, swimming beach, and multiple boat ramps. The lodge and conference center make it a popular destination for fishing weekends and family gatherings. The surrounding agricultural landscape and gentle hills of south-central Ohio provide a peaceful backdrop for a day on the water.",
+    "type": "freshwater",
+    "rampCount": 3
+  },
+  {
+    "id": "ohio-river",
+    "name": "Ohio River",
+    "lat": 39.0,
+    "lng": -82.0,
+    "radius": 0.4,
+    "acres": 0,
+    "shorelineMiles": 451,
+    "maxDepth": 80,
+    "counties": [
+      "Columbiana",
+      "Jefferson",
+      "Belmont",
+      "Monroe",
+      "Washington",
+      "Meigs",
+      "Gallia",
+      "Lawrence",
+      "Scioto",
+      "Adams",
+      "Brown",
+      "Clermont",
+      "Hamilton"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Smallmouth Bass",
+      "Channel Catfish",
+      "Flathead Catfish",
+      "Sauger",
+      "Hybrid Striped Bass",
+      "Freshwater Drum",
+      "Blue Catfish"
+    ],
+    "nearestTowns": [
+      "Cincinnati",
+      "Portsmouth",
+      "Marietta",
+      "Steubenville"
+    ],
+    "description": "The Ohio River forms the entire 451-mile southern border of Ohio, flowing from the Pennsylvania state line at the eastern tip to the Indiana border near Cincinnati. This mighty river is one of the most productive fisheries in the eastern United States, supporting an incredible diversity of species across its lock-and-dam pools. The tailwater areas below each dam concentrate fish and create world-class fishing zones for sauger, hybrid striped bass, and catfish.\n\nCatfishing is legendary on the Ohio River, with channel catfish, flathead catfish, and an expanding population of blue catfish providing year-round action. Flatheads exceeding 50 pounds are caught each year from the deep holes and rock ledges. Sauger and hybrid striped bass are targeted in the dam tailwaters, especially during fall and winter when fish stack up in the turbulent discharge. Smallmouth and largemouth bass hold along the rocky banks, wing dams, and backwater areas throughout the river.\n\nPublic boat ramps are available in every Ohio River county, maintained by ODNR, the Army Corps of Engineers, and local municipalities. Cincinnati's riverfront, the historic town of Marietta at the Muskingum River confluence, and Portsmouth at the Scioto River mouth are major fishing hubs. The Ohio River's commercial navigation requires anglers to watch for barge traffic, but the fishing quality along this massive waterway is unmatched in the state.",
+    "type": "freshwater",
+    "rampCount": 40
+  },
+  {
+    "id": "lake-milton",
+    "name": "Lake Milton",
+    "lat": 41.1,
+    "lng": -81.0,
+    "radius": 0.04,
+    "acres": 1685,
+    "shorelineMiles": 18,
+    "maxDepth": 25,
+    "counties": [
+      "Mahoning",
+      "Portage"
+    ],
+    "fishSpecies": [
+      "Walleye",
+      "Largemouth Bass",
+      "Crappie",
+      "Bluegill",
+      "Channel Catfish"
+    ],
+    "nearestTowns": [
+      "Lake Milton",
+      "Craig Beach"
+    ],
+    "description": "Lake Milton is a 1,685-acre reservoir in Mahoning and Portage counties, managed as Lake Milton State Park. The lake provides reliable walleye and bass fishing for anglers in the Youngstown and Akron areas. The shallow, weedy basin creates excellent warmwater habitat and supports strong populations of game fish and panfish.\n\nWalleye are the top predator in the lake, stocked periodically and supplemented by natural reproduction. Trolling crankbaits and pulling worm harnesses over the main basin produces consistent catches from spring through fall. Largemouth bass thrive in the extensive weed beds and along the dock-lined shoreline, and crappie fishing is productive around brush and standing timber in the lake's coves.\n\nLake Milton State Park maintains launch ramps and shore fishing areas, and the small lakeside communities of Lake Milton and Craig Beach offer a casual, family-friendly atmosphere. The lake is popular with sailboats and personal watercraft on summer weekends, so early morning and evening fishing trips tend to be most productive during peak season.",
+    "type": "freshwater",
+    "rampCount": 3
+  },
+  {
+    "id": "pleasant-hill-lake",
+    "name": "Pleasant Hill Lake",
+    "lat": 40.6,
+    "lng": -82.33,
+    "radius": 0.04,
+    "acres": 850,
+    "shorelineMiles": 13,
+    "maxDepth": 56,
+    "counties": [
+      "Ashland",
+      "Richland"
+    ],
+    "fishSpecies": [
+      "Saugeye",
+      "Largemouth Bass",
+      "Crappie",
+      "Channel Catfish",
+      "Bluegill",
+      "Musky"
+    ],
+    "nearestTowns": [
+      "Perrysville",
+      "Loudonville"
+    ],
+    "description": "Pleasant Hill Lake is an 850-acre reservoir in Ashland and Richland counties, situated at the gateway to the Mohican State Park area. The lake's significant depth of 56 feet and clear water create ideal conditions for saugeye and musky, and the surrounding forested hills make it one of the most scenic small lakes in Ohio. The Mohican region's reputation as a canoeing and outdoor recreation hub brings visitors from across the state.\n\nSaugeye are the primary predator species, stocked regularly and growing well in the clear, deep water. The musky fishery adds an element of trophy potential, with fish exceeding 40 inches caught by dedicated anglers working the rocky points and weed lines. Largemouth bass fishing is productive in the coves and along the timbered shoreline, while crappie concentrate in the upper arms during spring.\n\nPleasant Hill Lake Park provides camping, a swimming beach, and boat launch facilities. The nearby town of Loudonville, the canoe capital of Ohio, offers outfitters, restaurants, and lodging. Mohican State Park's old-growth hemlock gorge and extensive trail system make Pleasant Hill Lake an excellent destination for anglers who enjoy combining fishing with hiking and exploring the outdoors.",
+    "type": "freshwater",
+    "rampCount": 3
+  }
+]

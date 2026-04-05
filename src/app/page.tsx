@@ -12,6 +12,9 @@ import { floridaLakes } from "@/data/florida-lakes";
 import { michiganLakes } from "@/data/michigan-lakes";
 import { minnesotaLakes } from "@/data/minnesota-lakes";
 import { northCarolinaLakes } from "@/data/north-carolina-lakes";
+import { newYorkLakes } from "@/data/new-york-lakes";
+import { illinoisLakes } from "@/data/illinois-lakes";
+import { ohioLakes } from "@/data/ohio-lakes";
 import AdSlot from "@/components/AdSlot";
 import CletusAd from "@/components/CletusAd";
 import EmailCapture from "@/components/EmailCapture";
@@ -33,6 +36,9 @@ export default function Home() {
   const miCount = useMemo(() => unified.filter((r) => r.state === "MI").length, []);
   const mnCount = useMemo(() => unified.filter((r) => r.state === "MN").length, []);
   const ncCount = useMemo(() => unified.filter((r) => r.state === "NC").length, []);
+  const nyCount = useMemo(() => unified.filter((r) => r.state === "NY").length, []);
+  const ilCount = useMemo(() => unified.filter((r) => r.state === "IL").length, []);
+  const ohCount = useMemo(() => unified.filter((r) => r.state === "OH").length, []);
 
   // Search suggestions
   const suggestions = useMemo(() => {
@@ -49,6 +55,18 @@ export default function Home() {
     if ("michigan".includes(q)) results.push({ type: "State", label: "Michigan", href: "/michigan" });
     if ("minnesota".includes(q)) results.push({ type: "State", label: "Minnesota", href: "/minnesota" });
     if ("north carolina".includes(q)) results.push({ type: "State", label: "North Carolina", href: "/north-carolina" });
+    if ("new york".includes(q)) results.push({ type: "State", label: "New York", href: "/new-york" });
+    if ("illinois".includes(q)) results.push({ type: "State", label: "Illinois", href: "/illinois" });
+    if ("ohio".includes(q)) results.push({ type: "State", label: "Ohio", href: "/ohio" });
+    newYorkLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
+      results.push({ type: "Lake", label: `${l.name} (NY)`, href: `/new-york/lakes/${l.id}` });
+    });
+    illinoisLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
+      results.push({ type: "Lake", label: `${l.name} (IL)`, href: `/illinois/lakes/${l.id}` });
+    });
+    ohioLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
+      results.push({ type: "Lake", label: `${l.name} (OH)`, href: `/ohio/lakes/${l.id}` });
+    });
     michiganLakes.filter((l) => l.name.toLowerCase().includes(q)).slice(0, 3).forEach((l) => {
       results.push({ type: "Lake", label: `${l.name} (MI)`, href: `/michigan/lakes/${l.id}` });
     });
@@ -138,6 +156,9 @@ export default function Home() {
           <Link href="/michigan" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#003366" }}>Michigan ({miCount})</Link>
           <Link href="/minnesota" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#003865" }}>Minnesota ({mnCount})</Link>
           <Link href="/north-carolina" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#4B0082" }}>N. Carolina ({ncCount})</Link>
+          <Link href="/new-york" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#1C2951" }}>New York ({nyCount})</Link>
+          <Link href="/illinois" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#5C4033" }}>Illinois ({ilCount})</Link>
+          <Link href="/ohio" className="text-white font-bold px-5 py-2.5 rounded-lg transition shadow-sm text-sm hover:opacity-90" style={{ backgroundColor: "#C41E3A" }}>Ohio ({ohCount})</Link>
           <span className="text-gray-400 font-medium px-5 py-2.5 text-sm">More states coming</span>
         </div>
       </section>
@@ -173,6 +194,9 @@ export default function Home() {
             { name: "Michigan", href: "/michigan", count: miCount, suffix: "", lakes: `Lake Michigan, Lake Huron, Torch Lake, Houghton Lake, and ${michiganLakes.length - 4}+ more` },
             { name: "Minnesota", href: "/minnesota", count: mnCount, suffix: "", lakes: `Mille Lacs, Lake Vermilion, Leech Lake, Minnetonka, and ${minnesotaLakes.length - 4}+ more` },
             { name: "North Carolina", href: "/north-carolina", count: ncCount, suffix: "", lakes: `Lake Norman, Jordan Lake, Pamlico Sound, Falls Lake, and ${northCarolinaLakes.length - 4}+ more` },
+            { name: "New York", href: "/new-york", count: nyCount, suffix: "", lakes: `Lake George, Finger Lakes, Lake Ontario, Lake Champlain, and ${newYorkLakes.length - 4}+ more` },
+            { name: "Illinois", href: "/illinois", count: ilCount, suffix: "", lakes: `Lake Michigan, Rend Lake, Carlyle Lake, Mississippi River, and ${illinoisLakes.length - 4}+ more` },
+            { name: "Ohio", href: "/ohio", count: ohCount, suffix: "", lakes: `Lake Erie, Pymatuning, Mosquito Lake, Ohio River, and ${ohioLakes.length - 4}+ more` },
           ].map((s) => (
             <Link key={s.name} href={s.href} className="group bg-white border border-gray-200 rounded-xl p-6 shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all border-l-4 border-l-water">
               <div className="flex items-start justify-between mb-2">
@@ -190,11 +214,14 @@ export default function Home() {
           <p className="font-[Cabin] font-bold text-charcoal text-sm mb-3">Coming Soon</p>
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-2">
             {[
-              { state: "New York", count: 1564 },
-              { state: "Illinois", count: 1451 },
               { state: "Washington", count: 1352 },
+              { state: "Alabama", count: 1200 },
+              { state: "Georgia", count: 1100 },
               { state: "Maryland", count: 1010 },
-              { state: "California", count: 896 },
+              { state: "Oregon", count: 950 },
+              { state: "Wisconsin", count: 920 },
+              { state: "Kentucky", count: 900 },
+              { state: "Tennessee", count: 880 },
             ].map((s) => (
               <div key={s.state} className="bg-white border border-gray-200 rounded-lg p-2.5 text-center opacity-60">
                 <p className="font-bold text-charcoal text-sm">{s.state}</p>

@@ -1,0 +1,498 @@
+[
+  {
+    "id": "rend-lake",
+    "name": "Rend Lake",
+    "lat": 38.05,
+    "lng": -88.98,
+    "radius": 0.12,
+    "acres": 18900,
+    "shorelineMiles": 162,
+    "maxDepth": 35,
+    "counties": [
+      "Franklin",
+      "Jefferson"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "Bluegill",
+      "Channel Catfish",
+      "White Bass",
+      "Walleye"
+    ],
+    "nearestTowns": [
+      "Benton",
+      "Mount Vernon",
+      "Sesser"
+    ],
+    "description": "Rend Lake is the largest man-made lake in southern Illinois, spanning 18,900 acres across Franklin and Jefferson counties. Built by the U.S. Army Corps of Engineers on the Big Muddy River, the lake serves as a regional water supply and one of the top fishing destinations in the Midwest. The extensive shallow flats and flooded timber provide outstanding crappie and largemouth bass habitat, drawing anglers from across several states.\n\nThe lake's 162 miles of shoreline offer endless structure for bass and crappie, while open-water trollers target white bass and walleye. Rend Lake has produced multiple state-record catches and consistently ranks among Illinois' best fishing lakes. The surrounding Wayne Fitzgerrell State Recreation Area and Rend Lake Resort provide full-service amenities, making it an ideal base for multi-day fishing trips.\n\nMultiple well-maintained boat ramps are scattered around the reservoir, with the south sanbar and dam area ramps being the most popular. Spring crappie runs in March and April bring the heaviest angler traffic, but fall fishing for bass along rocky points can be equally rewarding.",
+    "type": "freshwater",
+    "rampCount": 14
+  },
+  {
+    "id": "carlyle-lake",
+    "name": "Carlyle Lake",
+    "lat": 38.65,
+    "lng": -89.35,
+    "radius": 0.12,
+    "acres": 26000,
+    "shorelineMiles": 83,
+    "maxDepth": 35,
+    "counties": [
+      "Clinton",
+      "Fayette",
+      "Bond"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "White Bass",
+      "Channel Catfish",
+      "Bluegill",
+      "Walleye",
+      "Sauger"
+    ],
+    "nearestTowns": [
+      "Carlyle",
+      "Breese"
+    ],
+    "description": "Carlyle Lake is the largest man-made lake in Illinois at 26,000 acres, impounded on the Kaskaskia River in Clinton, Fayette, and Bond counties. Created by the U.S. Army Corps of Engineers for flood control, the reservoir has become one of the state's most popular fishing and sailing destinations. Its vast open water and relatively shallow basin make it a top producer of crappie and white bass.\n\nThe lake is especially renowned for its spring white bass runs, when enormous schools push into tributaries and anglers can fill coolers in short order. Crappie fishing is equally productive, with brush piles and standing timber in the upper arms holding fish from early spring through fall. Walleye and sauger provide additional opportunity, particularly near the dam and in deeper channel areas during cooler months.\n\nEldon Hazlet State Recreation Area on the north shore and South Shore State Park offer excellent launch facilities and camping. The lake's proximity to St. Louis, about 50 miles to the west, makes it a popular weekend getaway for metro-area anglers seeking big water and reliable fishing.",
+    "type": "freshwater",
+    "rampCount": 12
+  },
+  {
+    "id": "lake-shelbyville",
+    "name": "Lake Shelbyville",
+    "lat": 39.4,
+    "lng": -88.8,
+    "radius": 0.1,
+    "acres": 11100,
+    "shorelineMiles": 172,
+    "maxDepth": 60,
+    "counties": [
+      "Shelby",
+      "Moultrie"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "Channel Catfish",
+      "Bluegill",
+      "Musky",
+      "White Bass",
+      "Walleye"
+    ],
+    "nearestTowns": [
+      "Shelbyville",
+      "Sullivan"
+    ],
+    "description": "Lake Shelbyville is the premier outdoor recreation hub of central Illinois, covering 11,100 acres with an impressive 172 miles of shoreline across Shelby and Moultrie counties. Built on the Kaskaskia River by the Army Corps of Engineers, the lake's highly irregular shape creates countless coves, points, and creek arms that provide exceptional fish habitat and bank-fishing access.\n\nThe lake is one of the few waters in Illinois with a musky fishery, and trophy-class muskellunge are caught each year by anglers casting large swimbaits and jerkbaits along rocky shorelines. Crappie and largemouth bass are the bread-and-butter species, with spring brush-pile fishing producing big catches of slabs. Walleye and white bass add diversity, especially during their spring spawning runs up tributary creeks.\n\nEagle Creek State Park and Wolf Creek State Park flank the reservoir and offer well-maintained ramps, marinas, and campgrounds. The lake's central location makes it accessible from Champaign, Decatur, and Springfield, and it sees heavy recreational boating traffic on summer weekends.",
+    "type": "freshwater",
+    "rampCount": 10
+  },
+  {
+    "id": "clinton-lake",
+    "name": "Clinton Lake",
+    "lat": 40.15,
+    "lng": -88.85,
+    "radius": 0.06,
+    "acres": 4895,
+    "shorelineMiles": 118,
+    "maxDepth": 45,
+    "counties": [
+      "DeWitt"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "Channel Catfish",
+      "Bluegill",
+      "Musky",
+      "Walleye"
+    ],
+    "nearestTowns": [
+      "Clinton",
+      "DeWitt"
+    ],
+    "description": "Clinton Lake is a 4,895-acre cooling reservoir for the Clinton Power Station nuclear plant in DeWitt County. The warm water discharge from the power plant creates a unique fishery where fish grow faster than in typical central Illinois waters, producing trophy-class largemouth bass and muskellunge. The lake's 118 miles of shoreline relative to its modest acreage reflects an extremely irregular shape with numerous fingers and coves.\n\nThe warm discharge area near the power plant draws fish year-round and is especially productive during cold-weather months when bass and catfish congregate in the thermal plume. Clinton Lake is part of the Illinois musky stocking program and regularly produces fish over 40 inches. Crappie and walleye fishing is also strong, with brush piles and deep creek channels holding good numbers.\n\nClinton Lake State Recreation Area provides boat launch facilities and shoreline access. The lake sits between Bloomington-Normal and Decatur, making it an easy day trip for anglers across central Illinois.",
+    "type": "freshwater",
+    "rampCount": 5
+  },
+  {
+    "id": "lake-springfield",
+    "name": "Lake Springfield",
+    "lat": 39.72,
+    "lng": -89.58,
+    "radius": 0.05,
+    "acres": 4234,
+    "shorelineMiles": 52,
+    "maxDepth": 35,
+    "counties": [
+      "Sangamon"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Channel Catfish",
+      "Crappie",
+      "Bluegill",
+      "Hybrid Striped Bass"
+    ],
+    "nearestTowns": [
+      "Springfield"
+    ],
+    "description": "Lake Springfield is a 4,234-acre reservoir on the south side of Illinois' capital city, serving as both the municipal water supply and a popular urban fishing destination. The lake was created in the 1930s and has been actively managed by the city's Office of Public Utilities, which maintains fish habitat and stocks hybrid striped bass to provide anglers with a hard-fighting sportfish.\n\nThe hybrid striped bass fishery sets Lake Springfield apart from other central Illinois lakes. These aggressive fish patrol open water and can be caught schooling on the surface during summer mornings and evenings. Largemouth bass, crappie, and channel catfish round out the fishery, with good structure fishing along the old creek channels and submerged brush.\n\nThe lake features several public boat ramps and a full-service marina. Its location within Springfield city limits makes it one of the most accessible quality fishing lakes in the state, and it sees year-round angling pressure from local residents and visiting anglers alike.",
+    "type": "freshwater",
+    "rampCount": 5
+  },
+  {
+    "id": "lake-decatur",
+    "name": "Lake Decatur",
+    "lat": 39.82,
+    "lng": -88.9,
+    "radius": 0.04,
+    "acres": 2800,
+    "shorelineMiles": 22,
+    "maxDepth": 25,
+    "counties": [
+      "Macon"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Channel Catfish",
+      "Crappie",
+      "Bluegill",
+      "White Bass"
+    ],
+    "nearestTowns": [
+      "Decatur"
+    ],
+    "description": "Lake Decatur is a 2,800-acre reservoir on the Sangamon River that serves as the primary water supply for the city of Decatur in Macon County. The lake underwent a major dredging and renovation project that deepened the basin and improved water quality, resulting in a revitalized fishery that now produces quality largemouth bass and channel catfish.\n\nWhite bass provide fast action during their spring spawning runs up the Sangamon River arm, and crappie fishing around bridge pilings and submerged structure can be productive throughout the year. The lake's urban setting means convenient access to bait shops, restaurants, and lodging within minutes of the water.\n\nSeveral public ramps provide boat access around the lake, and the Decatur Park District maintains shoreline fishing areas and walking trails. Lake Decatur is a solid option for central Illinois anglers looking for a productive fishery close to home.",
+    "type": "freshwater",
+    "rampCount": 4
+  },
+  {
+    "id": "lake-of-egypt",
+    "name": "Lake of Egypt",
+    "lat": 37.68,
+    "lng": -89.02,
+    "radius": 0.05,
+    "acres": 2300,
+    "shorelineMiles": 93,
+    "maxDepth": 45,
+    "counties": [
+      "Williamson"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Crappie",
+      "Bluegill",
+      "Channel Catfish",
+      "Striped Bass"
+    ],
+    "nearestTowns": [
+      "Marion",
+      "Herrin",
+      "Crab Orchard"
+    ],
+    "description": "Lake of Egypt is a 2,300-acre gem in southern Illinois' Williamson County, originally built as a cooling lake for a coal-fired power plant. The warm water discharge creates growing conditions rarely found this far north, producing trophy largemouth bass and a unique striped bass fishery. With 93 miles of shoreline packed into its relatively small surface area, the lake is characterized by dozens of narrow fingers and steep-sided coves.\n\nThe warm discharge area is a winter fishing hotspot, drawing bass, catfish, and striped bass into concentrated zones where the water stays comfortable even in January. During summer, the main lake basin offers excellent crappie fishing around submerged brush and standing timber in the creek arms. The striped bass fishery provides an exciting alternative, with fish regularly exceeding 10 pounds.\n\nLake of Egypt is a private lake with controlled access, which helps keep fishing pressure manageable and water quality high. The surrounding rolling hills of southern Illinois provide a scenic backdrop, and the lake's proximity to Marion and the Crab Orchard National Wildlife Refuge makes it part of a larger outdoor recreation region.",
+    "type": "freshwater",
+    "rampCount": 3
+  },
+  {
+    "id": "kinkaid-lake",
+    "name": "Kinkaid Lake",
+    "lat": 37.82,
+    "lng": -89.42,
+    "radius": 0.05,
+    "acres": 2750,
+    "shorelineMiles": 82,
+    "maxDepth": 75,
+    "counties": [
+      "Jackson"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Bluegill",
+      "Channel Catfish",
+      "Crappie",
+      "Musky"
+    ],
+    "nearestTowns": [
+      "Murphysboro",
+      "Carbondale"
+    ],
+    "description": "Kinkaid Lake is a 2,750-acre reservoir nestled in the hills of Jackson County near the edge of the Shawnee National Forest. Known for its exceptionally clear water and scenic bluffs, Kinkaid is widely regarded as one of the most beautiful lakes in Illinois. The lake reaches depths of 75 feet, making it one of the deepest impoundments in the state.\n\nThe clear water and rocky structure support an excellent largemouth bass fishery, with sight-fishing possible in spring along gravel banks and rocky points. Kinkaid is also part of the Illinois musky stocking program, and the lake produces legitimate trophy muskellunge each season. Bluegill and crappie provide steady panfish action in the coves and around submerged timber.\n\nThe Shawnee National Forest setting gives Kinkaid Lake a wilderness feel uncommon in Illinois. Several ramps provide access, and the surrounding area near Murphysboro and Carbondale offers lodging and services. The lake's water clarity and depth make it a favorite among scuba divers as well as anglers.",
+    "type": "freshwater",
+    "rampCount": 4
+  },
+  {
+    "id": "forbes-lake",
+    "name": "Forbes Lake",
+    "lat": 40.15,
+    "lng": -89.4,
+    "radius": 0.04,
+    "acres": 585,
+    "shorelineMiles": 18,
+    "maxDepth": 25,
+    "counties": [
+      "Mason"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Channel Catfish",
+      "Bluegill",
+      "Redear Sunfish",
+      "Crappie"
+    ],
+    "nearestTowns": [
+      "Havana",
+      "Bath"
+    ],
+    "description": "Forbes Lake is a 585-acre state-managed lake in Mason County, part of the Stephen A. Forbes State Recreation Area. Despite its modest size, the lake offers quality fishing for largemouth bass and panfish, benefiting from active habitat management by the Illinois Department of Natural Resources. The lake's timber-lined coves and managed brush piles concentrate fish and make locating them straightforward.\n\nRedear sunfish are a standout species here, with Forbes Lake producing some of the best redear fishing in central Illinois. Big bluegill and quality crappie add to the panfish opportunities, while largemouth bass in the 3- to 5-pound range are caught regularly by anglers working the shoreline cover. Channel catfish provide additional variety for anglers soaking cut bait on the bottom.\n\nThe state recreation area surrounding the lake offers camping, hiking, and picnicking facilities. The small-lake atmosphere and quiet surroundings make Forbes a relaxing alternative to the larger, more crowded reservoirs in the region.",
+    "type": "freshwater",
+    "rampCount": 2
+  },
+  {
+    "id": "sam-dale-lake",
+    "name": "Sam Dale Lake",
+    "lat": 38.45,
+    "lng": -88.15,
+    "radius": 0.03,
+    "acres": 194,
+    "shorelineMiles": 6,
+    "maxDepth": 25,
+    "counties": [
+      "Wayne"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Bluegill",
+      "Channel Catfish",
+      "Redear Sunfish"
+    ],
+    "nearestTowns": [
+      "Johnsonville",
+      "Wayne City"
+    ],
+    "description": "Sam Dale Lake is a 194-acre impoundment in Wayne County, managed as part of the Sam Dale Lake State Fish and Wildlife Area. This small, quiet lake offers excellent fishing for largemouth bass and panfish in a peaceful rural setting. The lake benefits from limited pressure and active management, resulting in a healthy fish population with good size structure.\n\nBluegill and redear sunfish are the primary panfish targets, and Sam Dale produces quality-sized specimens for anglers using small jigs, worms, or crickets around the shoreline brush. Largemouth bass in the lake respond well to soft plastics and spinnerbaits fished along the wooded banks and in the coves. Channel catfish provide nighttime action for anglers fishing from the bank.\n\nThe surrounding state property offers primitive camping, hiking trails, and hunting opportunities. Sam Dale Lake is an ideal destination for anglers who prefer solitude and a small-lake experience over the crowds of Illinois' larger reservoirs.",
+    "type": "freshwater",
+    "rampCount": 1
+  },
+  {
+    "id": "lake-sara",
+    "name": "Lake Sara",
+    "lat": 39.18,
+    "lng": -88.98,
+    "radius": 0.04,
+    "acres": 660,
+    "shorelineMiles": 15,
+    "maxDepth": 25,
+    "counties": [
+      "Effingham"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Channel Catfish",
+      "Bluegill",
+      "Crappie"
+    ],
+    "nearestTowns": [
+      "Effingham"
+    ],
+    "description": "Lake Sara is a 660-acre reservoir located just outside Effingham in central Illinois, serving as both the city's water supply and a popular recreational fishery. The lake features clear water and well-developed shoreline habitat, making it a reliable producer of largemouth bass and quality panfish. Its convenient location at the crossroads of Interstates 57 and 70 makes it one of the most accessible lakes in the region.\n\nLargemouth bass fishing is the main draw, with the lake producing fish in the 3- to 6-pound range for anglers working docks, laydowns, and rocky banks. Crappie concentrate around brush piles and submerged structure, particularly during spring, while channel catfish provide consistent action for bait anglers throughout the warmer months.\n\nThe Lake Sara community maintains the shoreline and access areas, and several residential docks and ramps ring the lake. Effingham's hotels, restaurants, and services are just minutes away, making Lake Sara a convenient stop for traveling anglers passing through central Illinois.",
+    "type": "freshwater",
+    "rampCount": 2
+  },
+  {
+    "id": "lake-mattoon",
+    "name": "Lake Mattoon",
+    "lat": 39.42,
+    "lng": -88.4,
+    "radius": 0.04,
+    "acres": 891,
+    "shorelineMiles": 20,
+    "maxDepth": 25,
+    "counties": [
+      "Coles"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Channel Catfish",
+      "Bluegill",
+      "Crappie",
+      "Walleye"
+    ],
+    "nearestTowns": [
+      "Mattoon"
+    ],
+    "description": "Lake Mattoon is an 891-acre reservoir in Coles County that serves as the water supply for the city of Mattoon. The lake has benefited from active fisheries management including walleye stocking, giving it a species diversity uncommon in lakes this size in east-central Illinois. Submerged timber, old roadbeds, and brush piles provide ample fish-holding structure throughout the basin.\n\nLargemouth bass and crappie are the most popular targets, with good catches reported around the timbered coves and along riprap banks. The walleye fishery adds an exciting dimension, with fish caught trolling crankbaits over the old creek channel and near the dam. Channel catfish grow to respectable sizes in the fertile water and provide reliable action for bait anglers.\n\nThe lake offers public ramps and a marina with boat rental, making it accessible to anglers without their own watercraft. The surrounding park area includes picnic shelters and walking trails, and Mattoon's amenities are a short drive from the water.",
+    "type": "freshwater",
+    "rampCount": 3
+  },
+  {
+    "id": "mississippi-river-il",
+    "name": "Mississippi River (Illinois)",
+    "lat": 39.0,
+    "lng": -90.3,
+    "radius": 0.5,
+    "acres": 0,
+    "shorelineMiles": 581,
+    "maxDepth": 200,
+    "counties": [
+      "Jo Daviess",
+      "Carroll",
+      "Whiteside",
+      "Rock Island",
+      "Henderson",
+      "Hancock",
+      "Adams",
+      "Pike",
+      "Calhoun",
+      "Jersey",
+      "Madison",
+      "St. Clair",
+      "Monroe",
+      "Randolph",
+      "Jackson",
+      "Union",
+      "Alexander"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Smallmouth Bass",
+      "Channel Catfish",
+      "Flathead Catfish",
+      "Bluegill",
+      "Crappie",
+      "Walleye",
+      "Sauger",
+      "White Bass",
+      "Freshwater Drum"
+    ],
+    "nearestTowns": [
+      "Grafton",
+      "Alton",
+      "Quincy",
+      "Rock Island",
+      "Galena",
+      "Cairo"
+    ],
+    "description": "The Mighty Mississippi forms the entire 581-mile western border of Illinois, providing an extraordinary diversity of fishing opportunities from the bluff country of Jo Daviess County to the southern confluence with the Ohio River at Cairo. The lock-and-dam system creates a series of navigable pools, each with its own character, offering tailwater fishing for walleye and sauger below the dams and backwater fishing for bass, crappie, and panfish in the floodplain lakes and sloughs.\n\nThe upper Mississippi pools near the Quad Cities and Galena are nationally recognized for smallmouth bass and walleye fishing, with rocky wing dams and current breaks holding impressive numbers of fish. Further south, the river broadens and the backwater complexes near Grafton and the Illinois River confluence create world-class habitat for largemouth bass, crappie, and monster flathead catfish. The river's catfish population is legendary, with channel catfish, flathead catfish, and blue catfish all available to anglers willing to anchor in the current.\n\nPublic boat ramps are maintained along the entire Illinois bank by the Army Corps of Engineers, state agencies, and local municipalities. River fishing requires awareness of commercial barge traffic, fluctuating water levels, and current conditions, but anglers who learn to read the river are rewarded with some of the most productive and diverse fishing in the Midwest.",
+    "type": "freshwater",
+    "rampCount": 45
+  },
+  {
+    "id": "illinois-river",
+    "name": "Illinois River",
+    "lat": 40.5,
+    "lng": -89.6,
+    "radius": 0.3,
+    "acres": 0,
+    "shorelineMiles": 273,
+    "maxDepth": 40,
+    "counties": [
+      "LaSalle",
+      "Putnam",
+      "Bureau",
+      "Marshall",
+      "Woodford",
+      "Peoria",
+      "Tazewell",
+      "Fulton",
+      "Mason",
+      "Cass",
+      "Morgan",
+      "Scott",
+      "Pike",
+      "Calhoun",
+      "Jersey"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Channel Catfish",
+      "Flathead Catfish",
+      "Crappie",
+      "White Bass",
+      "Sauger",
+      "Bluegill",
+      "Carp"
+    ],
+    "nearestTowns": [
+      "Peoria",
+      "Peru",
+      "Starved Rock",
+      "Beardstown",
+      "Havana"
+    ],
+    "description": "The Illinois River is one of the most important waterways in the Midwest, flowing 273 miles through the heart of central Illinois from its origin near Peru to its confluence with the Mississippi River near Grafton. The river passes through the scenic Starved Rock area, the Peoria Lakes reach, and a vast floodplain of backwater lakes and wetlands that provide outstanding fishing habitat for a wide range of species.\n\nThe backwater lakes along the Illinois River, including Chautauqua National Wildlife Refuge and the Anderson Lake complex, hold tremendous populations of largemouth bass, crappie, and bluegill. Spring flooding connects these backwaters to the main river, allowing fish to move between habitats and supporting naturally reproducing populations. Flathead catfish exceeding 50 pounds are caught from the deeper holes, and sauger fishing below the dams at Peoria and Starved Rock is popular during fall and winter.\n\nThe river is fully navigable with commercial barge traffic, so anglers must exercise caution and understand navigation rules. Numerous public ramps are available from Peru to Beardstown, and the Peoria area offers the greatest concentration of marinas and launch facilities. The Illinois River valley's rich natural heritage and productive fishery make it a cornerstone of the state's angling tradition.",
+    "type": "freshwater",
+    "rampCount": 30
+  },
+  {
+    "id": "ohio-river-il",
+    "name": "Ohio River (Illinois)",
+    "lat": 37.2,
+    "lng": -88.6,
+    "radius": 0.2,
+    "acres": 0,
+    "shorelineMiles": 130,
+    "maxDepth": 80,
+    "counties": [
+      "Massac",
+      "Pope",
+      "Hardin",
+      "Gallatin",
+      "White",
+      "Wabash"
+    ],
+    "fishSpecies": [
+      "Largemouth Bass",
+      "Smallmouth Bass",
+      "Channel Catfish",
+      "Flathead Catfish",
+      "Sauger",
+      "Crappie",
+      "Drum"
+    ],
+    "nearestTowns": [
+      "Metropolis",
+      "Shawneetown",
+      "Cave-in-Rock"
+    ],
+    "description": "The Ohio River forms the southeastern border of Illinois for 130 miles, from the Wabash River confluence down to Cairo where it meets the Mississippi. This stretch of the Ohio flows through some of the most rugged and scenic terrain in Illinois, passing beneath the bluffs of Hardin County and the historic river town of Cave-in-Rock. The deep pools and swift current create excellent habitat for catfish, sauger, and bass.\n\nFlathead catfish are the marquee species on this reach, with fish exceeding 40 pounds taken from deep holes and along submerged rock ledges. Sauger fishing below Smithland Dam is productive during fall and winter, and smallmouth bass hold along the rocky banks and wing dams throughout the river. The backwater areas near Metropolis and Shawneetown provide calmer water for crappie and largemouth bass.\n\nPublic ramps are available at Metropolis, Shawneetown, Cave-in-Rock, and several smaller access points maintained by the Illinois DNR. The Ohio River's commercial navigation means anglers share the water with barges and towboats, but the fishing rewards are well worth the extra attention required. Fort Massac State Park near Metropolis offers camping and a launch ramp with easy access to productive water.",
+    "type": "freshwater",
+    "rampCount": 8
+  },
+  {
+    "id": "lake-michigan-il",
+    "name": "Lake Michigan (Illinois)",
+    "lat": 41.9,
+    "lng": -87.6,
+    "radius": 0.15,
+    "acres": 0,
+    "shorelineMiles": 63,
+    "maxDepth": 923,
+    "counties": [
+      "Cook",
+      "Lake"
+    ],
+    "fishSpecies": [
+      "Chinook Salmon",
+      "Coho Salmon",
+      "Steelhead",
+      "Lake Trout",
+      "Brown Trout",
+      "Yellow Perch",
+      "Smallmouth Bass"
+    ],
+    "nearestTowns": [
+      "Chicago",
+      "Waukegan",
+      "Evanston",
+      "Highland Park"
+    ],
+    "description": "Lake Michigan's Illinois shoreline stretches 63 miles from the Indiana border through Chicago and north to the Wisconsin state line, providing urban Great Lakes fishing unlike anywhere else in the country. The Chicago lakefront offers world-class salmon and trout fishing within sight of the city's iconic skyline, with charter boats and private anglers trolling for chinook salmon, coho salmon, steelhead, and lake trout just minutes from downtown harbors.\n\nThe spring and fall salmon runs draw anglers from across the Midwest, with chinook salmon exceeding 30 pounds caught from Diversey Harbor to Waukegan. Smallmouth bass fishing along the breakwalls, piers, and rocky shoreline is outstanding from May through October, and yellow perch provide excellent shore-fishing opportunities at harbors and piers throughout the season. The warmwater discharge areas near power plants attract fish during colder months.\n\nChicago's harbors at Burnham, Diversey, Montrose, Belmont, and Jackson Park offer launch ramps and docking facilities, while Waukegan Harbor to the north is a major staging point for open-lake trolling. Lake Michigan fishing requires awareness of rapidly changing weather conditions and big-water safety, but the opportunity to catch world-class salmon and trout against a major metropolitan backdrop is unmatched.",
+    "type": "great-lake",
+    "rampCount": 12
+  }
+]

@@ -31,7 +31,7 @@ export default function AboutPage() {
         <div className="bg-blue-50 border border-blue-200 rounded-xl p-6 my-8">
           <h2 className="font-[Cabin] text-xl font-bold text-water mb-3">What&apos;s Next</h2>
           <p className="text-gray-600">
-            We now cover 9 states — Oklahoma, Texas, Missouri, Arkansas, Kansas, Florida, Michigan, Minnesota, and North Carolina — with thousands of boat ramps. We&apos;re adding detailed guides with local tips for every major lake, and expanding to all 50 states.
+            We now cover 12 states — Oklahoma, Texas, Missouri, Arkansas, Kansas, Florida, Michigan, Minnesota, North Carolina, New York, Illinois, and Ohio — with thousands of boat ramps. We&apos;re adding detailed guides with local tips for every major lake, and expanding to all 50 states.
           </p>
         </div>
 
