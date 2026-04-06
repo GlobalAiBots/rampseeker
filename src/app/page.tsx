@@ -9,9 +9,9 @@ import CletusAd from "@/components/CletusAd";
 import EmailCapture from "@/components/EmailCapture";
 
 const blogPosts = [
-  { slug: "best-bass-fishing-lakes-oklahoma", title: "The 7 Best Bass Fishing Lakes in Oklahoma", date: "Apr 1, 2026" },
-  { slug: "oklahoma-boating-rules-2026", title: "Oklahoma Boating Rules & Regulations (2026)", date: "Mar 28, 2026" },
-  { slug: "how-to-launch-boat-beginner-guide", title: "How to Launch a Boat: Beginner's Guide", date: "Mar 25, 2026" },
+  { slug: "free-boat-ramps-how-to-find-them", title: "Free vs Paid Boat Ramps: How to Find Free Launch Sites", date: "Apr 4, 2026" },
+  { slug: "boat-trailer-maintenance-checklist", title: "Boat Trailer Maintenance: The Pre-Season Checklist", date: "Mar 22, 2026" },
+  { slug: "night-launching-tips", title: "Night Launching: How to Launch Your Boat in the Dark", date: "Mar 12, 2026" },
 ];
 
 const stateList: { name: string; slug: string; code: string }[] = [
@@ -136,11 +136,11 @@ export default function Home() {
         </div>
 
         {/* Top states quick links */}
-        <div className="flex gap-2 justify-center mt-6 flex-wrap max-w-3xl mx-auto">
-          {statesWithCounts.slice(0, 12).map((s) => (
+        <div className="flex gap-2 justify-center mt-6 flex-wrap max-w-2xl mx-auto">
+          {statesWithCounts.slice(0, 6).map((s) => (
             <Link key={s.code} href={`/${s.slug}`} className="bg-water/90 hover:bg-water text-white font-bold px-4 py-2 rounded-lg transition shadow-sm text-xs">{s.name} ({s.count.toLocaleString()})</Link>
           ))}
-          <span className="text-gray-400 font-medium px-4 py-2 text-xs">+ {stateList.length - 12} more states</span>
+          <a href="#browse-states" className="text-water font-semibold px-4 py-2 text-xs hover:text-water-light transition">Browse all {stateList.length} states &darr;</a>
         </div>
       </section>
 
@@ -162,7 +162,7 @@ export default function Home() {
       </section>
 
       {/* BROWSE BY STATE */}
-      <section className="max-w-5xl mx-auto px-4 pt-14 pb-8">
+      <section id="browse-states" className="max-w-5xl mx-auto px-4 pt-14 pb-8">
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-6">Browse by State</h2>
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-2">
           {statesWithCounts.map((s) => (
@@ -195,12 +195,12 @@ export default function Home() {
         </div>
       </section>
 
-      {/* FEATURED: OKLAHOMA */}
+      {/* DEEP DIVE: OKLAHOMA */}
       <section className="max-w-5xl mx-auto px-4 py-10">
         <div className="flex items-center justify-between mb-4">
           <div>
-            <h2 className="font-[Cabin] text-xl font-bold text-charcoal">Featured: Oklahoma Lakes</h2>
-            <p className="text-gray-400 text-sm">Our most detailed state — local tips, nearby businesses, insider knowledge</p>
+            <h2 className="font-[Cabin] text-xl font-bold text-charcoal">Deep Dive: Oklahoma</h2>
+            <p className="text-gray-400 text-sm">Our most detailed state — hand-curated tips, nearby businesses, and insider knowledge for every ramp.</p>
           </div>
           <Link href="/oklahoma" className="text-sm font-semibold text-sunset hover:text-sunset-dark transition hidden sm:block">View all &rarr;</Link>
         </div>

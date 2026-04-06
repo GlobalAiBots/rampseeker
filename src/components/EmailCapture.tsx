@@ -16,8 +16,8 @@ export default function EmailCapture() {
   return (
     <section className="max-w-2xl mx-auto px-4 pb-12">
       <div className="bg-white border border-gray-200 rounded-2xl p-8 text-center shadow-sm">
-        <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-1">Get Oklahoma Boating Updates</h2>
-        <p className="text-gray-500 text-sm mb-5">New ramps, fishing reports, and lake conditions. No spam, unsubscribe anytime.</p>
+        <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-1">Get Boating Updates</h2>
+        <p className="text-gray-500 text-sm mb-5">New ramps, fishing reports, and boating tips from across America. No spam, unsubscribe anytime.</p>
         {!done ? (
           <form onSubmit={handleSubmit} className="flex gap-2 max-w-md mx-auto">
             <input
