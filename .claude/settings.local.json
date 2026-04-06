@@ -16,7 +16,11 @@
       "Bash(ls D:/rampseeker/scripts/data/states/rhode*)",
       "Bash(node scripts/generate-states.js)",
       "Bash(node scripts/patch-all-ramps.js)",
-      "Bash(node scripts/patch-site-wide.js)"
+      "Bash(node scripts/patch-site-wide.js)",
+      "Bash(sort -t'/' -k2)",
+      "Bash(find .next/server/app -name \"*.html\" -size +1M -exec ls -lh {} \\\\;)",
+      "Bash(ls .next/server/app/page*)",
+      "Bash(find .next/server/app -maxdepth 2 -name \"*.html\" -size +900k -exec du -h {} \\\\;)"
     ]
   }
 }

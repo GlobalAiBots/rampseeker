@@ -11,7 +11,8 @@ export const metadata: Metadata = {
 };
 
 export default function FreePage() {
-  const free = unified.filter((r) => {
+  const okRamps = unified.filter((r) => r.state === "OK");
+  const free = okRamps.filter((r) => {
     const gl = r.grandLakeData;
     return gl ? gl.fee === "free" : !r.description.toLowerCase().includes("fee");
   });
