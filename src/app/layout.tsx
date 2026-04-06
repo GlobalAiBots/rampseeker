@@ -86,6 +86,8 @@ function Footer() {
               <a href="https://askcletus.com" target="_blank" rel="noopener noreferrer" className="hover:text-water transition">CLETUS AI Chat</a>
               <a href="https://getcletus.com" target="_blank" rel="noopener noreferrer" className="hover:text-water transition">CLETUS AI Voice</a>
               <a href="https://grandlakeai.com" target="_blank" rel="noopener noreferrer" className="hover:text-water transition">Grand Lake AI</a>
+              <a href="https://pierseeker.com" target="_blank" rel="noopener noreferrer" className="hover:text-water transition">PierSeeker</a>
+              <a href="https://barkseeker.com" target="_blank" rel="noopener noreferrer" className="hover:text-water transition">BarkSeeker</a>
             </div>
           </div>
         </div>

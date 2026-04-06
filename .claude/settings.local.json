@@ -20,7 +20,23 @@
       "Bash(sort -t'/' -k2)",
       "Bash(find .next/server/app -name \"*.html\" -size +1M -exec ls -lh {} \\\\;)",
       "Bash(ls .next/server/app/page*)",
-      "Bash(find .next/server/app -maxdepth 2 -name \"*.html\" -size +900k -exec du -h {} \\\\;)"
+      "Bash(find .next/server/app -maxdepth 2 -name \"*.html\" -size +900k -exec du -h {} \\\\;)",
+      "Bash(npm ls:*)",
+      "Bash(npm install:*)",
+      "Bash(ls -d src/app/*/)",
+      "Bash(rm:*)",
+      "Bash(node scripts/generate-all.js)",
+      "Bash(grep -l \"import Link\" src/app/*/waters/\\\\[id\\\\]/page.tsx)",
+      "Bash(find src/app -name \"page.tsx\" -path \"*/waters/*\" -exec sed -i 's/import Link from \"next\\\\/link\";\\\\n//' {} \\\\;)",
+      "Bash(find src/app -maxdepth 2 -name \"page.tsx\" ! -path \"*/waters/*\" ! -path \"*/piers/*\" ! -path \"src/app/page.tsx\" ! -path \"*/blog/*\" ! -path \"*/about/*\" ! -path \"*/for-businesses/*\" ! -path \"*/privacy/*\" ! -path \"*/terms/*\" ! -path \"*/map/*\" -exec grep -l \"import Link\" {} \\\\;)",
+      "Bash(grep -E \"piers/\\\\[|○ /map|○ /$\")",
+      "Bash(ls -d src/app/*/page.tsx)",
+      "Bash(node -e \"const d=require\\('./src/data/all-piers.ts'\\);console.log\\('\\(loaded via TS import - verified in build\\)'\\)\")",
+      "Bash(rm -rf src/app/oklahoma src/app/texas src/app/missouri src/app/arkansas src/app/kansas src/app/florida src/app/michigan src/app/minnesota src/app/north-carolina src/app/new-york src/app/illinois src/app/ohio src/app/washington src/app/alabama src/app/georgia src/app/maryland src/app/oregon src/app/tennessee src/app/alaska src/app/arizona src/app/california src/app/colorado src/app/connecticut src/app/delaware src/app/hawaii src/app/idaho src/app/indiana src/app/iowa src/app/kentucky src/app/louisiana src/app/maine src/app/massachusetts src/app/mississippi src/app/montana src/app/nebraska src/app/new-hampshire src/app/new-jersey src/app/new-mexico src/app/north-dakota src/app/pennsylvania src/app/south-carolina src/app/south-dakota src/app/utah src/app/virginia src/app/west-virginia src/app/wyoming src/app/ramps src/app/grand-lake src/app/lakes src/app/counties src/app/cities src/app/find src/app/best src/app/piers)",
+      "Bash(rm -f src/components/RampList.tsx src/components/LakeRampList.tsx src/components/PierList.tsx src/components/WaterPierList.tsx)",
+      "Bash(node scripts/build-site.js)",
+      "Bash(ls D:/barkseeker/src/app/blog/*/page.tsx)",
+      "Bash(node -e \"const d=JSON.parse\\(require\\('fs'\\).readFileSync\\('./scripts/data/all-us-dogparks.json'\\)\\);console.log\\('Total parks:',d.length\\); const s={}; d.forEach\\(p=>{const k=p.state;s[k]=\\(s[k]||0\\)+1}\\); console.log\\('States:',Object.keys\\(s\\).length\\); Object.entries\\(s\\).sort\\(\\(a,b\\)=>b[1]-a[1]\\).slice\\(0,10\\).forEach\\(\\([k,v]\\)=>console.log\\(' ',k,v\\)\\);\")"
     ]
   }
 }
