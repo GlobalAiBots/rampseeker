@@ -1,9 +1,12 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useMemo } from "react";
 import Link from "next/link";
+import dynamic from "next/dynamic";
 
-// Hardcoded state data — no ramp imports needed, keeps page under 50KB
+const RampMap = dynamic(() => import("@/components/RampMap"), { ssr: false, loading: () => <div className="rounded-xl bg-gray-100 flex items-center justify-center" style={{ height: 480 }}><p className="text-gray-400 text-sm">Loading map...</p></div> });
+
+// State centroids with ramp counts — one marker per state for overview
 const states: { name: string; code: string; slug: string; lat: number; lng: number; ramps: number }[] = [
   { name: "Alabama", code: "AL", slug: "alabama", lat: 32.8, lng: -86.8, ramps: 732 },
   { name: "Alaska", code: "AK", slug: "alaska", lat: 64.2, lng: -152.5, ramps: 392 },
@@ -54,35 +57,39 @@ const states: { name: string; code: string; slug: string; lat: number; lng: numb
 ];
 
 const totalRamps = states.reduce((sum, s) => sum + s.ramps, 0);
-const sortedByRamps = [...states].sort((a, b) => b.ramps - a.ramps);
-const sortedByName = [...states].sort((a, b) => a.name.localeCompare(b.name));
+
+// Create map pins from state centroids — clicking goes to state page
+const stateMapPins = states.map(s => ({
+  id: s.slug,
+  name: `${s.name} (${s.ramps.toLocaleString()} ramps)`,
+  latitude: s.lat,
+  longitude: s.lng,
+  city: `${s.ramps.toLocaleString()} boat ramps`,
+}));
 
 export default function MapPage() {
   const [sortBy, setSortBy] = useState<"ramps" | "name">("ramps");
-  const displayed = sortBy === "ramps" ? sortedByRamps : sortedByName;
+  const [filter, setFilter] = useState("");
 
-  // Google Maps embed with the US centered
-  const mapUrl = "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d12500000!2d-98.5!3d39.8!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus";
+  const displayed = useMemo(() => {
+    let list = states;
+    if (filter) list = list.filter(s => s.name.toLowerCase().includes(filter.toLowerCase()));
+    return sortBy === "ramps" ? [...list].sort((a, b) => b.ramps - a.ramps) : [...list].sort((a, b) => a.name.localeCompare(b.name));
+  }, [filter, sortBy]);
 
   return (
     <div>
       <section className="max-w-6xl mx-auto px-4 py-10">
         <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-1">US Boat Ramp Map</h1>
-        <p className="text-gray-500 mb-6">{totalRamps.toLocaleString()}+ boat ramps across {states.length} states. Click a state to explore.</p>
+        <p className="text-gray-500 mb-4">{totalRamps.toLocaleString()}+ boat ramps across {states.length} states. Click a marker to explore.</p>
 
-        {/* Map */}
-        <div className="rounded-xl overflow-hidden border border-gray-200 shadow-sm mb-8" style={{ height: 480 }}>
-          <iframe
-            src={mapUrl}
-            width="100%"
-            height="100%"
-            style={{ border: 0 }}
-            loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="US boat ramp map"
-            allowFullScreen
-          />
+        {/* Filter */}
+        <div className="mb-4">
+          <input type="text" value={filter} onChange={e => setFilter(e.target.value)} placeholder="Filter by state name..." className="w-full max-w-md px-4 py-3 rounded-xl bg-white border border-gray-200 text-charcoal outline-none focus:border-water focus:ring-2 focus:ring-water/20 transition text-sm" />
         </div>
+
+        {/* Interactive Map */}
+        <RampMap ramps={stateMapPins} height="480px" className="mb-8" />
 
         {/* Sort toggle */}
         <div className="flex items-center justify-between mb-4">
@@ -96,18 +103,18 @@ export default function MapPage() {
         {/* State grid */}
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-2">
           {displayed.map((s) => (
-            <Link key={s.code} href={`/${s.slug}`} className="group bg-white border border-gray-200 rounded-lg p-3 hover:border-water hover:shadow-md hover:-translate-y-0.5 transition-all">
+            <Link key={s.code} href={`/${s.slug}`} className="group bg-white border border-gray-200 rounded-lg p-3 hover:bg-foam hover:border-water hover:shadow-md hover:-translate-y-0.5 transition-all border-l-4 border-l-water">
               <div className="flex items-start justify-between">
                 <p className="font-bold text-charcoal text-sm group-hover:text-water transition">{s.name}</p>
                 <span className="text-[10px] font-bold text-gray-400 bg-gray-100 px-1.5 py-0.5 rounded">{s.code}</span>
               </div>
-              <p className="text-water text-xs font-semibold mt-1">{s.ramps.toLocaleString()} ramps</p>
+              <span className="inline-block mt-1 text-xs font-semibold bg-water/10 text-water px-2 py-0.5 rounded">{s.ramps.toLocaleString()} ramps</span>
             </Link>
           ))}
         </div>
 
         {/* Stats */}
-        <div className="mt-8 bg-cream rounded-xl p-6 text-center">
+        <div className="mt-8 bg-foam rounded-xl p-6 text-center">
           <div className="flex flex-wrap justify-center gap-8 md:gap-16">
             <div>
               <p className="font-[Cabin] text-2xl font-bold text-charcoal">{totalRamps.toLocaleString()}</p>

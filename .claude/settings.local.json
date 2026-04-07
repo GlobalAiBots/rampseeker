@@ -91,7 +91,17 @@
       "Bash(cp \"Free use pics/shetland sheepdog.jpg\" \"public/images/shetland-sheepdog-smiling-outdoors.jpg\")",
       "Bash(cp \"Free use pics/malamute.jpg\" \"public/images/alaskan-malamute-black-white-snow.jpg\")",
       "Bash(cp \"Free use pics/samoyed.jpg\" \"public/images/samoyed-white-yellow-flowers.jpg\")",
-      "Bash(node -e \"const data = require\\('D:\\\\\\\\rampseeker\\\\\\\\src\\\\\\\\data\\\\\\\\all-ramps.ts'\\); console.log\\('Ramp count:', data.unified.length\\)\")"
+      "Bash(node -e \"const data = require\\('D:\\\\\\\\rampseeker\\\\\\\\src\\\\\\\\data\\\\\\\\all-ramps.ts'\\); console.log\\('Ramp count:', data.unified.length\\)\")",
+      "Bash(node scripts/scrape-parks.js)",
+      "Bash(node scripts/add-manual-parks.js)",
+      "Bash(node scripts/add-more-parks.js)",
+      "Bash(powershell -Command \"Get-PSDrive D | Select-Object Used,Free\")",
+      "Bash(node:*)",
+      "Bash(npm cache:*)",
+      "Bash(rm -rf \"/c/Users/Big Daddy/AppData/Local/Temp/next-*\")",
+      "Bash(rm -rf \"/c/Users/Big Daddy/AppData/Local/Temp/v8-compile-cache-*\")",
+      "Bash(rm -rf \"/c/Users/Big Daddy/AppData/Local/npm-cache\")",
+      "Bash(rm -rf \"/c/Users/Big Daddy/AppData/Local/Temp/\"*)"
     ]
   }
 }

@@ -1,5 +1,8 @@
 import Link from "next/link";
+import dynamic from "next/dynamic";
 import { notFound } from "next/navigation";
+
+const RampMap = dynamic(() => import("@/components/RampMap"), { ssr: false, loading: () => <div className="rounded-xl bg-gray-100 flex items-center justify-center" style={{ height: 400 }}><p className="text-gray-400 text-sm">Loading map...</p></div> });
 import { unified, getUnifiedRampById, amenityLabels, type UnifiedRamp } from "@/data/all-ramps";
 import { getLakeForRamp } from "@/data/lakes";
 import { getTexasLakeForRamp } from "@/data/texas-lakes";
@@ -73,7 +76,7 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
 
   const faqs = buildFaqs(ramp);
   const mapsUrl = `https://www.google.com/maps/dir/?api=1&destination=${ramp.latitude},${ramp.longitude}`;
-  const embedUrl = `https://www.google.com/maps?q=${ramp.latitude},${ramp.longitude}&z=14&output=embed`;
+  const mapRamps = [{ id: ramp.id, name: ramp.name, latitude: ramp.latitude, longitude: ramp.longitude, city: ramp.city, lake: lake?.name }];
 
   const placeSchema = {
     "@context": "https://schema.org",
@@ -140,9 +143,7 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
       </div>
 
       {/* Map */}
-      <div className="rounded-xl overflow-hidden border border-gray-200 shadow-sm mb-8" style={{ height: 350 }}>
-        <iframe src={embedUrl} width="100%" height="100%" style={{ border: 0 }} loading="lazy" referrerPolicy="no-referrer-when-downgrade" title={`Map of ${ramp.name}`} />
-      </div>
+      <RampMap ramps={mapRamps} center={[ramp.latitude, ramp.longitude]} zoom={14} height="400px" className="mb-8" />
 
       <AdSlot position="ramp-below-map" />
 
