@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo } from "react";
+import { useState, useMemo } from "react";
 import Link from "next/link";
 import { unified, amenityLabels, isGenericName } from "@/data/all-ramps";
 import { newMexicoLakes, getNewMexicoLakeForRamp } from "@/data/new-mexico-lakes";
@@ -31,6 +31,9 @@ export default function NewMexicoPage() {
     for (const r of stRamps) { const c = r.city?.trim(); if (c && c.length > 1) m[c] = (m[c] || 0) + 1; }
     return Object.entries(m).sort((a, b) => b[1] - a[1]);
   }, [stRamps]);
+
+  const [selectedCity, setSelectedCity] = useState<string | null>(null);
+  const filteredRamps = selectedCity ? stRamps.filter(r => r.city?.trim() === selectedCity) : stRamps;
 
   return (
     <div>
@@ -72,9 +75,10 @@ export default function NewMexicoPage() {
         </div>
       </section>
 
-      {cityMap.length > 0 && (<section className="max-w-6xl mx-auto px-4 pb-8"><h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Browse by City</h2><div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">{cityMap.slice(0, 16).map(([city, count]) => (<div key={city} className="bg-white border border-gray-200 rounded-lg p-3"><p className="font-bold text-charcoal text-sm">{city}</p><p className="text-gray-400 text-xs">{count} ramp{count !== 1 ? "s" : ""}</p></div>))}</div></section>)}
+      {cityMap.length > 0 && (<section className="max-w-6xl mx-auto px-4 pb-8"><h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Browse by City</h2><div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">{cityMap.slice(0, 16).map(([city, count]) => (<button key={city} onClick={() => { setSelectedCity(city === selectedCity ? null : city); document.getElementById('ramp-list')?.scrollIntoView({ behavior: 'smooth' }); }} className={`text-left bg-white border rounded-lg p-3 hover:border-water hover:bg-blue-50 transition cursor-pointer ${selectedCity === city ? 'border-water bg-blue-50 ring-2 ring-water' : 'border-gray-200'}`}><p className="font-bold text-charcoal text-sm">{city}</p><p className="text-gray-400 text-xs">{count} ramp{count !== 1 ? "s" : ""}</p></button>))}</div></section>)}
 
-      <RampList ramps={stRamps} stateName="New Mexico" />
+      {selectedCity && (<div className="max-w-6xl mx-auto px-4 pb-4"><button onClick={() => setSelectedCity(null)} className="text-sm text-water hover:underline">&larr; Show all {stRamps.length} ramps</button></div>)}
+      <div id="ramp-list"><RampList ramps={filteredRamps} stateName="New Mexico" /></div>
 
       <section className="max-w-4xl mx-auto px-4 py-10">
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-4">New Mexico Boating FAQ</h2>

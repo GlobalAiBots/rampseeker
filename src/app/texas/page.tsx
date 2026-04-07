@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo } from "react";
+import { useState, useMemo } from "react";
 import Link from "next/link";
 import { unified, amenityLabels, isGenericName } from "@/data/all-ramps";
 import { texasLakes, getTexasLakeForRamp } from "@/data/texas-lakes";
@@ -32,6 +32,9 @@ export default function TexasPage() {
     for (const r of txRamps) { const c = r.city?.trim(); if (c && c.length > 1) m[c] = (m[c] || 0) + 1; }
     return Object.entries(m).sort((a, b) => b[1] - a[1]);
   }, [txRamps]);
+
+  const [selectedCity, setSelectedCity] = useState<string | null>(null);
+  const filteredRamps = selectedCity ? txRamps.filter(r => r.city?.trim() === selectedCity) : txRamps;
 
 
   return (
@@ -106,7 +109,8 @@ export default function TexasPage() {
         </section>
       )}
 
-      <RampList ramps={txRamps} stateName="Texas" />
+      {selectedCity && (<div className="max-w-6xl mx-auto px-4 pb-4"><button onClick={() => setSelectedCity(null)} className="text-sm text-water hover:underline">&larr; Show all {txRamps.length} ramps</button></div>)}
+      <div id="ramp-list"><RampList ramps={filteredRamps} stateName="Texas" /></div>
       <div className="max-w-6xl mx-auto px-4"><CletusAd /></div>
     </div>
   );

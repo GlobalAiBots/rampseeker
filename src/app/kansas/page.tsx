@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo } from "react";
+import { useState, useMemo } from "react";
 import Link from "next/link";
 import { unified, amenityLabels, isGenericName } from "@/data/all-ramps";
 import { kansasLakes, getKansasLakeForRamp } from "@/data/kansas-lakes";
@@ -19,6 +19,9 @@ export default function KansasPage() {
     for (const r of ksRamps) { const c = r.city?.trim(); if (c && c.length > 1) m[c] = (m[c] || 0) + 1; }
     return Object.entries(m).sort((a, b) => b[1] - a[1]);
   }, [ksRamps]);
+
+  const [selectedCity, setSelectedCity] = useState<string | null>(null);
+  const filteredRamps = selectedCity ? ksRamps.filter(r => r.city?.trim() === selectedCity) : ksRamps;
   const featuredLake = useMemo(() => {
     let best = kansasLakes.find((l) => l.id === "perry-lake") || kansasLakes[0]; let bestCount = 0;
     for (const l of kansasLakes) {
@@ -95,7 +98,8 @@ export default function KansasPage() {
         </section>
       )}
 
-      <RampList ramps={ksRamps} stateName="Kansas" />
+      {selectedCity && (<div className="max-w-6xl mx-auto px-4 pb-4"><button onClick={() => setSelectedCity(null)} className="text-sm text-water hover:underline">&larr; Show all {ksRamps.length} ramps</button></div>)}
+      <div id="ramp-list"><RampList ramps={filteredRamps} stateName="Kansas" /></div>
       <div className="max-w-6xl mx-auto px-4"><CletusAd /></div>
     </div>
   );
