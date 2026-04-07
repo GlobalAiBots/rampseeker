@@ -55,48 +55,49 @@ function Nav() {
 
 function Footer() {
   return (
-    <footer className="bg-gray-100 border-t border-gray-200 mt-16">
+    <footer className="bg-[#0B1E33] border-t border-[#162D4A] mt-16">
       <div className="max-w-6xl mx-auto px-4 py-10">
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 text-sm text-gray-500">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 text-sm text-white/50">
           <div>
-            <p className="font-bold text-charcoal mb-2 font-[Cabin]">&#9875; RampSeeker</p>
+            <p className="font-bold text-white mb-2 font-[Cabin]">&#9875; RampSeeker</p>
             <p>The most complete boat ramp directory in America. 29,000+ ramps across 46 states.</p>
           </div>
           <div>
-            <p className="font-bold text-charcoal mb-2">Links</p>
+            <p className="font-bold text-white/70 mb-2">Links</p>
             <div className="flex flex-col gap-1">
-              <Link href="/" className="hover:text-water transition">All Ramps</Link>
-              <Link href="/lakes" className="hover:text-water transition">Lakes</Link>
-              <Link href="/map" className="hover:text-water transition">Map</Link>
-              <Link href="/about" className="hover:text-water transition">About</Link>
-              <Link href="/blog" className="hover:text-water transition">Blog</Link>
-              <Link href="/for-businesses" className="hover:text-water transition">For Businesses</Link>
-              <Link href="/privacy" className="hover:text-water transition">Privacy</Link>
-              <Link href="/terms" className="hover:text-water transition">Terms</Link>
+              <Link href="/" className="text-white/40 hover:text-white transition">All Ramps</Link>
+              <Link href="/lakes" className="text-white/40 hover:text-white transition">Lakes</Link>
+              <Link href="/map" className="text-white/40 hover:text-white transition">Map</Link>
+              <Link href="/about" className="text-white/40 hover:text-white transition">About</Link>
+              <Link href="/blog" className="text-white/40 hover:text-white transition">Blog</Link>
+              <Link href="/for-businesses" className="text-white/40 hover:text-white transition">For Businesses</Link>
+              <Link href="/privacy" className="text-white/40 hover:text-white transition">Privacy</Link>
+              <Link href="/terms" className="text-white/40 hover:text-white transition">Terms</Link>
             </div>
           </div>
           <div>
-            <p className="font-bold text-charcoal mb-2">Know a ramp we missed?</p>
-            <a href="mailto:hello@rampseeker.com" className="text-water hover:text-water-light transition">hello@rampseeker.com</a>
+            <p className="font-bold text-white/70 mb-2">Know a ramp we missed?</p>
+            <a href="mailto:hello@rampseeker.com" className="text-water-light hover:text-white transition">hello@rampseeker.com</a>
           </div>
           <div>
-            <p className="font-bold text-charcoal mb-2">From Global AI Bots</p>
+            <p className="font-bold text-white/70 mb-2">From Global AI Bots</p>
             <div className="flex flex-col gap-1">
-              <a href="https://globalaibots.com" target="_blank" rel="noopener noreferrer" className="hover:text-water transition">Global AI Bots</a>
-              <a href="https://askcletus.com" target="_blank" rel="noopener noreferrer" className="hover:text-water transition">CLETUS AI Chat</a>
-              <a href="https://getcletus.com" target="_blank" rel="noopener noreferrer" className="hover:text-water transition">CLETUS AI Voice</a>
-              <a href="https://grandlakeai.com" target="_blank" rel="noopener noreferrer" className="hover:text-water transition">Grand Lake AI</a>
-              <a href="https://pierseeker.com" target="_blank" rel="noopener noreferrer" className="hover:text-water transition">PierSeeker</a>
-              <a href="https://barkseeker.com" target="_blank" rel="noopener noreferrer" className="hover:text-water transition">BarkSeeker</a>
+              <a href="https://globalaibots.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">Global AI Bots</a>
+              <a href="https://askcletus.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">CLETUS AI Chat</a>
+              <a href="https://getcletus.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">CLETUS AI Voice</a>
+              <a href="https://grandlakeai.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">Grand Lake AI</a>
+              <a href="https://pierseeker.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">PierSeeker</a>
+              <a href="https://barkseeker.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">BarkSeeker</a>
+              <a href="https://babymydog.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">BabyMyDog</a>
             </div>
           </div>
         </div>
-        <div className="mt-8 pt-6 border-t border-gray-200 flex flex-wrap justify-between items-center text-xs text-gray-400 gap-4">
+        <div className="mt-8 pt-6 border-t border-white/10 flex flex-wrap justify-between items-center text-xs text-white/30 gap-4">
           <span>&copy; {new Date().getFullYear()} RampSeeker. All rights reserved.</span>
           <div className="flex gap-3">
-            <a href="mailto:hello@rampseeker.com?subject=Advertising%20Inquiry" className="hover:text-water transition">Advertise With Us</a>
+            <a href="mailto:hello@rampseeker.com?subject=Advertising%20Inquiry" className="hover:text-white transition">Advertise With Us</a>
             <span>&middot;</span>
-            <span>A <a href="https://grandlakeai.com" target="_blank" className="text-water/70 hover:text-water transition">Grand Lake AI</a> project.</span>
+            <span>A <a href="https://grandlakeai.com" target="_blank" className="text-water-light/70 hover:text-white transition">Grand Lake AI</a> project.</span>
           </div>
         </div>
       </div>
@@ -132,6 +133,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             gtag('config', 'G-N85PYDH398');
           `}
         </Script>
+        <a href="/blog" className="block w-full bg-[#1E6091] text-white text-center py-2 text-xs sm:text-sm font-medium hover:bg-[#134B70] transition">
+          &#128676; New: Free vs Paid Boat Ramps guide &mdash; Read our latest boating guide &rarr;
+        </a>
         <Nav />
         <main className="flex-1">{children}</main>
         <Footer />
