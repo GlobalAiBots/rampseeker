@@ -7,17 +7,18 @@ import StatesDropdown from "@/components/StatesDropdown";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "RampSeeker | Every Boat Ramp in America — 29,000+ Launch Sites",
+  title: "RampSeeker | Every Boat Ramp in America — 29,500+ Launch Sites",
   description:
-    "Find boat ramps across the United States. 29,000+ ramps with GPS coordinates, amenities, and local tips. Detailed coverage for Oklahoma and Texas.",
+    "Find boat ramps across the United States. 29,500+ ramps with GPS coordinates, amenities, and local tips. Detailed coverage for Oklahoma and Texas.",
   keywords:
     "Oklahoma boat ramp, boat ramp near me Oklahoma, Grand Lake boat ramp, boat launch Oklahoma, Oklahoma boat ramp directory",
   openGraph: {
     title: "RampSeeker | Every Boat Ramp in America",
-    description: "29,000+ boat ramps across the US. GPS coordinates, amenities, local tips.",
+    description: "29,500+ boat ramps across the US. GPS coordinates, amenities, local tips.",
     url: "https://rampseeker.com",
     siteName: "RampSeeker",
     type: "website",
+    images: [{ url: "https://rampseeker.com/og-image.png", width: 1200, height: 630, alt: "RampSeeker — Every Boat Ramp in America" }],
   },
   twitter: {
     card: "summary",
@@ -60,7 +61,7 @@ function Footer() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 text-sm text-white/50">
           <div>
             <p className="font-bold text-white mb-2 font-[Cabin]">&#9875; RampSeeker</p>
-            <p>The most complete boat ramp directory in America. 29,000+ ramps across 46 states.</p>
+            <p>The most complete boat ramp directory in America. 29,500+ ramps across 46 states.</p>
           </div>
           <div>
             <p className="font-bold text-white/70 mb-2">Links</p>
@@ -109,6 +110,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en">
       <head>
+        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
         {/* eslint-disable-next-line @next/next/no-page-custom-font */}

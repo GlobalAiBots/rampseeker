@@ -9,7 +9,7 @@ export default function EmailCapture() {
   function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     if (!email) return;
-    console.log("Newsletter signup:", email);
+    window.location.href = `mailto:newsletter@rampseeker.com?subject=Subscribe&body=Please add ${email} to the RampSeeker newsletter`;
     setDone(true);
   }
 
