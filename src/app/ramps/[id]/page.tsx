@@ -68,11 +68,20 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
   const lake = getLakeForRamp(ramp.latitude, ramp.longitude) || (ramp.state === "TX" ? getTexasLakeForRamp(ramp.latitude, ramp.longitude) : undefined) || (ramp.state === "MO" ? getMissouriLakeForRamp(ramp.latitude, ramp.longitude) : undefined) || (ramp.state === "AR" ? getArkansasLakeForRamp(ramp.latitude, ramp.longitude) : undefined) || (ramp.state === "KS" ? getKansasLakeForRamp(ramp.latitude, ramp.longitude) : undefined) || (ramp.state === "FL" ? getFloridaLakeForRamp(ramp.latitude, ramp.longitude) : undefined);
   const county = getCountyForCity(ramp.city);
   const citySlug = ramp.city.toLowerCase().replace(/\s+/g, "-");
-  const nearby = unified.filter((r) => r.id !== ramp.id).sort((a, b) => {
-    const distA = Math.abs(a.latitude - ramp.latitude) + Math.abs(a.longitude - ramp.longitude);
-    const distB = Math.abs(b.latitude - ramp.latitude) + Math.abs(b.longitude - ramp.longitude);
-    return distA - distB;
-  }).slice(0, 4);
+  // Use precomputed nearby data
+  const nearbyData = (() => {
+    try {
+      // eslint-disable-next-line @typescript-eslint/no-require-imports
+      const data = require("@/data/nearby.json");
+      return (data[ramp.id] || []).slice(0, 5);
+    } catch { return []; }
+  })();
+  const nearby = nearbyData.length > 0
+    ? nearbyData.map((n: { id: string; name: string; distance: number; city: string; state: string }) => {
+        const found = unified.find((r) => r.id === n.id);
+        return found ? { ...found, distanceMiles: n.distance } : null;
+      }).filter(Boolean).slice(0, 4)
+    : unified.filter((r) => r.id !== ramp.id && r.state === ramp.state).slice(0, 4);
 
   const faqs = buildFaqs(ramp);
   const mapsUrl = `https://www.google.com/maps/dir/?api=1&destination=${ramp.latitude},${ramp.longitude}`;
@@ -272,10 +281,10 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
       <div>
         <h3 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Nearby Ramps</h3>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-          {nearby.map((n) => (
+          {nearby.map((n: { id: string; name: string; city: string; state: string; distanceMiles?: number }) => (
             <Link key={n.id} href={`/ramps/${n.id}`} className="group bg-white border border-gray-200 rounded-xl p-4 hover:shadow-md hover:-translate-y-0.5 transition-all border-l-4 border-l-water">
               <p className="font-bold text-charcoal group-hover:text-water transition">{n.name}</p>
-              <p className="text-gray-500 text-sm">{n.city}, OK{n.featured ? " \u00b7 Featured" : ""}</p>
+              <p className="text-gray-500 text-sm">{n.city}, {n.state}{n.distanceMiles ? ` \u00b7 ${n.distanceMiles} mi` : ""}</p>
             </Link>
           ))}
         </div>
