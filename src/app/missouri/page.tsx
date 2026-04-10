@@ -27,6 +27,14 @@ export default function MissouriPage() {
 
   return (
     <div>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org", "@type": "FAQPage",
+        mainEntity: [
+          { "@type": "Question", name: "How many boat ramps are in Missouri?", acceptedAnswer: { "@type": "Answer", text: `There are ${moRamps.length} boat ramps in Missouri. RampSeeker has mapped every public boat launch across the state.` } },
+          { "@type": "Question", name: "Are boat ramps in Missouri free?", acceptedAnswer: { "@type": "Answer", text: "Many boat ramps in Missouri are free, especially those managed by state parks or the Army Corps of Engineers. Some may charge a launch fee." } },
+          { "@type": "Question", name: "How do I find boat ramps near me in Missouri?", acceptedAnswer: { "@type": "Answer", text: `Use RampSeeker to browse all ${moRamps.length} boat ramps in Missouri by city. Each listing includes a map and directions.` } },
+        ],
+      }) }} />
       <section className="py-16 md:py-24 text-center px-4 bg-cream" style={{ backgroundImage: "radial-gradient(circle at 20% 80%, rgba(30,96,145,0.06) 0%, transparent 50%)" }}>
         <p className="text-forest text-sm font-bold tracking-wider uppercase mb-3 font-[Cabin]">Missouri Boat Ramp Directory</p>
         <h1 className="font-[Cabin] text-4xl md:text-5xl font-bold text-charcoal leading-tight max-w-3xl mx-auto">Every Boat Ramp in Missouri</h1>

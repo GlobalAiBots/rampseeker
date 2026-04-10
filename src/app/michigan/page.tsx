@@ -38,6 +38,14 @@ export default function MichiganPage() {
 
   return (
     <div>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org", "@type": "FAQPage",
+        mainEntity: [
+          { "@type": "Question", name: "How many boat ramps are in Michigan?", acceptedAnswer: { "@type": "Answer", text: `There are ${miRamps.length} boat ramps in Michigan. RampSeeker has mapped every public boat launch across the state.` } },
+          { "@type": "Question", name: "Are boat ramps in Michigan free?", acceptedAnswer: { "@type": "Answer", text: "Many boat ramps in Michigan are free, especially those managed by state parks or the Army Corps of Engineers. Some may charge a launch fee." } },
+          { "@type": "Question", name: "How do I find boat ramps near me in Michigan?", acceptedAnswer: { "@type": "Answer", text: `Use RampSeeker to browse all ${miRamps.length} boat ramps in Michigan by city. Each listing includes a map and directions.` } },
+        ],
+      }) }} />
       <section className="py-16 md:py-24 text-center px-4 bg-cream" style={{ backgroundImage: "radial-gradient(circle at 20% 80%, rgba(30,96,145,0.06) 0%, transparent 50%)" }}>
         <p className="text-forest text-sm font-bold tracking-wider uppercase mb-3 font-[Cabin]">Michigan Boat Ramp Directory</p>
         <h1 className="font-[Cabin] text-4xl md:text-5xl font-bold text-charcoal leading-tight max-w-3xl mx-auto">Every Boat Ramp in Michigan</h1>
