@@ -1,0 +1,576 @@
+[
+  {
+    "slug": "free",
+    "title": "Free Boat Ramps",
+    "description": "Free public boat ramps with no launch fee — save money every time you hit the water.",
+    "totalCount": 3718,
+    "states": [
+      {
+        "code": "FL",
+        "name": "Florida",
+        "slug": "florida",
+        "count": 1352
+      },
+      {
+        "code": "MI",
+        "name": "Michigan",
+        "slug": "michigan",
+        "count": 1107
+      },
+      {
+        "code": "MN",
+        "name": "Minnesota",
+        "slug": "minnesota",
+        "count": 1031
+      },
+      {
+        "code": "MO",
+        "name": "Missouri",
+        "slug": "missouri",
+        "count": 70
+      },
+      {
+        "code": "TX",
+        "name": "Texas",
+        "slug": "texas",
+        "count": 63
+      },
+      {
+        "code": "AR",
+        "name": "Arkansas",
+        "slug": "arkansas",
+        "count": 49
+      },
+      {
+        "code": "KS",
+        "name": "Kansas",
+        "slug": "kansas",
+        "count": 44
+      },
+      {
+        "code": "ID",
+        "name": "Idaho",
+        "slug": "idaho",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "slug": "public",
+    "title": "Public Boat Ramps",
+    "description": "Government-owned public boat ramps open to everyone — no membership or permits required.",
+    "totalCount": 999,
+    "states": [
+      {
+        "code": "MN",
+        "name": "Minnesota",
+        "slug": "minnesota",
+        "count": 453
+      },
+      {
+        "code": "MI",
+        "name": "Michigan",
+        "slug": "michigan",
+        "count": 142
+      },
+      {
+        "code": "FL",
+        "name": "Florida",
+        "slug": "florida",
+        "count": 85
+      },
+      {
+        "code": "TX",
+        "name": "Texas",
+        "slug": "texas",
+        "count": 42
+      },
+      {
+        "code": "NY",
+        "name": "New York",
+        "slug": "new-york",
+        "count": 32
+      },
+      {
+        "code": "OK",
+        "name": "Oklahoma",
+        "slug": "oklahoma",
+        "count": 32
+      },
+      {
+        "code": "ME",
+        "name": "Maine",
+        "slug": "maine",
+        "count": 24
+      },
+      {
+        "code": "IL",
+        "name": "Illinois",
+        "slug": "illinois",
+        "count": 21
+      },
+      {
+        "code": "MD",
+        "name": "Maryland",
+        "slug": "maryland",
+        "count": 20
+      },
+      {
+        "code": "OR",
+        "name": "Oregon",
+        "slug": "oregon",
+        "count": 17
+      },
+      {
+        "code": "CA",
+        "name": "California",
+        "slug": "california",
+        "count": 13
+      },
+      {
+        "code": "AL",
+        "name": "Alabama",
+        "slug": "alabama",
+        "count": 11
+      },
+      {
+        "code": "IN",
+        "name": "Indiana",
+        "slug": "indiana",
+        "count": 10
+      },
+      {
+        "code": "WA",
+        "name": "Washington",
+        "slug": "washington",
+        "count": 10
+      },
+      {
+        "code": "VA",
+        "name": "Virginia",
+        "slug": "virginia",
+        "count": 9
+      },
+      {
+        "code": "OH",
+        "name": "Ohio",
+        "slug": "ohio",
+        "count": 8
+      },
+      {
+        "code": "LA",
+        "name": "Louisiana",
+        "slug": "louisiana",
+        "count": 7
+      },
+      {
+        "code": "NH",
+        "name": "New Hampshire",
+        "slug": "new-hampshire",
+        "count": 7
+      },
+      {
+        "code": "DE",
+        "name": "Delaware",
+        "slug": "delaware",
+        "count": 6
+      },
+      {
+        "code": "ID",
+        "name": "Idaho",
+        "slug": "idaho",
+        "count": 6
+      },
+      {
+        "code": "KS",
+        "name": "Kansas",
+        "slug": "kansas",
+        "count": 6
+      },
+      {
+        "code": "GA",
+        "name": "Georgia",
+        "slug": "georgia",
+        "count": 5
+      },
+      {
+        "code": "AK",
+        "name": "Alaska",
+        "slug": "alaska",
+        "count": 4
+      },
+      {
+        "code": "MA",
+        "name": "Massachusetts",
+        "slug": "massachusetts",
+        "count": 4
+      },
+      {
+        "code": "TN",
+        "name": "Tennessee",
+        "slug": "tennessee",
+        "count": 4
+      },
+      {
+        "code": "MO",
+        "name": "Missouri",
+        "slug": "missouri",
+        "count": 3
+      },
+      {
+        "code": "PA",
+        "name": "Pennsylvania",
+        "slug": "pennsylvania",
+        "count": 3
+      },
+      {
+        "code": "SD",
+        "name": "South Dakota",
+        "slug": "south-dakota",
+        "count": 3
+      },
+      {
+        "code": "NJ",
+        "name": "New Jersey",
+        "slug": "new-jersey",
+        "count": 2
+      },
+      {
+        "code": "NC",
+        "name": "North Carolina",
+        "slug": "north-carolina",
+        "count": 2
+      },
+      {
+        "code": "SC",
+        "name": "South Carolina",
+        "slug": "south-carolina",
+        "count": 2
+      },
+      {
+        "code": "AR",
+        "name": "Arkansas",
+        "slug": "arkansas",
+        "count": 1
+      },
+      {
+        "code": "CO",
+        "name": "Colorado",
+        "slug": "colorado",
+        "count": 1
+      },
+      {
+        "code": "CT",
+        "name": "Connecticut",
+        "slug": "connecticut",
+        "count": 1
+      },
+      {
+        "code": "IA",
+        "name": "Iowa",
+        "slug": "iowa",
+        "count": 1
+      },
+      {
+        "code": "KY",
+        "name": "Kentucky",
+        "slug": "kentucky",
+        "count": 1
+      },
+      {
+        "code": "WY",
+        "name": "Wyoming",
+        "slug": "wyoming",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "slug": "kayak",
+    "title": "Kayak & Canoe Launches",
+    "description": "Launches designed for kayaks, canoes, and small non-motorized watercraft with easy water access.",
+    "totalCount": 508,
+    "states": [
+      {
+        "code": "MI",
+        "name": "Michigan",
+        "slug": "michigan",
+        "count": 96
+      },
+      {
+        "code": "FL",
+        "name": "Florida",
+        "slug": "florida",
+        "count": 67
+      },
+      {
+        "code": "IL",
+        "name": "Illinois",
+        "slug": "illinois",
+        "count": 40
+      },
+      {
+        "code": "NY",
+        "name": "New York",
+        "slug": "new-york",
+        "count": 37
+      },
+      {
+        "code": "IA",
+        "name": "Iowa",
+        "slug": "iowa",
+        "count": 31
+      },
+      {
+        "code": "NC",
+        "name": "North Carolina",
+        "slug": "north-carolina",
+        "count": 31
+      },
+      {
+        "code": "MN",
+        "name": "Minnesota",
+        "slug": "minnesota",
+        "count": 21
+      },
+      {
+        "code": "NJ",
+        "name": "New Jersey",
+        "slug": "new-jersey",
+        "count": 20
+      },
+      {
+        "code": "VA",
+        "name": "Virginia",
+        "slug": "virginia",
+        "count": 18
+      },
+      {
+        "code": "MA",
+        "name": "Massachusetts",
+        "slug": "massachusetts",
+        "count": 15
+      },
+      {
+        "code": "OH",
+        "name": "Ohio",
+        "slug": "ohio",
+        "count": 12
+      },
+      {
+        "code": "WA",
+        "name": "Washington",
+        "slug": "washington",
+        "count": 12
+      },
+      {
+        "code": "IN",
+        "name": "Indiana",
+        "slug": "indiana",
+        "count": 10
+      },
+      {
+        "code": "MD",
+        "name": "Maryland",
+        "slug": "maryland",
+        "count": 9
+      },
+      {
+        "code": "MO",
+        "name": "Missouri",
+        "slug": "missouri",
+        "count": 9
+      },
+      {
+        "code": "OR",
+        "name": "Oregon",
+        "slug": "oregon",
+        "count": 9
+      },
+      {
+        "code": "AL",
+        "name": "Alabama",
+        "slug": "alabama",
+        "count": 8
+      },
+      {
+        "code": "PA",
+        "name": "Pennsylvania",
+        "slug": "pennsylvania",
+        "count": 8
+      },
+      {
+        "code": "TX",
+        "name": "Texas",
+        "slug": "texas",
+        "count": 8
+      },
+      {
+        "code": "ME",
+        "name": "Maine",
+        "slug": "maine",
+        "count": 7
+      },
+      {
+        "code": "GA",
+        "name": "Georgia",
+        "slug": "georgia",
+        "count": 6
+      },
+      {
+        "code": "TN",
+        "name": "Tennessee",
+        "slug": "tennessee",
+        "count": 6
+      },
+      {
+        "code": "CT",
+        "name": "Connecticut",
+        "slug": "connecticut",
+        "count": 5
+      },
+      {
+        "code": "CA",
+        "name": "California",
+        "slug": "california",
+        "count": 4
+      },
+      {
+        "code": "DE",
+        "name": "Delaware",
+        "slug": "delaware",
+        "count": 4
+      },
+      {
+        "code": "KY",
+        "name": "Kentucky",
+        "slug": "kentucky",
+        "count": 4
+      },
+      {
+        "code": "AR",
+        "name": "Arkansas",
+        "slug": "arkansas",
+        "count": 2
+      },
+      {
+        "code": "LA",
+        "name": "Louisiana",
+        "slug": "louisiana",
+        "count": 2
+      },
+      {
+        "code": "NH",
+        "name": "New Hampshire",
+        "slug": "new-hampshire",
+        "count": 2
+      },
+      {
+        "code": "ND",
+        "name": "North Dakota",
+        "slug": "north-dakota",
+        "count": 2
+      },
+      {
+        "code": "SC",
+        "name": "South Carolina",
+        "slug": "south-carolina",
+        "count": 2
+      },
+      {
+        "code": "AK",
+        "name": "Alaska",
+        "slug": "alaska",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "slug": "with-parking",
+    "title": "Boat Ramps with Parking",
+    "description": "Boat ramps with dedicated parking areas for trucks, trailers, and vehicles.",
+    "totalCount": 3835,
+    "states": [
+      {
+        "code": "FL",
+        "name": "Florida",
+        "slug": "florida",
+        "count": 1411
+      },
+      {
+        "code": "MI",
+        "name": "Michigan",
+        "slug": "michigan",
+        "count": 1152
+      },
+      {
+        "code": "MN",
+        "name": "Minnesota",
+        "slug": "minnesota",
+        "count": 1044
+      },
+      {
+        "code": "MO",
+        "name": "Missouri",
+        "slug": "missouri",
+        "count": 70
+      },
+      {
+        "code": "TX",
+        "name": "Texas",
+        "slug": "texas",
+        "count": 64
+      },
+      {
+        "code": "AR",
+        "name": "Arkansas",
+        "slug": "arkansas",
+        "count": 49
+      },
+      {
+        "code": "KS",
+        "name": "Kansas",
+        "slug": "kansas",
+        "count": 45
+      }
+    ]
+  },
+  {
+    "slug": "with-restrooms",
+    "title": "Boat Ramps with Restrooms",
+    "description": "Boat ramps with on-site restroom facilities for your convenience.",
+    "totalCount": 324,
+    "states": [
+      {
+        "code": "MI",
+        "name": "Michigan",
+        "slug": "michigan",
+        "count": 120
+      },
+      {
+        "code": "MN",
+        "name": "Minnesota",
+        "slug": "minnesota",
+        "count": 112
+      },
+      {
+        "code": "FL",
+        "name": "Florida",
+        "slug": "florida",
+        "count": 90
+      },
+      {
+        "code": "KS",
+        "name": "Kansas",
+        "slug": "kansas",
+        "count": 1
+      },
+      {
+        "code": "TX",
+        "name": "Texas",
+        "slug": "texas",
+        "count": 1
+      }
+    ]
+  }
+]
