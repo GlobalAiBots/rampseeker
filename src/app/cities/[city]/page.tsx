@@ -18,10 +18,10 @@ export async function generateMetadata({ params }: { params: Promise<{ city: str
   const city = getCityBySlug(slug);
   if (!city) return { title: "Not Found" };
   return {
-    title: `Boat Ramps near ${city.name}, Oklahoma | RampSeeker`,
-    description: `Find all ${city.ramps.length} boat ramps near ${city.name}, OK. GPS coordinates, amenities, directions, and local tips for every launch site.`,
-    openGraph: { title: `Boat Ramps near ${city.name}, Oklahoma`, url: `https://rampseeker.com/cities/${city.slug}` },
-    twitter: { card: "summary", title: `Boat Ramps near ${city.name} | RampSeeker` },
+    title: `Boat Ramps near ${city.name}, ${city.stateName} | RampSeeker`,
+    description: `Find all ${city.ramps.length} boat ramps near ${city.name}, ${city.state}. GPS coordinates, amenities, directions, and local tips for every launch site.`,
+    openGraph: { title: `Boat Ramps near ${city.name}, ${city.stateName}`, url: `https://rampseeker.com/cities/${city.slug}` },
+    twitter: { card: "summary", title: `Boat Ramps near ${city.name}, ${city.stateName} | RampSeeker` },
     alternates: { canonical: `https://rampseeker.com/cities/${city.slug}` },
   };
 }
@@ -38,27 +38,27 @@ export default async function CityPage({ params }: { params: Promise<{ city: str
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         itemListElement: [
           { "@type": "ListItem", position: 1, name: "Home", item: "https://rampseeker.com" },
-          { "@type": "ListItem", position: 2, name: "Oklahoma", item: "https://rampseeker.com/oklahoma" },
+          { "@type": "ListItem", position: 2, name: city.stateName, item: `https://rampseeker.com/${city.stateSlug}` },
           { "@type": "ListItem", position: 3, name: city.name, item: `https://rampseeker.com/cities/${city.slug}` },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "FAQPage",
         mainEntity: [
-          { "@type": "Question", name: `How many boat ramps are near ${city.name}?`, acceptedAnswer: { "@type": "Answer", text: `There are ${city.ramps.length} boat ramps near ${city.name}, Oklahoma.` } },
-          { "@type": "Question", name: `Where can I launch a boat near ${city.name} OK?`, acceptedAnswer: { "@type": "Answer", text: `RampSeeker lists ${city.ramps.length} launch sites near ${city.name}. Visit rampseeker.com/cities/${city.slug} for GPS coordinates and directions.` } },
+          { "@type": "Question", name: `How many boat ramps are near ${city.name}?`, acceptedAnswer: { "@type": "Answer", text: `There are ${city.ramps.length} boat ramps near ${city.name}, ${city.stateName}.` } },
+          { "@type": "Question", name: `Where can I launch a boat near ${city.name}, ${city.state}?`, acceptedAnswer: { "@type": "Answer", text: `RampSeeker lists ${city.ramps.length} launch sites near ${city.name}. Visit rampseeker.com/cities/${city.slug} for GPS coordinates and directions.` } },
         ],
       }) }} />
 
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">
         <Link href="/" className="hover:text-water transition">Home</Link><span>/</span>
-        <Link href="/oklahoma" className="hover:text-water transition">Oklahoma</Link><span>/</span>
+        <Link href={`/${city.stateSlug}`} className="hover:text-water transition">{city.stateName}</Link><span>/</span>
         {county && <><Link href={`/counties/${county.toLowerCase()}`} className="hover:text-water transition">{county} County</Link><span>/</span></>}
         <span className="text-charcoal font-medium">{city.name}</span>
       </nav>
 
-      <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-2">Boat Ramps near {city.name}, Oklahoma</h1>
-      <p className="text-gray-500 mb-8">{city.ramps.length} boat ramp{city.ramps.length !== 1 ? "s" : ""} near {city.name}{county ? `, ${county} County` : ""}</p>
+      <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-2">Boat Ramps near {city.name}, {city.stateName}</h1>
+      <p className="text-gray-500 mb-8">{city.ramps.length} boat ramp{city.ramps.length !== 1 ? "s" : ""} near {city.name}{county ? `, ${county} County` : ""}, {city.stateName}</p>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-12">
         {city.ramps.map((r) => {
@@ -67,7 +67,7 @@ export default async function CityPage({ params }: { params: Promise<{ city: str
           return (
             <Link key={r.id} href={`/ramps/${r.id}`} className="group block bg-white border border-gray-200 rounded-xl p-5 border-l-4 border-l-sunset shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all">
               <h3 className="font-[Cabin] font-bold text-charcoal group-hover:text-water transition mb-1">{r.name}</h3>
-              <p className="text-gray-500 text-sm mb-2">{r.city}, OK{lake ? ` \u00b7 ${lake.name}` : ""}</p>
+              <p className="text-gray-500 text-sm mb-2">{r.city}, {r.state}{lake ? ` \u00b7 ${lake.name}` : ""}</p>
               {gl && gl.amenities.length > 0 && (
                 <div className="flex flex-wrap gap-1 mb-2">
                   {gl.amenities.slice(0, 3).map((a) => (
