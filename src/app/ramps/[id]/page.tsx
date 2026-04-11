@@ -24,12 +24,14 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   const { id } = await params;
   const ramp = getUnifiedRampById(id);
   if (!ramp) return { title: "Ramp Not Found" };
+  const stNames: Record<string, string> = {AL:"Alabama",AK:"Alaska",AZ:"Arizona",AR:"Arkansas",CA:"California",CO:"Colorado",CT:"Connecticut",DE:"Delaware",FL:"Florida",GA:"Georgia",HI:"Hawaii",ID:"Idaho",IL:"Illinois",IN:"Indiana",IA:"Iowa",KS:"Kansas",KY:"Kentucky",LA:"Louisiana",ME:"Maine",MD:"Maryland",MA:"Massachusetts",MI:"Michigan",MN:"Minnesota",MS:"Mississippi",MO:"Missouri",MT:"Montana",NE:"Nebraska",NV:"Nevada",NH:"New Hampshire",NJ:"New Jersey",NM:"New Mexico",NY:"New York",NC:"North Carolina",ND:"North Dakota",OH:"Ohio",OK:"Oklahoma",OR:"Oregon",PA:"Pennsylvania",RI:"Rhode Island",SC:"South Carolina",SD:"South Dakota",TN:"Tennessee",TX:"Texas",UT:"Utah",VT:"Vermont",VA:"Virginia",WA:"Washington",WV:"West Virginia",WI:"Wisconsin",WY:"Wyoming"};
+  const metaState = stNames[ramp.state] || ramp.state || "USA";
   const county = ramp.county ? `${ramp.county} County, ` : "";
   return {
-    title: `${ramp.name} Boat Ramp — ${county}Oklahoma | RampSeeker`,
-    description: `${ramp.name} boat ramp near ${ramp.city}, Oklahoma. GPS: ${ramp.latitude.toFixed(4)}, ${ramp.longitude.toFixed(4)}. ${ramp.description.substring(0, 120)}`,
+    title: `${ramp.name} Boat Ramp — ${county}${metaState} | RampSeeker`,
+    description: `${ramp.name} boat ramp near ${ramp.city}, ${metaState}. GPS: ${ramp.latitude.toFixed(4)}, ${ramp.longitude.toFixed(4)}. ${ramp.description.substring(0, 120)}`,
     openGraph: {
-      title: `${ramp.name} — Oklahoma Boat Ramp`,
+      title: `${ramp.name} — ${metaState} Boat Ramp`,
       description: ramp.description,
       url: `https://rampseeker.com/ramps/${ramp.id}`,
       siteName: "RampSeeker",
@@ -42,6 +44,8 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
 
 function buildFaqs(ramp: UnifiedRamp) {
   const gl = ramp.grandLakeData;
+  const stateNames: Record<string, string> = {AL:"Alabama",AK:"Alaska",AZ:"Arizona",AR:"Arkansas",CA:"California",CO:"Colorado",CT:"Connecticut",DE:"Delaware",FL:"Florida",GA:"Georgia",HI:"Hawaii",ID:"Idaho",IL:"Illinois",IN:"Indiana",IA:"Iowa",KS:"Kansas",KY:"Kentucky",LA:"Louisiana",ME:"Maine",MD:"Maryland",MA:"Massachusetts",MI:"Michigan",MN:"Minnesota",MS:"Mississippi",MO:"Missouri",MT:"Montana",NE:"Nebraska",NV:"Nevada",NH:"New Hampshire",NJ:"New Jersey",NM:"New Mexico",NY:"New York",NC:"North Carolina",ND:"North Dakota",OH:"Ohio",OK:"Oklahoma",OR:"Oregon",PA:"Pennsylvania",RI:"Rhode Island",SC:"South Carolina",SD:"South Dakota",TN:"Tennessee",TX:"Texas",UT:"Utah",VT:"Vermont",VA:"Virginia",WA:"Washington",WV:"West Virginia",WI:"Wisconsin",WY:"Wyoming"};
+  const faqState = stateNames[ramp.state] || ramp.state || "the area";
   const faqs = [];
   if (gl) {
     faqs.push({ q: `Is ${ramp.name} free to use?`, a: gl.fee === "free" ? `Yes, ${ramp.name} is completely free to use with no launch fees.` : `${ramp.name} has the following fee structure: ${gl.fee}. Check with the operator for current rates.` });
@@ -50,7 +54,7 @@ function buildFaqs(ramp: UnifiedRamp) {
     faqs.push({ q: `What type of surface does ${ramp.name} have?`, a: `The ramp at ${ramp.name} is ${gl.surface}.` });
     faqs.push({ q: `Who operates ${ramp.name}?`, a: `${ramp.name} is operated by ${gl.operatedBy}.` });
   } else {
-    faqs.push({ q: `Where is ${ramp.name} located?`, a: `${ramp.name} is located near ${ramp.city}, Oklahoma. GPS coordinates: ${ramp.latitude.toFixed(4)}, ${ramp.longitude.toFixed(4)}.` });
+    faqs.push({ q: `Where is ${ramp.name} located?`, a: `${ramp.name} is located near ${ramp.city}, ${faqState}. GPS coordinates: ${ramp.latitude.toFixed(4)}, ${ramp.longitude.toFixed(4)}.` });
     faqs.push({ q: `How do I get directions to ${ramp.name}?`, a: `Click the "Get Directions" button above to open Google Maps with turn-by-turn directions to ${ramp.name}.` });
     if (ramp.rating > 0) {
       faqs.push({ q: `What is the rating for ${ramp.name}?`, a: `${ramp.name} has a ${ramp.rating}/5 rating based on ${ramp.totalRatings} Google review${ramp.totalRatings !== 1 ? "s" : ""}.` });
@@ -93,7 +97,7 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
     name: ramp.name,
     description: ramp.description,
     geo: { "@type": "GeoCoordinates", latitude: ramp.latitude, longitude: ramp.longitude },
-    address: { "@type": "PostalAddress", addressLocality: ramp.city, addressRegion: "OK", addressCountry: "US" },
+    address: { "@type": "PostalAddress", addressLocality: ramp.city, addressRegion: ramp.state || "US", addressCountry: "US" },
     publicAccess: true,
   };
 
@@ -127,7 +131,7 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
       {/* Breadcrumbs */}
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">
         <Link href="/" className="hover:text-water transition">Home</Link><span>/</span>
-        <Link href="/oklahoma" className="hover:text-water transition">Oklahoma</Link><span>/</span>
+        <Link href={`/${bcStateSlug}`} className="hover:text-water transition">{bcState}</Link><span>/</span>
         {ramp.featured && <><Link href="/grand-lake" className="hover:text-water transition">Grand Lake</Link><span>/</span></>}
         <span className="text-charcoal font-medium">{ramp.name}</span>
       </nav>
@@ -147,7 +151,7 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
       {/* Header */}
       <div className="mb-8">
         <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal">{ramp.name}</h1>
-        <p className="text-gray-500 mt-1">{ramp.city}, Oklahoma{gl ? ` \u00b7 Operated by ${gl.operatedBy}` : ""}</p>
+        <p className="text-gray-500 mt-1">{ramp.city}, {bcState}{gl ? ` \u00b7 Operated by ${gl.operatedBy}` : ""}</p>
         {(ramp.rating > 0) && (
           <div className="flex items-center gap-0.5 mt-2">
             {[1,2,3,4,5].map((s) => <span key={s} className={s <= ramp.rating ? "text-yellow-500" : "text-gray-200"} style={{ fontSize: 18 }}>&#9733;</span>)}
@@ -306,7 +310,7 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
           {county && (
             <Link href={`/counties/${county.toLowerCase()}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-water hover:border-water transition">{county} County boat ramps</Link>
           )}
-          <Link href="/best/free-boat-ramps-oklahoma" className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-water hover:border-water transition">Free boat ramps in Oklahoma</Link>
+          <Link href={`/${bcStateSlug}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-water hover:border-water transition">Boat ramps in {bcState}</Link>
         </div>
       </div>
     </div>
