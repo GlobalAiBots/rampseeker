@@ -8,6 +8,7 @@ import { unified } from "@/data/all-ramps";
 import { lakes } from "@/data/lakes";
 import AdSlot from "@/components/AdSlot";
 import CletusAd from "@/components/CletusAd";
+import NearMeButton from "@/components/NearMeButton";
 
 const blogPosts = [
   { slug: "free-boat-ramps-how-to-find-them", title: "Free vs Paid Boat Ramps: How to Find Free Launch Sites", date: "Apr 4, 2026", img: "/images/blog-boat-ramp-free.jpg" },
@@ -140,8 +141,12 @@ export default function Home() {
             )}
           </div>
 
+          <div className="flex justify-center mt-4">
+            <NearMeButton label="Find Ramps Near Me" color="#E67E22" />
+          </div>
+
           {/* Top states quick links */}
-          <div className="flex gap-2 justify-center mt-6 flex-wrap max-w-2xl mx-auto">
+          <div className="flex gap-2 justify-center mt-4 flex-wrap max-w-2xl mx-auto">
             {statesWithCounts.slice(0, 6).map((s) => (
               <Link key={s.code} href={`/${s.slug}`} className="bg-white/15 hover:bg-white/25 text-white font-bold px-4 py-2 rounded-lg transition text-xs backdrop-blur-sm border border-white/10">{s.name} ({s.count.toLocaleString()})</Link>
             ))}
