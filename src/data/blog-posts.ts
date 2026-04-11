@@ -11,6 +11,38 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "how-to-launch-a-boat-safely",
+    title: "How to Launch a Boat Safely: Step-by-Step Guide",
+    date: "April 11, 2026", readTime: "7 min read", category: "Safety",
+    excerpt: "Pre-launch checklist, backing down the ramp, loading and unloading, ramp etiquette, and the most common mistakes new boaters make.",
+    gradient: "linear-gradient(135deg, #1E6091 0%, #0D9488 100%)",
+    icon: `<svg viewBox="0 0 80 60" fill="none"><path d="M20 45l20-25 20 25" stroke="rgba(255,255,255,0.25)" stroke-width="2" fill="rgba(255,255,255,0.08)"/><circle cx="40" cy="15" r="5" fill="rgba(255,255,255,0.15)"/></svg>`,
+  },
+  {
+    slug: "boat-ramp-etiquette",
+    title: "Boat Ramp Etiquette: 10 Unwritten Rules Every Boater Should Know",
+    date: "April 11, 2026", readTime: "6 min read", category: "Tips",
+    excerpt: "Don't block the ramp, prep before backing in, have lines ready — the unwritten rules that keep everyone happy at the boat ramp.",
+    gradient: "linear-gradient(135deg, #E76F51 0%, #D4A373 100%)",
+    icon: `<svg viewBox="0 0 80 60" fill="none"><path d="M25 18h30v24H25z" stroke="rgba(255,255,255,0.25)" stroke-width="2" fill="rgba(255,255,255,0.08)"/><path d="M33 28h14M33 34h10" stroke="rgba(255,255,255,0.2)" stroke-width="1.5"/></svg>`,
+  },
+  {
+    slug: "public-vs-private-boat-ramps",
+    title: "Public vs Private Boat Ramps: What's the Difference?",
+    date: "April 11, 2026", readTime: "5 min read", category: "Guide",
+    excerpt: "Cost, access, amenities, maintenance, and crowding — everything you need to know about public vs private boat ramps.",
+    gradient: "linear-gradient(135deg, #2D6A4F 0%, #1B4332 100%)",
+    icon: `<svg viewBox="0 0 80 60" fill="none"><path d="M20 40V20l20-8 20 8v20" stroke="rgba(255,255,255,0.25)" stroke-width="2"/><path d="M35 40V30h10v10" stroke="rgba(255,255,255,0.2)" stroke-width="1.5"/></svg>`,
+  },
+  {
+    slug: "best-lakes-for-boating-by-state",
+    title: "Best Lakes for Boating in Every State",
+    date: "April 11, 2026", readTime: "8 min read", category: "Destinations",
+    excerpt: "One top lake per region with the best ramps, amenities, and boating conditions — from coast to coast.",
+    gradient: "linear-gradient(135deg, #1E3A5F 0%, #2D6A4F 100%)",
+    icon: `<svg viewBox="0 0 80 60" fill="none"><path d="M10 35c10-5 20 5 30 0s20-5 30 0" stroke="rgba(255,255,255,0.3)" stroke-width="2"/><path d="M10 40c10-5 20 5 30 0s20-5 30 0" stroke="rgba(255,255,255,0.15)" stroke-width="1.5"/></svg>`,
+  },
+  {
     slug: "free-boat-ramps-how-to-find-them",
     title: "Free vs Paid Boat Ramps: How to Find Free Launch Sites in Every State",
     date: "April 4, 2026", readTime: "5 min read", category: "Tips",
