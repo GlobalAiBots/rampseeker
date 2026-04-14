@@ -53,6 +53,24 @@ export default function MichiganPage() {
         <p className="text-gray-500 mt-4 max-w-lg mx-auto">{miRamps.length}+ boat ramps across {michiganLakes.length} major lakes and Great Lakes shoreline. The Great Lakes State — #3 in registered boats with 11,000+ inland lakes.</p>
       </section>
 
+      {/* State intro */}
+      <section className="max-w-4xl mx-auto px-4 pt-10 pb-2">
+        <div className="bg-white border border-gray-200 rounded-xl p-6 shadow-sm mb-6">
+          <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-3">Boating in Michigan</h2>
+          <p className="text-gray-600 leading-relaxed text-sm">Michigan offers {miRamps.length.toLocaleString()}+ public boat ramps across its waterways. From the Great Lakes, Houghton Lake, and the Au Sable River, the state provides excellent access for boaters, anglers, and kayakers. Popular catches include walleye, salmon, and perch. <Link href="/blog/how-to-launch-a-boat-safely" className="text-water hover:underline">Learn how to launch safely</Link>.</p>
+        </div>
+        <div className="bg-blue-50 border border-blue-200 rounded-xl p-5 mb-6">
+          <h3 className="font-[Cabin] font-bold text-water mb-3">Tips for Boating in Michigan</h3>
+          <ul className="space-y-2 text-sm text-gray-700">
+            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Michigan requires all motorized boats to be registered before launching at any public ramp.</li>
+            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> A fishing license is required for anyone 16+ fishing from a boat in Michigan.</li>
+            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Life jackets are required for all children under 13 on any watercraft in Michigan.</li>
+            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Most public ramps are first-come, first-served &mdash; arrive early on weekends and holidays.</li>
+            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Practice good <Link href="/blog/boat-ramp-etiquette" className="text-water hover:underline">ramp etiquette</Link>: prep in the parking area, not on the ramp.</li>
+          </ul>
+        </div>
+      </section>
+
       {featuredRamps.length > 0 && featuredLake && (
         <section className="max-w-6xl mx-auto px-4 pt-12 pb-4">
           <div className="flex items-center justify-between mb-4">
@@ -99,7 +117,7 @@ export default function MichiganPage() {
 
       {cityMap.length > 0 && (
         <section className="max-w-6xl mx-auto px-4 pb-8"><h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Browse by City</h2>
-          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">{cityMap.slice(0, 16).map(([city, count]) => (<button key={city} onClick={() => { setSelectedCity(city === selectedCity ? null : city); document.getElementById('ramp-list')?.scrollIntoView({ behavior: 'smooth' }); }} className={`text-left bg-white border rounded-lg p-3 hover:border-water hover:bg-blue-50 transition cursor-pointer ${selectedCity === city ? 'border-water bg-blue-50 ring-2 ring-water' : 'border-gray-200'}`}><p className="font-bold text-charcoal text-sm">{city}</p><p className="text-gray-400 text-xs">{count} ramp{count !== 1 ? "s" : ""}</p></button>))}</div>
+          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">{cityMap.slice(0, 16).map(([city, count]) => (<Link key={city} href={`/cities/${city.toLowerCase().replace(/s+/g, "-")}`} className="text-left bg-white border border-gray-200 rounded-lg p-3 hover:border-water hover:shadow-sm transition"><p className="font-bold text-charcoal text-sm">{city}</p><p className="text-gray-400 text-xs">{count} ramp{count !== 1 ? "s" : ""}</p></Link>))}</div>
         </section>
       )}
 

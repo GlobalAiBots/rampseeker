@@ -52,6 +52,24 @@ export default function OregonPage() {
         <p className="text-gray-500 mt-4 max-w-lg mx-auto">{orRamps.length}+ boat ramps across {oregonLakes.length} lakes and waterways. World-class salmon and steelhead rivers, Pacific coast fishing, Crater Lake — deepest in the US.</p>
       </section>
 
+      {/* State intro */}
+      <section className="max-w-4xl mx-auto px-4 pt-10 pb-2">
+        <div className="bg-white border border-gray-200 rounded-xl p-6 shadow-sm mb-6">
+          <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-3">Boating in Oregon</h2>
+          <p className="text-gray-600 leading-relaxed text-sm">Oregon offers {orRamps.length.toLocaleString()}+ public boat ramps across its waterways. From the Columbia River, Crater Lake, and the Oregon coast, the state provides excellent access for boaters, anglers, and kayakers. Popular catches include salmon, steelhead, and bass. <Link href="/blog/how-to-launch-a-boat-safely" className="text-water hover:underline">Learn how to launch safely</Link>.</p>
+        </div>
+        <div className="bg-blue-50 border border-blue-200 rounded-xl p-5 mb-6">
+          <h3 className="font-[Cabin] font-bold text-water mb-3">Tips for Boating in Oregon</h3>
+          <ul className="space-y-2 text-sm text-gray-700">
+            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Oregon requires all motorized boats to be registered before launching at any public ramp.</li>
+            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> A fishing license is required for anyone 16+ fishing from a boat in Oregon.</li>
+            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Life jackets are required for all children under 13 on any watercraft in Oregon.</li>
+            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Most public ramps are first-come, first-served &mdash; arrive early on weekends and holidays.</li>
+            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Practice good <Link href="/blog/boat-ramp-etiquette" className="text-water hover:underline">ramp etiquette</Link>: prep in the parking area, not on the ramp.</li>
+          </ul>
+        </div>
+      </section>
+
       {featuredRamps.length > 0 && featuredLake && (
         <section className="max-w-6xl mx-auto px-4 pt-12 pb-4">
           <div className="flex items-center justify-between mb-4">
@@ -84,7 +102,7 @@ export default function OregonPage() {
         </div>
       </section>
 
-      {cityMap.length > 0 && (<section className="max-w-6xl mx-auto px-4 pb-8"><h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Browse by City</h2><div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">{cityMap.slice(0, 16).map(([city, count]) => (<button key={city} onClick={() => { setSelectedCity(city === selectedCity ? null : city); document.getElementById('ramp-list')?.scrollIntoView({ behavior: 'smooth' }); }} className={`text-left bg-white border rounded-lg p-3 hover:border-water hover:bg-blue-50 transition cursor-pointer ${selectedCity === city ? 'border-water bg-blue-50 ring-2 ring-water' : 'border-gray-200'}`}><p className="font-bold text-charcoal text-sm">{city}</p><p className="text-gray-400 text-xs">{count} ramp{count !== 1 ? "s" : ""}</p></button>))}</div></section>)}
+      {cityMap.length > 0 && (<section className="max-w-6xl mx-auto px-4 pb-8"><h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Browse by City</h2><div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">{cityMap.slice(0, 16).map(([city, count]) => (<Link key={city} href={`/cities/${city.toLowerCase().replace(/s+/g, "-")}`} className="text-left bg-white border border-gray-200 rounded-lg p-3 hover:border-water hover:shadow-sm transition"><p className="font-bold text-charcoal text-sm">{city}</p><p className="text-gray-400 text-xs">{count} ramp{count !== 1 ? "s" : ""}</p></Link>))}</div></section>)}
 
       {selectedCity && (<div className="max-w-6xl mx-auto px-4 pb-4"><button onClick={() => setSelectedCity(null)} className="text-sm text-water hover:underline">&larr; Show all {orRamps.length} ramps</button></div>)}
       <div id="ramp-list"><RampList ramps={filteredRamps} stateName="Oregon" /></div>
@@ -96,6 +114,9 @@ export default function OregonPage() {
             { q: "How many boat ramps are in Oregon?", a: `RampSeeker lists ${orRamps.length}+ boat ramps across Oregon, from the Columbia River to the Pacific Coast.` },
             { q: "What are the best fishing spots in Oregon?", a: "The Columbia River is world-famous for salmon and sturgeon fishing. The Deschutes River offers premier fly fishing for trout and steelhead. The Rogue River is legendary for steelhead runs. The Pacific coast provides excellent halibut and lingcod fishing." },
             { q: "Do I need a boating license in Oregon?", a: "Oregon requires a Boater Education Card for all motorized vessel operators born on or after January 1, 1988. All motorized boats must be registered with the Oregon State Marine Board." },
+          
+            { q: "Do I need a boating license in Oregon?", a: "Oregon requires a boating safety education certificate for boat operators. Check with the state's wildlife agency for specific age and horsepower requirements." },
+            { q: "When is the best time to boat in Oregon?", a: "Peak boating season in Oregon runs from May through October, but many waterways are accessible year-round. Spring and fall offer less crowded conditions and excellent fishing." },
           ].map((f, i) => (
             <details key={i} className="bg-white border border-gray-200 rounded-xl overflow-hidden shadow-sm group">
               <summary className="px-5 py-4 cursor-pointer font-semibold text-charcoal text-sm hover:text-water transition list-none flex items-center justify-between">{f.q}<svg className="w-4 h-4 text-gray-400 group-open:rotate-180 transition-transform flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" /></svg></summary>
