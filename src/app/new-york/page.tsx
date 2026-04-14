@@ -5,6 +5,7 @@ import Link from "next/link";
 import { unified, amenityLabels, isGenericName } from "@/data/all-ramps";
 import { newYorkLakes, getNewYorkLakeForRamp } from "@/data/new-york-lakes";
 import CletusAd from "@/components/CletusAd";
+import FeaturedArticle from "@/components/FeaturedArticle";
 import RampList from "@/components/RampList";
 
 export default function NewYorkPage() {
@@ -120,7 +121,8 @@ export default function NewYorkPage() {
         </div>
       </section>
 
-      <div className="max-w-6xl mx-auto px-4"><CletusAd /></div>
+      <div className="max-w-6xl mx-auto px-4"><FeaturedArticle listingSlug={"state-new-york"} />
+      <CletusAd /></div>
     </div>
   );
 }

@@ -5,6 +5,7 @@ import Link from "next/link";
 import { unified, amenityLabels, isGenericName } from "@/data/all-ramps";
 import { georgiaLakes, getGeorgiaLakeForRamp } from "@/data/georgia-lakes";
 import CletusAd from "@/components/CletusAd";
+import FeaturedArticle from "@/components/FeaturedArticle";
 import RampList from "@/components/RampList";
 
 export default function GeorgiaPage() {
@@ -103,7 +104,8 @@ export default function GeorgiaPage() {
           ))}
         </div>
       </section>
-      <div className="max-w-6xl mx-auto px-4"><CletusAd /></div>
+      <div className="max-w-6xl mx-auto px-4"><FeaturedArticle listingSlug={"state-georgia"} />
+      <CletusAd /></div>
     </div>
   );
 }

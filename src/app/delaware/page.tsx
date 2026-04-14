@@ -5,6 +5,7 @@ import Link from "next/link";
 import { unified, amenityLabels, isGenericName } from "@/data/all-ramps";
 import { delawareLakes, getDelawareLakeForRamp } from "@/data/delaware-lakes";
 import CletusAd from "@/components/CletusAd";
+import FeaturedArticle from "@/components/FeaturedArticle";
 import RampList from "@/components/RampList";
 
 export default function DelawarePage() {
@@ -102,7 +103,8 @@ export default function DelawarePage() {
           ))}
         </div>
       </section>
-      <div className="max-w-6xl mx-auto px-4"><CletusAd /></div>
+      <div className="max-w-6xl mx-auto px-4"><FeaturedArticle listingSlug={"state-delaware"} />
+      <CletusAd /></div>
     </div>
   );
 }

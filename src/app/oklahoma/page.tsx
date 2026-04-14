@@ -5,6 +5,7 @@ import Link from "next/link";
 import { unified, amenityLabels } from "@/data/all-ramps";
 import { lakes, getLakeForRamp } from "@/data/lakes";
 import CletusAd from "@/components/CletusAd";
+import FeaturedArticle from "@/components/FeaturedArticle";
 import RampList from "@/components/RampList";
 
 export default function OklahomaPage() {
@@ -117,7 +118,8 @@ export default function OklahomaPage() {
       {selectedCity && (<div className="max-w-6xl mx-auto px-4 pb-4"><button onClick={() => setSelectedCity(null)} className="text-sm text-water hover:underline">&larr; Show all {okRamps.length} ramps</button></div>)}
       <div id="ramp-list"><RampList ramps={filteredRamps} stateName="Oklahoma" /></div>
 
-      <div className="max-w-6xl mx-auto px-4"><CletusAd /></div>
+      <div className="max-w-6xl mx-auto px-4"><FeaturedArticle listingSlug={"state-oklahoma"} />
+      <CletusAd /></div>
     </div>
   );
 }

@@ -5,6 +5,7 @@ import Link from "next/link";
 import { unified, amenityLabels, isGenericName } from "@/data/all-ramps";
 import { northDakotaLakes, getNorthDakotaLakeForRamp } from "@/data/north-dakota-lakes";
 import CletusAd from "@/components/CletusAd";
+import FeaturedArticle from "@/components/FeaturedArticle";
 import RampList from "@/components/RampList";
 
 export default function NorthDakotaPage() {
@@ -102,7 +103,8 @@ export default function NorthDakotaPage() {
           ))}
         </div>
       </section>
-      <div className="max-w-6xl mx-auto px-4"><CletusAd /></div>
+      <div className="max-w-6xl mx-auto px-4"><FeaturedArticle listingSlug={"state-north-dakota"} />
+      <CletusAd /></div>
     </div>
   );
 }

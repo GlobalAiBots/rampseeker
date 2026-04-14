@@ -5,6 +5,7 @@ import Link from "next/link";
 import { unified, amenityLabels, isGenericName } from "@/data/all-ramps";
 import { ohioLakes, getOhioLakeForRamp } from "@/data/ohio-lakes";
 import CletusAd from "@/components/CletusAd";
+import FeaturedArticle from "@/components/FeaturedArticle";
 import RampList from "@/components/RampList";
 
 export default function OhioPage() {
@@ -120,7 +121,8 @@ export default function OhioPage() {
         </div>
       </section>
 
-      <div className="max-w-6xl mx-auto px-4"><CletusAd /></div>
+      <div className="max-w-6xl mx-auto px-4"><FeaturedArticle listingSlug={"state-ohio"} />
+      <CletusAd /></div>
     </div>
   );
 }

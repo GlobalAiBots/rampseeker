@@ -5,6 +5,7 @@ import Link from "next/link";
 import { unified, amenityLabels, isGenericName } from "@/data/all-ramps";
 import { floridaLakes, getFloridaLakeForRamp } from "@/data/florida-lakes";
 import CletusAd from "@/components/CletusAd";
+import FeaturedArticle from "@/components/FeaturedArticle";
 import RampList from "@/components/RampList";
 
 export default function FloridaPage() {
@@ -105,7 +106,8 @@ export default function FloridaPage() {
       {selectedCity && (<div className="max-w-6xl mx-auto px-4 pb-4"><button onClick={() => setSelectedCity(null)} className="text-sm text-water hover:underline">&larr; Show all {flRamps.length} ramps</button></div>)}
       <div id="ramp-list"><RampList ramps={filteredRamps} stateName="Florida" /></div>
 
-      <div className="max-w-6xl mx-auto px-4"><CletusAd /></div>
+      <div className="max-w-6xl mx-auto px-4"><FeaturedArticle listingSlug={"state-florida"} />
+      <CletusAd /></div>
     </div>
   );
 }

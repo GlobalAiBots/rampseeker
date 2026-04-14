@@ -5,6 +5,7 @@ import Link from "next/link";
 import { unified, amenityLabels, isGenericName } from "@/data/all-ramps";
 import { newHampshireLakes, getNewHampshireLakeForRamp } from "@/data/new-hampshire-lakes";
 import CletusAd from "@/components/CletusAd";
+import FeaturedArticle from "@/components/FeaturedArticle";
 import RampList from "@/components/RampList";
 
 export default function NewHampshirePage() {
@@ -102,7 +103,8 @@ export default function NewHampshirePage() {
           ))}
         </div>
       </section>
-      <div className="max-w-6xl mx-auto px-4"><CletusAd /></div>
+      <div className="max-w-6xl mx-auto px-4"><FeaturedArticle listingSlug={"state-new-hampshire"} />
+      <CletusAd /></div>
     </div>
   );
 }

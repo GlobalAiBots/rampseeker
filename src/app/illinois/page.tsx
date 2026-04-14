@@ -5,6 +5,7 @@ import Link from "next/link";
 import { unified, amenityLabels, isGenericName } from "@/data/all-ramps";
 import { illinoisLakes, getIllinoisLakeForRamp } from "@/data/illinois-lakes";
 import CletusAd from "@/components/CletusAd";
+import FeaturedArticle from "@/components/FeaturedArticle";
 import RampList from "@/components/RampList";
 
 export default function IllinoisPage() {
@@ -120,7 +121,8 @@ export default function IllinoisPage() {
         </div>
       </section>
 
-      <div className="max-w-6xl mx-auto px-4"><CletusAd /></div>
+      <div className="max-w-6xl mx-auto px-4"><FeaturedArticle listingSlug={"state-illinois"} />
+      <CletusAd /></div>
     </div>
   );
 }
