@@ -258,14 +258,89 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
       )}
 
       {/* === BASIC (non-Grand Lake) CONTENT === */}
-      {!gl && (
-        <div className="bg-white border border-gray-200 rounded-xl p-5 mb-8 shadow-sm">
-          <h3 className="font-[Cabin] font-bold text-charcoal mb-3">Location Details</h3>
-          <p className="text-gray-600 text-sm mb-2">{ramp.address}</p>
-          <p className="text-gray-400 text-xs font-mono">GPS: {ramp.latitude.toFixed(4)}, {ramp.longitude.toFixed(4)}</p>
-          {ramp.county && <p className="text-gray-400 text-xs mt-1">County: {ramp.county}</p>}
-        </div>
-      )}
+      {!gl && (() => {
+        const stateRampCount = unified.filter(r => r.state === ramp.state).length;
+        const waterBody = lake ? lake.name : ramp.description.match(/on\s+([\w\s]+(?:Lake|River|Creek|Reservoir|Bay|Sound|Harbor|Inlet))/i)?.[1] || null;
+        return (
+          <>
+            {/* Location Details */}
+            <div className="bg-white border border-gray-200 rounded-xl p-5 mb-6 shadow-sm">
+              <h3 className="font-[Cabin] font-bold text-charcoal mb-3">Location Details</h3>
+              <p className="text-gray-600 text-sm mb-2">{ramp.address}</p>
+              <p className="text-gray-400 text-xs font-mono">GPS: {ramp.latitude.toFixed(4)}, {ramp.longitude.toFixed(4)}</p>
+              {ramp.county && <p className="text-gray-400 text-xs mt-1">County: {ramp.county}</p>}
+            </div>
+
+            {/* About This Ramp — unique generated description */}
+            <div className="bg-white border border-gray-200 rounded-xl p-6 mb-6 shadow-sm">
+              <h3 className="font-[Cabin] font-bold text-charcoal mb-3">About {ramp.name}</h3>
+              <p className="text-gray-600 leading-relaxed text-sm">
+                {ramp.name} is a public boat ramp located {ramp.city ? `in ${ramp.city}, ` : "in "}{bcState}{waterBody ? `, providing access to ${waterBody}` : ""}. This launch site is used by local boaters, anglers, and outdoor enthusiasts{ramp.rating > 3.5 ? " and is well-regarded by visitors" : ""}. GPS coordinates for navigation are {ramp.latitude.toFixed(4)}, {ramp.longitude.toFixed(4)}.
+              </p>
+              {ramp.rating > 0 && (
+                <p className="text-gray-600 leading-relaxed text-sm mt-3">
+                  Based on {ramp.totalRatings} Google review{ramp.totalRatings !== 1 ? "s" : ""}, {ramp.name} has earned a {ramp.rating}/5 star rating. {ramp.rating >= 4 ? "Visitors consistently praise this location as a solid launch point." : ramp.rating >= 3 ? "Reviews are generally positive with some room for improvement." : "Some visitors have noted areas for improvement — check recent reviews before heading out."}
+                </p>
+              )}
+            </div>
+
+            {/* What to Know */}
+            <div className="bg-blue-50 border border-blue-200 rounded-xl p-5 mb-6">
+              <h3 className="font-[Cabin] font-bold text-water mb-3">What to Know Before You Go</h3>
+              <ul className="space-y-2 text-sm text-gray-700">
+                <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> {bcState} requires all motorized boats to be registered before launching at any public ramp.</li>
+                <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Most public boat ramps in {bcState} are first-come, first-served &mdash; arrive early on weekends and holidays.</li>
+                <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Always check local water conditions and weather forecasts before heading to {ramp.name}.</li>
+                <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Practice good <Link href="/blog/boat-ramp-etiquette" className="text-water hover:underline">ramp etiquette</Link>: prep your boat in the parking area, not on the ramp.</li>
+              </ul>
+            </div>
+
+            {/* Boating in [State] */}
+            <div className="bg-white border border-gray-200 rounded-xl p-6 mb-6 shadow-sm">
+              <h3 className="font-[Cabin] font-bold text-charcoal mb-3">Boating in {bcState}</h3>
+              <p className="text-gray-600 leading-relaxed text-sm">
+                {bcState} offers {stateRampCount.toLocaleString()} boat ramps across the state, making it {stateRampCount > 1000 ? "one of the best states in America for boating access" : stateRampCount > 500 ? "a great state for boaters with plenty of launch options" : "home to a solid selection of boat launches"}. Whether you&apos;re fishing, skiing, or just cruising, {bcState} has something for every boater. <Link href={`/${bcStateSlug}`} className="text-water hover:underline">Browse all {stateRampCount.toLocaleString()} boat ramps in {bcState}</Link>.
+              </p>
+            </div>
+
+            {/* Related Guides */}
+            <div className="mb-6">
+              <h3 className="font-[Cabin] font-bold text-charcoal mb-3">Related Guides</h3>
+              <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+                {[
+                  { href: "/blog/how-to-launch-a-boat-safely", title: "How to Launch a Boat Safely", desc: "Step-by-step guide for beginners" },
+                  { href: "/blog/boat-ramp-etiquette", title: "Boat Ramp Etiquette", desc: "10 unwritten rules every boater should know" },
+                  { href: "/blog/public-vs-private-boat-ramps", title: "Public vs Private Ramps", desc: "Cost, access, and amenity differences" },
+                ].map((g) => (
+                  <Link key={g.href} href={g.href} className="group bg-white border border-gray-200 rounded-xl p-4 hover:shadow-md hover:-translate-y-0.5 transition-all">
+                    <p className="font-bold text-charcoal group-hover:text-water transition text-sm">{g.title}</p>
+                    <p className="text-gray-400 text-xs mt-1">{g.desc}</p>
+                  </Link>
+                ))}
+              </div>
+            </div>
+
+            {/* Nearby Cities */}
+            {ramp.city && (() => {
+              const citiesInState = unified.filter(r => r.state === ramp.state && r.city && r.city !== ramp.city);
+              const uniqueCities = Array.from(new Set(citiesInState.map(r => r.city))).slice(0, 6);
+              if (uniqueCities.length === 0) return null;
+              return (
+                <div className="mb-6">
+                  <h3 className="font-[Cabin] font-bold text-charcoal mb-3">Nearby Cities with Boat Ramps</h3>
+                  <div className="flex flex-wrap gap-2">
+                    {uniqueCities.map(city => (
+                      <Link key={city} href={`/cities/${city.toLowerCase().replace(/\s+/g, "-")}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-water hover:border-water transition">
+                        {city}, {ramp.state}
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              );
+            })()}
+          </>
+        );
+      })()}
 
       {/* FAQ Section */}
       <div className="mb-12">
