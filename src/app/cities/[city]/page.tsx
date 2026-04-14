@@ -1,4 +1,5 @@
 import Link from "next/link";
+import dynamic from "next/dynamic";
 import { notFound } from "next/navigation";
 import { cities, getCityBySlug } from "@/data/cities";
 import { amenityLabels } from "@/data/all-ramps";
@@ -7,6 +8,8 @@ import AdSlot from "@/components/AdSlot";
 import FeaturedArticle from "@/components/FeaturedArticle";
 import { getCountyForCity } from "@/data/counties";
 import type { Metadata } from "next";
+
+const RampMap = dynamic(() => import("@/components/RampMap"), { ssr: false, loading: () => <div className="rounded-xl bg-gray-100 flex items-center justify-center" style={{ height: 350 }}><p className="text-gray-400 text-sm">Loading map...</p></div> });
 
 const eligibleCities = cities.filter((c) => c.ramps.length >= 2);
 
@@ -60,6 +63,12 @@ export default async function CityPage({ params }: { params: Promise<{ city: str
 
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-2">Boat Ramps near {city.name}, {city.stateName}</h1>
       <p className="text-gray-500 mb-8">{city.ramps.length} boat ramp{city.ramps.length !== 1 ? "s" : ""} near {city.name}{county ? `, ${county} County` : ""}, {city.stateName}</p>
+
+      {city.ramps.length > 0 && (() => {
+        const mapRamps = city.ramps.map(r => ({ id: r.id, name: r.name, latitude: r.latitude, longitude: r.longitude, city: r.city }));
+        const center: [number, number] = [city.ramps.reduce((s, r) => s + r.latitude, 0) / city.ramps.length, city.ramps.reduce((s, r) => s + r.longitude, 0) / city.ramps.length];
+        return <RampMap ramps={mapRamps} center={center} zoom={12} height="350px" className="mb-8" />;
+      })()}
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-12">
         {city.ramps.map((r) => {
