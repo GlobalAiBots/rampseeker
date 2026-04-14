@@ -14,6 +14,7 @@ import { getCountyForCity } from "@/data/counties";
 import AdSlot from "@/components/AdSlot";
 import CletusAd from "@/components/CletusAd";
 import GearRecommendation from "@/components/GearRecommendation";
+import FeaturedArticle from "@/components/FeaturedArticle";
 import type { Metadata } from "next";
 
 export function generateStaticParams() {
@@ -357,6 +358,8 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
           ))}
         </div>
       </div>
+
+      <FeaturedArticle listingSlug={ramp.id} />
 
       <AdSlot position="ramp-below-faq" />
       <CletusAd />
