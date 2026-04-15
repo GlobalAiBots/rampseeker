@@ -11,6 +11,30 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "best-fishing-by-month",
+    title: "Best Fishing by Month: When to Fish in Every Season",
+    date: "April 15, 2026", readTime: "7 min read", category: "Seasonal",
+    excerpt: "Spring bass, summer catfish, fall walleye, winter ice fishing — what to target every month of the year.",
+    gradient: "linear-gradient(135deg, #0D9488 0%, #2D6A4F 100%)",
+    icon: `<svg viewBox="0 0 80 60" fill="none"><path d="M15 30c10-8 20 8 30 0s15-8 20 0" stroke="rgba(255,255,255,0.25)" stroke-width="2"/></svg>`,
+  },
+  {
+    slug: "winterize-your-boat",
+    title: "How to Winterize Your Boat: Complete Checklist",
+    date: "April 15, 2026", readTime: "6 min read", category: "Maintenance",
+    excerpt: "Engine fogging, fuel stabilizer, battery storage, and more — everything you need to put your boat away for winter.",
+    gradient: "linear-gradient(135deg, #1E3A5F 0%, #0F172A 100%)",
+    icon: `<svg viewBox="0 0 80 60" fill="none"><circle cx="40" cy="30" r="15" stroke="rgba(255,255,255,0.25)" stroke-width="2"/><path d="M40 18v24M32 30h16" stroke="rgba(255,255,255,0.2)" stroke-width="1.5"/></svg>`,
+  },
+  {
+    slug: "spring-boat-prep",
+    title: "Spring Boat Prep: Get Your Boat Ready for the Season",
+    date: "April 15, 2026", readTime: "5 min read", category: "Maintenance",
+    excerpt: "Battery, oil, safety gear, registration — the complete pre-season checklist to get back on the water.",
+    gradient: "linear-gradient(135deg, #2D6A4F 0%, #0D9488 100%)",
+    icon: `<svg viewBox="0 0 80 60" fill="none"><path d="M25 40l15-20 15 20" stroke="rgba(255,255,255,0.25)" stroke-width="2" fill="rgba(255,255,255,0.08)"/></svg>`,
+  },
+  {
     slug: "how-to-launch-a-boat-safely",
     title: "How to Launch a Boat Safely: Step-by-Step Guide",
     date: "April 11, 2026", readTime: "7 min read", category: "Safety",

@@ -43,5 +43,7125 @@
       "leisure_slipway"
     ],
     "business_status": "OPERATIONAL"
+  },
+  {
+    "place_id": "155521103",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.8385925,
+    "longitude": -82.1316658,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "197456510",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.8403352,
+    "longitude": -82.1461347,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "207493364",
+    "name": "Horseshoe Bend",
+    "formatted_address": "",
+    "latitude": 37.5891091,
+    "longitude": -79.7277945,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "411855312",
+    "name": "Irongate",
+    "formatted_address": "",
+    "latitude": 37.7736572,
+    "longitude": -79.7826584,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "411855313",
+    "name": "Craig Creek",
+    "formatted_address": "",
+    "latitude": 37.6456702,
+    "longitude": -79.8148329,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "411855318",
+    "name": "Buchanan",
+    "formatted_address": "",
+    "latitude": 37.5299905,
+    "longitude": -79.6794041,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "674527402",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.750293,
+    "longitude": -81.9613004,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1761723587",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.5826621,
+    "longitude": -80.9376936,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "2298891896",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.8420483,
+    "longitude": -80.61352,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "2351562607",
+    "name": "Hardy Ford public boat ramp",
+    "formatted_address": "",
+    "latitude": 37.2200668,
+    "longitude": -79.8013839,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "2351562611",
+    "name": "Hardy Ford public boat ramp",
+    "formatted_address": "",
+    "latitude": 37.2200352,
+    "longitude": -79.8013116,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "2748558564",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0081371,
+    "longitude": -80.0096576,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "2889176345",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.3842854,
+    "longitude": -79.9470449,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "2889258859",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.3842742,
+    "longitude": -79.9471378,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "2926623997",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.5006373,
+    "longitude": -81.8458807,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "2932302101",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.2990761,
+    "longitude": -80.7695389,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "3038419320",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.7356156,
+    "longitude": -81.0856408,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "3454299940",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.4252012,
+    "longitude": -82.4408396,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "3454299942",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.4252522,
+    "longitude": -82.4407464,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "3667017079",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.9925538,
+    "longitude": -79.9475451,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "3930578045",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.9082256,
+    "longitude": -79.796272,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "3983340463",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.3116472,
+    "longitude": -82.3578527,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "3983351323",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.3042346,
+    "longitude": -82.4142279,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "4103943124",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.6615591,
+    "longitude": -80.6973256,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "4103943126",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.660368,
+    "longitude": -80.6874178,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "4103943127",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.6563728,
+    "longitude": -80.682743,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "4277477506",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1162634,
+    "longitude": -82.3332575,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "4277482187",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0851247,
+    "longitude": -82.3117509,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "4277533060",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1286509,
+    "longitude": -82.3787305,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "4277533072",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1287275,
+    "longitude": -82.378768,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "4338431736",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.790437,
+    "longitude": -80.5703182,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "4602224438",
+    "name": "Buffalo Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.6088392,
+    "longitude": -81.9934854,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "4717718422",
+    "name": "Arcadia",
+    "formatted_address": "",
+    "latitude": 37.5548891,
+    "longitude": -79.6369093,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "5057432835",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.8259457,
+    "longitude": -81.9540883,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "6292012530",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.4313896,
+    "longitude": -82.3911685,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "6422096428",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.8011752,
+    "longitude": -80.5740552,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "6859735595",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.289901,
+    "longitude": -80.6157257,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "7157231434",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.532172,
+    "longitude": -79.7028931,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "7529959441",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.4130317,
+    "longitude": -82.5953823,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "7590743474",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.6619284,
+    "longitude": -82.4787815,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "8027596335",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.7447227,
+    "longitude": -80.4661956,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "8203364838",
+    "name": "Duck",
+    "formatted_address": "",
+    "latitude": 38.5851382,
+    "longitude": -80.9271988,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "8653279897",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.6517736,
+    "longitude": -80.8857683,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "8927480085",
+    "name": "Tug Creek River Access",
+    "formatted_address": "",
+    "latitude": 37.6973664,
+    "longitude": -80.884716,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "8927480093",
+    "name": "Brooks Falls River Access",
+    "formatted_address": "",
+    "latitude": 37.723197,
+    "longitude": -80.8948628,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "8927480097",
+    "name": "Sandstone Falls River Access",
+    "formatted_address": "",
+    "latitude": 37.7608149,
+    "longitude": -80.8994835,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "8927480108",
+    "name": "Meadow Creek River Access",
+    "formatted_address": "",
+    "latitude": 37.7962176,
+    "longitude": -80.9218672,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "8927480109",
+    "name": "Grandview Sandbar River Access",
+    "formatted_address": "",
+    "latitude": 37.8574992,
+    "longitude": -81.0538416,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "8927488533",
+    "name": "Stone Cliff River Access",
+    "formatted_address": "",
+    "latitude": 37.933679,
+    "longitude": -81.0632438,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "8927488534",
+    "name": "Cunard River Access",
+    "formatted_address": "",
+    "latitude": 37.9990584,
+    "longitude": -81.0222588,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "8927488536",
+    "name": "Fayette River Access",
+    "formatted_address": "",
+    "latitude": 38.0672666,
+    "longitude": -81.0818257,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "8986477596",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.6557343,
+    "longitude": -80.7625305,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "9270923908",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.8180807,
+    "longitude": -79.9873045,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "9301847665",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.5095595,
+    "longitude": -82.5434311,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "9442838693",
+    "name": "Walhonde Water Trail Access Ramp",
+    "formatted_address": "",
+    "latitude": 38.0594211,
+    "longitude": -81.8249284,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "9744138950",
+    "name": "Johnson Spring Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.9145889,
+    "longitude": -79.971456,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "9792682575",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.4407729,
+    "longitude": -82.4036084,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "10045314766",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.3959615,
+    "longitude": -81.5855516,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "10176345278",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.3299498,
+    "longitude": -81.5832569,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "10602233986",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.6679246,
+    "longitude": -80.5613341,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "10674674916",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.270947,
+    "longitude": -82.3023187,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "10759360470",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.3389091,
+    "longitude": -81.6278499,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "10788659459",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.6687474,
+    "longitude": -80.551033,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "10990160086",
+    "name": "Kayak Launch",
+    "formatted_address": "",
+    "latitude": 37.3842386,
+    "longitude": -79.9469037,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "11734304965",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.9490893,
+    "longitude": -79.9681696,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "11918168236",
+    "name": "Mud River Access",
+    "formatted_address": "",
+    "latitude": 38.4437316,
+    "longitude": -82.1900048,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "12227841363",
+    "name": "Ingles Landing",
+    "formatted_address": "",
+    "latitude": 37.285687,
+    "longitude": -80.6168097,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "12425547611",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.066872,
+    "longitude": -81.081141,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "12560234002",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1559765,
+    "longitude": -81.1845107,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "12578104238",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.4163179,
+    "longitude": -81.8320764,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "12578104240",
+    "name": "Kayak",
+    "formatted_address": "",
+    "latitude": 38.4163847,
+    "longitude": -81.8320185,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "334108558",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.3388784,
+    "longitude": -81.6280431,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "379687588",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.3620666,
+    "longitude": -81.6641369,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "446187841",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.8094237,
+    "longitude": -80.9247783,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "585487599",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.4251299,
+    "longitude": -82.4406636,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "585487600",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.4251045,
+    "longitude": -82.4407102,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "766329076",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.5322482,
+    "longitude": -79.702848,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "786813430",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.3299978,
+    "longitude": -81.5830826,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "805107715",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.4129572,
+    "longitude": -82.595326,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "843728883",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.3960049,
+    "longitude": -81.5856211,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "844068140",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.3392904,
+    "longitude": -81.8408963,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "931239644",
+    "name": "Gilmer–Braxton County Line Access",
+    "formatted_address": "",
+    "latitude": 38.8886792,
+    "longitude": -80.7205789,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "933605966",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.6519496,
+    "longitude": -80.8855068,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "933608502",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.8866564,
+    "longitude": -81.8397106,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "933614597",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.7968904,
+    "longitude": -81.6807057,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1022963726",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.4116864,
+    "longitude": -81.8477038,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1040227119",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.8769643,
+    "longitude": -79.9762489,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1040233509",
+    "name": "Fortney Branch Boat Launch",
+    "formatted_address": "",
+    "latitude": 37.9287956,
+    "longitude": -79.9808776,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1060586390",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.9146422,
+    "longitude": -79.9711604,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1066433227",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.6120181,
+    "longitude": -82.1747213,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1066433612",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.4408832,
+    "longitude": -82.4037316,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1081595590",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.6688372,
+    "longitude": -80.5509377,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1081595592",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.6679204,
+    "longitude": -80.5614269,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1081642697",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.2407449,
+    "longitude": -80.8832895,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1081643325",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.2255551,
+    "longitude": -80.9104296,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1081643326",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.226906,
+    "longitude": -80.9110587,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1081643349",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.2453215,
+    "longitude": -80.8601326,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1081643350",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.2429879,
+    "longitude": -80.8590035,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1118749285",
+    "name": "St.Albans Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.3893408,
+    "longitude": -81.8282636,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1120025989",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.4829309,
+    "longitude": -81.8255082,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1147175324",
+    "name": "Garden Hole Access",
+    "formatted_address": "",
+    "latitude": 37.2709078,
+    "longitude": -82.3022386,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1163540586",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.5342734,
+    "longitude": -81.8968639,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1201086582",
+    "name": "Coonskin Boat Launch",
+    "formatted_address": "",
+    "latitude": 38.3892012,
+    "longitude": -81.5841621,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1201477068",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.8490774,
+    "longitude": -81.0916149,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1202897690",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.8904368,
+    "longitude": -80.4893247,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1207283600",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.8054459,
+    "longitude": -82.2060585,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1207283601",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.8054807,
+    "longitude": -82.205981,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1241958180",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.6138061,
+    "longitude": -82.1687913,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1241962604",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.6123771,
+    "longitude": -82.1749696,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1358959108",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.4162875,
+    "longitude": -81.832233,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1435779731",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.2497392,
+    "longitude": -80.4349211,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1468993728",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.8421275,
+    "longitude": -82.1453504,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "103062746",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.5990051,
+    "longitude": -77.8292259,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "148684005",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 40.0370641,
+    "longitude": -79.0618361,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "148785056",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.7767657,
+    "longitude": -79.212911,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "205686733",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.758578,
+    "longitude": -78.512563,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "208684178",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.756927,
+    "longitude": -78.511874,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "208902020",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.689321,
+    "longitude": -78.6703824,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "208945022",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.6967313,
+    "longitude": -78.6794534,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "208945552",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.6983269,
+    "longitude": -78.688202,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "217704794",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.588173,
+    "longitude": -77.7129504,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "219545508",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1160235,
+    "longitude": -77.9246491,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "220260286",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.9438035,
+    "longitude": -78.1925297,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "565854262",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 40.2925549,
+    "longitude": -78.1845483,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "938903229",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.4198584,
+    "longitude": -79.1299073,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "938965481",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.419897,
+    "longitude": -79.1301675,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1413162495",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.9259997,
+    "longitude": -78.5890836,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1494516702",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.6652593,
+    "longitude": -77.8866318,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1494533139",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.6644412,
+    "longitude": -77.8905185,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1495844561",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.3638799,
+    "longitude": -77.7407673,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1733488355",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.5887365,
+    "longitude": -78.5657104,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1740934198",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.7151873,
+    "longitude": -79.3852557,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1770953957",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.9576819,
+    "longitude": -78.7376432,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1779950456",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.5432641,
+    "longitude": -79.1375106,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1974232204",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.6214763,
+    "longitude": -77.7233702,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "2152592696",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.2567498,
+    "longitude": -78.3196738,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "2332623219",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.5888397,
+    "longitude": -77.9081035,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "2342446998",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.5393739,
+    "longitude": -78.09779,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "2342704954",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.4935655,
+    "longitude": -77.9165553,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "2357318546",
+    "name": "Canoe & Kajak access only",
+    "formatted_address": "",
+    "latitude": 39.2052997,
+    "longitude": -77.8480485,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "2357438251",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.2583082,
+    "longitude": -77.8074893,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "2371497548",
+    "name": "Public Boat Landing",
+    "formatted_address": "",
+    "latitude": 38.5272264,
+    "longitude": -78.5944745,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "2675914615",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.1983306,
+    "longitude": -77.8499348,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "2675997370",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.2252697,
+    "longitude": -77.8208086,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "2942033783",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 40.3935205,
+    "longitude": -77.8753085,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "3575694980",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.5131399,
+    "longitude": -79.3227689,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "3608166639",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.5554597,
+    "longitude": -79.3527012,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "3675120242",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.4683222,
+    "longitude": -79.2938094,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "3680905842",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.5158768,
+    "longitude": -79.3131281,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "3684503930",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.4981984,
+    "longitude": -79.2797537,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "3798762943",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.6079735,
+    "longitude": -77.9685998,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "3813071258",
+    "name": "Boat Ramp / Riverside Park",
+    "formatted_address": "",
+    "latitude": 40.3940367,
+    "longitude": -77.938411,
+    "city": "Mapleton",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "3846835033",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.6581856,
+    "longitude": -77.8482874,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "3944935733",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.45498,
+    "longitude": -79.4542386,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "3971679898",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.4107752,
+    "longitude": -79.3743845,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "3994580479",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.4060067,
+    "longitude": -79.2335512,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "4162131962",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.7118697,
+    "longitude": -78.6419883,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "4190448830",
+    "name": "Spring Gap boat launch",
+    "formatted_address": "",
+    "latitude": 39.5640564,
+    "longitude": -78.719007,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "4208105720",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 40.2957271,
+    "longitude": -78.1805405,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "4210982733",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.6972593,
+    "longitude": -78.1819608,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "4218554635",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.4479462,
+    "longitude": -78.653772,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "4240645254",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.3349342,
+    "longitude": -77.7572181,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "4408435643",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.6763917,
+    "longitude": -77.9484937,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "4486992742",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.6243567,
+    "longitude": -78.3848151,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "4544022560",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.913432,
+    "longitude": -78.2095402,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "4544022561",
+    "name": "Front Royal Golf Club Boat Landing",
+    "formatted_address": "",
+    "latitude": 38.9571709,
+    "longitude": -78.1825155,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "4638274474",
+    "name": "Colvin Area Boat Launch",
+    "formatted_address": "",
+    "latitude": 40.0393,
+    "longitude": -78.6445653,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "5141089015",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.6359396,
+    "longitude": -78.7198138,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "5141089016",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.6347835,
+    "longitude": -78.8112915,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "5312778532",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.7329504,
+    "longitude": -78.6450749,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "5737573015",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 40.4109228,
+    "longitude": -78.6881074,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "5903940673",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.6975791,
+    "longitude": -77.9409696,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "5904004766",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 40.4425649,
+    "longitude": -78.0390278,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "5904011639",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 40.375442,
+    "longitude": -78.1617365,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "5904012868",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 40.3002441,
+    "longitude": -78.207975,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "5904022923",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 40.2446303,
+    "longitude": -78.232361,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "6242147433",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.6917349,
+    "longitude": -77.9194712,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "6437207285",
+    "name": "Point Boat Launch",
+    "formatted_address": "",
+    "latitude": 40.4555577,
+    "longitude": -77.9786154,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "6551927202",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 40.5293814,
+    "longitude": -79.4756177,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "6644599582",
+    "name": "Palmyra Boat Landing",
+    "formatted_address": "",
+    "latitude": 37.857756,
+    "longitude": -78.2668979,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "6764644456",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 40.0368058,
+    "longitude": -78.6335508,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "6764644458",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 40.0296447,
+    "longitude": -78.6406364,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "6775895787",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 40.3158757,
+    "longitude": -78.9137483,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "6859180670",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.6289778,
+    "longitude": -78.0310587,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "6970326558",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.5802081,
+    "longitude": -78.4125568,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "7178791564",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.5755495,
+    "longitude": -77.9971132,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "7224204854",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.680371,
+    "longitude": -77.9448695,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "7239069584",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.66931,
+    "longitude": -78.7145774,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "7653063466",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.7114381,
+    "longitude": -78.644774,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "7656784891",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.3816881,
+    "longitude": -78.8391954,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "7682969367",
+    "name": "Crofton Boat Landing",
+    "formatted_address": "",
+    "latitude": 37.9188158,
+    "longitude": -78.2976021,
+    "city": "Troy",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "7994344895",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.7095092,
+    "longitude": -78.2999741,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "8009536830",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.7491957,
+    "longitude": -78.1627844,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "8238770635",
+    "name": "Boat Launch",
+    "formatted_address": "",
+    "latitude": 39.0430375,
+    "longitude": -78.1569004,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "8238770643",
+    "name": "Kayak Launch",
+    "formatted_address": "",
+    "latitude": 39.0429628,
+    "longitude": -78.1570977,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "8668301261",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.9661568,
+    "longitude": -78.4950992,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "8786599871",
+    "name": "Corbin's Island Boat Launch",
+    "formatted_address": "",
+    "latitude": 40.4289141,
+    "longitude": -77.9897857,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "9035645777",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.7494227,
+    "longitude": -79.3924273,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "9061317530",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.6392473,
+    "longitude": -78.3902023,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "9137656570",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.9731943,
+    "longitude": -78.3512874,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "9231425749",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.3513272,
+    "longitude": -77.7572101,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "9469983076",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.9582562,
+    "longitude": -78.8182764,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "9499199650",
+    "name": "McFeaters Cove Boat Launch",
+    "formatted_address": "",
+    "latitude": 40.5812895,
+    "longitude": -79.0332145,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "9499199651",
+    "name": "North Boat Launch",
+    "formatted_address": "",
+    "latitude": 40.5798309,
+    "longitude": -79.0372143,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "9499199652",
+    "name": "Grampaps Cove Boat Launch",
+    "formatted_address": "",
+    "latitude": 40.5684892,
+    "longitude": -79.0304062,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "9499199653",
+    "name": "South Boat Launch",
+    "formatted_address": "",
+    "latitude": 40.5734676,
+    "longitude": -79.0134063,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "9499209637",
+    "name": "Kayak Launch",
+    "formatted_address": "",
+    "latitude": 40.5725478,
+    "longitude": -79.0178233,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "9548470202",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 40.1480962,
+    "longitude": -78.9676101,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "9548481867",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 40.1763196,
+    "longitude": -78.9592633,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "9662087293",
+    "name": "Karo Boat Landing",
+    "formatted_address": "",
+    "latitude": 38.8716586,
+    "longitude": -78.2527023,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "9710142848",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.4175224,
+    "longitude": -79.1377561,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "9759656533",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0232303,
+    "longitude": -78.4540616,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "9909632519",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 40.482499,
+    "longitude": -78.0120575,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "9941708882",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 40.0491664,
+    "longitude": -78.8560154,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "9941721867",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 40.029466,
+    "longitude": -78.8703892,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "9955030097",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.5920039,
+    "longitude": -77.9517747,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "9983542393",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 40.0501166,
+    "longitude": -78.8734687,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "10075465527",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0423626,
+    "longitude": -78.4539407,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "10078126966",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.416106,
+    "longitude": -79.1367459,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "10109836690",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.4633585,
+    "longitude": -77.9217637,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "10173777526",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.8044229,
+    "longitude": -77.7153017,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "10278634638",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.3292282,
+    "longitude": -79.232321,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "10595012283",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0738127,
+    "longitude": -78.6533331,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "10839808419",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.108484,
+    "longitude": -78.0185725,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "10853992252",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.9961748,
+    "longitude": -77.9275403,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "10853992255",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.9954679,
+    "longitude": -77.9279014,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "10937981722",
+    "name": "Snyders Landing Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.4653837,
+    "longitude": -77.7785215,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "11303595997",
+    "name": "Basic Park Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0838561,
+    "longitude": -78.8753866,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "11336857762",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0950589,
+    "longitude": -78.489326,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "11362781645",
+    "name": "Robert Inskeep public boat landing",
+    "formatted_address": "",
+    "latitude": 38.7018332,
+    "longitude": -78.4916904,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "11374871516",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.4096734,
+    "longitude": -79.1201942,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "11546990651",
+    "name": "Kayak Launch",
+    "formatted_address": "",
+    "latitude": 38.3800236,
+    "longitude": -78.9797574,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "11663511604",
+    "name": "Warrior Ridge Dam Boat Launch",
+    "formatted_address": "",
+    "latitude": 40.5398449,
+    "longitude": -78.0336675,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "11701038064",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.7970347,
+    "longitude": -78.4932448,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "11702210526",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.5325006,
+    "longitude": -78.2759604,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "11764460603",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.7805301,
+    "longitude": -78.5092939,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "11907561554",
+    "name": "Hardware Road Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.7402355,
+    "longitude": -78.4078129,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "11928488160",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.4118759,
+    "longitude": -79.1347024,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "12066947880",
+    "name": "Scottsville Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.7975798,
+    "longitude": -78.4905606,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "12322559974",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.8900118,
+    "longitude": -78.3742336,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "12333481877",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.4030533,
+    "longitude": -78.4175247,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "12396068594",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.8565282,
+    "longitude": -78.4904124,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "12396068595",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.8712731,
+    "longitude": -78.4932862,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "12412977208",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.7079765,
+    "longitude": -78.2881471,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "12412977210",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.7085996,
+    "longitude": -78.2895904,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "12416549579",
+    "name": "Hardware River Boat Ramp (Kayaks Only)",
+    "formatted_address": "",
+    "latitude": 37.7866681,
+    "longitude": -78.4063256,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "12772056451",
+    "name": "Frankstown Canoe Launch",
+    "formatted_address": "",
+    "latitude": 40.4433689,
+    "longitude": -78.3542202,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "12795990423",
+    "name": "Public Canoe Launch",
+    "formatted_address": "",
+    "latitude": 37.4183652,
+    "longitude": -79.1395379,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "12855419311",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.796742,
+    "longitude": -79.3654816,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "12855419387",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.74949,
+    "longitude": -79.4143783,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "13379642193",
+    "name": "Barnum Whitewater Area",
+    "formatted_address": "",
+    "latitude": 39.4551948,
+    "longitude": -79.102653,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "20383290",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.7702907,
+    "longitude": -78.4227087,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "135038106",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.5379417,
+    "longitude": -78.4547252,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "193816707",
+    "name": "Wilck's Lake Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.3032696,
+    "longitude": -78.4085652,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "366543659",
+    "name": "Locher Landing",
+    "formatted_address": "",
+    "latitude": 37.6248478,
+    "longitude": -79.4444582,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "396637175",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.4060207,
+    "longitude": -79.2335255,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "417615872",
+    "name": "Public River Access, Fishing",
+    "formatted_address": "",
+    "latitude": 39.3392795,
+    "longitude": -78.7761413,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "417627071",
+    "name": "Stony River Run Access",
+    "formatted_address": "",
+    "latitude": 39.2466935,
+    "longitude": -78.8424335,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "417627081",
+    "name": "River access",
+    "formatted_address": "",
+    "latitude": 39.2277239,
+    "longitude": -78.8522162,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "417627085",
+    "name": "River Access",
+    "formatted_address": "",
+    "latitude": 39.1470796,
+    "longitude": -78.923266,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "417627138",
+    "name": "River Access",
+    "formatted_address": "",
+    "latitude": 39.4483171,
+    "longitude": -78.6533998,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "417627141",
+    "name": "River Access",
+    "formatted_address": "",
+    "latitude": 39.4427967,
+    "longitude": -78.6680522,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "435644086",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.8404134,
+    "longitude": -78.3301596,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "458388658",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.9572189,
+    "longitude": -78.1826317,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "497476281",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.5714396,
+    "longitude": -79.1443287,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "508799506",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 40.3119331,
+    "longitude": -78.1724442,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "541372426",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.4922695,
+    "longitude": -79.2216083,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "543601322",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.5968286,
+    "longitude": -79.3892768,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "562330143",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.4162871,
+    "longitude": -79.1367462,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "575094035",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.6344675,
+    "longitude": -78.811335,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "612302246",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.9564299,
+    "longitude": -77.9916916,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "667066864",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.7545523,
+    "longitude": -79.395427,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "670180912",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.1323615,
+    "longitude": -78.5989437,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "672784705",
+    "name": "Acorn Hill Boat Launch",
+    "formatted_address": "",
+    "latitude": 38.8313629,
+    "longitude": -78.3447403,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "681682078",
+    "name": "Acme Dam Boat Launch",
+    "formatted_address": "",
+    "latitude": 40.1189236,
+    "longitude": -79.4267122,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "696224282",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1134346,
+    "longitude": -77.8357867,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "732482569",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.5919868,
+    "longitude": -77.9519008,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "732485450",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.6289087,
+    "longitude": -78.0311668,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "733125453",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.6038264,
+    "longitude": -77.9353417,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "733125874",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.601359,
+    "longitude": -77.9252189,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "749982913",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0424315,
+    "longitude": -78.4538529,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "769033755",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.5758246,
+    "longitude": -77.99231,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "769033760",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.5755052,
+    "longitude": -77.9970201,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "833375387",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.4569073,
+    "longitude": -78.0336402,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "897757289",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.4345545,
+    "longitude": -77.8015726,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "987394492",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.3292518,
+    "longitude": -79.2323569,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "988579800",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.9732511,
+    "longitude": -78.3512577,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1003189913",
+    "name": "Public River Access",
+    "formatted_address": "",
+    "latitude": 39.3306363,
+    "longitude": -78.7846591,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1003189914",
+    "name": "Public River Access",
+    "formatted_address": "",
+    "latitude": 39.4913818,
+    "longitude": -78.6080941,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1003189917",
+    "name": "Public River Access",
+    "formatted_address": "",
+    "latitude": 39.5100235,
+    "longitude": -78.6004137,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1003189946",
+    "name": "Public River Access",
+    "formatted_address": "",
+    "latitude": 39.4929031,
+    "longitude": -78.6094554,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1007861361",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.3946651,
+    "longitude": -78.6406848,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1008653512",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.5247963,
+    "longitude": -79.3500109,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1013892298",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.7016378,
+    "longitude": -78.4916933,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1020587252",
+    "name": "Bealers Ferry Boat Launch",
+    "formatted_address": "",
+    "latitude": 38.7484913,
+    "longitude": -78.4369267,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1027192516",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.9581584,
+    "longitude": -78.8183756,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1054312609",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.9897336,
+    "longitude": -78.4745703,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1078063961",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.8565277,
+    "longitude": -78.4903846,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1078327027",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.8713808,
+    "longitude": -78.4932574,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1104793712",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.7933451,
+    "longitude": -79.4312545,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1131050684",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.5006716,
+    "longitude": -77.8452243,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1136562121",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0738394,
+    "longitude": -78.6532821,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1158215821",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.0009677,
+    "longitude": -79.0842872,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1165403988",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1084612,
+    "longitude": -78.018576,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1196193370",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 40.3778002,
+    "longitude": -78.0713515,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1206219347",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0894524,
+    "longitude": -77.8113021,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1206219348",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0894157,
+    "longitude": -77.8113585,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1206219349",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0893598,
+    "longitude": -77.8114399,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1206219350",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.089349,
+    "longitude": -77.8115025,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1206219356",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0875737,
+    "longitude": -77.8115231,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1206219357",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0875762,
+    "longitude": -77.811612,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1207022625",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.151494,
+    "longitude": -77.898275,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1207022626",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1599478,
+    "longitude": -77.9060807,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1207022627",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1599643,
+    "longitude": -77.9060046,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1208158736",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1053991,
+    "longitude": -77.8075041,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1208862426",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1443054,
+    "longitude": -77.8843452,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1208862428",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1487695,
+    "longitude": -77.8872137,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1208862430",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1395556,
+    "longitude": -77.8785299,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1208894449",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0073146,
+    "longitude": -77.714717,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1208894450",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0072744,
+    "longitude": -77.7146314,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1208894451",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0065456,
+    "longitude": -77.7165525,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1209159955",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0886295,
+    "longitude": -77.8118358,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1210422069",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1622366,
+    "longitude": -77.9081042,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1210450670",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1384129,
+    "longitude": -77.9334837,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1210450672",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.137772,
+    "longitude": -77.9055197,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1210450673",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1368227,
+    "longitude": -77.8971782,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1210536633",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1345818,
+    "longitude": -77.8676809,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1210536634",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1345804,
+    "longitude": -77.8677807,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1210650086",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1308583,
+    "longitude": -77.874752,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1210814705",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1350973,
+    "longitude": -77.8710995,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1211080278",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1296905,
+    "longitude": -77.8646705,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1211080285",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.124598,
+    "longitude": -77.8559907,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1211080286",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1186618,
+    "longitude": -77.8500552,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1211080288",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1163998,
+    "longitude": -77.8503483,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1213401036",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0648483,
+    "longitude": -77.8452236,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1213401043",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0634407,
+    "longitude": -77.8510254,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1213401052",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0533324,
+    "longitude": -77.8416903,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1213618286",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0720005,
+    "longitude": -77.8294401,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1213618288",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0720998,
+    "longitude": -77.8303691,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1213618297",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0786912,
+    "longitude": -77.8147896,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1213618300",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0792965,
+    "longitude": -77.8305944,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1213667759",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1141875,
+    "longitude": -77.914024,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1213673740",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0898029,
+    "longitude": -77.7839324,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1213673741",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0898402,
+    "longitude": -77.7838771,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1213673742",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0899301,
+    "longitude": -77.7837377,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1213673743",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0899879,
+    "longitude": -77.7836702,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1213673747",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.09222,
+    "longitude": -77.7796023,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1213673748",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0917308,
+    "longitude": -77.7797796,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1214223538",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.4987965,
+    "longitude": -77.767677,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1214391935",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1087277,
+    "longitude": -77.9522915,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1214928183",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1202224,
+    "longitude": -77.9588153,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1214928185",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1189616,
+    "longitude": -77.9377233,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1214928187",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.118352,
+    "longitude": -77.9260244,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1214928190",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1204695,
+    "longitude": -77.9206853,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1215186619",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1169716,
+    "longitude": -77.9532765,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1215186625",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1058991,
+    "longitude": -77.9271237,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1215186630",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.106934,
+    "longitude": -77.9248836,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1215186634",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1121715,
+    "longitude": -77.9224485,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1216635377",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0973204,
+    "longitude": -77.8932174,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1216635378",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0988022,
+    "longitude": -77.8938438,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1216635379",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0987497,
+    "longitude": -77.893841,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1216635380",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0988725,
+    "longitude": -77.8937686,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1216635381",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0985842,
+    "longitude": -77.8934693,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1216635390",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1005112,
+    "longitude": -77.8931635,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1216892091",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1065026,
+    "longitude": -77.8904105,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1216950754",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1100376,
+    "longitude": -77.9080996,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1217792837",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1058309,
+    "longitude": -77.8553389,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1217792838",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1092364,
+    "longitude": -77.8606951,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1217792839",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.110445,
+    "longitude": -77.8697613,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1217909257",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1007332,
+    "longitude": -77.8425075,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1217909260",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0981753,
+    "longitude": -77.8512742,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1217909262",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.093512,
+    "longitude": -77.859263,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1217909264",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1035999,
+    "longitude": -77.8757587,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1217909271",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1079031,
+    "longitude": -77.8863441,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1217909272",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0997667,
+    "longitude": -77.8630461,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1217909275",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1000924,
+    "longitude": -77.8782204,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1217909276",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1005951,
+    "longitude": -77.8789489,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1218092661",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0886491,
+    "longitude": -77.8274536,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1218092662",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0886863,
+    "longitude": -77.8274926,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1218343526",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0815986,
+    "longitude": -77.7980422,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1218535220",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.2590771,
+    "longitude": -77.7095939,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1218824119",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0507588,
+    "longitude": -77.7821464,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1218824125",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0461964,
+    "longitude": -77.7875432,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1219104438",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0781645,
+    "longitude": -77.7972143,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1219104445",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0735508,
+    "longitude": -77.8169693,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1219104451",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0676147,
+    "longitude": -77.8258215,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1219532742",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0795006,
+    "longitude": -77.7827415,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1219532743",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0794932,
+    "longitude": -77.7826833,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1219813972",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0251901,
+    "longitude": -77.7537073,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1219813974",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0260333,
+    "longitude": -77.7532877,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1220073291",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0451361,
+    "longitude": -77.7678059,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1220073294",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0427766,
+    "longitude": -77.7697716,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1220156990",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0261042,
+    "longitude": -77.7665464,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1220406468",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0649341,
+    "longitude": -77.7622078,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1220538016",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.059365,
+    "longitude": -77.7497072,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1220538017",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0593334,
+    "longitude": -77.74971,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1220538018",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0593049,
+    "longitude": -77.7497175,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1220538019",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0592838,
+    "longitude": -77.7497302,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1220649734",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0528398,
+    "longitude": -77.7292509,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1220649735",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0218191,
+    "longitude": -77.7148919,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1221557443",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0583168,
+    "longitude": -77.7459042,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1221557447",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0502275,
+    "longitude": -77.737085,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1221648411",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0037047,
+    "longitude": -77.7197541,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1221648415",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0052783,
+    "longitude": -77.7272603,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1221886414",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.9881009,
+    "longitude": -77.761192,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1221886420",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.9880045,
+    "longitude": -77.7653464,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1222134212",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.997679,
+    "longitude": -77.7308267,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1222964951",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0057389,
+    "longitude": -77.7590277,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1226003197",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.9928667,
+    "longitude": -77.7648969,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1226038566",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.012706,
+    "longitude": -77.7647506,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1226481830",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.016678,
+    "longitude": -77.7738752,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1226481835",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0124866,
+    "longitude": -77.7820392,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1226636388",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0084553,
+    "longitude": -77.7877356,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1226636394",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0036511,
+    "longitude": -77.790365,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1227406203",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.4192321,
+    "longitude": -79.0404071,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1229076843",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0356695,
+    "longitude": -77.7948575,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1229562963",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0368617,
+    "longitude": -77.8020784,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1229562965",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0339025,
+    "longitude": -77.8144836,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1229688947",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0134655,
+    "longitude": -77.8128592,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1230854692",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0199241,
+    "longitude": -77.7787845,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1230854695",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.9934144,
+    "longitude": -77.7955319,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1230968963",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0047169,
+    "longitude": -77.7973062,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1234996910",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.4796198,
+    "longitude": -78.0697615,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1235237736",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.4638632,
+    "longitude": -78.045392,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1235721760",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.47108,
+    "longitude": -78.0176412,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1242658445",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.3223549,
+    "longitude": -78.4547448,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1243249506",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.1648488,
+    "longitude": -78.4364525,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1258818548",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 40.0578438,
+    "longitude": -79.2259831,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1264640110",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.8642189,
+    "longitude": -78.310771,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1310761362",
+    "name": "Rte 7 Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.1238547,
+    "longitude": -77.8909051,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1313068802",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.3940807,
+    "longitude": -79.3109446,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1314524990",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.9929526,
+    "longitude": -78.0685017,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1341403185",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.8502347,
+    "longitude": -79.166162,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1341842523",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.7086727,
+    "longitude": -78.2895446,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1343860171",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.4582132,
+    "longitude": -78.6426236,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1377869363",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.5317262,
+    "longitude": -78.1480124,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1378102683",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.5111579,
+    "longitude": -78.1568561,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1378996600",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.6144363,
+    "longitude": -77.9463548,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1379394511",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.5499765,
+    "longitude": -77.8784834,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1380864212",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.5368016,
+    "longitude": -77.8648744,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1382769089",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.9116932,
+    "longitude": -78.052681,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1382769090",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 39.9112178,
+    "longitude": -78.0527582,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1383667699",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 37.962317,
+    "longitude": -79.4611443,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1418379214",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 38.0863339,
+    "longitude": -78.2002228,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
+  },
+  {
+    "place_id": "1427789124",
+    "name": "Boat Ramp",
+    "formatted_address": "",
+    "latitude": 40.3754221,
+    "longitude": -79.3890002,
+    "city": "",
+    "county": "",
+    "rating": 0,
+    "total_ratings": 0,
+    "types": [
+      "boat_ramp"
+    ],
+    "business_status": "OPERATIONAL",
+    "state": "WV"
   }
 ]
