@@ -1,5 +1,8 @@
 "use client";
 
+import dynamic from "next/dynamic";
+const RampMap = dynamic(() => import("@/components/RampMap"), { ssr: false, loading: () => <div className="rounded-xl bg-gray-100 flex items-center justify-center" style={{ height: 350 }}><p className="text-gray-400 text-sm">Loading map...</p></div> });
+
 import { useState, useMemo } from "react";
 import Link from "next/link";
 import { unified, amenityLabels, isGenericName } from "@/data/all-ramps";
@@ -51,6 +54,13 @@ export default function OhioPage() {
         <h1 className="font-[Cabin] text-4xl md:text-5xl font-bold text-charcoal leading-tight max-w-3xl mx-auto">Every Boat Ramp in Ohio</h1>
         <p className="text-gray-500 mt-4 max-w-lg mx-auto">{ohRamps.length}+ boat ramps across {ohioLakes.length} lakes and rivers. Walleye Capital of the World (Lake Erie), 380,000 registered boats, 150+ ODNR public lakes.</p>
       </section>
+
+      {/* State Map */}
+      {(() => {
+        const mapPins = ohRamps.map(r => ({ id: r.id, name: r.name, latitude: r.latitude, longitude: r.longitude, city: r.city }));
+        const center: [number, number] = ohRamps.length > 0 ? [ohRamps.reduce((s, r) => s + r.latitude, 0) / ohRamps.length, ohRamps.reduce((s, r) => s + r.longitude, 0) / ohRamps.length] : [39.8, -98.5];
+        return <div className="max-w-6xl mx-auto px-4 pt-8"><RampMap ramps={mapPins} center={center} zoom={7} height="350px" className="mb-4" /></div>;
+      })()}
 
       {/* State intro */}
       <section className="max-w-4xl mx-auto px-4 pt-10 pb-2">

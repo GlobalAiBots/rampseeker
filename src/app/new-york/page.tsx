@@ -1,5 +1,8 @@
 "use client";
 
+import dynamic from "next/dynamic";
+const RampMap = dynamic(() => import("@/components/RampMap"), { ssr: false, loading: () => <div className="rounded-xl bg-gray-100 flex items-center justify-center" style={{ height: 350 }}><p className="text-gray-400 text-sm">Loading map...</p></div> });
+
 import { useState, useMemo } from "react";
 import Link from "next/link";
 import { unified, amenityLabels, isGenericName } from "@/data/all-ramps";
@@ -51,6 +54,13 @@ export default function NewYorkPage() {
         <h1 className="font-[Cabin] text-4xl md:text-5xl font-bold text-charcoal leading-tight max-w-3xl mx-auto">Every Boat Ramp in New York</h1>
         <p className="text-gray-500 mt-4 max-w-lg mx-auto">{nyRamps.length}+ boat ramps across {newYorkLakes.length} lakes and waterways. Adirondacks paradise, Finger Lakes fishing, Great Lakes salmon runs, and Long Island striped bass.</p>
       </section>
+
+      {/* State Map */}
+      {(() => {
+        const mapPins = nyRamps.map(r => ({ id: r.id, name: r.name, latitude: r.latitude, longitude: r.longitude, city: r.city }));
+        const center: [number, number] = nyRamps.length > 0 ? [nyRamps.reduce((s, r) => s + r.latitude, 0) / nyRamps.length, nyRamps.reduce((s, r) => s + r.longitude, 0) / nyRamps.length] : [39.8, -98.5];
+        return <div className="max-w-6xl mx-auto px-4 pt-8"><RampMap ramps={mapPins} center={center} zoom={7} height="350px" className="mb-4" /></div>;
+      })()}
 
       {/* State intro */}
       <section className="max-w-4xl mx-auto px-4 pt-10 pb-2">
