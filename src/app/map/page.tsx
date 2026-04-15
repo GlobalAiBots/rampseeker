@@ -89,7 +89,7 @@ export default function MapPage() {
         </div>
 
         {/* Interactive Map */}
-        <RampMap ramps={stateMapPins} height="480px" className="mb-8" />
+        <RampMap ramps={stateMapPins} height="480px" className="mb-8" linkPrefix="" />
 
         {/* Sort toggle */}
         <div className="flex items-center justify-between mb-4">

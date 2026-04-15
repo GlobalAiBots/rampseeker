@@ -38,9 +38,10 @@ interface RampMapProps {
   zoom?: number;
   height?: string;
   className?: string;
+  linkPrefix?: string;
 }
 
-export default function RampMap({ ramps, center = [39.8, -98.5], zoom = 4, height = "400px", className = "" }: RampMapProps) {
+export default function RampMap({ ramps, center = [39.8, -98.5], zoom = 4, height = "400px", className = "", linkPrefix = "/ramps" }: RampMapProps) {
   return (
     <div className={`rounded-xl overflow-hidden border border-gray-200 shadow-sm ${className}`} style={{ height }}>
       <MapContainer center={center} zoom={zoom} style={{ width: "100%", height: "100%" }} scrollWheelZoom={true}>
@@ -55,7 +56,7 @@ export default function RampMap({ ramps, center = [39.8, -98.5], zoom = 4, heigh
                 <p className="font-bold text-charcoal">{r.name}</p>
                 {r.lake && <p className="text-gray-500 text-xs">Lake: {r.lake}</p>}
                 {r.city && <p className="text-gray-500 text-xs">{r.city}</p>}
-                <Link href={`/ramps/${r.id}`} className="text-water text-xs font-semibold hover:underline mt-1 inline-block">View Details &rarr;</Link>
+                <Link href={`${linkPrefix}/${r.id}`} className="text-water text-xs font-semibold hover:underline mt-1 inline-block">View Details &rarr;</Link>
               </div>
             </Popup>
           </Marker>
