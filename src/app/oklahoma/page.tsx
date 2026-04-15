@@ -124,7 +124,7 @@ export default function OklahomaPage() {
           <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Browse by City</h2>
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">
             {cityMap.slice(0, 16).map(([city, count]) => (
-              <Link key={city} href={`/find/${city.toLowerCase().replace(/\s+/g, "-")}`} className="group bg-white border border-gray-200 rounded-lg p-3 hover:border-water hover:shadow-sm transition">
+              <Link key={city} href={`/find/${city.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "")}`} className="group bg-white border border-gray-200 rounded-lg p-3 hover:border-water hover:shadow-sm transition">
                 <p className="font-bold text-charcoal text-sm group-hover:text-water transition">{city}</p>
                 <p className="text-gray-400 text-xs">{count} ramp{count !== 1 ? "s" : ""}</p>
               </Link>
