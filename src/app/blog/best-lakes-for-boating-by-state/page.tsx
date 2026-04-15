@@ -68,7 +68,7 @@ export default function Post() {
         <p>With 1,150 miles of shoreline &mdash; more than the coast of California &mdash; <Link href="/missouri" className="text-water hover:underline">Lake of the Ozarks</Link> is the Midwest&apos;s premier boating destination. Everything from fishing boats to 40-foot cruisers share the water. Public ramps are scattered along the lake, though the busiest areas around Osage Beach and the Party Cove can get chaotic on summer weekends.</p>
 
         <h3 className="font-[Cabin] text-xl font-bold text-charcoal mt-8">Wisconsin &mdash; Lake Winnebago</h3>
-        <p>Lake Winnebago is the largest inland lake in <Link href="/wisconsin" className="text-water hover:underline">Wisconsin</Link> at 131,000 acres. It&apos;s famous for its walleye and white bass runs, and the spring sturgeon spearing season is a cultural event. Public ramps are plentiful and well-maintained along both shores.</p>
+        <p>Lake Winnebago is the largest inland lake in Wisconsin at 131,000 acres. It&apos;s famous for its walleye and white bass runs, and the spring sturgeon spearing season is a cultural event. Public ramps are plentiful and well-maintained along both shores.</p>
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10">The West</h2>
 
