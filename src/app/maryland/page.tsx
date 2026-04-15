@@ -55,12 +55,7 @@ export default function MarylandPage() {
         <p className="text-gray-500 mt-4 max-w-lg mx-auto">{mdRamps.length}+ boat ramps across {marylandLakes.length} lakes and waterways. Chesapeake Bay — largest estuary in the US, legendary rockfish, blue crab capital.</p>
       </section>
 
-      {/* State Map */}
-      {(() => {
-        const mapPins = mdRamps.map(r => ({ id: r.id, name: r.name, latitude: r.latitude, longitude: r.longitude, city: r.city }));
-        const center: [number, number] = mdRamps.length > 0 ? [mdRamps.reduce((s, r) => s + r.latitude, 0) / mdRamps.length, mdRamps.reduce((s, r) => s + r.longitude, 0) / mdRamps.length] : [39.8, -98.5];
-        return <div className="max-w-6xl mx-auto px-4 pt-8"><RampMap ramps={mapPins} center={center} zoom={7} height="350px" className="mb-4" /></div>;
-      })()}
+      
 
       {/* State intro */}
       <section className="max-w-4xl mx-auto px-4 pt-10 pb-2">
@@ -79,6 +74,13 @@ export default function MarylandPage() {
           </ul>
         </div>
       </section>
+
+      {/* State Map */}
+      {(() => {
+        const mapPins = mdRamps.map(r => ({ id: r.id, name: r.name, latitude: r.latitude, longitude: r.longitude, city: r.city }));
+        const center: [number, number] = mdRamps.length > 0 ? [mdRamps.reduce((s, r) => s + r.latitude, 0) / mdRamps.length, mdRamps.reduce((s, r) => s + r.longitude, 0) / mdRamps.length] : [39.8, -98.5];
+        return <div className="max-w-6xl mx-auto px-4 pt-8"><RampMap ramps={mapPins} center={center} zoom={7} height="350px" className="mb-4" /></div>;
+      })()}
 
       {featuredRamps.length > 0 && featuredLake && (
         <section className="max-w-6xl mx-auto px-4 pt-12 pb-4">

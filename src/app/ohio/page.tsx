@@ -55,12 +55,7 @@ export default function OhioPage() {
         <p className="text-gray-500 mt-4 max-w-lg mx-auto">{ohRamps.length}+ boat ramps across {ohioLakes.length} lakes and rivers. Walleye Capital of the World (Lake Erie), 380,000 registered boats, 150+ ODNR public lakes.</p>
       </section>
 
-      {/* State Map */}
-      {(() => {
-        const mapPins = ohRamps.map(r => ({ id: r.id, name: r.name, latitude: r.latitude, longitude: r.longitude, city: r.city }));
-        const center: [number, number] = ohRamps.length > 0 ? [ohRamps.reduce((s, r) => s + r.latitude, 0) / ohRamps.length, ohRamps.reduce((s, r) => s + r.longitude, 0) / ohRamps.length] : [39.8, -98.5];
-        return <div className="max-w-6xl mx-auto px-4 pt-8"><RampMap ramps={mapPins} center={center} zoom={7} height="350px" className="mb-4" /></div>;
-      })()}
+      
 
       {/* State intro */}
       <section className="max-w-4xl mx-auto px-4 pt-10 pb-2">
@@ -79,6 +74,13 @@ export default function OhioPage() {
           </ul>
         </div>
       </section>
+
+      {/* State Map */}
+      {(() => {
+        const mapPins = ohRamps.map(r => ({ id: r.id, name: r.name, latitude: r.latitude, longitude: r.longitude, city: r.city }));
+        const center: [number, number] = ohRamps.length > 0 ? [ohRamps.reduce((s, r) => s + r.latitude, 0) / ohRamps.length, ohRamps.reduce((s, r) => s + r.longitude, 0) / ohRamps.length] : [39.8, -98.5];
+        return <div className="max-w-6xl mx-auto px-4 pt-8"><RampMap ramps={mapPins} center={center} zoom={7} height="350px" className="mb-4" /></div>;
+      })()}
 
       {featuredRamps.length > 0 && featuredLake && (
         <section className="max-w-6xl mx-auto px-4 pt-12 pb-4">

@@ -55,12 +55,7 @@ export default function AlabamaPage() {
         <p className="text-gray-500 mt-4 max-w-lg mx-auto">{alRamps.length}+ boat ramps across {alabamaLakes.length} lakes and waterways. Year-round boating, legendary Lake Guntersville bass, Tennessee River chain, Gulf Coast access. 450,000+ registered boats.</p>
       </section>
 
-      {/* State Map */}
-      {(() => {
-        const mapPins = alRamps.map(r => ({ id: r.id, name: r.name, latitude: r.latitude, longitude: r.longitude, city: r.city }));
-        const center: [number, number] = alRamps.length > 0 ? [alRamps.reduce((s, r) => s + r.latitude, 0) / alRamps.length, alRamps.reduce((s, r) => s + r.longitude, 0) / alRamps.length] : [39.8, -98.5];
-        return <div className="max-w-6xl mx-auto px-4 pt-8"><RampMap ramps={mapPins} center={center} zoom={7} height="350px" className="mb-4" /></div>;
-      })()}
+      
 
       {/* State intro */}
       <section className="max-w-4xl mx-auto px-4 pt-10 pb-2">
@@ -79,6 +74,13 @@ export default function AlabamaPage() {
           </ul>
         </div>
       </section>
+
+      {/* State Map */}
+      {(() => {
+        const mapPins = alRamps.map(r => ({ id: r.id, name: r.name, latitude: r.latitude, longitude: r.longitude, city: r.city }));
+        const center: [number, number] = alRamps.length > 0 ? [alRamps.reduce((s, r) => s + r.latitude, 0) / alRamps.length, alRamps.reduce((s, r) => s + r.longitude, 0) / alRamps.length] : [39.8, -98.5];
+        return <div className="max-w-6xl mx-auto px-4 pt-8"><RampMap ramps={mapPins} center={center} zoom={7} height="350px" className="mb-4" /></div>;
+      })()}
 
       {featuredRamps.length > 0 && featuredLake && (
         <section className="max-w-6xl mx-auto px-4 pt-12 pb-4">

@@ -56,12 +56,7 @@ export default function MinnesotaPage() {
         <p className="text-gray-500 mt-4 max-w-lg mx-auto">{mnRamps.length}+ boat ramps across {minnesotaLakes.length} major lakes. The Land of 10,000 Lakes (actually 11,842) — #2 in registered boats. Walleye capital of the world.</p>
       </section>
 
-      {/* State Map */}
-      {(() => {
-        const mapPins = mnRamps.map(r => ({ id: r.id, name: r.name, latitude: r.latitude, longitude: r.longitude, city: r.city }));
-        const center: [number, number] = mnRamps.length > 0 ? [mnRamps.reduce((s, r) => s + r.latitude, 0) / mnRamps.length, mnRamps.reduce((s, r) => s + r.longitude, 0) / mnRamps.length] : [39.8, -98.5];
-        return <div className="max-w-6xl mx-auto px-4 pt-8"><RampMap ramps={mapPins} center={center} zoom={7} height="350px" className="mb-4" /></div>;
-      })()}
+      
 
       {/* State intro */}
       <section className="max-w-4xl mx-auto px-4 pt-10 pb-2">
@@ -80,6 +75,13 @@ export default function MinnesotaPage() {
           </ul>
         </div>
       </section>
+
+      {/* State Map */}
+      {(() => {
+        const mapPins = mnRamps.map(r => ({ id: r.id, name: r.name, latitude: r.latitude, longitude: r.longitude, city: r.city }));
+        const center: [number, number] = mnRamps.length > 0 ? [mnRamps.reduce((s, r) => s + r.latitude, 0) / mnRamps.length, mnRamps.reduce((s, r) => s + r.longitude, 0) / mnRamps.length] : [39.8, -98.5];
+        return <div className="max-w-6xl mx-auto px-4 pt-8"><RampMap ramps={mapPins} center={center} zoom={7} height="350px" className="mb-4" /></div>;
+      })()}
 
       {featuredRamps.length > 0 && featuredLake && (
         <section className="max-w-6xl mx-auto px-4 pt-12 pb-4">

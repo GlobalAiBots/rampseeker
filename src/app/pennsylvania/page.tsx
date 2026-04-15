@@ -55,12 +55,7 @@ export default function PennsylvaniaPage() {
         <p className="text-gray-500 mt-4 max-w-lg mx-auto">{stRamps.length}+ boat ramps across {pennsylvaniaLakes.length} lakes and waterways. Lake Erie steelhead, Raystown Lake, Susquehanna River smallmouth.</p>
       </section>
 
-      {/* State Map */}
-      {(() => {
-        const mapPins = stRamps.map(r => ({ id: r.id, name: r.name, latitude: r.latitude, longitude: r.longitude, city: r.city }));
-        const center: [number, number] = stRamps.length > 0 ? [stRamps.reduce((s, r) => s + r.latitude, 0) / stRamps.length, stRamps.reduce((s, r) => s + r.longitude, 0) / stRamps.length] : [39.8, -98.5];
-        return <div className="max-w-6xl mx-auto px-4 pt-8"><RampMap ramps={mapPins} center={center} zoom={7} height="350px" className="mb-4" /></div>;
-      })()}
+      
 
       {/* State intro */}
       <section className="max-w-4xl mx-auto px-4 pt-10 pb-2">
@@ -79,6 +74,13 @@ export default function PennsylvaniaPage() {
           </ul>
         </div>
       </section>
+
+      {/* State Map */}
+      {(() => {
+        const mapPins = stRamps.map(r => ({ id: r.id, name: r.name, latitude: r.latitude, longitude: r.longitude, city: r.city }));
+        const center: [number, number] = stRamps.length > 0 ? [stRamps.reduce((s, r) => s + r.latitude, 0) / stRamps.length, stRamps.reduce((s, r) => s + r.longitude, 0) / stRamps.length] : [39.8, -98.5];
+        return <div className="max-w-6xl mx-auto px-4 pt-8"><RampMap ramps={mapPins} center={center} zoom={7} height="350px" className="mb-4" /></div>;
+      })()}
 
       {featuredRamps.length > 0 && featuredLake && (
         <section className="max-w-6xl mx-auto px-4 pt-12 pb-4">
