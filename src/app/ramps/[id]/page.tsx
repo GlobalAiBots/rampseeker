@@ -11,6 +11,7 @@ import { getArkansasLakeForRamp } from "@/data/arkansas-lakes";
 import { getKansasLakeForRamp } from "@/data/kansas-lakes";
 import { getFloridaLakeForRamp } from "@/data/florida-lakes";
 import { getCountyForCity } from "@/data/counties";
+import { cities as allCityPages } from "@/data/cities";
 import AdSlot from "@/components/AdSlot";
 import CletusAd from "@/components/CletusAd";
 import GearRecommendation from "@/components/GearRecommendation";
@@ -323,16 +324,15 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
 
             {/* Nearby Cities */}
             {ramp.city && (() => {
-              const citiesInState = unified.filter(r => r.state === ramp.state && r.city && r.city !== ramp.city);
-              const uniqueCities = Array.from(new Set(citiesInState.map(r => r.city))).slice(0, 6);
-              if (uniqueCities.length === 0) return null;
+              const citiesInState = allCityPages.filter(c => c.state === ramp.state && c.name !== ramp.city).slice(0, 6);
+              if (citiesInState.length === 0) return null;
               return (
                 <div className="mb-6">
                   <h3 className="font-[Cabin] font-bold text-charcoal mb-3">Nearby Cities with Boat Ramps</h3>
                   <div className="flex flex-wrap gap-2">
-                    {uniqueCities.map(city => (
-                      <Link key={city} href={`/cities/${city.toLowerCase().replace(/\s+/g, "-")}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-water hover:border-water transition">
-                        {city}, {ramp.state}
+                    {citiesInState.map(c => (
+                      <Link key={c.slug} href={`/cities/${c.slug}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-water hover:border-water transition">
+                        {c.name}, {c.state}
                       </Link>
                     ))}
                   </div>
@@ -386,7 +386,7 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
             <Link href={lake.id === "grand-lake" ? "/grand-lake" : `/lakes/${lake.id}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-water hover:border-water transition">{lake.name} boat ramps</Link>
           )}
           {county && (
-            <Link href={`/counties/${county.toLowerCase()}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-water hover:border-water transition">{county} County boat ramps</Link>
+            <Link href={`/counties/${county.toLowerCase().replace(/\s+/g, "-")}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-water hover:border-water transition">{county} County boat ramps</Link>
           )}
           <Link href={`/${bcStateSlug}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-water hover:border-water transition">Boat ramps in {bcState}</Link>
         </div>
