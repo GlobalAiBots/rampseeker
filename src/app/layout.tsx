@@ -98,7 +98,7 @@ function Footer() {
           </div>
         </div>
         <div className="mt-8 pt-6 border-t border-white/10 flex flex-wrap justify-between items-center text-xs text-white/30 gap-4">
-          <span>&copy; {new Date().getFullYear()} RampSeeker. All rights reserved.</span>
+          <span>Veteran Owned &amp; Operated &#127482;&#127480; &middot; &copy; {new Date().getFullYear()} RampSeeker. All rights reserved.</span>
           <div className="flex gap-3">
             <a href="mailto:hello@rampseeker.com?subject=Advertising%20Inquiry" className="hover:text-white transition">Advertise With Us</a>
             <span>&middot;</span>
