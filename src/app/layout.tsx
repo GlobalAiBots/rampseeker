@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   },
   other: {
     "google-adsense-account": "ca-pub-4822220549367368",
-    "impact-site-verification": "33bc31e8-acbd-40e4-a876-adf79035c12a",
+    "impact-site-verification": "ae745e97-4381-483d-8be9-f973f0dcce88",
   },
 };
 
