@@ -95,12 +95,13 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
 
   const placeSchema = {
     "@context": "https://schema.org",
-    "@type": "Place",
+    "@type": "CivicStructure",
     name: ramp.name,
     description: ramp.description,
     geo: { "@type": "GeoCoordinates", latitude: ramp.latitude, longitude: ramp.longitude },
     address: { "@type": "PostalAddress", addressLocality: ramp.city, addressRegion: ramp.state || "US", addressCountry: "US" },
     publicAccess: true,
+    url: `https://rampseeker.com/ramps/${ramp.id}`,
   };
 
   const faqSchema = {
