@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, Suspense } from "react";
 import { useSearchParams } from "next/navigation";
 import Link from "next/link";
 import { unified } from "@/data/all-ramps";
@@ -29,7 +29,7 @@ function normalize(s: string) {
   return s.toLowerCase().replace(/[^a-z0-9 ]/g, "");
 }
 
-export default function SearchPage() {
+function SearchResults() {
   const params = useSearchParams();
   const initialQ = params.get("q") || "";
   const [query, setQuery] = useState(initialQ);
@@ -124,5 +124,13 @@ export default function SearchPage() {
         </div>
       )}
     </div>
+  );
+}
+
+export default function SearchPage() {
+  return (
+    <Suspense fallback={<div className="max-w-4xl mx-auto px-4 py-12 text-center text-gray-400">Loading search...</div>}>
+      <SearchResults />
+    </Suspense>
   );
 }
