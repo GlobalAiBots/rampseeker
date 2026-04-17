@@ -11,6 +11,38 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "must-have-boat-trip-items",
+    title: "10 Must-Have Items for Every Boat Trip",
+    date: "April 16, 2026", readTime: "6 min read", category: "Gear",
+    excerpt: "Life jackets, first aid kit, fire extinguisher, VHF radio — the 10 essentials every boat should carry on every trip.",
+    gradient: "linear-gradient(135deg, #E76F51 0%, #D35400 100%)",
+    icon: `<svg viewBox="0 0 80 60" fill="none"><path d="M25 45V20h30v25" stroke="rgba(255,255,255,0.25)" stroke-width="2"/><path d="M33 30h14M33 36h10" stroke="rgba(255,255,255,0.2)" stroke-width="1.5"/><circle cx="40" cy="15" r="4" fill="rgba(255,255,255,0.15)"/></svg>`,
+  },
+  {
+    slug: "best-bass-fishing-lakes-by-state",
+    title: "Best Lakes for Bass Fishing by State: Top Picks",
+    date: "April 16, 2026", readTime: "8 min read", category: "Fishing",
+    excerpt: "Lake Fork, Guntersville, Toledo Bend, Clear Lake — the top bass fishing lakes across 18 states with ramp details.",
+    gradient: "linear-gradient(135deg, #2D6A4F 0%, #1E6091 100%)",
+    icon: `<svg viewBox="0 0 80 60" fill="none"><path d="M15 35c5-8 15-15 25-10s15 5 25-2" stroke="rgba(255,255,255,0.3)" stroke-width="2"/><path d="M40 20c3 0 8 3 12 2s6-3 8-2c0 0-2 8-10 8s-10-4-14-3-6 5-6 5" fill="rgba(255,255,255,0.15)"/></svg>`,
+  },
+  {
+    slug: "how-to-back-trailer",
+    title: "How to Back a Boat Trailer Like a Pro: Step-by-Step",
+    date: "April 16, 2026", readTime: "7 min read", category: "Skills",
+    excerpt: "Mirror technique, hand placement, jackknife recovery, and practice tips to back your trailer down the ramp with confidence.",
+    gradient: "linear-gradient(135deg, #1E3A5F 0%, #2980B9 100%)",
+    icon: `<svg viewBox="0 0 80 60" fill="none"><path d="M20 35h25l10 10" stroke="rgba(255,255,255,0.25)" stroke-width="2"/><path d="M55 35l-5 5 5 5" stroke="rgba(255,255,255,0.3)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><rect x="15" y="30" width="12" height="10" rx="2" stroke="rgba(255,255,255,0.2)" stroke-width="1.5"/></svg>`,
+  },
+  {
+    slug: "boat-trailer-tire-guide",
+    title: "Boat Trailer Tire Guide: When to Replace, How to Maintain",
+    date: "April 16, 2026", readTime: "7 min read", category: "Maintenance",
+    excerpt: "Replace every 3-5 years, check pressure before every trip, inspect for dry rot — the complete trailer tire guide.",
+    gradient: "linear-gradient(135deg, #6B7280 0%, #374151 100%)",
+    icon: `<svg viewBox="0 0 80 60" fill="none"><circle cx="40" cy="30" r="14" stroke="rgba(255,255,255,0.25)" stroke-width="2"/><circle cx="40" cy="30" r="6" stroke="rgba(255,255,255,0.2)" stroke-width="1.5"/><circle cx="40" cy="30" r="2" fill="rgba(255,255,255,0.15)"/></svg>`,
+  },
+  {
     slug: "best-fishing-by-month",
     title: "Best Fishing by Month: When to Fish in Every Season",
     date: "April 15, 2026", readTime: "7 min read", category: "Seasonal",

@@ -153,23 +153,57 @@ export default function Home() {
           </div>
         </div>
 
-        {/* Stats overlay at bottom */}
+        {/* Seasonal banner */}
         <div className="relative z-10 w-full mt-auto">
-          <div className="bg-navy/80 backdrop-blur-sm border-t border-white/10 py-5">
-            <div className="max-w-4xl mx-auto flex flex-wrap justify-center gap-8 md:gap-16 text-center">
+          <div className="bg-sunset/90 backdrop-blur-sm py-2.5 text-center">
+            <Link href={(() => { const m = new Date().getMonth(); if (m >= 2 && m <= 4) return "/blog/spring-boat-prep"; if (m >= 5 && m <= 7) return "/blog/best-fishing-by-month"; if (m >= 8 && m <= 10) return "/blog/best-lakes-for-boating-by-state"; return "/blog/winterize-your-boat"; })()} className="text-white font-bold text-sm hover:underline transition">
+              {(() => { const m = new Date().getMonth(); if (m >= 2 && m <= 4) return "🌱 Spring Boat Prep: Get Ready for the Season →"; if (m >= 5 && m <= 7) return "☀️ Best Fishing by Month: What to Catch Now →"; if (m >= 8 && m <= 10) return "🍂 Fall Fishing: Best Late-Season Spots →"; return "❄️ How to Winterize Your Boat →"; })()}
+            </Link>
+          </div>
+          <div className="bg-navy/85 backdrop-blur-sm border-t border-white/10 py-6">
+            <div className="max-w-5xl mx-auto flex flex-wrap justify-center gap-8 md:gap-16 text-center">
               {[
                 { value: rampCount, label: "Boat Ramps" },
-                { value: String(stateList.length), label: "States" },
-                { value: "Free", label: "& Updated" },
-                { value: "GPS", label: "Verified" },
+                { value: "3,400+", label: "Marinas" },
+                { value: "35,000+", label: "Fishing Piers" },
+                { value: "50", label: "States" },
               ].map((s) => (
                 <div key={s.label}>
-                  <p className="font-[Cabin] text-2xl font-bold text-white">{s.value}</p>
-                  <p className="text-white/50 text-xs mt-0.5">{s.label}</p>
+                  <p className="font-[Cabin] text-3xl md:text-4xl font-bold text-white">{s.value}</p>
+                  <p className="text-white/50 text-xs uppercase tracking-wider mt-1">{s.label}</p>
                 </div>
               ))}
             </div>
           </div>
+        </div>
+      </section>
+
+      {/* YOUR COMPLETE BOATING HUB */}
+      <section className="max-w-5xl mx-auto px-4 py-12">
+        <h2 className="font-[Cabin] text-[28px] md:text-[36px] font-extrabold text-charcoal text-center mb-3">Your Complete Boating Hub</h2>
+        <p className="text-gray-500 text-center mb-10 max-w-lg mx-auto">Everything you need to get on the water &mdash; ramps, marinas, and fishing piers.</p>
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-5">
+          <Link href="#browse-states" className="group rounded-2xl p-8 text-center hover:shadow-xl hover:-translate-y-1 transition-all duration-300" style={{ background: 'linear-gradient(135deg, #E8F4F8, #B3D9EB)', border: '2px solid rgba(30,96,145,0.2)' }}>
+            <span className="text-5xl block mb-3">&#9981;</span>
+            <h3 className="font-[Cabin] font-extrabold text-charcoal text-xl mb-1">Boat Ramps</h3>
+            <p className="font-extrabold text-[28px] text-water leading-none mb-2">{rampCount}</p>
+            <p className="text-gray-500 text-xs mb-4">Public launch sites with GPS, amenities, and directions.</p>
+            <span className="inline-block text-white font-bold text-sm px-5 py-2 rounded-xl" style={{ background: 'linear-gradient(135deg, #2980B9, #1E6091)', boxShadow: '0 4px 12px rgba(30,96,145,0.25)' }}>Find a Ramp &rarr;</span>
+          </Link>
+          <a href="https://marinaseeker.com" target="_blank" rel="noopener noreferrer" className="group rounded-2xl p-8 text-center hover:shadow-xl hover:-translate-y-1 transition-all duration-300" style={{ background: 'linear-gradient(135deg, #F0FFF4, #C6F6D5)', border: '2px solid rgba(45,106,79,0.2)' }}>
+            <span className="text-5xl block mb-3">&#9875;</span>
+            <h3 className="font-[Cabin] font-extrabold text-charcoal text-xl mb-1">Marinas</h3>
+            <p className="font-extrabold text-[28px] text-forest leading-none mb-2">3,489</p>
+            <p className="text-gray-500 text-xs mb-4">Slips, fuel, repair, and docking across the US.</p>
+            <span className="inline-block text-white font-bold text-sm px-5 py-2 rounded-xl" style={{ background: 'linear-gradient(135deg, #40916C, #2D6A4F)', boxShadow: '0 4px 12px rgba(45,106,79,0.25)' }}>Find a Marina &rarr;</span>
+          </a>
+          <a href="https://pierseeker.com" target="_blank" rel="noopener noreferrer" className="group rounded-2xl p-8 text-center hover:shadow-xl hover:-translate-y-1 transition-all duration-300" style={{ background: 'linear-gradient(135deg, #FFF7ED, #FDE68A)', border: '2px solid rgba(231,111,81,0.2)' }}>
+            <span className="text-5xl block mb-3">&#127907;</span>
+            <h3 className="font-[Cabin] font-extrabold text-charcoal text-xl mb-1">Fishing Piers</h3>
+            <p className="font-extrabold text-[28px] text-sunset leading-none mb-2">35,150</p>
+            <p className="text-gray-500 text-xs mb-4">Public piers, jetties, and shore fishing spots.</p>
+            <span className="inline-block text-white font-bold text-sm px-5 py-2 rounded-xl" style={{ background: 'linear-gradient(135deg, #F59E0B, #E76F51)', boxShadow: '0 4px 12px rgba(231,111,81,0.25)' }}>Find a Pier &rarr;</span>
+          </a>
         </div>
       </section>
 
@@ -207,6 +241,29 @@ export default function Home() {
               <p className="text-gray-500 text-xs leading-relaxed">{f.desc}</p>
             </div>
           ))}
+        </div>
+      </section>
+
+      {/* GEAR UP FOR THE WATER */}
+      <section className="max-w-5xl mx-auto px-4 py-6">
+        <div className="rounded-2xl overflow-hidden" style={{ background: "linear-gradient(135deg, #0B1E33 0%, #1E6091 60%, #2D6A4F 100%)" }}>
+          <div className="px-6 py-8 md:py-10 flex flex-col md:flex-row items-start md:items-center gap-6">
+            <div className="flex-1">
+              <h3 className="font-[Cabin] text-xl md:text-2xl font-bold text-white mb-2">Gear Up for the Water &#128674;</h3>
+              <p className="text-white/80 text-sm max-w-md">Top-rated boating and fishing gear for every trip.</p>
+            </div>
+            <div className="flex flex-wrap gap-3">
+              {[
+                { href: "https://www.amazon.com/dp/B001GQ2A6O?tag=babymydog03-20", label: "Life Jackets" },
+                { href: "https://www.amazon.com/dp/B07X3YCXZK?tag=babymydog03-20", label: "Fish Finders" },
+                { href: "https://www.amazon.com/dp/B0006MX56Y?tag=babymydog03-20", label: "Trailer Guides" },
+                { href: "https://www.amazon.com/dp/B000ALQ7VO?tag=babymydog03-20", label: "Boat Fenders" },
+              ].map((p) => (
+                <a key={p.label} href={p.href} target="_blank" rel="noopener noreferrer nofollow sponsored" className="bg-white/15 hover:bg-white/25 text-white font-bold text-xs px-4 py-2 rounded-lg transition">{p.label}</a>
+              ))}
+              <a href="https://www.amazon.com/dp/B08CXKQZJG?tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="bg-white text-[#1E6091] font-bold text-xs px-4 py-2 rounded-lg hover:shadow-lg transition">Ramp Sandals &rarr;</a>
+            </div>
+          </div>
         </div>
       </section>
 
