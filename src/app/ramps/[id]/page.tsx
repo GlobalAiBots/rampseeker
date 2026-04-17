@@ -31,7 +31,7 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   const county = ramp.county ? `${ramp.county} County, ` : "";
   return {
     title: `${ramp.name} Boat Ramp — ${county}${metaState} | RampSeeker`,
-    description: `${ramp.name} boat ramp near ${ramp.city}, ${metaState}. GPS: ${ramp.latitude.toFixed(4)}, ${ramp.longitude.toFixed(4)}. ${ramp.description.substring(0, 120)}`,
+    description: `${ramp.name} boat ramp in ${ramp.city ? ramp.city + ", " : ""}${metaState}. GPS coordinates, directions, amenities, and local tips. Find boat ramps near you on RampSeeker.`,
     openGraph: {
       title: `${ramp.name} — ${metaState} Boat Ramp`,
       description: ramp.description,
