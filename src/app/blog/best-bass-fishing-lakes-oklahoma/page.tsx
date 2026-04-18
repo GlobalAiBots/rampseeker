@@ -1,5 +1,6 @@
 import Link from "next/link";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import GearRecommendation from "@/components/GearRecommendation";
 import { blogPosts, getRelatedPosts } from "@/data/blog-posts";
 import type { Metadata } from "next";
 
@@ -75,6 +76,7 @@ export default function BassPost() {
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10">Find Your Launch Point</h2>
         <p>Every lake on this list has multiple boat ramps listed on <Link href="/" className="text-water hover:underline">RampSeeker</Link> with GPS coordinates, amenities, and local tips. <Link href="/lakes" className="text-water hover:underline">Browse all 19 Oklahoma lakes</Link> or use the <Link href="/map" className="text-water hover:underline">map</Link> to find the ramp closest to your fishing spot.</p>
+        <GearRecommendation section="electronics" />
         <BlogCletusCallout />
       </div>
 

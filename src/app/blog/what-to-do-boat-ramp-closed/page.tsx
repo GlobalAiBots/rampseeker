@@ -1,5 +1,6 @@
 import Link from "next/link";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import GearRecommendation from "@/components/GearRecommendation";
 import { getBlogPostBySlug, getRelatedPosts } from "@/data/blog-posts";
 import type { Metadata } from "next";
 
@@ -76,6 +77,8 @@ export default function Post() {
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10">Plan Ahead, Launch Every Time</h2>
         <p>Boat ramp closures are a fact of life, but they don&apos;t have to ruin your day on the water. Build the habit of checking conditions before you leave, always have a backup ramp in mind, and use <Link href="/oklahoma" className="text-water hover:underline">RampSeeker&apos;s state pages</Link> to find every available launch on your lake. Whether you&apos;re fishing <Link href="/texas" className="text-water hover:underline">Texas</Link> reservoirs, <Link href="/arkansas" className="text-water hover:underline">Arkansas</Link> tailwaters, or <Link href="/kansas" className="text-water hover:underline">Kansas</Link> prairie lakes, a little preparation goes a long way.</p>
+
+        <GearRecommendation section="water-essentials" />
 
         <BlogCletusCallout />
       </div>

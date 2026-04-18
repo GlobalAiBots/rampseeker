@@ -10,6 +10,7 @@ import { pennsylvaniaLakes, getPennsylvaniaLakeForRamp } from "@/data/pennsylvan
 import CletusAd from "@/components/CletusAd";
 import FeaturedArticle from "@/components/FeaturedArticle";
 import RampList from "@/components/RampList";
+import GearRecommendation from "@/components/GearRecommendation";
 
 export default function PennsylvaniaPage() {
   const stRamps = useMemo(() => unified.filter((r) => r.state === "PA"), []);
@@ -77,6 +78,7 @@ export default function PennsylvaniaPage() {
             <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Practice good <Link href="/blog/boat-ramp-etiquette" className="text-water hover:underline">ramp etiquette</Link>: prep in the parking area, not on the ramp.</li>
           </ul>
         </div>
+        <GearRecommendation section="launch-gear" />
       </section>
 
       {/* State Map */}

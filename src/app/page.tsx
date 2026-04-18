@@ -9,6 +9,7 @@ import { lakes } from "@/data/lakes";
 import AdSlot from "@/components/AdSlot";
 import CletusAd from "@/components/CletusAd";
 import NearMeButton from "@/components/NearMeButton";
+import GearRecommendation from "@/components/GearRecommendation";
 
 const blogPosts = [
   { slug: "free-boat-ramps-how-to-find-them", title: "Free vs Paid Boat Ramps: How to Find Free Launch Sites", date: "Apr 4, 2026", img: "/images/blog-boat-ramp-free.jpg" },
@@ -242,6 +243,13 @@ export default function Home() {
             </div>
           ))}
         </div>
+      </section>
+
+      {/* ESSENTIAL GEAR SECTIONS */}
+      <section className="max-w-5xl mx-auto px-4 py-2">
+        <GearRecommendation section="launch-gear" />
+        <GearRecommendation section="water-essentials" />
+        <GearRecommendation section="electronics" />
       </section>
 
       {/* GEAR UP FOR THE WATER */}

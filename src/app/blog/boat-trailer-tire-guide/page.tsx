@@ -1,5 +1,6 @@
 import Link from "next/link";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import GearRecommendation from "@/components/GearRecommendation";
 import { getBlogPostBySlug, getRelatedPosts } from "@/data/blog-posts";
 import type { Metadata } from "next";
 
@@ -101,6 +102,8 @@ export default function Post() {
           </details>
         </div>
       </section>
+
+      <GearRecommendation section="launch-gear" />
 
       <BlogCletusCallout />
 

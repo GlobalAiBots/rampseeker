@@ -1,5 +1,6 @@
 import Link from "next/link";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import GearRecommendation from "@/components/GearRecommendation";
 import { getBlogPostBySlug, getRelatedPosts } from "@/data/blog-posts";
 import type { Metadata } from "next";
 
@@ -64,6 +65,8 @@ export default function Post() {
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10">Find Free Ramps on RampSeeker</h2>
         <p>RampSeeker lists 29,000+ boat ramps across the US. For our detailed states — <Link href="/oklahoma" className="text-water hover:underline">Oklahoma</Link>, <Link href="/texas" className="text-water hover:underline">Texas</Link>, <Link href="/missouri" className="text-water hover:underline">Missouri</Link>, <Link href="/arkansas" className="text-water hover:underline">Arkansas</Link>, and <Link href="/kansas" className="text-water hover:underline">Kansas</Link> — we include fee information on every ramp. Filter by &quot;free&quot; to find launch sites that won&apos;t cost you anything.</p>
+
+        <GearRecommendation section="water-essentials" />
 
         <BlogCletusCallout />
       </div>

@@ -1,5 +1,6 @@
 import Link from "next/link";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import GearRecommendation from "@/components/GearRecommendation";
 import { getBlogPostBySlug, getRelatedPosts } from "@/data/blog-posts";
 import type { Metadata } from "next";
 
@@ -84,6 +85,8 @@ export default function Post() {
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10">Master the Dark Launch</h2>
         <p>Night launching gets easier every time you do it. After a few pre-dawn trips, you&apos;ll develop a routine that feels automatic — headlamp on, prep the boat, back down, launch, park, go. The reward is being first on the water, first on the fish, and first to enjoy the sunrise from the middle of the lake while everyone else is still in line at the ramp.</p>
         <p>Find lighted ramps and plan your next night trip with <Link href="/oklahoma" className="text-water hover:underline">RampSeeker</Link>. We list lighting information, hours, and access details for thousands of ramps across <Link href="/texas" className="text-water hover:underline">Texas</Link>, <Link href="/missouri" className="text-water hover:underline">Missouri</Link>, <Link href="/arkansas" className="text-water hover:underline">Arkansas</Link>, and <Link href="/kansas" className="text-water hover:underline">Kansas</Link>.</p>
+
+        <GearRecommendation section="launch-gear" />
 
         <BlogCletusCallout />
       </div>

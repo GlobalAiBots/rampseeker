@@ -1,5 +1,6 @@
 import Link from "next/link";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import GearRecommendation from "@/components/GearRecommendation";
 import { getBlogPostBySlug, getRelatedPosts } from "@/data/blog-posts";
 import type { Metadata } from "next";
 
@@ -118,6 +119,8 @@ export default function Post() {
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10">Get Licensed, Get on the Water</h2>
         <p>Buying a fishing license takes five minutes and costs less than a tank of gas. Every dollar goes directly to fish and wildlife conservation — stocking programs, habitat improvement, lake management, and access point maintenance. When you buy a license, you&apos;re funding the lakes and ramps you use.</p>
         <p>Once you&apos;re legal, find your next ramp on RampSeeker. Browse ramps in <Link href="/oklahoma" className="text-water hover:underline">Oklahoma</Link>, <Link href="/texas" className="text-water hover:underline">Texas</Link>, <Link href="/missouri" className="text-water hover:underline">Missouri</Link>, <Link href="/arkansas" className="text-water hover:underline">Arkansas</Link>, and <Link href="/kansas" className="text-water hover:underline">Kansas</Link> — all 29,000+ of them.</p>
+
+        <GearRecommendation section="electronics" />
 
         <BlogCletusCallout />
       </div>

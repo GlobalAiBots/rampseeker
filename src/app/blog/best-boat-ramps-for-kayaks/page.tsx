@@ -1,5 +1,6 @@
 import Link from "next/link";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import GearRecommendation from "@/components/GearRecommendation";
 import { getBlogPostBySlug, getRelatedPosts } from "@/data/blog-posts";
 import type { Metadata } from "next";
 
@@ -75,6 +76,8 @@ export default function Post() {
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10">Find Kayak-Friendly Ramps on RampSeeker</h2>
         <p>RampSeeker lists detailed information on thousands of ramps across <Link href="/oklahoma" className="text-water hover:underline">Oklahoma</Link>, <Link href="/texas" className="text-water hover:underline">Texas</Link>, <Link href="/arkansas" className="text-water hover:underline">Arkansas</Link>, <Link href="/missouri" className="text-water hover:underline">Missouri</Link>, and <Link href="/kansas" className="text-water hover:underline">Kansas</Link>. Look for ramps with courtesy docks, low-traffic designations, and natural shoreline access. Our ramp detail pages include surface type, dock availability, and other features that help kayakers pick the right spot.</p>
         <p>Don&apos;t fight the concrete. Find a launch that works for you, and spend your energy on the water — not wrestling your kayak down a truck ramp.</p>
+
+        <GearRecommendation section="water-essentials" />
 
         <BlogCletusCallout />
       </div>

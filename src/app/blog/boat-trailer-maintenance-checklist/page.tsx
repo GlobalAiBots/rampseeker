@@ -1,5 +1,6 @@
 import Link from "next/link";
 import BlogCletusCallout from "@/components/BlogCletusCallout";
+import GearRecommendation from "@/components/GearRecommendation";
 import { getBlogPostBySlug, getRelatedPosts } from "@/data/blog-posts";
 import type { Metadata } from "next";
 
@@ -49,6 +50,7 @@ export default function Post() {
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10">The Bottom Line</h2>
         <p>An hour of maintenance in the driveway prevents hours of headache at the ramp. The most common failures — bearings, tires, lights, and winch straps — are all cheap and easy to fix preventively. They&apos;re expensive and embarrassing to fix on the side of the road or blocking a busy ramp.</p>
         <p>Need to find your next launch? <Link href="/" className="text-water hover:underline">Search boat ramps</Link> across <Link href="/oklahoma" className="text-water hover:underline">Oklahoma</Link>, <Link href="/texas" className="text-water hover:underline">Texas</Link>, <Link href="/missouri" className="text-water hover:underline">Missouri</Link>, <Link href="/arkansas" className="text-water hover:underline">Arkansas</Link>, and <Link href="/kansas" className="text-water hover:underline">Kansas</Link> on RampSeeker.</p>
+        <GearRecommendation section="launch-gear" />
         <BlogCletusCallout />
       </div>
 
