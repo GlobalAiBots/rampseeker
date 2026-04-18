@@ -11,6 +11,14 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "floating-boat-ramps",
+    title: "Best Floating Boat Ramps & Portable Docks for Easy Launching",
+    date: "April 18, 2026", readTime: "8 min read", category: "Gear",
+    excerpt: "Floating boat ramps and portable docks for fluctuating water levels, private lakefront, and anywhere a fixed ramp won't work. Top products, installation, and costs.",
+    gradient: "linear-gradient(135deg, #0D9488 0%, #1E6091 100%)",
+    icon: `<svg viewBox="0 0 80 60" fill="none"><rect x="18" y="26" width="44" height="8" rx="1" fill="rgba(255,255,255,0.18)"/><rect x="18" y="36" width="44" height="4" rx="1" fill="rgba(255,255,255,0.1)"/><path d="M8 46c6-3 12 3 18 0s12-3 18 0 12 3 18 0 12-3 10 0" stroke="rgba(255,255,255,0.3)" stroke-width="2"/></svg>`,
+  },
+  {
     slug: "best-bass-lakes-america",
     title: "Best Bass Lakes in America: Top 25 Ranked (2026)",
     date: "April 17, 2026", readTime: "9 min read", category: "Destinations",

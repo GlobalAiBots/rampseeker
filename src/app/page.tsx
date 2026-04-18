@@ -252,6 +252,20 @@ export default function Home() {
         <GearRecommendation section="electronics" />
       </section>
 
+      {/* FLOATING DOCKS & RAMPS CALLOUT */}
+      <section className="max-w-5xl mx-auto px-4 py-4">
+        <Link href="/blog/floating-boat-ramps" className="block rounded-2xl overflow-hidden group" style={{ background: "linear-gradient(135deg, #0D9488 0%, #1E6091 100%)" }}>
+          <div className="px-6 py-6 md:py-8 flex flex-col md:flex-row items-start md:items-center gap-4">
+            <div className="flex-1">
+              <p className="text-white/70 text-[11px] font-bold tracking-widest uppercase mb-1">New Guide</p>
+              <h3 className="font-[Cabin] text-xl md:text-2xl font-bold text-white mb-1">Floating Boat Ramps &amp; Portable Docks</h3>
+              <p className="text-white/80 text-sm max-w-xl">Fluctuating water levels or no public ramp nearby? Compare modular floating docks, drive-on ramps, and DIY foam-float builds — plus top-rated products on Amazon.</p>
+            </div>
+            <span className="bg-white/20 group-hover:bg-white/30 text-white font-bold text-xs px-5 py-2.5 rounded-lg transition whitespace-nowrap">Read the Guide &rarr;</span>
+          </div>
+        </Link>
+      </section>
+
       {/* GEAR UP FOR THE WATER */}
       <section className="max-w-5xl mx-auto px-4 py-6">
         <div className="rounded-2xl overflow-hidden" style={{ background: "linear-gradient(135deg, #0B1E33 0%, #1E6091 60%, #2D6A4F 100%)" }}>
