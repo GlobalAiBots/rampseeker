@@ -40,7 +40,7 @@ export default function LaunchPost() {
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10">Before You Leave Home</h2>
         <ul className="list-disc pl-6 space-y-1">
-          <li><strong className="text-charcoal">Check the drain plug.</strong> This is the #1 thing people forget. Put the drain plug IN before you get to the ramp. Forgetting it means your boat fills with water. Many experienced boaters tape a reminder to their steering wheel.</li>
+          <li><strong className="text-charcoal">Check the <a href="https://www.amazon.com/s?k=boat+drain+plug+brass&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-water hover:underline font-semibold">drain plug (Our Pick on Amazon)</a>.</strong> This is the #1 thing people forget. Put the drain plug IN before you get to the ramp. Forgetting it means your boat fills with water. Many experienced boaters tape a reminder to their steering wheel.</li>
           <li><strong className="text-charcoal">Check trailer lights and tires.</strong> Make sure brake lights and turn signals work. Check tire pressure.</li>
           <li><strong className="text-charcoal">Load gear at home.</strong> Don&apos;t load coolers, tackle, and gear at the ramp. Do it in your driveway.</li>
           <li><strong className="text-charcoal">Check the weather.</strong> Wind over 15 mph makes launching (and boating) significantly harder, especially for beginners.</li>
@@ -54,7 +54,7 @@ export default function LaunchPost() {
           <li>Remove the transom saver if you use one</li>
           <li>Raise the motor/outdrive so it clears the trailer rollers</li>
           <li>Put the key in the ignition</li>
-          <li>Attach the kill switch lanyard</li>
+          <li>Attach the <a href="https://www.amazon.com/s?k=boat+kill+switch+lanyard&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-water hover:underline font-semibold">kill switch lanyard (Our Pick on Amazon)</a></li>
           <li>Verify the drain plug is in (check again!)</li>
           <li>Load anything you need from the truck into the boat</li>
         </ul>

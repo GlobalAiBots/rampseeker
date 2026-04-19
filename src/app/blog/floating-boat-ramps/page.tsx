@@ -127,7 +127,7 @@ export default function Post() {
                 rel="noopener noreferrer nofollow sponsored"
                 className="inline-block mt-3 text-xs font-semibold text-sunset hover:text-sunset-dark transition"
               >
-                View on Amazon &rarr;
+                &#9733; Our Pick &mdash; View on Amazon
               </a>
             </div>
           ))}

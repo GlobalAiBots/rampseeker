@@ -46,7 +46,7 @@ export default function BassPost() {
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10">2. Lake Tenkiller</h2>
         <p><strong className="text-charcoal">Best for:</strong> Sight-fishing in crystal-clear water<br /><strong className="text-charcoal">Species:</strong> Largemouth, spotted bass, smallmouth<br /><strong className="text-charcoal">Best season:</strong> April through May, September through November</p>
-        <p>Tenkiller is the clearest lake in Oklahoma, with visibility reaching 15-20 feet. This makes for incredible sight-fishing along rocky bluffs and points. Spotted bass thrive in the clear water, and largemouth hold along the brushy banks. The lake&apos;s clear water demands lighter line and more finesse than the stained eastern Oklahoma lakes.</p>
+        <p>Tenkiller is the clearest lake in Oklahoma, with visibility reaching 15-20 feet. This makes for incredible sight-fishing along rocky bluffs and points. Spotted bass thrive in the clear water, and largemouth hold along the brushy banks. The lake&apos;s clear water demands lighter <a href="https://www.amazon.com/s?k=fluorocarbon+fishing+line+bass&tag=babymydog03-20" target="_blank" rel="noopener noreferrer nofollow sponsored" className="text-water hover:underline font-semibold">fluorocarbon line (Our Pick on Amazon)</a> and more finesse than the stained eastern Oklahoma lakes.</p>
         <p><strong className="text-charcoal">Best ramps:</strong> See all <Link href="/lakes/lake-tenkiller" className="text-water hover:underline">Lake Tenkiller boat ramps</Link>.</p>
 
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10">3. Lake Eufaula</h2>

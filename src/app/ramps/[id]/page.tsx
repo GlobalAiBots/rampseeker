@@ -344,6 +344,24 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
         );
       })()}
 
+      {/* Trip Essentials Strip */}
+      <div className="mb-10 bg-cream border border-gray-200 rounded-xl p-5">
+        <p className="font-[Cabin] font-bold text-charcoal text-sm mb-3">Heading to the ramp? Don&apos;t forget:</p>
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
+          {[
+            { name: "Drain Plug", hook: "The one thing everyone forgets", q: "universal boat drain plug" },
+            { name: "Floating Keychain", hook: "Because dropping keys ends the trip", q: "floating keychain boat" },
+            { name: "Life Jacket", hook: "Required by law in most states", q: "type iii life jacket adult" },
+          ].map((p) => (
+            <a key={p.name} href={`https://www.amazon.com/s?k=${encodeURIComponent(p.q)}&tag=babymydog03-20`} target="_blank" rel="noopener noreferrer nofollow sponsored" className="block bg-white border border-gray-200 rounded-lg px-4 py-3 hover:border-sunset hover:shadow-sm transition">
+              <p className="font-bold text-charcoal text-sm">{p.name}</p>
+              <p className="text-gray-500 text-xs mt-0.5">{p.hook}</p>
+              <p className="text-sunset text-xs font-semibold mt-1">&#9733; Our Pick &mdash; Shop on Amazon</p>
+            </a>
+          ))}
+        </div>
+      </div>
+
       {/* FAQ Section */}
       <div className="mb-12">
         <h3 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Frequently Asked Questions</h3>
