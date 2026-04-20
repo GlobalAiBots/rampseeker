@@ -412,12 +412,24 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
         </div>
       </div>
 
-      <section className="mt-8 bg-foam rounded-xl p-6 border border-water/20">
-        <h3 className="font-[Cabin] text-lg font-bold text-charcoal mb-2">Manage or operate this ramp?</h3>
-        <p className="text-gray-600 text-sm mb-4">Claim your free listing to update fees, access hours, amenities, and contact info for {ramp.name}.</p>
-        <Link href={`/claim?ramp=${encodeURIComponent(ramp.id)}&name=${encodeURIComponent(ramp.name)}`} className="inline-block bg-water hover:bg-water-light text-white font-bold px-6 py-3 rounded-lg transition text-sm">
-          Claim This Ramp &mdash; It&apos;s Free
-        </Link>
+      <section className="mt-8 rounded-xl border-2 border-amber-300 bg-amber-50 p-6">
+        <div className="flex items-start gap-4">
+          <div className="text-3xl leading-none">&#11088;</div>
+          <div className="flex-1">
+            <h3 className="font-[Cabin] text-lg font-bold text-charcoal mb-1">Manage or operate this ramp?</h3>
+            <p className="text-sm text-gray-700 mb-4">
+              Claim your listing free, or upgrade to Featured for priority placement, photos, a customer message form, and a monthly performance report. <Link href="/pricing" className="text-water underline hover:text-water-light">See pricing</Link>.
+            </p>
+            <div className="flex flex-wrap gap-3">
+              <Link href={`/claim?ramp=${encodeURIComponent(ramp.id)}&name=${encodeURIComponent(ramp.name)}`} className="inline-block bg-gray-700 hover:bg-gray-800 text-white font-semibold px-5 py-2.5 rounded-lg transition text-sm">
+                Claim Free Listing
+              </Link>
+              <a href="https://buy.stripe.com/cNieVd9I96K3de9dDCcZa00" target="_blank" rel="noopener noreferrer" className="inline-block bg-amber-500 hover:bg-amber-600 text-white font-bold px-5 py-2.5 rounded-lg transition text-sm">
+                &#11088; Upgrade to Featured &mdash; $49.95/mo
+              </a>
+            </div>
+          </div>
+        </div>
       </section>
     </div>
   );
