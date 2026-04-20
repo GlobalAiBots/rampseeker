@@ -411,6 +411,14 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
           <Link href={`/${bcStateSlug}`} className="text-xs bg-white border border-gray-200 rounded-full px-3 py-1.5 text-gray-500 hover:text-water hover:border-water transition">Boat ramps in {bcState}</Link>
         </div>
       </div>
+
+      <section className="mt-8 bg-foam rounded-xl p-6 border border-water/20">
+        <h3 className="font-[Cabin] text-lg font-bold text-charcoal mb-2">Manage or operate this ramp?</h3>
+        <p className="text-gray-600 text-sm mb-4">Claim your free listing to update fees, access hours, amenities, and contact info for {ramp.name}.</p>
+        <Link href={`/claim?ramp=${encodeURIComponent(ramp.id)}&name=${encodeURIComponent(ramp.name)}`} className="inline-block bg-water hover:bg-water-light text-white font-bold px-6 py-3 rounded-lg transition text-sm">
+          Claim This Ramp &mdash; It&apos;s Free
+        </Link>
+      </section>
     </div>
   );
 }
