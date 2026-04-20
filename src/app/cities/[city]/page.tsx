@@ -24,9 +24,9 @@ export async function generateMetadata({ params }: { params: Promise<{ city: str
   return {
     title: `Boat Ramps near ${city.name}, ${city.stateName} | RampSeeker`,
     description: `Find all ${city.ramps.length} boat ramps near ${city.name}, ${city.state}. GPS coordinates, amenities, directions, and local tips for every launch site.`,
-    openGraph: { title: `Boat Ramps near ${city.name}, ${city.stateName}`, url: `https://rampseeker.com/cities/${city.slug}` },
+    openGraph: { title: `Boat Ramps near ${city.name}, ${city.stateName}`, url: `https://www.rampseeker.com/cities/${city.slug}` },
     twitter: { card: "summary", title: `Boat Ramps near ${city.name}, ${city.stateName} | RampSeeker` },
-    alternates: { canonical: `https://rampseeker.com/cities/${city.slug}` },
+    alternates: { canonical: `https://www.rampseeker.com/cities/${city.slug}` },
   };
 }
 
@@ -41,9 +41,9 @@ export default async function CityPage({ params }: { params: Promise<{ city: str
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://rampseeker.com" },
-          { "@type": "ListItem", position: 2, name: city.stateName, item: `https://rampseeker.com/${city.stateSlug}` },
-          { "@type": "ListItem", position: 3, name: city.name, item: `https://rampseeker.com/cities/${city.slug}` },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.rampseeker.com" },
+          { "@type": "ListItem", position: 2, name: city.stateName, item: `https://www.rampseeker.com/${city.stateSlug}` },
+          { "@type": "ListItem", position: 3, name: city.name, item: `https://www.rampseeker.com/cities/${city.slug}` },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

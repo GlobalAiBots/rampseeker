@@ -7,12 +7,12 @@ export const metadata: Metadata = {
     "The 5 best lakes for boating in Oklahoma: Grand Lake, Kaw Lake, Copan Lake, Eufaula Lake, and Skiatook Lake. Find ramps, amenities, and tips on RampSeeker.",
   openGraph: {
     title: "Best Lakes for Boating in Oklahoma — Top 5",
-    url: "https://rampseeker.com/best-of/best-lakes-for-boating-in-oklahoma",
+    url: "https://www.rampseeker.com/best-of/best-lakes-for-boating-in-oklahoma",
     siteName: "RampSeeker",
   },
   alternates: {
     canonical:
-      "https://rampseeker.com/best-of/best-lakes-for-boating-in-oklahoma",
+      "https://www.rampseeker.com/best-of/best-lakes-for-boating-in-oklahoma",
   },
 };
 
@@ -31,19 +31,19 @@ export default function BestLakesBoatingOklahoma() {
                 "@type": "ListItem",
                 position: 1,
                 name: "Home",
-                item: "https://rampseeker.com",
+                item: "https://www.rampseeker.com",
               },
               {
                 "@type": "ListItem",
                 position: 2,
                 name: "Best Of",
-                item: "https://rampseeker.com/best-of",
+                item: "https://www.rampseeker.com/best-of",
               },
               {
                 "@type": "ListItem",
                 position: 3,
                 name: "Best Lakes for Boating in Oklahoma",
-                item: "https://rampseeker.com/best-of/best-lakes-for-boating-in-oklahoma",
+                item: "https://www.rampseeker.com/best-of/best-lakes-for-boating-in-oklahoma",
               },
             ],
           }),

@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Kentucky Lake Boat Ramps — Launch Sites | RampSeeker",
   description: "Find boat ramps and launch sites on Kentucky Lake, TN/KY. 160,000 acres — the largest TVA reservoir with excellent crappie and bass fishing.",
-  alternates: { canonical: "https://rampseeker.com/lakes/kentucky-lake-tennessee" },
+  alternates: { canonical: "https://www.rampseeker.com/lakes/kentucky-lake-tennessee" },
 };
 
 export default function KentuckyLakeTennesseePage() {
@@ -24,9 +24,9 @@ export default function KentuckyLakeTennesseePage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://rampseeker.com" },
-          { "@type": "ListItem", position: 2, name: "Tennessee", item: "https://rampseeker.com/tennessee" },
-          { "@type": "ListItem", position: 3, name: "Kentucky Lake", item: "https://rampseeker.com/lakes/kentucky-lake-tennessee" },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.rampseeker.com" },
+          { "@type": "ListItem", position: 2, name: "Tennessee", item: "https://www.rampseeker.com/tennessee" },
+          { "@type": "ListItem", position: 3, name: "Kentucky Lake", item: "https://www.rampseeker.com/lakes/kentucky-lake-tennessee" },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

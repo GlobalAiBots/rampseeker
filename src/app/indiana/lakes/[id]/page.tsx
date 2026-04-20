@@ -15,9 +15,9 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   return {
     title: `${lake.name} Boat Ramps — Launch Sites & Access Points | RampSeeker`,
     description: `Every boat ramp on ${lake.name}, Indiana. GPS coordinates, amenities, directions.`,
-    openGraph: { title: `${lake.name} Boat Ramps`, url: `https://rampseeker.com/indiana/lakes/${lake.id}` },
+    openGraph: { title: `${lake.name} Boat Ramps`, url: `https://www.rampseeker.com/indiana/lakes/${lake.id}` },
     twitter: { card: "summary", title: `${lake.name} Boat Ramps | RampSeeker` },
-    alternates: { canonical: `https://rampseeker.com/indiana/lakes/${lake.id}` },
+    alternates: { canonical: `https://www.rampseeker.com/indiana/lakes/${lake.id}` },
   };
 }
 
@@ -36,7 +36,7 @@ export default async function IndianaLakePage({ params }: { params: Promise<{ id
     <div className="max-w-5xl mx-auto px-4 py-10">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "LakeBodyOfWater", name: lake.name, description: lake.description.split("\n\n")[0], geo: { "@type": "GeoCoordinates", latitude: lake.lat, longitude: lake.lng } }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faqs.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) }) }} />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://rampseeker.com" }, { "@type": "ListItem", position: 2, name: "Indiana", item: "https://rampseeker.com/indiana" }, { "@type": "ListItem", position: 3, name: lake.name, item: `https://rampseeker.com/indiana/lakes/${lake.id}` }] }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://www.rampseeker.com" }, { "@type": "ListItem", position: 2, name: "Indiana", item: "https://www.rampseeker.com/indiana" }, { "@type": "ListItem", position: 3, name: lake.name, item: `https://www.rampseeker.com/indiana/lakes/${lake.id}` }] }) }} />
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2"><Link href="/" className="hover:text-water transition">Home</Link><span>/</span><Link href="/indiana" className="hover:text-water transition">Indiana</Link><span>/</span><span className="text-charcoal font-medium">{lake.name}</span></nav>
       <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-2">Every Boat Ramp on {lake.name}</h1>
       <p className="text-gray-500 mb-6">{lakeRamps.length} boat ramps &middot; {lake.counties.join(", ")}, Indiana</p>

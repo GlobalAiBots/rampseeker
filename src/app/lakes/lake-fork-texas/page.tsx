@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Lake Fork Boat Ramps — Launch Sites | RampSeeker",
   description: "Find boat ramps and launch sites on Lake Fork, Texas. 27,690 acres of legendary bass fishing with GPS coordinates, amenities, and local tips.",
-  alternates: { canonical: "https://rampseeker.com/lakes/lake-fork-texas" },
+  alternates: { canonical: "https://www.rampseeker.com/lakes/lake-fork-texas" },
 };
 
 export default function LakeForkTexasPage() {
@@ -24,9 +24,9 @@ export default function LakeForkTexasPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://rampseeker.com" },
-          { "@type": "ListItem", position: 2, name: "Texas", item: "https://rampseeker.com/texas" },
-          { "@type": "ListItem", position: 3, name: "Lake Fork", item: "https://rampseeker.com/lakes/lake-fork-texas" },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.rampseeker.com" },
+          { "@type": "ListItem", position: 2, name: "Texas", item: "https://www.rampseeker.com/texas" },
+          { "@type": "ListItem", position: 3, name: "Lake Fork", item: "https://www.rampseeker.com/lakes/lake-fork-texas" },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

@@ -3,9 +3,9 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Privacy Policy — RampSeeker",
   description: "RampSeeker privacy policy. How we collect, use, and protect your information, including our use of Google AdSense and cookies.",
-  openGraph: { title: "Privacy Policy — RampSeeker", url: "https://rampseeker.com/privacy", siteName: "RampSeeker" },
+  openGraph: { title: "Privacy Policy — RampSeeker", url: "https://www.rampseeker.com/privacy", siteName: "RampSeeker" },
   twitter: { card: "summary", title: "Privacy Policy — RampSeeker" },
-  alternates: { canonical: "https://rampseeker.com/privacy" },
+  alternates: { canonical: "https://www.rampseeker.com/privacy" },
 };
 
 export default function PrivacyPage() {

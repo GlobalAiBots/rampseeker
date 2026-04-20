@@ -10,15 +10,15 @@ export const metadata: Metadata = {
   title: `${post.title} | RampSeeker`,
   description: post.excerpt,
   keywords: "fishing license Oklahoma, fishing license Texas, fishing license cost by state",
-  openGraph: { title: post.title, url: `https://rampseeker.com/blog/${post.slug}` },
-  alternates: { canonical: `https://rampseeker.com/blog/${post.slug}` },
+  openGraph: { title: post.title, url: `https://www.rampseeker.com/blog/${post.slug}` },
+  alternates: { canonical: `https://www.rampseeker.com/blog/${post.slug}` },
 };
 
 export default function Post() {
   const related = getRelatedPosts(post.slug);
   return (
     <article className="max-w-3xl mx-auto px-4 py-12">
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: post.title, datePublished: "2026-03-08", author: { "@type": "Organization", name: "RampSeeker Team" }, publisher: { "@type": "Organization", name: "RampSeeker", url: "https://rampseeker.com" } }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: post.title, datePublished: "2026-03-08", author: { "@type": "Organization", name: "RampSeeker Team" }, publisher: { "@type": "Organization", name: "RampSeeker", url: "https://www.rampseeker.com" } }) }} />
 
       <div className="rounded-xl overflow-hidden mb-8" style={{ background: post.gradient }}>
         <div className="px-6 py-10 md:py-14">

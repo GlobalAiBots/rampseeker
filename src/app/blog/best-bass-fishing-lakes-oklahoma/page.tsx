@@ -8,8 +8,8 @@ export const metadata: Metadata = {
   title: "The 7 Best Bass Fishing Lakes in Oklahoma (2026 Guide) | RampSeeker",
   description: "The top Oklahoma lakes for largemouth, smallmouth, and spotted bass. Includes best seasons, techniques, and which boat ramps to launch from.",
   keywords: "best bass fishing Oklahoma, Oklahoma bass lakes, where to fish for bass in Oklahoma, Grand Lake bass fishing, Tenkiller bass",
-  openGraph: { title: "7 Best Bass Fishing Lakes in Oklahoma", url: "https://rampseeker.com/blog/best-bass-fishing-lakes-oklahoma" },
-  alternates: { canonical: "https://rampseeker.com/blog/best-bass-fishing-lakes-oklahoma" },
+  openGraph: { title: "7 Best Bass Fishing Lakes in Oklahoma", url: "https://www.rampseeker.com/blog/best-bass-fishing-lakes-oklahoma" },
+  alternates: { canonical: "https://www.rampseeker.com/blog/best-bass-fishing-lakes-oklahoma" },
 };
 
 export default function BassPost() {
@@ -19,7 +19,7 @@ export default function BassPost() {
         "@context": "https://schema.org", "@type": "Article",
         headline: "The 7 Best Bass Fishing Lakes in Oklahoma (2026 Guide)",
         datePublished: "2026-04-01", author: { "@type": "Organization", name: "RampSeeker Team" },
-        publisher: { "@type": "Organization", name: "RampSeeker", url: "https://rampseeker.com" },
+        publisher: { "@type": "Organization", name: "RampSeeker", url: "https://www.rampseeker.com" },
       }) }} />
 
       {/* Hero Banner */}

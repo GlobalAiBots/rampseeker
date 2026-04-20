@@ -10,21 +10,21 @@ export const metadata: Metadata = {
   title: `${post.title} | RampSeeker`,
   description: post.excerpt,
   keywords: "public boat ramp, private boat ramp, boat ramp fees, public vs private boat launch",
-  openGraph: { title: post.title, url: `https://rampseeker.com/blog/${post.slug}` },
-  alternates: { canonical: `https://rampseeker.com/blog/${post.slug}` },
+  openGraph: { title: post.title, url: `https://www.rampseeker.com/blog/${post.slug}` },
+  alternates: { canonical: `https://www.rampseeker.com/blog/${post.slug}` },
 };
 
 export default function Post() {
   const related = getRelatedPosts(post.slug);
   return (
     <article className="max-w-3xl mx-auto px-4 py-12">
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: post.title, datePublished: "2026-04-11", author: { "@type": "Organization", name: "RampSeeker Team" }, publisher: { "@type": "Organization", name: "RampSeeker", url: "https://rampseeker.com" } }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: post.title, datePublished: "2026-04-11", author: { "@type": "Organization", name: "RampSeeker Team" }, publisher: { "@type": "Organization", name: "RampSeeker", url: "https://www.rampseeker.com" } }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://rampseeker.com" },
-          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://rampseeker.com/blog" },
-          { "@type": "ListItem", "position": 3, "name": "Public vs Private Boat Ramps", "item": `https://rampseeker.com/blog/public-vs-private-boat-ramps` },
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.rampseeker.com" },
+          { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://www.rampseeker.com/blog" },
+          { "@type": "ListItem", "position": 3, "name": "Public vs Private Boat Ramps", "item": `https://www.rampseeker.com/blog/public-vs-private-boat-ramps` },
         ],
       }) }} />
 

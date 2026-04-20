@@ -15,9 +15,9 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   return {
     title: `${lake.name} Boat Ramps — Launch Sites & Access Points | RampSeeker`,
     description: `Every boat ramp on ${lake.name}, New York. GPS coordinates, amenities, directions.`,
-    openGraph: { title: `${lake.name} Boat Ramps`, url: `https://rampseeker.com/new-york/lakes/${lake.id}` },
+    openGraph: { title: `${lake.name} Boat Ramps`, url: `https://www.rampseeker.com/new-york/lakes/${lake.id}` },
     twitter: { card: "summary", title: `${lake.name} Boat Ramps | RampSeeker` },
-    alternates: { canonical: `https://rampseeker.com/new-york/lakes/${lake.id}` },
+    alternates: { canonical: `https://www.rampseeker.com/new-york/lakes/${lake.id}` },
   };
 }
 
@@ -36,7 +36,7 @@ export default async function NewYorkLakePage({ params }: { params: Promise<{ id
     <div className="max-w-5xl mx-auto px-4 py-10">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "LakeBodyOfWater", name: lake.name, description: lake.description.split("\n\n")[0], geo: { "@type": "GeoCoordinates", latitude: lake.lat, longitude: lake.lng } }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "FAQPage", mainEntity: faqs.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })) }) }} />
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://rampseeker.com" }, { "@type": "ListItem", position: 2, name: "New York", item: "https://rampseeker.com/new-york" }, { "@type": "ListItem", position: 3, name: lake.name, item: `https://rampseeker.com/new-york/lakes/${lake.id}` }] }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: "https://www.rampseeker.com" }, { "@type": "ListItem", position: 2, name: "New York", item: "https://www.rampseeker.com/new-york" }, { "@type": "ListItem", position: 3, name: lake.name, item: `https://www.rampseeker.com/new-york/lakes/${lake.id}` }] }) }} />
 
       <nav className="text-sm text-gray-400 mb-6 flex flex-wrap gap-2">
         <Link href="/" className="hover:text-water transition">Home</Link><span>/</span>

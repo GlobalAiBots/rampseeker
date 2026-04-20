@@ -6,8 +6,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Lighted Boat Ramps in Oklahoma — Night Launch Sites | RampSeeker",
   description: "Find Oklahoma boat ramps with lighting for pre-dawn and night launches. Essential for early morning fishing trips and tournament prep.",
-  openGraph: { title: "Lighted Boat Ramps in Oklahoma", url: "https://rampseeker.com/best/lighted-boat-ramps", siteName: "RampSeeker" },
-  alternates: { canonical: "https://rampseeker.com/best/lighted-boat-ramps" },
+  openGraph: { title: "Lighted Boat Ramps in Oklahoma", url: "https://www.rampseeker.com/best/lighted-boat-ramps", siteName: "RampSeeker" },
+  alternates: { canonical: "https://www.rampseeker.com/best/lighted-boat-ramps" },
 };
 
 export default function LightedPage() {

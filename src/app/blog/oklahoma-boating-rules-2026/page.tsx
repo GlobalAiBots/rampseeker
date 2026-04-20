@@ -8,8 +8,8 @@ export const metadata: Metadata = {
   title: "Oklahoma Boating Rules & Regulations You Need to Know (2026) | RampSeeker",
   description: "Complete guide to Oklahoma boating laws: registration, safety equipment, age requirements, BUI laws, GRDA rules for Grand Lake, and no-wake zones.",
   keywords: "Oklahoma boating rules, Oklahoma boat registration, GRDA lake rules, Oklahoma boating laws 2026",
-  openGraph: { title: "Oklahoma Boating Rules & Regulations (2026)", url: "https://rampseeker.com/blog/oklahoma-boating-rules-2026" },
-  alternates: { canonical: "https://rampseeker.com/blog/oklahoma-boating-rules-2026" },
+  openGraph: { title: "Oklahoma Boating Rules & Regulations (2026)", url: "https://www.rampseeker.com/blog/oklahoma-boating-rules-2026" },
+  alternates: { canonical: "https://www.rampseeker.com/blog/oklahoma-boating-rules-2026" },
 };
 
 export default function RulesPost() {
@@ -19,7 +19,7 @@ export default function RulesPost() {
         "@context": "https://schema.org", "@type": "Article",
         headline: "Oklahoma Boating Rules & Regulations You Need to Know (2026)",
         datePublished: "2026-03-28", author: { "@type": "Organization", name: "RampSeeker Team" },
-        publisher: { "@type": "Organization", name: "RampSeeker", url: "https://rampseeker.com" },
+        publisher: { "@type": "Organization", name: "RampSeeker", url: "https://www.rampseeker.com" },
       }) }} />
 
       <div className="rounded-xl overflow-hidden mb-8" style={{ background: blogPosts[1].gradient }}>

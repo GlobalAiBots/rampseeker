@@ -8,8 +8,8 @@ export const metadata: Metadata = {
   title: "How to Launch a Boat: Complete Beginner's Guide for Oklahoma Ramps | RampSeeker",
   description: "Step-by-step guide to launching your boat at Oklahoma ramps. Pre-launch checklist, backing tips, loading tricks, ramp etiquette, and common mistakes to avoid.",
   keywords: "how to launch a boat, boat ramp tips, beginner boat launching, boat ramp etiquette",
-  openGraph: { title: "How to Launch a Boat: Beginner's Guide", url: "https://rampseeker.com/blog/how-to-launch-boat-beginner-guide" },
-  alternates: { canonical: "https://rampseeker.com/blog/how-to-launch-boat-beginner-guide" },
+  openGraph: { title: "How to Launch a Boat: Beginner's Guide", url: "https://www.rampseeker.com/blog/how-to-launch-boat-beginner-guide" },
+  alternates: { canonical: "https://www.rampseeker.com/blog/how-to-launch-boat-beginner-guide" },
 };
 
 export default function LaunchPost() {
@@ -19,7 +19,7 @@ export default function LaunchPost() {
         "@context": "https://schema.org", "@type": "Article",
         headline: "How to Launch a Boat: Complete Beginner's Guide for Oklahoma Ramps",
         datePublished: "2026-03-25", author: { "@type": "Organization", name: "RampSeeker Team" },
-        publisher: { "@type": "Organization", name: "RampSeeker", url: "https://rampseeker.com" },
+        publisher: { "@type": "Organization", name: "RampSeeker", url: "https://www.rampseeker.com" },
       }) }} />
 
       <div className="rounded-xl overflow-hidden mb-8" style={{ background: blogPosts[2].gradient }}>

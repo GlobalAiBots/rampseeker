@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Best Boat Ramps in Oklahoma — Filtered by Feature | RampSeeker",
   description: "Find the best boat ramps in Oklahoma filtered by amenities: free ramps, restrooms, lighting, courtesy docks, fuel, and more.",
-  alternates: { canonical: "https://rampseeker.com/best" },
+  alternates: { canonical: "https://www.rampseeker.com/best" },
 };
 
 const categories = [

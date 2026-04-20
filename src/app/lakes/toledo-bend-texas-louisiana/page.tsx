@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Toledo Bend Boat Ramps — Launch Sites | RampSeeker",
   description: "Find boat ramps and launch sites on Toledo Bend Reservoir, TX/LA. 181,600 acres — the largest man-made lake in the South with trophy bass fishing.",
-  alternates: { canonical: "https://rampseeker.com/lakes/toledo-bend-texas-louisiana" },
+  alternates: { canonical: "https://www.rampseeker.com/lakes/toledo-bend-texas-louisiana" },
 };
 
 export default function ToledoBendTexasLouisianaPage() {
@@ -24,9 +24,9 @@ export default function ToledoBendTexasLouisianaPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://rampseeker.com" },
-          { "@type": "ListItem", position: 2, name: "Texas", item: "https://rampseeker.com/texas" },
-          { "@type": "ListItem", position: 3, name: "Toledo Bend", item: "https://rampseeker.com/lakes/toledo-bend-texas-louisiana" },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.rampseeker.com" },
+          { "@type": "ListItem", position: 2, name: "Texas", item: "https://www.rampseeker.com/texas" },
+          { "@type": "ListItem", position: 3, name: "Toledo Bend", item: "https://www.rampseeker.com/lakes/toledo-bend-texas-louisiana" },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

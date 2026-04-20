@@ -102,12 +102,12 @@ export default function Home() {
     <div>
       {/* JSON-LD */}
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
-        "@context": "https://schema.org", "@type": "WebSite", name: "RampSeeker", url: "https://rampseeker.com",
+        "@context": "https://schema.org", "@type": "WebSite", name: "RampSeeker", url: "https://www.rampseeker.com",
         description: `Find boat ramps across the United States. ${rampCount}+ ramps with GPS coordinates, amenities, and local tips.`,
-        potentialAction: { "@type": "SearchAction", target: "https://rampseeker.com/?q={search_term_string}", "query-input": "required name=search_term_string" },
+        potentialAction: { "@type": "SearchAction", target: "https://www.rampseeker.com/?q={search_term_string}", "query-input": "required name=search_term_string" },
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
-        "@context": "https://schema.org", "@type": "Organization", name: "RampSeeker", url: "https://rampseeker.com",
+        "@context": "https://schema.org", "@type": "Organization", name: "RampSeeker", url: "https://www.rampseeker.com",
         description: "The most complete boat ramp directory in the United States.",
       }) }} />
 

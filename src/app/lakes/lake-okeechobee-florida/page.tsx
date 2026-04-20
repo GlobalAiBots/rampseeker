@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Lake Okeechobee Boat Ramps — Launch Sites | RampSeeker",
   description: "Find boat ramps and launch sites on Lake Okeechobee, Florida. 467,200 acres of legendary bass fishing — the largest lake in Florida.",
-  alternates: { canonical: "https://rampseeker.com/lakes/lake-okeechobee-florida" },
+  alternates: { canonical: "https://www.rampseeker.com/lakes/lake-okeechobee-florida" },
 };
 
 export default function LakeOkeechobeeFloridaPage() {
@@ -24,9 +24,9 @@ export default function LakeOkeechobeeFloridaPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://rampseeker.com" },
-          { "@type": "ListItem", position: 2, name: "Florida", item: "https://rampseeker.com/florida" },
-          { "@type": "ListItem", position: 3, name: "Lake Okeechobee", item: "https://rampseeker.com/lakes/lake-okeechobee-florida" },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.rampseeker.com" },
+          { "@type": "ListItem", position: 2, name: "Florida", item: "https://www.rampseeker.com/florida" },
+          { "@type": "ListItem", position: 3, name: "Lake Okeechobee", item: "https://www.rampseeker.com/lakes/lake-okeechobee-florida" },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

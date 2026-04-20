@@ -18,9 +18,9 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   return {
     title: `${lake.name} Boat Ramps — Launch Sites & Access Points | RampSeeker`,
     description: `Every boat ramp on ${lake.name}, Oklahoma. ${lake.acres.toLocaleString()} acres, ${lake.shorelineMiles} miles of shoreline. GPS coordinates, amenities, and local tips.`,
-    openGraph: { title: `${lake.name} Boat Ramps`, url: `https://rampseeker.com/lakes/${lake.id}` },
+    openGraph: { title: `${lake.name} Boat Ramps`, url: `https://www.rampseeker.com/lakes/${lake.id}` },
     twitter: { card: "summary", title: `${lake.name} Boat Ramps | RampSeeker` },
-    alternates: { canonical: `https://rampseeker.com/lakes/${lake.id}` },
+    alternates: { canonical: `https://www.rampseeker.com/lakes/${lake.id}` },
   };
 }
 
@@ -54,9 +54,9 @@ export default async function LakePage({ params }: { params: Promise<{ id: strin
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://rampseeker.com" },
-          { "@type": "ListItem", position: 2, name: "Lakes", item: "https://rampseeker.com/lakes" },
-          { "@type": "ListItem", position: 3, name: lake.name, item: `https://rampseeker.com/lakes/${lake.id}` },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.rampseeker.com" },
+          { "@type": "ListItem", position: 2, name: "Lakes", item: "https://www.rampseeker.com/lakes" },
+          { "@type": "ListItem", position: 3, name: lake.name, item: `https://www.rampseeker.com/lakes/${lake.id}` },
         ],
       }) }} />
 

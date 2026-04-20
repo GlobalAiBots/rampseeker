@@ -7,11 +7,11 @@ export const metadata: Metadata = {
     "The 10 best boat ramps in Michigan, from Suttons Bay on Grand Traverse to Lake Superior launches in Au Train. Find your next launch on RampSeeker.",
   openGraph: {
     title: "Best Boat Ramps in Michigan — Top 10 Picks",
-    url: "https://rampseeker.com/best-of/best-boat-ramps-in-michigan",
+    url: "https://www.rampseeker.com/best-of/best-boat-ramps-in-michigan",
     siteName: "RampSeeker",
   },
   alternates: {
-    canonical: "https://rampseeker.com/best-of/best-boat-ramps-in-michigan",
+    canonical: "https://www.rampseeker.com/best-of/best-boat-ramps-in-michigan",
   },
 };
 
@@ -30,19 +30,19 @@ export default function BestBoatRampsMichigan() {
                 "@type": "ListItem",
                 position: 1,
                 name: "Home",
-                item: "https://rampseeker.com",
+                item: "https://www.rampseeker.com",
               },
               {
                 "@type": "ListItem",
                 position: 2,
                 name: "Best Of",
-                item: "https://rampseeker.com/best-of",
+                item: "https://www.rampseeker.com/best-of",
               },
               {
                 "@type": "ListItem",
                 position: 3,
                 name: "Best Boat Ramps in Michigan",
-                item: "https://rampseeker.com/best-of/best-boat-ramps-in-michigan",
+                item: "https://www.rampseeker.com/best-of/best-boat-ramps-in-michigan",
               },
             ],
           }),

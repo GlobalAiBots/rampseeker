@@ -6,11 +6,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: "US Boat Ramp Map — RampSeeker",
     description: "29,000+ boat ramps across 46 states. Find your launch.",
-    url: "https://rampseeker.com/map",
+    url: "https://www.rampseeker.com/map",
     siteName: "RampSeeker",
   },
   twitter: { card: "summary", title: "US Boat Ramp Map | RampSeeker" },
-  alternates: { canonical: "https://rampseeker.com/map" },
+  alternates: { canonical: "https://www.rampseeker.com/map" },
 };
 
 export default function MapLayout({ children }: { children: React.ReactNode }) {

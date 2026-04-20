@@ -7,8 +7,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Oklahoma Lakes — Boat Ramps by Lake | RampSeeker",
   description: "Browse boat ramps organized by lake across Oklahoma. Grand Lake, Tenkiller, Eufaula, Keystone, Texoma, Broken Bow, and 15+ more.",
-  openGraph: { title: "Oklahoma Lakes — RampSeeker", url: "https://rampseeker.com/lakes" },
-  alternates: { canonical: "https://rampseeker.com/lakes" },
+  openGraph: { title: "Oklahoma Lakes — RampSeeker", url: "https://www.rampseeker.com/lakes" },
+  alternates: { canonical: "https://www.rampseeker.com/lakes" },
 };
 
 export default function LakesPage() {

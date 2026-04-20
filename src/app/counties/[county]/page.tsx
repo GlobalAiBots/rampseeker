@@ -17,9 +17,9 @@ export async function generateMetadata({ params }: { params: Promise<{ county: s
   return {
     title: `Boat Ramps in ${county.name} County, Oklahoma | RampSeeker`,
     description: `Find all ${county.ramps.length} boat ramps in ${county.name} County, Oklahoma. GPS coordinates, amenities, directions, and local tips.`,
-    openGraph: { title: `${county.name} County Boat Ramps`, url: `https://rampseeker.com/counties/${county.slug}` },
+    openGraph: { title: `${county.name} County Boat Ramps`, url: `https://www.rampseeker.com/counties/${county.slug}` },
     twitter: { card: "summary", title: `${county.name} County Boat Ramps | RampSeeker` },
-    alternates: { canonical: `https://rampseeker.com/counties/${county.slug}` },
+    alternates: { canonical: `https://www.rampseeker.com/counties/${county.slug}` },
   };
 }
 
@@ -33,9 +33,9 @@ export default async function CountyPage({ params }: { params: Promise<{ county:
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://rampseeker.com" },
-          { "@type": "ListItem", position: 2, name: "Oklahoma", item: "https://rampseeker.com/oklahoma" },
-          { "@type": "ListItem", position: 3, name: `${county.name} County`, item: `https://rampseeker.com/counties/${county.slug}` },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.rampseeker.com" },
+          { "@type": "ListItem", position: 2, name: "Oklahoma", item: "https://www.rampseeker.com/oklahoma" },
+          { "@type": "ListItem", position: 3, name: `${county.name} County`, item: `https://www.rampseeker.com/counties/${county.slug}` },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

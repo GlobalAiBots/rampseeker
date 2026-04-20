@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Lake Erie Boat Ramps — Launch Sites | RampSeeker",
   description: "Find boat ramps and launch sites on Lake Erie, Ohio. The 'Walleye Capital of the World' with 312 miles of Ohio shoreline and world-class fishing.",
-  alternates: { canonical: "https://rampseeker.com/lakes/lake-erie-ohio" },
+  alternates: { canonical: "https://www.rampseeker.com/lakes/lake-erie-ohio" },
 };
 
 export default function LakeErieOhioPage() {
@@ -24,9 +24,9 @@ export default function LakeErieOhioPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://rampseeker.com" },
-          { "@type": "ListItem", position: 2, name: "Ohio", item: "https://rampseeker.com/ohio" },
-          { "@type": "ListItem", position: 3, name: "Lake Erie", item: "https://rampseeker.com/lakes/lake-erie-ohio" },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.rampseeker.com" },
+          { "@type": "ListItem", position: 2, name: "Ohio", item: "https://www.rampseeker.com/ohio" },
+          { "@type": "ListItem", position: 3, name: "Lake Erie", item: "https://www.rampseeker.com/lakes/lake-erie-ohio" },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

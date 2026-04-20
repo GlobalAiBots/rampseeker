@@ -14,8 +14,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: cmp.metaTitle,
     description: cmp.metaDescription,
-    alternates: { canonical: `https://rampseeker.com/compare/${cmp.slug}` },
-    openGraph: { title: cmp.metaTitle, description: cmp.metaDescription, url: `https://rampseeker.com/compare/${cmp.slug}`, siteName: "RampSeeker", type: "article" },
+    alternates: { canonical: `https://www.rampseeker.com/compare/${cmp.slug}` },
+    openGraph: { title: cmp.metaTitle, description: cmp.metaDescription, url: `https://www.rampseeker.com/compare/${cmp.slug}`, siteName: "RampSeeker", type: "article" },
   };
 }
 
@@ -116,9 +116,9 @@ export default async function ComparePage({ params }: { params: Promise<{ slug: 
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: "https://rampseeker.com" },
-      { "@type": "ListItem", position: 2, name: "Compare", item: "https://rampseeker.com/compare" },
-      { "@type": "ListItem", position: 3, name: cmp.title, item: `https://rampseeker.com/compare/${cmp.slug}` },
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://www.rampseeker.com" },
+      { "@type": "ListItem", position: 2, name: "Compare", item: "https://www.rampseeker.com/compare" },
+      { "@type": "ListItem", position: 3, name: cmp.title, item: `https://www.rampseeker.com/compare/${cmp.slug}` },
     ],
   };
 
@@ -139,7 +139,7 @@ export default async function ComparePage({ params }: { params: Promise<{ slug: 
     description: cmp.metaDescription,
     datePublished: "2026-04-19",
     author: { "@type": "Organization", name: "RampSeeker" },
-    publisher: { "@type": "Organization", name: "RampSeeker", url: "https://rampseeker.com" },
+    publisher: { "@type": "Organization", name: "RampSeeker", url: "https://www.rampseeker.com" },
   };
 
   return (

@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Table Rock Lake Boat Ramps — Launch Sites | RampSeeker",
   description: "Find boat ramps and launch sites on Table Rock Lake, Missouri. 43,100 acres of crystal-clear water near Branson with excellent smallmouth bass fishing.",
-  alternates: { canonical: "https://rampseeker.com/lakes/table-rock-lake-missouri" },
+  alternates: { canonical: "https://www.rampseeker.com/lakes/table-rock-lake-missouri" },
 };
 
 export default function TableRockLakeMissouriPage() {
@@ -24,9 +24,9 @@ export default function TableRockLakeMissouriPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://rampseeker.com" },
-          { "@type": "ListItem", position: 2, name: "Missouri", item: "https://rampseeker.com/missouri" },
-          { "@type": "ListItem", position: 3, name: "Table Rock Lake", item: "https://rampseeker.com/lakes/table-rock-lake-missouri" },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.rampseeker.com" },
+          { "@type": "ListItem", position: 2, name: "Missouri", item: "https://www.rampseeker.com/missouri" },
+          { "@type": "ListItem", position: 3, name: "Table Rock Lake", item: "https://www.rampseeker.com/lakes/table-rock-lake-missouri" },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

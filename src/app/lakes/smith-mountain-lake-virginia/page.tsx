@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Smith Mountain Lake Boat Ramps — Launch Sites | RampSeeker",
   description: "Find boat ramps and launch sites on Smith Mountain Lake, Virginia. 20,600 acres known as the 'Jewel of the Blue Ridge' with excellent striped bass fishing.",
-  alternates: { canonical: "https://rampseeker.com/lakes/smith-mountain-lake-virginia" },
+  alternates: { canonical: "https://www.rampseeker.com/lakes/smith-mountain-lake-virginia" },
 };
 
 export default function SmithMountainLakeVirginiaPage() {
@@ -24,9 +24,9 @@ export default function SmithMountainLakeVirginiaPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://rampseeker.com" },
-          { "@type": "ListItem", position: 2, name: "Virginia", item: "https://rampseeker.com/virginia" },
-          { "@type": "ListItem", position: 3, name: "Smith Mountain Lake", item: "https://rampseeker.com/lakes/smith-mountain-lake-virginia" },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.rampseeker.com" },
+          { "@type": "ListItem", position: 2, name: "Virginia", item: "https://www.rampseeker.com/virginia" },
+          { "@type": "ListItem", position: 3, name: "Smith Mountain Lake", item: "https://www.rampseeker.com/lakes/smith-mountain-lake-virginia" },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

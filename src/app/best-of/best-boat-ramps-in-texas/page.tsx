@@ -7,11 +7,11 @@ export const metadata: Metadata = {
     "The 10 best boat ramps in Texas, from Briarcliff Marina on Lake Travis to Arrowhead Park on Lewisville Lake. Find amenities and directions on RampSeeker.",
   openGraph: {
     title: "Best Boat Ramps in Texas — Top 10 Picks",
-    url: "https://rampseeker.com/best-of/best-boat-ramps-in-texas",
+    url: "https://www.rampseeker.com/best-of/best-boat-ramps-in-texas",
     siteName: "RampSeeker",
   },
   alternates: {
-    canonical: "https://rampseeker.com/best-of/best-boat-ramps-in-texas",
+    canonical: "https://www.rampseeker.com/best-of/best-boat-ramps-in-texas",
   },
 };
 
@@ -30,19 +30,19 @@ export default function BestBoatRampsTexas() {
                 "@type": "ListItem",
                 position: 1,
                 name: "Home",
-                item: "https://rampseeker.com",
+                item: "https://www.rampseeker.com",
               },
               {
                 "@type": "ListItem",
                 position: 2,
                 name: "Best Of",
-                item: "https://rampseeker.com/best-of",
+                item: "https://www.rampseeker.com/best-of",
               },
               {
                 "@type": "ListItem",
                 position: 3,
                 name: "Best Boat Ramps in Texas",
-                item: "https://rampseeker.com/best-of/best-boat-ramps-in-texas",
+                item: "https://www.rampseeker.com/best-of/best-boat-ramps-in-texas",
               },
             ],
           }),

@@ -6,8 +6,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Oklahoma Boat Ramps with Courtesy Docks | RampSeeker",
   description: "Find Oklahoma boat ramps with courtesy docks for easy solo launching. Floating docks make launching and loading your boat much easier.",
-  openGraph: { title: "Oklahoma Boat Ramps with Courtesy Docks", url: "https://rampseeker.com/best/boat-ramps-with-courtesy-docks", siteName: "RampSeeker" },
-  alternates: { canonical: "https://rampseeker.com/best/boat-ramps-with-courtesy-docks" },
+  openGraph: { title: "Oklahoma Boat Ramps with Courtesy Docks", url: "https://www.rampseeker.com/best/boat-ramps-with-courtesy-docks", siteName: "RampSeeker" },
+  alternates: { canonical: "https://www.rampseeker.com/best/boat-ramps-with-courtesy-docks" },
 };
 
 export default function DocksPage() {

@@ -7,11 +7,11 @@ export const metadata: Metadata = {
     "The 10 best boat ramps in Florida, from Panama City marinas to quiet Wakulla River launches. Find parking, restrooms, and fuel info on RampSeeker.",
   openGraph: {
     title: "Best Boat Ramps in Florida — Top 10 Picks",
-    url: "https://rampseeker.com/best-of/best-boat-ramps-in-florida",
+    url: "https://www.rampseeker.com/best-of/best-boat-ramps-in-florida",
     siteName: "RampSeeker",
   },
   alternates: {
-    canonical: "https://rampseeker.com/best-of/best-boat-ramps-in-florida",
+    canonical: "https://www.rampseeker.com/best-of/best-boat-ramps-in-florida",
   },
 };
 
@@ -30,19 +30,19 @@ export default function BestBoatRampsFlorida() {
                 "@type": "ListItem",
                 position: 1,
                 name: "Home",
-                item: "https://rampseeker.com",
+                item: "https://www.rampseeker.com",
               },
               {
                 "@type": "ListItem",
                 position: 2,
                 name: "Best Of",
-                item: "https://rampseeker.com/best-of",
+                item: "https://www.rampseeker.com/best-of",
               },
               {
                 "@type": "ListItem",
                 position: 3,
                 name: "Best Boat Ramps in Florida",
-                item: "https://rampseeker.com/best-of/best-boat-ramps-in-florida",
+                item: "https://www.rampseeker.com/best-of/best-boat-ramps-in-florida",
               },
             ],
           }),

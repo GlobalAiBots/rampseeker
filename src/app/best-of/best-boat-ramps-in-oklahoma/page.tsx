@@ -7,11 +7,11 @@ export const metadata: Metadata = {
     "Discover the 10 best boat ramps in Oklahoma, from scenic cove launches on Kaw Lake to well-maintained facilities on Copan Lake. Curated by RampSeeker.",
   openGraph: {
     title: "Best Boat Ramps in Oklahoma — Top 10 Picks",
-    url: "https://rampseeker.com/best-of/best-boat-ramps-in-oklahoma",
+    url: "https://www.rampseeker.com/best-of/best-boat-ramps-in-oklahoma",
     siteName: "RampSeeker",
   },
   alternates: {
-    canonical: "https://rampseeker.com/best-of/best-boat-ramps-in-oklahoma",
+    canonical: "https://www.rampseeker.com/best-of/best-boat-ramps-in-oklahoma",
   },
 };
 
@@ -30,19 +30,19 @@ export default function BestBoatRampsOklahoma() {
                 "@type": "ListItem",
                 position: 1,
                 name: "Home",
-                item: "https://rampseeker.com",
+                item: "https://www.rampseeker.com",
               },
               {
                 "@type": "ListItem",
                 position: 2,
                 name: "Best Of",
-                item: "https://rampseeker.com/best-of",
+                item: "https://www.rampseeker.com/best-of",
               },
               {
                 "@type": "ListItem",
                 position: 3,
                 name: "Best Boat Ramps in Oklahoma",
-                item: "https://rampseeker.com/best-of/best-boat-ramps-in-oklahoma",
+                item: "https://www.rampseeker.com/best-of/best-boat-ramps-in-oklahoma",
               },
             ],
           }),

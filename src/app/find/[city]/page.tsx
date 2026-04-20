@@ -15,9 +15,9 @@ export async function generateMetadata({ params }: { params: Promise<{ city: str
   return {
     title: `Boat Ramps Near ${city.name}, Oklahoma — Find the Closest Launch | RampSeeker`,
     description: `Find the closest boat ramps near ${city.name}, OK. ${city.ramps.length} ramps in the area with GPS coordinates, directions, and amenities. Free and paid launch sites.`,
-    openGraph: { title: `Boat Ramps Near ${city.name}, Oklahoma`, url: `https://rampseeker.com/find/${city.slug}` },
+    openGraph: { title: `Boat Ramps Near ${city.name}, Oklahoma`, url: `https://www.rampseeker.com/find/${city.slug}` },
     twitter: { card: "summary", title: `Boat Ramps Near ${city.name} | RampSeeker` },
-    alternates: { canonical: `https://rampseeker.com/find/${city.slug}` },
+    alternates: { canonical: `https://www.rampseeker.com/find/${city.slug}` },
   };
 }
 
@@ -42,9 +42,9 @@ export default async function NearCityPage({ params }: { params: Promise<{ city:
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://rampseeker.com" },
-          { "@type": "ListItem", position: 2, name: "Oklahoma", item: "https://rampseeker.com/oklahoma" },
-          { "@type": "ListItem", position: 3, name: `Near ${city.name}`, item: `https://rampseeker.com/find/${city.slug}` },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.rampseeker.com" },
+          { "@type": "ListItem", position: 2, name: "Oklahoma", item: "https://www.rampseeker.com/oklahoma" },
+          { "@type": "ListItem", position: 3, name: `Near ${city.name}`, item: `https://www.rampseeker.com/find/${city.slug}` },
         ],
       }) }} />
 

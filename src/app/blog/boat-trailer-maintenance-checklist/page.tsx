@@ -5,13 +5,13 @@ import { getBlogPostBySlug, getRelatedPosts } from "@/data/blog-posts";
 import type { Metadata } from "next";
 
 const post = getBlogPostBySlug("boat-trailer-maintenance-checklist")!;
-export const metadata: Metadata = { title: `${post.title} | RampSeeker`, description: post.excerpt, keywords: "boat trailer maintenance, pre-season boat trailer checklist, boat trailer inspection", openGraph: { title: post.title, url: `https://rampseeker.com/blog/${post.slug}` }, alternates: { canonical: `https://rampseeker.com/blog/${post.slug}` } };
+export const metadata: Metadata = { title: `${post.title} | RampSeeker`, description: post.excerpt, keywords: "boat trailer maintenance, pre-season boat trailer checklist, boat trailer inspection", openGraph: { title: post.title, url: `https://www.rampseeker.com/blog/${post.slug}` }, alternates: { canonical: `https://www.rampseeker.com/blog/${post.slug}` } };
 
 export default function Post() {
   const related = getRelatedPosts(post.slug);
   return (
     <article className="max-w-3xl mx-auto px-4 py-12">
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: post.title, datePublished: "2026-03-22", author: { "@type": "Organization", name: "RampSeeker Team" }, publisher: { "@type": "Organization", name: "RampSeeker", url: "https://rampseeker.com" } }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({ "@context": "https://schema.org", "@type": "Article", headline: post.title, datePublished: "2026-03-22", author: { "@type": "Organization", name: "RampSeeker Team" }, publisher: { "@type": "Organization", name: "RampSeeker", url: "https://www.rampseeker.com" } }) }} />
       <div className="rounded-xl overflow-hidden mb-8" style={{ background: post.gradient }}><div className="px-6 py-10 md:py-14"><nav className="text-sm text-white/60 mb-4 flex gap-2"><Link href="/" className="hover:text-white transition">Home</Link><span>/</span><Link href="/blog" className="hover:text-white transition">Blog</Link><span>/</span><span className="text-white/80">Trailer Maintenance</span></nav><span className="text-[10px] font-bold text-white/80 bg-white/20 px-2.5 py-1 rounded-full">{post.category}</span><h1 className="font-[Cabin] text-2xl md:text-4xl font-bold text-white mt-3 leading-tight">{post.title}</h1><p className="text-white/60 text-sm mt-3">{post.date} &middot; {post.readTime} &middot; RampSeeker Team</p></div></div>
 
       <div className="space-y-6 text-gray-600 leading-relaxed">

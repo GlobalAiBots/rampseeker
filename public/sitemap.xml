@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>https://rampseeker.com/sitemap-main.xml</loc>
+    <loc>https://www.rampseeker.com/sitemap-main.xml</loc>
     <lastmod>2026-04-10</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://rampseeker.com/sitemap-ramps.xml</loc>
+    <loc>https://www.rampseeker.com/sitemap-ramps.xml</loc>
     <lastmod>2026-04-10</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://rampseeker.com/sitemap-cities.xml</loc>
+    <loc>https://www.rampseeker.com/sitemap-cities.xml</loc>
     <lastmod>2026-04-10</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://rampseeker.com/sitemap-categories.xml</loc>
+    <loc>https://www.rampseeker.com/sitemap-categories.xml</loc>
     <lastmod>2026-04-10</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://rampseeker.com/sitemap-bestof.xml</loc>
+    <loc>https://www.rampseeker.com/sitemap-bestof.xml</loc>
     <lastmod>2026-04-10</lastmod>
   </sitemap>
 </sitemapindex>

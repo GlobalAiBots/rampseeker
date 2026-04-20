@@ -92,7 +92,7 @@ fs.writeFileSync(outputFile, JSON.stringify(cities, null, 2));
 
 // Generate sitemap
 const sitemapLines = cities.map(c =>
-  `  <url><loc>https://rampseeker.com/${c.stateSlug}/cities/${c.citySlug}</loc><lastmod>2026-04-10</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>`
+  `  <url><loc>https://www.rampseeker.com/${c.stateSlug}/cities/${c.citySlug}</loc><lastmod>2026-04-10</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>`
 );
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${sitemapLines.join("\n")}\n</urlset>`;
 fs.writeFileSync(path.join(__dirname, "..", "public", "sitemap-cities.xml"), sitemap);

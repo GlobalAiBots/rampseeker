@@ -5,11 +5,11 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Boating Comparisons — Aluminum vs Fiberglass, Minn Kota vs MotorGuide & More | RampSeeker",
   description: "Honest head-to-head comparisons for boat buyers. Aluminum vs fiberglass, 2-stroke vs 4-stroke, pontoon vs bass boat, kayak vs boat fishing, Minn Kota vs MotorGuide.",
-  alternates: { canonical: "https://rampseeker.com/compare" },
+  alternates: { canonical: "https://www.rampseeker.com/compare" },
   openGraph: {
     title: "Boating Comparisons",
     description: "Side-by-side comparisons to help you pick the right boat, motor, and gear.",
-    url: "https://rampseeker.com/compare",
+    url: "https://www.rampseeker.com/compare",
     siteName: "RampSeeker",
   },
 };
@@ -19,8 +19,8 @@ export default function CompareIndexPage() {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: "https://rampseeker.com" },
-      { "@type": "ListItem", position: 2, name: "Compare", item: "https://rampseeker.com/compare" },
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://www.rampseeker.com" },
+      { "@type": "ListItem", position: 2, name: "Compare", item: "https://www.rampseeker.com/compare" },
     ],
   };
 

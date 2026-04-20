@@ -6,8 +6,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Oklahoma Boat Ramps Near Fuel Stations | RampSeeker",
   description: "Find Oklahoma boat ramps near fuel docks and gas stations. Top off before you launch or fuel up on the water.",
-  openGraph: { title: "Oklahoma Boat Ramps Near Fuel", url: "https://rampseeker.com/best/boat-ramps-with-fuel", siteName: "RampSeeker" },
-  alternates: { canonical: "https://rampseeker.com/best/boat-ramps-with-fuel" },
+  openGraph: { title: "Oklahoma Boat Ramps Near Fuel", url: "https://www.rampseeker.com/best/boat-ramps-with-fuel", siteName: "RampSeeker" },
+  alternates: { canonical: "https://www.rampseeker.com/best/boat-ramps-with-fuel" },
 };
 
 export default function FuelPage() {

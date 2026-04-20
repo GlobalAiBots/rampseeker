@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Lake of the Ozarks Boat Ramps — Launch Sites | RampSeeker",
   description: "Find boat ramps and launch sites on Lake of the Ozarks, Missouri. 54,000 acres with 1,150 miles of shoreline — more than the California coast.",
-  alternates: { canonical: "https://rampseeker.com/lakes/lake-of-the-ozarks-missouri" },
+  alternates: { canonical: "https://www.rampseeker.com/lakes/lake-of-the-ozarks-missouri" },
 };
 
 export default function LakeOfTheOzarksMissouriPage() {
@@ -24,9 +24,9 @@ export default function LakeOfTheOzarksMissouriPage() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "BreadcrumbList",
         itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: "https://rampseeker.com" },
-          { "@type": "ListItem", position: 2, name: "Missouri", item: "https://rampseeker.com/missouri" },
-          { "@type": "ListItem", position: 3, name: "Lake of the Ozarks", item: "https://rampseeker.com/lakes/lake-of-the-ozarks-missouri" },
+          { "@type": "ListItem", position: 1, name: "Home", item: "https://www.rampseeker.com" },
+          { "@type": "ListItem", position: 2, name: "Missouri", item: "https://www.rampseeker.com/missouri" },
+          { "@type": "ListItem", position: 3, name: "Lake of the Ozarks", item: "https://www.rampseeker.com/lakes/lake-of-the-ozarks-missouri" },
         ],
       }) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({

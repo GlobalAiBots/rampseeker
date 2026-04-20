@@ -6,10 +6,10 @@ export const metadata: Metadata = {
   openGraph: {
     title: "About RampSeeker",
     description: "Built by locals, for locals and visitors. The most complete boat ramp guide for Grand Lake.",
-    url: "https://rampseeker.com/about",
+    url: "https://www.rampseeker.com/about",
   },
   twitter: { card: "summary", title: "About RampSeeker" },
-  alternates: { canonical: "https://rampseeker.com/about" },
+  alternates: { canonical: "https://www.rampseeker.com/about" },
 };
 
 export default function AboutPage() {

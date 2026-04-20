@@ -35,12 +35,12 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
     openGraph: {
       title: `${ramp.name} — ${metaState} Boat Ramp`,
       description: ramp.description,
-      url: `https://rampseeker.com/ramps/${ramp.id}`,
+      url: `https://www.rampseeker.com/ramps/${ramp.id}`,
       siteName: "RampSeeker",
       type: "article",
     },
     twitter: { card: "summary", title: `${ramp.name} Boat Ramp | RampSeeker` },
-    alternates: { canonical: `https://rampseeker.com/ramps/${ramp.id}` },
+    alternates: { canonical: `https://www.rampseeker.com/ramps/${ramp.id}` },
   };
 }
 
@@ -101,7 +101,7 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
     geo: { "@type": "GeoCoordinates", latitude: ramp.latitude, longitude: ramp.longitude },
     address: { "@type": "PostalAddress", addressLocality: ramp.city, addressRegion: ramp.state || "US", addressCountry: "US" },
     publicAccess: true,
-    url: `https://rampseeker.com/ramps/${ramp.id}`,
+    url: `https://www.rampseeker.com/ramps/${ramp.id}`,
   };
 
   const faqSchema = {
@@ -118,10 +118,10 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: "https://rampseeker.com" },
-      { "@type": "ListItem", position: 2, name: bcState, item: `https://rampseeker.com/${bcStateSlug}` },
-      ...(ramp.city ? [{ "@type": "ListItem", position: 3, name: ramp.city, item: `https://rampseeker.com/cities/${ramp.city.toLowerCase().replace(/\s+/g, "-")}` }] : []),
-      { "@type": "ListItem", position: ramp.city ? 4 : 3, name: ramp.name, item: `https://rampseeker.com/ramps/${ramp.id}` },
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://www.rampseeker.com" },
+      { "@type": "ListItem", position: 2, name: bcState, item: `https://www.rampseeker.com/${bcStateSlug}` },
+      ...(ramp.city ? [{ "@type": "ListItem", position: 3, name: ramp.city, item: `https://www.rampseeker.com/cities/${ramp.city.toLowerCase().replace(/\s+/g, "-")}` }] : []),
+      { "@type": "ListItem", position: ramp.city ? 4 : 3, name: ramp.name, item: `https://www.rampseeker.com/ramps/${ramp.id}` },
     ],
   };
 

@@ -4,11 +4,11 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Advertise With RampSeeker — Reach Boaters Across America",
   description: "Advertise on RampSeeker. Reach boat owners, trailer boaters, and ramp users actively researching boats, gear, trailers, and launch destinations. Featured listings, sponsored posts, and banner ads.",
-  alternates: { canonical: "https://rampseeker.com/advertise" },
+  alternates: { canonical: "https://www.rampseeker.com/advertise" },
   openGraph: {
     title: "Advertise With RampSeeker",
     description: "Reach boaters actively researching boats, gear, and launch destinations.",
-    url: "https://rampseeker.com/advertise",
+    url: "https://www.rampseeker.com/advertise",
     siteName: "RampSeeker",
   },
 };
@@ -18,8 +18,8 @@ export default function AdvertisePage() {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: "https://rampseeker.com" },
-      { "@type": "ListItem", position: 2, name: "Advertise", item: "https://rampseeker.com/advertise" },
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://www.rampseeker.com" },
+      { "@type": "ListItem", position: 2, name: "Advertise", item: "https://www.rampseeker.com/advertise" },
     ],
   };
 

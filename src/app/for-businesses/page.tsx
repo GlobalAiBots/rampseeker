@@ -4,9 +4,9 @@ export const metadata: Metadata = {
   title: "CLETUS AI — 24/7 AI Chat & Voice Agent for Any Business | RampSeeker",
   description: "CLETUS answers your customers' questions 24/7 on your website and phone. Works for any business — restaurants, hotels, marinas, salons, retail, services, and more. Less than $1/day.",
   keywords: "AI chatbot for small business, AI customer service, 24/7 chatbot for website, AI phone answering service, chatbot for restaurants, AI for hotels",
-  openGraph: { title: "CLETUS AI — 24/7 Chat & Voice Agent for Any Business", url: "https://rampseeker.com/for-businesses", siteName: "RampSeeker" },
+  openGraph: { title: "CLETUS AI — 24/7 Chat & Voice Agent for Any Business", url: "https://www.rampseeker.com/for-businesses", siteName: "RampSeeker" },
   twitter: { card: "summary", title: "CLETUS AI for Your Business | RampSeeker" },
-  alternates: { canonical: "https://rampseeker.com/for-businesses" },
+  alternates: { canonical: "https://www.rampseeker.com/for-businesses" },
 };
 
 const businesses = [

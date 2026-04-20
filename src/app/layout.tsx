@@ -15,17 +15,17 @@ export const metadata: Metadata = {
   openGraph: {
     title: "RampSeeker | Every Boat Ramp in America",
     description: "29,500+ boat ramps across the US. GPS coordinates, amenities, local tips.",
-    url: "https://rampseeker.com",
+    url: "https://www.rampseeker.com",
     siteName: "RampSeeker",
     type: "website",
-    images: [{ url: "https://rampseeker.com/og-image.png", width: 1200, height: 630, alt: "RampSeeker — Every Boat Ramp in America" }],
+    images: [{ url: "https://www.rampseeker.com/og-image.png", width: 1200, height: 630, alt: "RampSeeker — Every Boat Ramp in America" }],
   },
   twitter: {
     card: "summary",
     title: "RampSeeker | Every Boat Ramp in America",
     description: "261+ boat ramps across 19 Oklahoma lakes. GPS coordinates, amenities, local tips.",
   },
-  alternates: { canonical: "https://rampseeker.com" },
+  alternates: { canonical: "https://www.rampseeker.com" },
   verification: {
     google: "JWsw31t4naK4EN6UbytAGjUR7PuyS4e3i1lgEcjM-R4",
   },
@@ -86,7 +86,7 @@ function Footer() {
           <div>
             <p className="font-bold text-white/70 mb-2">From Global AI Bots</p>
             <div className="flex flex-col gap-1">
-              <a href="https://rampseeker.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">RampSeeker</a>
+              <a href="https://www.rampseeker.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">RampSeeker</a>
               <a href="https://pierseeker.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">PierSeeker</a>
               <a href="https://barkseeker.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">BarkSeeker</a>
               <a href="https://marinaseeker.com" target="_blank" rel="noopener noreferrer" className="text-white/40 hover:text-white transition">MarinaSeeker</a>

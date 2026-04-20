@@ -6,8 +6,8 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Oklahoma Boat Ramps with Restrooms — Launch Sites with Facilities | RampSeeker",
   description: "Find Oklahoma boat ramps that have restroom facilities on site. Perfect for families and long days on the water.",
-  openGraph: { title: "Oklahoma Boat Ramps with Restrooms", url: "https://rampseeker.com/best/boat-ramps-with-restrooms", siteName: "RampSeeker" },
-  alternates: { canonical: "https://rampseeker.com/best/boat-ramps-with-restrooms" },
+  openGraph: { title: "Oklahoma Boat Ramps with Restrooms", url: "https://www.rampseeker.com/best/boat-ramps-with-restrooms", siteName: "RampSeeker" },
+  alternates: { canonical: "https://www.rampseeker.com/best/boat-ramps-with-restrooms" },
 };
 
 export default function RestroomsPage() {
