@@ -4,17 +4,20 @@ import Script from "next/script";
 import CletusWidget from "@/components/CletusWidget";
 import CookieConsent from "@/components/CookieConsent";
 import StatesDropdown from "@/components/StatesDropdown";
+import { unified } from "@/data/all-ramps";
 import "./globals.css";
 
+const totalRamps = unified.length.toLocaleString();
+
 export const metadata: Metadata = {
-  title: "RampSeeker | Every Boat Ramp in America — 29,500+ Launch Sites",
+  title: `RampSeeker | Every Boat Ramp in America — ${totalRamps}+ Launch Sites`,
   description:
-    "Find boat ramps across the United States. 29,500+ ramps with GPS coordinates, amenities, and local tips. Detailed coverage for Oklahoma and Texas.",
+    `Find boat ramps across the United States. ${totalRamps}+ ramps with GPS coordinates, amenities, and local tips. Detailed coverage for Oklahoma and Texas.`,
   keywords:
     "Oklahoma boat ramp, boat ramp near me Oklahoma, Grand Lake boat ramp, boat launch Oklahoma, Oklahoma boat ramp directory",
   openGraph: {
     title: "RampSeeker | Every Boat Ramp in America",
-    description: "29,500+ boat ramps across the US. GPS coordinates, amenities, local tips.",
+    description: `${totalRamps}+ boat ramps across the US. GPS coordinates, amenities, local tips.`,
     url: "https://www.rampseeker.com",
     siteName: "RampSeeker",
     type: "website",
@@ -23,7 +26,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary",
     title: "RampSeeker | Every Boat Ramp in America",
-    description: "261+ boat ramps across 19 Oklahoma lakes. GPS coordinates, amenities, local tips.",
+    description: `${totalRamps}+ boat ramps across the US. GPS coordinates, amenities, local tips.`,
   },
   alternates: { canonical: "https://www.rampseeker.com" },
   verification: {
@@ -64,7 +67,7 @@ function Footer() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 text-sm text-white/50">
           <div>
             <p className="font-bold text-white mb-2 font-[Cabin]">&#9875; RampSeeker</p>
-            <p>The most complete boat ramp directory in America. 29,500+ ramps across 46 states.</p>
+            <p>The most complete boat ramp directory in America. {totalRamps}+ ramps across 46 states.</p>
           </div>
           <div>
             <p className="font-bold text-white/70 mb-2">Links</p>

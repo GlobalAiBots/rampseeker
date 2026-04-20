@@ -113,7 +113,7 @@ export default function Home() {
 
       {/* HERO — Full-bleed dramatic */}
       <section className="relative min-h-[50vh] md:min-h-[70vh] flex flex-col items-center justify-center overflow-hidden">
-        <img src="/images/hero-boat-ramp-sunrise.jpg" alt="Boat ramp at sunrise on a calm lake — find 29,500+ boat ramps across America on RampSeeker" className="absolute inset-0 w-full h-full object-cover" loading="eager" />
+        <img src="/images/hero-boat-ramp-sunrise.jpg" alt={`Boat ramp at sunrise on a calm lake — find ${unified.length.toLocaleString()}+ boat ramps across America on RampSeeker`} className="absolute inset-0 w-full h-full object-cover" loading="eager" />
         <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(11,30,51,0.85) 0%, rgba(11,30,51,0.4) 50%, transparent 100%)' }} />
 
         <div className="relative z-10 text-center px-4 max-w-3xl mx-auto pt-8">

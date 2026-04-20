@@ -1,5 +1,8 @@
 import Link from "next/link";
 import type { Metadata } from "next";
+import { unified } from "@/data/all-ramps";
+
+const totalRamps = unified.length.toLocaleString();
 
 export const metadata: Metadata = {
   title: "Advertise With RampSeeker — Reach Boaters Across America",
@@ -46,7 +49,7 @@ export default function AdvertisePage() {
 
         <section className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-10">
           {[
-            { stat: "29,500+", label: "Boat Ramps" },
+            { stat: `${totalRamps}+`, label: "Boat Ramps" },
             { stat: "46", label: "States Covered" },
             { stat: "200+", label: "Lakes With Pages" },
             { stat: "25+", label: "Long-Form Guides" },
