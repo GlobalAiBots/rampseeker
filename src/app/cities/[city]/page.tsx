@@ -13,9 +13,14 @@ const RampMap = dynamic(() => import("@/components/RampMap"), { ssr: false, load
 
 const eligibleCities = cities.filter((c) => c.ramps.length >= 2);
 
+// Pre-render only the top 100 cities by ramp count; rest render on-demand (ISR).
 export function generateStaticParams() {
-  return eligibleCities.map((c) => ({ city: c.slug }));
+  return [...eligibleCities]
+    .sort((a, b) => b.ramps.length - a.ramps.length)
+    .slice(0, 100)
+    .map((c) => ({ city: c.slug }));
 }
+export const dynamicParams = true;
 
 export async function generateMetadata({ params }: { params: Promise<{ city: string }> }): Promise<Metadata> {
   const { city: slug } = await params;

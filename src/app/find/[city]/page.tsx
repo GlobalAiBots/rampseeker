@@ -1,12 +1,12 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { cities, getCityBySlug, getRampsNearCity } from "@/data/cities";
+import { getCityBySlug, getRampsNearCity } from "@/data/cities";
 import { getLakeForRamp } from "@/data/lakes";
 import type { Metadata } from "next";
 
-export function generateStaticParams() {
-  return cities.map((c) => ({ city: c.slug }));
-}
+// Render on-demand (ISR); too many cities to pre-render within build memory.
+export function generateStaticParams() { return []; }
+export const dynamicParams = true;
 
 export async function generateMetadata({ params }: { params: Promise<{ city: string }> }): Promise<Metadata> {
   const { city: slug } = await params;

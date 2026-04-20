@@ -18,9 +18,10 @@ import GearRecommendation from "@/components/GearRecommendation";
 import FeaturedArticle from "@/components/FeaturedArticle";
 import type { Metadata } from "next";
 
-export function generateStaticParams() {
-  return unified.map((r) => ({ id: r.id }));
-}
+// Too many ramps (~29,500) to pre-render within Vercel build memory limits.
+// Render on-demand (ISR): first visit builds + caches at the edge.
+export function generateStaticParams() { return []; }
+export const dynamicParams = true;
 
 export async function generateMetadata({ params }: { params: Promise<{ id: string }> }): Promise<Metadata> {
   const { id } = await params;

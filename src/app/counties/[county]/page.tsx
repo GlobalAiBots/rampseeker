@@ -1,14 +1,14 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { counties, getCountyBySlug } from "@/data/counties";
+import { getCountyBySlug } from "@/data/counties";
 import { amenityLabels } from "@/data/all-ramps";
 import { getLakeForRamp } from "@/data/lakes";
 import AdSlot from "@/components/AdSlot";
 import type { Metadata } from "next";
 
-export function generateStaticParams() {
-  return counties.map((c) => ({ county: c.slug }));
-}
+// Render on-demand (ISR) to keep build memory down; first visit caches at the edge.
+export function generateStaticParams() { return []; }
+export const dynamicParams = true;
 
 export async function generateMetadata({ params }: { params: Promise<{ county: string }> }): Promise<Metadata> {
   const { county: slug } = await params;
