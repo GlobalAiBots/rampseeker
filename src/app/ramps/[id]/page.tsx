@@ -16,6 +16,7 @@ import AdSlot from "@/components/AdSlot";
 import CletusAd from "@/components/CletusAd";
 import GearRecommendation from "@/components/GearRecommendation";
 import FeaturedArticle from "@/components/FeaturedArticle";
+import { getRelatedRampBlog } from "@/lib/related-blogs";
 import type { Metadata } from "next";
 
 // Too many ramps (~29,500) to pre-render within Vercel build memory limits.
@@ -344,22 +345,22 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
               </p>
             </div>
 
-            {/* Related Guides */}
-            <div className="mb-6">
-              <h3 className="font-[Cabin] font-bold text-charcoal mb-3">Related Guides</h3>
-              <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
-                {[
-                  { href: "/blog/how-to-launch-a-boat-safely", title: "How to Launch a Boat Safely", desc: "Step-by-step guide for beginners" },
-                  { href: "/blog/boat-ramp-etiquette", title: "Boat Ramp Etiquette", desc: "10 unwritten rules every boater should know" },
-                  { href: "/blog/public-vs-private-boat-ramps", title: "Public vs Private Ramps", desc: "Cost, access, and amenity differences" },
-                ].map((g) => (
-                  <Link key={g.href} href={g.href} className="group bg-white border border-gray-200 rounded-xl p-4 hover:shadow-md hover:-translate-y-0.5 transition-all">
-                    <p className="font-bold text-charcoal group-hover:text-water transition text-sm">{g.title}</p>
-                    <p className="text-gray-400 text-xs mt-1">{g.desc}</p>
+            {/* Related Guide — contextual by ramp name + city */}
+            {(() => {
+              const tease = getRelatedRampBlog(ramp);
+              return (
+                <section className="mb-6 rounded-lg border border-gray-200 p-6 bg-gray-50">
+                  <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-2">Related Guide</p>
+                  <h3 className="font-[Cabin] text-xl font-bold text-charcoal mb-2">
+                    <Link href={`/blog/${tease.slug}`} className="hover:text-water transition">{tease.title}</Link>
+                  </h3>
+                  <p className="text-gray-600 text-sm leading-relaxed mb-3">{tease.excerpt}</p>
+                  <Link href={`/blog/${tease.slug}`} className="inline-block text-water hover:text-water-light font-semibold text-sm">
+                    Read the full guide &rarr;
                   </Link>
-                ))}
-              </div>
-            </div>
+                </section>
+              );
+            })()}
 
             {/* Nearby Cities */}
             {ramp.city && (() => {
