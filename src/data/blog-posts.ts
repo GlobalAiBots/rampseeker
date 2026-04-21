@@ -11,6 +11,22 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
+    slug: "what-size-truck-to-tow-a-boat",
+    title: "What Size Truck Do You Need to Tow a Boat? Complete Guide (2026)",
+    date: "April 21, 2026", readTime: "10 min read", category: "Guide",
+    excerpt: "Tow ratings explained (GVWR, towing capacity, tongue weight), boat weights by size, truck recommendations from mid-size to 1-ton, hitch classes, and brake requirements.",
+    gradient: "linear-gradient(135deg, #134B70 0%, #2D6A4F 100%)",
+    icon: `<svg viewBox="0 0 80 60" fill="none"><rect x="8" y="20" width="34" height="18" rx="2" stroke="rgba(255,255,255,0.3)" stroke-width="2"/><rect x="42" y="26" width="30" height="12" rx="2" stroke="rgba(255,255,255,0.3)" stroke-width="2"/><circle cx="20" cy="44" r="5" stroke="rgba(255,255,255,0.3)" stroke-width="2"/><circle cx="32" cy="44" r="5" stroke="rgba(255,255,255,0.3)" stroke-width="2"/><circle cx="52" cy="44" r="5" stroke="rgba(255,255,255,0.3)" stroke-width="2"/><circle cx="64" cy="44" r="5" stroke="rgba(255,255,255,0.3)" stroke-width="2"/></svg>`,
+  },
+  {
+    slug: "boat-ramp-parking-tips",
+    title: "Boat Ramp Parking: 8 Rules Every Boater Should Know",
+    date: "April 21, 2026", readTime: "7 min read", category: "Tips",
+    excerpt: "Trailer-designated spots, don't block others, park straight, tide-level awareness, overnight rules, fee vs free, theft prevention, and what to skip.",
+    gradient: "linear-gradient(135deg, #2D6A4F 0%, #1E6091 100%)",
+    icon: `<svg viewBox="0 0 80 60" fill="none"><rect x="14" y="14" width="52" height="38" rx="3" stroke="rgba(255,255,255,0.3)" stroke-width="2"/><text x="32" y="42" font-size="28" fill="rgba(255,255,255,0.35)" font-weight="bold">P</text></svg>`,
+  },
+  {
     slug: "boat-ramp-near-me-guide",
     title: "Boat Ramp Near Me: How to Find the Right Launch (2026 Guide)",
     date: "April 20, 2026", readTime: "6 min read", category: "Guide",
