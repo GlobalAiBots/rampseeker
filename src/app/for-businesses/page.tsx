@@ -1,3 +1,4 @@
+import Link from "next/link";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -27,6 +28,27 @@ const businesses = [
 export default function ForBusinessesPage() {
   return (
     <div>
+      {/* Featured Listing CTA */}
+      <section className="bg-amber-50 border-b-2 border-amber-300 py-10 px-4">
+        <div className="max-w-4xl mx-auto text-center">
+          <p className="text-xs font-bold uppercase tracking-widest text-amber-700 mb-2">&#11088; Directory Featured Listing</p>
+          <h2 className="font-[Cabin] text-2xl md:text-3xl font-bold text-charcoal mb-2">
+            Operate a ramp, marina, or bait shop? Get featured on RampSeeker.
+          </h2>
+          <p className="text-gray-700 max-w-2xl mx-auto mb-5 text-sm md:text-base">
+            Priority placement on state, lake, and county pages. Photo gallery, customer message form, and monthly performance report. $49.95/mo, cancel anytime.
+          </p>
+          <div className="flex gap-3 justify-center flex-wrap">
+            <a href="https://buy.stripe.com/cNieVd9I96K3de9dDCcZa00" target="_blank" rel="noopener noreferrer" className="bg-amber-500 hover:bg-amber-600 text-white font-bold px-6 py-3 rounded-lg transition shadow-sm">
+              &#11088; Get Featured &mdash; $49.95/mo
+            </a>
+            <Link href="/pricing" className="border-2 border-amber-600 text-amber-700 hover:bg-amber-100 font-bold px-6 py-3 rounded-lg transition">
+              See Full Pricing &rarr;
+            </Link>
+          </div>
+        </div>
+      </section>
+
       <section className="py-16 md:py-24 text-center px-4 bg-cream" style={{ backgroundImage: "radial-gradient(circle at 30% 70%, rgba(30,96,145,0.06) 0%, transparent 50%)" }}>
         <h1 className="font-[Cabin] text-3xl md:text-5xl font-bold text-charcoal leading-tight max-w-3xl mx-auto">
           Your Customers Have Questions.<br />CLETUS Answers Them 24/7.
