@@ -28,24 +28,23 @@ const businesses = [
 export default function ForBusinessesPage() {
   return (
     <div>
-      {/* Featured Listing CTA */}
-      <section className="bg-amber-50 border-b-2 border-amber-300 py-10 px-4">
-        <div className="max-w-4xl mx-auto text-center">
-          <p className="text-xs font-bold uppercase tracking-widest text-amber-700 mb-2">&#11088; Directory Featured Listing</p>
-          <h2 className="font-[Cabin] text-2xl md:text-3xl font-bold text-charcoal mb-2">
-            Operate a ramp, marina, or bait shop? Get featured on RampSeeker.
-          </h2>
-          <p className="text-gray-700 max-w-2xl mx-auto mb-5 text-sm md:text-base">
-            Priority placement on state, lake, and county pages. Photo gallery, customer message form, and monthly performance report. $49.95/mo, cancel anytime.
-          </p>
-          <div className="flex gap-3 justify-center flex-wrap">
-            <a href="https://buy.stripe.com/cNieVd9I96K3de9dDCcZa00" target="_blank" rel="noopener noreferrer" className="bg-amber-500 hover:bg-amber-600 text-white font-bold px-6 py-3 rounded-lg transition shadow-sm">
-              &#11088; Get Featured &mdash; $49.95/mo
+      {/* Featured Listing CTA — primary */}
+      <section className="px-4 pt-8">
+        <div className="max-w-5xl mx-auto rounded-xl bg-gradient-to-r from-amber-500 to-yellow-500 p-6 md:p-8 text-white shadow-lg">
+          <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+            <div>
+              <h2 className="text-xl md:text-2xl font-bold mb-2 font-[Cabin]">&#11088; Get Featured on RampSeeker</h2>
+              <p className="text-white/90 text-sm md:text-base">
+                Priority placement on state, lake, and county pages. Photo gallery, customer message form, and monthly performance report &mdash; $49.95/mo. Cancel anytime.
+              </p>
+            </div>
+            <a href="https://buy.stripe.com/cNieVd9I96K3de9dDCcZa00" target="_blank" rel="noopener noreferrer" className="inline-block bg-white text-amber-600 px-6 py-3 rounded-lg font-bold whitespace-nowrap hover:bg-gray-50 transition shadow-md">
+              Get Featured &rarr;
             </a>
-            <Link href="/pricing" className="border-2 border-amber-600 text-amber-700 hover:bg-amber-100 font-bold px-6 py-3 rounded-lg transition">
-              See Full Pricing &rarr;
-            </Link>
           </div>
+          <p className="text-white/80 text-xs mt-3">
+            <Link href="/pricing" className="underline hover:text-white">See full pricing tiers</Link>
+          </p>
         </div>
       </section>
 
@@ -131,6 +130,23 @@ export default function ForBusinessesPage() {
         <p className="text-gray-500 mb-6 max-w-lg mx-auto">CLETUS costs less than $1/day and works 24/7. Your customers get instant answers. You get more business.</p>
         <a href="https://globalaibots.com/signup" target="_blank" rel="noopener noreferrer" className="inline-block bg-sunset hover:bg-sunset-dark text-white font-bold px-8 py-3 rounded-lg transition shadow-sm">Start Your Free 14-Day Trial &rarr;</a>
         <p className="text-gray-400 text-xs mt-4">Questions? <a href="mailto:hello@globalaibots.com" className="text-water hover:underline">hello@globalaibots.com</a></p>
+      </section>
+
+      {/* Featured Listing CTA — secondary, bottom */}
+      <section className="px-4 pb-12">
+        <div className="max-w-5xl mx-auto rounded-xl bg-gradient-to-r from-amber-500 to-yellow-500 p-6 md:p-8 text-white shadow-lg">
+          <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+            <div>
+              <h2 className="text-xl md:text-2xl font-bold mb-2 font-[Cabin]">&#11088; Run a ramp or lake-side business? Get Featured.</h2>
+              <p className="text-white/90 text-sm md:text-base">
+                Priority placement, photos, customer messages, and monthly performance reports &mdash; $49.95/mo. Cancel anytime.
+              </p>
+            </div>
+            <a href="https://buy.stripe.com/cNieVd9I96K3de9dDCcZa00" target="_blank" rel="noopener noreferrer" className="inline-block bg-white text-amber-600 px-6 py-3 rounded-lg font-bold whitespace-nowrap hover:bg-gray-50 transition shadow-md">
+              Get Featured &rarr;
+            </a>
+          </div>
+        </div>
       </section>
     </div>
   );
