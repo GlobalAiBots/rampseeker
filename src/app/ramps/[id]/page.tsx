@@ -3,7 +3,7 @@ import dynamic from "next/dynamic";
 import { notFound } from "next/navigation";
 
 const RampMap = dynamic(() => import("@/components/RampMap"), { ssr: false, loading: () => <div className="rounded-xl bg-gray-100 flex items-center justify-center" style={{ height: 400 }}><p className="text-gray-400 text-sm">Loading map...</p></div> });
-import { unified, getUnifiedRampById, amenityLabels, type UnifiedRamp } from "@/data/all-ramps";
+import { unified, getUnifiedRampById, amenityLabels, isGenericName, type UnifiedRamp } from "@/data/all-ramps";
 import { getLakeForRamp } from "@/data/lakes";
 import { getTexasLakeForRamp } from "@/data/texas-lakes";
 import { getMissouriLakeForRamp } from "@/data/missouri-lakes";
@@ -23,6 +23,36 @@ import type { Metadata } from "next";
 export function generateStaticParams() { return []; }
 export const dynamicParams = true;
 
+// 68% of ramps are generically named "Boat Ramp" (OSM-scraped with no site name).
+// Identical H1/title/description across thousands of pages caused Google to cluster
+// them as duplicates and pick arbitrary canonicals despite self-referential canonical
+// tags. Differentiate generic names with lake/city/county context so each page
+// carries a unique display name.
+function getDisplayName(
+  ramp: UnifiedRamp,
+  lake: { name: string } | undefined,
+  county: string | null | undefined,
+  stateName: string,
+): string {
+  if (!isGenericName(ramp.name)) return ramp.name;
+  if (lake?.name) return `Boat Ramp on ${lake.name}`;
+  if (ramp.city) return `Boat Ramp in ${ramp.city}, ${stateName}`;
+  if (county) return `Boat Ramp in ${county} County, ${stateName}`;
+  return `Boat Ramp at ${ramp.latitude.toFixed(4)}, ${ramp.longitude.toFixed(4)}`;
+}
+
+// Narrow lake resolver for metadata scope (full resolver runs in the component).
+function resolveLakeForMetadata(ramp: UnifiedRamp) {
+  const std = getLakeForRamp(ramp.latitude, ramp.longitude);
+  if (std) return std;
+  if (ramp.state === "TX") return getTexasLakeForRamp(ramp.latitude, ramp.longitude);
+  if (ramp.state === "MO") return getMissouriLakeForRamp(ramp.latitude, ramp.longitude);
+  if (ramp.state === "AR") return getArkansasLakeForRamp(ramp.latitude, ramp.longitude);
+  if (ramp.state === "KS") return getKansasLakeForRamp(ramp.latitude, ramp.longitude);
+  if (ramp.state === "FL") return getFloridaLakeForRamp(ramp.latitude, ramp.longitude);
+  return undefined;
+}
+
 export async function generateMetadata({ params }: { params: Promise<{ id: string }> }): Promise<Metadata> {
   const { id } = await params;
   const ramp = getUnifiedRampById(id);
@@ -30,17 +60,22 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   const stNames: Record<string, string> = {AL:"Alabama",AK:"Alaska",AZ:"Arizona",AR:"Arkansas",CA:"California",CO:"Colorado",CT:"Connecticut",DE:"Delaware",FL:"Florida",GA:"Georgia",HI:"Hawaii",ID:"Idaho",IL:"Illinois",IN:"Indiana",IA:"Iowa",KS:"Kansas",KY:"Kentucky",LA:"Louisiana",ME:"Maine",MD:"Maryland",MA:"Massachusetts",MI:"Michigan",MN:"Minnesota",MS:"Mississippi",MO:"Missouri",MT:"Montana",NE:"Nebraska",NV:"Nevada",NH:"New Hampshire",NJ:"New Jersey",NM:"New Mexico",NY:"New York",NC:"North Carolina",ND:"North Dakota",OH:"Ohio",OK:"Oklahoma",OR:"Oregon",PA:"Pennsylvania",RI:"Rhode Island",SC:"South Carolina",SD:"South Dakota",TN:"Tennessee",TX:"Texas",UT:"Utah",VT:"Vermont",VA:"Virginia",WA:"Washington",WV:"West Virginia",WI:"Wisconsin",WY:"Wyoming"};
   const metaState = stNames[ramp.state] || ramp.state || "USA";
   const county = ramp.county ? `${ramp.county} County, ` : "";
+  const lake = resolveLakeForMetadata(ramp);
+  const displayName = getDisplayName(ramp, lake, ramp.county || null, metaState);
+  // Per-page unique identifier — GPS — baked into description so Google sees
+  // every page as distinct content even when the ramp has no name.
+  const gps = `${ramp.latitude.toFixed(4)}, ${ramp.longitude.toFixed(4)}`;
   return {
-    title: `${ramp.name} Boat Ramp — ${county}${metaState} | RampSeeker`,
-    description: `${ramp.name} boat ramp in ${ramp.city ? ramp.city + ", " : ""}${metaState}. GPS coordinates, directions, amenities, and local tips. Find boat ramps near you on RampSeeker.`,
+    title: `${displayName} — ${county}${metaState} | RampSeeker`,
+    description: `${displayName}${ramp.city && !displayName.includes(ramp.city) ? ` near ${ramp.city},` : ""} ${metaState}. GPS ${gps}. ${lake?.name ? `On ${lake.name}. ` : ""}Directions, amenities, and local tips. Find boat ramps near you on RampSeeker.`,
     openGraph: {
-      title: `${ramp.name} — ${metaState} Boat Ramp`,
+      title: `${displayName} — ${metaState} Boat Ramp`,
       description: ramp.description,
       url: `https://www.rampseeker.com/ramps/${ramp.id}`,
       siteName: "RampSeeker",
       type: "article",
     },
-    twitter: { card: "summary", title: `${ramp.name} Boat Ramp | RampSeeker` },
+    twitter: { card: "summary", title: `${displayName} | RampSeeker` },
     alternates: { canonical: `https://www.rampseeker.com/ramps/${ramp.id}` },
   };
 }
@@ -75,6 +110,8 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
   const lake = getLakeForRamp(ramp.latitude, ramp.longitude) || (ramp.state === "TX" ? getTexasLakeForRamp(ramp.latitude, ramp.longitude) : undefined) || (ramp.state === "MO" ? getMissouriLakeForRamp(ramp.latitude, ramp.longitude) : undefined) || (ramp.state === "AR" ? getArkansasLakeForRamp(ramp.latitude, ramp.longitude) : undefined) || (ramp.state === "KS" ? getKansasLakeForRamp(ramp.latitude, ramp.longitude) : undefined) || (ramp.state === "FL" ? getFloridaLakeForRamp(ramp.latitude, ramp.longitude) : undefined);
   const county = getCountyForCity(ramp.city);
   const citySlug = ramp.city.toLowerCase().replace(/\s+/g, "-");
+  const stateName = ({AL:"Alabama",AK:"Alaska",AZ:"Arizona",AR:"Arkansas",CA:"California",CO:"Colorado",CT:"Connecticut",DE:"Delaware",FL:"Florida",GA:"Georgia",HI:"Hawaii",ID:"Idaho",IL:"Illinois",IN:"Indiana",IA:"Iowa",KS:"Kansas",KY:"Kentucky",LA:"Louisiana",ME:"Maine",MD:"Maryland",MA:"Massachusetts",MI:"Michigan",MN:"Minnesota",MS:"Mississippi",MO:"Missouri",MT:"Montana",NE:"Nebraska",NV:"Nevada",NH:"New Hampshire",NJ:"New Jersey",NM:"New Mexico",NY:"New York",NC:"North Carolina",ND:"North Dakota",OH:"Ohio",OK:"Oklahoma",OR:"Oregon",PA:"Pennsylvania",RI:"Rhode Island",SC:"South Carolina",SD:"South Dakota",TN:"Tennessee",TX:"Texas",UT:"Utah",VT:"Vermont",VA:"Virginia",WA:"Washington",WV:"West Virginia",WI:"Wisconsin",WY:"Wyoming"} as Record<string, string>)[ramp.state] || ramp.state || "USA";
+  const displayName = getDisplayName(ramp, lake, ramp.county || county, stateName);
   // Use precomputed nearby data
   const nearbyData = (() => {
     try {
@@ -97,7 +134,7 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
   const placeSchema = {
     "@context": "https://schema.org",
     "@type": "CivicStructure",
-    name: ramp.name,
+    name: displayName,
     description: ramp.description,
     geo: { "@type": "GeoCoordinates", latitude: ramp.latitude, longitude: ramp.longitude },
     address: { "@type": "PostalAddress", addressLocality: ramp.city, addressRegion: ramp.state || "US", addressCountry: "US" },
@@ -137,7 +174,7 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
         <Link href="/" className="hover:text-water transition">Home</Link><span>/</span>
         <Link href={`/${bcStateSlug}`} className="hover:text-water transition">{bcState}</Link><span>/</span>
         {ramp.featured && <><Link href="/grand-lake" className="hover:text-water transition">Grand Lake</Link><span>/</span></>}
-        <span className="text-charcoal font-medium">{ramp.name}</span>
+        <span className="text-charcoal font-medium">{displayName}</span>
       </nav>
 
       {/* Lake / Featured badge */}
@@ -154,7 +191,7 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
 
       {/* Header */}
       <div className="mb-8">
-        <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal">{ramp.name}</h1>
+        <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal">{displayName}</h1>
         <p className="text-gray-500 mt-1">{ramp.city}, {bcState}{gl ? ` \u00b7 Operated by ${gl.operatedBy}` : ""}</p>
         {(ramp.rating > 0) && (
           <div className="flex items-center gap-0.5 mt-2">
@@ -228,7 +265,7 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
           {/* Long Description */}
           {gl.longDescription && gl.longDescription !== gl.description && (
             <div className="bg-white border border-gray-200 rounded-xl p-6 mb-8 shadow-sm">
-              <h3 className="font-[Cabin] font-bold text-charcoal mb-3">What to Know About {ramp.name}</h3>
+              <h3 className="font-[Cabin] font-bold text-charcoal mb-3">What to Know About {displayName}</h3>
               {gl.longDescription.split("\n\n").map((p, i) => (
                 <p key={i} className="text-gray-600 leading-relaxed mb-4 last:mb-0">{p}</p>
               ))}
@@ -277,9 +314,9 @@ export default async function RampPage({ params }: { params: Promise<{ id: strin
 
             {/* About This Ramp — unique generated description */}
             <div className="bg-white border border-gray-200 rounded-xl p-6 mb-6 shadow-sm">
-              <h3 className="font-[Cabin] font-bold text-charcoal mb-3">About {ramp.name}</h3>
+              <h3 className="font-[Cabin] font-bold text-charcoal mb-3">About {displayName}</h3>
               <p className="text-gray-600 leading-relaxed text-sm">
-                {ramp.name} is a public boat ramp located {ramp.city ? `in ${ramp.city}, ` : "in "}{bcState}{waterBody ? `, providing access to ${waterBody}` : ""}. This launch site is used by local boaters, anglers, and outdoor enthusiasts{ramp.rating > 3.5 ? " and is well-regarded by visitors" : ""}. GPS coordinates for navigation are {ramp.latitude.toFixed(4)}, {ramp.longitude.toFixed(4)}.
+                {displayName} is a public boat ramp located {ramp.city ? `in ${ramp.city}, ` : "in "}{bcState}{waterBody ? `, providing access to ${waterBody}` : ""}. This launch site is used by local boaters, anglers, and outdoor enthusiasts{ramp.rating > 3.5 ? " and is well-regarded by visitors" : ""}. GPS coordinates for navigation are {ramp.latitude.toFixed(4)}, {ramp.longitude.toFixed(4)}.
               </p>
               {ramp.rating > 0 && (
                 <p className="text-gray-600 leading-relaxed text-sm mt-3">
