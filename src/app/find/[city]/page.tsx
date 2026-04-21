@@ -18,6 +18,10 @@ export async function generateMetadata({ params }: { params: Promise<{ city: str
     openGraph: { title: `Boat Ramps Near ${city.name}, Oklahoma`, url: `https://www.rampseeker.com/find/${city.slug}` },
     twitter: { card: "summary", title: `Boat Ramps Near ${city.name} | RampSeeker` },
     alternates: { canonical: `https://www.rampseeker.com/find/${city.slug}` },
+    // Not in sitemap; parallel /cities/[slug] route covers same functionality with
+    // different geographic coverage, so Google was clustering these as duplicates.
+    // Keep the route for internal navigation but remove from index.
+    robots: { index: false, follow: true },
   };
 }
 
