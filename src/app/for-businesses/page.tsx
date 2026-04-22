@@ -1,152 +1,116 @@
 import Link from "next/link";
 import type { Metadata } from "next";
 
+const STRIPE_FEATURED = "https://buy.stripe.com/cNieVd9I96K3de9dDCcZa00";
+const CLETUS_SIGNUP = "https://globalaibots.com/signup";
+
 export const metadata: Metadata = {
-  title: "CLETUS AI — 24/7 AI Chat & Voice Agent for Any Business | RampSeeker",
-  description: "CLETUS answers your customers' questions 24/7 on your website and phone. Works for any business — restaurants, hotels, marinas, salons, retail, services, and more. Less than $1/day.",
-  keywords: "AI chatbot for small business, AI customer service, 24/7 chatbot for website, AI phone answering service, chatbot for restaurants, AI for hotels",
-  openGraph: { title: "CLETUS AI — 24/7 Chat & Voice Agent for Any Business", url: "https://www.rampseeker.com/for-businesses", siteName: "RampSeeker" },
-  twitter: { card: "summary", title: "CLETUS AI for Your Business | RampSeeker" },
+  title: "List Your Ramp Business on RampSeeker | For Businesses",
+  description: "Two ways to grow your ramp-side business: Featured Listing on RampSeeker ($49.95/mo) or CLETUS AI chat and voice agent for your own website (from $29.95/mo).",
+  keywords: "boat ramp marketing, featured listing boat ramp, AI chatbot for marinas, AI for bait shops",
+  openGraph: { title: "List Your Ramp Business on RampSeeker", url: "https://www.rampseeker.com/for-businesses", siteName: "RampSeeker" },
   alternates: { canonical: "https://www.rampseeker.com/for-businesses" },
 };
-
-const businesses = [
-  { icon: "&#127957;", type: "Campgrounds & RV Parks", questions: ["Do you have full hookups?", "What are your rates?", "Are you pet friendly?"] },
-  { icon: "&#9875;", type: "Marinas & Boat Rentals", questions: ["What slip sizes do you have?", "What pontoons are available?", "What's fuel price?"] },
-  { icon: "&#127907;", type: "Bait Shops & Outfitters", questions: ["Are you open?", "Do you have live shiners?", "What's biting right now?"] },
-  { icon: "&#127976;", type: "Hotels & Lodges", questions: ["Do you have availability?", "Is there a pool?", "What's checkout time?"] },
-  { icon: "&#127860;", type: "Restaurants & Bars", questions: ["What are your hours?", "Do you have dock access?", "Is there live music tonight?"] },
-  { icon: "&#127978;", type: "Retail & Local Shops", questions: ["What are your hours?", "Do you carry [product]?", "Where are you located?"] },
-  { icon: "&#128295;", type: "Service Businesses", questions: ["How much does [service] cost?", "Do you offer free estimates?", "What areas do you serve?"] },
-  { icon: "&#128136;", type: "Salons & Spas", questions: ["Do you take walk-ins?", "What are your prices?", "Can I book online?"] },
-  { icon: "&#127973;", type: "Medical & Dental", questions: ["What insurance do you accept?", "Taking new patients?", "What are your hours?"] },
-  { icon: "&#127947;", type: "Gyms & Fitness", questions: ["What are membership rates?", "Do you offer day passes?", "What classes do you have?"] },
-  { icon: "&#128054;", type: "Pet Services", questions: ["What are boarding rates?", "Do you do grooming?", "Is there outdoor play?"] },
-  { icon: "&#127968;", type: "Real Estate", questions: ["Is this property still available?", "Can I schedule a showing?", "What are the HOA fees?"] },
-];
 
 export default function ForBusinessesPage() {
   return (
     <div>
-      {/* Featured Listing CTA — primary */}
-      <section className="px-4 pt-8">
-        <div className="max-w-5xl mx-auto rounded-xl bg-gradient-to-r from-amber-500 to-yellow-500 p-6 md:p-8 text-white shadow-lg">
-          <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
-            <div>
-              <h2 className="text-xl md:text-2xl font-bold mb-2 font-[Cabin]">&#11088; Get Featured on RampSeeker</h2>
-              <p className="text-white/90 text-sm md:text-base">
-                Priority placement on state, lake, and county pages. Photo gallery, customer message form, and monthly performance report &mdash; $49.95/mo. Cancel anytime.
-              </p>
-            </div>
-            <a href="https://buy.stripe.com/cNieVd9I96K3de9dDCcZa00" target="_blank" rel="noopener noreferrer" className="inline-block bg-white text-amber-600 px-6 py-3 rounded-lg font-bold whitespace-nowrap hover:bg-gray-50 transition shadow-md">
-              Get Featured &rarr;
-            </a>
-          </div>
-          <p className="text-white/80 text-xs mt-3">
-            <Link href="/pricing" className="underline hover:text-white">See full pricing tiers</Link>
-          </p>
-        </div>
-      </section>
-
-      <section className="py-16 md:py-24 text-center px-4 bg-cream" style={{ backgroundImage: "radial-gradient(circle at 30% 70%, rgba(30,96,145,0.06) 0%, transparent 50%)" }}>
+      <section className="px-4 pt-12 pb-8 text-center bg-cream" style={{ backgroundImage: "radial-gradient(circle at 30% 70%, rgba(30,96,145,0.06) 0%, transparent 50%)" }}>
         <h1 className="font-[Cabin] text-3xl md:text-5xl font-bold text-charcoal leading-tight max-w-3xl mx-auto">
-          Your Customers Have Questions.<br />CLETUS Answers Them 24/7.
+          List Your Ramp Business on RampSeeker
         </h1>
-        <p className="text-gray-500 text-lg mt-6 max-w-xl mx-auto leading-relaxed">
-          AI chat and voice agent for your website and phone. Works for any business, any industry. Less than $1/day.
+        <p className="text-gray-500 text-lg mt-5 max-w-xl mx-auto">
+          Two ways to grow your business. Pick one or both.
         </p>
-        <div className="flex gap-3 justify-center mt-8 flex-wrap">
-          <a href="https://globalaibots.com/signup" target="_blank" rel="noopener noreferrer" className="bg-sunset hover:bg-sunset-dark text-white font-bold px-6 py-3 rounded-lg transition shadow-sm">Start Free 14-Day Trial</a>
-          <a href="#see-it" className="border-2 border-water text-water hover:bg-water hover:text-white font-bold px-6 py-3 rounded-lg transition">See It In Action</a>
-        </div>
       </section>
 
-      <section className="max-w-6xl mx-auto px-4 py-14">
-        <h2 className="font-[Cabin] text-2xl font-bold text-charcoal text-center mb-3">CLETUS Works for Every Business</h2>
-        <p className="text-gray-500 text-center mb-10 max-w-lg mx-auto">CLETUS learns YOUR business and answers YOUR customers&apos; questions — instantly, accurately, 24/7.</p>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-          {businesses.map((b) => (
-            <div key={b.type} className="bg-white border border-gray-200 rounded-xl p-5 shadow-sm">
-              <p className="text-2xl mb-2" dangerouslySetInnerHTML={{ __html: b.icon }} />
-              <h3 className="font-[Cabin] font-bold text-charcoal mb-3">{b.type}</h3>
-              <div className="space-y-2">
-                {b.questions.map((q) => (
-                  <p key={q} className="text-gray-500 text-sm bg-gray-50 rounded-lg px-3 py-2 italic">&ldquo;{q}&rdquo;</p>
-                ))}
-              </div>
-            </div>
-          ))}
+      <section className="px-4 pb-12">
+        <div className="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-6">
+          <div className="rounded-2xl bg-gradient-to-br from-amber-500 to-yellow-500 p-8 text-white shadow-xl flex flex-col">
+            <p className="text-xs font-bold uppercase tracking-widest text-white/80 mb-2">&#11088; Primary Product</p>
+            <h2 className="font-[Cabin] text-2xl md:text-3xl font-bold mb-1">Featured Listing</h2>
+            <p className="text-4xl font-extrabold mb-1">$49.95<span className="text-lg text-white/80 font-semibold">/mo</span></p>
+            <p className="text-white/90 text-sm mb-6">Get your ramp, marina, or bait shop seen by boaters already searching.</p>
+            <ul className="space-y-2 text-sm text-white/95 mb-8 flex-1">
+              <li className="flex items-start gap-2"><span className="text-white font-bold flex-shrink-0 mt-0.5">&#10003;</span> Priority placement on state, lake, and county pages</li>
+              <li className="flex items-start gap-2"><span className="text-white font-bold flex-shrink-0 mt-0.5">&#10003;</span> Photo gallery &mdash; ramp, courtesy dock, parking, amenities</li>
+              <li className="flex items-start gap-2"><span className="text-white font-bold flex-shrink-0 mt-0.5">&#10003;</span> Customer message form on your listing</li>
+              <li className="flex items-start gap-2"><span className="text-white font-bold flex-shrink-0 mt-0.5">&#10003;</span> Monthly performance report (views, clicks, contacts)</li>
+              <li className="flex items-start gap-2"><span className="text-white font-bold flex-shrink-0 mt-0.5">&#10003;</span> 3x more visibility than free listings</li>
+              <li className="flex items-start gap-2"><span className="text-white font-bold flex-shrink-0 mt-0.5">&#10003;</span> Cancel anytime</li>
+            </ul>
+            <a href={STRIPE_FEATURED} target="_blank" rel="noopener noreferrer" className="block text-center bg-white text-amber-600 font-bold px-6 py-3 rounded-lg hover:bg-gray-50 transition shadow-md">
+              Get Featured Now &rarr;
+            </a>
+            <p className="text-white/80 text-xs text-center mt-3">
+              <Link href="/pricing" className="underline hover:text-white">See full pricing</Link>
+            </p>
+          </div>
+
+          <div className="rounded-2xl bg-white border-2 border-water p-8 shadow-xl flex flex-col">
+            <p className="text-xs font-bold uppercase tracking-widest text-water mb-2">&#129302; AI for Your Own Site</p>
+            <h2 className="font-[Cabin] text-2xl md:text-3xl font-bold text-charcoal mb-1">CLETUS AI</h2>
+            <p className="text-4xl font-extrabold text-charcoal mb-1">from $29.95<span className="text-lg text-gray-500 font-semibold">/mo</span></p>
+            <p className="text-gray-600 text-sm mb-6">Add AI chat and voice to the website you already have.</p>
+            <ul className="space-y-2 text-sm text-gray-700 mb-8 flex-1">
+              <li className="flex items-start gap-2"><span className="text-water font-bold flex-shrink-0 mt-0.5">&#10003;</span> AI chat widget on YOUR website, 24/7</li>
+              <li className="flex items-start gap-2"><span className="text-water font-bold flex-shrink-0 mt-0.5">&#10003;</span> Optional AI voice receptionist (from $49.95/mo)</li>
+              <li className="flex items-start gap-2"><span className="text-water font-bold flex-shrink-0 mt-0.5">&#10003;</span> Works on WordPress, Wix, Squarespace, Shopify, anywhere</li>
+              <li className="flex items-start gap-2"><span className="text-water font-bold flex-shrink-0 mt-0.5">&#10003;</span> Learns your business from a simple Q&amp;A setup</li>
+              <li className="flex items-start gap-2"><span className="text-water font-bold flex-shrink-0 mt-0.5">&#10003;</span> 14-day free trial &mdash; no credit card required</li>
+              <li className="flex items-start gap-2"><span className="text-water font-bold flex-shrink-0 mt-0.5">&#10003;</span> Cancel anytime</li>
+            </ul>
+            <a href={CLETUS_SIGNUP} target="_blank" rel="noopener noreferrer" className="block text-center bg-water hover:bg-water-deep text-white font-bold px-6 py-3 rounded-lg transition shadow-md">
+              Start Free Trial &rarr;
+            </a>
+            <p className="text-gray-500 text-xs text-center mt-3">
+              <a href="https://globalaibots.com/pricing" target="_blank" rel="noopener noreferrer" className="underline hover:text-charcoal">See CLETUS pricing tiers</a>
+            </p>
+          </div>
         </div>
       </section>
 
       <section className="bg-gray-50 border-y border-gray-200 py-14 px-4">
-        <div className="max-w-4xl mx-auto">
-          <h2 className="font-[Cabin] text-2xl font-bold text-charcoal text-center mb-10">How It Works</h2>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-            {[
-              { step: "1", title: "Sign Up", desc: "Create your account in 30 seconds. No credit card for the free trial." },
-              { step: "2", title: "Teach CLETUS", desc: "Enter your hours, prices, FAQ, and policies. CLETUS learns it all in minutes." },
-              { step: "3", title: "Go Live", desc: "Paste one line of code on your website. CLETUS starts answering immediately." },
-            ].map((s) => (
-              <div key={s.step} className="text-center">
-                <div className="w-12 h-12 rounded-full bg-water text-white font-bold text-xl flex items-center justify-center mx-auto mb-3">{s.step}</div>
-                <h3 className="font-[Cabin] font-bold text-charcoal mb-1">{s.title}</h3>
-                <p className="text-gray-500 text-sm">{s.desc}</p>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      <section className="max-w-4xl mx-auto px-4 py-14">
-        <h2 className="font-[Cabin] text-2xl font-bold text-charcoal text-center mb-8">Simple Pricing</h2>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
-          {[
-            { name: "CLETUS Chat", price: "$29.95", desc: "AI chat widget on your website. 24/7." },
-            { name: "CLETUS Voice", price: "$49.95", desc: "AI phone receptionist. Natural voice." },
-            { name: "Chat + Voice", price: "$69.95", desc: "Both products. Save $10/mo.", highlight: true },
-          ].map((p) => (
-            <div key={p.name} className={`rounded-xl p-6 text-center ${p.highlight ? "bg-water text-white" : "bg-white border border-gray-200 shadow-sm"}`}>
-              <p className={`font-[Cabin] font-bold text-sm mb-1 ${p.highlight ? "text-white/80" : "text-gray-500"}`}>{p.name}</p>
-              <p className="text-3xl font-bold font-[Cabin] mb-1">{p.price}<span className={`text-sm font-normal ${p.highlight ? "text-white/70" : "text-gray-400"}`}>/mo</span></p>
-              <p className={`text-sm ${p.highlight ? "text-white/80" : "text-gray-500"}`}>{p.desc}</p>
-            </div>
-          ))}
-        </div>
-        <p className="text-gray-400 text-sm text-center mt-4">14-day free trial on every plan. No credit card required.</p>
-      </section>
-
-      <section id="see-it" className="max-w-3xl mx-auto px-4 py-14">
-        <div className="bg-blue-50 border border-blue-200 rounded-xl p-8 text-center">
-          <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-3">See CLETUS In Action — Right Now</h2>
-          <p className="text-gray-600 text-sm leading-relaxed mb-4">
-            The chat bubble in the bottom corner of this page IS CLETUS. Click it and ask anything — that&apos;s exactly what your customers would experience.
+        <div className="max-w-3xl mx-auto text-center">
+          <p className="text-xs font-bold uppercase tracking-widest text-sunset mb-3">What CLETUS Can Answer</p>
+          <p className="text-2xl md:text-3xl font-[Cabin] font-bold text-charcoal leading-snug">
+            Launch fees, trailer parking, ramp status, lake conditions &mdash; all answered automatically, 24/7.
+          </p>
+          <p className="text-gray-500 mt-4 text-sm max-w-xl mx-auto">
+            CLETUS learns your business in minutes. Paste in your ramp hours, fees, amenities, and lake info; the chat widget answers every boater question instantly while you focus on running operations.
           </p>
         </div>
       </section>
 
-      <section className="py-14 px-4 text-center" style={{ backgroundImage: "radial-gradient(circle at 50% 100%, rgba(30,96,145,0.06) 0%, transparent 50%)" }}>
-        <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-3">Stop Losing Customers to Unanswered Questions</h2>
-        <p className="text-gray-500 mb-6 max-w-lg mx-auto">CLETUS costs less than $1/day and works 24/7. Your customers get instant answers. You get more business.</p>
-        <a href="https://globalaibots.com/signup" target="_blank" rel="noopener noreferrer" className="inline-block bg-sunset hover:bg-sunset-dark text-white font-bold px-8 py-3 rounded-lg transition shadow-sm">Start Your Free 14-Day Trial &rarr;</a>
-        <p className="text-gray-400 text-xs mt-4">Questions? <a href="mailto:hello@globalaibots.com" className="text-water hover:underline">hello@globalaibots.com</a></p>
+      <section className="max-w-3xl mx-auto px-4 py-14">
+        <h2 className="font-[Cabin] text-2xl font-bold text-charcoal text-center mb-8">Frequently Asked</h2>
+        <div className="space-y-3">
+          {[
+            { q: "How quickly does my featured listing go live?", a: "Within 1 business day after you subscribe and verify you're authorized to represent the ramp or business. You get an email when Featured is activated." },
+            { q: "Can I have both Featured Listing and CLETUS?", a: "Yes. Featured Listing drives boaters from RampSeeker to your business. CLETUS answers the questions they ask once they land on your own website. Different funnels, complementary." },
+            { q: "Can I cancel anytime?", a: "Both products are monthly with no commitment. Cancel from Stripe (Featured) or your CLETUS dashboard. Billing stops at the end of the current month." },
+            { q: "Is there a setup fee?", a: "No. Featured Listing is $49.95/mo flat. CLETUS is $29.95-$129.95/mo depending on tier, with a 14-day free trial. No setup fees, no contracts." },
+            { q: "How does CLETUS learn my business?", a: "Via a simple admin interface where you paste in your hours, fees, amenities, and FAQ. No coding. Most operators finish setup in under 15 minutes. The AI handles variation in how boaters phrase questions automatically." },
+          ].map((f, i) => (
+            <details key={i} className="bg-white border border-gray-200 rounded-xl overflow-hidden shadow-sm group">
+              <summary className="px-5 py-4 cursor-pointer font-semibold text-charcoal text-sm hover:text-water transition list-none flex items-center justify-between">{f.q}<svg className="w-4 h-4 text-gray-400 group-open:rotate-180 transition-transform flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" /></svg></summary>
+              <div className="px-5 pb-4 text-gray-600 text-sm leading-relaxed">{f.a}</div>
+            </details>
+          ))}
+        </div>
       </section>
 
-      {/* Featured Listing CTA — secondary, bottom */}
-      <section className="px-4 pb-12">
-        <div className="max-w-5xl mx-auto rounded-xl bg-gradient-to-r from-amber-500 to-yellow-500 p-6 md:p-8 text-white shadow-lg">
-          <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
-            <div>
-              <h2 className="text-xl md:text-2xl font-bold mb-2 font-[Cabin]">&#11088; Run a ramp or lake-side business? Get Featured.</h2>
-              <p className="text-white/90 text-sm md:text-base">
-                Priority placement, photos, customer messages, and monthly performance reports &mdash; $49.95/mo. Cancel anytime.
-              </p>
-            </div>
-            <a href="https://buy.stripe.com/cNieVd9I96K3de9dDCcZa00" target="_blank" rel="noopener noreferrer" className="inline-block bg-white text-amber-600 px-6 py-3 rounded-lg font-bold whitespace-nowrap hover:bg-gray-50 transition shadow-md">
-              Get Featured &rarr;
-            </a>
-          </div>
+      <section className="py-14 px-4 text-center" style={{ backgroundImage: "radial-gradient(circle at 50% 100%, rgba(30,96,145,0.06) 0%, transparent 50%)" }}>
+        <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-6">Ready to grow your ramp business?</h2>
+        <div className="flex gap-3 justify-center flex-wrap">
+          <a href={STRIPE_FEATURED} target="_blank" rel="noopener noreferrer" className="bg-amber-500 hover:bg-amber-600 text-white font-bold px-6 py-3 rounded-lg transition shadow-sm">
+            &#11088; Get Featured &rarr;
+          </a>
+          <a href={CLETUS_SIGNUP} target="_blank" rel="noopener noreferrer" className="bg-water hover:bg-water-deep text-white font-bold px-6 py-3 rounded-lg transition shadow-sm">
+            Try CLETUS Free &rarr;
+          </a>
         </div>
+        <p className="text-gray-400 text-xs mt-6">Questions? <a href="mailto:hello@globalaibots.com" className="text-water hover:underline">hello@globalaibots.com</a></p>
       </section>
     </div>
   );
