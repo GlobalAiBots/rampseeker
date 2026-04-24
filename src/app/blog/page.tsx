@@ -10,6 +10,27 @@ export const metadata: Metadata = {
   alternates: { canonical: "https://www.rampseeker.com/blog" },
 };
 
+const networkPosts = [
+  {
+    url: "https://www.marinaseeker.com/blog/marina-slip-costs",
+    title: "Marina Slip Costs Explained",
+    excerpt: "What you'll pay for a slip — monthly, transient, seasonal — and what to look for before signing.",
+    tag: "MarinaSeeker",
+  },
+  {
+    url: "https://www.pierseeker.com/blog/pier-fishing-complete-guide",
+    title: "Pier Fishing Complete Guide",
+    excerpt: "Everything to know about pier fishing — tackle, bait, technique, safety.",
+    tag: "PierSeeker",
+  },
+  {
+    url: "https://www.barkseeker.com/blog/find-off-leash-dog-parks",
+    title: "Find Off-Leash Dog Parks",
+    excerpt: "If you travel with a dog, here's how to scout the nearest off-leash park wherever you launch.",
+    tag: "BarkSeeker",
+  },
+];
+
 export default function BlogIndex() {
   return (
     <div className="max-w-4xl mx-auto px-4 py-12">
@@ -35,6 +56,21 @@ export default function BlogIndex() {
           </Link>
         ))}
       </div>
+
+      {/* From our network */}
+      <section className="mt-16 pt-10 border-t border-gray-200">
+        <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-2">From our network</h2>
+        <p className="text-sm text-gray-500 mb-6">RampSeeker is part of a family of outdoor directory sites. Fresh reading from our sisters:</p>
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+          {networkPosts.map((p) => (
+            <a key={p.url} href={p.url} className="group block bg-white border border-gray-200 rounded-xl p-4 hover:shadow-md hover:-translate-y-0.5 transition-all">
+              <span className="text-[10px] font-bold uppercase tracking-wider text-gray-400 mb-2 inline-block">{p.tag} <span aria-hidden="true">↗</span></span>
+              <p className="font-[Cabin] font-bold text-charcoal group-hover:text-water transition text-sm leading-snug">{p.title}</p>
+              <p className="text-gray-500 text-xs mt-2 leading-relaxed">{p.excerpt}</p>
+            </a>
+          ))}
+        </div>
+      </section>
     </div>
   );
 }
