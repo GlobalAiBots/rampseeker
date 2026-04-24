@@ -45,7 +45,7 @@ export default function BlogIndex() {
             </div>
             {/* Content */}
             <div className="p-5 flex-1 min-w-0">
-              <div className="flex items-center gap-2 mb-2">
+              <div className="flex items-center gap-2 mb-2 flex-wrap">
                 <span className="text-[10px] font-bold text-water bg-water/10 px-2 py-0.5 rounded-full">{p.category}</span>
                 <span className="text-gray-400 text-xs">{p.date} &middot; {p.readTime}</span>
               </div>
