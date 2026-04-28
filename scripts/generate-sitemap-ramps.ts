@@ -1,8 +1,9 @@
 import { unified } from "../src/data/all-ramps";
 import * as fs from "node:fs";
 
+const lastmod = new Date().toISOString().slice(0, 10);
 const urls = unified.map(r =>
-  `  <url><loc>https://www.rampseeker.com/ramps/${r.id}</loc><lastmod>2026-04-21</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>`
+  `  <url><loc>https://www.rampseeker.com/ramps/${r.id}</loc><lastmod>${lastmod}</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>`
 );
 
 const xml = `<?xml version="1.0" encoding="UTF-8"?>
