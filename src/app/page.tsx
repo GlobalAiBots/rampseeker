@@ -101,6 +101,14 @@ export default function Home() {
 
   const rampCount = unified.length.toLocaleString();
 
+  const faqItems = [
+    { q: "Are most public boat ramps free to use?", a: "Most state and county boat ramps are free. Federal ramps (USACE, National Park Service) often charge $5-15 per launch or offer annual passes. Check the listing's amenity details on RampSeeker — fee information is included where verified." },
+    { q: "Do I need a permit or registration to launch a boat?", a: "Boat registration is required in every state for motorized vessels above a certain horsepower (varies by state). Some states also require a launch permit or invasive species inspection sticker. Check your state's DNR or fish-and-wildlife agency before launching." },
+    { q: "What's the difference between a public boat ramp and a marina?", a: "A public boat ramp is a launch point — you trailer in, launch, and leave. A marina offers slip rentals, fuel, services, and storage. Many marinas have public ramps adjacent to them but charge a fee for use. See MarinaSeeker for full marina listings." },
+    { q: "How early should I arrive on busy weekends?", a: "On summer weekends at popular ramps, plan to arrive at sunrise. Holiday weekends — Memorial Day, July 4, Labor Day — often see parking lots full by 8 AM. RampSeeker's directory includes alternates nearby if your first choice is packed." },
+    { q: "Is RampSeeker free to use?", a: "Yes, completely free. No login, no account, no paid tier. We're funded by display advertising and listing partnerships with shops and services. Find your ramp and go." },
+  ];
+
   return (
     <div>
       {/* JSON-LD */}
@@ -112,6 +120,18 @@ export default function Home() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "Organization", name: "RampSeeker", url: "https://www.rampseeker.com",
         description: "The most complete boat ramp directory in the United States.",
+      }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org", "@type": "Article",
+        headline: "How to Find a Boat Ramp Near You: The Complete Guide",
+        description: "Practical guide to finding and evaluating public boat ramps — water levels, launch fees, surface types, etiquette, and red flags worth knowing before you trailer.",
+        author: { "@type": "Organization", name: "RampSeeker Editorial", url: "https://www.rampseeker.com" },
+        publisher: { "@type": "Organization", name: "RampSeeker", url: "https://www.rampseeker.com" },
+        datePublished: "2026-04-28",
+        dateModified: "2026-04-28",
+        mainEntityOfPage: { "@type": "WebPage", "@id": "https://www.rampseeker.com" },
+        articleSection: "Boating",
+        keywords: ["how to find a boat ramp", "public boat ramps", "USACE boat ramps", "boat launch fees", "boat ramp etiquette", "ramp surface types", "boat ramp red flags"],
       }) }} />
 
       {/* HERO — Full-bleed dramatic */}
@@ -212,6 +232,16 @@ export default function Home() {
         </div>
       </section>
 
+      {/* ARTICLE HEADER */}
+      <article id="ramp-guide" className="max-w-3xl mx-auto px-4 pt-12 pb-8">
+        <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-6 leading-tight">How to Find a Boat Ramp Near You: The Complete Guide</h1>
+        <div className="text-gray-700 leading-relaxed space-y-5">
+          <p>Whether you&apos;re trailering a 16-foot bass boat to a Tuesday morning fishing spot or hauling a 25-foot cruiser to a holiday weekend on the lake, finding the right boat ramp is the difference between a great day on the water and a frustrating one spent circling parking lots. Not all ramps are equal &mdash; surface condition, courtesy dock availability, parking depth, and crowd levels vary dramatically from one launch to the next, even on the same body of water.</p>
+          <p>RampSeeker tracks more than 29,000 public boat ramps across 46 states, with GPS coordinates, amenity details, and local notes for every launch we list. Our directory pulls from federal, state, and municipal sources &mdash; Army Corps of Engineers facilities, state DNR launches, county parks, and city-managed ramps &mdash; so you&apos;re seeing the same launches local boaters use, not just the ones marketed online.</p>
+          <p>Below is RampSeeker&apos;s directory of boat ramps organized by state. Continue reading below the directory for the complete guide to evaluating ramp conditions, understanding launch fees and permits, choosing between concrete and gravel ramps, and reading the unwritten rules every experienced boater knows about ramp etiquette.</p>
+        </div>
+      </article>
+
       {/* BROWSE BY STATE */}
       <section id="browse-states" className="max-w-5xl mx-auto px-4 pt-14 pb-8">
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-6">Browse by State</h2>
@@ -234,6 +264,44 @@ export default function Home() {
           </div>
         )}
       </section>
+
+      {/* ARTICLE CONTINUATION */}
+      <article className="max-w-3xl mx-auto px-4 py-12">
+        <div className="border-t border-water/30 pt-6 mb-8">
+          <p className="text-xs text-gray-500 uppercase tracking-widest font-semibold font-[Cabin]">Complete Guide Continues</p>
+        </div>
+        <div className="text-gray-700 leading-relaxed space-y-5">
+
+          <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-2 mb-3">Why Choosing the Right Boat Ramp Matters</h2>
+          <p>Most boaters have a story about the wrong ramp. The one that looked fine on Google Maps but turned out to be a 30-degree concrete slab where a half-ton truck nearly slid into the water. The county launch with no courtesy dock that became a comedy of errors when the wind picked up. The state ramp that closed without warning during low water and left a 90-mile detour to the next nearest launch.</p>
+          <p>Picking the right ramp is a small decision with outsized consequences. A bad ramp costs you the morning bite window, scratches a hull on submerged rebar, or chews up a lower unit on a too-shallow drop-off. A good one gets you on the water inside ten minutes with the trailer parked and the boat trimmed for the run out. Over a season &mdash; and especially over a holiday weekend when every popular launch is packed &mdash; knowing which ramps are reliable, which have backup capacity, and which to avoid in certain conditions saves more time than any rod-and-reel upgrade ever will.</p>
+
+          <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Reading Ramp Conditions Before You Trailer</h2>
+          <p>A 45-minute drive to a closed ramp is the boater&apos;s most preventable mistake. Before you hitch up, check three things: current water level, recent closures, and parking capacity for the time of day you plan to launch.</p>
+          <p>Water level matters most on tailwater fisheries, USACE reservoirs, and any lake with active dam operations. A two-foot drop in 24 hours can turn a paved ramp into mudflats or expose obstacles that weren&apos;t there the last time you launched. State DNR sites and USACE lake pages publish daily readings; many have alerts for closures triggered by ice, debris, or maintenance. RampSeeker&apos;s amenity tags filter for courtesy docks, lighting, and known seasonal closures &mdash; use them as a first pass, then verify against the managing agency&apos;s current notices.</p>
+          <p>Parking capacity is the variable that ruins more weekend launches than weather. Big-rig spaces (truck plus 25-foot trailer) at smaller county ramps fill up fast. If you&apos;re heading to a popular ramp on a Saturday, scout one alternate before you leave the driveway.</p>
+
+          <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Understanding Launch Fees, Permits, and Annual Passes</h2>
+          <p>Launch fees vary more than most boaters realize. State and county ramps are free in most cases. Federal ramps &mdash; Army Corps of Engineers, National Park Service, and some Bureau of Reclamation sites &mdash; typically charge $5&ndash;$15 per launch or sell annual passes in the $30&ndash;$100 range. Coastal ramps in tourist destinations can run higher, and a few private ramps with public access charge per-launch fees that exceed federal rates.</p>
+          <p>Honor-box payment is still the norm at unstaffed ramps. Bring small bills and a pen &mdash; fee envelopes ask for vehicle plate and trailer plate, and a ranger will check. The USACE annual pass covers any USACE-managed launch nationally and pays for itself in three or four uses. State DNR permits are separate and typically cover all state-managed ramps within that state for the calendar year.</p>
+          <p>Some states require an invasive species inspection sticker before you launch in certain bodies of water &mdash; check your destination state&apos;s rules, especially when crossing state lines with a trailer. Penalties for skipping the sticker run higher than the fee itself.</p>
+
+          <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Concrete vs. Gravel vs. Carry-Down: What Surface Works for Your Boat</h2>
+          <p>Concrete ramps are the workhorse of the public launch system and the only surface most trailerable boats should be using. They handle the weight of a tow rig, hold up to repeat use, and stay drivable when wet. Older concrete cracks and spalls &mdash; pay attention to surface condition, especially in northern states where freeze-thaw cycles take a toll. A concrete ramp with exposed rebar or large heaved sections is one to skip.</p>
+          <p>Gravel ramps work for lightweight craft &mdash; small jon boats, aluminum 14-footers, and most trailered kayaks. They wash out in heavy rain and rut up under heavy use, so they&apos;re not the place for a fully loaded fishing rig. Maintenance is uneven; a gravel ramp that was fine in May can be unusable by August at high-traffic launches.</p>
+          <p>Carry-down launches are paths or short ramps for canoes, kayaks, and paddleboards. No trailer should ever go down a carry-down &mdash; the surface is wrong, the grade is usually wrong, and the access is paddle-craft-specific. RampSeeker&apos;s listings call out surface type when known; default to concrete unless you&apos;re paddling.</p>
+
+          <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Boat Ramp Etiquette: The Unwritten Rules</h2>
+          <p>Every ramp has a rhythm, and experienced boaters can spot the rookie inside thirty seconds. The fastest way to look like you belong is to stay off the ramp until you&apos;re ready to launch.</p>
+          <p>Prep in the staging area, not on the ramp. Drain plug in, gear loaded, straps off, lines and fenders ready. The ramp itself is for one job: backing the trailer in, releasing the boat, pulling out. People are waiting behind you &mdash; every minute on the ramp is a minute someone else can&apos;t launch.</p>
+          <p>Back down straight. If you can&apos;t, practice in an empty parking lot before you bring an audience. Don&apos;t leave your trailer at the dock while you park &mdash; pull out, clear the area, then park. After the run, do the reverse: idle into the staging area, tie off briefly, walk back for the trailer, then load. When in doubt, watch the regulars. A ramp on a Tuesday morning has a half-dozen boaters who use it weekly. They&apos;ll show you exactly how a smooth launch looks.</p>
+
+          <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-10 mb-3">Red Flags at a Boat Ramp (and When to Find Another)</h2>
+          <p>Some ramps reveal themselves as bad ideas the moment you pull in. Cars parked across staging spaces with no one launching. A line of trucks-and-trailers stretching to the road with no pattern of who&apos;s next. Broken concrete with rebar visible at the waterline. No courtesy dock when a 15-knot crosswind is pushing every boat onto the rocks. A parking lot too small for tow rigs, or a ramp where the only &quot;parking&quot; is the shoulder of a public road.</p>
+          <p>Suspicious activity is its own category. If the lot has shattered glass, a few sketchy parked cars, or a vibe that says no one is paying attention, you don&apos;t want to leave a trailer and tow vehicle there for eight hours. Trust your read of the place &mdash; boaters who launch every weekend learn to feel this within ten seconds of pulling in.</p>
+          <p>When a ramp fails the eye test, leave. RampSeeker lists the closest alternates with parking, surface, and amenity details so you can re-route in minutes. A 20-minute detour beats a ruined day every time.</p>
+        </div>
+      </article>
 
       <AdSlot position="homepage-mid" />
 
@@ -360,20 +428,11 @@ export default function Home() {
       <section className="max-w-4xl mx-auto px-4 py-10">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           "@context": "https://schema.org", "@type": "FAQPage",
-          mainEntity: [
-            { "@type": "Question", name: "How many boat ramps does RampSeeker cover?", acceptedAnswer: { "@type": "Answer", text: `We have data on ${rampCount}+ boat ramps across ${stateList.length} states.` } },
-            { "@type": "Question", name: "Is RampSeeker free?", acceptedAnswer: { "@type": "Answer", text: "Yes, completely free. No login, no account, no fees. Just find your ramp and go." } },
-            { "@type": "Question", name: "How do I find a boat ramp near me?", acceptedAnswer: { "@type": "Answer", text: `Use the search bar to search by state, lake, city, or ramp name. We cover ${stateList.length} states with detailed boat ramp directories.` } },
-          ],
+          mainEntity: faqItems.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })),
         }) }} />
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-4">Frequently Asked Questions</h2>
         <div className="space-y-2">
-          {[
-            { q: "How many boat ramps does RampSeeker cover?", a: `We have data on ${rampCount}+ boat ramps across ${stateList.length} states with GPS coordinates, amenities, and local tips.` },
-            { q: "Is RampSeeker free?", a: "Yes, completely free. No login, no account needed. Just find your ramp and go." },
-            { q: "How do I find a boat ramp near me?", a: `Use the search bar or browse by state. We cover ${stateList.length} states with detailed boat ramp directories.` },
-            { q: "Can I submit a ramp you're missing?", a: "Yes! Email hello@rampseeker.com with the ramp name and location. We'll add it to the directory." },
-          ].map((f, i) => (
+          {faqItems.map((f, i) => (
             <details key={i} className="bg-white border border-gray-200 rounded-xl overflow-hidden shadow-sm group">
               <summary className="px-5 py-4 cursor-pointer font-semibold text-charcoal text-sm hover:text-water transition list-none flex items-center justify-between">
                 {f.q}
