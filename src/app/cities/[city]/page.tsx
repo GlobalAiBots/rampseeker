@@ -54,8 +54,11 @@ export default async function CityPage({ params }: { params: Promise<{ city: str
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "FAQPage",
         mainEntity: [
-          { "@type": "Question", name: `How many boat ramps are near ${city.name}?`, acceptedAnswer: { "@type": "Answer", text: `There are ${city.ramps.length} boat ramps near ${city.name}, ${city.stateName}.` } },
-          { "@type": "Question", name: `Where can I launch a boat near ${city.name}, ${city.state}?`, acceptedAnswer: { "@type": "Answer", text: `RampSeeker lists ${city.ramps.length} launch sites near ${city.name}. Visit rampseeker.com/cities/${city.slug} for GPS coordinates and directions.` } },
+          { "@type": "Question", name: `How many boat ramps are in ${city.name}, ${city.stateName}?`, acceptedAnswer: { "@type": "Answer", text: `There are ${city.ramps.length} public boat ramps near ${city.name}, ${city.stateName} listed on RampSeeker. Each listing includes GPS coordinates, amenities, and turn-by-turn directions.` } },
+          { "@type": "Question", name: `Do I need a permit to launch in ${city.name}?`, acceptedAnswer: { "@type": "Answer", text: `Most public ramps in ${city.stateName} require a current state boat registration and, in some cases, a daily launch fee or state park pass. Permit rules vary by managing agency — check the ramp’s detail page for specifics.` } },
+          { "@type": "Question", name: `What fish species are common near ${city.name}?`, acceptedAnswer: { "@type": "Answer", text: `Anglers launching near ${city.name} typically target largemouth bass, crappie, catfish, and panfish, with seasonal runs of walleye and striper depending on the body of water. Local bait shops are the best source for current conditions.` } },
+          { "@type": "Question", name: `Are any of the ${city.name} boat ramps free?`, acceptedAnswer: { "@type": "Answer", text: `Many public boat ramps near ${city.name} are free to use, especially those operated by state parks, USACE, or municipal agencies. A handful charge a small launch fee — fee details appear on each ramp's detail page.` } },
+          { "@type": "Question", name: `Is RampSeeker free to use?`, acceptedAnswer: { "@type": "Answer", text: `Yes. RampSeeker is 100% free for boaters. Browse all ${city.ramps.length} ramps near ${city.name}, save GPS coordinates, and get directions — no account required.` } },
         ],
       }) }} />
 
@@ -98,31 +101,51 @@ export default async function CityPage({ params }: { params: Promise<{ city: str
       <AdSlot position="city-below-ramps" />
 
       {/* Intro */}
-      <div className="bg-white border border-gray-200 rounded-xl p-6 shadow-sm mb-6">
-        <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-3">Boating near {city.name}, {city.stateName}</h2>
-        <p className="text-gray-600 leading-relaxed text-sm">
-          {city.name}, {city.stateName} offers {city.ramps.length} public boat ramp{city.ramps.length !== 1 ? "s" : ""} for local boaters and visitors.{county ? ` Located in ${county} County,` : ""} {city.name} provides access to nearby lakes, rivers, and waterways. Browse all launch points above with GPS coordinates and directions.
-        </p>
-      </div>
+      {(() => {
+        const lakeNames = Array.from(new Set(city.ramps.map(r => getLakeForRamp(r.latitude, r.longitude)?.name).filter(Boolean) as string[])).slice(0, 3);
+        const waterPhrase = lakeNames.length > 0
+          ? `${lakeNames.length === 1 ? lakeNames[0] : lakeNames.slice(0, -1).join(", ") + " and " + lakeNames[lakeNames.length - 1]}`
+          : "nearby lakes, rivers, and tidal waterways";
+        const topRamp = [...city.ramps].sort((a, b) => (b.grandLakeData?.amenities?.length || 0) - (a.grandLakeData?.amenities?.length || 0))[0];
+        return (
+          <div className="bg-white border border-gray-200 rounded-xl p-6 shadow-sm mb-6">
+            <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-3">Boating near {city.name}, {city.stateName}</h2>
+            <p className="text-gray-600 leading-relaxed text-sm">
+              {city.name}, {city.stateName} offers {city.ramps.length} public boat ramp{city.ramps.length !== 1 ? "s" : ""} for local boaters and out-of-town visitors.{county ? ` Located in ${county} County,` : ""} {city.name} provides launch access to {waterPhrase}{lakeNames.length > 0 ? " and the surrounding waterways" : ""}. Whether you&apos;re heading out for a day of bass fishing, water sports, kayaking, or a sunset cruise, the {city.ramps.length} ramp{city.ramps.length !== 1 ? "s" : ""} below serve {city.name} and the surrounding area with verified GPS coordinates, amenity details, and turn-by-turn directions for each launch point. Most ramps near {city.name} are open year-round, though seasonal water levels and weather can affect access &mdash; always check conditions before towing your boat. {topRamp ? `${topRamp.name} is one of the area&apos;s well-equipped launches.` : ""}
+            </p>
+          </div>
+        );
+      })()}
 
       {/* Tips */}
-      <div className="bg-blue-50 border border-blue-200 rounded-xl p-5 mb-6">
-        <h3 className="font-[Cabin] font-bold text-water mb-3">Tips for Launching near {city.name}</h3>
-        <ul className="space-y-2 text-sm text-gray-700">
-          <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Arrive early on weekends &mdash; popular ramps near {city.name} fill up fast.</li>
-          <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Check local water conditions and weather before launching.</li>
-          <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Most public ramps in {city.stateName} require a state boat registration.</li>
-        </ul>
-      </div>
+      {(() => {
+        const topRamp = [...city.ramps].sort((a, b) => (b.grandLakeData?.amenities?.length || 0) - (a.grandLakeData?.amenities?.length || 0))[0];
+        return (
+          <div className="bg-blue-50 border border-blue-200 rounded-xl p-5 mb-6">
+            <h3 className="font-[Cabin] font-bold text-water mb-3">Tips for Boating near {city.name}</h3>
+            <ul className="space-y-2 text-sm text-gray-700">
+              <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Check water levels and weather before heading out &mdash; <Link href={`/${city.stateSlug}`} className="text-water hover:underline">see {city.stateName} conditions</Link>.</li>
+              <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Most public ramps in {city.stateName} require a current state boat registration.</li>
+              <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Best launch times are early morning and late afternoon &mdash; popular ramps fill up fast on summer weekends.</li>
+              <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Bring a paper backup of GPS coordinates &mdash; cell service is spotty near many launch sites.</li>
+              {topRamp && (
+                <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> <Link href={`/ramps/${topRamp.id}`} className="text-water hover:underline">{topRamp.name}</Link> is one of the best-equipped launches in this area.</li>
+              )}
+            </ul>
+          </div>
+        );
+      })()}
 
       {/* Visible FAQ */}
       <div className="mb-8">
         <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Frequently Asked Questions</h2>
         <div className="space-y-2">
           {[
-            { q: `How many boat ramps are near ${city.name}, ${city.stateName}?`, a: `There are ${city.ramps.length} boat ramps near ${city.name}, ${city.stateName} listed on RampSeeker. Each listing includes GPS coordinates, amenities, and directions.` },
-            { q: `Are boat ramps near ${city.name} free?`, a: `Many boat ramps near ${city.name} are free, especially those managed by state parks or public agencies. Some may charge a small launch fee.` },
-            { q: `How do I get directions to a boat ramp near ${city.name}?`, a: `Click any ramp listing above to see its detail page with a map and a "Get Directions" button that opens Google Maps.` },
+            { q: `How many boat ramps are in ${city.name}, ${city.stateName}?`, a: `There are ${city.ramps.length} public boat ramps near ${city.name}, ${city.stateName} listed on RampSeeker. Each listing includes GPS coordinates, amenities, and turn-by-turn directions.` },
+            { q: `Do I need a permit to launch in ${city.name}?`, a: `Most public ramps in ${city.stateName} require a current state boat registration and, in some cases, a daily launch fee or state park pass. Permit rules vary by managing agency — check the ramp's detail page for specifics.` },
+            { q: `What fish species are common near ${city.name}?`, a: `Anglers launching near ${city.name} typically target largemouth bass, crappie, catfish, and panfish, with seasonal runs of walleye and striper depending on the body of water. Local bait shops are the best source for current conditions.` },
+            { q: `Are any of the ${city.name} boat ramps free?`, a: `Many public boat ramps near ${city.name} are free to use, especially those operated by state parks, USACE, or municipal agencies. A handful charge a small launch fee — fee details appear on each ramp's detail page.` },
+            { q: `Is RampSeeker free to use?`, a: `Yes. RampSeeker is 100% free for boaters. Browse all ${city.ramps.length} ramps near ${city.name}, save GPS coordinates, and get directions — no account required.` },
           ].map((f, i) => (
             <details key={i} className="bg-white border border-gray-200 rounded-xl overflow-hidden shadow-sm group">
               <summary className="px-5 py-4 cursor-pointer font-semibold text-charcoal text-sm hover:text-water transition list-none flex items-center justify-between">{f.q}<svg className="w-4 h-4 text-gray-400 group-open:rotate-180 transition-transform flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" /></svg></summary>
