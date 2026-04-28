@@ -1,8 +1,12 @@
-"use client";
-
-import { use, useMemo } from "react";
 import Link from "next/link";
 import { unified } from "@/data/all-ramps";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Boat Ramps Near Me | RampSeeker",
+  description: "Find the closest boat ramps to your current location. Sorted by distance with GPS coordinates and directions.",
+  alternates: { canonical: "https://www.rampseeker.com/near-me" },
+};
 
 function haversine(lat1: number, lon1: number, lat2: number, lon2: number): number {
   const R = 3959;
@@ -12,19 +16,10 @@ function haversine(lat1: number, lon1: number, lat2: number, lon2: number): numb
   return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
 }
 
-export default function NearMePage({ searchParams }: { searchParams: Promise<{ lat?: string; lng?: string }> }) {
-  const params = use(searchParams);
+export default async function NearMePage({ searchParams }: { searchParams: Promise<{ lat?: string; lng?: string }> }) {
+  const params = await searchParams;
   const lat = parseFloat(params.lat || "0");
   const lng = parseFloat(params.lng || "0");
-
-  const nearby = useMemo(() => {
-    if (!lat || !lng) return [];
-    return unified
-      .map(r => ({ ...r, distance: haversine(lat, lng, r.latitude, r.longitude) }))
-      .filter(r => r.distance <= 50)
-      .sort((a, b) => a.distance - b.distance)
-      .slice(0, 20);
-  }, [lat, lng]);
 
   if (!lat || !lng) {
     return (
@@ -35,6 +30,12 @@ export default function NearMePage({ searchParams }: { searchParams: Promise<{ l
       </div>
     );
   }
+
+  const nearby = unified
+    .map(r => ({ ...r, distance: haversine(lat, lng, r.latitude, r.longitude) }))
+    .filter(r => r.distance <= 50)
+    .sort((a, b) => a.distance - b.distance)
+    .slice(0, 20);
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-10">
