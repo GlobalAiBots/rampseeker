@@ -1,18 +1,31 @@
-"use client";
-
-import { use, useMemo } from "react";
 import Link from "next/link";
+import { notFound } from "next/navigation";
 import categoriesData from "@/data/categories.json";
+import type { Metadata } from "next";
 
 interface CatState { code: string; name: string; slug: string; count: number; }
 interface Category { slug: string; title: string; description: string; totalCount: number; states: CatState[]; }
 const categories = categoriesData as Category[];
 
-export default function CategoryPage({ params }: { params: Promise<{ slug: string }> }) {
-  const { slug } = use(params);
-  const category = useMemo(() => categories.find(c => c.slug === slug), [slug]);
+export function generateStaticParams() {
+  return categories.map((c) => ({ slug: c.slug }));
+}
 
-  if (!category) return <div className="max-w-2xl mx-auto px-4 py-20 text-center"><h1 className="font-[Cabin] text-3xl font-bold text-charcoal mb-4">Category Not Found</h1><Link href="/" className="text-water hover:underline">Back to Home</Link></div>;
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const { slug } = await params;
+  const category = categories.find((c) => c.slug === slug);
+  if (!category) return { title: "Category Not Found" };
+  return {
+    title: `${category.title} in America | RampSeeker`,
+    description: category.description,
+    alternates: { canonical: `https://www.rampseeker.com/category/${category.slug}` },
+  };
+}
+
+export default async function CategoryPage({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
+  const category = categories.find((c) => c.slug === slug);
+  if (!category) notFound();
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-10">
