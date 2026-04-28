@@ -69,6 +69,7 @@ const stateList: { name: string; slug: string; code: string }[] = [
 
 export default function Home() {
   const [query, setQuery] = useState("");
+  const [expanded, setExpanded] = useState(false);
 
   const stateCounts = useMemo(() => {
     const map: Record<string, number> = {};
@@ -79,6 +80,8 @@ export default function Home() {
   const statesWithCounts = useMemo(() =>
     stateList.map((s) => ({ ...s, count: stateCounts[s.code] || 0 })).sort((a, b) => b.count - a.count),
   [stateCounts]);
+
+  const showToggle = statesWithCounts.length > 15;
 
   const suggestions = useMemo(() => {
     if (query.length < 2) return [];
@@ -212,14 +215,24 @@ export default function Home() {
       {/* BROWSE BY STATE */}
       <section id="browse-states" className="max-w-5xl mx-auto px-4 pt-14 pb-8">
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-6">Browse by State</h2>
-        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-2">
-          {statesWithCounts.map((s) => (
-            <Link key={s.code} href={`/${s.slug}`} className="group bg-white border border-gray-200 rounded-lg p-3 hover:bg-foam hover:border-water hover:shadow-md hover:-translate-y-0.5 transition-all border-l-4 border-l-water">
-              <p className="font-bold text-charcoal text-sm group-hover:text-water transition">{s.name}</p>
-              <span className="inline-block mt-1 text-xs font-semibold bg-water/10 text-water px-2 py-0.5 rounded">{s.count.toLocaleString()} ramps</span>
-            </Link>
-          ))}
+        <div className={`grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-2 ${showToggle ? "mb-6" : "mb-0"}`}>
+          {statesWithCounts.map((s, index) => {
+            const hideThis = !expanded && index >= 15;
+            return (
+              <Link key={s.code} href={`/${s.slug}`} className={`group bg-white border border-gray-200 rounded-lg p-3 hover:bg-foam hover:border-water hover:shadow-md hover:-translate-y-0.5 transition-all border-l-4 border-l-water${hideThis ? " hidden" : ""}`}>
+                <p className="font-bold text-charcoal text-sm group-hover:text-water transition">{s.name}</p>
+                <span className="inline-block mt-1 text-xs font-semibold bg-water/10 text-water px-2 py-0.5 rounded">{s.count.toLocaleString()} ramps</span>
+              </Link>
+            );
+          })}
         </div>
+        {showToggle && (
+          <div className="text-center">
+            <button onClick={() => setExpanded(!expanded)} className="text-water hover:text-sunset font-semibold text-sm transition">
+              {expanded ? "Show fewer ↑" : `Show all ${statesWithCounts.length} states ↓`}
+            </button>
+          </div>
+        )}
       </section>
 
       <AdSlot position="homepage-mid" />
