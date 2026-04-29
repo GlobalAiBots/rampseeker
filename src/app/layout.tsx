@@ -3,7 +3,7 @@ import Link from "next/link";
 import Script from "next/script";
 import CletusWidget from "@/components/CletusWidget";
 import CookieConsent from "@/components/CookieConsent";
-import StatesDropdown from "@/components/StatesDropdown";
+import Nav from "@/components/Nav";
 import { unified } from "@/data/all-ramps";
 import "./globals.css";
 
@@ -37,28 +37,6 @@ export const metadata: Metadata = {
     "impact-site-verification": "ae745e97-4381-483d-8be9-f973f0dcce88",
   },
 };
-
-function Nav() {
-  return (
-    <nav className="sticky top-0 z-50 bg-white/95 backdrop-blur border-b border-gray-200">
-      <div className="max-w-6xl mx-auto px-4 h-14 flex items-center justify-between">
-        <Link href="/" className="flex items-center gap-2 font-bold text-lg font-[Cabin]">
-          <span className="text-2xl">&#9875;</span>
-          <span className="text-charcoal">Ramp<span className="text-water">Seeker</span></span>
-        </Link>
-        <div className="flex items-center gap-4 sm:gap-6 text-sm font-medium">
-          <StatesDropdown />
-          <Link href="/search" className="text-gray-500 hover:text-water transition"><svg className="w-4 h-4 inline" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><circle cx="11" cy="11" r="8" /><path d="m21 21-4.35-4.35" /></svg></Link>
-          <Link href="/map" className="text-gray-500 hover:text-water transition">Map</Link>
-          <Link href="/compare" className="text-gray-500 hover:text-water transition hidden md:block">Compare</Link>
-          <Link href="/blog" className="text-gray-500 hover:text-water transition hidden sm:block">Blog</Link>
-          <Link href="/about" className="text-gray-500 hover:text-water transition hidden sm:block">About</Link>
-          <Link href="/for-businesses" className="text-sunset font-bold hover:text-sunset-dark transition hidden sm:block">For Businesses</Link>
-        </div>
-      </div>
-    </nav>
-  );
-}
 
 function Footer() {
   return (
