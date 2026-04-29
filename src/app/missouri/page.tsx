@@ -11,6 +11,7 @@ import CletusAd from "@/components/CletusAd";
 import FeaturedArticle from "@/components/FeaturedArticle";
 import RampList from "@/components/RampList";
 import GearRecommendation from "@/components/GearRecommendation";
+import precomputedCities from "@/data/state-cities-prefiltered.json";
 
 export default function MissouriPage() {
   const moRamps = useMemo(() => unified.filter((r) => r.state === "MO"), []);
@@ -25,7 +26,7 @@ export default function MissouriPage() {
   }, [moRamps]);
   const featuredRamps = useMemo(() => featuredLake ? moRamps.filter((r) => getMissouriLakeForRamp(r.latitude, r.longitude)?.id === featuredLake.id && !isGenericName(r.name)) : [], [moRamps, featuredLake]);
   const lakeCounts = useMemo(() => { const m: Record<string, number> = {}; for (const l of missouriLakes) m[l.id] = moRamps.filter((r) => getMissouriLakeForRamp(r.latitude, r.longitude)?.id === l.id).length; return m; }, [moRamps]);
-  const cityMap = useMemo(() => { const m: Record<string, number> = {}; for (const r of moRamps) { const c = r.city?.trim(); if (c && c.length > 1) m[c] = (m[c] || 0) + 1; } return Object.entries(m).sort((a, b) => b[1] - a[1]); }, [moRamps]);
+  const cityMap = ((precomputedCities as unknown) as Record<string, [string, number][]>)["missouri"] || [];
 
   const [selectedCity, setSelectedCity] = useState<string | null>(null);
   const filteredRamps = selectedCity ? moRamps.filter(r => r.city?.trim() === selectedCity) : moRamps;
@@ -52,23 +53,9 @@ export default function MissouriPage() {
 
       
 
-      {/* State intro */}
-      <section className="max-w-4xl mx-auto px-4 pt-10 pb-2">
-        <div className="bg-white border border-gray-200 rounded-xl p-6 shadow-sm mb-6">
-          <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-3">Boating in Missouri</h2>
-          <p className="text-gray-600 leading-relaxed text-sm">Missouri offers {moRamps.length.toLocaleString()}+ public boat ramps across its waterways. From Table Rock Lake, Lake of the Ozarks, and Truman Lake, the state provides excellent access for boaters, anglers, and kayakers. Popular catches include bass, crappie, and catfish. <Link href="/blog/how-to-launch-a-boat-safely" className="text-water hover:underline">Learn how to launch safely</Link>.</p>
-        </div>
-        <div className="bg-blue-50 border border-blue-200 rounded-xl p-5 mb-6">
-          <h3 className="font-[Cabin] font-bold text-water mb-3">Tips for Boating in Missouri</h3>
-          <ul className="space-y-2 text-sm text-gray-700">
-            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Missouri requires all motorized boats to be registered before launching at any public ramp.</li>
-            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> A fishing license is required for anyone 16+ fishing from a boat in Missouri.</li>
-            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Life jackets are required for all children under 13 on any watercraft in Missouri.</li>
-            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Most public ramps are first-come, first-served &mdash; arrive early on weekends and holidays.</li>
-            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Practice good <Link href="/blog/boat-ramp-etiquette" className="text-water hover:underline">ramp etiquette</Link>: prep in the parking area, not on the ramp.</li>
-          </ul>
-        </div>
-        <GearRecommendation section="launch-gear" />
+      {/* 2. BRIEF INTRO */}
+      <section className="max-w-4xl mx-auto px-4 pt-8">
+        <p className="text-gray-600 leading-relaxed text-sm md:text-base">Missouri offers {moRamps.length.toLocaleString()}+ public boat ramps across its waterways. From Table Rock Lake, Lake of the Ozarks, and Truman Lake, the state provides excellent access for boaters, anglers, and kayakers. Popular catches include bass, crappie, and catfish. <Link href="/blog/how-to-launch-a-boat-safely" className="text-water hover:underline">Learn how to launch safely</Link>.</p>
       </section>
 
       {/* State Map */}
@@ -116,11 +103,30 @@ export default function MissouriPage() {
       </section>
 
       {cityMap.length > 0 && (<section className="max-w-6xl mx-auto px-4 pb-8"><h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Browse by City</h2>
-        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">{cityMap.slice(0, 16).map(([city, count]) => { const slug = city.toLowerCase().replace(/[^a-z0-9]+/g, "-"); return (<Link key={city} href={`/cities/${slug}`} className="text-left bg-white border border-gray-200 rounded-lg p-3 hover:border-water hover:shadow-sm transition"><p className="font-bold text-charcoal text-sm">{city}</p><p className="text-gray-400 text-xs">{count} ramp{count !== 1 ? "s" : ""}</p></Link>); })}</div>
+        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">{cityMap.slice(0, 16).map(([city, count]) => { const slug = `missouri-${city.toLowerCase().replace(/[^a-z0-9]+/g, "-")}`; return (<Link key={city} href={`/cities/${slug}`} className="text-left bg-white border border-gray-200 rounded-lg p-3 hover:border-water hover:shadow-sm transition"><p className="font-bold text-charcoal text-sm">{city}</p><p className="text-gray-400 text-xs">{count} ramp{count !== 1 ? "s" : ""}</p></Link>); })}</div>
       </section>)}
 
       {selectedCity && (<div className="max-w-6xl mx-auto px-4 pb-4"><button onClick={() => setSelectedCity(null)} className="text-sm text-water hover:underline">&larr; Show all {moRamps.length} ramps</button></div>)}
       <div id="ramp-list"><RampList ramps={filteredRamps} stateName="Missouri" /></div>
+      {/* 7. TIPS */}
+      <section className="max-w-4xl mx-auto px-4 pt-10 pb-2">
+        <div className="bg-blue-50 border border-blue-200 rounded-xl p-5 mb-6">
+          <h3 className="font-[Cabin] font-bold text-water mb-3">Tips for Boating in Missouri</h3>
+          <ul className="space-y-2 text-sm text-gray-700">
+            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Missouri requires all motorized boats to be registered before launching at any public ramp.</li>
+            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> A fishing license is required for anyone 16+ fishing from a boat in Missouri.</li>
+            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Life jackets are required for all children under 13 on any watercraft in Missouri.</li>
+            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Most public ramps are first-come, first-served &mdash; arrive early on weekends and holidays.</li>
+            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Practice good <Link href="/blog/boat-ramp-etiquette" className="text-water hover:underline">ramp etiquette</Link>: prep in the parking area, not on the ramp.</li>
+          </ul>
+        </div>
+      </section>
+
+      {/* 9. GEAR (3 items) */}
+      <section className="max-w-4xl mx-auto px-4 pb-4">
+        <GearRecommendation section="launch-gear" />
+      </section>
+
       <div className="max-w-6xl mx-auto px-4"><FeaturedArticle listingSlug={"state-missouri"} />
       <CletusAd /></div>
     </div>

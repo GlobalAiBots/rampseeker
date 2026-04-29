@@ -20,26 +20,9 @@ const fs = require("fs");
 const path = require("path");
 
 const STATES = [
-  { slug: "tennessee", name: "Tennessee" },
-  { slug: "colorado", name: "Colorado" },
-  { slug: "idaho", name: "Idaho" },
-  { slug: "kansas", name: "Kansas" },
-  { slug: "utah", name: "Utah" },
-  { slug: "new-jersey", name: "New Jersey" },
-  { slug: "new-hampshire", name: "New Hampshire" },
-  { slug: "delaware", name: "Delaware" },
-  { slug: "south-carolina", name: "South Carolina" },
-  { slug: "north-dakota", name: "North Dakota" },
-  { slug: "arizona", name: "Arizona" },
-  { slug: "nebraska", name: "Nebraska" },
-  { slug: "west-virginia", name: "West Virginia" },
-  { slug: "south-dakota", name: "South Dakota" },
-  { slug: "wyoming", name: "Wyoming" },
-  { slug: "alaska", name: "Alaska" },
-  { slug: "montana", name: "Montana" },
-  { slug: "louisiana", name: "Louisiana" },
-  { slug: "mississippi", name: "Mississippi" },
-  { slug: "new-mexico", name: "New Mexico" },
+  { slug: "oklahoma", name: "Oklahoma" },
+  { slug: "missouri", name: "Missouri" },
+  { slug: "arkansas", name: "Arkansas" },
 ];
 
 function transformPage(text, slug, name) {
@@ -47,14 +30,14 @@ function transformPage(text, slug, name) {
   if (!text.includes('precomputedCities')) {
     text = text.replace(
       /import GearRecommendation from "@\/components\/GearRecommendation";/,
-      `import GearRecommendation from "@/components/GearRecommendation";\nimport precomputedCities from "@/data/state-cities-prefiltered.json";\nimport stateRampTotals from "@/data/state-ramp-totals.json";`,
+      `import GearRecommendation from "@/components/GearRecommendation";\nimport precomputedCities from "@/data/state-cities-prefiltered.json";`,
     );
   }
 
   // 2. Replace cityMap useMemo with precomputed lookup
   text = text.replace(
     /const cityMap = useMemo\(\(\) => \{\s*const m: Record<string, number> = \{\};\s*for \(const r of \w+Ramps\) \{ const c = r\.city\?\.trim\(\); if \(c && c\.length > 1\) m\[c\] = \(m\[c\] \|\| 0\) \+ 1; \}\s*return Object\.entries\(m\)\.sort\(\(a, b\) => b\[1\] - a\[1\]\);\s*\}, \[\w+Ramps\]\);/,
-    `const cityMap = ((precomputedCities as unknown) as Record<string, [string, number][]>)["${slug}"] || [];\n  const rampTotal = (stateRampTotals as Record<string, number>)["${slug}"] || 0;`,
+    `const cityMap = ((precomputedCities as unknown) as Record<string, [string, number][]>)["${slug}"] || [];`,
   );
 
   // 3. Update sub-grid Link href to state-prefixed slug
@@ -88,14 +71,19 @@ function transformPage(text, slug, name) {
   text = text.replace(heavyIntroRe, briefIntroSection);
 
   // Find the FAQ section boundary and inject tips + gear immediately before it.
+  // Fallback for pages without a rendered FAQ section: anchor before FeaturedArticle footer.
   const faqAnchor = `<section className="max-w-4xl mx-auto px-4 py-10">\n        <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-4">${name} Boating FAQ</h2>`;
-  if (!text.includes(faqAnchor)) {
-    throw new Error(`FAQ anchor not found in ${slug}`);
-  }
+  const featuredArticleAnchor = `<div className="max-w-6xl mx-auto px-4"><FeaturedArticle`;
 
   const tipsAndGear = `{/* 7. TIPS */}\n      <section className="max-w-4xl mx-auto px-4 pt-10 pb-2">\n        ${tipsCard}\n      </section>\n\n      {/* 9. GEAR (3 items) */}\n      <section className="max-w-4xl mx-auto px-4 pb-4">\n        ${gearCmp}\n      </section>\n\n      `;
 
-  text = text.replace(faqAnchor, tipsAndGear + faqAnchor);
+  if (text.includes(faqAnchor)) {
+    text = text.replace(faqAnchor, tipsAndGear + faqAnchor);
+  } else if (text.includes(featuredArticleAnchor)) {
+    text = text.replace(featuredArticleAnchor, tipsAndGear + featuredArticleAnchor);
+  } else {
+    throw new Error(`Neither FAQ nor FeaturedArticle anchor found in ${slug}`);
+  }
 
   return text;
 }
