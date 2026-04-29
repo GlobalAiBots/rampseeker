@@ -56,25 +56,36 @@ export default function Nav() {
         </button>
       </div>
 
+      {/* Mobile drawer scrim (dims + collapses page content underneath, tap-to-close) */}
+      {open && (
+        <button
+          type="button"
+          aria-label="Close menu"
+          tabIndex={-1}
+          className="md:hidden fixed inset-x-0 top-14 bottom-0 bg-black/40 z-40 cursor-default"
+          onClick={close}
+        />
+      )}
+
       {/* Mobile drawer (below md) */}
       {open && (
         <div
           id="ramp-mobile-drawer"
-          className="md:hidden absolute left-0 right-0 top-14 bg-white/98 backdrop-blur border-b border-gray-200 shadow-md"
+          className="md:hidden absolute left-0 right-0 top-14 bg-white border-b border-gray-200 shadow-xl z-50"
         >
           <div className="max-w-6xl mx-auto px-4 py-2 flex flex-col text-sm font-medium">
             <div className="py-3 border-b border-gray-100">
               <StatesDropdown />
             </div>
-            <Link href="/map" onClick={close} className="text-charcoal hover:text-water transition py-3 border-b border-gray-100">Map</Link>
-            <Link href="/compare" onClick={close} className="text-charcoal hover:text-water transition py-3 border-b border-gray-100">Compare</Link>
-            <Link href="/blog" onClick={close} className="text-charcoal hover:text-water transition py-3 border-b border-gray-100">Blog</Link>
-            <Link href="/about" onClick={close} className="text-charcoal hover:text-water transition py-3 border-b border-gray-100">About</Link>
-            <Link href="/search" onClick={close} aria-label="Search" className="text-charcoal hover:text-water transition py-3 border-b border-gray-100 flex items-center gap-2">
+            <Link href="/map" onClick={close} className="block text-charcoal hover:text-water transition py-3 border-b border-gray-100">Map</Link>
+            <Link href="/compare" onClick={close} className="block text-charcoal hover:text-water transition py-3 border-b border-gray-100">Compare</Link>
+            <Link href="/blog" onClick={close} className="block text-charcoal hover:text-water transition py-3 border-b border-gray-100">Blog</Link>
+            <Link href="/about" onClick={close} className="block text-charcoal hover:text-water transition py-3 border-b border-gray-100">About</Link>
+            <Link href="/search" onClick={close} aria-label="Search" className="flex items-center gap-2 text-charcoal hover:text-water transition py-3 border-b border-gray-100">
               {SearchIcon}
               <span>Search</span>
             </Link>
-            <Link href="/for-businesses" onClick={close} className="text-sunset font-bold hover:text-sunset-dark transition py-3 mt-2 text-center border border-sunset/30 rounded-lg">
+            <Link href="/for-businesses" onClick={close} className="block bg-sunset hover:bg-sunset-dark text-white font-bold transition py-3 mt-3 mb-1 text-center rounded-lg">
               For Businesses
             </Link>
           </div>
