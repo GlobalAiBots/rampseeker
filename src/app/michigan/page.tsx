@@ -7,6 +7,7 @@ import { useState, useMemo } from "react";
 import Link from "next/link";
 import { unified, amenityLabels, isGenericName } from "@/data/all-ramps";
 import { michiganLakes, getMichiganLakeForRamp } from "@/data/michigan-lakes";
+import precomputedCities from "@/data/state-cities-prefiltered.json";
 import CletusAd from "@/components/CletusAd";
 import FeaturedArticle from "@/components/FeaturedArticle";
 import RampList from "@/components/RampList";
@@ -31,11 +32,7 @@ export default function MichiganPage() {
     return map;
   }, [miRamps]);
 
-  const cityMap = useMemo(() => {
-    const m: Record<string, number> = {};
-    for (const r of miRamps) { const c = r.city?.trim(); if (c && c.length > 1) m[c] = (m[c] || 0) + 1; }
-    return Object.entries(m).sort((a, b) => b[1] - a[1]);
-  }, [miRamps]);
+  const cityMap = ((precomputedCities as unknown) as Record<string, [string, number][]>)["michigan"] || [];
 
   const [selectedCity, setSelectedCity] = useState<string | null>(null);
   const filteredRamps = selectedCity ? miRamps.filter(r => r.city?.trim() === selectedCity) : miRamps;

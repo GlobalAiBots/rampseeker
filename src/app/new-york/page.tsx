@@ -7,7 +7,7 @@ import { useState, useMemo } from "react";
 import Link from "next/link";
 import { unified, amenityLabels, isGenericName } from "@/data/all-ramps";
 import { newYorkLakes, getNewYorkLakeForRamp } from "@/data/new-york-lakes";
-import { isLikelyNonUS } from "@/lib/non-us-filter";
+import precomputedCities from "@/data/state-cities-prefiltered.json";
 import CletusAd from "@/components/CletusAd";
 import FeaturedArticle from "@/components/FeaturedArticle";
 import RampList from "@/components/RampList";
@@ -32,16 +32,7 @@ export default function NewYorkPage() {
     return map;
   }, [nyRamps]);
 
-  const cityMap = useMemo(() => {
-    const m: Record<string, number> = {};
-    for (const r of nyRamps) {
-      const c = r.city?.trim();
-      if (!c || c.length <= 1) continue;
-      if (isLikelyNonUS("NY", r.latitude, r.longitude, c)) continue;
-      m[c] = (m[c] || 0) + 1;
-    }
-    return Object.entries(m).sort((a, b) => b[1] - a[1]);
-  }, [nyRamps]);
+  const cityMap = ((precomputedCities as unknown) as Record<string, [string, number][]>)["new-york"] || [];
 
   const [selectedCity, setSelectedCity] = useState<string | null>(null);
   const filteredRamps = selectedCity ? nyRamps.filter(r => r.city?.trim() === selectedCity) : nyRamps;
