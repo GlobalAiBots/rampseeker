@@ -7,6 +7,7 @@ import { useState, useMemo } from "react";
 import Link from "next/link";
 import { unified, amenityLabels, isGenericName } from "@/data/all-ramps";
 import { newYorkLakes, getNewYorkLakeForRamp } from "@/data/new-york-lakes";
+import { isLikelyNonUS } from "@/lib/non-us-filter";
 import CletusAd from "@/components/CletusAd";
 import FeaturedArticle from "@/components/FeaturedArticle";
 import RampList from "@/components/RampList";
@@ -33,7 +34,12 @@ export default function NewYorkPage() {
 
   const cityMap = useMemo(() => {
     const m: Record<string, number> = {};
-    for (const r of nyRamps) { const c = r.city?.trim(); if (c && c.length > 1) m[c] = (m[c] || 0) + 1; }
+    for (const r of nyRamps) {
+      const c = r.city?.trim();
+      if (!c || c.length <= 1) continue;
+      if (isLikelyNonUS("NY", r.latitude, r.longitude, c)) continue;
+      m[c] = (m[c] || 0) + 1;
+    }
     return Object.entries(m).sort((a, b) => b[1] - a[1]);
   }, [nyRamps]);
 
