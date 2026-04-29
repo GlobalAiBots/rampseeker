@@ -90,9 +90,10 @@ const cities = Object.values(cityGroups)
 const outputFile = path.join(dataDir, "cities.json");
 fs.writeFileSync(outputFile, JSON.stringify(cities, null, 2));
 
-// Generate sitemap
+// Generate sitemap — uses state-prefixed slugs to match the new /cities/[slug] route.
+// Old bare-slug URLs are 301-redirected via next.config.mjs city-redirects.json.
 const sitemapLines = cities.map(c =>
-  `  <url><loc>https://www.rampseeker.com/cities/${c.citySlug}</loc><lastmod>${new Date().toISOString().slice(0, 10)}</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>`
+  `  <url><loc>https://www.rampseeker.com/cities/${c.stateSlug}-${c.citySlug}</loc><lastmod>${new Date().toISOString().slice(0, 10)}</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>`
 );
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${sitemapLines.join("\n")}\n</urlset>`;
 fs.writeFileSync(path.join(__dirname, "..", "public", "sitemap-cities.xml"), sitemap);

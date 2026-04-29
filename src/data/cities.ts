@@ -1,7 +1,8 @@
 import { unified, type UnifiedRamp } from "./all-ramps";
 
 export interface CityInfo {
-  slug: string;
+  slug: string; // state-prefixed: e.g. "florida-jacksonville", "illinois-jefferson-county"
+  citySlug: string; // bare city slug: "jacksonville"
   name: string;
   state: string;
   stateName: string;
@@ -29,9 +30,12 @@ function distance(lat1: number, lng1: number, lat2: number, lng2: number): numbe
 // Build city index from all ramps
 const cityMap = new Map<string, { ramps: UnifiedRamp[]; lat: number; lng: number; state: string }>();
 
+// Counties ARE included now — state-prefix in slug eliminates the cross-state
+// collision concern that previously made counties dangerous (Jefferson County
+// in 12 states all collapsed to one page). 1-ramp cities are also kept.
 for (const r of unified) {
   const city = r.city?.trim();
-  if (!city || city.includes("County") || /^\d/.test(city)) continue;
+  if (!city || /^\d/.test(city)) continue;
 
   const key = `${r.state}|${city}`;
   if (!cityMap.has(key)) {
@@ -47,8 +51,10 @@ export const cities: CityInfo[] = Array.from(cityMap.entries())
   .map(([, data]) => {
     const si = STATE_INFO[data.state] || { name: data.state, slug: slugify(data.state) };
     const cityName = data.ramps[0]?.city?.trim() || "";
+    const citySlug = slugify(cityName);
     return {
-      slug: slugify(cityName),
+      slug: `${si.slug}-${citySlug}`,
+      citySlug,
       name: cityName,
       state: data.state,
       stateName: si.name,
@@ -58,7 +64,7 @@ export const cities: CityInfo[] = Array.from(cityMap.entries())
       lng: data.lng,
     };
   })
-  .filter((c) => c.slug.length > 1)
+  .filter((c) => c.citySlug.length > 1 && c.ramps.length > 0)
   .sort((a, b) => b.ramps.length - a.ramps.length);
 
 export function getCityBySlug(slug: string): CityInfo | undefined {

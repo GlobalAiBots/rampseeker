@@ -11,19 +11,17 @@ import type { Metadata } from "next";
 
 const RampMap = dynamic(() => import("@/components/RampMap"), { ssr: false, loading: () => <div className="rounded-xl bg-gray-100 flex items-center justify-center" style={{ height: 350 }}><p className="text-gray-400 text-sm">Loading map...</p></div> });
 
-const eligibleCities = cities.filter((c) => c.ramps.length >= 2);
-
-// Pre-render only the top 100 cities by ramp count; rest render on-demand (ISR).
+// Pre-render the top 100 cities by ramp count; rest render on-demand (ISR).
 export function generateStaticParams() {
-  return [...eligibleCities]
+  return [...cities]
     .sort((a, b) => b.ramps.length - a.ramps.length)
     .slice(0, 100)
-    .map((c) => ({ city: c.slug }));
+    .map((c) => ({ slug: c.slug }));
 }
 export const dynamicParams = true;
 
-export async function generateMetadata({ params }: { params: Promise<{ city: string }> }): Promise<Metadata> {
-  const { city: slug } = await params;
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const { slug } = await params;
   const city = getCityBySlug(slug);
   if (!city) return { title: "Not Found" };
   return {
@@ -35,10 +33,10 @@ export async function generateMetadata({ params }: { params: Promise<{ city: str
   };
 }
 
-export default async function CityPage({ params }: { params: Promise<{ city: string }> }) {
-  const { city: slug } = await params;
+export default async function CityPage({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
   const city = getCityBySlug(slug);
-  if (!city || city.ramps.length < 2) notFound();
+  if (!city) notFound();
   const county = getCountyForCity(city.name);
 
   return (
@@ -160,7 +158,7 @@ export default async function CityPage({ params }: { params: Promise<{ city: str
       {/* Nearby Cities */}
       {(() => {
         const nearby = cities
-          .filter(c => c.slug !== city.slug && c.state === city.state && c.ramps.length >= 2)
+          .filter(c => c.slug !== city.slug && c.state === city.state && c.ramps.length >= 1)
           .map(c => ({ ...c, dist: Math.sqrt(Math.pow(c.lat - city.lat, 2) + Math.pow(c.lng - city.lng, 2)) }))
           .sort((a, b) => a.dist - b.dist)
           .slice(0, 5);
