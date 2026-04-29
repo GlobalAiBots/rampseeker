@@ -5,9 +5,10 @@ import CletusWidget from "@/components/CletusWidget";
 import CookieConsent from "@/components/CookieConsent";
 import Nav from "@/components/Nav";
 import { unified } from "@/data/all-ramps";
+import rampTotals from "@/data/state-ramp-totals.json";
 import "./globals.css";
 
-const totalRamps = unified.length.toLocaleString();
+const totalRamps = ((rampTotals as Record<string, number>)._network || unified.length).toLocaleString();
 
 export const metadata: Metadata = {
   title: `RampSeeker | Every Boat Ramp in America — ${totalRamps}+ Launch Sites`,

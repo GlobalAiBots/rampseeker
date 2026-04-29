@@ -74,7 +74,7 @@ export default function NewYorkPage() {
 
       {/* 2. BRIEF INTRO */}
       <section className="max-w-4xl mx-auto px-4 pt-8">
-        <p className="text-gray-600 leading-relaxed text-sm md:text-base">New York has 1,564 public boat ramps spanning the Atlantic coastline, the Finger Lakes, the Adirondack and Catskill regions, the Hudson and Mohawk rivers, and Lakes Erie and Ontario. Whether you&apos;re launching for striped bass on the Hudson, lake trout on Lake George, or smallmouth on Oneida Lake, the directory below shows ramps with parking, courtesy docks, and amenity details verified from state and federal sources.</p>
+        <p className="text-gray-600 leading-relaxed text-sm md:text-base">New York has 818 public boat ramps spanning the Atlantic coastline, the Finger Lakes, the Adirondack and Catskill regions, the Hudson and Mohawk rivers, and Lakes Erie and Ontario. Whether you&apos;re launching for striped bass on the Hudson, lake trout on Lake George, or smallmouth on Oneida Lake, the directory below shows ramps with parking, courtesy docks, and amenity details verified from state and federal sources.</p>
       </section>
 
       {/* 3. MAP */}

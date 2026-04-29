@@ -74,7 +74,7 @@ export default function MinnesotaPage() {
 
       {/* 2. BRIEF INTRO */}
       <section className="max-w-4xl mx-auto px-4 pt-8">
-        <p className="text-gray-600 leading-relaxed text-sm md:text-base">Minnesota&apos;s nickname understates the reality &mdash; the state actually has 11,842 lakes, supporting 1,523 public boat ramps from the Boundary Waters in the north to the bluff country in the south. Whether you&apos;re launching for muskie on Mille Lacs, walleye on Lake of the Woods, lake trout in the Boundary Waters, or smallmouth on the St. Croix, the directory below shows ramps with parking, accessibility details, and launch fees verified from state, federal, and county sources.</p>
+        <p className="text-gray-600 leading-relaxed text-sm md:text-base">Minnesota&apos;s nickname understates the reality &mdash; the state actually has 11,842 lakes, supporting 1,244 public boat ramps from the Boundary Waters in the north to the bluff country in the south. Whether you&apos;re launching for muskie on Mille Lacs, walleye on Lake of the Woods, lake trout in the Boundary Waters, or smallmouth on the St. Croix, the directory below shows ramps with parking, accessibility details, and launch fees verified from state, federal, and county sources.</p>
       </section>
 
       {/* 3. MAP */}

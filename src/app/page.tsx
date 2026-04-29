@@ -6,6 +6,7 @@ import { useState, useMemo } from "react";
 import Link from "next/link";
 import { unified } from "@/data/all-ramps";
 import { lakes } from "@/data/lakes";
+import rampTotals from "@/data/state-ramp-totals.json";
 import AdSlot from "@/components/AdSlot";
 import CletusAd from "@/components/CletusAd";
 import NearMeButton from "@/components/NearMeButton";
@@ -99,7 +100,7 @@ export default function Home() {
     return results.slice(0, 8);
   }, [query]);
 
-  const rampCount = unified.length.toLocaleString();
+  const rampCount = ((rampTotals as Record<string, number>)._network || unified.length).toLocaleString();
 
   const faqItems = [
     { q: "Are most public boat ramps free to use?", a: "Most state and county boat ramps are free. Federal ramps (USACE, National Park Service) often charge $5-15 per launch or offer annual passes. Check the listing's amenity details on RampSeeker — fee information is included where verified." },
@@ -136,7 +137,7 @@ export default function Home() {
 
       {/* HERO — Full-bleed dramatic */}
       <section className="relative min-h-[50vh] md:min-h-[70vh] flex flex-col items-center justify-center overflow-hidden">
-        <img src="/images/hero-boat-ramp-sunrise.jpg" alt={`Boat ramp at sunrise on a calm lake — find ${unified.length.toLocaleString()}+ boat ramps across America on RampSeeker`} className="absolute inset-0 w-full h-full object-cover" loading="eager" />
+        <img src="/images/hero-boat-ramp-sunrise.jpg" alt={`Boat ramp at sunrise on a calm lake — find ${rampCount}+ boat ramps across America on RampSeeker`} className="absolute inset-0 w-full h-full object-cover" loading="eager" />
         <div className="absolute inset-0" style={{ background: 'linear-gradient(to top, rgba(11,30,51,0.85) 0%, rgba(11,30,51,0.4) 50%, transparent 100%)' }} />
 
         <div className="relative z-10 text-center px-4 max-w-3xl mx-auto pt-8">
@@ -237,7 +238,7 @@ export default function Home() {
         <h1 className="font-[Cabin] text-3xl md:text-4xl font-bold text-charcoal mb-6 leading-tight">How to Find a Boat Ramp Near You: The Complete Guide</h1>
         <div className="text-gray-700 leading-relaxed space-y-5">
           <p>Whether you&apos;re trailering a 16-foot bass boat to a Tuesday morning fishing spot or hauling a 25-foot cruiser to a holiday weekend on the lake, finding the right boat ramp is the difference between a great day on the water and a frustrating one spent circling parking lots. Not all ramps are equal &mdash; surface condition, courtesy dock availability, parking depth, and crowd levels vary dramatically from one launch to the next, even on the same body of water.</p>
-          <p>RampSeeker tracks more than 29,000 public boat ramps across 46 states, with GPS coordinates, amenity details, and local notes for every launch we list. Our directory pulls from federal, state, and municipal sources &mdash; Army Corps of Engineers facilities, state DNR launches, county parks, and city-managed ramps &mdash; so you&apos;re seeing the same launches local boaters use, not just the ones marketed online.</p>
+          <p>RampSeeker tracks more than 21,000 public boat ramps across 46 states, with GPS coordinates, amenity details, and local notes for every launch we list. Our directory pulls from federal, state, and municipal sources &mdash; Army Corps of Engineers facilities, state DNR launches, county parks, and city-managed ramps &mdash; so you&apos;re seeing the same launches local boaters use, not just the ones marketed online.</p>
           <p>Below is RampSeeker&apos;s directory of boat ramps organized by state. Continue reading below the directory for the complete guide to evaluating ramp conditions, understanding launch fees and permits, choosing between concrete and gravel ramps, and reading the unwritten rules every experienced boater knows about ramp etiquette.</p>
         </div>
       </article>

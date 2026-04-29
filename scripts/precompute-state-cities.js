@@ -26,6 +26,7 @@ const booleanPointInPolygon = require("@turf/boolean-point-in-polygon").default;
 const STATES_GEOJSON_PATH = path.join(__dirname, "data", "us-states.geojson");
 const RAMP_DATA_DIR = path.join(__dirname, "..", "src", "data");
 const OUTPUT_PATH = path.join(__dirname, "..", "src", "data", "state-cities-prefiltered.json");
+const TOTALS_OUTPUT_PATH = path.join(__dirname, "..", "src", "data", "state-ramp-totals.json");
 
 // Map US Census state name -> our route slug
 const NAME_TO_SLUG = {
@@ -110,23 +111,35 @@ const rampFiles = fs.readdirSync(RAMP_DATA_DIR).filter((f) => /-ramps\.json$/.te
 console.log(`Processing ${rampFiles.length} state ramp files...`);
 
 const result = {};
+const stateTotals = {}; // polygon-validated total per state (all ramps, not just city-named)
+let networkTotal = 0;
 const stats = { total: 0, kept: 0, dropped: 0, missingCoords: 0, droppedBySlug: {} };
 
 for (const file of rampFiles) {
   const slug = file.replace("-ramps.json", "");
   const ramps = JSON.parse(fs.readFileSync(path.join(RAMP_DATA_DIR, file), "utf8"));
   const cityCounts = {};
+  let stateKept = 0;
   let kept = 0,
     dropped = 0;
+
   for (const r of ramps) {
     stats.total++;
     const lat = r.latitude;
     const lng = r.longitude;
+
+    // Polygon-validate every ramp (regardless of whether city is populated)
+    // for the state-totals output. Records without coords are kept (can't verify).
+    if (lat == null || lng == null) {
+      stateKept++;
+    } else if (isInStatePolygon(lat, lng, slug)) {
+      stateKept++;
+    }
+
     const city = (r.city || "").trim();
     if (!city || city.length <= 1) continue;
     if (lat == null || lng == null) {
       stats.missingCoords++;
-      // Coords missing → keep the city (we can't verify either way)
       cityCounts[city] = (cityCounts[city] || 0) + 1;
       kept++;
       continue;
@@ -142,16 +155,21 @@ for (const file of rampFiles) {
   stats.dropped += dropped;
   if (dropped > 0) stats.droppedBySlug[slug] = dropped;
 
-  // Sort desc by count and keep tuples — same shape state pages already use
+  stateTotals[slug] = stateKept;
+  networkTotal += stateKept;
+
   const sorted = Object.entries(cityCounts).sort((a, b) => b[1] - a[1]);
   result[slug] = sorted;
 }
 
 fs.writeFileSync(OUTPUT_PATH, JSON.stringify(result));
+fs.writeFileSync(TOTALS_OUTPUT_PATH, JSON.stringify({ _network: networkTotal, ...stateTotals }));
 const sizeKB = (fs.statSync(OUTPUT_PATH).size / 1024).toFixed(1);
+const totalsSizeKB = (fs.statSync(TOTALS_OUTPUT_PATH).size / 1024).toFixed(1);
 
 console.log();
 console.log("=== PRECOMPUTE COMPLETE ===");
+console.log("Polygon-validated network total: " + networkTotal);
 console.log(`Total ramps processed:  ${stats.total}`);
 console.log(`Kept (in declared state):  ${stats.kept}`);
 console.log(`Dropped (outside polygon): ${stats.dropped}`);
@@ -162,3 +180,4 @@ const dropEntries = Object.entries(stats.droppedBySlug).sort((a, b) => b[1] - a[
 for (const [s, n] of dropEntries.slice(0, 10)) console.log(`  ${s}: ${n}`);
 console.log();
 console.log(`Output: ${OUTPUT_PATH} (${sizeKB} KB)`);
+console.log(`Output: ${TOTALS_OUTPUT_PATH} (${totalsSizeKB} KB)`);

@@ -74,7 +74,7 @@ export default function IllinoisPage() {
 
       {/* 2. BRIEF INTRO */}
       <section className="max-w-4xl mx-auto px-4 pt-8">
-        <p className="text-gray-600 leading-relaxed text-sm md:text-base">Illinois has 1,451 public boat ramps spanning the Lake Michigan shoreline at Chicago and the North Shore, the Illinois and Mississippi river systems, the chain of lakes near McHenry, the Rock and Fox river corridors, and the strip-mine reservoirs of southern Illinois. Whether you&apos;re launching for muskie on the Chain O&apos; Lakes, walleye on the Mississippi, smallmouth on the Kankakee, or perch on Lake Michigan, the directory below shows ramps with parking, pool depth, and amenity details verified from state, federal, and county sources.</p>
+        <p className="text-gray-600 leading-relaxed text-sm md:text-base">Illinois has 941 public boat ramps spanning the Lake Michigan shoreline at Chicago and the North Shore, the Illinois and Mississippi river systems, the chain of lakes near McHenry, the Rock and Fox river corridors, and the strip-mine reservoirs of southern Illinois. Whether you&apos;re launching for muskie on the Chain O&apos; Lakes, walleye on the Mississippi, smallmouth on the Kankakee, or perch on Lake Michigan, the directory below shows ramps with parking, pool depth, and amenity details verified from state, federal, and county sources.</p>
       </section>
 
       {/* 3. MAP */}
