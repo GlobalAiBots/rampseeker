@@ -40,54 +40,54 @@ export default function NewYorkPage() {
   const [selectedCity, setSelectedCity] = useState<string | null>(null);
   const filteredRamps = selectedCity ? nyRamps.filter(r => r.city?.trim() === selectedCity) : nyRamps;
 
+  const faqItems = [
+    { q: "Do I need a permit to launch a boat in New York?", a: "Most state-managed and county boat ramps are free. Some Adirondack and Catskill ramps require a free state pass for parking — register through the DEC website. Federal launches on the Hudson and Lake Champlain may charge daily or annual fees." },
+    { q: "What's the best fishing on a New York boat ramp?", a: "It depends on the region. Striped bass on the Hudson estuary spring and fall, lake trout and salmon in the Finger Lakes year-round, walleye on Oneida Lake, smallmouth on Lake George, king salmon on Lake Ontario tributaries September through November." },
+    { q: "Do I need a fishing license to fish from my boat in New York?", a: "Yes, anyone 16 or older needs a New York freshwater fishing license. Saltwater fishing requires the free Marine Registry separate from the freshwater license. Both are issued through the DEC." },
+    { q: "When does the boating season open in New York?", a: "Inland lakes are typically launchable mid-April through late October. Adirondack lakes ice out 2-3 weeks later than southern New York. Long Island and Hudson estuary access stays year-round for hardy anglers." },
+    { q: "Are New York boat ramps crowded on weekends?", a: "Yes, particularly Saratoga Lake, Oneida Lake, Lake George, and Henderson Harbor on summer weekends. Plan to arrive at sunrise on holiday weekends. RampSeeker's directory includes alternates within 30 minutes if your first choice is full." },
+  ];
+
   return (
     <div>
+      {/* JSON-LD */}
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
         "@context": "https://schema.org", "@type": "FAQPage",
-        mainEntity: [
-          { "@type": "Question", name: "How many boat ramps are in New York?", acceptedAnswer: { "@type": "Answer", text: `There are ${nyRamps.length} boat ramps in New York. RampSeeker has mapped every public boat launch across the state.` } },
-          { "@type": "Question", name: "Are boat ramps in New York free?", acceptedAnswer: { "@type": "Answer", text: "Many boat ramps in New York are free, especially those managed by state parks or the Army Corps of Engineers. Some may charge a launch fee." } },
-          { "@type": "Question", name: "How do I find boat ramps near me in New York?", acceptedAnswer: { "@type": "Answer", text: `Use RampSeeker to browse all ${nyRamps.length} boat ramps in New York by city. Each listing includes a map and directions.` } },
-          { "@type": "Question", name: "Are boat ramps free?", acceptedAnswer: { "@type": "Answer", text: "Many public boat ramps are free, especially those run by state parks, Army Corps of Engineers, or county agencies. Some charge $5-15 per launch or require an annual pass." } },
-          { "@type": "Question", name: "Do you need a permit to use a boat ramp?", acceptedAnswer: { "@type": "Answer", text: "Most public boat ramps do not require a special permit. You need a valid boat registration and in some states a launch pass. Check local regulations before launching." } },
-          { "@type": "Question", name: "What time do boat ramps open?", acceptedAnswer: { "@type": "Answer", text: "Most public boat ramps are open 24 hours. Some state park ramps follow park hours, typically dawn to dusk. Pay ramps may have limited hours for fee collection." } },
-          { "@type": "Question", name: "Can you launch a kayak at a boat ramp?", acceptedAnswer: { "@type": "Answer", text: "Yes, most boat ramps accommodate kayaks and canoes. Some ramps have dedicated kayak launch areas. Smaller paddlecraft can also use informal put-ins and shoreline access points." } },
-        ],
+        mainEntity: faqItems.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })),
       }) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org", "@type": "Article",
+        headline: "Where to Launch in New York: Boating Season, Permits, and Local Rules",
+        description: "New York boating guide covering Finger Lakes, Adirondacks, Long Island estuaries, Great Lakes harbors, and Hudson/Mohawk corridors — plus seasonal conditions and state registration rules.",
+        author: { "@type": "Organization", name: "RampSeeker Editorial", url: "https://www.rampseeker.com" },
+        publisher: { "@type": "Organization", name: "RampSeeker", url: "https://www.rampseeker.com" },
+        datePublished: "2026-04-29",
+        dateModified: "2026-04-29",
+        mainEntityOfPage: { "@type": "WebPage", "@id": "https://www.rampseeker.com/new-york" },
+        articleSection: "Boating",
+        keywords: ["new york boat ramps", "finger lakes launches", "adirondack boat ramps", "lake george boating", "lake ontario salmon ramps", "hudson river boat launches", "new york fishing license"],
+      }) }} />
+
+      {/* 1. HERO */}
       <section className="py-16 md:py-24 text-center px-4 bg-cream" style={{ backgroundImage: "radial-gradient(circle at 20% 80%, rgba(30,96,145,0.06) 0%, transparent 50%)" }}>
         <p className="text-forest text-sm font-bold tracking-wider uppercase mb-3 font-[Cabin]">New York Boat Ramp Directory</p>
         <h1 className="font-[Cabin] text-4xl md:text-5xl font-bold text-charcoal leading-tight max-w-3xl mx-auto">Every Boat Ramp in New York</h1>
         <p className="text-gray-500 mt-4 max-w-lg mx-auto">{nyRamps.length}+ boat ramps across {newYorkLakes.length} lakes and waterways. Adirondacks paradise, Finger Lakes fishing, Great Lakes salmon runs, and Long Island striped bass.</p>
       </section>
 
-      
-
-      {/* State intro */}
-      <section className="max-w-4xl mx-auto px-4 pt-10 pb-2">
-        <div className="bg-white border border-gray-200 rounded-xl p-6 shadow-sm mb-6">
-          <h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-3">Boating in New York</h2>
-          <p className="text-gray-600 leading-relaxed text-sm">New York offers {nyRamps.length.toLocaleString()}+ public boat ramps across its waterways. From the Finger Lakes, Lake Ontario, and the Hudson River, the state provides excellent access for boaters, anglers, and kayakers. Popular catches include bass, walleye, and trout. <Link href="/blog/how-to-launch-a-boat-safely" className="text-water hover:underline">Learn how to launch safely</Link>.</p>
-        </div>
-        <div className="bg-blue-50 border border-blue-200 rounded-xl p-5 mb-6">
-          <h3 className="font-[Cabin] font-bold text-water mb-3">Tips for Boating in New York</h3>
-          <ul className="space-y-2 text-sm text-gray-700">
-            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> New York requires all motorized boats to be registered before launching at any public ramp.</li>
-            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> A fishing license is required for anyone 16+ fishing from a boat in New York.</li>
-            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Life jackets are required for all children under 13 on any watercraft in New York.</li>
-            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Most public ramps are first-come, first-served &mdash; arrive early on weekends and holidays.</li>
-            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Practice good <Link href="/blog/boat-ramp-etiquette" className="text-water hover:underline">ramp etiquette</Link>: prep in the parking area, not on the ramp.</li>
-          </ul>
-        </div>
-        <GearRecommendation section="launch-gear" />
+      {/* 2. BRIEF INTRO */}
+      <section className="max-w-4xl mx-auto px-4 pt-8">
+        <p className="text-gray-600 leading-relaxed text-sm md:text-base">New York has 1,564 public boat ramps spanning the Atlantic coastline, the Finger Lakes, the Adirondack and Catskill regions, the Hudson and Mohawk rivers, and Lakes Erie and Ontario. Whether you&apos;re launching for striped bass on the Hudson, lake trout on Lake George, or smallmouth on Oneida Lake, the directory below shows ramps with parking, courtesy docks, and amenity details verified from state and federal sources.</p>
       </section>
 
-      {/* State Map */}
+      {/* 3. MAP */}
       {(() => {
         const mapPins = nyRamps.map(r => ({ id: r.id, name: r.name, latitude: r.latitude, longitude: r.longitude, city: r.city }));
         const center: [number, number] = nyRamps.length > 0 ? [nyRamps.reduce((s, r) => s + r.latitude, 0) / nyRamps.length, nyRamps.reduce((s, r) => s + r.longitude, 0) / nyRamps.length] : [39.8, -98.5];
         return <div className="max-w-6xl mx-auto px-4 pt-8"><RampMap ramps={mapPins} center={center} zoom={7} height="350px" className="mb-4" /></div>;
       })()}
 
+      {/* 4. FEATURED RAMPS */}
       {featuredRamps.length > 0 && featuredLake && (
         <section className="max-w-6xl mx-auto px-4 pt-12 pb-4">
           <div className="flex items-center justify-between mb-4">
@@ -98,7 +98,7 @@ export default function NewYorkPage() {
             {featuredRamps.slice(0, 6).map((r) => (
               <Link key={r.id} href={`/ramps/${r.id}`} className="group block bg-white border border-gray-200 rounded-xl p-5 border-l-4 border-l-sunset shadow-sm hover:shadow-md hover:-translate-y-0.5 transition-all">
                 <h3 className="font-[Cabin] font-bold text-charcoal group-hover:text-water transition">{r.name}</h3>
-                <p className="text-gray-500 text-sm mt-1">{r.city || "New York"}{r.fee ? ` \u00b7 ${r.fee === "free" ? "Free" : r.fee}` : ""}</p>
+                <p className="text-gray-500 text-sm mt-1">{r.city || "New York"}{r.fee ? ` · ${r.fee === "free" ? "Free" : r.fee}` : ""}</p>
                 {r.amenities && r.amenities.length > 0 && (
                   <div className="flex flex-wrap gap-1 mt-2">
                     {r.amenities.slice(0, 3).map((a) => (
@@ -113,6 +113,7 @@ export default function NewYorkPage() {
         </section>
       )}
 
+      {/* 5. LAKES & WATERWAYS */}
       <section className="max-w-6xl mx-auto px-4 pt-8 pb-8">
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-4">New York Lakes &amp; Waterways</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
@@ -132,26 +133,56 @@ export default function NewYorkPage() {
         </div>
       </section>
 
+      {/* 6. CITIES SUB-GRID */}
       {cityMap.length > 0 && (
         <section className="max-w-6xl mx-auto px-4 pb-8"><h2 className="font-[Cabin] text-xl font-bold text-charcoal mb-4">Browse by City</h2>
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">{cityMap.slice(0, 16).map(([city, count]) => { const slug = city.toLowerCase().replace(/[^a-z0-9]+/g, "-"); return (<Link key={city} href={`/cities/${slug}`} className="text-left bg-white border border-gray-200 rounded-lg p-3 hover:border-water hover:shadow-sm transition"><p className="font-bold text-charcoal text-sm">{city}</p><p className="text-gray-400 text-xs">{count} ramp{count !== 1 ? "s" : ""}</p></Link>); })}</div>
         </section>
       )}
 
+      {/* 6.5 FULL DIRECTORY */}
       {selectedCity && (<div className="max-w-6xl mx-auto px-4 pb-4"><button onClick={() => setSelectedCity(null)} className="text-sm text-water hover:underline">&larr; Show all {nyRamps.length} ramps</button></div>)}
       <div id="ramp-list"><RampList ramps={filteredRamps} stateName="New York" /></div>
 
+      {/* 7. TIPS */}
+      <section className="max-w-4xl mx-auto px-4 pt-10 pb-2">
+        <div className="bg-blue-50 border border-blue-200 rounded-xl p-5 mb-6">
+          <h3 className="font-[Cabin] font-bold text-water mb-3">Tips for Boating in New York</h3>
+          <ul className="space-y-2 text-sm text-gray-700">
+            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> New York requires all motorized boats to be registered before launching at any public ramp.</li>
+            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> A fishing license is required for anyone 16+ fishing from a boat in New York.</li>
+            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Life jackets are required for all children under 13 on any watercraft in New York.</li>
+            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Most public ramps are first-come, first-served &mdash; arrive early on weekends and holidays.</li>
+            <li className="flex items-start gap-2"><span className="text-water mt-0.5">&#10003;</span> Practice good <Link href="/blog/boat-ramp-etiquette" className="text-water hover:underline">ramp etiquette</Link>: prep in the parking area, not on the ramp.</li>
+          </ul>
+        </div>
+      </section>
+
+      {/* 8. EDITORIAL */}
+      <article className="max-w-3xl mx-auto px-4 py-10">
+        <div className="text-gray-700 leading-relaxed space-y-5">
+
+          <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-2 mb-3">Where to Launch in New York</h2>
+          <p>New York&apos;s boating geography splits into five distinct regions, each with its own character. The Finger Lakes &mdash; Cayuga, Seneca, Keuka, Canandaigua &mdash; anchor central New York with deepwater lakes ideal for lake trout, smallmouth bass, and landlocked salmon. Lake George and the broader Adirondack region serve northern New York with cold, clear lakes and remote launches accessible by gravel road. Long Island&apos;s south shore and the Hudson estuary offer saltwater and brackish-water access for striped bass, fluke, and bluefish. Lake Erie and Lake Ontario harbors deliver Great Lakes-class fishing for walleye, king salmon, and steelhead. The Mohawk and Hudson river corridors carry boaters from the Erie Canal system through historic working waterways. Ramps at Saratoga Lake, Oneida Lake, Canandaigua Lake, and Henderson Harbor see the highest weekend traffic statewide.</p>
+
+          <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-8 mb-3">Boating Season and Conditions in New York</h2>
+          <p>Boating season in New York runs roughly mid-April through late October on inland lakes, with northern Adirondack lakes opening 2-3 weeks later due to ice-out. Long Island and Hudson estuary access stays effectively year-round, though winter conditions narrow practical use to October through April for cold-water anglers only. Weather changes fast on Lake Erie and Lake Ontario &mdash; both produce 6-8 foot seas with under three hours of warning when fronts move through, and Coast Guard rescues spike on summer afternoons when storms build over the lakes. The Hudson develops its own current and tide patterns; the lower river south of Albany is tidal and reverses with each flood. State DEC posts real-time water-level advisories during drought years, particularly on Finger Lakes feeder waters. Check NOAA marine forecasts before launching on any Great Lakes harbor or coastal estuary.</p>
+
+          <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mt-8 mb-3">Permits, Registration, and Local Rules in New York</h2>
+          <p>All motorized vessels in New York must carry current state registration, valid for three years and renewable through the DMV. Boats over 18 feet require navigation lights, a sound-producing device, and visual distress signals &mdash; Coast Guard Auxiliary inspections are free and recommended annually. New York requires a Boating Safety Certificate for operators born after January 1, 1978; this is being phased in across all ages by 2026, so confirm current rules before launching. A New York fishing license is required for anyone 16 or older fishing from any boat or shore in fresh water; saltwater fishing requires the free Marine Registry. Children under 12 must wear a Coast Guard-approved life jacket on any vessel under 65 feet under way. Some Adirondack and Catskill ramps require a free state pass for parking &mdash; check the launch listing before driving out.</p>
+        </div>
+      </article>
+
+      {/* 9. GEAR (3 items) */}
+      <section className="max-w-4xl mx-auto px-4 pb-4">
+        <GearRecommendation section="launch-gear" />
+      </section>
+
+      {/* 10. FAQ */}
       <section className="max-w-4xl mx-auto px-4 py-10">
         <h2 className="font-[Cabin] text-2xl font-bold text-charcoal mb-4">New York Boating FAQ</h2>
         <div className="space-y-2">
-          {[
-            { q: "How many boat ramps are in New York?", a: `RampSeeker lists ${nyRamps.length}+ boat ramps across New York, from the Adirondacks to Long Island Sound.` },
-            { q: "What are the best fishing lakes in New York?", a: "Lake George is the crown jewel of the Adirondacks. Oneida Lake is NY's premier walleye fishery. The Finger Lakes offer world-class lake trout and salmon. Lake Ontario has legendary salmon runs, and the St. Lawrence River is a musky paradise." },
-            { q: "Do I need a boating license in New York?", a: "Anyone born on or after May 1, 1996 must complete a NYS Boater Safety Course. All motorized vessels must be registered with the NY DMV." },
-          
-            { q: "Do I need a boating license in New York?", a: "New York requires a boating safety education certificate for boat operators. Check with the state's wildlife agency for specific age and horsepower requirements." },
-            { q: "When is the best time to boat in New York?", a: "Peak boating season in New York runs from May through October, but many waterways are accessible year-round. Spring and fall offer less crowded conditions and excellent fishing." },
-          ].map((f, i) => (
+          {faqItems.map((f, i) => (
             <details key={i} className="bg-white border border-gray-200 rounded-xl overflow-hidden shadow-sm group">
               <summary className="px-5 py-4 cursor-pointer font-semibold text-charcoal text-sm hover:text-water transition list-none flex items-center justify-between">{f.q}<svg className="w-4 h-4 text-gray-400 group-open:rotate-180 transition-transform flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" /></svg></summary>
               <div className="px-5 pb-4 text-gray-600 text-sm leading-relaxed">{f.a}</div>
