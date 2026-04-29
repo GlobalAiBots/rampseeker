@@ -8,10 +8,7 @@ const SECTIONS: Record<string, { title: string; items: Product[] }> = {
     title: "Essential Boat Launch Gear",
     items: [
       { name: "Trailer Guide Poles", desc: "Makes solo launching easy. Guide your boat onto the trailer every time, even in wind and current.", asin: "B0006MX56Y" },
-      { name: "Transom Tie-Down Straps", desc: "Keep your boat locked to the trailer on the highway. Rated for the drive, not just the driveway.", asin: "B001FZXYGS" },
       { name: "Universal Boat Drain Plug", desc: "The one piece of gear everyone forgets. Keep a spare in the truck.", asin: "B000LESQZW" },
-      { name: "Waterproof Phone Case", desc: "Touchscreen-compatible. Keep your phone dry while checking GPS at the ramp.", asin: "B09BYM4LKJ" },
-      { name: "LED Trailer Lights", desc: "Sealed, waterproof, and brighter than OEM. A night-launch essential.", asin: "B07RM3CVFK" },
       { name: "Wheel Bearing Grease", desc: "The #1 trailer failure point. Repack before every season with marine-grade grease.", asin: "B000CITK8S" },
     ],
   },
